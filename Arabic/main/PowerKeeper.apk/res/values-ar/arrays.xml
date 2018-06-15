@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hmode_app_groups">
+        <item>تخصيص</item>
+        <item>توفير شحن البطارية</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>وضع التحكم بدرجة الحرارة الافتراضية</item>
+        <item>وضع الأداء</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>وضع التحكم بدرجة الحرارة الحالية</item>
+        <item>وضع الأداء الحالي</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>الأداء</item>
+        <item>متوازن</item>
+    </string-array>
+</resources>

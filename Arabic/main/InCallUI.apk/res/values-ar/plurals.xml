@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">تم تسجيل %d مكالمة.</item>
+        <item quantity="zero">تم تسجيل %d مكالمة.</item>
+        <item quantity="one">تم تسجيل %d مكالمة.</item>
+        <item quantity="two">تم تسجيل %d مكالمات.</item>
+        <item quantity="few">تم تسجيل %d مكالمات.</item>
+        <item quantity="many">تم تسجيل %d مكالمة.</item>
+    </plurals>
+</resources>

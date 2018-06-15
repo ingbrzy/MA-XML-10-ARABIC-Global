@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">تم إلغاء النقل من %1$s</item>
+        <item quantity="zero">تم إلغاء الإستلام من %1$s</item>
+        <item quantity="one">تم إلغاء الإستلام من %1$s</item>
+        <item quantity="two">تم إلغاء الإستلام من %1$s</item>
+        <item quantity="few">تم إلغاء الإستلام من %1$s</item>
+        <item quantity="many">تم إلغاء الإستلام من %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">جارٍ إستلام %1$s ملف…</item>
+        <item quantity="zero">جارٍ إستلام %1$s ملف…</item>
+        <item quantity="one">جارٍ إستلام %1$s ملف…</item>
+        <item quantity="two">جارٍ إستلام %1$s ملفات…</item>
+        <item quantity="few">جارٍ إستلام %1$s ملفات…</item>
+        <item quantity="many">جارٍ إستلام %1$s ملف…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">تم إستلام الملفات من %1$s بنجاح</item>
+        <item quantity="zero">تم إستلام الملفات من %1$s بنجاح</item>
+        <item quantity="one">تم إستلام الملفات من %1$s بنجاح</item>
+        <item quantity="two">تم إستلام الملفات من %1$s بنجاح</item>
+        <item quantity="few">تم إستلام الملفات من %1$s بنجاح</item>
+        <item quantity="many">تم إستلام الملفات من %1$s بنجاح</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d ملف من %1$s</item>
+        <item quantity="zero">%2$d ملف من %1$s</item>
+        <item quantity="one">%2$d ملف من %1$s</item>
+        <item quantity="two">%2$d ملفات من %1$s</item>
+        <item quantity="few">%2$d ملفات من %1$s</item>
+        <item quantity="many">%2$d ملف من %1$s</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">%1$d عنصر</item>
+        <item quantity="two">%1$d عناصر</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصر</item>
+    </plurals>
+</resources>

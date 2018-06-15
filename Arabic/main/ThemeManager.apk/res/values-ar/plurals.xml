@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">تحديث متاح لـ %1$d سمة.</item>
+        <item quantity="zero">تحديث متاح لـ %1$d سمة.</item>
+        <item quantity="one">تحديث متاح لـ %1$d سمة.</item>
+        <item quantity="two">تحديثات متاحة لـ %1$d سمات.</item>
+        <item quantity="few">تحديثات متاحة لـ %1$d سمات.</item>
+        <item quantity="many">تحديث متاح لـ %1$d سمة.</item>
+    </plurals>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">تحديثات متاحة لـ %1$d سمة</item>
+        <item quantity="zero">تحديث متاح لـ %1$d سمة</item>
+        <item quantity="one">تحديث متاح لـ %1$d سمة</item>
+        <item quantity="two">تحديثات متاحة لـ %1$d سمات</item>
+        <item quantity="few">تحديثات متاحة لـ %1$d سمات</item>
+        <item quantity="many">تحديثات متاحة لـ %1$d سمة</item>
+    </plurals>
+</resources>

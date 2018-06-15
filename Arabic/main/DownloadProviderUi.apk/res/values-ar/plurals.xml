@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">تم ايجاد %d عنصر</item>
+        <item quantity="zero">تم ايجاد %d عنصر</item>
+        <item quantity="one">تم ايجاد %d عنصر</item>
+        <item quantity="two">تم ايجاد %d عناصر</item>
+        <item quantity="few">تم ايجاد %d عناصر</item>
+        <item quantity="many">تم ايجاد %d عنصر</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">حذف %d عنصر؟</item>
+        <item quantity="zero">حذف %d عنصر؟</item>
+        <item quantity="one">حذف %d عنصر؟</item>
+        <item quantity="two">حذف %d عناصر؟</item>
+        <item quantity="few">حذف %d عناصر؟</item>
+        <item quantity="many">حذف %d عنصر؟</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">تم ايجاد %d نتيجة</item>
+        <item quantity="zero">تم ايجاد %d نتيجة</item>
+        <item quantity="one">تم ايجاد ١ نتيجة</item>
+        <item quantity="two">تم ايجاد %d نتائج</item>
+        <item quantity="few">تم ايجاد %d نتائج</item>
+        <item quantity="many">تم ايجاد %d نتيجة</item>
+    </plurals>
+</resources>
