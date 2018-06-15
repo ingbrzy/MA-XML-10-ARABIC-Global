@@ -792,7 +792,6 @@
     <string name="left_icon">الأيقونة إلى اليسار</string>
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
-    <string name="list_delimeter">"، "</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة مرور النسخ الاحتياطية الكاملة لسطح المكتب أو إزالتها.</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة لسطح المكتب غير محمية في الوقت الحالي</string>
     <string name="local_backup_password_title">كلمة مرور احتياطية للكمبيوتر</string>
@@ -1049,7 +1048,6 @@
     <string name="power_remaining_charging_duration_only">يتبقى %1$s لشحن البطارية بالكامل</string>
     <string name="power_remaining_duration_only">يتبقى حوالي %1$s لإتمام شحن البطارية</string>
     <string name="power_remaining_duration_only_short">يتبقى %1$s</string>
-    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
