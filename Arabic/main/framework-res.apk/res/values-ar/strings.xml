@@ -570,7 +570,6 @@
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ إلغاء تأمين شريحة SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">حاول مرة أخرى خلال %1$d ثانية.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
