@@ -57,4 +57,8 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">حول البوصلة</string>
     <string name="app_description_content">تستخدم البوصلة في الملاحة والتوجيه وعرض الاتجاهات. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل إلغاء تثبيت التطبيق.</string>
+    <string name="open_perm_msg">تحتاج البوصلة إلى الوصول لمعلومات الموقع والكاميرا. وهذا ضروري لتحديد الإحداثيات وتوفير معاينات مباشرة. السماح؟</string>
+    <string name="open_perm_title">يتطلب أذونات</string>
+    <string name="cancel">إلغاء</string>
+    <string name="allow">السماح</string>
 </resources>

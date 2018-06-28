@@ -420,7 +420,7 @@
     <string name="daltonizer_mode_protanomaly">غطش الأحمر (الأحمر والأخضر)</string>
     <string name="daltonizer_mode_tritanomaly">غمش الأزرق (الأزرق والأصفر)</string>
     <string name="daltonizer_type_overridden">تم الاستبدال بـ %1$s</string>
-    <string name="data_connection_no_internet">لا يوجد إنترنت</string>
+    <string name="data_connection_no_internet">غير متصل بالإنترنت</string>
     <string name="data_saver">موفر البيانات</string>
     <string name="data_usage_disabled_dialog">"تم الوصول إلى حد الأقصى للبيانات الذي تم تعيينه. تم إيقاف بيانات الهاتف.
 
@@ -491,9 +491,9 @@
     <string name="drag_to_add_tiles">اسحب لإضافة عنوان</string>
     <string name="drag_to_remove_tiles">اسحب هنا للحذف</string>
     <string name="drive_mode_tip">وضع القيادة قيد التشغيل</string>
-    <string name="drive_mode_tip_idle">انقر للخروج من وضع القيادة</string>
-    <string name="drive_mode_tip_idle_notch">الخروج من وضع القيادة</string>
-    <string name="drive_mode_tip_notch">وضع القيادة مشغل</string>
+    <string name="drive_mode_tip_idle">وضع القيادة قيد التشغيل</string>
+    <string name="drive_mode_tip_idle_notch">وضع القيادة</string>
+    <string name="drive_mode_tip_notch">وضع القيادة</string>
     <string name="empty_shade_text">لا توجد إشعارات</string>
     <string name="enable_adb">‏تصحيح أخطاء USB</string>
     <string name="enable_adb_summary">‏وضع تصحيح الأخطاء عند توصيل USB</string>
@@ -792,6 +792,7 @@
     <string name="left_icon">الأيقونة إلى اليسار</string>
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
+    <string name="list_delimeter">"، "</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة مرور النسخ الاحتياطية الكاملة لسطح المكتب أو إزالتها.</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة لسطح المكتب غير محمية في الوقت الحالي</string>
     <string name="local_backup_password_title">كلمة مرور احتياطية للكمبيوتر</string>
@@ -935,12 +936,13 @@
     <string name="notification_all_categories">جميع الفئات</string>
     <string name="notification_app_settings">تخصيص: %1$s</string>
     <string name="notification_channel_alerts">تنبيهات</string>
+    <string name="notification_channel_battery">البطارية</string>
     <string name="notification_channel_controls_closed_accessibility">عناصر التحكم بالإشعارات لتطبيق %1$s متوقفة</string>
     <string name="notification_channel_controls_opened_accessibility">عناصر التحكم بالإشعارات لتطبيق %1$s مشغلة</string>
     <string name="notification_channel_disabled">لن تتلقى هذه الإشعارات بعد الآن.</string>
     <string name="notification_channel_general">رسائل عامة</string>
     <string name="notification_channel_location">الموقع</string>
-    <string name="notification_channel_screenbutton">زر الشاشة</string>
+    <string name="notification_channel_screenbutton">الأزرار</string>
     <string name="notification_channel_screenshot">لقطات شاشة</string>
     <string name="notification_channel_storage">التخزبن</string>
     <string name="notification_channel_switch_accessibility">السماح للإشعارات من هذه القناة</string>
@@ -951,7 +953,7 @@
     <string name="notification_group_collapse_button_text">تقليص</string>
     <string name="notification_header_default_channel">الإشعارات</string>
     <string name="notification_header_title">الإشعارات</string>
-    <string name="notification_hidden_by_policy_text">المحتويات المخفية بواسطة السياسة</string>
+    <string name="notification_hidden_by_policy_text">المحتويات مخفية</string>
     <string name="notification_hidden_text">يوجد لديك رسالة جديدة</string>
     <string name="notification_info_channel_disabled_text">لن تتلقى %2$s إشعارات من %1$s.</string>
     <string name="notification_info_channel_enabled_text">ستتلقى %2$s إشعارات من %1$s.</string>
@@ -1048,6 +1050,7 @@
     <string name="power_remaining_charging_duration_only">يتبقى %1$s لشحن البطارية بالكامل</string>
     <string name="power_remaining_duration_only">يتبقى حوالي %1$s لإتمام شحن البطارية</string>
     <string name="power_remaining_duration_only_short">يتبقى %1$s</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
@@ -1535,5 +1538,5 @@ d MMMM"</string>
     <string name="zen_priority_introduction">لن يتم إزعاجك بالأصوات والاهتزازات، باستثناء التنبيهات والتذكيرات وإشعارات الأحداث والمكالمات الواردة من جهات الاتصال التي تحددها. ستظل تسمع الموسيقى ومقاطع الفيديو والألعاب التي قمت بأختيارها.</string>
     <string name="zen_silence_introduction">سيؤدي هذا إلى حظر كل الأصوات والاهتزازات بما في ذلك المنبه والموسيقى والفيديوهات والألعاب.</string>
     <string name="zen_silence_introduction_voice">سيؤدي هذا إلى حظر كل الأصوات والاهتزازات بما في ذلك المنبه والموسيقى والفيديوهات والألعاب. ستظل قادرًا على إجراء مكالمات هاتفية.</string>
-    <string name="notification_num_channels">فئات الإشعارات: %d</string>
+    <string name="notification_num_channels">%d فئة إشعار</string>
 </resources>

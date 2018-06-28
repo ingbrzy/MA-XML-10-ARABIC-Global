@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة شاشة</string>
@@ -92,6 +93,7 @@
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">المزيد من التطبيقات</string>
     <string name="default_folder_title_security">النظام</string>
+    <string name="default_folder_title_services">الخدمات</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">أدوات</string>
     <string name="default_screen_preview_title">انقر لتعيين الشاشة الإفتراضية</string>
@@ -235,6 +237,7 @@
     <string name="open_personal_assistant_dialog_btn_cancel">إلغاء</string>
     <string name="open_personal_assistant_dialog_btn_confirm">إيقاف التشغيل</string>
     <string name="open_personal_assistant_dialog_desc">لن تتمكن من استخدام منصة التطبيقات والحصول على تحديثاته. إيقاف التشغيل الآن؟</string>
+    <string name="open_personal_assistant_dialog_desc_international">لن تتمكن من إستخدام بطاقات منصة التطبيقات (الأسهم، الاختصارات، إلخ.) وتلقي التحديثات بعد إيقاف تشغيل هذه الميزة.</string>
     <string name="open_personal_assistant_dialog_title">قم بإيقاف منصة التطبيقات</string>
     <string name="open_personal_assistant_title">منصة التطبيقات</string>
     <string name="out_of_space">لا توجد مساحة إضافية بهذه الشاشة</string>
@@ -342,6 +345,4 @@
     <string name="widget_gadget_player">موسيقى</string>
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
-    <string name="default_folder_title_services">الخدمات</string>
-    <string name="open_personal_assistant_dialog_desc_international">لن تتمكن من إستخدام بطاقات منصة التطبيقات (الأسهم، الاختصارات، إلخ.) وتلقي التحديثات بعد إيقاف تشغيل هذه الميزة.</string>
 </resources>

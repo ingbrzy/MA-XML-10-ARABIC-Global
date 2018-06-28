@@ -24,4 +24,20 @@
         <item quantity="few">%1$s ملاحظات</item>
         <item quantity="many">%1$s ملاحظة</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d ثانية متبقية</item>
+        <item quantity="zero">%d ثواني متبقية</item>
+        <item quantity="one">%d ثانية متبقية</item>
+        <item quantity="two">%d ثواني متبقية</item>
+        <item quantity="few">%d ثواني متبقية</item>
+        <item quantity="many">%d ثانية متبقية</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%s حرف</item>
+        <item quantity="zero">%s حرف</item>
+        <item quantity="one">%s حرف</item>
+        <item quantity="two">%s أحرف</item>
+        <item quantity="few">%s أحرف</item>
+        <item quantity="many">%s حرف</item>
+    </plurals>
 </resources>

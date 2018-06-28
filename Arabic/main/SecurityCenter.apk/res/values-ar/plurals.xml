@@ -189,12 +189,12 @@
         <item quantity="many">"%d دق "</item>
     </plurals>
     <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="zero">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-        <item quantity="two">%d mAh</item>
-        <item quantity="few">%d mAh</item>
-        <item quantity="many">%d mAh</item>
+        <item quantity="other">%d مللي أمبير</item>
+        <item quantity="zero">%d مللي أمبير</item>
+        <item quantity="one">%d مللي أمبير</item>
+        <item quantity="two">%d مللي أمبير</item>
+        <item quantity="few">%d مللي أمبير</item>
+        <item quantity="many">%d مللي أمبير</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>

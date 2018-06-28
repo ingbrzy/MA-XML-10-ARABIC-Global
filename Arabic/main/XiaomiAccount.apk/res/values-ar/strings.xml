@@ -4,7 +4,8 @@
     <string name="passport_notification_title">خطأ في تسجيل الدخول إلى %1$s</string>
     <string name="passport_login_prompt">حساب Mi واحد لجميع خدمات Mi.</string>
     <string name="passport_login_using_other_ways">طرق أخرى لتسجيل الدخول</string>
-    <string name="passport_login_title">تسجيل الدخول إلى حساب Mi</string>
+    <string name="passport_register_using_other_ways">طرق أخرى لإنشاء حساب</string>
+    <string name="passport_login_title">تسجيل الدخول لحساب Mi</string>
     <string name="passport_login">تسجيل الدخول</string>
     <string name="passport_relogin">تسجيل الدخول مرة أخرى</string>
     <string name="passport_skip_login">تخطي</string>
@@ -27,6 +28,7 @@
     <string name="passport_reg_success_summary">%1$s مربوط بحسابك. يمكنك استخدامه لتسجيل الدخول أو إعادة تعيين كلمة المرور.</string>
     <string name="passport_re_register">سجل مرة أخرى</string>
     <string name="passport_register">إنشاء حساب</string>
+    <string name="passport_new_user_register">إنشاء حساب</string>
     <string name="passport_vcode_sms_send_prompt">إرسال رمز التحقق إلى %s</string>
     <string name="passport_get_verify_code">الحصول على رمز</string>
     <string name="passport_re_get_verify_code">الحصول على الرمز مرة أخرى</string>
@@ -72,6 +74,7 @@
     <string name="passport_skip_register">تخطي التسجيل</string>
     <string name="passport_account_not_activated">لم يتم تفعيل الحساب</string>
     <string name="passport_change_account"><u>تغيير الحساب</u></string>
+    <string name="passport_btn_change_account">تغيير الحساب</string>
     <string name="passport_register_account_verified_confirm">تم التحقق من الحساب</string>
     <string name="passport_register_account_goto_email">الذهاب الى البريد الوارد</string>
     <string name="passport_error_dup_email">البريد الإلكتروني الذي أدخلته مرتبط مسبقا بحساب آخر.</string>
@@ -91,6 +94,7 @@
     <string name="passport_input_password_hint">ادخل كلمة المرور</string>
     <string name="passport_input_captcha_hint">أدخل الرمز</string>
     <string name="passport_input_vcode_hint">أدخل رمز التحقق</string>
+    <string name="passport_input_voice_hint">أدخل رمز الصوت</string>
     <string name="passport_email">عنوان البريد الإلكتروني</string>
     <string name="passport_vcode_prompt_long">أدخل رمز التحقق</string>
     <string name="passport_input_phone_hint">أدخل رقم الهاتف</string>
@@ -103,7 +107,8 @@
     <string name="passport_error_email">عنوان البريد الإلكتروني الذي أدخلته غير صالح</string>
     <string name="passport_error_empty_pwd">ادخل كلمة المرور الخاصة بك</string>
     <string name="passport_error_illegal_pwd">كلمة المرور غير صالحة</string>
-    <string name="passport_error_empty_captcha_code">أدخل رمز captcha</string>
+    <string name="passport_error_empty_captcha_code">أدخل رمز الحماية</string>
+    <string name="passport_error_empty_voice_code">أدخل رمز الحماية</string>
     <string name="passport_error_empty_vcode">أدخل رمز التحقق</string>
     <string name="passport_i_know">متابعة</string>
     <string name="passport_retry">حاول مجدداً</string>
@@ -116,6 +121,7 @@
     <string name="passport_yes">نعم</string>
     <string name="passport_no">لا</string>
     <string name="passport_continue">متابعة</string>
+    <string name="passport_Resend">إعادة إرسال</string>
     <string name="passport_loading">جار التحميل…</string>
     <string name="passport_reging">جارٍ إنشاء الحساب…</string>
     <string name="passport_checking_account">جارٍ التحقق من كلمة المرور…</string>
@@ -147,6 +153,7 @@
     <string name="passport_error_user_name">اسم المستخدم الذي أدخلته غير صالح.</string>
     <string name="passport_access_denied">تم رفض الدخول</string>
     <string name="passport_wrong_captcha">الرمز الذي أدخلته غير صحيح</string>
+    <string name="passport_wrong_voice">الرمز الذي أدخلته غير صحيح</string>
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
     <string name="passport_error_device_id">لا يمكن الحصول على هوية الجهاز</string>
     <string name="passport_error_invalid_dev_id">هوية الجهاز غير صالحة.</string>
@@ -203,6 +210,12 @@
     <string name="passport_get_innetdate_agree">التحقق</string>
     <string name="passport_get_innetdate_disagree">لا</string>
     <string name="passport_extra_gdpr_license">إنشاء حساب Mi يعني أنك توافق على أن Xiaomi سوف تجمع وتعالج وتستخدم بياناتك الشخصية، بما في ذلك بيانات التحقق (مثل: رموز التحقق)، وبيانات الواجهة الثانية (مثل: معلومات عن الطرق التي تستخدم بها الواجهة الثانية، والمعرفات المستخدمة في الواجهة الأولى والثانية)، وغيرها من البيانات المحددة في سياسة الخصوصية لدينا. يرجى الرجوع إلى سياسة الخصوصية للتعرف على كيفية معالجة البيانات الشخصية واستخدامها.</string>
+    <string name="passport_talkback_image_captcha">رمز التحقق من الصورة</string>
+    <string name="passport_talkback_voice_captcha">تشغيل رمز التحقق الصوتي</string>
+    <string name="passport_talkback_switch_voice_captcha">التبديل إلى رمز التحقق الصوتي</string>
+    <string name="passport_talkback_switch_image_captcha">التبديل إلى رمز التحقق من الصورة</string>
+    <string name="passport_license_info_open">التفاصيل</string>
+    <string name="passport_license_info_collapse">تقليص</string>
     <string name="search_app_name">حساب Mi</string>
     <string name="search_mi_account">حساب Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud،إعداد الحساب،معلومات دفع Mi،تسجيل الخروج</string>
@@ -334,7 +347,7 @@
     <string name="account_user_details">المعلومات الشخصية</string>
     <string name="account_security">حماية الحساب</string>
     <string name="account_mibi_center">رصيد Mi</string>
-    <string name="account_mibi_charge">Mi Credits Charge</string>
+    <string name="account_mibi_charge">شحن</string>
     <string name="account_mipay_info">دفع Mi</string>
     <string name="account_xiaomi_service">الخدمات</string>
     <string name="cloud_service">Mi Cloud</string>

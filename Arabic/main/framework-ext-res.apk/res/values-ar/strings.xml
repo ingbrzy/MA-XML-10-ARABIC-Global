@@ -113,10 +113,6 @@
     <string name="maml_component_customization_title">الإعدادات</string>
     <string name="default_name">الافتراضي</string>
     <string name="resource_select">تحديد</string>
-    <string name="group_name_contacts">جهات الاتصال</string>
-    <string name="group_name_friends">الأصدقاء</string>
-    <string name="group_name_family">العائلة</string>
-    <string name="group_name_coworkers">الزملاء</string>
     <string name="fp_nav_center_action_choose_dlg_title">تشغيل النقر السريعة</string>
     <string name="fp_nav_center_action_choose_dlg_msg">يمكنك العودة إلى الشاشة الرئيسية بالنقر الخفيف على زر الصفحة الرئيسية. يمكنك تشغيل وإيقاف هذه الميزة من الإعدادات > الإعدادات الإضافية > أزرار > انقر على زر الصفحة الرئيسية للرجوع إلى الشاشة الرئيسية.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">تشغيل</string>

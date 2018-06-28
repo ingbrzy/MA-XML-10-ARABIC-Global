@@ -315,7 +315,7 @@
     <string name="cta_dialog_title">اتصال الإنترنت</string>
     <string name="cta_dialog_msg">الحماية تحتاج إلى الاتصال بالإنترنت للحصول على التحديثات، وكذلك الوصول إلى الموقع لتعمل بشكل طبيعي.</string>
     <string name="cta_settings">السماح بالاتصال بالإنترنت</string>
-    <string name="gdpr_msg"><Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصاءات استخدام بيانات الجوال، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> لدينا.</Data></string>
+    <string name="gdpr_msg"><Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الجوال، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> لدينا.</Data></string>
     <string name="app_name_na">استخدام البيانات</string>
     <string name="list_empty_text">فارغ</string>
     <string name="dialog_title_attention">تنبيه</string>
@@ -432,6 +432,7 @@
     <string name="managed_user_title">جميع التطبيقات المشغلة</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
     <string name="pref_traffic_manage_title">استخدام البيانات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_adjust_traffic_data">تعيين استخدام البيانات</string>
     <string name="pref_category_title_other">إعدادات إضافية</string>
@@ -955,6 +956,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"هذا التطبيق قد يبطئ
 جهازك"</string>
+    <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_ill_proc_handle_unstaill_title">إلغاء التثبيت %s؟</string>
     <string name="om_ill_proc_handle_uninstall_prompt">إلغاء تثبيت هذا التطبيق لإصلاح مشاكل إستخدام البطارية.</string>
     <string name="om_ill_proc_type_wakelock_title">هذا التطبيق يقوم بحظر وضع السكون ويستنزف البطارية</string>
@@ -1013,6 +1015,7 @@
     <string name="usage_type_data_send">بيانات الجوال المرسلة</string>
     <string name="usage_type_no_coverage">الوقت بدون إشارة</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">أندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="power_screen">الشاشة</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1358,6 +1361,7 @@
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_networkassistants_unit_kb">ك.ب</string>
@@ -1732,6 +1736,7 @@
     <string name="card_main_deepclean_wechat_action">حذف</string>
     <string name="card_main_sectool_title">الأدوات</string>
     <string name="card_main_monthreport_action">عرض</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">اختبار الشبكة</string>
     <string name="card_main_netcheck_summary">اختبار الاتصال لمشاكل الشبكة</string>
     <string name="card_main_netcheck_action">اختبار</string>
@@ -2266,6 +2271,10 @@
     <string name="screenrecord_not_find">قم بتثبيت أحدث إصدار من مسجل الشاشة وحاول مرة أخرى.</string>
     <string name="gamebox_qq_not_find">قم بتثبيت QQ وحاول مرة أخرى.</string>
     <string name="gamebox_wechat_not_find">قم بتثبيت WeChat وحاول مرة أخرى.</string>
+    <string name="gamebox_type_close">عدم الإظهار</string>
+    <string name="gamebox_type_float">اختصار ثابت</string>
+    <string name="gamebox_type_gesture">مرّر للإظهار</string>
+    <string name="notify_channel_name_security">System security</string>
     <string name="power_center_consume_rank">استخدام البطارية</string>
     <string name="power_center_custom_title">وضع البطارية</string>
     <string name="power_center_auto_shutdown_summary_default">قم بتشغيل جهازك أو إيقافه في وقت المحدد</string>

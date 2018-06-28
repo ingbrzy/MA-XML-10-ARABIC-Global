@@ -185,26 +185,26 @@
         <item quantity="many">لم يتم استخدام تطبيق&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
     </plurals>
     <plurals name="clean_long_msg_p1">
-        <item quantity="other">"يتم تنظيف %1$d ملف، وتم الانتهاء من %2$d 
+        <item quantity="other">"مسح %1$d ملف (%2$d%%)
 "</item>
-        <item quantity="zero">"يتم تنظيف %1$d ملف، وتم الانتهاء من %2$d 
+        <item quantity="zero">"مسح %1$d ملف (%2$d%%)
 "</item>
-        <item quantity="one">"يتم تنظيف %1$d ملف، وتم الانتهاء من %2$d 
+        <item quantity="one">"مسح %1$d ملف (%2$d%%)
 "</item>
-        <item quantity="two">"يتم تنظيف %1$d ملفات، وتم الانتهاء من %2$d 
+        <item quantity="two">"مسح %1$d ملفات (%2$d%%)
 "</item>
-        <item quantity="few">"يتم تنظيف %1$d ملفات، وتم الانتهاء من %2$d 
+        <item quantity="few">"مسح %1$d ملفات (%2$d%%)
 "</item>
-        <item quantity="many">"يتم تنظيف %1$d ملف، وتم الانتهاء من %2$d 
+        <item quantity="many">"مسح %1$d ملف (%2$d%%)
 "</item>
     </plurals>
     <plurals name="clean_long_msg_p2">
-        <item quantity="other">%1$d%% عنصر/ الوقت المتبقي: %2$s</item>
-        <item quantity="zero">%1$d%% عنصر/ الوقت المتبقي: %2$s</item>
-        <item quantity="one">%1$d%% عنصر/ الوقت المتبقي: %2$s</item>
-        <item quantity="two">%1$d%% عناصر/ الوقت المتبقي: %2$s</item>
-        <item quantity="few">%1$d%% عناصر/ الوقت المتبقي: %2$s</item>
-        <item quantity="many">%1$d%% عنصر/ الوقت المتبقي: %2$s</item>
+        <item quantity="other">%1$d عنصر لكل ثانية | الوقت المتبقي: %2$s</item>
+        <item quantity="zero">%1$d عنصر لكل ثانية | الوقت المتبقي: %2$s</item>
+        <item quantity="one">%1$d عنصر لكل ثانية | الوقت المتبقي: %2$s</item>
+        <item quantity="two">%1$d عناصر لكل ثانية | الوقت المتبقي: %2$s</item>
+        <item quantity="few">%1$d عناصر لكل ثانية | الوقت المتبقي: %2$s</item>
+        <item quantity="many">%1$d عنصر لكل ثانية | الوقت المتبقي: %2$s</item>
     </plurals>
     <plurals name="hour">
         <item quantity="other">%1$d ساعة</item>

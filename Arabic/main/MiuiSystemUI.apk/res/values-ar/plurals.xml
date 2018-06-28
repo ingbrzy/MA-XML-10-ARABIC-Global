@@ -96,6 +96,14 @@
         <item quantity="few">%s إشعارات آخر في الداخل.</item>
         <item quantity="many">%s إشعار آخر في الداخل.</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d فئة إشعار</item>
+        <item quantity="zero">%d فئة إشعار</item>
+        <item quantity="one">%d فئة إشعار</item>
+        <item quantity="two">%d فئات إشعار</item>
+        <item quantity="few">%d فئات إشعار</item>
+        <item quantity="many">%d فئة إشعار</item>
+    </plurals>
     <plurals name="notification_num_channels_desc">
         <item quantity="other">١ من %d فئة إشعار لهذا التطبيق</item>
         <item quantity="zero">١ من %d فئة إشعار لهذا التطبيق</item>

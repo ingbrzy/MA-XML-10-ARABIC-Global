@@ -32,10 +32,12 @@
     <string name="pref_front_mirror_title">تدوير الكاميرا الأمامية</string>
     <string name="pref_video_quality_title">جودة الفيديو</string>
     <string name="pref_video_hfr_title">فيديو HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
     <string name="pref_video_encoder_title">ترميز الفيديو</string>
     <string name="pref_video_encoder_entry_h264">H.264 توافق عالي</string>
     <string name="pref_video_encoder_entry_h265">H.265 أداء عالي</string>
@@ -409,7 +411,7 @@
     <string name="dual_camera_lens_covered_toast">العدسة مغطاة.</string>
     <string name="dual_camera_use_hint">تأكد من أن الشيء ليس أبعد من ٢ أمتار.</string>
     <string name="bokeh_use_hint">تأثير العمق</string>
-    <string name="back_bokeh_use_hint">"Make sure the object isn't further than 1.5 meters."</string>
+    <string name="back_bokeh_use_hint">تأكد من أن الشيء ليس أبعد من ١.٥ متر.</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">العدسة</string>
@@ -427,6 +429,7 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="simple_mode_button_text_square">إيقاف تشغيل المربع</string>
     <string name="face_beauty_smart">ذكي</string>
@@ -441,6 +444,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -533,6 +537,6 @@
     <string name="pref_camera_picturesize_entry_fullscreen">ملء الشاشة ١٦:٩</string>
     <string name="lens_dirty_detected_title_back">عدسة الكاميرا الخلفية متسخة</string>
     <string name="lens_dirty_detected_title_front">عدسة الكاميرا الأمامية متسخة</string>
-    <string name="lens_dirty_detected_content">"تم أكتشاف أن عدسة كاميرا جهازك متسخة،
-يرجى تنظيف عدسة الكاميرا للحصول على صورة أفضل."</string>
+    <string name="lens_dirty_detected_content">"يبدو أن عدسة الكاميرا غير نظيفة.
+قم بتنظيف العدسة لصور أفضل."</string>
 </resources>

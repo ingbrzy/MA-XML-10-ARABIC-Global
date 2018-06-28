@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">حذف %d ملف محدد؟</item>
+        <item quantity="zero">حذف %d ملف محدد؟</item>
+        <item quantity="one">حذف %d ملف محدد؟</item>
+        <item quantity="two">حذف %d ملفات محدد؟</item>
+        <item quantity="few">حذف %d ملفات محدد؟</item>
+        <item quantity="many">حذف %d ملف محدد؟</item>
+    </plurals>
     <plurals name="notif_receive_cancel">
         <item quantity="other">تم إلغاء النقل من %1$s</item>
         <item quantity="zero">تم إلغاء الإستلام من %1$s</item>
@@ -32,6 +40,14 @@
         <item quantity="few">%2$d ملفات من %1$s</item>
         <item quantity="many">%2$d ملف من %1$s</item>
     </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
     <plurals name="sender_file_num">
         <item quantity="other">%1$d عنصر</item>
         <item quantity="zero">%1$d عنصر</item>
@@ -39,5 +55,21 @@
         <item quantity="two">%1$d عناصر</item>
         <item quantity="few">%1$d عناصر</item>
         <item quantity="many">%1$d عنصر</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">تلقي %1$d ملف (%2$s)</item>
+        <item quantity="zero">تلقي %1$d ملف (%2$s)</item>
+        <item quantity="one">تلقي %1$d ملف (%2$s)</item>
+        <item quantity="two">تلقي %1$d ملفات (%2$s)</item>
+        <item quantity="few">تلقي %1$d ملفات (%2$s)</item>
+        <item quantity="many">تلقي %1$d ملف (%2$s)</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">إرسال %1$d ملف (%2$s)</item>
+        <item quantity="zero">إرسال %1$d ملف (%2$s)</item>
+        <item quantity="one">إرسال %1$d ملف (%2$s)</item>
+        <item quantity="two">إرسال %1$d ملفات (%2$s)</item>
+        <item quantity="few">إرسال %1$d ملفات (%2$s)</item>
+        <item quantity="many">إرسال %1$d ملف (%2$s)</item>
     </plurals>
 </resources>
