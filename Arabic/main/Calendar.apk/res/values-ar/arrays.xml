@@ -1,124 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="change_response_labels">
-        <item>هذا الحدث فقط</item>
-        <item>جميع الأحداث في هذه السلسلة</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>هذا الحدث فقط</item>
-        <item>هذا الحدث والأحداث المستقبلية</item>
-        <item>جميع الأحداث</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>الأول</item>
-        <item>الثاني</item>
-        <item>الثالث</item>
-        <item>الرابع</item>
-        <item>الأخير</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>دائمًا</item>
-        <item>فقط عندما يتم إصمات صوت الرنين</item>
-        <item>ابداً</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>المنطقة الافتراضية</item>
-        <item>السبت</item>
-        <item>الأحد</item>
-        <item>الإثنين</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>لا توجد إستجابة</item>
-        <item>نعم</item>
-        <item>ربما</item>
-        <item>لا</item>
-    </string-array>
-    <string-array name="timezone_labels">
-        <item>جزر مارشال</item>
-        <item>جزيرة ميدواي</item>
-        <item>هاواي</item>
-        <item>ألاسكا</item>
-        <item>توقيت المحيط الهادئ</item>
-        <item>تيخوانا</item>
-        <item>أريزونا</item>
-        <item>تشيهواهوا</item>
-        <item>التوقيت الجبلي</item>
-        <item>امريكا الوسطى</item>
-        <item>الوقت المركزي</item>
-        <item>مدينة مكسيكو</item>
-        <item>ساسكاتشوان</item>
-        <item>بوغوتا</item>
-        <item>التوقيت الشرقي</item>
-        <item>فنزويلا</item>
-        <item>التوقيت الأطلنطي (باربادوس)</item>
-        <item>التوقيت الأطلنطي (كندا)</item>
-        <item>ماناوس</item>
-        <item>سانتياغو</item>
-        <item>نيوفنلند</item>
-        <item>برازيليا</item>
-        <item>بوينس آيرس</item>
-        <item>الأرض الخضراء</item>
-        <item>مونتفيدو</item>
-        <item>وسط الأطلنطي</item>
-        <item>الأزور</item>
-        <item>جزر الرأس الأخضر</item>
-        <item>الدار البيضاء</item>
-        <item>لندن، دبلن</item>
-        <item>أمستردام، برلين</item>
-        <item>بلغراد</item>
-        <item>بروكسل</item>
-        <item>سراييفو</item>
-        <item>ويندهوك</item>
-        <item>وقت غرب أفريقيا</item>
-        <item>عمان، الأردن</item>
-        <item>أثينا، إسطنبول</item>
-        <item>بيروت، لبنان</item>
-        <item>القاهرة</item>
-        <item>هلسنكي</item>
-        <item>القدس</item>
-        <item>مينسك</item>
-        <item>هراري</item>
-        <item>بغداد</item>
-        <item>موسكو</item>
-        <item>الكويت</item>
-        <item>نيروبي</item>
-        <item>طهران</item>
-        <item>باكو</item>
-        <item>تبليسي</item>
-        <item>يريفان</item>
-        <item>دبي</item>
-        <item>كابل</item>
-        <item>إسلام آباد، كراتشي</item>
-        <item>أورالسك</item>
-        <item>يكاترينبورغ</item>
-        <item>كلكتا</item>
-        <item>سيريلانكا</item>
-        <item>كاتماندو</item>
-        <item>أستانا</item>
-        <item>رانغون</item>
-        <item>كراسنويارسك</item>
-        <item>بانكوك</item>
-        <item>بكين</item>
-        <item>هونغ كونغ</item>
-        <item>إيركوتسك</item>
-        <item>كوالا لمبور</item>
-        <item>بيرث</item>
-        <item>تايبيه</item>
-        <item>سيول</item>
-        <item>طوكيو، أوساكا</item>
-        <item>ياكوتسك</item>
-        <item>اديلايد</item>
-        <item>داروين</item>
-        <item>بريزبن</item>
-        <item>هوبارت</item>
-        <item>سيدني، كانبرا</item>
-        <item>فلاديفوستوك</item>
-        <item>غوام</item>
-        <item>ماجادان</item>
-        <item>أوكلاند</item>
-        <item>فيجي</item>
-        <item>تونغا</item>
-    </string-array>
     <string-array name="aquarius_info">
         <item>aquarius</item>
         <item>برج الدلو</item>
@@ -143,6 +24,10 @@
         <item>برج الجدي</item>
         <item>١٢/٢١ - ١/١٩</item>
     </string-array>
+    <string-array name="change_response_labels">
+        <item>هذا الحدث فقط</item>
+        <item>جميع الأحداث في هذه السلسلة</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>بعد</item>
         <item>قبل</item>
@@ -157,6 +42,15 @@
         <item>قبل ١ يوم</item>
         <item>قبل ٢ أيام</item>
         <item>قبل ١ اسبوع</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>هذا الحدث فقط</item>
+        <item>هذا الحدث والأحداث المستقبلية</item>
+        <item>جميع الأحداث</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>٤</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>الجوزاء</item>
@@ -181,10 +75,28 @@
         <item>٥</item>
         <item>الدوري الفرنسي الدرجة الأولى</item>
     </string-array>
+    <string-array name="ordinal_labels">
+        <item>الأول</item>
+        <item>الثاني</item>
+        <item>الثالث</item>
+        <item>الرابع</item>
+        <item>الأخير</item>
+    </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
         <item>برج الحوت</item>
         <item>٢/١٨ - ٣/٢٠</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>دائمًا</item>
+        <item>فقط عندما يتم إصمات صوت الرنين</item>
+        <item>ابداً</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>المنطقة الافتراضية</item>
+        <item>السبت</item>
+        <item>الأحد</item>
+        <item>الإثنين</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>أولاً</item>
@@ -270,6 +182,12 @@
         <item>شهر</item>
         <item>سنة</item>
     </string-array>
+    <string-array name="response_labels1">
+        <item>لا توجد إستجابة</item>
+        <item>نعم</item>
+        <item>ربما</item>
+        <item>لا</item>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>القوس</item>
         <item>برج القوس</item>
@@ -288,6 +206,94 @@
         <item>الثور</item>
         <item>برج الثور</item>
         <item>٤/١٩ - ٥/٢٠</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزر مارشال</item>
+        <item>جزيرة ميدواي</item>
+        <item>هاواي</item>
+        <item>ألاسكا</item>
+        <item>توقيت المحيط الهادئ</item>
+        <item>تيخوانا</item>
+        <item>أريزونا</item>
+        <item>تشيهواهوا</item>
+        <item>التوقيت الجبلي</item>
+        <item>امريكا الوسطى</item>
+        <item>الوقت المركزي</item>
+        <item>مدينة مكسيكو</item>
+        <item>ساسكاتشوان</item>
+        <item>بوغوتا</item>
+        <item>التوقيت الشرقي</item>
+        <item>فنزويلا</item>
+        <item>التوقيت الأطلنطي (باربادوس)</item>
+        <item>التوقيت الأطلنطي (كندا)</item>
+        <item>ماناوس</item>
+        <item>سانتياغو</item>
+        <item>نيوفنلند</item>
+        <item>برازيليا</item>
+        <item>بوينس آيرس</item>
+        <item>الأرض الخضراء</item>
+        <item>مونتفيدو</item>
+        <item>وسط الأطلنطي</item>
+        <item>الأزور</item>
+        <item>الرأس الأخضر</item>
+        <item>الدار البيضاء</item>
+        <item>لندن، دبلن</item>
+        <item>أمستردام، برلين</item>
+        <item>بلغراد</item>
+        <item>بروكسل</item>
+        <item>سراييفو</item>
+        <item>ويندهوك</item>
+        <item>وقت غرب أفريقيا</item>
+        <item>عمان، الأردن</item>
+        <item>أثينا، إسطنبول</item>
+        <item>بيروت، لبنان</item>
+        <item>القاهرة</item>
+        <item>هلسنكي</item>
+        <item>القدس</item>
+        <item>مينسك</item>
+        <item>هراري</item>
+        <item>بغداد</item>
+        <item>موسكو</item>
+        <item>الكويت</item>
+        <item>نيروبي</item>
+        <item>طهران</item>
+        <item>باكو</item>
+        <item>تبليسي</item>
+        <item>يريفان</item>
+        <item>دبي</item>
+        <item>كابل</item>
+        <item>إسلام آباد، كراتشي</item>
+        <item>أورالسك</item>
+        <item>يكاترينبورغ</item>
+        <item>كلكتا</item>
+        <item>سيريلانكا</item>
+        <item>كاتماندو</item>
+        <item>أستانا</item>
+        <item>رانغون</item>
+        <item>كراسنويارسك</item>
+        <item>بانكوك</item>
+        <item>بكين</item>
+        <item>هونغ كونغ</item>
+        <item>ماكاو</item>
+        <item>سنغافورة</item>
+        <item>إيركوتسك</item>
+        <item>كوالالمبور</item>
+        <item>بيرث</item>
+        <item>تايبيه</item>
+        <item>سيول</item>
+        <item>طوكيو، أوساكا</item>
+        <item>ياكوتسك</item>
+        <item>اديلايد</item>
+        <item>داروين</item>
+        <item>بريزبن</item>
+        <item>هوبارت</item>
+        <item>سيدني، كانبرا</item>
+        <item>فلاديفوستوك</item>
+        <item>غوام</item>
+        <item>ماجادان</item>
+        <item>أوكلاند</item>
+        <item>فيجي</item>
+        <item>تونغا</item>
     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>قبل ٣ ساعات</item>

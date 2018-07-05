@@ -8,14 +8,6 @@
         <item quantity="few">غفوة أخرى بعد %d دقائق.</item>
         <item quantity="many">غفوة أخرى بعد %d دقيقة.</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
-        <item quantity="zero">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
-        <item quantity="one">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
-        <item quantity="two">سيتم كتم صوت التنبيهات بعد %d دقائق</item>
-        <item quantity="few">سيتم كتم صوت التنبيهات بعد %d دقائق</item>
-        <item quantity="many">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
-    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">هل تريد حذف التنبيهات المحدّدة؟</item>
         <item quantity="zero">هل تريد حذف المنبه المحدّد؟</item>
@@ -48,22 +40,6 @@
         <item quantity="few">غفوة لمدة %d دقائق</item>
         <item quantity="many">غفوة لمدة %d دقيقة</item>
     </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d دقيقة</item>
-        <item quantity="zero">%1$d دقيقة</item>
-        <item quantity="one">١ دقيقة</item>
-        <item quantity="two">%1$d دقائق</item>
-        <item quantity="few">%1$d دقائق</item>
-        <item quantity="many">%1$d دقيقة</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d ثانية</item>
-        <item quantity="zero">%1$d ثانية</item>
-        <item quantity="one">١ ثانية</item>
-        <item quantity="two">%1$d ثواني</item>
-        <item quantity="few">%1$d ثواني</item>
-        <item quantity="many">%1$d ثانية</item>
-    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ساعة "</item>
         <item quantity="zero">"%1$d ساعة "</item>
@@ -84,6 +60,30 @@
         <item quantity="other">%1$d ثانية</item>
         <item quantity="zero">%1$d ثانية</item>
         <item quantity="one">%1$d ثانية</item>
+        <item quantity="two">%1$d ثواني</item>
+        <item quantity="few">%1$d ثواني</item>
+        <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
+        <item quantity="zero">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
+        <item quantity="one">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
+        <item quantity="two">سيتم كتم صوت التنبيهات بعد %d دقائق</item>
+        <item quantity="few">سيتم كتم صوت التنبيهات بعد %d دقائق</item>
+        <item quantity="many">سيتم كتم صوت التنبيهات بعد %d دقيقة</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">١ دقيقة</item>
+        <item quantity="two">%1$d دقائق</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="zero">%1$d ثانية</item>
+        <item quantity="one">١ ثانية</item>
         <item quantity="two">%1$d ثواني</item>
         <item quantity="few">%1$d ثواني</item>
         <item quantity="many">%1$d ثانية</item>

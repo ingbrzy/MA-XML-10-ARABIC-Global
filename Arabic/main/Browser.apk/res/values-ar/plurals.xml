@@ -40,6 +40,22 @@
         <item quantity="few">%d مطابقة</item>
         <item quantity="many">%d مطابقة</item>
     </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">آخر %d يوم</item>
+        <item quantity="zero">آخر %d يوم</item>
+        <item quantity="one">آخر %d يوم</item>
+        <item quantity="two">آخر %d أيام</item>
+        <item quantity="few">آخر %d أيام</item>
+        <item quantity="many">آخر %d يوم</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">تم العثور على %1$d من %2$d</item>
+        <item quantity="zero">تم العثور على %1$d من %2$d</item>
+        <item quantity="one">تم العثور على ١ نتيجة</item>
+        <item quantity="two">تم العثور على %1$d من %2$d</item>
+        <item quantity="few">تم العثور على %1$d من %2$d</item>
+        <item quantity="many">تم العثور على %1$d من %2$d</item>
+    </plurals>
     <plurals name="nav_screen_incognito_time">
         <item quantity="other">سيتم إنشاء صفحة جديدة تلقائيا بعد %d ثانية</item>
         <item quantity="zero">سيتم إنشاء صفحة جديدة تلقائيا بعد %d ثانية</item>
@@ -159,5 +175,21 @@
         <item quantity="two">صافٍ</item>
         <item quantity="few">صافٍ</item>
         <item quantity="many">صافٍ</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">آخر %d يوم</item>
+        <item quantity="zero">آخر %d يوم</item>
+        <item quantity="one">آخر %d يوم</item>
+        <item quantity="two">آخر %d أيام</item>
+        <item quantity="few">آخر %d أيام</item>
+        <item quantity="many">آخر %d يوم</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d من %2$d</item>
+        <item quantity="zero">%1$d من %2$d</item>
+        <item quantity="one">مطابقة واحدة</item>
+        <item quantity="two">%1$d من %2$d</item>
+        <item quantity="few">%1$d من %2$d</item>
+        <item quantity="many">%1$d من %2$d</item>
     </plurals>
 </resources>

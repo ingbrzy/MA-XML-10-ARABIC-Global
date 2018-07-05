@@ -192,6 +192,7 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_prefix">"إعادة توجيه: "</string>
@@ -396,7 +397,7 @@
     <string name="pref_show_blocked_messages_summary">إظهار رسائل الـ SMS المحظورة في قائمة المحادثات</string>
     <string name="pref_show_list_avatar_summary">إظهار صور الملف الشخصي ومعلومات جهة الإتصال في قائمة عرض</string>
     <string name="pref_show_photo_word_summary">تخصيص صورة تلقائياً لجهات الاتصال بدون صورة</string>
-    <string name="pref_show_sms_template_entry_summary">اكتشاف كلمة المرور لمرة واحدة في رسالة قصيرة (SMS)</string>
+    <string name="pref_show_sms_template_entry_summary">التعرف على كلمات المرور لمرة واحدة وعرض القوائم السريعة</string>
     <string name="pref_show_sms_template_in_summary">الكشف عن كلمات السر تلقائياُ لمرة واحدة في الرسائل النصية القصيرة</string>
     <string name="pref_show_sms_template_summary">قم بالتشغيل لاستخدام ميزات رسالة Mi الذكية، مثل رموز النسخ و التحقق من الرصيد، الخ.</string>
     <string name="pref_smart_messages_settings">رسائل ذكية</string>
@@ -543,6 +544,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
@@ -625,7 +627,7 @@
     <string name="title_show_blocked_messages">إظهار الرسائل المحظورة</string>
     <string name="title_show_list_avatar">إظهار صور الملف الشخصي</string>
     <string name="title_show_photo_word">تعيين صورة لجهة الاتصال</string>
-    <string name="title_show_sms_template">تحقق من الرسالة القصيرة للتعرف على رموز التحقق</string>
+    <string name="title_show_sms_template">الرسائل الذكية</string>
     <string name="title_show_sms_template_in">فحص رسالة SMS للتحقق من الـ OTP</string>
     <string name="title_timed_message_dialog">تعيين رسالة مؤقتة</string>
     <string name="title_use_gsm_alphabet">استخدام أبجدية GSM</string>

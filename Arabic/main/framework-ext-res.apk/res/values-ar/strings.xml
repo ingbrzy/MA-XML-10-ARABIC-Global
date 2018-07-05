@@ -92,7 +92,7 @@
     <string name="permdesc_manageLocationPolicy">السماح للتطبيق بإدارة سياسات الموقع وتحديد القواعد الخاصة بالتطبيق.</string>
     <string name="location_usage_restricted_title">تم تقييد موقع الخلفية</string>
     <string name="location_usage_restricted_body">انقر للسماح.</string>
-    <string name="fc_dialog_body">هل تريد ارسال تقرير عن خلل إلى Mi للتحليل؟ يتضمن هذا التقرير معلومات تعريف شخصية. سيستخدم تقريرك لمساعدة إصلاح هذا الخطأ ولن يشارك ابدا في أي سياق تجاري.</string>
+    <string name="fc_dialog_body">هل تريد ارسال تقرير عن الخلل إلى Mi للتحليل؟ يتضمن هذا التقرير معلومات تعريف الشخصية. سيستخدم تقريرك للمساعدة في إصلاح هذا الخطأ ولن يشارك ابدا في أي سياق تجاري.</string>
     <string name="fc_dialog_jump_to_preview">عرض الملخص</string>
     <string name="livetalk_not_enable">حزمة شحن الرصيد غير مفعلة</string>
     <string name="internal_livetalk_enable">استخدام حزمة شحن الرصيد للمكالمات المحلية</string>

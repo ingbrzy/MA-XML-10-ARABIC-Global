@@ -159,6 +159,7 @@
     <string name="add_device_admin_msg">هل تريد تنشيط تطبيق مشرف الجهاز؟</string>
     <string name="add_facerecoginition_text">إضافة بيانات الوجه</string>
     <string name="add_fingerprint_cancel_button_text">رجوع</string>
+    <string name="add_fingerprint_dirty_fingerprint">تأكد من أن سطح الشاشة نظيف. ثم حاول تسجيل بصمتك مرة أخرى.</string>
     <string name="add_fingerprint_done_msg">يمكنك الان إلغاء قفل الجهاز بإستخدام بصمة الإصبع الخاصة بك.</string>
     <string name="add_fingerprint_done_title">أنت جاهز للانطلاق!</string>
     <string name="add_fingerprint_edge_instruction_msg">حرك إصبعك حتى يتمكن المستشعر من تسجيل حواف بصماتك.</string>
@@ -167,6 +168,7 @@
     <string name="add_fingerprint_finished_button_text">تم</string>
     <string name="add_fingerprint_instruction_msg">يوجد مستشعر بصمة الإصبع في زر الصفحة الرئيسية من جهازك.</string>
     <string name="add_fingerprint_instruction_title">اضف بصمة إصبعك</string>
+    <string name="add_fingerprint_move_fast">ابقِ إصبعك على الشاشة لفترة أطول قليلاً</string>
     <string name="add_fingerprint_name_suggest_text">اسم بصمة الإصبع</string>
     <string name="add_fingerprint_put_finger_edge_msg">قم بتحريك إصبعك قليلا و ضعها على المستشعر مرة أخرى لإضافة كل الأجزاء المختلفة من بصمتك.</string>
     <string name="add_fingerprint_put_finger_msg">ضع إصبعك عدة مرات على المستشعر وارفعها عند شعورك بإهتزاز.</string>
@@ -1983,18 +1985,18 @@
     <string name="got_it">فهمت</string>
     <string name="gsm_to_wifi_connect_type_title">بطاقة GSM إلى شبكة Wi-Fi</string>
     <string name="gxzw_add_fingerprint_continue">المتابعة</string>
-    <string name="gxzw_add_fingerprint_edge_message">حرك إصبعك حتى يتمكن المستشعر من تسجيل حواف بصماتك.</string>
-    <string name="gxzw_add_fingerprint_edge_title">قم بتحريك إصبعك قليلا</string>
-    <string name="gxzw_add_fingerprint_finish">تم</string>
-    <string name="gxzw_add_fingerprint_indicate">اضغط بقوة هنا</string>
+    <string name="gxzw_add_fingerprint_edge_message">حرك إصبعك لتسجيل حواف بصمتك</string>
+    <string name="gxzw_add_fingerprint_edge_title">حرك اصبعك قليلاً</string>
+    <string name="gxzw_add_fingerprint_finish">تم!</string>
+    <string name="gxzw_add_fingerprint_indicate">اضغط على هذه المنطقة بخفة</string>
     <string name="gxzw_add_fingerprint_know">فهمت</string>
-    <string name="gxzw_add_fingerprint_message">حافظ على إصبعك والشاشة نظيفة</string>
+    <string name="gxzw_add_fingerprint_message">يجب أن تكون أصبعك والشاشة نظيفة</string>
     <string name="gxzw_add_fingerprint_move_indicate">قم بتحريك إصبعك قليلا</string>
-    <string name="gxzw_add_fingerprint_move_message">لا يمكن تسجيل الأجزاء المتبقية من بصمتك. قم بتحريك إصبعك قليلا</string>
-    <string name="gxzw_add_fingerprint_move_title">قم بتحريك إصبعك قليلا</string>
-    <string name="gxzw_add_fingerprint_put_finger_message">اضغط بقوه أكبر وارفع إصبعك عند الشعور بالاهتزاز. كرر ذلك عده مرات.</string>
-    <string name="gxzw_add_fingerprint_put_finger_title">اضغط بقوة أكبر وارفع إصبعك بعد الاهتزاز</string>
-    <string name="gxzw_add_fingerprint_title">إضافة بصمة الإصبع</string>
+    <string name="gxzw_add_fingerprint_move_message">حرك إصبعك لتسجيل جميع أجزاء بصمتك</string>
+    <string name="gxzw_add_fingerprint_move_title">حرك إصبعك قليلاً</string>
+    <string name="gxzw_add_fingerprint_put_finger_message">اضغط الشاشة وارفع إصبعك عند الشعور بالاهتزاز. كرر ذلك عده مرات.</string>
+    <string name="gxzw_add_fingerprint_put_finger_title">اضغط وارفع إصبعك بعد الاهتزاز</string>
+    <string name="gxzw_add_fingerprint_title">اضف بصمة إصبعك</string>
     <string name="handy_mode">وضع اليد الواحدة</string>
     <string name="handy_mode_enable">وضع اليد الواحدة</string>
     <string name="handy_mode_size">حجم الشاشة</string>
@@ -2256,6 +2258,7 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
@@ -2386,6 +2389,7 @@
     <string name="lockpassword_choose_your_pin_header">تعيين رمز PIN الخاص بك</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"تعيين رمز PIN 
  للواجهة الثانية"</string>
+    <string name="lockpassword_choose_your_pin_title">ادخل ٤-١٦ أرقام</string>
     <string name="lockpassword_confirm_for_second_user">قم بتأكيد كلمة مرور الواجهة الثانية الخاصة بك</string>
     <string name="lockpassword_confirm_passwords_dont_match">كلمات المرور غير متطابقة</string>
     <string name="lockpassword_confirm_pins_dont_match">رمز PIN غير متطابق</string>
@@ -2914,8 +2918,8 @@
     <string name="normal_smartcover_title">غطاء أمامي غير شفاف</string>
     <string name="not_battery_optimizing">عدم استخدام تحسين البطارية</string>
     <string name="not_installed">لم يتم التثبيت لهذا المستخدم</string>
-    <string name="notch_force_black_desc">التشغيل لتعتيم المنطقة حول البقعة</string>
-    <string name="notch_force_black_title">إخفاء البقعة</string>
+    <string name="notch_force_black_desc">قم بتشغيل الميزة لتعتيم المنطقة حول النتوء أعلى الشاشة</string>
+    <string name="notch_force_black_title">إخفاء النتوء (Notch)</string>
     <string name="notes_privacy_password_role_instruction">سيتم تخزين الملاحظات الخاصة بك هنا.</string>
     <string name="notification_app_settings_button">إعدادات الإشعارات</string>
     <string name="notification_badge_title">السماح بنقطة الإشعار</string>
@@ -3345,6 +3349,7 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -3639,7 +3644,7 @@
     <string name="screen_paper_mode_off_apps_title">عدم استخدام وضع القراءة</string>
     <string name="screen_paper_mode_range_title">الإعدادات</string>
     <string name="screen_paper_mode_set_apps_title">تطبيقات وضع القراءة</string>
-    <string name="screen_paper_mode_summary">تقليل انبعاثات الضوء الأزرق للشاشة</string>
+    <string name="screen_paper_mode_summary">يجعل وضع القراءة ألوان الشاشة أكثر دفئًا، مما يسمح لعينيك بالاسترخاء.</string>
     <string name="screen_paper_mode_time_summary">جدولة الوقت لتشغيل وايقاف وضع القراءة</string>
     <string name="screen_paper_mode_time_title">جدولة</string>
     <string name="screen_paper_mode_title">وضع القراءة</string>
@@ -4178,6 +4183,7 @@
     <string name="sim_lock_settings_summary_on">تم القفل</string>
     <string name="sim_lock_settings_title">قفل SIM</string>
     <string name="sim_management_title">شبكات الجوال وبطاقات SIM</string>
+    <string name="sim_management_title_singlesim">بطاقة SIM وشبكات الجوال</string>
     <string name="sim_multi_sims_summary">‏اختر شريحة SIM المفضلة لبيانات الجوّال.</string>
     <string name="sim_multi_sims_title">‏تم العثور على بطاقات SIM متعددة</string>
     <string name="sim_name_hint">‏إدخال اسم SIM</string>
@@ -4273,6 +4279,7 @@
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
     <string name="status_bar_key_position_custom">تغيير أوضاع الزر</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_screen_button_force_immersive_desc">مرّر لأعلى من أسفل الشاشة لإظهار أزرار الشاشة</string>
     <string name="status_bar_screen_button_key_force_immersive">إخفاء أزرار الشاشة</string>
     <string name="status_bar_screen_key_back">زر الرجوع</string>
@@ -4284,6 +4291,7 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>

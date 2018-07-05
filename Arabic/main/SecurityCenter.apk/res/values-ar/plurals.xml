@@ -213,12 +213,12 @@
         <item quantity="many">خلال %1$d دقيقة</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">تم حل %d مشكل في البطارية</item>
-        <item quantity="zero">تم حل %d مشكل في البطارية</item>
-        <item quantity="one">تم حل %d مشكل في البطارية</item>
+        <item quantity="other">تم حل %d مشكلة في البطارية</item>
+        <item quantity="zero">تم حل %d مشكلة في البطارية</item>
+        <item quantity="one">تم حل %d مشكلة في البطارية</item>
         <item quantity="two">تم حل %d مشاكل في البطارية</item>
         <item quantity="few">تم حل %d مشاكل في البطارية</item>
-        <item quantity="many">تم حل %d مشكل في البطارية</item>
+        <item quantity="many">تم حل %d مشكلة في البطارية</item>
     </plurals>
     <plurals name="quick_optimize_issue_found">
         <item quantity="other">تم العثور على %d مشكل في البطارية</item>

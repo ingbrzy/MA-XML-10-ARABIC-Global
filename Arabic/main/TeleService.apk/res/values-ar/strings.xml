@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">‏إشارة Wi-Fi تتكون من شريطين.</string>
     <string name="accessibility_wifi_three_bars">‏إشارة Wi-Fi تتكون من ثلاثة أشرطة.</string>
     <string name="accessibility_wifi_signal_full">‏إشارة Wi-Fi كاملة.</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="data_usage_uninstalled_apps">التطبيقات المزالة</string>
     <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمون الذين تمت إزالتهم</string>
     <string name="tether_settings_title_usb">‏ربط USB</string>
@@ -501,7 +502,7 @@
     <string name="sum_loading_settings">تحميل الإعدادات…</string>
     <string name="sum_hide_caller_id">الرقم مخفي في المكالمات الصادرة</string>
     <string name="sum_show_caller_id">الرقم معروض في المكالمات الصادرة</string>
-    <string name="sum_default_caller_id">Use default carrier settings to display my number in outgoing calls</string>
+    <string name="sum_default_caller_id">استخدم إعدادات شركة الاتصالات الافتراضية لعرض رقمي في المكالمات الصادرة</string>
     <string name="labelCW">انتظار المكالمة</string>
     <string name="sum_cw_enabled">أثناء المكالمة، إعلمني بالمكالمات الواردة</string>
     <string name="sum_cw_disabled">أثناء المكالمة، إعلامني بالمكالمات الواردة</string>
@@ -516,6 +517,7 @@
     <string name="sum_cfu_disabled">متوقف</string>
     <string name="set_time_period">تعيين فترة زمنية</string>
     <string name="all_day">" كل يوم "</string>
+    <string name="time_interval_char">:</string>
     <string name="time_start">" من "</string>
     <string name="time_start_hour">ساعة وقت البداية</string>
     <string name="time_start_minute">دقيقة وقت البداية</string>
@@ -529,12 +531,12 @@
     <string name="messageCFB">الرقم عندما يكون مشغول</string>
     <string name="sum_cfb_enabled">إعادة التوجيه إلى {0}</string>
     <string name="sum_cfb_disabled">مغلق</string>
-    <string name="disable_cfb_forbidden">"Your carrier doesn't support turning off call forwarding when your phone is busy."</string>
+    <string name="disable_cfb_forbidden">لا تدعم شركة اتصالاتك إيقاف تشغيل ميزة \"إعادة توجيه المكالمة\" عندما يكون هاتفك مشغول.</string>
     <string name="labelCFNRy">عند عدم الرد</string>
     <string name="messageCFNRy">الرقم عند عدم الرد</string>
     <string name="sum_cfnry_enabled">إعادة التوجيه إلى {0}</string>
     <string name="sum_cfnry_disabled">مغلق</string>
-    <string name="disable_cfnry_forbidden">"Your carrier doesn't support turning off call forwarding when your phone doesn't answer."</string>
+    <string name="disable_cfnry_forbidden">لا تدعم شركة اتصالاتك إيقاف تشغيل ميزة \"إعادة توجيه المكالمة\" عندما لا ترد على هاتفك.</string>
     <string name="labelCFNRc">عندما يتعذر الوصول إليه</string>
     <string name="messageCFNRc">الرقم عندما يتعذر الوصول إليه</string>
     <string name="sum_cfnrc_enabled">إعادة التوجيه إلى {0}</string>
@@ -684,9 +686,9 @@
     <string name="enable_disable_atr">تقارير حركة مرور المنطقة</string>
     <string name="atr_enable">تقارير مرور المنطقة تعمل</string>
     <string name="atr_disable">تقارير المرور المنطقة لا تعمل</string>
-    <string name="enable_disable_lafs">Local airport flight schedules</string>
-    <string name="lafs_enable">Local airport flight schedules are on</string>
-    <string name="lafs_disable">Local airport flight schedules are off</string>
+    <string name="enable_disable_lafs">جداول رحلات المطار المحلي</string>
+    <string name="lafs_enable">جداول رحلات المطار المحلي مشغل</string>
+    <string name="lafs_disable">جداول رحلات المطار المحلي متوقف</string>
     <string name="enable_disable_restaurants">المطاعم</string>
     <string name="restaurants_enable">المطاعم تعمل</string>
     <string name="restaurants_disable">المطاعم لا تعمل</string>
@@ -830,7 +832,7 @@
     <string name="card_title_MTcall_forwarding">تمت إعادة توجيه المكالمة الواردة</string>
     <string name="card_title_forwarded_MTcall">إعادة توجيه المكالمات الواردة</string>
     <string name="card_title_callonhold">وضع المكالمة قيد الانتظار</string>
-    <string name="card_title_callretrieved">Call retrieved</string>
+    <string name="card_title_callretrieved">تم استرداد المكالمة</string>
     <string name="card_title_multipartycall">مكالمة متعددة الأطراف</string>
     <string name="card_title_callonhold_released">تم تحرير المكالمة</string>
     <string name="card_title_forwardcheckreceived">التحقق من إعادة التوجيه</string>
@@ -955,6 +957,10 @@
     <string name="accessibility_settings_activity_title">إمكانية الوصول</string>
     <string name="status_hint_label_incoming_wifi_call">مكالمة Wi-Fi من</string>
     <string name="status_hint_label_wifi_call">مكالمة Wi-Fi</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="emergency_action_launch_hint">انقر مرة اخرى للفتح</string>
     <string name="message_decode_error">حدث خطأ أثناء فك شفرة الرسالة.</string>
     <string name="callFailed_cdma_activation">قامت بطاقة SIM بتفعيل خدمتك وتحديث قدرات تجوال هاتفك.</string>
@@ -984,6 +990,38 @@
     <string name="incall_status_dialed_mmi">جارٍ تشغيل تسلسل MMI…</string>
     <string name="search_app_name">الهاتف;تسجيل المكالمة;إعادة توجيه المكالمات;إعادة توجيه;إنتظار المكالمة;قائمة الحظر;رمز البلد;رمز المنطقة;رموز البلدان;رموز المنطقة;تسجيل المكالمات;تسجيل المكالمة;لوحة الاتصال;مكالمة;مكالمات;الهاتفية;VoIP;VoLTE;مكالمة فائتة;المكالمات الفائتة;SIP;T9;IP هاتفي;FDN</string>
     <string name="search_antispam_setting">قائمة الحظر</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_autoip_phone">@string/autoip_phone</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
     <string name="path_app_name">تطبيقات النظام/الهاتف</string>
     <string name="path_call_record_setting">تطبيقات النظام/الهاتف/تسجيل المكالمة</string>
     <string name="path_call_forwarding_settings">تطبيقات النظام/الهاتف/إعدادات إعادة توجيه مكالمة</string>
@@ -1468,11 +1506,11 @@
     <string name="voice_service_switch_title">استخدم خدمة مكالمة VoLTE</string>
     <string name="voice_service_switch_summary">قم بتشغيله لتتمكن من استخدام وظيفة مكالمة VoLTE في شبكات VoLTE</string>
     <string name="voice_service_warning_dialog_title">مكالمات VoLTE</string>
-    <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
+    <string name="voice_service_warning_dialog_body">"يدعم الجهاز اللوحي مكالمات VoLTE على شبكات 4G. تأكد من أن الشبكات التي يتصل بها جهازك تدعم هذه الميزة. يتم توفير خدمات VoLTE بواسطة شركة اتصالاتك. اتصل بشركة الاتصالات المحلية للحصول على معلومات حول دعم VoLTE في منطقتك.
 
-If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
+إذا رأيت أشارة _ في شريط الحالة لجهازك، فعلم انه لا يمكنك إجراء مكالمات VoLTE. إذا لم تتمكن من إجراء مكالمات أو استقبالها أو هناك انقطاع في المكالمات، فتأكد من توافق شبكتك مع VoLTE.
 
-This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
+ لا يحتوي هذا الجهاز اللوحي على سماعة الأذن. يمكنك التبديل إلى وضع \"دون استخدام اليدين\" أو استخدام سماعات الرأس لإجراء مكالمات."</string>
     <string name="voice_service_warning_dialog_cancel">إلغاء</string>
     <string name="voice_service_warning_dialog_ok_timer">فهمت (%d)</string>
     <string name="voice_service_warning_dialog_ok">فهمت</string>
@@ -1483,7 +1521,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
     <string name="preferred_wificall_title">تفضيلات الشبكة</string>
     <string name="wfcmode_wifi_only">شبكة Wi-Fi فقط</string>
     <string name="wfcmode_wifi_preferred">تفضيل شبكة Wi-Fi</string>
-    <string name="wfcmode_mobile_preferred">Prefer mobile networks</string>
+    <string name="wfcmode_mobile_preferred">شبكات الهاتف المفضلة</string>
     <string name="wifi_call_setting">مكالمات Wi-Fi</string>
     <string name="cloud_sim_enabled_preferred_network_summary">لا يمكن تغيير تفضيلات الشبكة أثناء استخدام تجوال Mi</string>
     <string name="cloud_sim_enabled_dual_4g_summary">لا يمكن إيقاف تشغيل Dual 4G أثناء استخدام تجوال Mi</string>

@@ -265,20 +265,20 @@
         <item quantity="many">يجب أن يتألف رمز PIN من %d رقم</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">يمكن أن يحتوي رمز PIN ما يصل الى %d رقم</item>
-        <item quantity="zero">يمكن أن يحتوي رمز PIN ما يصل الى %d رقم</item>
-        <item quantity="one">يمكن أن يحتوي رمز PIN ما يصل الى %d رقم</item>
-        <item quantity="two">يمكن أن يحتوي رمز PIN ما يصل الى %d أرقام</item>
-        <item quantity="few">يمكن أن يحتوي رمز PIN ما يصل الى %d أرقام</item>
-        <item quantity="many">يمكن أن يحتوي رمز PIN ما يصل الى %d رقم</item>
+        <item quantity="other">يمكنك إدخال ما يصل إلى %d رقم</item>
+        <item quantity="zero">يمكنك إدخال ما يصل إلى %d رقم</item>
+        <item quantity="one">يمكنك إدخال ما يصل إلى %d رقم</item>
+        <item quantity="two">يمكنك إدخال ما يصل إلى %d أرقام</item>
+        <item quantity="few">يمكنك إدخال ما يصل إلى %d أرقام</item>
+        <item quantity="many">يمكنك إدخال ما يصل إلى %d رقم</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">يجب أن يكون رمز PIN %d رقم</item>
-        <item quantity="zero">يجب أن يكون رمز PIN %d رقم</item>
-        <item quantity="one">يجب أن يكون رمز PIN %d رقم</item>
-        <item quantity="two">يجب أن يكون رمز PIN %d أرقام</item>
-        <item quantity="few">يجب أن يكون رمز PIN %d أرقام</item>
-        <item quantity="many">يجب أن يكون رمز PIN %d رقم</item>
+        <item quantity="other">أدخل %d رقم على الأقل</item>
+        <item quantity="zero">أدخل %d رقم على الأقل</item>
+        <item quantity="one">أدخل %d رقم على الأقل</item>
+        <item quantity="two">أدخل %d أرقام على الأقل</item>
+        <item quantity="few">أدخل %d أرقام على الأقل</item>
+        <item quantity="many">أدخل %d رقم على الأقل</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">قم بتوصيل %d نقطة على الاقل. حاول مجدداً.</item>

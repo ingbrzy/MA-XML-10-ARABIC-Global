@@ -15,6 +15,7 @@
     <string name="hide_touch_assistant_intro">إخفاء الكرة السريعة في التطبيقات المحددة.</string>
     <string name="hide_when_fullscreen">التحرك جانبا عند ملء الشاشة</string>
     <string name="hide_when_fullscreen_intro">التحرك جانبا عند الدخول في وضع ملء الشاشة.</string>
+    <string name="mi_wallet_summary">بطاقة المواصلات/دفع Mi/ بطاقة مفتاح</string>
     <string name="motion_behavior">الإيماءة المفضلة</string>
     <string name="name_alipay_payment_code">دفع Alipay</string>
     <string name="name_alipay_scan">ماسح Alipay</string>
@@ -22,6 +23,7 @@
     <string name="name_handy_mode">وضع اليد الواحدة</string>
     <string name="name_long_press_power_key">الضغط مطولاً على زر الطاقة</string>
     <string name="name_memory_clean">مسح ذاكرة التخزين المؤقت</string>
+    <string name="name_mi_wallet">محفظة Mi</string>
     <string name="name_music_next_song">الأغنية التالية</string>
     <string name="name_music_prev_song">الأغنية السابقة</string>
     <string name="name_music_toggle">تشغيل/ إيقاف مؤقت للأغنية</string>
@@ -53,6 +55,4 @@
     <string name="show_on_keyguard">عرض في شاشة القفل</string>
     <string name="theme_manager_not_supported">مدير السمات غير مدعوم.</string>
     <string name="three_seconds_auto_hide">التمسك بالحافة بعد ٣ ثوان من الخمول</string>
-    <string name="mi_wallet_summary">بطاقة المواصلات/دفع Mi/ بطاقة مفتاح</string>
-    <string name="name_mi_wallet">محفظة Mi</string>
 </resources>

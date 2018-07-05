@@ -48,6 +48,10 @@
         <item>الهاتف</item>
         <item>لوحة</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>عرض عمودي</item>
+        <item>عرض أفقي</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>صغير جدا</item>
         <item>صغير</item>
