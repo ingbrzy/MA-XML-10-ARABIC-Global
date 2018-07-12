@@ -1365,9 +1365,7 @@
     <string name="menu_text_antispam">قائمة الحظر</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_garbage_cleanup">المنظف</string>
-    <string name="menu_text_garbage_cleanup_danger">%s زائد</string>
     <string name="menu_text_power_manager">استخدام البطارية</string>
-    <string name="menu_text_power_percent_title">البطارية %s</string>
     <string name="menu_text_power_percent_title_default">البطارية</string>
     <string name="last_check_canceled">تم إلغاء الفحص السابق</string>
     <string name="examination_score_100">يبدو كل شيء جيداً!</string>
