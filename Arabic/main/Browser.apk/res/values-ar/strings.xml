@@ -732,8 +732,6 @@
     <string name="mw_snippets_disabled_generic_prompt">الحصول على محتويات متخصصة</string>
     <string name="mw_snippets_disabled_signed_out_instructions">سجل الدخول إلى Chrome للحصول على محتويات مخصصة مقترحة من Google.</string>
     <string name="mw_time_picker_dialog_am">ص</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">م</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">تعيين الوقت</string>

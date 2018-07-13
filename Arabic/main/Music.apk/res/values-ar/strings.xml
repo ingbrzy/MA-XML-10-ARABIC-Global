@@ -130,7 +130,6 @@
     <string name="continue_backup">متابعة</string>
     <string name="cp_info_first">"يتم توفير خدمة بث الموسيقى عبر الإنترنت
 بشكل أساسي بواسطة Ultimate Inc."</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">تعذر إنشاء طلب، حاول مجدداً.</string>
     <string name="create_playlist">إنشاء قائمة تشغيل</string>
     <string name="create_playlist_failure">تعذر إنشاء قائمة تشغيل</string>
@@ -227,7 +226,6 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
@@ -596,7 +594,6 @@
     <string name="priority_storage">استخدام بطاقة ذاكرة SD خارجية</string>
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
     <string name="pulluprefreshrecyclerview_loading_error">تعذر التحميل</string>
@@ -706,7 +703,6 @@
     <string name="start_to_check_new_version">جار التحقق من وجود تحديثات…</string>
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="stop">إيقاف</string>
     <string name="stop_backup">إيقاف</string>
     <string name="storage_internal">التخزين الداخلي</string>
@@ -768,7 +764,6 @@
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">الإصدار</string>
     <string name="video_play_cellular">جهازك غير متصل بشبكة Wi-Fi. استخدام بيانات الجوال؟</string>
     <string name="video_replay_btn">التشغيل مرة أخرى</string>

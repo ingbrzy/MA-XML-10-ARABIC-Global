@@ -68,7 +68,6 @@
     <string name="accessibility_wifi_two_bars">‏إشارة Wi-Fi تتكون من شريطين.</string>
     <string name="accessibility_wifi_three_bars">‏إشارة Wi-Fi تتكون من ثلاثة أشرطة.</string>
     <string name="accessibility_wifi_signal_full">‏إشارة Wi-Fi كاملة.</string>
-    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="data_usage_uninstalled_apps">التطبيقات المزالة</string>
     <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمون الذين تمت إزالتهم</string>
     <string name="tether_settings_title_usb">‏ربط USB</string>

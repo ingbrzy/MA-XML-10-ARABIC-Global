@@ -2268,7 +2268,6 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
-    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
@@ -3359,7 +3358,6 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
-    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -4292,7 +4290,6 @@
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
     <string name="status_bar_key_position_custom">تغيير أوضاع الزر</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_screen_button_force_immersive_desc">مرّر لأعلى من أسفل الشاشة لإظهار أزرار الشاشة</string>
     <string name="status_bar_screen_button_key_force_immersive">إخفاء أزرار الشاشة</string>
     <string name="status_bar_screen_key_back">زر الرجوع</string>
@@ -4304,7 +4301,6 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
-    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>
