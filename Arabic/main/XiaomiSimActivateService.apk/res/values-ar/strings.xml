@@ -118,10 +118,10 @@
     <string name="agree">السماح</string>
     <string name="privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات وحذف جميع بياناتك من الخوادم. لن تكون هناك مزامنة مع Mi Cloud، ورسالة Mi وميزات الرسائل الأخرى متاحة بعد ذلك. هل تريد إلغاء الترخيص على أية حال؟</string>
     <string name="privacy_revoke_failed_msg">التفعيل يتطلب منح الإذن ليتمكن تطبيق الرسائل الحصول على رقم هاتفك.</string>
-    <string name="waiting_sim_in_service">إنتظار مكالمات SIM في الخدمة</string>
-    <string name="checking_client">checking client env</string>
+    <string name="waiting_sim_in_service">إنتظار SIM في الخدمة</string>
+    <string name="checking_client">التحقق من العميل env</string>
     <string name="error_sim_not_in_service">بطاقة SIM ليست في الخدمة</string>
-    <string name="error_checking_client">client env error</string>
+    <string name="error_checking_client">خطأ في العميل env</string>
     <string name="error_network_io">خطأ بالشبكة</string>
     <string name="error_no_send_sms_permission">لا يوجد إذن لإرسال SMS</string>
 </resources>

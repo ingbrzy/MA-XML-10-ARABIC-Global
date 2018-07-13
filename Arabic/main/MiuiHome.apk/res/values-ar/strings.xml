@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة شاشة</string>
@@ -322,7 +323,7 @@
     <string name="transformation_type_rotate">تدوير</string>
     <string name="transformation_type_stack">تتالي</string>
     <string name="uninstall">إلغاء التثبيت</string>
-    <string name="uninstall_dialog_message">إلغاء التثبيت سيزيل كل بيانات التطبيق.</string>
+    <string name="uninstall_dialog_message">سيؤدي إلغاء تثبيت التطبيق إلى حذف جميع بياناته.</string>
     <string name="uninstall_dialog_title_format">إلغاء تثبيت %s؟</string>
     <string name="uninstall_result_failed">لا يمكن إلغاء تثبيت %s</string>
     <string name="uninstall_result_succeeded">تم إلغاء التثبيت بنجاح</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_alarm">إضافة منبه</string>
+    <string name="add_clock">إضافة ساعة</string>
     <string name="add_timezone_title">إضافة منطقة زمنية</string>
     <string name="alarm_alert_alert_silenced">سيتم كتم صوت المنبه بعد %d دقيقة.</string>
     <string name="alarm_alert_snooze_set">غفوة لـ %d دقيقة.</string>
@@ -36,6 +37,7 @@
     <string name="close_alarm">إيقاف التشغيل</string>
     <string name="common_settings">الإعدادات</string>
     <string name="confirm_abort">تجاهل</string>
+    <string name="content_desc_keep_screen">زر \"إبقاء الشاشة نشطة\"</string>
     <string name="control_set_alarm">ضبط المنبه</string>
     <string name="control_set_alarm_with_existing">تم ضبط المنبه: %s</string>
     <string name="day">١ يوم</string>
@@ -54,6 +56,7 @@
     <string name="dialog_message_agree">موافق</string>
     <string name="dialog_message_for_contact_permission">للحصول على تنبيهات أعياد الميلاد، تحتاج الساعة إلى االوصول إلى جهات الاتصال الخاصة بك. موافق؟</string>
     <string name="dialog_message_negative">لا أوافق</string>
+    <string name="dialog_message_not_remind">لا تظهر مرة اخرى</string>
     <string name="done">تم</string>
     <string name="dynamic_alarm_speech">المنبه الذكي</string>
     <string name="edit_alarm">تعديل المنبه</string>
@@ -109,14 +112,14 @@
     <string name="menu_item_sort_by_name">الترتيب حسب الإسم</string>
     <string name="minute">١ دقيقة</string>
     <string name="minutes">%d دقائق</string>
-    <string name="module_download_cancel">ليس الآن</string>
-    <string name="module_download_data_msg">للحصول على تنبيهات ذكية وأصوات طبيعية وتنبيهات أعياد الميلاد، تحتاج الساعة إلى الاتصال بالإنترنت والوصول إلى جهات الاتصال الخاصة بك. وسيتوجب عليك أيضًا تنزيل ملفات صوتية إضافية. التنزيل بإستخدام بيانات الهاتف؟</string>
-    <string name="module_download_data_msg_golbal">للحصول على تنبيهات ذكية وأصوات طبيعية وتنبيهات أعياد الميلاد، تحتاج الساعة إلى الاتصال بالإنترنت والوصول إلى جهات الاتصال الخاصة بك. التنزيل بإستخدام بيانات الهاتف؟</string>
+    <string name="module_download_cancel">لا شكراً</string>
+    <string name="module_download_data_msg">تحتاج الساعة إلى الاتصال بالإنترنت لتنزيل ملفات الصوت (٢٠ ميغابايت) للضوضاء المحيطة والمنبهات الذكية. أنت تستخدم بيانات الجوال الآن. السماح؟</string>
+    <string name="module_download_data_msg_golbal">تحتاج الساعة إلى تنزيل ملفات الصوت (٢٠ ميغابايت) للضوضاء المحيطة والمنبهات الذكية. أنت تستخدم بيانات الجوال الآن. السماح؟</string>
     <string name="module_download_fail">تعذر تنزيل الملفات الصوتية</string>
-    <string name="module_download_msg">للحصول على تنبيهات ذكية وأصوات طبيعية وتنبيهات أعياد الميلاد، تحتاج الساعة إلى الاتصال بالإنترنت والوصول إلى جهات الاتصال الخاصة بك. وسيتوجب عليك أيضًا تنزيل ملفات صوتية إضافية. موافق؟</string>
-    <string name="module_download_msg_golbal">للحصول على تنبيهات ذكية وأصوات طبيعية وتنبيهات أعياد الميلاد، تحتاج الساعة إلى الاتصال بالإنترنت والوصول إلى جهات الاتصال الخاصة بك. موافق؟</string>
+    <string name="module_download_msg">تحتاج الساعة إلى الاتصال بالإنترنت لتنزيل ملفات الصوت للضوضاء المحيطة والمنبهات الذكية. السماح؟</string>
+    <string name="module_download_msg_golbal">تحتاج الساعة إلى تنزيل ملفات الصوت للضوضاء المحيطة والمنبهات الذكية. السماح؟</string>
     <string name="module_download_no_network">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
-    <string name="module_download_ok">الموافقة والتنزيل</string>
+    <string name="module_download_ok">السماح</string>
     <string name="module_download_success">تم تنزيل الملفات الصوتية بنجاح</string>
     <string name="module_download_title">الملفات الصوتية مطلوبة</string>
     <string name="module_downloading">جارٍ تنزيل الملفات الصوتية…</string>
@@ -145,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه بعد ايقاف التشغيل</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
@@ -153,6 +157,7 @@
     <string name="start_up">بدء</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
     <string name="temperature_unit">%1$s°</string>
@@ -183,10 +188,8 @@
     <string name="timer_item_picker_second">ث</string>
     <string name="timer_new_item">إضافة مؤقت</string>
     <string name="timer_notify_text">غفوة أو تجاهل المؤقت.</string>
-    <string name="timer_pause_hint">إيقاف مؤقت</string>
     <string name="timer_pause_timer">إيقاف مؤقت للمؤقت</string>
     <string name="timer_running">المؤقت قيد التشغيل</string>
-    <string name="timer_running_hint">استمرار</string>
     <string name="timer_start_alarm">انتهى الوقت!</string>
     <string name="timer_start_timer">بدء المؤقت</string>
     <string name="timer_title">المؤقت</string>
@@ -211,4 +214,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">ساعة</string>
     <string name="worldcolock_timezone_local">نفس التوقيت المحلي</string>
+    <string name="timer_pause_hint">إيقاف مؤقت</string>
+    <string name="timer_running_hint">استمرار</string>
 </resources>

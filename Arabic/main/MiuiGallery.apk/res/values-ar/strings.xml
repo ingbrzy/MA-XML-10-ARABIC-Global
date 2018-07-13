@@ -54,6 +54,7 @@
     <string name="album_name_people">أشخاص</string>
     <string name="album_name_recent_discovery">الحديثة</string>
     <string name="album_name_tags">العلامات</string>
+    <string name="album_notes">الملاحظات</string>
     <string name="album_others_share_baby_info_format">ألبوم الطفل من %s</string>
     <string name="album_others_share_info_format">من %s</string>
     <string name="album_owner_share">تمت المشاركة</string>
@@ -76,7 +77,7 @@
     <string name="album_share_subtitle_requesting">جارٍ الحصول على معلومات الألبوم…</string>
     <string name="album_share_title_new_album">مشاركة ألبوم جديد</string>
     <string name="album_show_local_only">إظهار الألبومات المحلية فقط</string>
-    <string name="album_show_local_only_summary">قم بالتشغيل لعرض و حذف الصور من هاتفك فقط</string>
+    <string name="album_show_local_only_summary">قم بتشغيل الميزة لعرض وحذف الصور من هاتفك فقط</string>
     <string name="album_type_baby">ألبوم الطفل</string>
     <string name="album_type_share">ألبوم المشاركة</string>
     <string name="album_type_system">ألبوم النظام</string>
@@ -206,8 +207,8 @@
     <string name="change_to_face_mode">إظهار الوجه فقط</string>
     <string name="change_to_photo_mode">عرض المعاينات كاملة</string>
     <string name="change_to_visible">هل تريد استعادة هذا الشخص؟</string>
-    <string name="checked">Selected</string>
-    <string name="checked_something">Selected %s</string>
+    <string name="checked">محددة</string>
+    <string name="checked_something">%s محدد</string>
     <string name="choose_baby_sexy">الجنس</string>
     <string name="choose_owner_relation">العلاقة</string>
     <string name="choose_people">اختيار ألبوم شخص</string>
@@ -373,8 +374,7 @@
     <string name="enable_cloud_for_sharing">تشغيل ألبومات Mi Cloud لعرض الصور المشاركة.</string>
     <string name="enable_face_album_summary">ترتيب الصور تلقائياً على حسب الأشخاص الموجودين بداخلها</string>
     <string name="enable_face_album_title">ترتيب حسب الأشخاص</string>
-    <string name="enabling_face_feature">لحظة من فضلك…</string>
-    <string name="enter_choice_mode">Entered Share dialog</string>
+    <string name="enter_choice_mode">تم الدخول إلى مربع حوار المشاركة</string>
     <string name="enter_email_hint">أدخل عنوان البريد الإلكتروني</string>
     <string name="error_album_not_exist">الألبوم غير موجود</string>
     <string name="error_build_thumbnail_action">تحميل الملف الأصلي</string>
@@ -438,7 +438,7 @@
     <string name="error_unknown_msg">حدث خطأ. أرسل لنا ملاحظاتك.</string>
     <string name="error_unknown_tip">حدث خطأ.</string>
     <string name="exit">خروج</string>
-    <string name="exit_choice_mode">Left Share dialog</string>
+    <string name="exit_choice_mode">تم الخروج من مربع حوار المشاركة</string>
     <string name="exit_share">الخروج من الألبوم</string>
     <string name="exit_share_failed">تعذر الخروج %1$s</string>
     <string name="exit_share_in_process">جار مغادرة الألبوم \"%s\"…</string>
@@ -446,7 +446,6 @@
     <string name="exit_video_play">خروج</string>
     <string name="expand_desc">المزيد</string>
     <string name="expand_people">عرض المزيد من الأشخاص</string>
-    <string name="face_album_detecting_tip">لحظة من فضلك…</string>
     <string name="face_album_empty">"لا يوجد صور كافية للتعرف على اشخاص.
 قم بإخذ صور اكثر لأصدقائك!"</string>
     <string name="face_album_empty_syncing">جارٍ مزامنة البيانات، يرجى العودة لاحقاً</string>
@@ -454,7 +453,6 @@
     <string name="face_album_long_tap_tip">لاختيار عدة أشخاص أو تغيير إعدادات المجموعة، إضغط لمدة طويلة على صورة ملف شخصي</string>
     <string name="face_album_new_name_hint">اسم جديد</string>
     <string name="face_album_not_named">غير مسمى</string>
-    <string name="face_album_pending_enable_tip">سيتم ترتيب الصور عندما يكون الجهاز متصلاً بـ Wi-Fi</string>
     <string name="face_album_rename_hint">ادخل اسم</string>
     <string name="face_album_title">صور مع %s</string>
     <string name="face_album_use_tip">ترتيب الصور تلقائياً على حسب الأشخاص الموجودين بداخلها.</string>
@@ -465,6 +463,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -472,7 +471,10 @@
     <string name="fancy_color_desc">الألوان</string>
     <string name="fast_share_auto_render">تجميل</string>
     <string name="fast_share_auto_render_finish">تم التجميل</string>
-    <string name="feature_guidance_photo_effects">Photo effects</string>
+    <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
+ متوفرة"</string>
+    <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ذكرى</string>
     <string name="filter_bi_mono">مونو</string>
     <string name="filter_bi_pink">وردي</string>
@@ -541,6 +543,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -575,8 +578,8 @@
     <string name="image_invalid_path">مسار غير صالح</string>
     <string name="image_not_found">تعذر العثور على الصورة</string>
     <string name="image_quota_fulfiled">توجد الكثير من الصور. احذف بعض الصور وقم بالمحاولة مرة أخرى.</string>
-    <string name="image_with_time">Photo taken on %s</string>
-    <string name="image_with_time_and_location">Photo taken on %1$s. Location: %2$s.</string>
+    <string name="image_with_time">تم إلتقاط الصورة في %s</string>
+    <string name="image_with_time_and_location">تم إلتقاط الصورة في %1$s. المكان: %2$s.</string>
     <string name="impunity_declaration_settings">إشعار اتصال الإنترنت</string>
     <string name="impunity_declaration_summary">إظهار إشعار اتصال الإنترنت في كل مرة تقوم فيها بفتح المعرض</string>
     <string name="initializing_cloud">جارٍ التهيئة…</string>
@@ -736,6 +739,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">صور الحيوانات الأليفة</string>
     <string name="petabyteShort">بنتابايت</string>
     <string name="photo">الصور</string>
@@ -810,7 +814,13 @@
     <string name="photo_print_package_installing">جارٍ تنزيل المكون الإضافي…</string>
     <string name="photo_save_to_msg">تم الحفظ إلى %s</string>
     <string name="photomovie_audio_custom">محلي</string>
+    <string name="photomovie_audio_default">ذكرى</string>
+    <string name="photomovie_audio_kawaii">رومانسي</string>
+    <string name="photomovie_audio_light">أغنية راقصة</string>
+    <string name="photomovie_audio_linear">روك</string>
     <string name="photomovie_audio_none">بدون</string>
+    <string name="photomovie_audio_soft">قيثارة</string>
+    <string name="photomovie_audio_sport">تكنو</string>
     <string name="photomovie_cancel_download">إلغاء</string>
     <string name="photomovie_delete_disable">تحتاج ٣ صور على الأقل لإنشاء مقطع فيديو.</string>
     <string name="photomovie_download">تنزيل</string>
@@ -832,6 +842,11 @@
     <string name="photomovie_tab_music">الموسيقى</string>
     <string name="photomovie_tab_template">قالب</string>
     <string name="photomovie_template_default">بطيء</string>
+    <string name="photomovie_template_kawaii">سحر</string>
+    <string name="photomovie_template_light">نسيم</string>
+    <string name="photomovie_template_linear">رحلة طريق</string>
+    <string name="photomovie_template_soft">شبابي</string>
+    <string name="photomovie_template_sport">حيوية</string>
     <string name="pick_from_contact">اختيار من جهات الاتصال</string>
     <string name="pick_too_many_recipients">الكثير من المستلمين</string>
     <string name="picker_cancel_download">إلغاء التنزيل</string>
@@ -844,6 +859,7 @@
     <string name="picker_image_will_download">%d من الصور المحددة ليست على الجهاز. سيتم تحميلها.</string>
     <string name="picker_no_network_message">الاتصال بالشبكة للتحميل</string>
     <string name="picker_origin_need_download">%1$d من الصور المُحددة (%2$dميغابايت) ليست على الجهاز. التحميل بإستخدام بيانات الجوال؟</string>
+    <string name="picker_origin_request_progress_message">جارٍ إعداد الملفات الأصلية (%1$d/%2$d)…</string>
     <string name="picker_title_format">حدد %1$d إلى %2$d صور</string>
     <string name="picker_title_selection_format">الصور الُمحددة: %d</string>
     <string name="picker_title_selection_format_multiple">حدد %1$d إلى %2$d صور (%3$d)</string>
@@ -957,12 +973,12 @@
     <string name="search_net_error">حدث خطأ في الشبكة. اتصل بشبكة مختلفة ثم حاول مجدداً.</string>
     <string name="search_request_applied">تم التعيين</string>
     <string name="search_request_open">إنضم إلى فريق الإختبار</string>
+    <string name="search_request_requesting">تم التعيين. انتظر قليلا قبل أن تبدأ.</string>
     <string name="search_result_empty">تعذر العثور على أي شيء</string>
     <string name="search_retry">حاول مجددا</string>
     <string name="search_select_network">تحديد الشبكة</string>
     <string name="search_set_network_connection">إعدادات الشبكة</string>
     <string name="search_setting_sub_title">ابحث عن أشخاص، أماكن وأشياء في صورك.</string>
-    <string name="search_setting_sub_title_open">تم التعيين. انتظر قليلا قبل أن تبدأ.</string>
     <string name="search_setting_title">العثور عن صور في المعرض</string>
     <string name="search_syncing">جارٍ مزامنة البيانات، يرجى العودة لاحقاً</string>
     <string name="search_title_album">ألبوم</string>
@@ -975,6 +991,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -992,6 +1011,7 @@
     <string name="secret_reason_too_large">الملف كبير جدًا</string>
     <string name="secret_reason_type_not_support">هذا النوع من الملفات غير مدعوم</string>
     <string name="secret_reason_unknow_reasons">خطأ غير معروف</string>
+    <string name="secret_reason_video_not_support">لا يمكن إضافة هذه الفيديوهات إلى ألبوم مخفي</string>
     <string name="see_ignore_faces">عرض الأشخاص الذين تجاهلتهم</string>
     <string name="select_item_face">"هل هذا '%s'؟"</string>
     <string name="select_origin_tip">ملف اصلي (%s)</string>
@@ -1062,7 +1082,7 @@
     <string name="sticker_words">كلمات</string>
     <string name="storage_description_primary">التخزين الداخلي</string>
     <string name="storage_description_sdcard">بطاقة SD</string>
-    <string name="storage_description_usb">USB storage</string>
+    <string name="storage_description_usb">وحدة تخزين USB</string>
     <string name="storage_description_xspace">بيانات التطبيقات المزدوجة</string>
     <string name="storage_no_space">لا توجد مساحة كافية</string>
     <string name="sub_discard_confirm_message">حفظ التغييرات؟</string>
@@ -1093,7 +1113,7 @@
     <string name="text_edit_dialog_font">الخط</string>
     <string name="text_edit_dialog_font_default">الافتراضية</string>
     <string name="text_edit_dialog_keyboard">لوحة المَفاتيح</string>
-    <string name="text_edit_dialog_style">أسلوب</string>
+    <string name="text_edit_dialog_style">النمط</string>
     <string name="text_edit_dialog_style_align_center">الوسط</string>
     <string name="text_edit_dialog_style_align_left">اليسار</string>
     <string name="text_edit_dialog_style_align_right">اليمين</string>
@@ -1128,8 +1148,8 @@
     <string name="turn_off_and_move">تشغيل و نقل</string>
     <string name="turn_on_and_remove">تشغيل و نقل</string>
     <string name="turn_on_sync">تشغيل المزامنة</string>
-    <string name="unchecked">Deselected</string>
-    <string name="unchecked_something">Deselected %s</string>
+    <string name="unchecked">غير محدد</string>
+    <string name="unchecked_something">%s غير محدد</string>
     <string name="unpublish_failed">تعذر إلغاء النشر</string>
     <string name="unpublish_succeeded">لم يتم نشر الألبوم</string>
     <string name="unpublishing">يتم الإلغاء…</string>
@@ -1205,7 +1225,7 @@
     <string name="video_editor_smart_effect_fastslow">حركة</string>
     <string name="video_editor_smart_effect_freesze">إيقاف الحركة</string>
     <string name="video_editor_smart_effect_halo">تألق</string>
-    <string name="video_editor_smart_effect_high_iframes_text">يعمل هذا التأثير بشكل أفضل مع فيديوهات ذات معدل إطارات مرتفع.</string>
+    <string name="video_editor_smart_effect_high_iframes_text">هذا التأثير يعمل بشكل أفضل على فيديوهات ١٢٠ إطار/ث.</string>
     <string name="video_editor_smart_effect_movie">فيلم</string>
     <string name="video_editor_smart_effect_none">لا شيء</string>
     <string name="video_editor_smart_effect_radical">متفائل</string>
@@ -1233,16 +1253,17 @@
     <string name="video_editor_unsupport_audio_file">ملف صوتي غير مدعوم</string>
     <string name="video_editor_unzip_file_fail">تعذر فتح حزمة الفيديو.</string>
     <string name="video_editor_video_is_short">لا يمكن تعديل هذا الفيديو.</string>
+    <string name="video_editor_video_loading">يتم إعداد الفيديو، انتظر ثانية او ثانيتين ثم حاول مرة أخرى.</string>
     <string name="video_editor_watermark">علامة مائية</string>
     <string name="video_err">لا يمكن تشغيل الفيديو</string>
     <string name="video_not_exist">فيديو غير موجود</string>
-    <string name="video_with_time">Video taken on %s</string>
-    <string name="video_with_time_and_location">Video taken on %1$s. Location: %2$s.</string>
+    <string name="video_with_time">تم التقاط الفيديو في %s</string>
+    <string name="video_with_time_and_location">تم إلتقاط الفيديو في %1$s. المكان: %2$s.</string>
     <string name="view_by_gallery_tip">معرض MIUI</string>
     <string name="view_face_album">عرض الألبوم</string>
     <string name="view_more_face_desc">عرض المزيد من الأشخاص</string>
-    <string name="view_queuing_status">فحص الحالة</string>
     <string name="voice_assistant">إدخال الصوت</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">مرحباً في Mi Cloud</string>
     <string name="where_is_barcode">أين رمز QR؟</string>
     <string name="who_is_this">من هذا؟</string>

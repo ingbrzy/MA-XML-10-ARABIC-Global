@@ -910,6 +910,14 @@
     <string name="brightness_title">السطوع</string>
     <string name="bt_hci_snoop_log">سجل بلوتوث HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">التقاط جميع حزم بلوتوث HCI في ملف</string>
+    <string name="bt_ldac_declaration">عندما يدعم جهاز Bluetooth LDAC ، سيتم توصيله بشكل افتراضي. LDAC يوفر تجربه صوتيه عاليه الجودة ويجلب أيضا استهلاك الطاقة العالية. قد يحدث التشغيل بسبب قيود أجهزه Bluetooth</string>
+    <string name="bt_ldac_dialog_title">يدعم الجهاز الحالي LDAC، التي تم توصيلها بشكل افتراضي:</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC يوفر تجربه صوتيه عاليه الجودة ويجلب أيضا استهلاك الطاقة العالية. قد يحدث التشغيل بسبب قيود أجهزه Bluetooth</string>
+    <string name="bt_ldac_open_dialog_title">هل أنت متأكد من تشغيل LDAC؟</string>
+    <string name="bt_ldac_pre_summary">توفير تجربة صوتية عالية الجودة</string>
+    <string name="bt_ldac_property">سمات</string>
+    <string name="bt_ldac_remember_choice">تذكر الاختيار</string>
+    <string name="bt_ldac_settings">الإعدادات</string>
     <string name="bt_rarely_used_device_title">الأجهزة المستخدمة نادرا (%d)</string>
     <string name="bt_trace_log">سجل تتبع البلوتوث</string>
     <string name="bt_trace_log_summary">سجل تتبع البلوتوث</string>
@@ -1203,7 +1211,7 @@
     <string name="current_input_method">لوحة المفاتيح الحالية</string>
     <string name="current_screen_lock">قفل الشاشة الحالي</string>
     <string name="current_use_ese">يتم استخدام العنصر الآمن المضمن</string>
-    <string name="current_use_ese_wallet">أنت تستخدم محفظة Mi. هذه المحفظة تسمح لك باستخدام دفع Mi و بطاقة نقل NFC.</string>
+    <string name="current_use_ese_wallet">أنت تستخدم محفظة Mi. هذه المحفظة تسمح لك باستخدام دفع Mi ومواصلات NFC.</string>
     <string name="current_use_hce_wallet">أنت تستخدم محفظة HCE</string>
     <string name="current_use_uicc_se">استخدام العنصر الآمن على بطاقة SIM</string>
     <string name="current_use_uicc_wallet">أنت تستخدم محفظة SIM%1$s</string>
@@ -1859,6 +1867,8 @@
     <string name="firewall_wifi">شبكة Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">لن يتمكن التطبيق المثبت الاتصال بالإنترنت باستخدام الـ Wi-Fi عند توقف هذا التبديل.</string>
     <string name="firmware_version">إصدار الأندرويد</string>
+    <string name="flash_drive_backup_restore">النسخ الاحتياطي أو الاستعادة باستخدام USB</string>
+    <string name="flash_drive_backup_restore_summary">قم بتوصيل محرك أقراص USB</string>
     <string name="floating_window_switch_label">تشغيل النوافذ المنبثقة</string>
     <string name="floating_window_switch_label_disable">إيقاف تشغيل النوافذ المنبثقة</string>
     <string name="fluency_mode">الرسوم المتحركة للنظام</string>
@@ -2258,6 +2268,7 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
@@ -3348,6 +3359,7 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -3747,7 +3759,7 @@
     <string name="sdcard_unmount">‏إلغاء تركيب وحدة تخزين USB</string>
     <string name="se_route_ese">العنصر الآمن المضمن</string>
     <string name="se_route_uicc">العنصر الآمن على بطاقة SIM</string>
-    <string name="se_wallet_ese">دفع Mi و بطاقة نقل NFC</string>
+    <string name="se_wallet_ese">دفع Mi وبطاقة مواصلات NFC</string>
     <string name="se_wallet_hce">استخدم محفظة HCE</string>
     <string name="se_wallet_uicc">استخدام محفظة SIM%1$s</string>
     <string name="search_about_settings">حول الهاتف؛رقم الطراز؛اصدار اندرويد؛اصدار MIUI؛المعالج؛ذاكرة RAM؛الذاكرة الداخلية؛إصدار النطاق الأساسي؛نسخة Kernel؛رقم الاصدار</string>
@@ -3938,6 +3950,9 @@
     <string name="second_space">الواجهة الثانية</string>
     <string name="secondspace_category">الواجهة الثانية</string>
     <string name="secondspace_delete_space_title">حذف الواجهة الثانية</string>
+    <string name="secspace_fod_finger_tips">تعذر التحقق، حاول مجددا.</string>
+    <string name="secspace_fod_finger_title">التحقق من بصمتك</string>
+    <string name="secspace_fod_use_password">أدخل كلمة المرور</string>
     <string name="secure_keyguard_business_title">تعيين قفل الشاشة</string>
     <string name="secure_lock_encryption_warning">لن يستخدم جهازك ميزة قفل الشاشة لتحسين تشفير البيانات، وذلك لأنك قد مكّنت إحدى خدمات إمكانية الوصول.</string>
     <string name="security_dashboard_summary">قفل الشاشة، بصمة الإصبع</string>
@@ -4277,6 +4292,7 @@
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
     <string name="status_bar_key_position_custom">تغيير أوضاع الزر</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_screen_button_force_immersive_desc">مرّر لأعلى من أسفل الشاشة لإظهار أزرار الشاشة</string>
     <string name="status_bar_screen_button_key_force_immersive">إخفاء أزرار الشاشة</string>
     <string name="status_bar_screen_key_back">زر الرجوع</string>
@@ -4288,6 +4304,7 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>
@@ -4304,10 +4321,11 @@
     <string name="status_bar_settings_show_carrier_summary">اسم شركة الاتصالات لا يزال معروض على شاشة القفل وفي مركز الإشعارات عند إيقاف هذه الميزة</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">عرض اسم شركة الاتصالات عندما يكون الجهاز مقفل</string>
     <string name="status_bar_settings_show_floating_notification">إشعارات منبثقة</string>
-    <string name="status_bar_settings_show_floating_notification_summary">سيتم اختفاء الإشعارات المنبثقة تلقائياً بعد ان تظهر اعلى الشاشة</string>
+    <string name="status_bar_settings_show_floating_notification_summary">السماح بالإشعارات المهمة أعلى الشاشة</string>
     <string name="status_bar_settings_show_flow_info">إظهار إستخدام البيانات</string>
     <string name="status_bar_settings_show_home_message">شارة أيقونة التطبيق</string>
     <string name="status_bar_settings_show_keyguard_notification">إشعارات شاشة القفل</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">السماح بالإشعارات المهمة علي شاشة القفل</string>
     <string name="status_bar_settings_show_network_speed">عرض سرعة الاتصال</string>
     <string name="status_bar_settings_show_notification_icon">عرض أيقونات الإشعارات</string>
     <string name="status_bar_settings_show_wifi_name">عرض Wi-Fi</string>

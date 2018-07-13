@@ -68,6 +68,7 @@
     <string name="accessibility_wifi_two_bars">‏إشارة Wi-Fi تتكون من شريطين.</string>
     <string name="accessibility_wifi_three_bars">‏إشارة Wi-Fi تتكون من ثلاثة أشرطة.</string>
     <string name="accessibility_wifi_signal_full">‏إشارة Wi-Fi كاملة.</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="data_usage_uninstalled_apps">التطبيقات المزالة</string>
     <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمون الذين تمت إزالتهم</string>
     <string name="tether_settings_title_usb">‏ربط USB</string>
@@ -406,7 +407,7 @@
     <string name="can_not_dial_vt_while_voice_prompt">لا يمكن إجراء مكالمة فيديو أثناء إجراء اتصال صوتي</string>
     <string name="voice_dial_out">مكالمة صوتية</string>
     <string name="notification_AllMissedCallTitle">كل المكالمات الفائتة</string>
-    <string name="close">إغلاق</string>
+    <string name="close">إيقاف التشغيل</string>
     <string name="callFailed_simError">خطأ في بطاقة SIM</string>
     <string name="incall_error_supp_service_unknown">هذه الخدمة غير مدعومة.</string>
     <string name="incall_error_power_off">قم بإيقاف تشغيل وضع الطيران لإجراء مكالمة.</string>

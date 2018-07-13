@@ -146,7 +146,7 @@
     <string name="passport_license_host_unreachable">لا يمكن الاتصال بالشبكة. يمكنك عرض هذه الصفحة في %s.</string>
     <string name="passport_login_failed">لا يمكن تسجيل الدخول</string>
     <string name="passport_reg_failed">لا يمكن إعداد الحساب</string>
-    <string name="passport_verification_failed">فشلت المصادقة</string>
+    <string name="passport_verification_failed">تعذر التحقق من الحساب</string>
     <string name="passport_reset_fail_title">تعذر إعادة التعيين</string>
     <string name="passport_identification_expired">انتهت صلاحية رمز التحقق، ابدأ من جديد</string>
     <string name="passport_bad_authentication">اسم المستخدم أو كلمة المرور غير صحيحة</string>
@@ -459,7 +459,7 @@
     <string name="logout_account">تسجيل الخروج</string>
     <string name="mipay">دفع</string>
     <string name="mipay_bank_card">بطاقة البنك</string>
-    <string name="mipay_transit_card">بطاقة النقل</string>
+    <string name="mipay_transit_card">بطاقة المواصلات</string>
     <string name="mipay_balance">الرصيد</string>
     <string name="mipay_others">أخرى</string>
     <string name="mipay_identity">التحقق من المعرف</string>

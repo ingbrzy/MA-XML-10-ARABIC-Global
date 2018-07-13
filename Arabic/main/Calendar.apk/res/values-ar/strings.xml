@@ -34,7 +34,9 @@
     <string name="alert_reminder_expired">انتهت الصلاحية</string>
     <string name="alert_title">إشعارات التقويم</string>
     <string name="anniversary_event_title">ذكرى سنوية: %1$s</string>
+    <string name="anniversary_secondary_tag">ذكرى</string>
     <string name="app_label">التقويم</string>
+    <string name="birthday_born">تاريخ الميلاد</string>
     <string name="birthday_calendar_display_name">تذكيرات أعياد الميلاد</string>
     <string name="birthday_event_description_a_week_ago">منذ أسبوع</string>
     <string name="birthday_event_description_a_week_later">أسبوع واحد حتى</string>
@@ -74,6 +76,7 @@
     <string name="countdown_event_title">العد التنازلي: %1$s</string>
     <string name="countdown_notify_before_3_day_title">العد التنازلي: %1$s في ۳ أيام</string>
     <string name="countdown_notify_title">العد التنازلي: %1$s</string>
+    <string name="countdown_secondary_tag">عد تنازلي</string>
     <string name="countdown_today">اليوم</string>
     <string name="create_an_account_desc">"يعمل التقويم بشكل أفضل باستخدام حساب Mi.
 
@@ -120,6 +123,7 @@
     <string name="edit_event_birthday_import_from_contact">استيراد أعياد الميلاد من جهات الاتصال</string>
     <string name="edit_event_birthday_name_empty_hint">ادخل اسم</string>
     <string name="edit_event_birthday_name_hint">الإسم</string>
+    <string name="edit_event_birthday_reminder_3_days_before">كذلك التذكير ٣ أيام مقدماً</string>
     <string name="edit_event_birthday_reminder_time">وقت التذكير</string>
     <string name="edit_event_calendar_label">التقويم</string>
     <string name="edit_event_choose_date">اختر تاريخ</string>
@@ -180,6 +184,10 @@
     <string name="global_football_final">النهائي</string>
     <string name="global_football_no_match">لا توجد مباريات كرة قدم مجدولة لهذا اليوم.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_import">استيراد</string>
+    <string name="guide_card_primary_text">استيراد أعياد ميلاد أصدقائك</string>
+    <string name="guide_card_second_text">لا تفوت تواريخ مهمة</string>
+    <string name="guide_card_title">استيراد أعياد الميلاد</string>
     <string name="hint_attendees">الضيوف</string>
     <string name="hint_description">الوصف</string>
     <string name="hint_what">إسم الحدث</string>
@@ -417,12 +425,4 @@
     <string name="xiaomi_calendar_display_name">تقويم حساب Mi</string>
     <string name="yearly">سنويًا (كل %s)</string>
     <string name="yearly_plain">سنوي</string>
-    <string name="anniversary_secondary_tag">ذكرى</string>
-    <string name="birthday_born">تاريخ الميلاد</string>
-    <string name="countdown_secondary_tag">عد تنازلي</string>
-    <string name="edit_event_birthday_reminder_3_days_before">كذلك التذكير ٣ أيام مقدماً</string>
-    <string name="guide_card_import">استيراد</string>
-    <string name="guide_card_primary_text">استيراد أعياد ميلاد أصدقائك</string>
-    <string name="guide_card_second_text">لا تفوت تواريخ مهمة</string>
-    <string name="guide_card_title">استيراد أعياد الميلاد</string>
 </resources>
