@@ -355,7 +355,7 @@
         <item>أحرف استهلالية صغيرة</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>إلغاء القفل بالوجه</item>
+        <item>التعرف على الوجه</item>
         <item>نقش</item>
         <item>رمز PIN</item>
         <item>كلمة مرور</item>
@@ -881,6 +881,10 @@
         <item>الشبكة بطيئة بسبب كثرة حركة الاتصالات</item>
         <item>الشبكة بطيئة بسبب ضعف قوة الإشارة</item>
         <item>جار الانتقال…</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>رسم بياني</item>
+        <item>نسبة مئوية</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>

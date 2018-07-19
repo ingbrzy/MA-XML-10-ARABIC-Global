@@ -35,11 +35,11 @@
     <string name="name_quick_search">بحث</string>
     <string name="name_scan_to_pay">امسح للدفع</string>
     <string name="name_screenshot">لقطة الشاشة</string>
-    <string name="name_trans_cards">بطاقة النقل</string>
+    <string name="name_trans_cards">بطاقة المواصلات</string>
     <string name="name_wechat_payment_code">دفع WeChat</string>
     <string name="name_wechat_scan">ماسح WeChat</string>
     <string name="nfc_all_mipay_card_not_in_use">دفع Mi غير مفعل</string>
-    <string name="nfc_trans_card_not_in_use">بطاقة النقل هذه غير مفعلة</string>
+    <string name="nfc_trans_card_not_in_use">بطاقة المواصلات هذه غير مفعلة</string>
     <string name="not_working">%s ( لا يعمل)</string>
     <string name="open">تشغيل</string>
     <string name="open_panel">تشغيل الكرة السريعة</string>

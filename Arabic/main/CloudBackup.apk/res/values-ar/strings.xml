@@ -163,4 +163,12 @@
     <string name="notification_channel_remind">تذكير</string>
     <string name="done_remove">تم الحذف بنجاح</string>
     <string name="doing_restore_home">جارٍ استعادة الشاشة الرئيسية والإعدادات…</string>
+    <string name="title_alert_cancel_restore">إيقاف الإستعادة</string>
+    <string name="msg_alert_cancel_restore">يتم إستعادة نسخ Cloud الأحتياطي. إيقاف ذلك؟</string>
+    <string name="btn_restore_cancel">إلغاء</string>
+    <string name="btn_restore_resume">إستئناف</string>
+    <string name="title_alert_restore_error">فشل الإستعادة</string>
+    <string name="msg_alert_restore_error">فشل في إستعادة نسخ Cloud الأحتياطي. يرجى المحاولة مجدداً.</string>
+    <string name="btn_restore_retry">إعادة المحاولة</string>
+    <string name="btn_restore_abort">إلغاء</string>
 </resources>

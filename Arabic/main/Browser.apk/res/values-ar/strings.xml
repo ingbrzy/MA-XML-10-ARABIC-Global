@@ -732,6 +732,8 @@
     <string name="mw_snippets_disabled_generic_prompt">الحصول على محتويات متخصصة</string>
     <string name="mw_snippets_disabled_signed_out_instructions">سجل الدخول إلى Chrome للحصول على محتويات مخصصة مقترحة من Google.</string>
     <string name="mw_time_picker_dialog_am">ص</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">م</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">تعيين الوقت</string>
@@ -1036,6 +1038,7 @@
     <string name="snapshot_failed">تعذر حفظ الصفحة</string>
     <string name="snapshot_successed">افتح الاشارات المرجعية / السجل->محلي لعرض الصفحة</string>
     <string name="soft_toast_see_view">عرض</string>
+    <string name="source_dislike">إلغاء الأعجاب</string>
     <string name="ssl_bad_clock_date_settings">تعيين التاريخ</string>
     <string name="ssl_bad_clock_warning" formatted="false">لا يمكن إنشاء اتصال خاص إلى %s1 لأن تاريخ ووقت الجهاز الخاص بك (%s2) غير صحيحين.</string>
     <string name="ssl_certificate">شهادة الأمان</string>

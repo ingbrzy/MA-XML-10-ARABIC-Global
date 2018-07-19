@@ -61,8 +61,6 @@
     <string name="asset_sync_power_alert_message">قم بتوصيل الشاحن لإجراء نسخ الاحتياطي للأغاني.</string>
     <string name="asset_sync_power_alert_title">البطارية منخفضة</string>
     <string name="audio_picker_title">اختر اغنية</string>
-    <string name="auto_payment">تجديد تلقائي</string>
-    <string name="auto_payment_date">الدفع التالي: %s</string>
     <string name="available_playlist_name_format">قائمة تشغيل جديدة %d</string>
     <string name="avoid_to_use_traffic_summary">لا تستخدم شبكة الجوال لتشغيل الموسيقى</string>
     <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الجوال لتشغيل الأغاني</string>
@@ -71,8 +69,6 @@
     <string name="backup_empty_button">لم يتم تحديد اغاني</string>
     <string name="backup_immediate">نسخ احتياطي</string>
     <string name="backup_song_title">تحديد الأغاني لنسخها احتياطياً</string>
-    <string name="being_disable_auto_payment">جار إيقاف التفعيل…</string>
-    <string name="being_enable_auto_payment">جارٍ التفعيل…</string>
     <string name="bluetooth_device">جهاز صوت البلوتوث</string>
     <string name="buffering">تخزين مؤقت…</string>
     <string name="button_cancel_download">إلغاء</string>
@@ -130,6 +126,7 @@
     <string name="continue_backup">متابعة</string>
     <string name="cp_info_first">"يتم توفير خدمة بث الموسيقى عبر الإنترنت
 بشكل أساسي بواسطة Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">تعذر إنشاء طلب، حاول مجدداً.</string>
     <string name="create_playlist">إنشاء قائمة تشغيل</string>
     <string name="create_playlist_failure">تعذر إنشاء قائمة تشغيل</string>
@@ -183,10 +180,6 @@
     <string name="dialog_title_not_available">تعذر التنزيل</string>
     <string name="dialog_title_queued_body">الملف غير متاح حتى الآن</string>
     <string name="dialog_title_remove_tracks">حذف</string>
-    <string name="disable_auto_payment_fail">تعذر ايقاف التفعيل</string>
-    <string name="disable_auto_payment_fail_message">تعذر إيقاف تفعيل التجديد التلقائي</string>
-    <string name="disable_auto_payment_success">تم إيقاف التفعيل</string>
-    <string name="disable_auto_payment_success_message">ايقاف تفعيل التجديد التلقائي. بعد انتهاء صلاحية اشتراكك الحالي، يجب عليك الاشتراك مرة اخرى لتحميل الاغاني.</string>
     <string name="disallow_add_to_fm">لا يمكن إضافة الاغاني لراديو FM</string>
     <string name="disallow_add_to_personal_radio">لا يمكن إضافة الاغاني للراديو الشخصي</string>
     <string name="do_not_remind_this_version">لا تذكرني بهذا الإصدار</string>
@@ -226,6 +219,7 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
@@ -264,10 +258,6 @@
     <string name="edit_playlist_info">تعديل معلومات قائمة التشغيل</string>
     <string name="empty_page_no_album">لا توجد ألبومات.</string>
     <string name="empty_page_no_artist">لا يوجد فنانين.</string>
-    <string name="enable_auto_payment_fail">تعذر التفعيل</string>
-    <string name="enable_auto_payment_fail_message">تعذر تفعيل التجديد التلقائي</string>
-    <string name="enable_auto_payment_success">التجديد تلقائيًا</string>
-    <string name="enable_auto_payment_success_message">تفعيل التجديد التلقائي. سيتم الدفع القادم في %s.</string>
     <string name="enabled">مفعل</string>
     <string name="enter_garbage_clean">تنظيف مساحة التخزين الداخلي.</string>
     <string name="eq_auto">مخصص</string>
@@ -485,8 +475,9 @@
     <string name="modify_song_info_success">تم تحديث معلومات الأغنية</string>
     <string name="more">المزيد</string>
     <string name="more_add_song_list">إضافة أغاني إلى قائمة الانتظار</string>
+    <string name="more_milink">رابط MI</string>
     <string name="more_settings">الإعدادات المتقدمة</string>
-    <string name="more_settings_summary">تنزيل الإعدادات، مؤقت النوم، إدارة بيانات الجوال، تصنيفات للملفات، الخ.</string>
+    <string name="more_settings_summary">Sleep timer, filters for files, etc.</string>
     <string name="more_share">مشاركة</string>
     <string name="music_browser_label">الموسيقى</string>
     <string name="music_filter">تصنيف ملفات الصوت</string>
@@ -594,6 +585,7 @@
     <string name="priority_storage">استخدام بطاقة ذاكرة SD خارجية</string>
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
     <string name="pulluprefreshrecyclerview_loading_error">تعذر التحميل</string>
@@ -703,6 +695,7 @@
     <string name="start_to_check_new_version">جار التحقق من وجود تحديثات…</string>
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="stop">إيقاف</string>
     <string name="stop_backup">إيقاف</string>
     <string name="storage_internal">التخزين الداخلي</string>
@@ -764,6 +757,7 @@
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">الإصدار</string>
     <string name="video_play_cellular">جهازك غير متصل بشبكة Wi-Fi. استخدام بيانات الجوال؟</string>
     <string name="video_replay_btn">التشغيل مرة أخرى</string>

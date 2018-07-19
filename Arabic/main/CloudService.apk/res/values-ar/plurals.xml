@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="items_unsynced">
-        <item quantity="other">عنصر في إنتظار المزامنة: %d</item>
-        <item quantity="zero">عنصر في إنتظار المزامنة: %d</item>
-        <item quantity="one">عنصر في إنتظار المزامنة: %d</item>
-        <item quantity="two">عناصر في إنتظار المزامنة: %d</item>
-        <item quantity="few">عناصر في إنتظار المزامنة: %d</item>
-        <item quantity="many">عنصر في إنتظار المزامنة: %d</item>
+        <item quantity="other">%d عتصر في إنتظار المزامنة</item>
+        <item quantity="zero">%d عنصر في إنتظار المزامنة</item>
+        <item quantity="one">%d عنصر في إنتظار المزامنة</item>
+        <item quantity="two">%d عناصر في إنتظار المزامنة</item>
+        <item quantity="few">%d عتاصر في إنتظار المزامنة</item>
+        <item quantity="many">%d عتصر في إنتظار المزامنة</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d جهة اتصال</item>

@@ -911,6 +911,8 @@
     <string name="bt_hci_snoop_log">سجل بلوتوث HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">التقاط جميع حزم بلوتوث HCI في ملف</string>
     <string name="bt_ldac_declaration">عندما يدعم جهاز Bluetooth LDAC ، سيتم توصيله بشكل افتراضي. LDAC يوفر تجربه صوتيه عاليه الجودة ويجلب أيضا استهلاك الطاقة العالية. قد يحدث التشغيل بسبب قيود أجهزه Bluetooth</string>
+    <string name="bt_ldac_dialog_summary">"يوفر LDAC جودة صوت عالية ولكنه يؤدي أيضًا إلى زيادة استهلاك الطاقة
+ يمكن إيقاف تشغيل هذه الوظيفة من [الإعدادات]"</string>
     <string name="bt_ldac_dialog_title">يدعم الجهاز الحالي LDAC، التي تم توصيلها بشكل افتراضي:</string>
     <string name="bt_ldac_open_dialog_summary">LDAC يوفر تجربه صوتيه عاليه الجودة ويجلب أيضا استهلاك الطاقة العالية. قد يحدث التشغيل بسبب قيود أجهزه Bluetooth</string>
     <string name="bt_ldac_open_dialog_title">هل أنت متأكد من تشغيل LDAC؟</string>
@@ -1767,8 +1769,8 @@
     <string name="external_source_untrusted">غير مسموح</string>
     <string name="extreme_threats_summary">تلقي إشعارات بشأن التهديدات القصوى للحياة والممتلكات</string>
     <string name="extreme_threats_title">التهديدات القصوى</string>
-    <string name="face_unlock_disable">إلغاء القفل بالوجه متوقف</string>
-    <string name="face_unlock_enable">إلغاء القفل بالوجه يعمل</string>
+    <string name="face_unlock_disable">التعرف على الوجه متوقف</string>
+    <string name="face_unlock_enable">التعرف على الوجه يعمل</string>
     <string name="factory_reset_summary">مسح جميع البيانات من سعة التخزين الداخلية للهاتف</string>
     <string name="failed_to_check_find_device_status_content">تعذر التحقق من حالة العثور على الجهاز. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="failed_to_check_find_device_status_title">تعذر التحقق من الحالة</string>
@@ -2112,7 +2114,7 @@
     <string name="instant_app_details_summary">المزيد من المعلومات على %1$s</string>
     <string name="instant_apps_account">حساب التطبيقات الفورية</string>
     <string name="instruction_privacy_password">تقوم كلمة المرور هذه بحماية العناصر التالية</string>
-    <string name="instruction_title">تعليمات</string>
+    <string name="instruction_title">معلومات السلامة الهامة</string>
     <string name="insufficient_storage">ليست هناك مساحة تخزين كافية.</string>
     <string name="intent_sender_account_label">الحساب:</string>
     <string name="intent_sender_sendbroadcast_text">إرسال broadcast</string>
@@ -2268,6 +2270,7 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
@@ -3358,6 +3361,7 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -3559,6 +3563,7 @@
     <string name="retail_demo_reset_next">التالي</string>
     <string name="retail_demo_reset_title">يتطلب كلمة المرور</string>
     <string name="retry">حاول مرة أخرى</string>
+    <string name="rgb_manage_facerecoginition_text">إدارة بيانات الوجه 2D</string>
     <string name="ring_volume_option_title">مستوى صوت الرنين</string>
     <string name="ring_volume_title">مستوى صوت الرنين</string>
     <string name="ringtone_slot_setting_title">إعدادات SIM الفردية</string>
@@ -4261,6 +4266,8 @@
     <string name="sound_settings_summary">مستوى صوت الرنين على %1$s</string>
     <string name="sound_settings_summary_silent">تم تعيين الرنين على صامت</string>
     <string name="sound_settings_summary_vibrate">تم تعيين الرنين على اهتزاز</string>
+    <string name="sound_stereo_mode_summary">متاح فقط عند تشغيل الصوت مع مكبر الصوت</string>
+    <string name="sound_stereo_mode_title">صوت ستيريو</string>
     <string name="sound_vibrate_settings">الصوت والاهتزاز</string>
     <string name="sound_work_settings">أصوات الملف الشخصي للعمل</string>
     <string name="special_access">وصول خاص إلى التطبيقات</string>
@@ -4290,6 +4297,7 @@
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
     <string name="status_bar_key_position_custom">تغيير أوضاع الزر</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_bar_screen_button_force_immersive_desc">مرّر لأعلى من أسفل الشاشة لإظهار أزرار الشاشة</string>
     <string name="status_bar_screen_button_key_force_immersive">إخفاء أزرار الشاشة</string>
     <string name="status_bar_screen_key_back">زر الرجوع</string>
@@ -4301,6 +4309,7 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>
@@ -4317,11 +4326,11 @@
     <string name="status_bar_settings_show_carrier_summary">اسم شركة الاتصالات لا يزال معروض على شاشة القفل وفي مركز الإشعارات عند إيقاف هذه الميزة</string>
     <string name="status_bar_settings_show_carrier_under_keyguard">عرض اسم شركة الاتصالات عندما يكون الجهاز مقفل</string>
     <string name="status_bar_settings_show_floating_notification">إشعارات منبثقة</string>
-    <string name="status_bar_settings_show_floating_notification_summary">السماح بالإشعارات المهمة أعلى الشاشة</string>
+    <string name="status_bar_settings_show_floating_notification_summary">السماح بالإشعارات الهامة في أعلى الشاشة</string>
     <string name="status_bar_settings_show_flow_info">إظهار إستخدام البيانات</string>
     <string name="status_bar_settings_show_home_message">شارة أيقونة التطبيق</string>
     <string name="status_bar_settings_show_keyguard_notification">إشعارات شاشة القفل</string>
-    <string name="status_bar_settings_show_keyguard_notification_summary">السماح بالإشعارات المهمة علي شاشة القفل</string>
+    <string name="status_bar_settings_show_keyguard_notification_summary">السماح بالإشعارات الهامة علي شاشة القفل</string>
     <string name="status_bar_settings_show_network_speed">عرض سرعة الاتصال</string>
     <string name="status_bar_settings_show_notification_icon">عرض أيقونات الإشعارات</string>
     <string name="status_bar_settings_show_wifi_name">عرض Wi-Fi</string>
@@ -4508,7 +4517,10 @@
     <string name="storageuse_settings_title">استخدام وحدة التخزين</string>
     <string name="strict_mode">تمكين الوضع الصارم</string>
     <string name="strict_mode_summary">وميض الشاشة عند إجراء التطبيقات عمليات طويلة في الموضوع الرئيسي</string>
-    <string name="structure_add_facerecoginition_text">إضافة بيانات وجه 3D</string>
+    <string name="structure_add_facerecoginition_text">إضافة بيانات الوجه 3D</string>
+    <string name="structure_face_enroll_not_able_low_electric_itle">لا يمكن إستخدام هذه الميزة بسبب ضعف البطارية</string>
+    <string name="structure_face_enroll_not_able_low_electric_msg">يجب أن يكون شحن البطارية ٥% على الأقل لبدء التسجيل.</string>
+    <string name="structure_manage_facerecoginition_text">إدارة البيانات الوجه 3D</string>
     <string name="suggest_unrestrict_max_aspect_ratio_title">تعمل هذه التطبيقات بشكل أفضل في وضع ملء الشاشة</string>
     <string name="suggested_fingerprint_lock_settings_summary">إلغاء التأمين باستخدام بصمة الإصبع</string>
     <string name="suggested_fingerprint_lock_settings_title">استخدام بصمة الإصبع</string>

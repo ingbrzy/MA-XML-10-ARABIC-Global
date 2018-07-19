@@ -298,7 +298,7 @@
     <string name="xspace_default_setting_label">التطبيق الافتراضي</string>
     <string name="xspace_default_app_title">التطبيق الافتراضي</string>
     <string name="xspace_default_app_summary">تعيين التطبيق الافتراضي للمدفوعات، والمشاركة، والمفضلة، وأكثر من ذلك.</string>
-    <string name="xspace_default_setting_dialog_title">الافتراضية</string>
+    <string name="xspace_default_setting_dialog_title"> الإفتراضي</string>
     <string name="xspace_default_guide_notification_content">انقر للتغيير</string>
     <string name="xspace_default_guide_notification_main_title">استخدام التطبيق الأفتراضي</string>
     <string name="xspace_default_guide_notification_xspace_title">استخدام التطبيق المزدوج</string>
