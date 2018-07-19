@@ -766,9 +766,6 @@
     <string name="keyguard_charged">مشحونة</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
     <string name="keyguard_charging_info_click_to_detail">عرض التفاصيل</string>
-    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
-    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
-    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">أمس %s</string>
@@ -872,7 +869,6 @@
     <string name="left_icon">الأيقونة إلى اليسار</string>
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
-    <string name="list_delimeter">"، "</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة المرور أو إزالتها للنسخ الاحتياطي للشاشة الرئيسية الكاملة</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة للشاشة الرئيسية ’ليست محمية حاليًا</string>
     <string name="local_backup_password_title">كلمه مرور النسخ الإحطياتي الشامل</string>
@@ -1145,7 +1141,6 @@
     <string name="power_remaining_charging_duration_only">%1$s مُتبقية حتي إكتمال الشحن</string>
     <string name="power_remaining_duration_only">حوالي %1$sباقي</string>
     <string name="power_remaining_duration_only_short">%1$s متبقية</string>
-    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>

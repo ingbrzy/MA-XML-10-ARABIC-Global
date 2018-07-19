@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="airkan_control_device_des">للتحكم في التشغيل، انقر على الشريط في الاسفل.</string>
     <string name="airkan_device_xiaomi_phone">هاتفي</string>
     <string name="airkan_playing">البث في %s</string>
