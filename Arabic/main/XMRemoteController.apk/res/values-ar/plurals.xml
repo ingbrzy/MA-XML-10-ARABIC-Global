@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="apk_file_list_view_header">
+        <item quantity="other">%d APKs</item>
+        <item quantity="zero">%d APK</item>
+        <item quantity="one">%d APK</item>
+        <item quantity="two">%d APKs</item>
+        <item quantity="few">%d APKs</item>
+        <item quantity="many">%d APKs</item>
+    </plurals>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s تنزيل</item>
+        <item quantity="zero">%1$s تنزيل</item>
+        <item quantity="one">%1$s تنزيل</item>
+        <item quantity="two">%1$s تنزيلات</item>
+        <item quantity="few">%1$s تنزيلات</item>
+        <item quantity="many">%1$s تنزيل</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s مستخدم</item>
+        <item quantity="zero">%1$s مستخدم</item>
+        <item quantity="one">%1$s مستخدم</item>
+        <item quantity="two">%1$s مستخدميين</item>
+        <item quantity="few">%1$s مستخدميين</item>
+        <item quantity="many">%1$s مستخدم</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">منذ %1$d يوم</item>
+        <item quantity="zero">منذ %1$d يوم</item>
+        <item quantity="one">منذ %1$d يوم</item>
+        <item quantity="two">منذ %1$d أيام</item>
+        <item quantity="few">منذ %1$d أيام</item>
+        <item quantity="many">منذ %1$d يوم</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">منذ %1$d س</item>
+        <item quantity="zero">منذ %1$d س</item>
+        <item quantity="one">منذ %1$d س</item>
+        <item quantity="two">منذ %1$d س</item>
+        <item quantity="few">منذ %1$d س</item>
+        <item quantity="many">منذ %1$d س</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d علامة تجارية متوفرة</item>
+        <item quantity="zero">%d علامة تجارية متوفرة</item>
+        <item quantity="one">%d علامة تجارية متوفرة</item>
+        <item quantity="two">%d علامات تجارية متوفرة</item>
+        <item quantity="few">%d علامات تجارية متوفرة</item>
+        <item quantity="many">%d علامة تجارية متوفرة</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">منذ %1$d دقيقة</item>
+        <item quantity="zero">منذ %1$d دقيقة</item>
+        <item quantity="one">منذ %1$d دقيقة</item>
+        <item quantity="two">منذ %1$d دقائق</item>
+        <item quantity="few">منذ %1$d دقائق</item>
+        <item quantity="many">منذ %1$d دقيقة</item>
+    </plurals>
+    <plurals name="mitv_show_update_full">
+        <item quantity="other">%d حلقة</item>
+        <item quantity="zero">%d حلقة</item>
+        <item quantity="one">%d حلقة</item>
+        <item quantity="two">%d حلقات</item>
+        <item quantity="few">%d حلقات</item>
+        <item quantity="many">%d حلقة</item>
+    </plurals>
+    <plurals name="video_count_info">
+        <item quantity="other">%d فيديو</item>
+        <item quantity="zero">%d فيديو</item>
+        <item quantity="one">%d فيديو</item>
+        <item quantity="two">%d فيديوهات</item>
+        <item quantity="few">%d فيديوهات</item>
+        <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="video_play_series_num">
+        <item quantity="other">تشغيل الحلقة %d</item>
+        <item quantity="zero">تشغيل الحلقة %d</item>
+        <item quantity="one">تشغيل الحلقة %d</item>
+        <item quantity="two">تشغيل الحلقة %d</item>
+        <item quantity="few">تشغيل الحلقة %d</item>
+        <item quantity="many">تشغيل الحلقة %d</item>
+    </plurals>
+    <plurals name="video_search_title">
+        <item quantity="other">تم العثور على %d فيديو</item>
+        <item quantity="zero">تم العثور على %d فيديو</item>
+        <item quantity="one">تم العثور على %d فيديو</item>
+        <item quantity="two">تم العثور على %d فيديوهات</item>
+        <item quantity="few">تم العثور على %d فيديوهات</item>
+        <item quantity="many">تم العثور على %d فيديو</item>
+    </plurals>
+</resources>

@@ -11,7 +11,7 @@
     <string name="permdesc_downloadManagerAdvanced">السماح للتطبيق الوصول إلى الميزات المتقدمة للتنزيلات. يمكن للتطبيقات الضارة استخدام هذا لتعطيل التنزيلات والوصول إلى المعلومات الخاصة.</string>
     <string name="permlab_downloadCompletedIntent">إرسال إشعارات التنزيل.</string>
     <string name="permdesc_downloadCompletedIntent">السماح للتطبيق إرسال إشعارات حول التنزيلات المكتملة. يمكن للتطبيقات الضارة استخدام هذا للتشويش على التطبيقات الأخرى التي تقوم بتزيل الملفات.</string>
-    <string name="permlab_seeAllExternal">مشاهدة كل التنزيلات إلى وحدة تخزين USB</string>
+    <string name="permlab_seeAllExternal">مشاهدة كل التنزيلات في بطاقة الذاكرة SD</string>
     <string name="permdesc_seeAllExternal">السماح للتطبيق بمشاهدة كل التنزيلات في بطاقة الذاكرة SD، بغض النظر عن التطبيق الذي قام بتنزيلها.</string>
     <string name="permlab_downloadCacheNonPurgeable">حجز مساحة في ذاكرة التخزين المؤقت للتنزيل</string>
     <string name="permdesc_downloadCacheNonPurgeable">السماح للتطبيق بتنزيل الملفات إلى ذاكرة التخزين المؤقت للتنزيل التي لا يمكن حذفها تلقائيا عند حاجة مدير التنزيل إلى مساحة أكبر.</string>

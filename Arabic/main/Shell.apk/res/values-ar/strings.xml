@@ -5,7 +5,7 @@
     <string name="bugreport_in_progress_title">جارٍ إنشاء تقرير الخطأ #%d.</string>
     <string name="bugreport_finished_title">تم تسجيل تقرير الخطأ #%d.</string>
     <string name="bugreport_updating_title">إضافة تفاصيل إلى تقرير الخطأ</string>
-    <string name="bugreport_updating_wait">الرجاء الانتظار…</string>
+    <string name="bugreport_updating_wait">يُرجى الانتظار…</string>
     <string name="bugreport_finished_text">انقر لمشاركة تقرير الخطأ.</string>
     <string name="bugreport_finished_pending_screenshot_text">انقر لمشاركة تقرير الأخطاء بدون لقطة شاشة أو انتظر حتى انتهاء لقطة الشاشة</string>
     <string name="bugreport_confirm">تحتوي تقارير الأخطاء على بيانات من عدة ملفات سجلات في النظام، بما في ذلك بيانات قد ترى أنها حساسة (مثل بيانات استخدام التطبيقات وبيانات الموقع). ولذلك احرص على عدم مشاركة تقارير الأخطاء إلا مع من تثق به من الأشخاص والتطبيقات.</string>

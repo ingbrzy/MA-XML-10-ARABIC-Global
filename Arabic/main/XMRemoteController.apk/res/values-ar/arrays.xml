@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>التبريد</item>
+        <item>تدفئة</item>
+        <item>الرطوبة</item>
+        <item>مروحة</item>
+    </string-array>
+    <string-array name="answer">
+        <item>يمكن لجهازك فقط أن يقترن مع تلفاز Mi، Mi Box، و عدد قليل من أجهزة الاندرويد بإستخدام Wi-Fi.</item>
+        <item>قم بتأكد من اختيار طراز مكيف الهواء الصحيح في عملية الاقتران. اتبع التعليمات في الجهاز الخاص بك حتى يكتمل الاقتران.</item>
+        <item>لا. حالياً يمكنك استخدام Mi 4، Mi 4c، و Redmi Note 2 كأجهزة ريموت IR.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>الأحد</item>
+        <item>الإثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="question">
+        <item>لماذا يستمر الهاتف في البحث عن أجهزة لاسلكية؟</item>
+        <item>لماذا فقط يمكنني تشغيل مكيف هواء ولا يمكنني إيقافة؟</item>
+        <item>هل يمكنني استخدام Mi 3، Mi 2، و Redmi كأجهزة ريموت IR؟</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>تشغيل مكيف هواء Haier في غرفة المعيشة</item>
+        <item>ضبط درجة الحرارة إلى ٢٥ درجة</item>
+        <item>ضبط اتجاه الرياح إلى \"الأعلى\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>تشغيل مكيف هواء Gree</item>
+        <item>التبديل إلى وضع التأرجح</item>
+        <item>زيادة سرعة رياح مكيف الهواء</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>تشغيل جهاز فك التشفير‬‎</item>
+        <item>أريد مشاهدة تلفزيون \"خونان\"</item>
+        <item>الرجوع إلى القناة ١٥</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>تشغيل مكيف الهواء</item>
+        <item>أريد مشاهدة تلفزيون \"شنجن\"</item>
+        <item>الرجوع إلى القناة ١٢</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>تشغيل التلفاز في غرفة النوم</item>
+        <item>إيقاف تشغيل التلفاز</item>
+        <item>رفع مستوى الصوت في التلفاز</item>
+    </string-array>
+</resources>

@@ -12,10 +12,10 @@
 إذا لم تطلب الاسترداد بنفسك، فلا تسمح بمتابعة العملية. يؤدي لك إلى استبدال أية بيانات حاليًا على الجهاز."</string>
     <string name="allow_restore_button_label">استرداد بياناتي</string>
     <string name="deny_restore_button_label">عدم الاسترداد</string>
-    <string name="current_password_text">الرجاء إدخال كلمة مرور النسخ الاحتياطي أدناه:</string>
-    <string name="device_encryption_restore_text">الرجاء إدخال كلمة مرور تشفير جهازك أدناه.</string>
-    <string name="device_encryption_backup_text">الرجاء إدخال كلمة مرور تشفير الجهاز. سيتم استخدام ذلك أيضًا لتشفير أرشيف النسخ الاحتياطي.</string>
-    <string name="backup_enc_password_text">الرجاء إدخال كلمة المرور للاستخدام لتشفير بيانات النسخة الاحتياطية بالكامل. إذا تم ترك هذا فارغًا، فسيتم استخدام كلمة مرور النسخ الاحتياطي الحالية:</string>
+    <string name="current_password_text">يُرجى إدخال كلمة مرور النسخ الاحتياطي أدناه:</string>
+    <string name="device_encryption_restore_text">يُرجى إدخال كلمة مرور تشفير جهازك أدناه.</string>
+    <string name="device_encryption_backup_text">يُرجى إدخال كلمة مرور تشفير الجهاز. سيتم استخدام ذلك أيضًا لتشفير أرشيف النسخ الاحتياطي.</string>
+    <string name="backup_enc_password_text">يُرجى إدخال كلمة المرور للاستخدام لتشفير بيانات النسخة الاحتياطية بالكامل. إذا تم ترك هذا فارغًا، فسيتم استخدام كلمة مرور النسخ الاحتياطي الحالية:</string>
     <string name="backup_enc_password_optional">إذا كنت ترغب في تشفير بيانات النسخة الاحتياطية بالكامل، فأدخل كلمة المرور أدناه:</string>
     <string name="backup_enc_password_required">نظرًا لكون جهازك مشفرًا، أنت مطالب بتشفير النسخة الاحتياطية. يُرجى إدخال كلمة المرور أدناه:</string>
     <string name="restore_enc_password_text">إذا كانت بيانات الاسترداد مشفرة، فالرجاء إدخال كلمة المرور أدناه:</string>

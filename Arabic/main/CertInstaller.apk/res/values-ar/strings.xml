@@ -26,8 +26,8 @@
     <string name="cert_too_large_error">تعذر التثبيت نظرًا لأن حجم الشهادة أكبر من اللازم.</string>
     <string name="cert_missing_error">تعذر التثبيت نظرًا لتعذر تحديد مكان ملف الشهادة.</string>
     <string name="cert_read_error">تعذر التثبيت نظرًا لتعذر قراءة ملف الشهادة.</string>
-    <string name="no_cert_file_found">‏لم يتم العثور على ملف شهادة في وحدة تخزين USB.</string>
-    <string name="sdcard_not_present">‏وحدة تخزين USB غير متاحة.</string>
+    <string name="no_cert_file_found">‏لم يتم العثور على ملف شهادة في بطاقة SD.</string>
+    <string name="sdcard_not_present">‏بطاقة SD غير موجودة.</string>
     <string name="only_primary_user_allowed">يُسمح لمالك هذا الجهاز فقط تثبيت الشهادات.</string>
     <string name="credential_usage_label">استخدام بيانات الاعتماد:</string>
     <string name="wifi_title">‏الملف الشخصي لاتصال Wi-Fi</string>

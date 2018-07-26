@@ -10,21 +10,23 @@
     <string name="httpErrorBadUrl">‏تعذر فتح الصفحة لأن عنوان URL غير صالح.</string>
     <string name="httpErrorUnsupportedScheme">البروتوكول غير معتمد.</string>
     <string name="no">إلغاء</string>
-    <string name="ok">موافق</string>
+    <string name="ok">حسنًا</string>
     <string name="paste">لصق</string>
     <string name="search_go">بحث</string>
     <string name="selectAll">تحديد الكل</string>
     <string name="unknownName">غير معروف</string>
     <string name="untitled">‏&lt;بلا عنوان></string>
-    <string name="VideoView_error_button">موافق</string>
+    <string name="VideoView_error_button">حسنًا</string>
     <string name="VideoView_error_text_unknown">لا يمكنك تشغيل هذا الفيديو.</string>
     <string name="VideoView_error_title">مشكلة في الفيديو</string>
-    <string name="yes">موافق</string>
+    <string name="yes">حسنًا</string>
     <string name="dialog_alert_title">تنبيه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">عذرًا، هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
     <string name="selectTextMode">تحديد نص</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">رمز بصمة الإصبع</string>
     <string name="paste_as_plain_text">اللصق كنص عادي</string>
+    <string name="autofill">الملء التلقائي</string>
     <string name="BaMmi">حظر الاتصال</string>
     <string name="CLIRDefaultOffNextCallOff">الإعداد الافتراضي لمعرف المتصل هو غير مقيّد. الاتصال التالي: غير مقيّد</string>
     <string name="CLIRDefaultOffNextCallOn">الإعداد الافتراضي لمعرف المتصل هو غير مقيّد. الاتصال التالي: مقيّد</string>
@@ -41,8 +43,10 @@
     <string name="ColrMmi">تقييد معرّف الخط المتصل</string>
     <string name="CwMmi">انتظار المكالمة</string>
     <string name="DndMmi">عدم الإزعاج</string>
+    <string name="EmergencyCallWarningSummary">تتطلب مكالمات الطوارئ شبكة جوّال.</string>
+    <string name="EmergencyCallWarningTitle">‏الاتصال عبر Wi-Fi نشط</string>
     <string name="Midnight">منتصف الليل</string>
-    <string name="NetworkPreferenceSwitchSummary">‏لتحسين الاستقبال، يمكنك تجربة تغيير النوع المحدّد في النظام > الشبكة والإنترنت > شبكات الجوّال > نوع الشبكة المفضّل.</string>
+    <string name="NetworkPreferenceSwitchSummary">‏لتحسين الاستقبال، يمكنك محاولة تغيير النوع المحدّد من خلال الإعدادات > الشبكة والإنترنت > شبكات الجوّال > نوع الشبكة المفضّل.</string>
     <string name="NetworkPreferenceSwitchTitle">يتعذر الوصول إلى الشبكة</string>
     <string name="Noon">الظهر</string>
     <string name="PinMmi">‏تغيير رمز PIN</string>
@@ -99,7 +103,7 @@
     <string name="aerr_report">إرسال تعليقات</string>
     <string name="aerr_restart">فتح التطبيق مرة أخرى</string>
     <string name="aerr_wait">انتظار</string>
-    <string name="alert_windows_notification_channel_group_name">عرض التطبيق أمام غيره</string>
+    <string name="alert_windows_notification_channel_group_name">إظهار فوق التطبيقات الأخرى</string>
     <string name="alert_windows_notification_channel_name">جارٍ عرض %s فوق تطبيقات أخرى</string>
     <string name="alert_windows_notification_message">إذا كنت لا تريد أن يستخدم %s هذه الميزة، فانقر لفتح الإعدادات، ثم اختر تعطيلها.</string>
     <string name="alert_windows_notification_title">يتم عرض %s فوق التطبيقات الأخرى.</string>
@@ -134,7 +138,6 @@
     <string name="app_running_notification_text">انقر للحصول على مزيد من المعلومات أو لإيقاف التطبيق.</string>
     <string name="app_running_notification_title">%1$s قيد التشغيل</string>
     <string name="app_upgrading_toast">جارٍ ترقية %1$s…</string>
-    <string name="autofill">الملء التلقائي</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -170,13 +173,13 @@
     <string name="back_button_label">رجوع</string>
     <string name="badPin">‏رمز PIN القديم الذي كتبته غير صحيح.</string>
     <string name="badPuk">‏رمز PUK الذي كتبته غير صحيح.</string>
-    <string name="battery_saver_description">"للمساعدة في تحسين عمر البطارية، يساعد موفر البطارية في تقليل أداء الجهاز ويفرض قيدًا على الاهتزاز وخدمات الموقع ومعظم بيانات الخلفية. قد لا يتم تحديث البريد الإلكتروني والمراسلة والتطبيقات الأخرى التي تعتمد على المزامنة ما لم تفتحها.
+    <string name="battery_saver_description">"للمساعدة في تحسين عمر البطارية، يساعد موفّر البطارية في تقليل أداء الجهاز والحد من الاهتزاز وخدمات الموقع ومعظم بيانات الخلفية، بالإضافة إلى عدم تحديث البريد الإلكتروني والمراسلة والتطبيقات الأخرى التي تعتمد على المزامنة ما لم يتم فتحها.
 
-يتم إيقاف موفر البطارية تلقائيًا أثناء شحن الجهاز."</string>
+يتم إيقاف موفّر البطارية تلقائيًا أثناء شحن الجهاز."</string>
     <string name="beforeOneMonthDurationPast">قبل شهر واحد</string>
     <string name="bluetooth_a2dp_audio_route_name">صوت بلوتوث</string>
     <string name="browse">المتصفح</string>
-    <string name="bugreport_message">سيجمع هذا معلومات حول حالة جهازك الحالي لإرسالها كرسالة إلكترونية، ولكنه سيستغرق وقتًا قليلاً من بدء عرض تقرير بالأخطاء. وحتى يكون جاهزًا للإرسال، الرجاء الانتظار.</string>
+    <string name="bugreport_message">سيجمع هذا معلومات حول حالة جهازك الحالي لإرسالها كرسالة إلكترونية، ولكنه سيستغرق وقتًا قليلاً من بدء عرض تقرير بالأخطاء. وحتى يكون جاهزًا للإرسال، يُرجى الانتظار.</string>
     <string name="bugreport_option_full_summary">يمكنك استخدام هذا الخيار للحصول على حد أدنى من تدخل النظام عند توقف استجابة الجهاز أو عند بطئها الشديد أو عند الحاجة إلى جميع أقسام التقرير. ولا يسمح لك هذا الخيار بالحصول على مزيد من التفاصيل أو تسجيل لقطات شاشة إضافية.</string>
     <string name="bugreport_option_full_title">تقرير كامل</string>
     <string name="bugreport_option_interactive_summary">يمكنك استخدام هذا الخيار في معظم الأحيان، حيث يتيح لك إمكانية تتبع مستوى تقدم التقرير والحصول على مزيد من المعلومات حول المشكلة وتسجيل لقطات شاشة. وقد يتم إغفال بعض الأقسام الأقل استخدامًا والتي تستغرق وقتًا طويلاً أثناء إعداد التقرير.</string>
@@ -234,7 +237,7 @@
     <string name="data_usage_4g_limit_title">‏تم بلوغ حد بيانات اتصال 4G</string>
     <string name="data_usage_limit_body">توقفت البيانات مؤقتًا لاستكمال الدورة</string>
     <string name="data_usage_limit_snoozed_body">%s فوق الحد المعين.</string>
-    <string name="data_usage_mobile_limit_snoozed_title">تم تجاوز حد بيانات الجوال</string>
+    <string name="data_usage_mobile_limit_snoozed_title">تم تجاوز حد بيانات الجوّال</string>
     <string name="data_usage_mobile_limit_title">تم بلوغ حد بيانات الجوّال</string>
     <string name="data_usage_restricted_body">انقر لإزالة القيد.</string>
     <string name="data_usage_restricted_title">تم تقييد بيانات الخلفية</string>
@@ -254,7 +257,7 @@
     <string name="date_picker_prev_month_button">الشهر السابق</string>
     <string name="date_time">%2$s %1$s</string>
     <string name="date_time_done">تم</string>
-    <string name="date_time_set">تعيين</string>
+    <string name="date_time_set">ضبط</string>
     <string name="day">يوم</string>
     <string name="days">أيام</string>
     <string name="decline">رفض</string>
@@ -270,10 +273,6 @@
     <string name="deleted_key">تم حذف %1$s</string>
     <string name="demo_restarting_message">جارٍ إعادة تعيين الجهاز…</string>
     <string name="demo_starting_message">جارٍ بدء العرض التوضيحي…</string>
-    <string name="demo_user_inactivity_timeout_countdown">ستفقد أي تغييرات وسيبدأ العرض التوضيحي مرة أخرى خلال %1$s من الثواني…</string>
-    <string name="demo_user_inactivity_timeout_left_button">إلغاء</string>
-    <string name="demo_user_inactivity_timeout_right_button">إعادة التعيين الآن</string>
-    <string name="demo_user_inactivity_timeout_title">هل تريد إعادة تعيين الجهاز؟</string>
     <string name="deny">رفض</string>
     <string name="description_target_unlock_tablet">مرر بسرعة لإلغاء التأمين.</string>
     <string name="device_storage_monitor_notification_channel">السعة التخزينية للجهاز</string>
@@ -286,25 +285,13 @@
     <string name="display_manager_overlay_display_name">المركب #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">آمن</string>
     <string name="display_manager_overlay_display_title">‏%1$s: %2$dx%3$d، %4$d نقطة لكل بوصة</string>
-    <string name="dlg_ok">موافق</string>
+    <string name="dlg_ok">حسنًا</string>
     <string name="done_label">تم</string>
     <string name="double_tap_toast">نصيحة: اضغط مرتين للتكبير والتصغير.</string>
     <string name="dump_heap_notification">لقد تجاوزت %1$s حد الذاكرة.</string>
     <string name="dump_heap_notification_detail">تم نسخ الذاكرة، انقر للمشاركة.</string>
     <string name="dump_heap_text">تجاوزت عملية %1$s حد الذاكرة المخصص لها وقدره %2$s، ويتوفر نَسْخ للذاكرة لمشاركته مع مطور برامج العملية ولكن توخ الحذر حيث قد يحتوي نَسْخ الذاكرة هذا على معلومات شخصية يملك التطبيق حق الوصول إليها.</string>
     <string name="dump_heap_title">هل تريد مشاركة نَسْخ الذاكرة؟</string>
-    <string name="durationDayHour">%1$d يوم %2$d ساعة</string>
-    <string name="durationDayHours">%1$d يوم %2$d ساعة</string>
-    <string name="durationDays">%1$d يوم</string>
-    <string name="durationHourMinute">%1$d ساعة %2$d دقيقة</string>
-    <string name="durationHourMinutes">%1$d ساعة %2$d دقيقة</string>
-    <string name="durationHours">%1$d ساعة</string>
-    <string name="durationMinute">%1$d دقيقة</string>
-    <string name="durationMinuteSecond">%1$d دقيقة %2$d ثانية</string>
-    <string name="durationMinuteSeconds">%1$d دقيقة %2$d ثانية</string>
-    <string name="durationMinutes">%1$d دقيقة</string>
-    <string name="durationSecond">%1$d ثانية</string>
-    <string name="durationSeconds">%1$d ثانية</string>
     <string name="editTextMenuTitle">إجراءات النص</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
@@ -384,6 +371,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
     <string name="fcComplete">اكتمل كود الميزة.</string>
     <string name="fcError">حدثت مشكلة بالاتصال أو أن كود الميزة غير صحيح.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">بحث</string>
     <string name="find_next">بحث عن التطابق التالي</string>
     <string name="find_on_page">بحث في الصفحة</string>
@@ -405,14 +393,13 @@
     <string name="floating_toolbar_close_overflow_description">إغلاق التجاوز</string>
     <string name="floating_toolbar_open_overflow_description">خيارات أخرى</string>
     <string name="force_close">موافق</string>
-    <string name="foreground_service_app_in_background">جارٍ تشغيل %1$s في الخلفية</string>
-    <string name="foreground_service_apps_in_background">جارٍ تشغيل %1$d تطبيق في الخلفية</string>
+    <string name="foreground_service_app_in_background">يستخدم تطبيق %1$s البطارية</string>
+    <string name="foreground_service_apps_in_background">تستخدم %1$d من التطبيقات البطارية</string>
     <string name="foreground_service_multiple_separator">%1$s، %2$s</string>
     <string name="foreground_service_tap_for_details">انقر للحصول على تفاصيل حول البطارية واستخدام البيانات</string>
     <string name="forward_intent_to_owner">أنت تستخدم هذا التطبيق خارج ملفك الشخصي للعمل</string>
     <string name="forward_intent_to_work">أنت تستخدم هذا التطبيق في ملفك الشخصي للعمل</string>
     <string name="gadget_host_error_inflating">تعذرت إضافة أداة.</string>
-    <string name="gigabyteShort">غيغابايت</string>
     <string name="global_action_assist">مساعدة</string>
     <string name="global_action_bug_report">تقرير الأخطاء</string>
     <string name="global_action_emergency">الطوارئ</string>
@@ -440,7 +427,7 @@
     <string name="granularity_label_line">سطر</string>
     <string name="granularity_label_link">رابط</string>
     <string name="granularity_label_word">كلمة</string>
-    <string name="hardware">إظهار لوحة المفاتيح الظاهرية</string>
+    <string name="hardware">إظهار لوحة المفاتيح الافتراضية</string>
     <string name="heavy_weight_notification">%1$s يعمل</string>
     <string name="heavy_weight_notification_detail">انقر للتبديل إلى التطبيق</string>
     <string name="heavy_weight_switcher_text">يوجد تطبيق آخر قيد التشغيل فعلاً ويجب إيقافه حتى تتمكن من بدء تطبيق جديد.</string>
@@ -456,7 +443,7 @@
     <string name="httpErrorFileNotFound">تعذر العثور على الملف المطلوب.</string>
     <string name="httpErrorIO">تعذر الاتصال بالخادم. أعد المحاولة لاحقًا.</string>
     <string name="httpErrorLookup">‏تعذر العثور على عنوان URL.</string>
-    <string name="httpErrorOk">موافق</string>
+    <string name="httpErrorOk">حسنًا</string>
     <string name="httpErrorProxyAuth">لم تتم المصادقة عبر الخادم الوكيل بنجاح.</string>
     <string name="httpErrorRedirectLoop">تحتوي هذه الصفحة على عمليات إعادة توجيه خادم كثيرة للغاية.</string>
     <string name="httpErrorTimeout">انتهت مهلة الاتصال بالخادم.</string>
@@ -570,6 +557,7 @@
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ إلغاء تأمين شريحة SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">حاول مرة أخرى خلال %1$d ثانية.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
@@ -583,7 +571,6 @@
     <string name="kg_wrong_password">كلمة مرور خاطئة</string>
     <string name="kg_wrong_pattern">نقش خاطئ</string>
     <string name="kg_wrong_pin">رقم تعريف شخصي خاطئ</string>
-    <string name="kilobyteShort">كيلوبايت</string>
     <string name="language_picker_section_all">جميع اللغات</string>
     <string name="language_picker_section_suggested">المقترحة</string>
     <string name="language_selection_title">إضافة لغة</string>
@@ -779,7 +766,6 @@
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">أفقي غير معروف</string>
     <string name="mediasize_unknown_portrait">عمودي غير معروف</string>
-    <string name="megabyteShort">ميغابايت</string>
     <string name="meid">MEID</string>
     <string name="menu_delete_shortcut_label">حذف</string>
     <string name="menu_enter_shortcut_label">enter</string>
@@ -828,8 +814,8 @@
     <string name="notification_channel_developer">رسائل مطوّر البرامج</string>
     <string name="notification_channel_device_admin">إدارة الجهاز</string>
     <string name="notification_channel_emergency_callback">وضع معاودة الاتصال بالطوارئ</string>
-    <string name="notification_channel_foreground_service">التطبيقات التي تعمل في الخلفية</string>
-    <string name="notification_channel_mobile_data_alert">تنبيهات بيانات الجوّال</string>
+    <string name="notification_channel_foreground_service">التطبيقات التي تستهلك البطارية</string>
+    <string name="notification_channel_mobile_data_status">حالة بيانات الجوّال</string>
     <string name="notification_channel_network_alert">التنبيهات</string>
     <string name="notification_channel_network_alerts">تنبيهات الشبكة</string>
     <string name="notification_channel_network_available">الشبكة متوفرة</string>
@@ -840,14 +826,15 @@
     <string name="notification_channel_sms">‏الرسائل القصيرة SMS</string>
     <string name="notification_channel_updates">التحديثات</string>
     <string name="notification_channel_usb">‏اتصال USB</string>
-    <string name="notification_channel_virtual_keyboard">لوحة المفاتيح الظاهرية</string>
+    <string name="notification_channel_virtual_keyboard">لوحة المفاتيح الافتراضية</string>
     <string name="notification_channel_voice_mail">رسائل البريد الصوتي</string>
-    <string name="notification_channel_vpn">حالة الشبكة الظاهرية الخاصة</string>
+    <string name="notification_channel_vpn">حالة الشبكة الافتراضية الخاصة</string>
     <string name="notification_channel_wfc">‏الاتصال عبر Wi-Fi</string>
-    <string name="notification_hidden_by_policy_text">تم إخفاء المحتويات بواسطة السياسة</string>
-    <string name="notification_hidden_text">المحتويات مخفية</string>
+    <string name="notification_hidden_text">إشعار جديد</string>
     <string name="notification_listener_binding_label">برنامج تلقّي الإشعارات الصوتية</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">خدمة ترتيب أهمية الإشعارات</string>
+    <string name="notification_reply_button_accessibility">الرد</string>
     <string name="notification_title">حدث خطأ أثناء تسجيل الدخول إلى %1$s</string>
     <string name="notification_work_profile_content_description">الملف الشخصي للعمل</string>
     <string name="now_string_shortest">الآن</string>
@@ -957,8 +944,8 @@
     <string name="permdesc_requestInstallPackages">للسماح لتطبيق ما بطلب تثبيت الحزم.</string>
     <string name="permdesc_route_media_output">للسماح للتطبيق بتوجيه إخراج الوسائط إلى أجهزة خارجية أخرى.</string>
     <string name="permdesc_runInBackground">يمكن أن يعمل هذا التطبيق في الخلفية. وهذا قد يستنفد البطارية بشكل أسرع.</string>
-    <string name="permdesc_sdcardRead">‏للسماح للتطبيق بقراءة محتويات وحدة تخزين USB.</string>
-    <string name="permdesc_sdcardWrite">‏للسماح للتطبيق بالكتابة إلى وحدة تخزين USB.</string>
+    <string name="permdesc_sdcardRead">‏للسماح للتطبيق بقراءة محتويات بطاقة SD.</string>
+    <string name="permdesc_sdcardWrite">‏للسماح للتطبيق بالكتابة إلى بطاقة SD.</string>
     <string name="permdesc_sendSms">‏للسماح للتطبيق بإرسال رسائل قصيرة SMS. وقد يؤدي هذا إلى تحمل رسوم غير متوقعة. وقد تكلفك التطبيقات الضارة أموالاً من خلال إرسال رسائل بدون موافقة منك.</string>
     <string name="permdesc_setAlarm">للسماح للتطبيق بضبط المنبه في تطبيق المنبه المثبّت. ربما لا تنفذ بعض تطبيقات المنبه هذه الميزة.</string>
     <string name="permdesc_setInputCalibration">يتيح للتطبيق إمكانية تعديل معلمات المعايرة في شاشة اللمس. يجب عدم اللجوء إليه مع التطبيقات العادية.</string>
@@ -1084,8 +1071,8 @@
     <string name="permlab_requestInstallPackages">طلب حزم التثبيت</string>
     <string name="permlab_route_media_output">توجيه إخراج الوسائط</string>
     <string name="permlab_runInBackground">العمل في الخلفية</string>
-    <string name="permlab_sdcardRead">‏قراءة محتويات وحدة تخزين USB</string>
-    <string name="permlab_sdcardWrite">‏تعديل محتويات وحدة تخزين USB أو حذفها</string>
+    <string name="permlab_sdcardRead">‏قراءة محتويات بطاقة SD</string>
+    <string name="permlab_sdcardWrite">‏تعديل محتويات بطاقة SD أو حذفها</string>
     <string name="permlab_sendSms">‏إرسال رسائل قصيرة SMS وعرضها</string>
     <string name="permlab_setAlarm">تعيين منبه</string>
     <string name="permlab_setInputCalibration">تغيير معايرة أجهزة الإدخال</string>
@@ -1159,6 +1146,7 @@
     <string name="policylab_watchLogin">مراقبة محاولات إلغاء قفل الشاشة</string>
     <string name="policylab_wipeData">مسح جميع البيانات</string>
     <string name="policylab_wipeData_secondaryUser">محو بيانات المستخدم</string>
+    <string name="popup_window_default_title">نافذة منبثقة</string>
     <string name="postalTypeCustom">مخصص</string>
     <string name="postalTypeHome">المنزل</string>
     <string name="postalTypeOther">آخر</string>
@@ -1173,7 +1161,7 @@
     <string name="print_service_installed_title">تم تثبيت خدمة %s</string>
     <string name="profile_encrypted_detail">تم قفل الملف الشخصي للعمل.</string>
     <string name="profile_encrypted_message">انقر لإلغاء قفل الملف الشخصي للعمل</string>
-    <string name="progress_erasing">‏جارٍ محو وحدة تخزين USB...</string>
+    <string name="progress_erasing">‏جارٍ محو بطاقة SD...</string>
     <string name="quick_contacts_not_available">لم يتم العثور على تطبيق لعرض جهة الاتصال هذه.</string>
     <string name="reason_service_unavailable">خدمة الطباعة ليست مفعّلة</string>
     <string name="reason_unknown">غير معروف</string>
@@ -1207,8 +1195,6 @@
     <string name="replace">استبدال...</string>
     <string name="report">إرسال تقرير</string>
     <string name="reset">إعادة تعيين</string>
-    <string name="reset_retail_demo_mode_text">انقر لإعادة تعيين الجهاز</string>
-    <string name="reset_retail_demo_mode_title">هل تريد إعادة تعيين الجهاز؟</string>
     <string name="restr_pin_confirm_pin">‏تأكيد رمز PIN الجديد</string>
     <string name="restr_pin_create_pin">إنشاء رقم تعريف شخصي لتعديل القيود</string>
     <string name="restr_pin_enter_admin_pin">إدخال رقم التعريف الشخصي للمشرف</string>
@@ -1361,7 +1347,6 @@
     <string name="system_error_manufacturer">حدثت مشكلة داخلية في جهازك. يمكنك الاتصال بالمصنِّع للحصول على تفاصيل.</string>
     <string name="system_error_wipe_data">حدثت مشكلة داخلية في جهازك، وقد لا يستقر وضعه حتى إجراء إعادة الضبط بحسب بيانات المصنع.</string>
     <string name="taking_remote_bugreport_notification_title">جارٍ الحصول على تقرير الخطأ…</string>
-    <string name="terabyteShort">تيرابايت</string>
     <string name="tethered_notification_message">انقر للإعداد.</string>
     <string name="tethered_notification_title">النطاق أو نقطة الاتصال نشطة</string>
     <string name="textSelectionCABTitle">تحديد النص</string>
@@ -1403,6 +1388,8 @@
     <string name="usb_notification_message">انقر للحصول على المزيد من الخيارات.</string>
     <string name="usb_ptp_notification_title">‏USB لنقل الصور</string>
     <string name="usb_supplying_notification_title">‏يتم استخدام الاتصال عبر USB لإمداد الجهاز المتصل بالطاقة</string>
+    <string name="usb_unsupported_audio_accessory_message">الجهاز الذي تم توصيله بالهاتف غير متوافق معه. انقر للحصول على المزيد من المعلومات.</string>
+    <string name="usb_unsupported_audio_accessory_title">تم اكتشاف ملحق صوتي تناظري</string>
     <string name="use_a_different_app">استخدام تطبيق آخر</string>
     <string name="user_creation_account_exists">هل تسمح لـ %1$s بإنشاء مستخدم جديد باستخدام %2$s؟</string>
     <string name="user_creation_adding">هل تسمح لـ %1$s بإنشاء مستخدم جديد باستخدام %2$s (يوجد مستخدم بهذا الحساب مسبقًا)؟</string>
@@ -1429,13 +1416,13 @@
     <string name="volume_ringtone">مستوى صوت الرنين</string>
     <string name="volume_unknown">مستوى الصوت</string>
     <string name="vpn_lockdown_config">انقر للإعداد.</string>
-    <string name="vpn_lockdown_connected">‏تم الاتصال بشبكة ظاهرية خاصة (VPN) دائمة التشغيل</string>
-    <string name="vpn_lockdown_connecting">‏جارٍ الاتصال بشبكة ظاهرية خاصة (VPN) دائمة التشغيل...</string>
-    <string name="vpn_lockdown_disconnected">‏تم فصل الشبكة الظاهرية الخاصة (VPN) دائمة التشغيل</string>
-    <string name="vpn_lockdown_error">‏خطأ بشبكة ظاهرية خاصة (VPN) دائمة التشغيل</string>
+    <string name="vpn_lockdown_connected">‏تم الاتصال بشبكة افتراضية خاصة (VPN) دائمة التشغيل</string>
+    <string name="vpn_lockdown_connecting">‏جارٍ الاتصال بشبكة افتراضية خاصة (VPN) دائمة التشغيل...</string>
+    <string name="vpn_lockdown_disconnected">‏تم فصل الشبكة الافتراضية الخاصة (VPN) دائمة التشغيل</string>
+    <string name="vpn_lockdown_error">‏خطأ بشبكة افتراضية خاصة (VPN) دائمة التشغيل</string>
     <string name="vpn_text">انقر لإدارة الشبكة.</string>
     <string name="vpn_text_long">تم الاتصال بـ %s. انقر لإدارة الشبكة.</string>
-    <string name="vpn_title">‏تم تنشيط الشبكة الظاهرية الخاصة (VPN)</string>
+    <string name="vpn_title">‏تم تنشيط الشبكة الافتراضية الخاصة (VPN)</string>
     <string name="vpn_title_long">‏تم تنشيط VPN بواسطة %s</string>
     <string name="vr_listener_binding_label">مستمع واقع افتراضي</string>
     <string name="wait">انتظار</string>
@@ -1471,7 +1458,14 @@
     <string name="whichViewApplication">فتح باستخدام</string>
     <string name="whichViewApplicationLabel">فتح</string>
     <string name="whichViewApplicationNamed">‏فتح باستخدام %1$s</string>
+    <string name="wifi_available_action_all_networks">جميع الشبكات</string>
+    <string name="wifi_available_action_connect">اتصال</string>
+    <string name="wifi_available_content_failed_to_connect">انقر للاطلاع على جميع الشبكات</string>
     <string name="wifi_available_sign_in">‏تسجيل الدخول إلى شبكة Wi-Fi</string>
+    <string name="wifi_available_title">‏الاتصال بشبكة Wi-Fi المفتوحة</string>
+    <string name="wifi_available_title_connected">‏تم الاتصال بشبكة Wi-Fi</string>
+    <string name="wifi_available_title_connecting">‏جارٍ الاتصال بشبكة Wi-Fi المفتوحة</string>
+    <string name="wifi_available_title_failed_to_connect">‏تعذَّر الاتصال بشبكة Wi‑Fi</string>
     <string name="wifi_calling_off_summary">إيقاف</string>
     <string name="wifi_connect_alert_message">‏يريد تطبيق %1$s الاتصال بشبكة Wifi ‏%2$s</string>
     <string name="wifi_connect_alert_title">هل تريد السماح بالاتصال؟</string>
@@ -1512,5 +1506,6 @@
     <string name="zen_mode_feature_name">عدم الإزعاج</string>
     <string name="zen_mode_forever">حتى يتم تعطيل \"عدم الإزعاج\"</string>
     <string name="zen_mode_forever_dnd">حتى يتم تعطيل \"عدم الإزعاج\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">حتى %1$s</string>
 </resources>

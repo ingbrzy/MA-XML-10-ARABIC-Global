@@ -50,13 +50,13 @@
         <item>Wi-Fi</item>
         <item>بلوتوث</item>
         <item>إيثرنت</item>
-        <item>‏شبكة ظاهرية خاصة (VPN)</item>
+        <item>‏شبكة افتراضية خاصة (VPN)</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>‏لإجراء مكالمات وإرسال رسائل عبر Wi-Fi، اطلب من مشغّل شبكة الجوّال أولاً إعداد هذا الجهاز، ثم شغّل الاتصال عبر Wi-Fi مرة أخرى من خلال الإعدادات.</item>
+        <item>‏لإجراء مكالمات وإرسال رسائل عبر Wi-Fi، اطلب من مشغّل شبكة الجوّال أولاً إعداد هذه الخدمة، ثم شغّل الاتصال عبر Wi-Fi مرة أخرى من خلال الإعدادات. (رمز الخطأ: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>التسجيل لدى مشغّل شبكة الجوّال</item>
+        <item>التسجيل لدى مشغِّل شبكة الجوّال (رمز الخطأ: %1$s)</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>

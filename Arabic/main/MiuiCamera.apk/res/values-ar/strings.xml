@@ -12,9 +12,9 @@
     <string name="video_camera_label">كاميرا الفيديو</string>
     <string name="wait">لحظة من فضلك…</string>
     <string name="no_storage">أدخل بطاقة SD قبل استخدام بالكاميرا</string>
-    <string name="not_enough_space">التخزين الداخلي ممتلئ</string>
-    <string name="preparing_sd">فحص التخزين الداخلي…</string>
-    <string name="access_sd_fail">تعذر الوصول إلى وحدة التخزين USB.</string>
+    <string name="not_enough_space">بطاقة الذاكرة SD ممتلئة</string>
+    <string name="preparing_sd">جار التحقق من بطاقة SD…</string>
+    <string name="access_sd_fail">تعذر الوصول إلى بطاقة SD.</string>
     <string name="confirm_restore_title">استعادة الإعدادات الافتراضية</string>
     <string name="confirm_restore_message">استعادة إعدادات الكاميرا الافتراضية ؟</string>
     <string name="confirm_location_title">هل تريد تذكر مواقع الصور؟</string>
@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="simple_mode_button_text_square">إيقاف تشغيل المربع</string>
     <string name="face_beauty_smart">ذكي</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
