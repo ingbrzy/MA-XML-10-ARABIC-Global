@@ -549,12 +549,12 @@
         <item quantity="many">%d إشعار مرئي</item>
     </plurals>
     <plurals name="find_applications">
-        <item quantity="other">بحث عن %d تطبيق</item>
-        <item quantity="zero">بحث عن %d تطبيق</item>
-        <item quantity="one">بحث عن %d تطبيق</item>
-        <item quantity="two">بحث عن %d تطبيقات</item>
-        <item quantity="few">بحث عن %d تطبيقات</item>
-        <item quantity="many">بحث عن %d تطبيق</item>
+        <item quantity="other">بحث في %d تطبيق</item>
+        <item quantity="zero">بحث في %d تطبيق</item>
+        <item quantity="one">بحث في %d تطبيق</item>
+        <item quantity="two">بحث في %d تطبيقات</item>
+        <item quantity="few">بحث في %d تطبيقات</item>
+        <item quantity="many">بحث في %d تطبيق</item>
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">تم العثور على %d تطبيق</item>
@@ -563,6 +563,14 @@
         <item quantity="two">تم العثور على %d تطبيقات</item>
         <item quantity="few">تم العثور على %d تطبيقات</item>
         <item quantity="many">تم العثور على %d تطبيق</item>
+    </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">إعادة ضبط المصنع(%dثانية)</item>
+        <item quantity="zero">إعادة ضبط المصنع(%dثانية)</item>
+        <item quantity="one">إعادة ضبط المصنع(%dثانية)</item>
+        <item quantity="two">إعادة ضبط المصنع(%dثواني)</item>
+        <item quantity="few">إعادة ضبط المصنع(%dثواني)</item>
+        <item quantity="many">إعادة ضبط المصنع(%dثانية)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d تطبيق مقفل في انتظار التنظيف</item>

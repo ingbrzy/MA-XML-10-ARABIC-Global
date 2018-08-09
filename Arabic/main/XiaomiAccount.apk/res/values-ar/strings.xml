@@ -4,7 +4,7 @@
     <string name="passport_notification_title">خطأ في تسجيل الدخول إلى %1$s</string>
     <string name="passport_login_prompt">حساب Mi واحد لجميع خدمات Mi.</string>
     <string name="passport_login_using_other_ways">طرق أخرى لتسجيل الدخول</string>
-    <string name="passport_register_using_other_ways">طرق أخرى لإنشاء حساب</string>
+    <string name="passport_register_using_other_ways">طرق أخرى لإنشاء الحساب</string>
     <string name="passport_login_title">تسجيل الدخول لحساب Mi</string>
     <string name="passport_login">تسجيل الدخول</string>
     <string name="passport_relogin">تسجيل الدخول مرة أخرى</string>

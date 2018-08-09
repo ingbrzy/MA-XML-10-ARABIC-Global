@@ -433,6 +433,7 @@
     <string name="managed_user_title">جميع التطبيقات المشغلة</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
     <string name="pref_traffic_manage_title">استخدام البيانات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_adjust_traffic_data">تعيين استخدام البيانات</string>
     <string name="pref_category_title_other">إعدادات إضافية</string>
@@ -442,9 +443,9 @@
     <string name="pref_title_declaration">تحذير قانوني</string>
     <string name="pref_new_installed_preconfig_title">الإعدادات الافتراضية للتطبيقات الجديدة</string>
     <string name="pref_bg_network_title">الاتصال في الخلفية</string>
-    <string name="pref_mi_sim_settings">إعدادات بطاقة Mi SIM</string>
-    <string name="pref_title_upload_data_usage">الإبلاغ عن إحصاءات استخدام البيانات</string>
-    <string name="pref_summary_upload_data_usage">قم بالإبلاغ عن احصائيات استخدام البيانات لمساعدتنا على تحسين MIUI. يتم إعداد التقارير وفقا لسياسة الخصوصية الخاصة بنا.</string>
+    <string name="pref_mi_sim_settings">إعدادات حزمة %s</string>
+    <string name="pref_title_upload_data_usage">الإبلاغ عن معلومات استخدام البيانات</string>
+    <string name="pref_summary_upload_data_usage">قم بالإبلاغ عن إستخدام البيانات لمساعدتنا على تحسين MIUI. يتم إعداد التقارير وفقا لسياسة الخصوصية الخاصة بنا.</string>
     <string name="pref_manual_adjust">تعيين إحصائيات استخدام البيانات يدويًا</string>
     <string name="pref_daily_adjust">تعيين استخدام البيانات في أوقات الذروة</string>
     <string name="pref_free_adjust">تعيين استخدام البيانات خارج أوقات الذروة</string>
@@ -885,6 +886,7 @@
     <string name="status_bar_network_flow_content">اليوم: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; المتبقي: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">اليوم: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; هذا الشهر: %2$s</string>
     <string name="status_bar_network_flow_today">اليوم: %1$s</string>
+    <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="pref_key_tethering_setting">حد البيانات لمرة واحدة</string>
     <string name="pref_key_tethering_title">حد البيانات لمرة واحدة</string>
     <string name="tether_limit_value_custom">تخصيص</string>
@@ -958,6 +960,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"هذا التطبيق قد يبطئ
 جهازك"</string>
+    <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_ill_proc_handle_unstaill_title">إلغاء التثبيت %s؟</string>
     <string name="om_ill_proc_handle_uninstall_prompt">إلغاء تثبيت هذا التطبيق لإصلاح مشاكل إستخدام البطارية.</string>
     <string name="om_ill_proc_type_wakelock_title">هذا التطبيق يقوم بحظر وضع السكون ويستنزف البطارية</string>
@@ -1016,6 +1019,7 @@
     <string name="usage_type_data_send">بيانات الجوال المرسلة</string>
     <string name="usage_type_no_coverage">الوقت بدون إشارة</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">أندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="power_screen">الشاشة</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1029,7 +1033,7 @@
     <string name="usage_type_wifi_running">تشغيل شبكة Wi-Fi</string>
     <string name="usage_type_audio">صوت</string>
     <string name="usage_type_video">فيديو</string>
-    <string name="usage_type_on_time">الوقت مشغّل</string>
+    <string name="usage_type_on_time">الوقت المشغل</string>
     <string name="battery_history_days">%1$dيوم %2$dساعة %3$dدقيقة %4$dثانية</string>
     <string name="battery_history_hours">%1$dس %2$dدق%3$dث</string>
     <string name="battery_history_minutes">%1$dدق %2$dث</string>
@@ -1362,11 +1366,13 @@
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_summary_networkassistants">إدارة خطة بياناتك</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">تم تجاوز الحد</string>
     <string name="menu_summary_networkassistants_3">بيانات كافية</string>
     <string name="menu_summary_networkassistants_4">البيانات على وشك النفاذ</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_networkassistants_unit_kb">ك.ب</string>
@@ -1379,12 +1385,14 @@
     <string name="menu_summary_garbage_cleanup">لا توجد مهملات</string>
     <string name="menu_summary_garbage_cleanup_2">حجم المهملات</string>
     <string name="menu_summary_garbage_cleanup_3">حذف المهملات الآن</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">استخدام البطارية</string>
     <string name="menu_summary_power_manager">يمنحك موفر البطارية مزيدًا من الوقت بين فترات الشحن</string>
     <string name="menu_summary_power_manager_1">البطارية مشحونة بالكامل</string>
     <string name="menu_summary_power_manager_2">%s متبقي</string>
     <string name="menu_summary_power_manager_3">قم بتوصيل الشاحن</string>
-    <string name="menu_summary_power_manager_4">%s حتى اكتمال الشحن</string>
+    <string name="menu_summary_power_manager_4">%s حتى يكتمل الشحن</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">تم إلغاء الفحص السابق</string>
     <string name="examination_score_100">يبدو كل شيء جيداً!</string>
     <string name="examination_score_80_100">يمكن تحسين بعض العناصر</string>
@@ -1399,7 +1407,7 @@
     <string name="activity_title_power_manager">استخدام البطارية</string>
     <string name="activity_title_garbage_cleanup">المنظف</string>
     <string name="menu_summary_app_manager">تحديث وإلغاء تثبيت التطبيقات</string>
-    <string name="menu_summary_app_manager_2">تحديثات متاحة</string>
+    <string name="menu_summary_app_manager_2">التحديثات متاحة</string>
     <string name="memory_check_content">حررت %s</string>
     <string name="memory_clear_unused">حذف ذاكرة التخزين المؤقت (%s)</string>
     <string name="activity_title_virus">الفيروسات</string>
@@ -1750,6 +1758,7 @@
     <string name="card_main_deepclean_wechat_action">حذف</string>
     <string name="card_main_sectool_title">الأدوات</string>
     <string name="card_main_monthreport_action">عرض</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">اختبار الشبكة</string>
     <string name="card_main_netcheck_summary">اختبار الاتصال لمشاكل الشبكة</string>
     <string name="card_main_netcheck_action">اختبار</string>
@@ -1887,7 +1896,7 @@
     <string name="fod_button_password">ادخل كلمة المرور</string>
     <string name="fod_button_finger">استخدام بصمة الاصبع</string>
     <string name="fod_finger_notice_title">ضع إصبعك على الشاشة</string>
-    <string name="fod_finger_windows_tips">التحقق من بصمتك</string>
+    <string name="fod_finger_windows_tips">تحقق من بصمتك</string>
     <string name="fod_authentication_shift_button">إلغاء</string>
     <string name="fod_tips_split_screen_more_than_half">ادخل كلمة المرور</string>
     <string name="lockscreen_access_pattern_start">تم بدء النقش</string>
@@ -1918,6 +1927,9 @@
     <string name="set_pattern_password_name">تعيين نقش</string>
     <string name="set_numeric_password_name">تعيين رمز PIN</string>
     <string name="set_mixed_password_name">تعيين كلمة مرور</string>
+    <string name="reset_data_title">لا يمكن إستعادة كلمة المرور</string>
+    <string name="reset_data_dialog_message">هذا الجهاز غير مرتبط بحساب Mi. لا يمكن استرداد أو إعادة تعيين كلمة المرور. قم بعمل نسخة احتياطية لجميع البيانات المهمة وإعادة ضبط المصنع. سيتم حذف جميع البيانات نهائيًا، وسيتم تهيئة بطاقة SD أثناء إعادة ضبط المصنع.</string>
+    <string name="reset_data_dialog_ok">إعدادات المصنع</string>
     <string name="wakepath_confirm_start_activity">السماح لـ%1$s بفتح %2$s؟</string>
     <string name="unlike">لا شكراً</string>
     <string name="toast_network_eror">لا يمكن الاتصال بالشبكة</string>
@@ -2170,7 +2182,7 @@
     <string name="sys_title_gamebooster_unit_mb">ميغابايت</string>
     <string name="gmscore_support_service">خدمات Google</string>
     <string name="gmscore_support_remind">قم بتفعيل هذه الميزة إذا واجهتك مشكلات في استخدام Gmail وخرائط Google وتطبيقات Google الأخرى. سوف يزيد استهلاك البطارية قليلا.</string>
-    <string name="google_base_app_install_choice">\"%s\" يتطلب إطار خدمات غوغل للتطبيقات ليعمل بشكل طبيعي، هل تريد تحميلها وتثبيتها؟</string>
+    <string name="google_base_app_install_choice">يحتاج التطبيق إطار خدمات Google ليعمل بشكل صحيح، تنزيله وتثبيته؟</string>
     <string name="application_item_disable">مقيد</string>
     <string name="application_item_already_permission">تم السماح</string>
     <string name="man_add_application">إضافة تطبيقات التشغيل التلقائي يدوياً</string>

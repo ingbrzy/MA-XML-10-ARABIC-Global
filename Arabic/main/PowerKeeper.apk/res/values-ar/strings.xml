@@ -86,4 +86,7 @@
     <string name="sleepmode_privacy_link">معرفة المزيد عن الخصوصية والحماية</string>
     <string name="sleepmode_disclaimer_cancel">إلغاء</string>
     <string name="sleepmode_disclaimer_agree">أوافق</string>
+    <string name="appconfig_active_app_dialog_title">إدارة تفعيل التطبيقات</string>
+    <string name="config_classify">ترتيب حسب إعدادات التطبيق</string>
+    <string name="active_classify">ترتيب حسب حالة النشاط</string>
 </resources>

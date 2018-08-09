@@ -148,6 +148,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه بعد ايقاف التشغيل</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
@@ -156,6 +157,7 @@
     <string name="start_up">بدء</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
     <string name="temperature_unit">%1$s°</string>
@@ -174,10 +176,14 @@
     <string name="timer_alert_type_rain">رذاذ</string>
     <string name="timer_alert_type_stove_fire">موقد نار</string>
     <string name="timer_alert_type_summer_night">ليلة الصيف</string>
+    <string name="timer_cancel_hint">إيقاف</string>
     <string name="timer_cancel_timer">إلغاء المؤقت</string>
     <string name="timer_clock_alert_text">ضبط مؤقت</string>
     <string name="timer_continue">استمر</string>
     <string name="timer_continue_timer">استئناف المؤقت</string>
+    <string name="timer_end_time">سيتوقف المؤقت في %s</string>
+    <string name="timer_end_time_format">MMM dd HH:mm</string>
+    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">موافق</string>
     <string name="timer_item_duration_display">%1$d دقيقة %2$d ثانية</string>
     <string name="timer_item_label_hint">اسم المؤقت</string>
@@ -212,6 +218,4 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">ساعة</string>
     <string name="worldcolock_timezone_local">نفس التوقيت المحلي</string>
-    <string name="timer_pause_hint">إيقاف مؤقت</string>
-    <string name="timer_running_hint">استمرار</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة شاشة</string>
@@ -8,7 +9,7 @@
     <string name="announce_for_close_default_preview">تم إغلاق إعدادات الشاشة الرئيسية الافتراضية</string>
     <string name="announce_for_close_folder">تم إغلاق المجلد</string>
     <string name="announce_for_close_launcher_menu">تم إغلاق القائمة</string>
-    <string name="announce_for_delete_gadget_and_widget">تطبيق مصغر</string>
+    <string name="announce_for_delete_gadget_and_widget">أداة</string>
     <string name="announce_for_delete_item">تم حذف %1$s</string>
     <string name="announce_for_drag_enter_delete_zone">تم سحب العناصر إلى منطقة إلغاء الثبيت</string>
     <string name="announce_for_drag_enter_folder_grid">يمكنك سحب العناصر إلى داخل المجلد</string>
@@ -111,7 +112,7 @@
     <string name="edit_mode_group_error_in_folder">أغلق المجلد قبل تجميع الأيقونات</string>
     <string name="edit_mode_group_error_one_folder">لا يمكنك تكرار المجلد مع الرموز المحددة</string>
     <string name="edit_mode_uninstall">إلغاء التثبيت</string>
-    <string name="editing_add_widget_tips">تعديل التطبيقات المصغرة</string>
+    <string name="editing_add_widget_tips">تعديل الأدوات</string>
     <string name="editing_mode_enter_tip_text">إلمس لتعديل الشاشة الرئيسية</string>
     <string name="editing_mode_title_empty">لا توجد عناصر محددة</string>
     <string name="editing_set_screen_layout_cells">إختيار تأثير تنسيق بالشاشة</string>
@@ -123,7 +124,7 @@
     <string name="encryption">تشفير</string>
     <string name="failed_to_delete_temporary">لا يمكن الإزالة</string>
     <string name="failed_to_drop">لا يمكن التحريك</string>
-    <string name="failed_to_drop_widget_invalid">هذه التطبيق المصغر غير صالح</string>
+    <string name="failed_to_drop_widget_invalid">هذه الأداة غير صالحة</string>
     <string name="failed_to_load_image">لا يمكن تحميل صورة</string>
     <string name="folder_name">مجلد</string>
     <string name="frame_load_failed">لا يمكن تحميل الإطار</string>
@@ -149,7 +150,7 @@
     <string name="gadget_clock_24_label">ساعة ٢x٤</string>
     <string name="gadget_clock_34_label">ساعة ٣x٤</string>
     <string name="gadget_clock_label">الساعة</string>
-    <string name="gadget_error_text">لا يمكن تحميل التطبيق المصغر</string>
+    <string name="gadget_error_text">لا يمكن تحميل الأداة</string>
     <string name="gadget_google_search_label">بحث في Google</string>
     <string name="gadget_load_error">جارٍ التحميل…</string>
     <string name="gadget_mtz_label">الأدوات الذكية</string>
@@ -179,7 +180,7 @@
     <string name="group_shortcuts">اختصارات</string>
     <string name="guide_install_app_msg">لم يتم تثبيت التطبيق على جهازك. هل تريد إيجاد وتثبيت التطبيق الآن؟</string>
     <string name="guide_install_app_title">هل تريد إيجاد وتثبيت التطبيق؟</string>
-    <string name="guide_tips_editing_mode">اضغط لمدة طويلة لاختيار تطبيق مصغر</string>
+    <string name="guide_tips_editing_mode">إضغط لمدة طويلة لاختيار أداة</string>
     <string name="home_screen">الشاشة الرئيسية</string>
     <string name="icon_reorganize_channel">ترتيب الأيقونات</string>
     <string name="image_too_small_message">الصورة الأصلية ليست كبيرة بما فيه الكفاية.</string>
@@ -224,7 +225,7 @@
     <string name="menu_workspace_preview">معاينات الشاشة الرئيسية</string>
     <string name="mi_wallpaper">سمات MIUI</string>
     <string name="miui_screen_config_title">إعدادات الشاشة الرئيسية</string>
-    <string name="mtzgadget_missing_text">التطبيق المصغر غير متوفر</string>
+    <string name="mtzgadget_missing_text">الأداة غير متوفرة</string>
     <string name="multi_selecting_tips">لنقل تطبيق، انقر مع الاستمرار على أيقونته واسحبه إلى هنا.</string>
     <string name="no_detail_page">لا توجد تفاصيل الصفحة</string>
     <string name="no_space_toast">لا توجد مساحة كافية</string>
@@ -241,12 +242,12 @@
     <string name="open_personal_assistant_title">منصة التطبيقات</string>
     <string name="out_of_space">لا توجد مساحة إضافية بهذه الشاشة</string>
     <string name="permdesc_install_shortcut">السماح لتطبيق بإضافة اختصارات بدون تدخل المستخدم.</string>
-    <string name="permdesc_install_widget">السماح لتطبيق بإضافة تطبيق مصغر بدون تدخل المستخدم.</string>
+    <string name="permdesc_install_widget">السماح لتطبيق بإضافة أداة دون تدخل المستخدم.</string>
     <string name="permdesc_read_settings">السماح لتطبيق ما بقراءة الإعدادات واختصارات الشاشة الرئيسية.</string>
     <string name="permdesc_uninstall_shortcut">السماح لتطبيق بإزالة الاختصارات بدون تدخل المستخدم.</string>
     <string name="permdesc_write_settings">السماح لتطبيق ما بتغيير الإعدادات واختصارات الشاشة الرئيسية.</string>
     <string name="permlab_install_shortcut">تثبيت الاختصارات</string>
-    <string name="permlab_install_widget">تثبيت تطبيق مصغر</string>
+    <string name="permlab_install_widget">تثبيت الأدوات</string>
     <string name="permlab_read_settings">قراءة إعدادات الشاشة الرئيسية والاختصارات</string>
     <string name="permlab_uninstall_shortcut">إلغاء تثبيت الاختصارات</string>
     <string name="permlab_write_settings">تعديل إعدادات الشاشة الرئيسية والاختصارات</string>

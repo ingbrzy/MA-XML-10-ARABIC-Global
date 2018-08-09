@@ -431,6 +431,7 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="simple_mode_button_text_square">إيقاف تشغيل المربع</string>
     <string name="face_beauty_smart">ذكي</string>
@@ -445,6 +446,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -490,6 +492,7 @@
     <string name="beauty_fragment_tab_name_makeup">متقدم</string>
     <string name="beauty_fragment_tab_name_3d_beauty">تجميل</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">تغيير</string>
+    <string name="beauty_fragment_tab_name_3d_makeup">مكياج</string>
     <string name="edit_skin_white">متناغم</string>
     <string name="edit_skin_smooth">ناعم</string>
     <string name="edit_eye_large">عيون كبيرة</string>
@@ -503,6 +506,10 @@
     <string name="edit_smile">ابتسامة</string>
     <string name="edit_slim_nose">أنف</string>
     <string name="popup_tip_3d_beauty_intro_text">تجميل 3D</string>
+    <string name="edit_eyebrow_dye">الحاجبين</string>
+    <string name="edit_pupil_line">كحل</string>
+    <string name="edit_jelly_lips">ملمع شفاه</string>
+    <string name="edit_blusher">أحمر شفاه</string>
     <string name="sticker_tab1">لطيف</string>
     <string name="sticker_tab2">مضحك</string>
     <string name="user_agreement2">شروط الخدمة</string>

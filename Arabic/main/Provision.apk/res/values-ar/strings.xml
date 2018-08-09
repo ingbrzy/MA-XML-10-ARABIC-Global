@@ -47,17 +47,28 @@
     <string name="terms_of_use">الأحكام والشروط</string>
     <string name="terms_of_use_label">"خصوصيتك مهمة جدًا بالنسبة لنا. يرجى قراءة شروط الخدمة وسياسة الخصوصية لفهم ماهي المعلومات التي نجمعها، وكيف نستخدمها والخيارات المتاحة لك.
 
-يجب عليك أن توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI، ستتصل خدمات Mi، وخدمات تفعيل الشرائح، وMi Cloud، والعثور على الجهاز، والشاشة الرئيسية، ومركز الألعاب، وMAB، ومكونات نظام MSA وMiui Daemon، وخدمة الترجمة، والتطبيقات السريعة، ومنصة التطبيقات، والإحصائيات، والبطاقات الذكية، ورابط Mi ومكونات حساب Mi بالإنترنت وتحصل على موقعك."</string>
-    <string name="terms_of_use_label_gms">"خصوصيتك مهمة جدًا بالنسبة لنا. يرجى قراءة شروط الخدمة وسياسة الخصوصية لفهم ماهي المعلومات التي نجمعها، وكيف نستخدمها والخيارات المتاحة لك.
+يجب أن توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI. ستتصل %s وحساب Mi بالإنترنت وتحصل على موقعك."</string>
+    <string name="terms_of_use_lable_apps">خدمات Mi، خدمات تفعيل Mi SIM ،MiCloud، العثور على الجهاز، الشاشة الرئيسية، مركز الألعاب، MAB، مكونات نظام MIUI Daemon وMSA، خدمات الترجمة، التطبيقات السريعة، منصة التطبيقات، الإحصائيات، رابط Mi</string>
+    <string name="terms_of_use_lable_gms">، خدمات متجر Play</string>
+    <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
+    <string name="terms_of_use_lable_smart_cards">، البطاقات الذكية</string>
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-يجب عليك أن توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI، ستتصل خدمات Mi، وخدمات تفعيل الشرائح، وMi Cloud، والعثور على الجهاز، والشاشة الرئيسية، ومركز الألعاب، وMAB، ومكونات نظام MSA وMiui Daemon، وخدمة الترجمة، والتطبيقات السريعة، ومنصة التطبيقات، والإحصائيات، والبطاقات الذكية، ورابط Mi ومكونات حساب Mi بالإنترنت وتحصل على موقعك."</string>
+يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
+يجب عليك الموافقة على سياسة خصوصية Kika قبل استخدام هذه الميزة."</string>
     <string name="user_agreement">شروط الخدمة</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_privacy_policy_input_method_kika">سياسة خصوصية Kika</string>
+    <string name="terms_privacy_policy_input_method_facemoji">سياسة خصوصية Facemoji</string>
     <string name="application_permissions">أذونات التطبيق</string>
     <string name="agree">موافق</string>
     <string name="disagree">إلغاء</string>
     <string name="setting_locale">إعداد المنطقة…</string>
     <string name="agree_terms">لقد قرأت واوافق على شروط الخدمة وسياسة الخصوصية.</string>
+    <string name="agree_terms_input_method_facemoji">لقد قرأت ووافقت على سياسة خصوصية Facemoji.</string>
+    <string name="agree_terms_input_method_kika">لقد قرأت ووافقت على سياسة خصوصية Kika.</string>
     <string name="miui_terms_no_network">ليس لديك اتصال إنترنت. راجع شروط الخدمة على %s.</string>
     <string name="miui_privacy_policy_no_network">ليس لديك اتصال بالإنترنت. راجع سياسة الخصوصية في %s.</string>
     <string name="locale_picker_title">اختر المنطقة</string>
@@ -72,7 +83,7 @@
     <string name="desc_international_fingerprint">استخدم بصمة الاصبع لالغاء قفل الجهاز، أو لتسجيل الدخول الى التطبيقات والخدمات.</string>
     <string name="content_description_start">بدء</string>
     <string name="start_up_slogan">صمم خصيصاً لشاشة عرض كاملة</string>
-    <string name="content_description_miui_version">MIUI 9</string>
+    <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">اكتمل</string>
     <string name="language_picker_other_languages_title">المزيد من اللغات</string>
     <string name="language_settings">اختر اللغة</string>
@@ -89,4 +100,5 @@
     <string name="continue_to_enable_accessibility">استمر بالضغط باستمرار على إصبعين لتفعيل إمكانية الوصول.</string>
     <string name="voice_assist_title">ايقاظ مع الصوت</string>
     <string name="voice_assist_desp">قل \"Mi AI\" لهاتفك. سيتعرف Mi AI على صوتك ويساعدك على إدارة جهازك.</string>
+    <string name="voice_assist_desp_screen_light">بعد إضاءة الشاشة، قل \"Mi AI\" لهاتفك. سيتعرف Mi AI بصوتك وستكون قادرًا على التحكم في جهازك.</string>
 </resources>

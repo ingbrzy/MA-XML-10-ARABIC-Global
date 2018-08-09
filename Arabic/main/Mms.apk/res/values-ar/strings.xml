@@ -192,6 +192,7 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_prefix">"إعادة توجيه: "</string>
@@ -360,9 +361,18 @@
     <string name="no_subject_view">(بدون موضوع)</string>
     <string name="non_english_subject_limit">الحد الأقصى ١٣ حرفا</string>
     <string name="nosend_message">عدم الإرسال</string>
+    <string name="notification_channel_msg_description">إشعارات الرسائل</string>
+    <string name="notification_channel_msg_name">الرسائل</string>
+    <string name="notification_channel_other_description">إشعارات أخرى</string>
+    <string name="notification_channel_other_name">أخرى</string>
+    <string name="notification_channel_sim1_description">إشعارات لرسائل بطاقة SIM 1</string>
+    <string name="notification_channel_sim1_name">رسائل بطاقة SIM 1</string>
+    <string name="notification_channel_sim2_description">إشعارات لرسائل بطاقة SIM 2</string>
+    <string name="notification_channel_sim2_name">رسائل بطاقة SIM 2</string>
     <string name="notification_copy">نسخ OTP</string>
     <string name="notification_failed_multiple">تعذر إرسال%sمن الرسائل</string>
     <string name="notification_failed_multiple_title">لم يتم إرسال الرسائل</string>
+    <string name="notification_group_name">الرسائل</string>
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">رسائل جديدة</string>
     <string name="number_add_hint">أدخل رقم الهاتف</string>
@@ -397,7 +407,7 @@
     <string name="pref_show_sms_template_entry_summary">التعرف على كلمات المرور لمرة واحدة وعرض القوائم السريعة</string>
     <string name="pref_show_sms_template_in_summary">الكشف عن كلمات السر تلقائياُ لمرة واحدة في الرسائل النصية القصيرة</string>
     <string name="pref_show_sms_template_summary">قم بالتشغيل لاستخدام ميزات رسالة Mi الذكية، مثل رموز النسخ و التحقق من الرصيد، الخ.</string>
-    <string name="pref_smart_messages_settings">رسائل ذكية</string>
+    <string name="pref_smart_messages_settings">الرسائل الذكية</string>
     <string name="pref_sms_storage_title">التخزبن</string>
     <string name="pref_sms_theme_title">عرض</string>
     <string name="pref_summary_allow_si_sl_push">السماح للرسائل بتحميل المحتوى من مواقع الويب</string>
@@ -541,6 +551,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
@@ -652,6 +663,7 @@
     <string name="unstick">إلغاء التثبيت</string>
     <string name="unstick_conversation">إلغاء تثبيت المحادثة الحالية</string>
     <string name="unsticked_conversation">تم إلغاء تثبيت المحادثة بالفعل</string>
+    <string name="unsubscribe">إلغاء الاشتراك</string>
     <string name="unsupported_media_format">صيغة%1$sغير مدعومة.</string>
     <string name="url_fraud_dangerous_alert">"قد يكون الموقع الذي تحاول القيام بزيارتة خطير. ربما يضر الجهاز والبيانات الخاصة بك. الزيارة على أي حال؟
 %s"</string>
@@ -672,6 +684,4 @@
     <string name="wild_msg_title">اختر ارقام الهاتف للمزامنة</string>
     <string name="yes">موافق</string>
     <string name="yesterday">أمس</string>
-    <string name="notification_channel_description">إشعارات من الرسائل</string>
-    <string name="notification_channel_name">الرسائل</string>
 </resources>

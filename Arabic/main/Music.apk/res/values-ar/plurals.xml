@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">إجمالي %d أغنية</item>
-        <item quantity="zero">إجمالي %d أغنية</item>
-        <item quantity="one">إجمالي %d أغنية</item>
-        <item quantity="two">إجمالي %d أغاني</item>
-        <item quantity="few">إجمالي %d أغاني</item>
-        <item quantity="many">إجمالي %d أغنية</item>
+        <item quantity="other">إجمالي %dاغنية</item>
+        <item quantity="zero">إجمالي %dاغاني</item>
+        <item quantity="one">إجمالي %dاغنية</item>
+        <item quantity="two">إجمالي %dاغاني</item>
+        <item quantity="few">إجمالي %dاغاني</item>
+        <item quantity="many">إجمالي %dاغنية</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">جاٍ البحث عن أغلفة الألبومات وكلمات الاغاني (%1$d/%2$d)</item>
-        <item quantity="zero">جاٍ البحث عن أغلفة الألبومات وكلمات الاغاني (%1$d/%2$d)</item>
-        <item quantity="one">جاٍ البحث عن أغلفة الألبومات وكلمات الاغاني (%1$d/%2$d)</item>
-        <item quantity="two">جاٍ البحث عن أغلفة الألبومات وكلمات الاغاني (%1$d/%2$d)</item>
-        <item quantity="few">جاٍ البحث عن أغلفة الألبومات وكلمات الاغاني (%1$d/%2$d)</item>
-        <item quantity="many">جاٍ البحث عن أغلفة الألبومات وكلمات الاغاني (%1$d/%2$d)</item>
+        <item quantity="other">يتم بحث عن أغلفة ألبومات وكلمات (%1$d/%2$d)</item>
+        <item quantity="zero">يتم بحث عن أغلفة ألبومات وكلمات (%1$d/%2$d)</item>
+        <item quantity="one">يتم بحث عن أغلفة ألبومات وكلمات (%1$d/%2$d)</item>
+        <item quantity="two">يتم بحث عن أغلفة ألبومات وكلمات (%1$d/%2$d)</item>
+        <item quantity="few">يتم بحث عن أغلفة ألبومات وكلمات (%1$d/%2$d)</item>
+        <item quantity="many">يتم بحث عن أغلفة ألبومات وكلمات (%1$d/%2$d)</item>
     </plurals>
     <plurals name="Nbackup_songs">
         <item quantity="other">نسخ احتياطي للأغاني، %1$d أغنية متبقية (%2$.1fMB)</item>
@@ -32,6 +32,14 @@
         <item quantity="few">سيتوقف المشغل خلال %d دقائق</item>
         <item quantity="many">سيتوقف المشغل خلال %d دقيقة</item>
     </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">لقد اخترت عدم البحث تلقائيا عن أغلفة ألبومات وكلمات الأغاني المحلية. هل تريد حذف معلومات %d أغنية؟</item>
+        <item quantity="zero">لقد اخترت عدم البحث تلقائيا عن أغلفة ألبومات وكلمات الأغاني المحلية. هل تريد حذف معلومات %d أغنية؟</item>
+        <item quantity="one">لقد اخترت عدم البحث تلقائيا عن أغلفة ألبومات وكلمات الأغاني المحلية. هل تريد حذف معلومات %d أغنية؟</item>
+        <item quantity="two">لقد اخترت عدم البحث تلقائيا عن أغلفة ألبومات وكلمات الأغاني المحلية. هل تريد حذف معلومات %d أغاني؟</item>
+        <item quantity="few">لقد اخترت عدم البحث تلقائيا عن أغلفة ألبومات وكلمات الأغاني المحلية. هل تريد حذف معلومات %d أغاني؟</item>
+        <item quantity="many">لقد اخترت عدم البحث تلقائيا عن أغلفة ألبومات وكلمات الأغاني المحلية. هل تريد حذف معلومات %d أغنية؟</item>
+    </plurals>
     <plurals name="Nsong_group_detail_subtitle">
         <item quantity="other">تم الانشاء في %1$s | الإجمالي %2$d أغنية</item>
         <item quantity="zero">تم الانشاء في %1$s | الإجمالي %2$d أغاني</item>
@@ -41,12 +49,12 @@
         <item quantity="many">تم الانشاء في %1$s | الإجمالي %2$d أغنية</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. إيقاف الآن؟</item>
-        <item quantity="zero">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. إيقاف الآن؟</item>
-        <item quantity="one">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. إيقاف الآن؟</item>
-        <item quantity="two">%d أغاني لم يتم نسخها إحتياطياً إلى Mi Cloud. إيقاف الآن؟</item>
-        <item quantity="few">%d أغاني لم يتم نسخها إحتياطياً إلى Mi Cloud. إيقاف الآن؟</item>
-        <item quantity="many">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. إيقاف الآن؟</item>
+        <item quantity="other">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. الإيقاف الآن؟</item>
+        <item quantity="zero">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. الإيقاف الآن؟</item>
+        <item quantity="one">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. الإيقاف الآن؟</item>
+        <item quantity="two">%d أغاني لم يتم نسخها إحتياطياً إلى Mi Cloud. الإيقاف الآن؟</item>
+        <item quantity="few">%d أغاني لم يتم نسخها إحتياطياً إلى Mi Cloud. الإيقاف الآن؟</item>
+        <item quantity="many">%d أغنية لم يتم نسخها إحتياطياً إلى Mi Cloud. الإيقاف الآن؟</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">تم إضافة %d اغنية لقائمة التشغيل</item>
@@ -81,20 +89,20 @@
         <item quantity="many">%d أغنية مشابهة</item>
     </plurals>
     <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1f م.ب)</item>
-        <item quantity="zero">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1f م.ب)</item>
-        <item quantity="one">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1f م.ب)</item>
-        <item quantity="two">%1$d أغاني لم يتم نسخها احتياطياً (%2$.1f م.ب)</item>
-        <item quantity="few">%1$d أغاني لم يتم نسخها احتياطياً (%2$.1f م.ب)</item>
-        <item quantity="many">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1f م.ب)</item>
+        <item quantity="other">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1fMB)</item>
+        <item quantity="zero">%1$d أغاني لم يتم نسخها احتياطياً (%2$.1fMB)</item>
+        <item quantity="one">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1fMB)</item>
+        <item quantity="two">%1$d أغاني لم يتم نسخها احتياطياً (%2$.1fMB)</item>
+        <item quantity="few">%1$d أغاني لم يتم نسخها احتياطياً (%2$.1fMB)</item>
+        <item quantity="many">%1$d أغنية لم يتم نسخها احتياطياً (%2$.1fMB)</item>
     </plurals>
     <plurals name="Nupload_song_button">
-        <item quantity="other">النسخ الإحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
-        <item quantity="zero">النسخ الإحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
-        <item quantity="one">النسخ الإحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
-        <item quantity="two">النسخ الإحتياطي لـ %1$d أغاني (%2$.1fMB)</item>
-        <item quantity="few">النسخ الإحتياطي لـ %1$d أغاني (%2$.1fMB)</item>
-        <item quantity="many">النسخ الإحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
+        <item quantity="other">النسخ الأحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
+        <item quantity="zero">النسخ الأحتياطي لـ %1$d أغاني (%2$.1fMB)</item>
+        <item quantity="one">النسخ الأحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
+        <item quantity="two">النسخ الأحتياطي لـ %1$d أغاني (%2$.1fMB)</item>
+        <item quantity="few">النسخ الأحتياطي لـ %1$d أغاني (%2$.1fMB)</item>
+        <item quantity="many">النسخ الأحتياطي لـ %1$d أغنية (%2$.1fMB)</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d تعليق</item>
@@ -151,12 +159,12 @@
         <item quantity="many">حذف %d أغنية من Mi Cloud؟ سيتم حذفها من قوائم التشغيل المحلية أيضا.</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
-        <item quantity="zero">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
-        <item quantity="one">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
-        <item quantity="two">تم تنزيل &lt;font color==\"red\">%d أغاني&lt;/font></item>
-        <item quantity="few">تم تنزيل &lt;font color==\"red\">%d أغاني&lt;/font></item>
-        <item quantity="many">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
+        <item quantity="other">&lt;font color==\"red\">%d اغنية&lt;/font> محمّلة</item>
+        <item quantity="zero">&lt;font color==\"red\">%d اغنية&lt;/font> محمّلة</item>
+        <item quantity="one">&lt;font color==\"red\">%d اغنية&lt;/font> محمّلة</item>
+        <item quantity="two">&lt;font color==\"red\">%d اغاني&lt;/font> محمّلة</item>
+        <item quantity="few">&lt;font color==\"red\">%d اغاني&lt;/font> محمّلة</item>
+        <item quantity="many">&lt;font color==\"red\">%d اغنية&lt;/font> محمّلة</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">تم حذف %d تنزيل</item>
@@ -184,11 +192,11 @@
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%dمتابع</item>
-        <item quantity="zero">%d متابع</item>
-        <item quantity="one">%d متابع</item>
-        <item quantity="two">%d متابعيين</item>
-        <item quantity="few">%d متابعيين</item>
-        <item quantity="many">%d متابع</item>
+        <item quantity="zero">%dمتابع</item>
+        <item quantity="one">%dمتابع</item>
+        <item quantity="two">%dمتابعيين</item>
+        <item quantity="few">%dمتابعيين</item>
+        <item quantity="many">%dمتابع</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">سيتم إرسال %d اغنية</item>
@@ -207,12 +215,12 @@
         <item quantity="many">تم تخطي %d أغنية. قم بتشغيل الخدمات عبر الأنترنت في الإعدادات للإستماع إليها.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">تم وضع الأغاني في المفضلة.</item>
-        <item quantity="zero">تم وضع الأغنية في المفضلة.</item>
-        <item quantity="one">تم وضع الأغنية في المفضلة.</item>
-        <item quantity="two">تم وضع الأغاني في المفضلة.</item>
-        <item quantity="few">تم وضع الأغاني في المفضلة.</item>
-        <item quantity="many">تم وضع الأغاني في المفضلة.</item>
+        <item quantity="other">الأغنية موجودة في المفضلة مسبقا.</item>
+        <item quantity="zero">الأغنية موجودة في المفضلة مسبقا.</item>
+        <item quantity="one">الأغنية موجودة في المفضلة مسبقا.</item>
+        <item quantity="two">الأغاتي موجودة في المفضلة مسبقا.</item>
+        <item quantity="few">الأغاتي موجودة في المفضلة مسبقا.</item>
+        <item quantity="many">الأغنية موجودة في المفضلة مسبقا.</item>
     </plurals>
     <plurals name="songs_count">
         <item quantity="other">%d أغنية</item>
@@ -221,13 +229,5 @@
         <item quantity="two">%d أغاني</item>
         <item quantity="few">%d أغاني</item>
         <item quantity="many">%d أغنية</item>
-    </plurals>
-    <plurals name="video_play_count">
-        <item quantity="other">%1$s مشاهدة</item>
-        <item quantity="zero">%1$s مشاهدة</item>
-        <item quantity="one">%1$s مشاهدة</item>
-        <item quantity="two">%1$s مشاهدات</item>
-        <item quantity="few">%1$s مشاهدات</item>
-        <item quantity="many">%1$s مشاهدة</item>
     </plurals>
 </resources>

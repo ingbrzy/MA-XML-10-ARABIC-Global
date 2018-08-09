@@ -160,7 +160,7 @@
     <string name="configure_input_methods">اختر لوحة المفاتيح</string>
     <string name="miui_upgrading_notification_title">تحميل النظام، وبعض المميزات قد لا تتوفر.</string>
     <string name="miui_screen_ratio_hint">مشاكل ابعاد الشاشة</string>
-    <string name="miui_screen_ratio_hint_message">يسمح لهذا التطبيق للتشغيل في وضع ملء الشاشة، والتي قد تتسبب في أن يتم عرضه بشكل غير صحيح. يمكنك تغيير هذا في الإعدادات > عرض كامل الشاشة.</string>
+    <string name="miui_screen_ratio_hint_message">يُسمح لهذا التطبيق بالتشغيل في وضع ملء الشاشة، وقد يؤدي ذلك إلى مشاكل في العرض، يمكنك تغيير هذا من الإعدادات> وضع ملء الشاشة.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">لا تظهر مرة اخرى</string>
     <string name="miui_screen_ratio_hint_ok">موافق</string>
     <string name="miui_screen_ratio_hint_go_to_settings">اذهب إلى الإعدادات</string>
@@ -172,9 +172,12 @@
     <string name="wifi_assistant_wifi_no_internet">لا يمكن لشبكة Wi-Fi هذه الوصول إلى الإنترنت</string>
     <string name="wifi_assistant_wifi_no_internet_detail">انقر لعرض التفاصيل</string>
     <string name="resolver_app_recommend_flag">موصى به</string>
-    <string name="voice_button_action_up">Press to talk</string>
-    <string name="voice_button_action_down">Release to search</string>
-    <string name="voice_begin">What are you looking for?</string>
-    <string name="voice_input_error_network">"Couldn't connect to the network. Check your network settings and try again."</string>
-    <string name="voice_input_error_other">An error occurred. Wait a minute or two and try again.</string>
+    <string name="voice_button_action_up">انقر للتحدث</string>
+    <string name="voice_button_action_down">حرّره للبحث</string>
+    <string name="voice_begin">ما الذي تبحث عنه؟</string>
+    <string name="voice_input_error_network">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مرة أخرى.</string>
+    <string name="voice_input_error_other">حدث خطأ ما، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="miui_warning_button_ok">موافق</string>
+    <string name="miui_warning_button_cancel">إلغاء</string>
+    <string name="miui_warning_tip_info">حدث خطأ ما في%1$s. أغلاق هذا التطبيق الآن؟</string>
 </resources>

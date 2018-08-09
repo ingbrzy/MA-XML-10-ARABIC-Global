@@ -425,4 +425,5 @@
     <string name="xiaomi_calendar_display_name">تقويم حساب Mi</string>
     <string name="yearly">سنويًا (كل %s)</string>
     <string name="yearly_plain">سنوي</string>
+    <string name="discard_label">إلغاء</string>
 </resources>

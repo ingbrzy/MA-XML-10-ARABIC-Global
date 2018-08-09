@@ -42,5 +42,4 @@
     <string name="download_running">يتم التنزيل</string>
     <string name="download_error">تعذر التنزيل</string>
     <string name="download_running_percent">جارٍ التنزيل %s</string>
-    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. الرجاء إعادة المحاولة.</string>
 </resources>

@@ -56,30 +56,6 @@
         <item quantity="few">رمز PUK غير صحيح، تبقى %d محاولات</item>
         <item quantity="many">رمز PUK غير صحيح، تبقى %d محاولة</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">%d بعض الساعات حتى يكتمل الشحن</item>
-        <item quantity="zero">%d ساعة حتى يكتمل الشحن</item>
-        <item quantity="one">%d ساعة حتى يكتمل الشحن</item>
-        <item quantity="two">%d ساعتين حتى يكتمل الشحن</item>
-        <item quantity="few">%d بعض الساعات حتى يكتمل الشحن</item>
-        <item quantity="many">%d بعض الساعات حتى يكتمل الشحن</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">%d دقيقة حتى يكتمل الشحن</item>
-        <item quantity="zero">%d دقيقة حتى يكتمل الشحن</item>
-        <item quantity="one">%d دقيقة حتى يكتمل الشحن</item>
-        <item quantity="two">%d دقيقة حتى يكتمل الشحن</item>
-        <item quantity="few">%d دقيقة حتى يكتمل الشحن</item>
-        <item quantity="many">%d دقيقة حتى يكتمل الشحن</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">"%1$d  ساعة و %2$d دقيقة حتى يكتمل الشحن"</item>
-        <item quantity="zero">"%1$d  ساعة و %2$d دقيقة حتى يكتمل الشحن"</item>
-        <item quantity="one">"%1$d  ساعة و %2$d دقيقة حتى يكتمل الشحن"</item>
-        <item quantity="two">"%1$d  ساعة و %2$d دقيقة حتى يكتمل الشحن"</item>
-        <item quantity="few">"%1$d  ساعة و %2$d دقيقة حتى يكتمل الشحن"</item>
-        <item quantity="many">"%1$d  ساعة و %2$d دقيقة حتى يكتمل الشحن"</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"%d  ساعة متبقية"</item>
         <item quantity="zero">"%d  ساعة متبقية"</item>
@@ -145,12 +121,12 @@
         <item quantity="many">تم تعطيل SIM الآن. أدخل رمز PUK للمتابعة. تبقى لديك %d محاولة قبل أن تصبح بطاقة SIM غير قابلة للاستخدام بشكل دائم. قم بالاتصال بمزود الخدمة للتفاصيل.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
-        <item quantity="zero">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
-        <item quantity="one">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
-        <item quantity="two">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولات قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
-        <item quantity="few">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولات قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
-        <item quantity="many">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
+        <item quantity="other">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة.</item>
+        <item quantity="zero">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة.</item>
+        <item quantity="one">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بشركة اتصالاتك لإلغاء قفل الجهاز.</item>
+        <item quantity="two">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولات.</item>
+        <item quantity="few">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولات.</item>
+        <item quantity="many">رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">رمز PUK لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل أن تصبح بطاقة SIM غير قابلة للاستخدام بشكل دائم.</item>
@@ -251,7 +227,7 @@
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d صفحة في النظرة العامة</item>
         <item quantity="zero">%d صفحة في النظرة العامة</item>
-        <item quantity="one">%d صفحة في النظرة العامة</item>
+        <item quantity="one">صفحة واحدة في النظرة العامة</item>
         <item quantity="two">%d صفحات في النظرة العامة</item>
         <item quantity="few">%d صفحات في النظرة العامة</item>
         <item quantity="many">%d صفحة في النظرة العامة</item>

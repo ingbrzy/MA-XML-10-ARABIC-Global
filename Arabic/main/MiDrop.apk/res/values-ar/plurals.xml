@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="delete_confirm_multiple_files">
+    <plurals name="a">
         <item quantity="other">حذف %d ملف محدد؟</item>
         <item quantity="zero">حذف %d ملف محدد؟</item>
         <item quantity="one">حذف %d ملف محدد؟</item>
@@ -8,7 +8,7 @@
         <item quantity="few">حذف %d ملفات محدد؟</item>
         <item quantity="many">حذف %d ملف محدد؟</item>
     </plurals>
-    <plurals name="notif_receive_cancel">
+    <plurals name="b">
         <item quantity="other">تم إلغاء النقل من %1$s</item>
         <item quantity="zero">تم إلغاء الإستلام من %1$s</item>
         <item quantity="one">تم إلغاء الإستلام من %1$s</item>
@@ -16,7 +16,7 @@
         <item quantity="few">تم إلغاء الإستلام من %1$s</item>
         <item quantity="many">تم إلغاء الإستلام من %1$s</item>
     </plurals>
-    <plurals name="notif_receive_progress">
+    <plurals name="c">
         <item quantity="other">جارٍ إستلام %1$s ملف…</item>
         <item quantity="zero">جارٍ إستلام %1$s ملف…</item>
         <item quantity="one">جارٍ إستلام %1$s ملف…</item>
@@ -24,7 +24,7 @@
         <item quantity="few">جارٍ إستلام %1$s ملفات…</item>
         <item quantity="many">جارٍ إستلام %1$s ملف…</item>
     </plurals>
-    <plurals name="notif_receive_success">
+    <plurals name="d">
         <item quantity="other">تم إستلام الملفات من %1$s بنجاح</item>
         <item quantity="zero">تم إستلام الملفات من %1$s بنجاح</item>
         <item quantity="one">تم إستلام الملفات من %1$s بنجاح</item>
@@ -32,7 +32,7 @@
         <item quantity="few">تم إستلام الملفات من %1$s بنجاح</item>
         <item quantity="many">تم إستلام الملفات من %1$s بنجاح</item>
     </plurals>
-    <plurals name="receiver_file_num">
+    <plurals name="e">
         <item quantity="other">%2$d ملف من %1$s</item>
         <item quantity="zero">%2$d ملف من %1$s</item>
         <item quantity="one">%2$d ملف من %1$s</item>
@@ -40,7 +40,7 @@
         <item quantity="few">%2$d ملفات من %1$s</item>
         <item quantity="many">%2$d ملف من %1$s</item>
     </plurals>
-    <plurals name="selected_file_num">
+    <plurals name="f">
         <item quantity="other">تم تحديد %d عنصر</item>
         <item quantity="zero">تم تحديد %d عنصر</item>
         <item quantity="one">تم تحديد %d عنصر</item>
@@ -48,7 +48,7 @@
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
-    <plurals name="sender_file_num">
+    <plurals name="g">
         <item quantity="other">%1$d عنصر</item>
         <item quantity="zero">%1$d عنصر</item>
         <item quantity="one">%1$d عنصر</item>
@@ -56,7 +56,7 @@
         <item quantity="few">%1$d عناصر</item>
         <item quantity="many">%1$d عنصر</item>
     </plurals>
-    <plurals name="transfer_list_received_header">
+    <plurals name="h">
         <item quantity="other">تلقي %1$d ملف (%2$s)</item>
         <item quantity="zero">تلقي %1$d ملف (%2$s)</item>
         <item quantity="one">تلقي %1$d ملف (%2$s)</item>
@@ -64,7 +64,7 @@
         <item quantity="few">تلقي %1$d ملفات (%2$s)</item>
         <item quantity="many">تلقي %1$d ملف (%2$s)</item>
     </plurals>
-    <plurals name="transfer_list_sent_header">
+    <plurals name="i">
         <item quantity="other">إرسال %1$d ملف (%2$s)</item>
         <item quantity="zero">إرسال %1$d ملف (%2$s)</item>
         <item quantity="one">إرسال %1$d ملف (%2$s)</item>
