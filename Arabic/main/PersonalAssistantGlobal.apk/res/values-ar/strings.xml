@@ -299,6 +299,7 @@
     <string name="title_schema_title">تظليل الإسم</string>
     <string name="toast_function_add_not_allowed">يمكنك إضافة ما يصل إلى ۸ اختصارات</string>
     <string name="toast_function_remove_not_allowed">يجب إضافة اختصار واحد على الأقل</string>
+    <string name="today_apps">موصى بها</string>
     <string name="today_apps_bref">اكتشف تطبيقات جديدة رائعة</string>
     <string name="today_apps_detail">يمكنك هنا أن تجد تطبيقات جديدة تزداد شعبية الآن.</string>
     <string name="today_apps_loading">لحظة من فضلك…</string>

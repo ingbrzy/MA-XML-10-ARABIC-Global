@@ -72,6 +72,14 @@
         <item quantity="few">تم إستراد %1$d جهات اتصال</item>
         <item quantity="many">تم إستراد %1$d جهة اتصال</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">تم استرداد %1$d جهة اتصال</item>
+        <item quantity="zero">تم استرداد %1$d جهة اتصال</item>
+        <item quantity="one">تم استرداد %1$d جهة اتصال</item>
+        <item quantity="two">تم استرداد %1$d جهات اتصال</item>
+        <item quantity="few">تم استرداد %1$d جهات اتصال</item>
+        <item quantity="many">تم استرداد %1$d جهة اتصال</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">حظر %1$d رقم هاتف؟</item>
         <item quantity="zero">حظر %1$d رقم هاتف؟</item>
@@ -169,12 +177,12 @@
         <item quantity="many">%d جهة اتصال</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d جهة اتصال لديها أرقام هاتف</item>
-        <item quantity="zero">%d جهة اتصال لديه رقام هاتف</item>
-        <item quantity="one">%d جهة اتصال لديه رقام هاتف</item>
-        <item quantity="two">%d جهات اتصال لديها أرقام هاتف</item>
-        <item quantity="few">%d جهات اتصال لديها أرقام هاتف</item>
-        <item quantity="many">%d جهة اتصال لديها أرقام هاتف</item>
+        <item quantity="other">%d جهات اتصال مع رقم هاتف</item>
+        <item quantity="zero">%d جهات اتصال مع رقم هاتف</item>
+        <item quantity="one">جهة اتصال ١ مع رقم هاتف</item>
+        <item quantity="two">%d جهات اتصال مع أرقام هواتف</item>
+        <item quantity="few">%d جهات اتصال مع أرقام هواتف</item>
+        <item quantity="many">%d جهات اتصال مع رقم هاتف</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">تم الدمج من %0$d مصدر</item>

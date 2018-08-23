@@ -4,7 +4,8 @@
     <string name="error_filename_too_long">اسم الملف الذي قمت بإدخاله طويل جدا.</string>
     <string name="power_config_select_apps_title">التطبيقات</string>
     <string name="power_config_event_delete">حذف</string>
-    <string name="hide_mode_desc">عند تشغيل التطبيق في الخلفية، سيتم مراقبة أنشطته للتقليل من استخدام البطارية.</string>
+    <string name="hide_mode_desc"><font color="#000000">عندما يتم تشغيل التطبيق في الخلفية، تتم مراقبة نشاطه لتحسين إستخدام البطارية. ستحصل هذه الوظيفة على البيانات الشخصية وتستخدمها وفقًا لـ %s</font></string>
+    <string name="privacy">سياسة الخصوصية</string>
     <string name="power_hide_mode_title">البطارية والأداء</string>
     <string name="power_config_apps">توفير البطارية</string>
     <string name="app_list_title">اختر التطبيقات</string>
@@ -12,6 +13,7 @@
     <string name="about_hide_mode">حول توفير البطارية</string>
     <string name="show_system_app">إظهار تطبيقات النظام</string>
     <string name="hide_system_app">إخفاء تطبيقات النظام</string>
+    <string name="about_extreme_mode">الحد الأقصى لموفر البطارية</string>
     <string name="scenario_policies_title">مشاهد ذكية</string>
     <string name="config_scenario_policies_title">مشاهد</string>
     <string name="scenario_policies_summary">تطبيق استراتيجيات توفير الطاقة المختلفة لمشاهد مختلفة.</string>
@@ -89,4 +91,6 @@
     <string name="appconfig_active_app_dialog_title">إدارة تفعيل التطبيقات</string>
     <string name="config_classify">ترتيب حسب إعدادات التطبيق</string>
     <string name="active_classify">ترتيب حسب حالة النشاط</string>
+    <string name="extreme_mode_max_item_alert">يمكن اختيار ٤ تطبيقات فقط ليتم تشغيلها في الخلفية في وضع الحد الأقصى لموفر البطارية</string>
+    <string name="message_i_know">فهمت</string>
 </resources>

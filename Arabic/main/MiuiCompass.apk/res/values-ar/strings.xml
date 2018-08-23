@@ -61,4 +61,6 @@
     <string name="open_perm_title">يتطلب أذونات</string>
     <string name="cancel">إلغاء</string>
     <string name="allow">السماح</string>
+    <string name="preference_other">أخرى</string>
+    <string name="preference_privacy_title">سياسة الخصوصية</string>
 </resources>

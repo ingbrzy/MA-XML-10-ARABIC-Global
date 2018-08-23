@@ -95,6 +95,7 @@
     <string name="error_sdcard_unmounted">أدخل بطاقة SD الآن</string>
     <string name="record_back_pressed_hint">لإيقاف التسجيل، المس رجوع مرة أخرى</string>
     <string name="record_mark_point">علامة %s</string>
+    <string name="record_format_preference_title">صيغة التسجيل</string>
     <string name="record_quliaty_preference_title">جودة التسجيل</string>
     <string name="cloud_record_tip">مزامنة التسجيلات مع Mi Cloud.</string>
     <string name="cloud_record_open">التسجيلات المتزامنة</string>
@@ -152,4 +153,5 @@
     <string name="head_set_tip_dialog_ok">فهمت</string>
     <string name="rename_fail_tip">تعذر إعادة التسمية. يوجد ملف بنفس الاسم مسبقا.</string>
     <string name="dialog_privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وسيتم حذف جميع البيانات ذات الصلة من الخوادم. هذا قد يجعل التطبيق غير قابل للاستخدام تقريبا. هل تريد إلغاء الإذن على أي حال؟ لضمان أمان حسابك، سجل الدخول إلى i.mi.com قبل إلغاء الترخيص لخدمات Mi Cloud.</string>
+    <string name="privacy_policy_title">سياسة الخصوصية</string>
 </resources>

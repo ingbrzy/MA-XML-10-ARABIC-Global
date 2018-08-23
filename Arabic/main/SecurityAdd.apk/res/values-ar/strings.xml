@@ -13,6 +13,7 @@
     <string name="no_network_btn">حاول مرة أخرى</string>
     <string name="main_toolbar_purchase">شحن الرصيد</string>
     <string name="usage_sorted_loading_text">لحظة من فضلك…</string>
+    <string name="empty">" "</string>
     <string name="share">مشاركة</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>

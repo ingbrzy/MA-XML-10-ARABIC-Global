@@ -12,6 +12,10 @@
         <item>تفعيل التطبيقات</item>
         <item>تطبيقات غير نشطة</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>تطبيقات النظام</item>
+        <item>تطبيقات أخرى</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>وضع التحكم بدرجة الحرارة الافتراضية</item>
         <item>وضع الأداء</item>

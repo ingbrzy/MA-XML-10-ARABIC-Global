@@ -12,6 +12,7 @@
     <string name="menu_save_station_presets">إضافة إلى المفضلة</string>
     <string name="menu_speaker">التبديل إلى مكبر الصوت</string>
     <string name="menu_headset">التبديل إلى سماعة الرأس</string>
+    <string name="menu_privacy">سياسة الخصوصية</string>
     <string name="menu_exit">خروج</string>
     <string name="dialog_sleep_title">تعيين توقيت السكون</string>
     <string name="search_dialog_title">بحث محطات</string>

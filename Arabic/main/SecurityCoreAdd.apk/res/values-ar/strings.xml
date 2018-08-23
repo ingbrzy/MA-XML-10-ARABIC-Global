@@ -68,6 +68,7 @@
     <string name="xspace_setting_label">إعدادات التطبيق المزدوج</string>
     <string name="xspace_account">حسابات التطبيق المزدوج</string>
     <string name="declare_dialog_title">معلومات عن التطبيقات المزدوجة</string>
+    <string name="menu_item_about_privacy_title">سياسة الخصوصية</string>
     <string name="stop_xspace_alert_title">حذف حسابات التطبيق المزدوج</string>
     <string name="stop_xspace_alert_content">لقد قمت بحذف جميع التطبيقات المزدوجة. هل تريد حذف حسابات التطبيق المزدوج وبيانات التطبيق أيضا؟ سيكون عليك بعد ذلك إنشاء التطبيقات المزدوجة مرة أخرى عتد الحاجة.</string>
     <string name="xspace_loading_msg">جارٍ تحميل التطبيقات…</string>
@@ -398,4 +399,37 @@
     <string name="can_not_switch_when_green_kid_active">التبديل إلى الواجهة الثانية مقيد بالرقابة الأبوية</string>
     <string name="need_network_when_bind">اتصل بالشبكة قبل إضافة الأجهزة</string>
     <string name="this_function_can_not_use_in_second_space">يمكن فقط استخدام هذه الوظيفة في الواجهة الاولى</string>
+    <string name="enterprise_mode">وضع المؤسسة</string>
+    <string name="ent_app_verified">يبدو أن هناك تطبيقات المؤسسة مثبتة على جهازك. تفعيل وضع المؤسسة؟</string>
+    <string name="activate_ent_mode">تفعيل وضع المؤسسة</string>
+    <string name="about_ent_mode">حول وضع المؤسسة</string>
+    <string name="ent_mode_activated">وضع المؤسسة مفعل</string>
+    <string name="ent_activation_hint">أدخل رمز المؤسسة مع رمز الترخيص لتفعيل وضع المؤسسة. بعد ذلك ، سيتم تفعيل خدمات الشركات المخصصة بعد ذلك.</string>
+    <string name="ent_activation_hint_whit_licence">"قم بتفعيل وضع المؤسسة لتفعيل خدمات المؤسسة المخصصة.
+وتأكد من صحة اسم المؤسسة. يرجى قراءة سياسات الخصوصية المناسبة والموافقة عليها قبل التفعيل."</string>
+    <string name="ent_agency_code">رمز المؤسسة</string>
+    <string name="ent_agency_code_hint">أدخل رمز المؤسسة</string>
+    <string name="ent_agency_code_invalid">رمز المؤسسة الذي أدخلته غير صالح.</string>
+    <string name="ent_licence_code_invalid">رمز الترخيص الذي أدخلته غير صالح.</string>
+    <string name="ent_licence_code">رمز الترخيص</string>
+    <string name="ent_licence_code_hint">أدخل رمز الترخيص</string>
+    <string name="ent_next_step">التالي</string>
+    <string name="ent_get_code_hint">يمكنك الحصول على رموز المؤسسة والترخيص من مشرفك</string>
+    <string name="ent_agree_privacy_policy">لقد قرأت وأوافق على سياسة الخصوصية</string>
+    <string name="ent_activation">تفعيل</string>
+    <string name="ent_activating">جارٍ التفعيل…</string>
+    <string name="ent_installing">جارٍ التثبيت…</string>
+    <string name="ent_network_error">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="ent_invalid_qr">رمز QR غير صالح.</string>
+    <string name="ent_invalid_agency">رمز المؤسسة غير صالح.</string>
+    <string name="ent_privacy_policy_notice">* يتم جمع البيانات الشخصية في هذا الوضع وفقًا للسياسات التي تضعها شركتك. لا تقوم Xiaomi بجمع البيانات الشخصية في هذا الوضع.</string>
+    <string name="ent_confirm_dialog_content">بعد تفعيل وضع المؤسسة، لا يمكنك الرجوع إلى الحالة الحالية للنظام الخاص بك. ومع ذلك ستظل جميع بياناتك مخزنة على الجهاز. سيكون عليك إعادة تشغيل الجهاز لتفعيل وضع المؤسسة. التفعيل الآن؟</string>
+    <string name="ent_error_dialog_content">واحد على الأقل من الرموز التي أدخلتها غير صحيحة. تحقق من رموز الشركة والتراخيص وأدخلها مرة أخرى.</string>
+    <string name="ent_download_install_dialog_content">يجب تثبيت تطبيقات المؤسسة لتفعيل وضع المؤسسة. التثبيت الآن؟</string>
+    <string name="ent_download_install_dialog_title">تنزيل تطبيقات المؤسسة</string>
+    <string name="ent_downloading_message">جارٍ التنزيل %d%%</string>
+    <string name="install">تثبيت</string>
+    <string name="install_error">تعذر التثبيت. إعد المحاولة.</string>
+    <string name="ent_install_dialog_content">تثبيت التطبيقات وإعادة تشغيل جهازك الآن؟</string>
+    <string name="ent_disallow_running">هذا التطبيق ممنوع من التشغيل</string>
 </resources>

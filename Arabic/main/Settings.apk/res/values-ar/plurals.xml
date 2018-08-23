@@ -440,6 +440,14 @@
         <item quantity="few">سيظهر %1$d مفاتيح تبديل في مركز الإشعارات</item>
         <item quantity="many">سيظهر %1$d مفتاح تبديل في مركز الإشعارات</item>
     </plurals>
+    <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get audio log</item>
+        <item quantity="zero">%1$d steps left before you can get audio log</item>
+        <item quantity="one">%1$d step left before you can get audio log</item>
+        <item quantity="two">%1$d steps left before you can get audio log</item>
+        <item quantity="few">%1$d steps left before you can get audio log</item>
+        <item quantity="many">%1$d steps left before you can get audio log</item>
+    </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال CIT.</item>
         <item quantity="zero">أنت على بعد %1$d خطوة من إدخال CIT.</item>
@@ -455,6 +463,22 @@
         <item quantity="two">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوتين (%1$d).</item>
         <item quantity="few">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوات.</item>
         <item quantity="many">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوة.</item>
+    </plurals>
+    <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get GPS log</item>
+        <item quantity="zero">%1$d steps left before you can get GPS log</item>
+        <item quantity="one">%1$d step left before you can get GPS log</item>
+        <item quantity="two">%1$d steps left before you can get GPS log</item>
+        <item quantity="few">%1$d steps left before you can get GPS log</item>
+        <item quantity="many">%1$d steps left before you can get GPS log</item>
+    </plurals>
+    <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d steps left before you can get modem log</item>
+        <item quantity="zero">%1$d steps left before you can get modem log</item>
+        <item quantity="one">%1$d step left before you can get modem log</item>
+        <item quantity="two">%1$d steps left before you can get modem log</item>
+        <item quantity="few">%1$d steps left before you can get modem log</item>
+        <item quantity="many">%1$d steps left before you can get modem log</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال معلومات الهاتف.</item>

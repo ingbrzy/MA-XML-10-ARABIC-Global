@@ -33,7 +33,7 @@
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mi Message</item>
+        <item>رسالة Mi</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
@@ -53,7 +53,7 @@
         <item>أخرى</item>
     </string-array>
     <string-array name="switch_sdk">
-        <item>Mi Message</item>
+        <item>رسالة Mi</item>
         <item>رسائل CMCC القصيرة الذكية</item>
     </string-array>
     <string-array name="switch_sdk_value">
