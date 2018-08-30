@@ -244,9 +244,9 @@
     <string name="another_migration_already_in_progress">هناك عملية ترحيل أخرى قيد التقدم حاليًا.</string>
     <string name="anti_spam">قائمة الحظر</string>
     <string name="aod_mode_summary">عرض الوقت والتاريخ والرسائل دائما عند إيقاف تشغيل الشاشة</string>
-    <string name="aod_mode_time_summary">جدولة الوقت الذي يجب فيه جهازك التبديل إلى وضع التشغيل دائمًا</string>
+    <string name="aod_mode_time_summary">جدولة الوقت الذي يجب فيه جهازك التبديل إلى وضع \"الشاشة نشطة دائمًا\"</string>
     <string name="aod_mode_time_title">جدولة</string>
-    <string name="aod_mode_title">دائما على الوضع</string>
+    <string name="aod_mode_title">وضع \"الشاشة نشطة دائمًا\"</string>
     <string name="aod_mode_turn_off">متوقف</string>
     <string name="aod_mode_turn_on">مشغل</string>
     <string name="apn_apn">APN</string>
@@ -916,6 +916,7 @@
     <string name="bootloader_status_unlocked">غير مقفل</string>
     <string name="bootloader_status_unlocked_info">هذا الجهاز غير مقفل</string>
     <string name="bootloader_summary">فلاش نظام الجهاز عبر USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">لون الإضاءة</string>
     <string name="breathing_light_color_summary">لون الإضاءة عند استلام إشعار جديد</string>
     <string name="breathing_light_freq_summary">وميض عند استلام إشعارات جديدة</string>
@@ -1039,7 +1040,8 @@
     <string name="charge_length_format">%1$s منذ</string>
     <string name="charging_sounds_title">أصوات الشحن</string>
     <string name="check_find_device_status_failure_confirm">موافق</string>
-    <string name="check_importance">وضع علامة كمهم؟</string>
+    <string name="check_importance">قواعد الإشعارات الجماعية</string>
+    <string name="check_importance_dialog_cancel">إلغاء</string>
     <string name="check_update">التحقق من وجود تحديثات</string>
     <string name="checkbox_notification_same_as_incoming_call">استخدام مستوى صوت المكالمة الواردة للإشعارات</string>
     <string name="checking_decryption">جارٍ التحقق…</string>
@@ -1065,8 +1067,11 @@
     <string name="clear_instant_app_data">مسح التطبيق</string>
     <string name="clear_uri_btn_text">محو إمكانية الدخول</string>
     <string name="clear_user_data_text">محو البيانات</string>
+    <string name="close_aod">هذه الميزة غير متوافقة مع وضع \"الشاشة نشطة دائمًا\". قم بإيقاف هذا الوضع اولاً.</string>
     <string name="close_app">إغلاق التطبيق الحالي</string>
     <string name="close_demo_mode">إلغاء</string>
+    <string name="close_fod">لا يمكنك إلغاء قفل الجهاز يإستخدام بصمة الإصبع عند إيقاف تشغيل الشاشة. سيعمل إلغاء القفل بهذه الطريقة فقط عندما تكون الشاشة قيد التشغيل.</string>
+    <string name="close_fod_aod">لا يمكنك إلغاء قفل الجهاز يإستخدام بصمة الإصبع عند إيقاف تشغيل الشاشة. ولن يكون \"وضع \"الشاشة نشطة دائمًا\"\" متاحًا أيضًا. سيعمل إلغاء القفل بهذه الطريقة فقط عندما تكون الشاشة قيد التشغيل.</string>
     <string name="close_gesture">الإغلاق بإستخدام إيماءة</string>
     <string name="close_miui_optimization_title">تشغيل تحسين MIUI</string>
     <string name="close_optimization_message">قد يتأثر تنسيق النص والحسابات والأجزاء الأخرى من MIUI بعد إيقاف تشغيل هذه الميزة.</string>
@@ -1553,6 +1558,7 @@
     <string name="dndm_auto_button_title">تكرار وقت عدم الإزعاج</string>
     <string name="dndm_auto_setting_group">مجدول</string>
     <string name="dndm_auto_time_setting">ضبط الوقت</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">إلى</string>
     <string name="dndm_auto_time_turn_off_title">إيقاف تلقائي لعدم الإزعاج</string>
     <string name="dndm_auto_time_turn_on">من</string>
@@ -1761,7 +1767,7 @@
     <string name="eq_ok">موافق</string>
     <string name="eq_pop">بوب</string>
     <string name="eq_preset_create">إنشاء</string>
-    <string name="eq_preset_format">%d مفضلة المستخدم</string>
+    <string name="eq_preset_format">المستخدم مسبقا %d</string>
     <string name="eq_preset_hint">اسم التأثير</string>
     <string name="eq_preset_rename">إعادة تسمية</string>
     <string name="eq_preset_select">اختر إعداد</string>
@@ -1806,6 +1812,8 @@
     <string name="factory_reset_summary">مسح جميع البيانات من سعة التخزين الداخلية للهاتف</string>
     <string name="failed_to_check_find_device_status_content">تعذر التحقق من حالة العثور على الجهاز. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="failed_to_check_find_device_status_title">تعذر التحقق من الحالة</string>
+    <string name="failed_to_erase_text">يرجى إيقاف كلمة مرور شاشة القفل قبل تنفيذ عملية 1217.</string>
+    <string name="failed_to_erase_title">عملية محظورة</string>
     <string name="failed_to_open_app_settings_toast">تعذّر فتح الإعدادات لـ %1$s</string>
     <string name="failed_to_shut_down_find_device_content">تعذر إيقاف تشغيل العثور على الجهاز. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="failed_to_shut_down_find_device_title">تعذر إيقاف التشغيل</string>
@@ -2009,6 +2017,7 @@
     <string name="gadget_picker_title">اختيار أداة</string>
     <string name="gadget_state_off">إيقاف</string>
     <string name="gadget_state_on">تشغيل</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">جارٍ إيقاف التشغيل</string>
     <string name="gadget_state_turning_on">جارٍ التشغيل…</string>
     <string name="gadget_sync">المزامنة</string>
@@ -2053,6 +2062,7 @@
     <string name="handy_mode_enable">وضع اليد الواحدة</string>
     <string name="handy_mode_size">حجم الشاشة</string>
     <string name="handy_mode_tips">مرّر لليسار أو لليمين من زر الصفحة الرئيسية لتقريب الشاشة إلى جانب واحد.</string>
+    <string name="handy_mode_tips_full_screen">عند استخدام إيماءات ملء الشاشة ، يمكنك تشغيل وضع اليد الواحدة باستخدام الكرة السريعة. يمكنك أيضًا التبديل إلى استخدام الأزرار بدلاً من إيماءات ملء الشاشة.</string>
     <string name="haptic_feedback_enable_title">اهتزاز عند النقر</string>
     <string name="haptic_feedback_level">اهتزاز</string>
     <string name="hardkeyboard_category">إعدادات لوحة المفاتيح الفعلية</string>
@@ -2318,6 +2328,7 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
@@ -2673,6 +2684,7 @@
     <string name="memory_title">متوفر: %1$s\u0009\u0009إجمالي: %2$s</string>
     <string name="memory_usage">استخدام الذاكرة</string>
     <string name="memory_usage_apps">الذاكرة المستخدمة بواسطة التطبيقات</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">متوسط الذاكرة المستخدمة خلال آخر ٣ ساعات: %1$s</string>
     <string name="menu_cancel">إلغاء</string>
     <string name="menu_check">خبرة</string>
@@ -2801,7 +2813,7 @@
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac، Hi-Fi، سماعات الرأس وإعدادات الصوت الأخرى</string>
     <string name="music_audio_effect_settings">إعدادات التأثيرت</string>
     <string name="music_dirac_control">تحسين جودة الصوت</string>
-    <string name="music_dirac_mode_cancelling">إلغاء الضوضاء Mi (3.5mm)</string>
+    <string name="music_dirac_mode_cancelling">إلغاء الضوضاء Mi 3.5mm</string>
     <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
     <string name="music_dirac_mode_general">عام</string>
@@ -2820,7 +2832,7 @@
     <string name="music_dirac_mode_piston_color">إصدار اللون</string>
     <string name="music_dirac_mode_piston_standard">إصدار قياسي</string>
     <string name="music_dirac_mode_piston_youth">إصدار شبابي</string>
-    <string name="music_dirac_mode_reduction_noise">إلغاء الضوضاء Mi (Type-C)</string>
+    <string name="music_dirac_mode_reduction_noise">إلغاء الضوضاء Mi Type-C</string>
     <string name="music_dolby_mode_movie">فيديو</string>
     <string name="music_dolby_mode_music">الموسيقى</string>
     <string name="music_dolby_mode_off">إيقاف</string>
@@ -2860,6 +2872,9 @@
     <string name="nature_color">الافتراضية</string>
     <string name="navigation_guide_app_summary">مرّر من يمين أو يسار حافة الشاشة في الجزء العلوي</string>
     <string name="navigation_guide_app_title">وظيفة مشغل التطبيق</string>
+    <string name="navigation_guide_appswitch_anim_summary">اسحب إلى اليسار أو اليمين من حافة الشاشة للعودة إلى التطبيق السابق</string>
+    <string name="navigation_guide_appswitch_anim_title">التبديل إلى التطبيق السابق</string>
+    <string name="navigation_guide_appswitch_click">قم بتشغيل \"التبديل إلى التطبيق السابق\" أولاً</string>
     <string name="navigation_guide_appswitch_summary">مرّر من يمين أو يسار حافة الشاشة واضغط مطولا لفترة وجيزة</string>
     <string name="navigation_guide_appswitch_title">التبديل إلى التطبيق السابق</string>
     <string name="navigation_guide_back_summary">مرّر من يمين أو يسار حافة الشاشة</string>
@@ -2920,6 +2935,7 @@
     <string name="nfc_how_it_works_got_it">حسنًا</string>
     <string name="nfc_how_it_works_title">الدفع في محطة</string>
     <string name="nfc_more_title">المزيد...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">التطبيق الافتراضي للدفع</string>
     <string name="nfc_payment_default_not_set">لم يتم التعيين</string>
     <string name="nfc_payment_favor_default">استخدم دائماً التطبيق الإفتراضي</string>
@@ -3131,6 +3147,7 @@
     <string name="overlay_display_devices_title">محاكاة أجهزة العرض الثانوية</string>
     <string name="overlay_settings">عرض التطبيق أمام غيره</string>
     <string name="owner_info_settings_edit_text_hint">‏جهاز Android الخاص بهاني مثلاً</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">بدون</string>
     <string name="owner_info_settings_title">توقيع شاشة القفل</string>
     <string name="owner_space">الواجهة الاولى</string>
@@ -3443,6 +3460,8 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -3704,7 +3723,7 @@
     <string name="saved_network">تم الحفظ بواسطة %1$s</string>
     <string name="saved_wifi">إدارة الشبكة المحفوظة</string>
     <string name="saved_wifi_delete">حذف</string>
-    <string name="sccret_code_error">The code you entered is incorrect.</string>
+    <string name="sccret_code_error">الرمز الذي أدخلته غير صحيح.</string>
     <string name="screen">الشاشة</string>
     <string name="screen_button">أزرار الشاشة</string>
     <string name="screen_button_tips">اسحب لأسفل لإخفاء أزرار الشاشة</string>
@@ -4066,6 +4085,7 @@
     <string name="security_encryption_attention_3">سيتوجب عليك تعيين كلمة مرور جديدة لشاشة القفل.</string>
     <string name="security_encryption_attention_4">تأكد من أنك تتذكر كلمة مرور شاشة القفل، وإلا سيتوجب عليك إكمال إعادة تعيين كاملة لمحو كافة البيانات الموجودة على الجهاز.</string>
     <string name="security_encryption_attention_info">يمكنك تشفير حساباتك، الإعدادات، التطبيقات المحمّلة وبياناتها، الوسائط، وملفات أخرى.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">اختيار عدم تشفير الجهاز باستخدام كلمة مرور قفل الشاشة قد يجعل بعض خدمات Google غير متاحة.</string>
     <string name="security_encryption_close_dialog_title">الرجوع الى حماية كلمة المرور الافتراضية</string>
@@ -4318,6 +4338,7 @@
     <string name="sim_reenter_new">إعادة كتابة رقم التعريف الشخصي الجديد</string>
     <string name="sim_select_card">‏تحديد شريحة SIM</string>
     <string name="sim_selection_required_pref">يلزم التحديد</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">‏بطاقات SIM</string>
     <string name="sim_setup_wizard_title">‏بطاقات SIM</string>
     <string name="sim_signal_strength">%1$d ديسبل ميلي واط %2$d وحدة إشارة واحدة</string>
@@ -4331,6 +4352,7 @@
     <string name="size_kilo_byte">كيلوبايت</string>
     <string name="size_mega_byte">ميغابايت</string>
     <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip_anyway_button_label">التخطي على أي حال</string>
     <string name="skip_label">تخطي</string>
@@ -4408,6 +4430,7 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
     <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>
@@ -4469,9 +4492,9 @@
     <string name="status_wimax_mac_address">‏عنوان 4G MAC</string>
     <string name="status_write_success">نجح الإجراء!</string>
     <string name="statusbar_permission_desc">الأذونات التالية صالحة فقط للإشعارات الهامة.</string>
-    <string name="stop_upload_audio_log">Finish getting audio log</string>
-    <string name="stop_upload_gps_log">Finish getting GPS log</string>
-    <string name="stop_upload_modem_log">Finish getting modem log</string>
+    <string name="stop_upload_audio_log">الانتهاء من الحصول على سجل الصوت</string>
+    <string name="stop_upload_gps_log">الانتهاء من الحصول على سجل GPS</string>
+    <string name="stop_upload_modem_log">الانتهاء من الحصول على سجل المودم</string>
     <string name="storage_detail_apps">التطبيقات</string>
     <string name="storage_detail_audio">الصوت</string>
     <string name="storage_detail_cached">البيانات المخزنة مؤقتًا</string>
@@ -4642,6 +4665,7 @@
     <string name="suggestions_title">الاقتراحات</string>
     <string name="sum_carrier_select">اختيار مشغل شبكة</string>
     <string name="summary_divider_text">"، "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s إلى %2$s</string>
     <string name="super_resolution_access_title">التطبيقات القابلة للوصول</string>
     <string name="super_resolution_desc">اجعل الصور أكثر وضوحا باستخدام خوارزمية AI</string>
@@ -4786,6 +4810,7 @@
     <string name="title_hdmi_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="title_layout_current">حجم النص</string>
     <string name="title_layout_current2">حجم النص</string>
+    <string name="to_close">إيقاف</string>
     <string name="toast_lockscreen_glogin_empty_password">إدخال كلمة المرور</string>
     <string name="toast_need_login">تسجيل الدخول إلى حساب Mi</string>
     <string name="total">عدم الازعاج</string>
@@ -4976,11 +5001,11 @@
     <string name="untitled_apn">بلا عنوان</string>
     <string name="update_new_version">تحديث متاح</string>
     <string name="update_progress_for_updates">جارٍ التحديث (%s)</string>
-    <string name="upload_audio_log">Start getting audio log</string>
+    <string name="upload_audio_log">الحصول على سجل الصوت</string>
     <string name="upload_debug_log_summary">قد تحتوي إحصائيات بيانات الاستخدام التي تساعدنا على إيجاد المشاكل وحلها على معلوماتك الشخصية</string>
     <string name="upload_debug_log_title">إرسال البيانات التشخيصية تلقائياً</string>
-    <string name="upload_gps_log">Start getting GPS log</string>
-    <string name="upload_modem_log">Start getting modem log</string>
+    <string name="upload_gps_log">الحصول على سجل GPS</string>
+    <string name="upload_modem_log">الحصول على سجل المودم</string>
     <string name="usage">الاستخدام</string>
     <string name="usage_access">الدخول إلى الاستخدام</string>
     <string name="usage_access_description">يتيح الدخول إلى الاستخدام للتطبيق تتبع التطبيقات الأخرى التي تستخدمها ومدى تكرار استخدامها ومشغل شبكة الجوال وإعدادات اللغة بالإضافة إلى تفاصيل أخرى.</string>
@@ -5635,9 +5660,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

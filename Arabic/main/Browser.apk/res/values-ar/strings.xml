@@ -25,6 +25,7 @@
     <string name="s5">إنشاء حدث تقويم</string>
     <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="abc_action_bar_home_description">اذهب إلى صفحة البداية</string>
     <string name="abc_action_bar_up_description">اذهب لأعلى</string>
     <string name="abc_action_menu_overflow_description">المزيد</string>
@@ -86,7 +87,6 @@
     <string name="add_to_quicklink">صفحة البداية</string>
     <string name="added_to_bookmarks">تمت الإضافة إلى الإشارات المرجعية</string>
     <string name="adjust_text_zoom_toast">قد يتسبب تغيير زوم النص في عرض بعض مواقع الويب بشكل غير صحيح</string>
-    <string name="adx_loading_str">يرجى الإنتظار للحظة…</string>
     <string name="agree">موافق</string>
     <string name="agree_permissions_request">السماح</string>
     <string name="alert_tips">هذا الموقع قد يكون غير آمن</string>
@@ -102,7 +102,6 @@
     <string name="aqi_quality_index_moderate">معتدل</string>
     <string name="aqi_quality_index_pure">ممتاز</string>
     <string name="aqi_quality_index_unhealthy">غير صحي</string>
-    <string name="articles_updated">تم تحديث %1$d من المقالات</string>
     <string name="autoSwithcingSearchEngineTips">تم التبديل إلى محرك البحث المستخدم غالبا</string>
     <string name="autologin_bar_error">تعذر تسجيل الدخول</string>
     <string name="autologin_bar_hide_text">إخفاء</string>
@@ -347,6 +346,7 @@
     <string name="ignore_add_pwa_dialog_today">لا تظهر اليوم</string>
     <string name="in_incognito">أنت في وضع التصفح المتخفي! لن تظهر صفحات الويب الموجودة بعلامة التبويب هذه في سجل المتصفح.</string>
     <string name="in_secureaccess">تم تبديل المتصفح الى الوضع الآمن</string>
+    <string name="into_info_flow_guide">عرض مزيد من المقالات</string>
     <string name="isReplacePage">الملف موجود مسبقاً، هل تريد استبداله؟</string>
     <string name="is_first_history_item">هذه الصفحة الأولى في سجل المتصفح</string>
     <string name="is_first_tab">هذه علامة التبويب الأولى</string>
@@ -470,7 +470,7 @@
     <string name="mw_color_picker_value">القيمة</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">فشل في النسخ إلى الحافظة</string>
-    <string name="mw_data_traffic_prompt_change">سيؤدي استخدام اتصال بيانات الجوال لتصفح مقاطع الفيديو في زيادة استخدام البيانات. إذا تجاوزت حد استخدام بيانات خطة جوالك، قد تفرض عليك شركة الاتصالات رسوما إضافية.</string>
+    <string name="mw_data_traffic_prompt_change">سيؤدي استخدام اتصال بيانات الجوال لتصفح مقاطع الفيديو إلى زيادة استخدام البيانات. إذا تجاوزت حد استخدام بيانات خطة جوالك، قد تفرض عليك شركة الاتصالات رسوما إضافية.</string>
     <string name="mw_data_traffic_prompt_message">سيؤدي استخدام اتصال بيانات الجوال لتصفح مقاطع الفيديو إلى زيادة استخدام البيانات. إذا تجاوزت حد استخدام بيانات خطة جوالك، قد تفرض عليك شركة الاتصالات رسوما إضافية.</string>
     <string name="mw_data_traffic_prompt_message_short">قد يتسبب استخدام بيانات الجوال لتشغيل الفيديوهات في تجاوز خطة حد إستخدام البيانات الخاصة بك.</string>
     <string name="mw_data_traffic_prompt_title">تحذير إستخدام البيانات</string>
@@ -486,10 +486,10 @@
     <string name="mw_http_post_warning_resend">متابعة</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-هل أنت متأكد من أنك تريد مغادرة هذه الصفحة؟"</string>
-    <string name="mw_js_dialog_before_unload_negative_button">البقاء</string>
-    <string name="mw_js_dialog_before_unload_positive_button">مغادرة</string>
-    <string name="mw_js_dialog_before_unload_title">مغادرة الصفحة</string>
+مغادرة هذه الصفحة؟"</string>
+    <string name="mw_js_dialog_before_unload_negative_button">البقاء على هذه الصفحة</string>
+    <string name="mw_js_dialog_before_unload_positive_button">مغادرة هذه الصفحة</string>
+    <string name="mw_js_dialog_before_unload_title">تأكيد مغادرة الصفحة</string>
     <string name="mw_js_dialog_title">الصفحة على \"%s\" تقول:</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">الشهر الماضي</string>
@@ -500,8 +500,8 @@
     <string name="mw_login_dialog_username_field">اسم المستخدم</string>
     <string name="mw_low_memory_error">غير قادر على أتمام العملية السابقة وذلك لأنخفاض الذاكرة</string>
     <string name="mw_media_player_error_button">حسنا</string>
-    <string name="mw_media_player_error_text_invalid_progressive_playback">عفوا، هذا الفيديو غير صالح ليبث على هذا الجهاز.</string>
-    <string name="mw_media_player_error_text_unknown">عفوا، لا يمكن تشغيل هذا الفيديو.</string>
+    <string name="mw_media_player_error_text_invalid_progressive_playback">هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
+    <string name="mw_media_player_error_text_unknown">لا يمكن تشغيل هذا الفيديو</string>
     <string name="mw_media_player_error_title">لا يمكن تشغيل الفيديو</string>
     <string name="mw_media_player_loading_video">تحميل الفيديو</string>
     <string name="mw_miui_content_copy">نسخ</string>
@@ -666,7 +666,7 @@
     <string name="mw_payments_edit_contact_details_label">تعديل معلومات الاتصال</string>
     <string name="mw_payments_email_invalid_validation_message">ادخل بريد إلكتروني صالح</string>
     <string name="mw_payments_email_required">البريد الإلكتروني مطلوب</string>
-    <string name="mw_payments_error_message">حدث خطأ أثناء معالجة طلبك. الرجاء المحاولة مرة أخرى.</string>
+    <string name="mw_payments_error_message">حدث خطأ أثناء معالجة الطلب. يرجى المحاولة مرة أخرى.</string>
     <string name="mw_payments_field_required_validation_message">الحقل مطلوب</string>
     <string name="mw_payments_invalid_address">ادخل عنوان صالح</string>
     <string name="mw_payments_loading_message">جارٍ التحميل</string>
@@ -700,13 +700,13 @@
     <string name="mw_payments_unsupported_shipping_address">لا يمكن الشحن إلى هذا العنوان. يرجى تحديد عنوان آخر.</string>
     <string name="mw_payments_unsupported_shipping_option">طريقة الشحن هذه غير متوفرة. جرب طريقة آخرى.</string>
     <string name="mw_payments_updated_label">تم التحديث</string>
-    <string name="mw_permission_alert_window">لإستخدام هذه الميزة، انتقل إلى خيار النظامعرض النوافذ المنبثقة.</string>
+    <string name="mw_permission_alert_window">لإستخدام هذه الميزة، افتحعرض النوافذ المنبثقة.</string>
     <string name="mw_permission_unknown">خيار غير معروف</string>
     <string name="mw_photo_picker_browse">المتصفح</string>
     <string name="mw_photo_picker_camera">الكاميرا</string>
     <string name="mw_photo_picker_select_images">تحديد صور</string>
     <string name="mw_private_browsing_warning">لا يتم دعم هذه الوظيفة في إصدار الأندرويد هذا.</string>
-    <string name="mw_profiler_error_toast">فشل بدء تشغيل ملف التعريف</string>
+    <string name="mw_profiler_error_toast">لا يمكن بدء تشغيل ملف التعريف</string>
     <string name="mw_profiler_no_storage_toast">لا يمكن بدء تشغيل ملف التعريف لأن وحدة التخزين الخارجية غير جاهزة</string>
     <string name="mw_profiler_started_toast">تم بدء تشغيل ملفات التعريف</string>
     <string name="mw_profiler_stopped_toast">تم الانتهاء من ملف التعريف. تم حفظ النتائج إلى %1$s.</string>
@@ -714,7 +714,7 @@
     <string name="mw_sad_tab_oom_message_notabs">حاول الخروج من البرامج الأخرى لتفريغ مساحة في الذاكرة.</string>
     <string name="mw_sad_tab_oom_message_tabs">حاول أغلاق علامات التبويب أو البرامج الأخرى لتفريغ مساحة في الذاكرة.</string>
     <string name="mw_sad_tab_reload_close_notabs">أغلق التطبيقات الأخرى</string>
-    <string name="mw_sad_tab_reload_incognito">افتح الصفحة في علامات تبويب تصفح متخفي جديدة</string>
+    <string name="mw_sad_tab_reload_incognito">افتح الصفحة في علامة تبويب جديدة للتصفح المتخفي</string>
     <string name="mw_sad_tab_reload_label">إعادة التحميل</string>
     <string name="mw_sad_tab_reload_learn_more">معرفة المزيد</string>
     <string name="mw_sad_tab_reload_restart_browser">أعد تشغيل Chromium</string>
@@ -724,13 +724,15 @@
     <string name="mw_sad_tab_send_feedback_label">الإبلاغ عن خلل</string>
     <string name="mw_sad_tab_title">عذرًا!</string>
     <string name="mw_sad_tab_uma_optin">إرسال إحصائيات الإستخدام وتقارير الأعطال إلى Google تلقائيًا</string>
-    <string name="mw_save_password_message">هل تريد من المتصفح تذكر كلمة المرور هذه؟</string>
+    <string name="mw_save_password_message">تذكر كلمة المرور هذه؟</string>
     <string name="mw_save_password_never">ابداً</string>
     <string name="mw_save_password_notnow">ليس الآن</string>
     <string name="mw_save_password_remember">تذكر</string>
     <string name="mw_snippets_disabled_generic_prompt">الحصول على محتويات متخصصة</string>
     <string name="mw_snippets_disabled_signed_out_instructions">سجل الدخول إلى Chrome للحصول على محتويات مخصصة مقترحة من Google.</string>
     <string name="mw_time_picker_dialog_am">ص</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">م</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">تعيين الوقت</string>
@@ -740,7 +742,7 @@
     <string name="mw_video_float_window_playing">تشغيل الفيديو</string>
     <string name="mw_video_play_error">تعذر تشغيل الفيديو</string>
     <string name="mw_webview_find_on_page">البحث في الصفحة</string>
-    <string name="mw_webviewchromium_private_browsing_warning">لا يتم دعم هذه الوظيفة في إصدار الأندرويد هذا.</string>
+    <string name="mw_webviewchromium_private_browsing_warning">هذه الوظيفة غير مدعومة في إصدار الاندرويد هذا.</string>
     <string name="mw_week_picker_dialog_title">تعيين الأسبوع</string>
     <string name="my_cahnnel">قنواتي</string>
     <string name="nav_bottom_bar_back">رجوع</string>
@@ -748,9 +750,8 @@
     <string name="nav_bottom_bar_new_tab">علامة تبويب جديدة</string>
     <string name="nav_screen_container_tab_incognito">علامة تبويب التصفح المتخفي</string>
     <string name="nav_screen_container_tab_normal">علامة تبويب عادية</string>
-    <string name="nav_screen_incognito_message">"في وضع التصفح المتخفي، لن يتم حفظ تصفحك في مواقع الويب أو سجل البحث.
-و لكن تذكر أنه سيتم حفظ الملفات التي تقوم بتنزيلها أو الإشارات المرجعية التي تضيفها."</string>
-    <string name="nav_screen_incognito_title">وضع التصفح المتخفي</string>
+    <string name="nav_screen_incognito_message">في وضع التصفح المتخفي، لن يتم حفظ تصفحك في مواقع الويب أو سجل البحث. و لكن تذكر أنه سيتم حفظ الملفات التي تقوم بتنزيلها أو الإشارات المرجعية التي تضيفها.</string>
+    <string name="nav_screen_incognito_title">  وضع التصفح المتخفي</string>
     <string name="navigation_delete_all">مرّر لليسار أو لليمين لإغلاق جميع علامات التبويب</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">إلغاء</string>
     <string name="navigationbar_rightbutton_actiontext_go">اذهب</string>
@@ -803,11 +804,12 @@
     <string name="pref_accessibility_url_shortcut_enter_summary">يمكن إدخال تركيبات الأحرف المشتركة بضغطة واحدة في شريط العنوان</string>
     <string name="pref_accessibility_url_shortcut_enter_title">ادخال سريع لعنوان URL</string>
     <string name="pref_adblock_title">مانع الإعلانات</string>
+    <string name="pref_auto_update">التحديث تلقائياً</string>
     <string name="pref_auto_update_under_wifi">التحديث بإستخدام Wi-Fi</string>
     <string name="pref_automatic_matching_searchengines_title">التبديل إلى محرك البحث المستخدم غالبا</string>
     <string name="pref_card_setting">ترتيب أفضل المواقع</string>
     <string name="pref_category_hint">الفئات</string>
-    <string name="pref_check_recommendation_app_quicklink">مقترح لك</string>
+    <string name="pref_check_recommendation_app_quicklink">موصى به</string>
     <string name="pref_check_security_url_summary">إرسال عنوان URL موقع الويب إلى خوادم Mi للتحقق إذا ما كانت آمنة</string>
     <string name="pref_check_security_url_summary_international">السماح للمتصفح بالوصول إلى عناوين URL للمواقع التي تزورها لتلقي توصيات أكثر صلة.</string>
     <string name="pref_check_security_url_title">فحص أمان الـURL</string>
@@ -952,6 +954,7 @@
     <string name="readmodelist_bookmarks_to_show">قائمة القراءة</string>
     <string name="refresh">تحديث</string>
     <string name="refresh_fail">تعذر تحميل المعلومات</string>
+    <string name="refresh_guide">العودة إلى أعلى</string>
     <string name="refreshing">يتم التحديث…</string>
     <string name="refuse_permissions_request">تقييد</string>
     <string name="release_to_refresh">حرر للتحديث</string>
@@ -1114,6 +1117,7 @@
     <string name="version_check_button_resume_download">استئناف التنزيل</string>
     <string name="version_check_button_update">تحديث</string>
     <string name="version_check_failed">تعذر التحقق من وجود تحديثات</string>
+    <string name="version_dialog_4G_checkbox">يمكنك تحديث تطبيقات النظام بإستخدام بيانات الجوال. ويمكن أن يؤدي ذلك إلى فرض رسوم بيانات إضافية.</string>
     <string name="version_dialog_buttion_ok">موافق</string>
     <string name="version_dialog_buttion_update">تحديث</string>
     <string name="version_update_file_download_toast">جارٍ التنزيل</string>
@@ -1216,6 +1220,7 @@
     <string name="date_picker_dialog_set">تعيين</string>
     <string name="date_picker_dialog_title">تعيين التاريخ</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
+    <string name="external_app_restricted_access_error">لا يملك متصفح Mi الوصول إلى المورد المطلوب.</string>
     <string name="find_next">ابحث عن التالي</string>
     <string name="find_previous">البحث عن السابق</string>
     <string name="js_dialog_before_unload">"%s

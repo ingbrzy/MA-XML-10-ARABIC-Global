@@ -256,6 +256,7 @@
     <string name="unit_data_display_currency_bhd">الدينار البحريني</string>
     <string name="unit_data_display_currency_bnd">الدولار البروني</string>
     <string name="unit_data_display_currency_brl">الريال البرازيلي</string>
+    <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
     <string name="unit_data_display_currency_cad">الدولار الكندي</string>
     <string name="unit_data_display_currency_chf">الفرنك السويسري</string>
     <string name="unit_data_display_currency_clp">البيزو الشيلي</string>
@@ -532,5 +533,4 @@
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
     <string name="year" />
-    <string name="unit_data_display_currency_byr">الروبل البيلاروسية</string>
 </resources>

@@ -441,12 +441,12 @@
         <item quantity="many">سيظهر %1$d مفتاح تبديل في مركز الإشعارات</item>
     </plurals>
     <plurals name="show_audio_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get audio log</item>
-        <item quantity="zero">%1$d steps left before you can get audio log</item>
-        <item quantity="one">%1$d step left before you can get audio log</item>
-        <item quantity="two">%1$d steps left before you can get audio log</item>
-        <item quantity="few">%1$d steps left before you can get audio log</item>
-        <item quantity="many">%1$d steps left before you can get audio log</item>
+        <item quantity="other">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل الصوت</item>
+        <item quantity="zero">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل الصوت</item>
+        <item quantity="one">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل الصوت</item>
+        <item quantity="two">تبقى %1$d خطوات قبل أن تتمكن من الحصول على سجل الصوت</item>
+        <item quantity="few">تبقى %1$d خطوات قبل أن تتمكن من الحصول على سجل الصوت</item>
+        <item quantity="many">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل الصوت</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال CIT.</item>
@@ -465,20 +465,20 @@
         <item quantity="many">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوة.</item>
     </plurals>
     <plurals name="show_gps_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get GPS log</item>
-        <item quantity="zero">%1$d steps left before you can get GPS log</item>
-        <item quantity="one">%1$d step left before you can get GPS log</item>
-        <item quantity="two">%1$d steps left before you can get GPS log</item>
-        <item quantity="few">%1$d steps left before you can get GPS log</item>
-        <item quantity="many">%1$d steps left before you can get GPS log</item>
+        <item quantity="other">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل GPS</item>
+        <item quantity="zero">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل GPS</item>
+        <item quantity="one">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل GPS</item>
+        <item quantity="two">تبقى %1$d خطوات قبل أن تتمكن من الحصول على سجل GPS</item>
+        <item quantity="few">تبقى %1$d خطوات قبل أن تتمكن من الحصول على سجل GPS</item>
+        <item quantity="many">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل GPS</item>
     </plurals>
     <plurals name="show_modem_logcat_countdown">
-        <item quantity="other">%1$d steps left before you can get modem log</item>
-        <item quantity="zero">%1$d steps left before you can get modem log</item>
-        <item quantity="one">%1$d step left before you can get modem log</item>
-        <item quantity="two">%1$d steps left before you can get modem log</item>
-        <item quantity="few">%1$d steps left before you can get modem log</item>
-        <item quantity="many">%1$d steps left before you can get modem log</item>
+        <item quantity="other">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل المودم</item>
+        <item quantity="zero">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل المودم</item>
+        <item quantity="one">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل المودم</item>
+        <item quantity="two">تبقى %1$d خطوات قبل أن تتمكن من الحصول على سجل المودم</item>
+        <item quantity="few">تبقى %1$d خطوات قبل أن تتمكن من الحصول على سجل المودم</item>
+        <item quantity="many">تبقى %1$d خطوة قبل أن تتمكن من الحصول على سجل المودم</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال معلومات الهاتف.</item>

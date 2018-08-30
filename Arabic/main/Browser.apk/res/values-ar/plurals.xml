@@ -17,12 +17,12 @@
         <item quantity="many">تم حظر %d عناصر</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">تم تحديث %1$d مقال</item>
-        <item quantity="zero">تم تحديث %1$d مقال</item>
-        <item quantity="one">تم تحديث %1$d مقال</item>
-        <item quantity="two">تم تحديث %1$d مقالات</item>
-        <item quantity="few">تم تحديث %1$d مقالات</item>
-        <item quantity="many">تم تحديث %1$d مقال</item>
+        <item quantity="other">تحقق من %1$d مقال جديد</item>
+        <item quantity="zero">تحقق من %1$d مقال جديد</item>
+        <item quantity="one">تحقق من %1$d مقال جديد</item>
+        <item quantity="two">تحقق من %1$d مقالات جديدة</item>
+        <item quantity="few">تحقق من %1$d مقالات جديدة</item>
+        <item quantity="many">تحقق من %1$d مقال جديد</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">حذف %d مهمة؟</item>
@@ -161,12 +161,12 @@
         <item quantity="many">%d دقيقة متبقية</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">تم تحديث %1$d فيديو</item>
-        <item quantity="zero">تم تحديث %1$d فيديو</item>
-        <item quantity="one">تم تحديث %1$d فيديو</item>
-        <item quantity="two">تم تحديث %1$d فيديوهات</item>
-        <item quantity="few">تم تحديث %1$d فيديوهات</item>
-        <item quantity="many">تم تحديث %1$d فيديو</item>
+        <item quantity="other">تحقق من %1$d فيديو جديد</item>
+        <item quantity="zero">تحقق من %1$d فيديو جديد</item>
+        <item quantity="one">تحقق من %1$d فيديو جديد</item>
+        <item quantity="two">تحقق من %1$d فيديوهات جديدة</item>
+        <item quantity="few">تحقق من %1$d فيديوهات جديدة</item>
+        <item quantity="many">تحقق من %1$d فيديو جديد</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">صافٍ</item>
