@@ -105,6 +105,7 @@
     <string name="accessibility_wifi_signal_full">‏إشارة Wi-Fi كاملة.</string>
     <string name="accessibility_wifi_security_type_none">شبكة مفتوحة</string>
     <string name="accessibility_wifi_security_type_secured">شبكة محمية بكلمة مرور</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="data_usage_uninstalled_apps">التطبيقات المزالة</string>
     <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمون الذين تمت إزالتهم</string>
     <string name="tether_settings_title_usb">‏ربط USB</string>

@@ -11,7 +11,7 @@
 اذهب إلى %s على جهاز آخر متصل."</string>
     <string name="permdesc_accessDrm">السماح للتطبيق بالوصول إلى المحتوى المحمي \"إدارة الحقوق الرقمية\" (DRM).</string>
     <string name="open_wifi_connect_title">متصل بشبكة %1$s</string>
-    <string name="open_wifi_connect_and_use_data_summary">سوف تستمر في استخدام بيانات الجوال، انقر للتبديل إلى wifi والتحقق.</string>
+    <string name="open_wifi_connect_and_use_data_summary">سوف تستمر في استخدام بيانات الجوال. انقر للتبديل إلى شبكة Wi-Fi.</string>
     <string name="open_wifi_connect_summary">انقر لعرض تفاصيل.</string>
     <string name="settings_license_activity_title">رخصة مفتوحة المصدر</string>
     <string name="settings_license_activity_loading">لحظة من فضلك…</string>
@@ -25,4 +25,5 @@
     <string name="settings_ad_loading">لحظة من فضلك…</string>
     <string name="settings_ad_loading_unavailable">تعذر تحميل المعلومات.</string>
     <string name="autoconnect">الاتصال تلقائيا</string>
+    <string name="poco_privacy_policy">سياسة الخصوصية واتفاقية المستخدم لمشغل POCO</string>
 </resources>

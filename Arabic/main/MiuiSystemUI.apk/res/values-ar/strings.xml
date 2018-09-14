@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">الكاميرا</string>
     <string name="accessibility_carrier_network_change_mode">تغيير شبكة الاتصالات.</string>
     <string name="accessibility_cast_name">متصل بشبكة %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">توقف بث الشاشة.</string>
     <string name="accessibility_cell_data">بيانات الجوال</string>
     <string name="accessibility_cell_data_off">بيانات الجوال متوقفة</string>
@@ -241,8 +242,8 @@
     <string name="accessibility_unlock_button">إلغاء القفل</string>
     <string name="accessibility_unlock_without_fingerprint">إلغاء القفل بدون إستخدام بصمة الاصبع</string>
     <string name="accessibility_voice_assist_button">المساعد الصوتي</string>
-    <string name="accessibility_volume_collapse">تقليص</string>
-    <string name="accessibility_volume_expand">عرض الكل</string>
+    <string name="accessibility_volume_collapse">تصغير</string>
+    <string name="accessibility_volume_expand">توسيع</string>
     <string name="accessibility_vpn_on">VPN مشغل.</string>
     <string name="accessibility_waiting_for_fingerprint">في انتظار بصمة الاصبع</string>
     <string name="accessibility_wifi_name">متصل بشبكة %s.</string>
@@ -542,7 +543,7 @@
     <string name="drag_to_add_tiles">اسحب لإضافة عنوان</string>
     <string name="drag_to_remove_tiles">اسحب هنا للحذف</string>
     <string name="drive_mode_tip">وضع القيادة قيد التشغيل</string>
-    <string name="drive_mode_tip_idle">وضع القيادة قيد التشغيل</string>
+    <string name="drive_mode_tip_idle">وضع القيادة مشغل</string>
     <string name="drive_mode_tip_idle_notch">وضع القيادة</string>
     <string name="drive_mode_tip_notch">وضع القيادة</string>
     <string name="emergency_call_string">الطوارئ</string>
@@ -626,7 +627,7 @@
     <string name="face_unlock_offset_top">ارفع هاتفك قليلا</string>
     <string name="face_unlock_open_eye">افتح عينيك أوسع قليلا</string>
     <string name="face_unlock_passwork">استخدم كلمة المرور</string>
-    <string name="face_unlock_passwork_and_fingerprint">استخدم كلمة المرور أو بيانات الوجه</string>
+    <string name="face_unlock_passwork_and_fingerprint">استخدم كلمة المرور أو بصمة الإصبع</string>
     <string name="face_unlock_quality">تعذر رؤية وجهك بوضوح</string>
     <string name="face_unlock_reenter_content">تم تحديث خوارزمية التعرف على الوجه. انقر لتسجيل بيانات الوجة مرة اخرى.</string>
     <string name="face_unlock_reenter_title">سجل بيانات وجهك مرة أخرى.</string>
@@ -635,6 +636,7 @@
     <string name="face_unlock_rise">أخفض رأسك</string>
     <string name="face_unlock_rotated_left">أدر رأسك إلى اليمين</string>
     <string name="face_unlock_rotated_right">أدر رأسك إلى اليسار</string>
+    <string name="face_unlock_sc_status">إسحب الشاشة للأسفل لفتح الكاميرا</string>
     <string name="face_unlock_stay_away_screen">إبقى بعيدا عن الشاشة مسافة ٢٥ إلى ٤٠ سم</string>
     <string name="failed_to_open_app_settings_toast">تعذّر فتح الإعدادات لـ %1$s</string>
     <string name="fingerprint_add_text">تم تحديث واجهه بصمة الأصبع. قم بإضافة بصمة الاصبع الخاص بك مرة أخرى.</string>
@@ -728,7 +730,7 @@
     <string name="incorrect_pukcode">رمز PUK غير صحيح</string>
     <string name="input_password_after_boot_msg">لفتح قفل جهازك، ادخل كلمة المرور</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">لا يمكن التبديل بين الواجهات أثناء إجراء مكالمة</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">لا يمكن التبديل بين الواجهتين أثناء تشغيل الرقابة الأبوية</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">لا يمكن التبديل بين الواجهتين عندما تكون رقابة الوالدين قيد التشغيل</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">تحتاج إلى الدخول إلى الواجهة الاولى بعد إعادة تشغيل الجهاز</string>
     <string name="input_password_handle_sdcard_fs">لا يمكن الدخول إلى الواجهة الثانية من شاشة القفل. قم بالدخول من الواجهة الاولى.</string>
     <string name="input_password_hint_text">ادخل كلمة المرور</string>
@@ -808,9 +810,13 @@
     <string name="keyguard_accessibility_sim_puk_area">منطقه الدبوس</string>
     <string name="keyguard_carrier_default">لا توجد خدمة</string>
     <string name="keyguard_charged">مشحونة</string>
-    <string name="keyguard_charging_back_to_lockscreen">العودة إلى شاشة القفل</string>
+    <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
     <string name="keyguard_charging_info_click_to_detail">عرض التفاصيل</string>
+    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
+    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
@@ -835,6 +841,7 @@
     <string name="keyguard_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. الرجاء إدراج بطاقة SIM.</string>
     <string name="keyguard_missing_sim_message">لا توجد بطاقة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكه مقفله</string>
     <string name="keyguard_password_enter_password_code">أدخل كلمة المرور لإلغاء القفل</string>
     <string name="keyguard_password_enter_pin_code">أدخل رمز PIN</string>
@@ -870,7 +877,7 @@
     <string name="kg_invalid_confirm_pin_hint">رموز PIN غير متطابقة</string>
     <string name="kg_invalid_puk">أدخل رمز PUK الصحيح مجدداً. ستؤدي المحاولات المتكررة إلى تعطيل بطاقة SIM نهائيًا.</string>
     <string name="kg_invalid_sim_pin_hint">أدخل رمز PIN مكون من ٤ إلى ٨ أرقام.</string>
-    <string name="kg_invalid_sim_puk_hint">يجب أن يحتوي رمز PUK على ٨ أرقام على الأقل.</string>
+    <string name="kg_invalid_sim_puk_hint">يجب أن يحتوي رمز PUK على ٨ أرقام.</string>
     <string name="kg_login_too_many_attempts">محاولات إدخال كثيرة للغاية</string>
     <string name="kg_password_instructions">ادخل كلمة المرور</string>
     <string name="kg_password_pin_failed">تعذر إلغاء القفل بإستخدام رمز PIN لبطاقة SIM</string>
@@ -918,6 +925,7 @@
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">"، "</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة المرور أو إزالتها للنسخ الاحتياطي للشاشة الرئيسية الكاملة</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة للشاشة الرئيسية ’ليست محمية حاليًا</string>
     <string name="local_backup_password_title">كلمه مرور النسخ الإحطياتي الشامل</string>
@@ -979,10 +987,12 @@
     <string name="miui_guide_dialog_message">سيستمر تشغيل أصوات الوسائط (الموسيقى والفيديوهات وما إلى ذلك) في وضع السكون. يمكنك تغيير هذا في الإعدادات.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
     <string name="miui_ringer_count_down">العد التنازلي</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">صامت</string>
     <string name="miui_ringer_standard_description">كتم نغمات الرنين للمكالمات الواردة والإشعارات</string>
     <string name="miui_ringer_total">عدم الازعاج</string>
-    <string name="miui_ringer_total_description">إيقاف الأصوات وإيقاف تشغيل الاهتزاز لجميع العناصر ماعدا تنبيه الساعة</string>
+    <string name="miui_ringer_total_description">كتم الأصوات وإيقاف تشغيل الاهتزاز لجميع العناصر بإستثناء ساعة التنبيه</string>
+    <string name="miui_screen_rotation_freeze_message">التدوير التلقائى معطل.</string>
     <string name="miui_toast_zen_dnd_to_off">تم استعادة الصوت والاهتزاز إلى الوضع الطبيعي</string>
     <string name="miui_toast_zen_standard_to_off">تم استعادة نغمات الرنين إلى وضعها الطبيعي</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">سيتم تشغيل النغمات، وكذلك الأشعارات وأصوات الوسائط.</string>
@@ -1005,12 +1015,14 @@
 
 لمزيد من المعلومات، اتصل بمسؤول النظام."</string>
     <string name="monitoring_description_ca_cert_settings">فتح الشهادات الموثوقة</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">يتم تثبيت مرجع مصدق على هذا الجهاز. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يقوم المشرف بمراقبة وإدارة الإعدادات والتطبيقات والوصول إلى موارد الشركة والبيانات المتعلقة بجهازك ومعلومات الموقع.</string>
     <string name="monitoring_description_do_body_vpn">انت متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك البريد الإلكتروني والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك من قِبل %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s تستخدم %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">معرفة المزيد</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">قامت مؤسستك بتثبيت مرجع مصدق في ملف العمل الشخصي. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">ملف العمل الشخصي متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"تتم إدارة جهازك من قِبل مؤسستك.
@@ -1042,6 +1054,7 @@
 
  انت أيضًا متصل بشبكة VPN، حيث يمكن مراقبة نشاط هذه الشبكة."</string>
     <string name="monitoring_description_vpn_settings">فتح إعدادات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل الشبكة</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1056,6 +1069,7 @@
     <string name="nav_guide_message">استخدم الإيماءات لإخفاء أو إظهار أزرار التنقل.</string>
     <string name="nav_guide_ok">إعداد</string>
     <string name="nav_guide_title">إخفاء أزرار التنقل</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا يوجد</string>
     <string name="no_multi_window_app">لا توجد تطبيقات تدعم وضع تقسيم الشاشة</string>
     <string name="no_notification_tips">لا توجد إشعارات</string>
@@ -1193,6 +1207,7 @@
     <string name="power_remaining_charging_duration_only">%1$s مُتبقية حتي إكتمال الشحن</string>
     <string name="power_remaining_duration_only">حوالي %1$sباقي</string>
     <string name="power_remaining_duration_only_short">%1$s متبقية</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
@@ -1447,6 +1462,8 @@
     <string name="status_bar_clear_all_button">مسح</string>
     <string name="status_bar_clock_date_format">EEEE، d MMMM</string>
     <string name="status_bar_clock_date_format_12">EEEE، d MMMM</string>
+    <string name="status_bar_clock_date_time_format">d MMMM H:mm</string>
+    <string name="status_bar_clock_date_time_format_12">d MMMM aah:mm</string>
     <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
     <string name="status_bar_date_format_12">"EEEE
@@ -1702,8 +1719,8 @@ d MMMM"</string>
     <string name="voice_assist_label">فتح المساعد الصوتي</string>
     <string name="voice_hint">اسحب الأيقونة لفتح المساعد الصوتي</string>
     <string name="volume_and_do_not_disturb">عدم الإزعاج</string>
-    <string name="volume_dialog_accessibility_dismissed_message">تم إخفاء عناصر التحكم في الصوت</string>
-    <string name="volume_dialog_accessibility_shown_message">يتم عرض %s تحكم بمستوى الصوت. مرّر لأعلى لأخفائة.</string>
+    <string name="volume_dialog_accessibility_dismissed_message">تم إخفاء عناصر التحكم في مستوى الصوت</string>
+    <string name="volume_dialog_accessibility_shown_message">‏تم عرض %s عنصر تحكم في مستوى الصوت. يمكنك التمرير سريعًا لأعلى للتجاهل.</string>
     <string name="volume_dnd_silent">اختصار أزرار الصوت</string>
     <string name="volume_stream_content_description_mute">%1$s. انقر لكتم الصوت. قد يتم كتم صوت خدمات إمكانية الوصول.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. انقر لكتم الصوت.</string>
@@ -1721,6 +1738,7 @@ d MMMM"</string>
     <string name="wait_for_debugger">انتظر المصحح</string>
     <string name="wait_for_debugger_summary">ينتظر تطبيق التصحيح المصحح للإرفاق قبل التنفيذ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">حرر لعرض التفاصيل</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
     <string name="wifi_aggressive_handover">ال‏تبديل التلقائي من شبكة Wi‑Fi إلى بيانات الجوال</string>
     <string name="wifi_aggressive_handover_summary">عند تفعيلها، سيتم تبديل الاتصال إلى بيانات الجوال بشكل أكثر نشاطا، عندما تكون إشارة Wi‑Fi منخفضة.</string>
@@ -1745,9 +1763,11 @@ d MMMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

@@ -244,6 +244,22 @@
         <item quantity="few">تم العثور على %d مشاكل في البطارية، قم بإصلاحها</item>
         <item quantity="many">تم العثور على %d مشكل في البطارية، قم بإصلاحها</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">عنصر</item>
+        <item quantity="zero">عنصر</item>
+        <item quantity="one">عنصر</item>
+        <item quantity="two">عناصر</item>
+        <item quantity="few">عناصر</item>
+        <item quantity="many">عنصر</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">إضافة %d دقيقة</item>
+        <item quantity="zero">إضافة %d دقيقة</item>
+        <item quantity="one">إضافة %d دقيقة</item>
+        <item quantity="two">إضافة %d دقائق</item>
+        <item quantity="few">إضافة %d دقائق</item>
+        <item quantity="many">إضافة %d دقيقة</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">قام بتحميله %1$d شخص</item>
         <item quantity="zero">قام بتحميله %1$d شخص</item>
@@ -565,12 +581,12 @@
         <item quantity="many">تم العثور على %d تطبيق</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">إعادة ضبط المصنع(%dثانية)</item>
-        <item quantity="zero">إعادة ضبط المصنع(%dثانية)</item>
-        <item quantity="one">إعادة ضبط المصنع(%dثانية)</item>
-        <item quantity="two">إعادة ضبط المصنع(%dثواني)</item>
-        <item quantity="few">إعادة ضبط المصنع(%dثواني)</item>
-        <item quantity="many">إعادة ضبط المصنع(%dثانية)</item>
+        <item quantity="other">إعادة ضبط المصنع (%dثانية)</item>
+        <item quantity="zero">إعادة ضبط المصنع (%dثانية)</item>
+        <item quantity="one">إعادة ضبط المصنع (%dثانية)</item>
+        <item quantity="two">إعادة ضبط المصنع (%dثواني)</item>
+        <item quantity="few">إعادة ضبط المصنع (%dثواني)</item>
+        <item quantity="many">إعادة ضبط المصنع (%dثانية)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d تطبيق مقفل في انتظار التنظيف</item>
@@ -707,6 +723,14 @@
         <item quantity="two">%d تطبيقات مخفي</item>
         <item quantity="few">%d تطبيقات مخفي</item>
         <item quantity="many">%d تطبيق مخفي</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">قد لا يتم عرض %d تطبيق بشكل صحيح. قم بتقييد الإشعارات المنبثقة.</item>
+        <item quantity="zero">قد لا يتم عرض %d تطبيق بشكل صحيح. قم بتقييد الإشعارات المنبثقة.</item>
+        <item quantity="one">قد لا يتم عرض %d تطبيق بشكل صحيح. قم بتقييد الإشعارات المنبثقة.</item>
+        <item quantity="two">قد لا يتم عرض %d تطبيقات بشكل صحيح. قم بتقييد الإشعارات المنبثقة.</item>
+        <item quantity="few">قد لا يتم عرض %d تطبيقات بشكل صحيح. قم بتقييد الإشعارات المنبثقة.</item>
+        <item quantity="many">قد لا يتم عرض %d تطبيق بشكل صحيح. قم بتقييد الإشعارات المنبثقة.</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">يتطلب تحسين %1$d مشكلة</item>

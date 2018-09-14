@@ -105,6 +105,7 @@
     <string name="card_settings_rule">إعدادات طلب البطاقة</string>
     <string name="card_title_funclaunch">اختصارات</string>
     <string name="card_title_noteboard">ملاحظة قصيرة</string>
+    <string name="card_title_utilities">الخدمات</string>
     <string name="check_network">تحقق من إعدادات الشبكة</string>
     <string name="check_network_retry">تحقق من إعدادات الشبكة وحاول مجدداً</string>
     <string name="cleanup_garbage">المنظف</string>
@@ -141,6 +142,7 @@
     <string name="google">Google</string>
     <string name="help_quick_start_wechat_video">يمكنك الوصول إلى الميزات الخاصة بالتطبيقات بإستخدام الاختصارات</string>
     <string name="hold_down_adjustment_order">اضغط مطولاً على الأيقونة باليمين لسحب العناصر</string>
+    <string name="holiday_empty_desc">انقر هنا لمزيد من المعلومات</string>
     <string name="home">البيت</string>
     <string name="home_and_company">البيت والعمل</string>
     <string name="hour12_format_en">hh:mm</string>
@@ -202,6 +204,7 @@
     <string name="no_more_result">هذا كل شيء حتى الآن.</string>
     <string name="no_settings">غير معين</string>
     <string name="no_signal">تعذر التحديث، حاول مجدداً لاحقاً</string>
+    <string name="no_utilities_apps">لا توجد خدمات متاحة. يرجى المحاولة مرة أخرى في وقت لاحق.</string>
     <string name="not_install_c1">لم يتم تثبيت هذا التطبيق على هاتفك. تحميله وتثبيته؟</string>
     <string name="not_install_c3">تنزيل</string>
     <string name="not_install_c4">لا شكراً</string>
@@ -344,6 +347,7 @@
     <string name="upgrade_log_title">إصدار جديد</string>
     <string name="upgrade_now">التحديث</string>
     <string name="user_id">هوية المستخدم: %s</string>
+    <string name="utilities_apps_bref">استكشف خدمات الجهات الخارجية</string>
     <string name="walk">مشي</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">كيف تصل عادة إلى وجهتك؟</string>

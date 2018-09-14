@@ -67,6 +67,7 @@
     <string name="disagree">إلغاء</string>
     <string name="setting_locale">إعداد المنطقة…</string>
     <string name="agree_terms">لقد قرأت واوافق على شروط الخدمة وسياسة الخصوصية.</string>
+    <string name="poco_agree_terms_other">(يشمل ذلك سياسة الخصوصية واتفاقية المستخدم لمشغل POCO)</string>
     <string name="agree_terms_input_method_facemoji">لقد قرأت ووافقت على سياسة خصوصية Facemoji.</string>
     <string name="agree_terms_input_method_kika">لقد قرأت ووافقت على سياسة خصوصية Kika.</string>
     <string name="miui_terms_no_network">ليس لديك اتصال إنترنت. راجع شروط الخدمة على %s.</string>
@@ -100,5 +101,16 @@
     <string name="continue_to_enable_accessibility">استمر بالضغط باستمرار على إصبعين لتفعيل إمكانية الوصول.</string>
     <string name="voice_assist_title">ايقاظ مع الصوت</string>
     <string name="voice_assist_desp">قل \"Mi AI\" لهاتفك. سيتعرف Mi AI على صوتك ويساعدك على إدارة جهازك.</string>
-    <string name="voice_assist_desp_screen_light">بعد إضاءة الشاشة، قل \"Mi AI\" لهاتفك. سيتعرف Mi AI بصوتك وستكون قادرًا على التحكم في جهازك.</string>
+    <string name="voice_assist_condition">"يمكنك استخدام Mi AI في الحالات التالية
+: ١. عندما تكون الشاشة قيد التشغيل.
+٢. عند استماعك إلى الموسيقى عند سكون الشاشة."</string>
+    <string name="voice_assist_advice">يسمح لك Mi AI باستخدام التحكم الصوتي، ولكنه يستهلك المزيد من الطاقة (+١% كل ساعة).</string>
+    <string name="ai_button_title">حول زر AI</string>
+    <string name="ai_button_desc">استخدم هذا الزر لتشغيل Mi AI واكمال المهام في هاتفك بإستخدام صوتك فقط</string>
+    <string name="ai_button_long_press">اضغط مع الاستمرار</string>
+    <string name="ai_button_long_press_desc">قل الأمر وحرر الزر</string>
+    <string name="ai_button_single_press">اضغط</string>
+    <string name="ai_button_single_press_desc">تشغيل Mi AI</string>
+    <string name="ai_button_double_press">اضغط مرتين</string>
+    <string name="ai_button_double_press_desc">إعداد ميزات Mi AI</string>
 </resources>

@@ -13,7 +13,7 @@
     <string name="about_hide_mode">حول توفير البطارية</string>
     <string name="show_system_app">إظهار تطبيقات النظام</string>
     <string name="hide_system_app">إخفاء تطبيقات النظام</string>
-    <string name="about_extreme_mode">الحد الأقصى لموفر البطارية</string>
+    <string name="about_extreme_mode">الوضع الأقصى</string>
     <string name="scenario_policies_title">مشاهد ذكية</string>
     <string name="config_scenario_policies_title">مشاهد</string>
     <string name="scenario_policies_summary">تطبيق استراتيجيات توفير الطاقة المختلفة لمشاهد مختلفة.</string>
@@ -38,7 +38,7 @@
     <string name="vip_feedback_enable">تشغيل ملاحظات Vip</string>
     <string name="extreme_power_config_mode_category">الوضع الأقصى</string>
     <string name="extreme_power_config_mode_title">الوضع الأقصى</string>
-    <string name="extreme_power_config_mode_desc">التبديل إلى الوضع الأقصى لإيقاف المزامنة والبلوتوث وGPS وNFC والنقر مرتين وأضواء الأزار وإيقاظ قفل الشاشة للإشعارات، وكذلك أضواء الإشعار. سوف يركز MIUI على توفير البطارية.</string>
+    <string name="extreme_power_config_mode_desc">التبديل إلى الوضع الأقصى لإيقاف المزامنة والبلوتوث وGPS وNFC والنقر مرتين وأضواء الأزرار وإيقاظ قفل الشاشة للإشعارات، وكذلك أضواء الإشعار. سوف يركز MIUI على توفير البطارية.</string>
     <string name="empty_title_apps_container_list">لا توجد تطبيقات</string>
     <string name="hints_loading_text">لحظة من فضلك…</string>
     <string name="config_mode_title">إعدادات الخلفية</string>
@@ -91,6 +91,6 @@
     <string name="appconfig_active_app_dialog_title">إدارة تفعيل التطبيقات</string>
     <string name="config_classify">ترتيب حسب إعدادات التطبيق</string>
     <string name="active_classify">ترتيب حسب حالة النشاط</string>
-    <string name="extreme_mode_max_item_alert">يمكن اختيار ٤ تطبيقات فقط ليتم تشغيلها في الخلفية في وضع الحد الأقصى لموفر البطارية</string>
+    <string name="extreme_mode_max_item_alert">يمكنك تحديد ما يصل إلى ٤ تطبيقات لتشغيلها في الخلفية في الوضع الأقصى</string>
     <string name="message_i_know">فهمت</string>
 </resources>

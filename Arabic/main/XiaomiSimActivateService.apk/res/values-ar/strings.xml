@@ -120,7 +120,7 @@
     <string name="privacy_revoke_failed_msg">التفعيل يتطلب منح الإذن ليتمكن تطبيق الرسائل الحصول على رقم هاتفك.</string>
     <string name="waiting_sim_in_service">في انتظار تفعيل بطاقة SIM</string>
     <string name="checking_client">يتم التحقق من بيئة التفعيل</string>
-    <string name="error_sim_not_in_service">لا يمكن تفعيل بطاقة SIM. تأكد من لديك رصيد كافي.</string>
+    <string name="error_sim_not_in_service">لا يمكن تفعيل بطاقة SIM. تأكد من أن لديك رصيد كافي.</string>
     <string name="error_checking_client">حدث خطأ ما أثناء التفعيل</string>
     <string name="error_network_io">حدث خطأ ما في الشبكة</string>
     <string name="error_no_send_sms_permission">تحتاج خدمة تفعيل Xiaomi SIM إلى الإذن لإرسال رسالة SMS</string>

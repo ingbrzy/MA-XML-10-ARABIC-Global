@@ -104,6 +104,30 @@
         <item quantity="few">%1$dس %2$dدق</item>
         <item quantity="many">%1$dس %2$dدق</item>
     </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">تبقى %d ساعة</item>
+        <item quantity="zero">تبقى %d ساعة</item>
+        <item quantity="one">تبقى %d ساعة</item>
+        <item quantity="two">تبقى %d ساعات</item>
+        <item quantity="few">تبقى %d ساعات</item>
+        <item quantity="many">تبقى %d ساعة</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">تبقى %d دقيقة</item>
+        <item quantity="zero">تبقى %d دقيقة</item>
+        <item quantity="one">تبقى %d دقيقة</item>
+        <item quantity="two">تبقى %d دقائق</item>
+        <item quantity="few">تبقى %d دقائق</item>
+        <item quantity="many">تبقى %d دقيقة</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">تبقى %1$d س %2$d دق</item>
+        <item quantity="zero">تبقى %1$d س %2$d دق</item>
+        <item quantity="one">تبقى %1$d س %2$d دق</item>
+        <item quantity="two">تبقى %1$d س %2$d دق</item>
+        <item quantity="few">تبقى %1$d س %2$d دق</item>
+        <item quantity="many">تبقى %1$d س %2$d دق</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">أدخل رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>
         <item quantity="zero">أدخل رمز PIN لبطاقة SIM غير صحيح، تبقى لديك %d محاولة قبل الاتصال بمزود خدمتك لإلغاء قفل جهازك.</item>

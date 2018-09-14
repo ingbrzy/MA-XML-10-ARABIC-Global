@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -167,10 +185,10 @@
         <item>تحقق دائماََ</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
-        <item>متوقف</item>
+        <item>إيقاف</item>
         <item>٣٠ دقيقة</item>
-        <item>١ ساعة</item>
-        <item>۲ ساعات</item>
+        <item>ساعة</item>
+        <item>ساعتين</item>
         <item>٨ ساعات</item>
     </string-array>
     <string-array name="nav_bar_buttons">

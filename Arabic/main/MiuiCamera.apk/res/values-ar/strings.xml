@@ -38,6 +38,9 @@
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
     <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
     <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080P</string>
+    <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720P</string>
+    <string name="pref_new_slow_motion_video_quality_240_720only">يمكنك فقط تسجيل فيديوهات 720P بإستخدام 240fps</string>
     <string name="pref_video_encoder_title">ترميز الفيديو</string>
     <string name="pref_video_encoder_entry_h264">H.264 توافق عالي</string>
     <string name="pref_video_encoder_entry_h265">H.265 أداء عالي</string>
@@ -414,7 +417,7 @@
     <string name="dual_camera_lens_covered_toast">العدسة مغطاة.</string>
     <string name="dual_camera_use_hint">تأكد من أن الشيء ليس أبعد من ٢ أمتار.</string>
     <string name="bokeh_use_hint">تأثير العمق</string>
-    <string name="back_bokeh_use_hint">تأكد من أن الشيء ليس أبعد من ١.٥ متر.</string>
+    <string name="back_bokeh_use_hint">إبقي الكائن ضمن مسافة ١.٥ متر للحصول على تأثير أفضل</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">العدسة</string>
@@ -432,6 +435,9 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"جرب وضع البورتريه.
+اجعل الكائن واضح أثناء عدم وضوح الخلفية."</string>
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="simple_mode_button_text_square">إيقاف تشغيل المربع</string>
     <string name="face_beauty_smart">ذكي</string>
@@ -446,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -470,6 +477,7 @@
     <string name="hint_ae_af_lock">تم قفل التركيز التلقائي/التعرض التلقائي</string>
     <string name="hint_device_water_mark">سيتم إضافة العلامة المائية تلقائيا.</string>
     <string name="module_name_fun">فيديو قصير</string>
+    <string name="module_name_new_slow_motion">حركة بطيئة</string>
     <string name="module_name_video">فيديو</string>
     <string name="module_name_capture">صورة</string>
     <string name="module_name_beauty">تجميل</string>
@@ -559,4 +567,5 @@
     <string name="lighting_pattern_dot">نقاط</string>
     <string name="lighting_pattern_shutter">إخفاءات</string>
     <string name="view_privacy_policy">عرض سياسة الخصوصية</string>
+    <string name="fps960_toast">سوف يبدأ التصوير في الوضع البطيء عندما يصل المؤقت إلى النقطة البيضاء</string>
 </resources>

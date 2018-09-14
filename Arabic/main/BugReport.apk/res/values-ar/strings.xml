@@ -57,6 +57,7 @@
     <string name="save_pic_success">حفظ الصورة إلى %s</string>
     <string name="save_pic_fail">تعذر حفظ الصورة. تحقق من بطاقة الـ SD الخاصة بك</string>
     <string name="pic_not_exist">هذه الصورة غير موجودة</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">تحديد منتج</string>
     <string name="michat_skillset_business_type_title">تحديد خدمة</string>
     <string name="michat_close_text">انتهت الدردشة</string>
@@ -132,7 +133,7 @@
     <string name="toast_report_sent_failed">تعذر إرسال التقرير</string>
     <string name="toast_report_copied_to_clipboard">تم نسخ التقرير إلى الحافظة</string>
     <string name="toast_description_required">تحتاج إلى كتابة وصف</string>
-    <string name="toast_feedbackservice_in_submit">جارٍ معالجة المشاكل السابقة…</string>
+    <string name="toast_feedbackservice_in_submit">جارٍ معالجة التقارير السابقة…</string>
     <string name="toast_pending_log_collection">لايزال يتم تجميع السجلات…</string>
     <string name="toast_feedback_submitted">تم إرسال التقرير</string>
     <string name="toast_feedback_submitting">جار الإرسال…</string>
@@ -161,13 +162,16 @@
     <string name="cta_cancel">إلغاء</string>
     <string name="cta_confirm">موافق</string>
     <string name="submit_dialog_title">ارسال تقرير</string>
-    <string name="submit_dialog_content">سيتم إرسال الملاحظات والسجلات الخاصة بك مع المرفقات إلى خوادم MIUI. قد تحتوي على معلومات شخصية وبيانات الموقع.</string>
-    <string name="submit_dialog_content_global">سيتم إرسال تقريرك مع المرفقات (إن وجدت) والسجلات (يمكنك إزالة خانات الاختيار المقابلة للعناصر التي لا تريد تحميلها) إلى خوادم MIUI وإلى قسم خاص في منتدى MIUI للمطورين. كما سيتم جمع المعلومات حول مواضيعك ونشاطك على المنتدى للتحليل والتواصل لاحقا. يمكن أن تحتوي السجلات على معلوماتك الشخصية ومعلومات عن موقعك.</string>
+    <string name="submit_dialog_content"><Data>سيتم إرسال تقريرك مع المرفقات والسجلات إلى خوادم MIUI. وقد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.</Data></string>
+    <string name="submit_dialog_content_global"><Data>سيتم إرسال تقريرك مع المرفقات (إن وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد تحميلها) إلى خوادم MIUI وقسم مقيد من منتدى MIUI للمطورين. سيتم أيضًا جمع تعليقاتك ومعلومات نشاطك في المنتدى لتحليلها ولمزيد من التواصل. قد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">غير موافق</string>
     <string name="submit_dialog_confirm">موافق</string>
+    <string name="tab_title_preferences">الإعدادات</string>
+    <string name="privacy_policy_title">سياسة الخصوصية</string>
+    <string name="privacy_category_title">الخصوصية</string>
     <string name="mobile_data_note_dialog_title">تحذير إستخدام البيانات</string>
-    <string name="mobile_data_note_dialog_content">استخدام بيانات الجوال لرفع السجلات قد يؤدي الى رسوم إضافية.</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">رفع السجلات بإستخدام إتصال بيانات الجوال سيتطلب %s ميغابايت من البيانات.</string>
+    <string name="mobile_data_note_dialog_content">يبدو أنك متصل بشبكة مدفوعة. قد يؤدي تحميل السجلات إلى فرض رسوم إضافية.</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">يبدو أنك متصل بشبكة مدفوعة. يتطلب رفع السجلات Mb%s من بيانات الجوال.</string>
     <string name="mobile_data_note_dialog_cancel">انتظر شبكة الـWi-Fi</string>
     <string name="mobile_data_note_dialog_confirm">رفع</string>
     <string name="modem_tool_log_dumping_title">التقاط سجلات المودم</string>
@@ -177,12 +181,12 @@
     <string name="modem_tool_log_finish_title">تم التقاط سجل المودم</string>
     <string name="modem_tool_log_finish_desc">تم حفظ السجل كـ %s</string>
     <string name="bugreport_dialog_not_show_again">عدم الإظهار مرة أخرى</string>
-    <string name="bugreport_dialog_submit_content">انت تقوم الآن بحفظ سجلات البرامج على هذا الجهاز. يمكن أن تحتوي السجلات على معلومات شخصية ومعلومات عن الموقع. لا تقم بمشاركة السجلات مع أي شخص إذا كنت لا تريد الكشف عن هذه المعلومات.</string>
+    <string name="bugreport_dialog_submit_content"><Data>يتم حفظ سجلات البرنامج على هذا الجهاز. يمكن أن تحتوي على معلومات شخصية ومعلومات موقعك. لا تقم بمشاركة السجلات مع أي شخص ما لم تكن تريد الكشف عن هذه المعلومات. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.</Data></string>
     <string name="bugreport_dump_start_notification_title">جارٍ إنشاء تقرير عن خلل…</string>
     <string name="bugreport_dump_start_notification_summary">قد يستغرق ذلك عدة دقائق.</string>
     <string name="bugreport_dump_complete_notification_title">تم إنشاء تقرير عن خلل</string>
     <string name="bugreport_dump_complete_notification_summary">انقر للعرض.</string>
-    <string name="plus_one_submit_dialog_content">سيتم ارسال ملاحظتك مع سجلات الخطأ إلى خوادم Mi.</string>
+    <string name="plus_one_submit_dialog_content">سيتم ارسال تقريرك مع سجلات الخطأ إلى خوادم Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">تذكر التفضيل</string>
     <string name="toast_fill_brackets">يفتقد تقريرك بعض المعلومات</string>
     <string name="tab_title_chat">الأسئلة الشائعة</string>
@@ -242,12 +246,13 @@
     <string name="feedback_third_packagename_hint">ما هو تطبيق الجهة الخارجية الذي يسبب مشاكل؟</string>
     <string name="toast_third_packagename_required">أدخل إسم التطبيق</string>
     <string name="feedback_contact_info_hint">رقم الهاتف/البريد الإلكتروني</string>
+    <string name="toast_loading_app_id">جار الحصول على المعلومات…</string>
     <string name="feedback_status_commit_succ_title">تم الإرسال</string>
     <string name="feedback_status_commit_uploading_title">جار الإرسال…</string>
     <string name="feedback_status_commit_failed_title">تعذر ارسال التقرير</string>
     <string name="feedback_status_processing">جارٍ المعالجة…</string>
     <string name="feedback_status_supplement">قم بوصف مشكلتك بالتفصيل</string>
-    <string name="feedback_status_recorded">تم استلام المشكلة</string>
+    <string name="feedback_status_recorded">تم استلام التقرير</string>
     <string name="feedback_status_reresolved">تم حلها</string>
     <string name="feedback_status_answered">تم الإجابة</string>
     <string name="feedback_status_replyed">تم الرد</string>
@@ -255,10 +260,10 @@
     <string name="feedback_status_forum_reply">رد</string>
     <string name="feedback_status_submit_attachment">تم إرسال المرفق بنجاح</string>
     <string name="feedback_status_collect_log_failed">تعذر الحصول على السجلات</string>
-    <string name="feedback_status_submit_feedback_failed">تعذر ارسال التقرير</string>
-    <string name="feedback_status_save_log_info_failed">تعذر تغيير عنوان URL المرفق</string>
-    <string name="feedback_status_submit_bbs_failed">تعذر ارسال محتوى التقرير</string>
-    <string name="feedback_status_get_and_save_bbs_info_failed">تعذر الحصول على عنوان URL المرفق</string>
+    <string name="feedback_status_submit_feedback_failed">تعذر إرسال التقرير</string>
+    <string name="feedback_status_save_log_info_failed">تعذر تغيير عنوان URL المُرفق</string>
+    <string name="feedback_status_submit_bbs_failed">تعذر إرسال محتوى التقرير</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">تعذر الحصول على عنوان URL المُرفق</string>
     <string name="feedback_status_upload_log_failed">تعذر تحميل المرفقات</string>
     <string name="feedback_status_change_notification_title">تم تحديث حالة تقدم تقريرك</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s مشكلة \"%2$s\"</string>
@@ -285,6 +290,8 @@
     <string name="warning_field_invalid">تحديد %1$s صالح</string>
     <string name="min_error">يجب أن يكون %1$s الخاص بك اطول.</string>
     <string name="max_error">يجب %1$s الخاص بك أن يكون أقصر.</string>
+    <string name="reply_option_log_hint">可选</string>
+    <string name="reply_select_log_hint">选择日志文件</string>
     <string name="title_mi_family">منازل Mi القريبة</string>
     <string name="hint_feedback_main">قم بوصف المشكلة</string>
     <string name="goon_feedback_main">متابعة</string>
@@ -320,7 +327,6 @@
     <string name="toast_pic_not_exists">تم حذف الصورة المخبأة</string>
     <string name="toast_screenshot_too_large">لا يمكن رفع ملفات أكبر من 10 ميجابايت.</string>
     <string name="toast_log_too_large">تعذر التحميل. الملف كبيراً جداً.</string>
-    <string name="title_bbs_feedback_main">تعرف على المزيد حول هواتف Mi</string>
     <string name="title_customer_service">خدمة العملاء</string>
     <string name="customer_service_apply">طلب خدمة العملاء</string>
     <string name="customer_service_complain">تقرير خدمة العملاء</string>

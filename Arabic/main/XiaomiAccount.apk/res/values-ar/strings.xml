@@ -300,6 +300,7 @@
     <string name="user_avatar_uploading">لحظة من فضلك…</string>
     <string name="user_avatar_update_title">تغيير صورة الملف الشخصي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
+    <string name="account_invalid_user_avatar">هذه الصورة غير صالحة. اختر واحدة أخرى.</string>
     <string name="account_none_binded_info">بدون</string>
     <string name="account_bind_secure_phone_title">إضافة رقم هاتف</string>
     <string name="account_bind_secure_email_title">إضافة البريد الإلكتروني</string>

@@ -287,6 +287,8 @@
     <string name="xpsace_guide_button">إنشاء</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">تعذر العثور على أية تطبيقات</string>
+    <string name="confirm_close_password_title">إيقاف كلمة المرور</string>
+    <string name="confirm_close_password_desc">لن تكون قادراً على الدخول إلى الواجهة الثانية من قفل الشاشة بعد إيقاف تشغيل كلمة المرور. إيقاف التشغيل على أية حال؟</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">دفع WeChat</string>
     <string name="weixin_share_sign">تسجيل الدخول والمشاركة</string>
@@ -419,7 +421,7 @@
     <string name="ent_activation">تفعيل</string>
     <string name="ent_activating">جارٍ التفعيل…</string>
     <string name="ent_installing">جارٍ التثبيت…</string>
-    <string name="ent_network_error">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="ent_network_error">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مرة أخرى.</string>
     <string name="ent_invalid_qr">رمز QR غير صالح.</string>
     <string name="ent_invalid_agency">رمز المؤسسة غير صالح.</string>
     <string name="ent_privacy_policy_notice">* يتم جمع البيانات الشخصية في هذا الوضع وفقًا للسياسات التي تضعها شركتك. لا تقوم Xiaomi بجمع البيانات الشخصية في هذا الوضع.</string>

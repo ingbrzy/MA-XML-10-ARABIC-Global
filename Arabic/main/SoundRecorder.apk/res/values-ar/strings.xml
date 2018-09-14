@@ -17,7 +17,7 @@
     <string name="recording">جارٍ التسجيل</string>
     <string name="recording_stopped">توقف التسجيل</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="error_sdcard_access">لا يمكن الوصول إلى وحدة التخزين</string>
+    <string name="error_sdcard_access">لا يمكن إدخال بطاقة SD</string>
     <string name="error_app_internal">تحقق إذا كان هناك تطبيق آخر يستخدم ميزة التسجيل.</string>
     <string name="error_app_internal_title">خطأ في مسجل الصوت</string>
     <string name="error_file_access">الملف غير موجود أو تم إتلافه</string>
@@ -36,6 +36,7 @@
     <string name="no_file">فارغ</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز الخاص بك إلى حذفه أيضاً من Mi Cloud. حذف الآن؟</string>
+    <string name="alert_message_delete_local_record">حذف هذا التسجيل؟</string>
     <string name="share">مشاركة</string>
     <string name="rename">إعادة تسمية</string>
     <string name="delete">حذف</string>
@@ -99,7 +100,7 @@
     <string name="record_quliaty_preference_title">جودة التسجيل</string>
     <string name="cloud_record_tip">مزامنة التسجيلات مع Mi Cloud.</string>
     <string name="cloud_record_open">التسجيلات المتزامنة</string>
-    <string name="cloud_service_state_open_reminder">قم بتشغيل المزامنة لـ Mi Cloud لمزامنة ملفات التسجيل.</string>
+    <string name="cloud_service_state_open_reminder">قم بتشغيل المزامنة مع Mi Cloud لمزامنة التسجيلات.</string>
     <string name="cloud_status_full_dialog_title">مساحة تخزين Mi Cloud ممتلئة</string>
     <string name="cloud_status_full_dialog_msg">مساحة تخزين icloud ممتلئة، لا يمكن مزامنة التسجيلات. ترقية الحساب الخاص بك للحصول على مساحة التخزين أكبر.</string>
     <string name="cloud_status_full_dialog_cancel">ليس الآن</string>

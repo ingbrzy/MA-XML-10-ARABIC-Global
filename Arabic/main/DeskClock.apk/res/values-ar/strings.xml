@@ -62,7 +62,7 @@
     <string name="edit_alarm">تعديل المنبه</string>
     <string name="edit_systemtime">تعديل وقت النظام</string>
     <string name="every_day">كل يوم</string>
-    <string name="expired_timers_dismissed">تم رفض المؤقت</string>
+    <string name="expired_timers_dismissed">تم تجاهل المؤقت بنجاح</string>
     <string name="force_touch_add_alarm">إضافة منبه</string>
     <string name="force_touch_enter_stopwatch">ساعة الإيقاف</string>
     <string name="force_touch_enter_timer">المؤقت</string>
@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه بعد ايقاف التشغيل</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
@@ -160,6 +161,7 @@
     <string name="start_up">بدء</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
     <string name="temperature_unit">%1$s°</string>
@@ -184,7 +186,7 @@
     <string name="timer_clock_alert_text">ضبط مؤقت</string>
     <string name="timer_continue">استمر</string>
     <string name="timer_continue_timer">استئناف المؤقت</string>
-    <string name="timer_created">تم إنشاء المؤقت</string>
+    <string name="timer_created">تمت إضافة المؤقت بنجاح</string>
     <string name="timer_end_time">سيتوقف المؤقت في %s</string>
     <string name="timer_end_time_format">MMM dd HH:mm</string>
     <string name="timer_end_time_format_today">HH:mm</string>

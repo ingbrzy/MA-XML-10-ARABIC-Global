@@ -56,6 +56,14 @@
         <item quantity="few">%d رسائل</item>
         <item quantity="many">%d رسالة</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">تم وضع علامة عليها كـ %2$s من %1$d شخص</item>
+        <item quantity="zero">تم وضع علامة عليها كـ %2$s من %1$d شخص</item>
+        <item quantity="one">تم وضع علامة عليها كـ %2$s من %1$d شخص</item>
+        <item quantity="two">تم وضع علامة عليها كـ %2$s من %1$d أشخاص</item>
+        <item quantity="few">تم وضع علامة عليها كـ %2$s من %1$d أشخاص</item>
+        <item quantity="many">تم وضع علامة عليها كـ %2$s من %1$d شخص</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s رسالة</item>
         <item quantity="zero">%1$s رسالة</item>

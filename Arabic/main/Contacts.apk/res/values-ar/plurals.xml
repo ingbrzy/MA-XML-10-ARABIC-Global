@@ -104,6 +104,14 @@
         <item quantity="few">بطاقة SIM يمكنها تخزين %1$d جهات اتصال.</item>
         <item quantity="many">بطاقة SIM يمكنها تخزين %1$d جهة اتصال.</item>
     </plurals>
+    <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">تم العثور على أكثر من %d جهة اتصال.</item>
+        <item quantity="zero">تم العثور على أكثر من %d جهة اتصال.</item>
+        <item quantity="one">تم العثور على أكثر من %d جهة اتصال.</item>
+        <item quantity="two">تم العثور على أكثر من %d جهات اتصال.</item>
+        <item quantity="few">تم العثور على أكثر من %d جهات اتصال.</item>
+        <item quantity="many">تم العثور على أكثر من %d جهة اتصال.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">تمت إضافة %1$d جهة اتصال</item>
         <item quantity="zero">تمت إضافة %1$d جهة اتصال</item>
@@ -160,13 +168,21 @@
         <item quantity="few">%1$d أرقام</item>
         <item quantity="many">%1$d رقم</item>
     </plurals>
+    <plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="zero">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+        <item quantity="two">(%1$d)</item>
+        <item quantity="few">(%1$d)</item>
+        <item quantity="many">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">تم العثور على %d جهة اتصال</item>
-        <item quantity="zero">تم العثور على %d جهة اتصال</item>
-        <item quantity="one">تم العثور على %d جهة اتصال</item>
-        <item quantity="two">تم العثور على %d جهات اتصال</item>
-        <item quantity="few">تم العثور على %d جهات اتصال</item>
-        <item quantity="many">تم العثور على %d جهة اتصال</item>
+        <item quantity="other">تم إيجاد %d</item>
+        <item quantity="zero">تم العثور على %d</item>
+        <item quantity="one">تم إيجاد ١</item>
+        <item quantity="two">تم إيجاد %d</item>
+        <item quantity="few">تم إيجاد %d</item>
+        <item quantity="many">تم إيجاد %d</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d جهة اتصال</item>
@@ -184,21 +200,29 @@
         <item quantity="few">%d جهات اتصال مع أرقام هواتف</item>
         <item quantity="many">%d جهات اتصال مع رقم هاتف</item>
     </plurals>
+    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">%1$d جهة اتصال بمعلومات متطابقة جزئيًا</item>
+        <item quantity="zero">%1$d جهة اتصال بمعلومات متطابقة جزئيًا</item>
+        <item quantity="one">%1$d جهة اتصال بمعلومات متطابقة جزئيًا</item>
+        <item quantity="two">%1$d جهات اتصال بمعلومات متطابقة جزئيًا</item>
+        <item quantity="few">%1$d جهات اتصال بمعلومات متطابقة جزئيًا</item>
+        <item quantity="many">%1$d جهة اتصال بمعلومات متطابقة جزئيًا</item>
+    </plurals>
     <plurals name="merge_info">
         <item quantity="other">تم الدمج من %0$d مصدر</item>
         <item quantity="zero">تم الدمج من %0$d مصدر</item>
-        <item quantity="one">تم الدمج من %0$d مصدر</item>
+        <item quantity="one">لم يتم الدمج</item>
         <item quantity="two">تم الدمج من %0$d مصادر</item>
         <item quantity="few">تم الدمج من %0$d مصادر</item>
         <item quantity="many">تم الدمج من %0$d مصدر</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d رسالة صوتية</item>
-        <item quantity="zero">%1$d رسالة صوتية</item>
-        <item quantity="one">%1$d رسالة صوتية</item>
-        <item quantity="two">%1$d رسائل صوتية</item>
-        <item quantity="few">%1$d رسائل صوتية</item>
-        <item quantity="many">%1$d رسالة صوتية</item>
+        <item quantity="other">%1$d رسالة بريد صوتي</item>
+        <item quantity="zero">%1$d رسالة بريد صوتي</item>
+        <item quantity="one">١ رسالة صوتية</item>
+        <item quantity="two">%1$d رسائل بريد صوتي</item>
+        <item quantity="few">%1$d رسائل بريد صوتي</item>
+        <item quantity="many">%1$d رسالة بريد صوتي</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">تم تحديد %1$d</item>
@@ -219,7 +243,7 @@
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d مجموعة</item>
         <item quantity="zero">%0$d مجموعة</item>
-        <item quantity="one">%0$d مجموعة</item>
+        <item quantity="one">١ مجموعة</item>
         <item quantity="two">%0$d مجموعات</item>
         <item quantity="few">%0$d مجموعات</item>
         <item quantity="many">%0$d مجموعة</item>
@@ -274,11 +298,27 @@
     </plurals>
     <plurals name="searchFoundContacts">
         <item quantity="other">تم العثور على %d جهة اتصال</item>
-        <item quantity="zero">تم العثور على %d جهة اتصال</item>
-        <item quantity="one">تم العثور على %d جهة اتصال</item>
+        <item quantity="zero">تم إيجاد %d</item>
+        <item quantity="one">تم إيجاد ١</item>
         <item quantity="two">تم العثور على %d جهات اتصال</item>
         <item quantity="few">تم العثور على %d جهات اتصال</item>
         <item quantity="many">تم العثور على %d جهة اتصال</item>
+    </plurals>
+    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>
+        <item quantity="zero">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>
+        <item quantity="one">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>
+        <item quantity="two">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>
+        <item quantity="few">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>
+        <item quantity="many">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">حدد ما لا يزيد عن %1$d</item>
+        <item quantity="zero">حدد ما لا يزيد عن %1$d</item>
+        <item quantity="one">حدد ما لا يزيد عن %1$d</item>
+        <item quantity="two">حدد ما لا يزيد عن %1$d</item>
+        <item quantity="few">حدد ما لا يزيد عن %1$d</item>
+        <item quantity="many">حدد ما لا يزيد عن %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%1$d شخص</item>

@@ -114,6 +114,7 @@
     <string name="menu_title_select_folder">تحديد مجلد</string>
     <string name="menu_unhide">عدم إخفاء</string>
     <string name="menu_unstick">إلغاء التثبيت</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ليس الآن</string>
     <string name="note_description_content">تطبيق الملاحظات هو أداة رائعة لتسجيل أفكارك. يحتوي على تذكيرات افتراضية ومزامنة للعناصر الخاصة بك إلى Mi Cloud لتتمكن من الوصول إليها في أي مكان وفي أي وقت. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل حذف التطبيق.</string>
     <string name="note_description_title">حول الملاحظات</string>
@@ -125,6 +126,7 @@
     <string name="note_sort_way">حدد طريقة كيفية ترتيب ملاحظاتك</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ملاحظة تذكير</string>
     <string name="permdesc_accessNote">قد تستخدم التطبيقات الخبيثة هذا للوصول لبياناتك الشخصية.</string>
     <string name="permlab_accessNote">دخول الملاحظات</string>
@@ -200,8 +202,8 @@
     <string name="toast_message_add_image_fail">تعذر إضافة صورة</string>
     <string name="toast_notes_delete_success">تم الحذف بنجاح</string>
     <string name="toast_notes_hidden_count">تم إخفاء %1$s بنجاح</string>
-    <string name="toast_notes_hidden_edit">This note was hidden successfully. Pull down to see hidden notes.</string>
-    <string name="toast_notes_hidden_home">This note was hidden successfully. Pull down to see hidden notes.</string>
+    <string name="toast_notes_hidden_edit">تم إخفاء الملاحظة بنجاح. اسحب لأسفل لرؤية الملاحظات المخفية.</string>
+    <string name="toast_notes_hidden_home">تم إخفاء الملاحظة بنجاح. اسحب لأسفل لرؤية الملاحظات المخفية.</string>
     <string name="toast_notes_unhidden">تم عدم الإخفاء بنجاح</string>
     <string name="toast_notes_unhidden_count">تم إظهار %1$s بنجاح</string>
     <string name="toast_reach_text_limit_attachment">لا يمكن إضافة مرفقات جديدة لأن الملاحظة طويلة جدًا</string>
