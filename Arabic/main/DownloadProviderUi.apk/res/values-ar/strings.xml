@@ -197,7 +197,11 @@
     <string name="toast_only_wifi_download">قم بالاتصال بالـ Wi-Fi لتنزيل هذا العنصر</string>
     <string name="total_speedup">زيادة السرعة (الإجمالي)</string>
     <string name="version">الإصدار %s</string>
+    <string name="check_new_downloaded_action">عرض</string>
+    <string name="check_new_downloaded_file">تم العثور على ملف جديد</string>
     <string name="get_data_failed">تعذر الحصول على المعلومات. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="info_download_details">التفاصيل</string>
+    <string name="info_download_progress">عرض تقدم التنزيل</string>
     <string name="load_finish_hint">هذا كل شئ حتى الان.</string>
     <string name="loading">لحظة من فضلك…</string>
     <string name="net_error">قم بالاتصال بالإنترنت ثم حاول مجدداً</string>

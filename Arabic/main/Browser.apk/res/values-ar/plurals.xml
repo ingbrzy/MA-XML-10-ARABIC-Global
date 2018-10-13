@@ -176,6 +176,14 @@
         <item quantity="few">صافٍ</item>
         <item quantity="many">صافٍ</item>
     </plurals>
+    <plurals name="vote_all_people">
+        <item quantity="other">تم تصويت %d شخص</item>
+        <item quantity="zero">تم تصويت %d شخص</item>
+        <item quantity="one">تم تصويت %d شخص</item>
+        <item quantity="two">تم تصويت %d أشخاص</item>
+        <item quantity="few">تم تصويت %d أشخاص</item>
+        <item quantity="many">تم تصويت %d شخص</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">آخر %d يوم</item>
         <item quantity="zero">آخر %d يوم</item>

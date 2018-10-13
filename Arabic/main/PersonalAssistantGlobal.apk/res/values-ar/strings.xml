@@ -113,6 +113,10 @@
     <string name="cleanup_power">تنظيف عميق</string>
     <string name="company">العمل</string>
     <string name="company_or_school">العمل أو المدرسة</string>
+    <string name="cricket_content_provider">مزود المحتوى</string>
+    <string name="cricket_fixtures_label">مباريات</string>
+    <string name="cricket_news_label">الأخبار</string>
+    <string name="cricket_select_series">حدد سلسلتك المفضلة</string>
     <string name="cta_desc">أضف هنا الاختصارات والمعلومات المهمة.</string>
     <string name="cta_dialog_negative">خروج</string>
     <string name="cta_dialog_positive">موافق</string>
@@ -234,6 +238,7 @@
     <string name="scan_code">رمز QR</string>
     <string name="scan_doc">مستند</string>
     <string name="scan_parent">الماسح</string>
+    <string name="search_card_view_date">EE y.M.d</string>
     <string name="search_tip">جار البحث…</string>
     <string name="security">الحماية</string>
     <string name="service_unavailiable">قم بالاتصال بالإنترنت ثم حاول مجددا.</string>

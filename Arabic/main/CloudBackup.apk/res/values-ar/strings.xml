@@ -31,10 +31,10 @@
     <string name="cloud_back_up_share_activity_discription">الحصول على مساحة تخزين اكثر, نسخ احتياطي يومي, والمزيد.</string>
     <string name="cloud_back_up_share_activity_confirm">ترقية</string>
     <string name="cloud_back_up_detail_discription">"عند الاتصال بشبكة Wi-Fi، سيتم إنشاء نسخة احتياطية في Mi Cloud من العناصر التالية: 
-*\u0009\u0009\u0009\u0009التطبيقات وتنسيق الشاشة الرئيسية وخلفيات الشاشة. 
-*\u0009\u0009\u0009\u0009المنبه والساعة وإعدادات الوقت. 
-*\u0009\u0009\u0009\u0009إعدادات الإشعارات. 
-*\u0009\u0009\u0009\u0009إعدادات النظام وMIUI. 
+*  التطبيقات وتنسيق الشاشة الرئيسية وخلفيات الشاشة. 
+*   المنبه والساعة وإعدادات الوقت. 
+*  إعدادات الإشعارات. 
+*  إعدادات النظام وMIUI. 
 \"ملاحظة: لن يتم إنشاء نسخة احتياطية في Mi Cloud لبيانات التطبيقات التي قمت بتثبيتها.\""</string>
     <string name="cloud_app_no_data">لا توجد نسخ احتياطية</string>
     <string name="cloud_app_restore_error">تعذر الاستعادة</string>
@@ -45,10 +45,13 @@
     <string name="button_delete">حذف</string>
     <string name="customization"><u>تخصيص</u></string>
     <string name="home_hint_global_launcher">الشاشة الرئيسية Poco</string>
-    <string name="self_phone">الهاتف الحالي</string>
-    <string name="self_phone_home">هذا الجهاز: %s</string>
+    <string name="home_hint_other_launcher">الشاشة الرئيسية الأخرى</string>
+    <string name="self_device">"هذا جهاز  "</string>
+    <string name="main_space">الواجهة الاولى</string>
+    <string name="second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s%3$s: %4$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s%3$s)</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
-    <string name="device_xiaomi">هاتف Mi</string>
     <string name="size_unknown">حجم غير معروف</string>
     <string name="recovering">استعادة \"%s\"</string>
     <string name="start_recover">استعادة \"%s\"</string>
@@ -76,7 +79,6 @@
     <string name="open_wifi">تشغيل Wi-Fi الآن</string>
     <string name="open_wifi_description">الاتصال بشبكة Wi-Fi لاستعادة التطبيق</string>
     <string name="open_wifi_setting">إعدادات Wi-Fi</string>
-    <string name="name_model">%1$s من %2$s</string>
     <string name="download_settings">تننزيل إعدادات الشاشة الرئيسية %s%%</string>
     <string name="cloud_back_up_date_format">yyyy/MM/dd HH:mm</string>
     <string name="recover_home_settings">استعادة إعدادات الشاشة الرئيسية</string>
@@ -129,12 +131,18 @@
     <string name="restore_data_title">استعادة البيانات</string>
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
+    <string name="loading_user_backup">جارٍ تحميل النسخ الاحتياطية…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">تعذر التحقق من الحساب.</string>
     <string name="no_account">لم تقم بتسجيل الدخول إلى حساب Mi.</string>
     <string name="no_backup">لا توجد نُسخ احتياطية في Mi Cloud.</string>
     <string name="download_meta_failed">تعذر تحميل البيانات.</string>
     <string name="home_restore_error">تعذر استعادة الشاشة الرئيسية</string>
     <string name="get_device_id_error">تعذر الحصول على معرف الجهاز</string>
+    <string name="unsupported_home">قم بتحديث نظام التشغيل إلى أحدث إصدار.</string>
+    <string name="error_retry_later">فشل، يرجى المحاولة مرة أخرى لاحقا.</string>
+    <string name="try_continue">انقر للمتابعة</string>
     <string name="download_home_data">جارٍ تنزيل تنسيق الشاشة الرئيسية…</string>
     <string name="restore_home_failed">تعذر استعادة الشاشة الرئيسية.</string>
     <string name="arrange_restore_order">جار إعادة ترتيب التطبيقات…</string>
@@ -145,6 +153,7 @@
     <string name="download_meta_again">تعذر تحميل النسخة الاحتياطية. حاول مجددا.</string>
     <string name="cancel_restore_home">جارٍ الإلغاء…</string>
     <string name="cancel_backup">جارٍ إلغاء النسخ الاحتياطي…</string>
+    <string name="load_backup_failed">فشل تحميل النسخ الاحتياطية</string>
     <string name="dialog_title_require_wlan">الإتصال بشبكة Wi-Fi</string>
     <string name="dialog_msg_restore_require_wlan">يتطلب استعادة النسخ الاحتياطية الاتصال بشبكة Wi-Fi.</string>
     <string name="dialog_btn_next">التالي</string>

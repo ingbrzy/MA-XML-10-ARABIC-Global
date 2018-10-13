@@ -25,6 +25,7 @@
     <string name="s5">إنشاء حدث تقويم</string>
     <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="abc_action_bar_home_description">اذهب إلى صفحة البداية</string>
     <string name="abc_action_bar_up_description">اذهب لأعلى</string>
     <string name="abc_action_menu_overflow_description">المزيد</string>
@@ -296,6 +297,7 @@
     <string name="exit">خروج</string>
     <string name="exit_browser_warning">الخروج من المتصفح الآن؟</string>
     <string name="exit_fullscreen">الخروج من وضع ملء الشاشة</string>
+    <string name="external_app_restricted_access_error">لا يمكن لمتصفح Mi الوصول لهذا العنصر.</string>
     <string name="fast_search_title">البحث السريع</string>
     <string name="file_dir">تغيير مجلد</string>
     <string name="file_name">"الإسم: "</string>
@@ -485,7 +487,7 @@
     <string name="mw_http_post_warning_resend">متابعة</string>
     <string name="mw_js_dialog_before_unload">"%s
 
-مغادرة هذه الصفحة؟"</string>
+هل تريد مغادرة هذه الصفحة الآن؟"</string>
     <string name="mw_js_dialog_before_unload_negative_button">البقاء على هذه الصفحة</string>
     <string name="mw_js_dialog_before_unload_positive_button">مغادرة هذه الصفحة</string>
     <string name="mw_js_dialog_before_unload_title">تأكيد مغادرة الصفحة</string>
@@ -730,6 +732,8 @@
     <string name="mw_snippets_disabled_generic_prompt">الحصول على محتويات متخصصة</string>
     <string name="mw_snippets_disabled_signed_out_instructions">سجل الدخول إلى Chrome للحصول على محتويات مخصصة مقترحة من Google.</string>
     <string name="mw_time_picker_dialog_am">ص</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">م</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">تعيين الوقت</string>
@@ -1174,6 +1178,8 @@
     <string name="voice_title_listening">الاستماع…</string>
     <string name="voice_title_please">ابدأ في التحدث…</string>
     <string name="voice_title_speech_again">تعذر فهمك</string>
+    <string name="vote_already">لقد قمت بالتصويت مسبقاً</string>
+    <string name="vote_fail">تعذر التصويت، حاول مجدداً لاحقاً</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">إيقاف هذه الميزة قد يؤثّر على الإستخدام.</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
@@ -1217,7 +1223,6 @@
     <string name="date_picker_dialog_set">تعيين</string>
     <string name="date_picker_dialog_title">تعيين التاريخ</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
-    <string name="external_app_restricted_access_error">لا يملك متصفح Mi الوصول إلى المورد المطلوب.</string>
     <string name="find_next">ابحث عن التالي</string>
     <string name="find_previous">البحث عن السابق</string>
     <string name="js_dialog_before_unload">"%s

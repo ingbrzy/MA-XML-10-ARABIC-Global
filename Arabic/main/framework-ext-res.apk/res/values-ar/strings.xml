@@ -131,6 +131,7 @@
     <string name="security_permission_xiaomi_account_missed_text">أدخل معرف حساب Mi</string>
     <string name="security_permission_validate_warning">شكرا للمساعدة في جعل MIUI افضل!</string>
     <string name="security_permission_wifi_and_data_opened_text">تم تشغيل شبكة Wi-Fi وبيانات الجوال</string>
+    <string name="security_permission_network_failed_text">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مرة أخرى.</string>
     <string name="xspace_resolver_activity_title">تحديد تطبيق</string>
     <string name="user_switching_dialog_text">يتم التبديل…</string>
     <string name="activity_package_delete_confirm_title">تنبيه</string>
@@ -180,4 +181,6 @@
     <string name="miui_warning_button_ok">موافق</string>
     <string name="miui_warning_button_cancel">إلغاء</string>
     <string name="miui_warning_tip_info">حدث خطأ ما في%1$s. أغلاق هذا التطبيق الآن؟</string>
+    <string name="talk_back_water_mark_string1">TalkBack مشغل</string>
+    <string name="talk_back_water_mark_string2">استمر في الضغط على زر \"رفع مستوى الصوت\" و \"خفض مستوى الصوت\" لمدة 3 ثوانٍ</string>
 </resources>

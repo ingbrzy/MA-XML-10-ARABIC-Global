@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d تعليق</item>
+        <item quantity="zero">%d تعليق</item>
+        <item quantity="one">%d تعليق</item>
+        <item quantity="two">%d تعليقات</item>
+        <item quantity="few">%d تعليقات</item>
+        <item quantity="many">%d تعليق</item>
+    </plurals>
     <plurals name="theme_batch_has_update_text">
         <item quantity="other">تحديث متاح لـ %1$d سمة.</item>
         <item quantity="zero">تحديث متاح لـ %1$d سمة.</item>

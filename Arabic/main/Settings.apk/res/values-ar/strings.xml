@@ -101,6 +101,7 @@
     <string name="accessibility_shortcut_service_on_lock_screen_title">السماح من شاشة التأمين</string>
     <string name="accessibility_shortcut_service_title">خدمة الاختصار</string>
     <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
+    <string name="accessibility_summary_source">مقدمة من قبل %s</string>
     <string name="accessibility_summary_state_disabled">إيقاف</string>
     <string name="accessibility_summary_state_enabled">تشغيل</string>
     <string name="accessibility_sync_disabled">تم تعطيل المزامنة</string>
@@ -923,6 +924,7 @@
     <string name="bootloader_status_unlocked">غير مقفل</string>
     <string name="bootloader_status_unlocked_info">هذا الجهاز غير مقفل</string>
     <string name="bootloader_summary">فلاش نظام الجهاز عبر USB</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">لون الإضاءة</string>
     <string name="breathing_light_color_summary">لون الإضاءة عند استلام إشعار جديد</string>
     <string name="breathing_light_freq_summary">وميض عند استلام إشعارات جديدة</string>
@@ -1053,6 +1055,7 @@
     <string name="checking_decryption">جارٍ التحقق…</string>
     <string name="checking_find_device_status">جارٍ التحقق من حالة العثور على الجهاز…</string>
     <string name="checking_for_updates">جار التحقق من وجود تحديثات…</string>
+    <string name="child_mode_settings">الرقابة الأبوية</string>
     <string name="choose_a_card_to_reset">حدد بطاقة SIM لإعادة التعيين</string>
     <string name="choose_profile">اختيار وضع</string>
     <string name="choose_smartcover_type">اختيار نوع الحالة</string>
@@ -1257,6 +1260,9 @@
     <string name="daltonizer_mode_tritanomaly">غمش الأزرق (الأزرق والأصفر)</string>
     <string name="daltonizer_type">وضع التصحيح</string>
     <string name="daltonizer_type_overridden">تم التجاوز بواسطة %1$s</string>
+    <string name="dangerous_option">خيارات مطور عالية المخاطر</string>
+    <string name="dangerous_option_hint">يتم تفعيل %1$s. انقر لتغيير الإعدادات.</string>
+    <string name="dangerous_option_hint_title">تم تفعيل ميزة عالية المخاطر</string>
     <string name="dashboard_title">الإعدادات</string>
     <string name="data_limit">حد البيانات</string>
     <string name="data_saver_off">إيقاف</string>
@@ -1505,6 +1511,7 @@
     <string name="dialog_title_hdmi_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="dialog_title_login">تسجيل الدخول إلى حساب Mi</string>
     <string name="dialog_yes">نعم</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة. ستتمكن من استخدام لوحة المفاتيح هذه بعد إعادة التشغيل فقط في حالة إلغاء قفل جهازك.</string>
     <string name="disable_overlays">تعطيل تراكبات الأجهزة</string>
     <string name="disable_overlays_summary">استخدام GPU دائما لعرض الشاشة</string>
@@ -1565,6 +1572,7 @@
     <string name="dndm_auto_button_title">تكرار وقت عدم الإزعاج</string>
     <string name="dndm_auto_setting_group">مجدول</string>
     <string name="dndm_auto_time_setting">ضبط الوقت</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">إلى</string>
     <string name="dndm_auto_time_turn_off_title">إيقاف تلقائي لعدم الإزعاج</string>
     <string name="dndm_auto_time_turn_on">من</string>
@@ -1659,6 +1667,7 @@
     <string name="emergency_address_title">تحديث عنوان الطوارئ</string>
     <string name="emergency_info_summary">المعلومات وجهات الاتصال للمستخدم %1$s</string>
     <string name="emergency_info_title">معلومات الطوارئ</string>
+    <string name="emergency_sos_title">طوارئ SOS</string>
     <string name="emergency_tone_alert">تنبيه</string>
     <string name="emergency_tone_silent">صامت</string>
     <string name="emergency_tone_summary">تعيين السلوك عند إجراء اتصال بالطوارئ</string>
@@ -1879,6 +1888,7 @@
     <string name="fingerprint_manage_tittle">بصمة الإصبع</string>
     <string name="fingerprint_not_identified_msg">تعذر قراءة بصمة الإصبع. أدخل كلمة المرور الخاصة بك</string>
     <string name="fingerprint_not_recognized">لم يتم التعرف عليها</string>
+    <string name="fingerprint_others_title">أخرى</string>
     <string name="fingerprint_payment">الدفع بإستخدام بصمة الأصبع</string>
     <string name="fingerprint_removal_failed">تعذر حذف بصمة الإصبع, حاول مجددا لاحقا</string>
     <string name="fingerprint_swipe_for_notifications_summary">للاطلاع على الإشعارات، مرر سريعًا للأسفل على مستشعر بصمات الإصبع على الجزء الخلفي لهاتفك.</string>
@@ -2024,6 +2034,7 @@
     <string name="gadget_picker_title">اختيار أداة</string>
     <string name="gadget_state_off">إيقاف</string>
     <string name="gadget_state_on">تشغيل</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">جارٍ إيقاف التشغيل</string>
     <string name="gadget_state_turning_on">جارٍ التشغيل…</string>
     <string name="gadget_sync">المزامنة</string>
@@ -2064,6 +2075,15 @@
     <string name="gxzw_add_fingerprint_put_finger_message">اضغط الشاشة وارفع إصبعك عند الشعور بالاهتزاز. كرر ذلك عده مرات.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">اضغط وارفع إصبعك بعد الاهتزاز</string>
     <string name="gxzw_add_fingerprint_title">اضف بصمة إصبعك</string>
+    <string name="gxzw_anim_light">نيون</string>
+    <string name="gxzw_anim_metal">معدن</string>
+    <string name="gxzw_anim_pulse">نبض</string>
+    <string name="gxzw_anim_rhythm">إيقاع</string>
+    <string name="gxzw_anim_title">الرسوم المتحركة لبصمة الأصبع</string>
+    <string name="gxzw_dialog_message">حتى تتمكن من استخدام مستشعر بصمة الإصبع على الشاشة بشكل طبيعي، لا تستخدم واقيات الشاشة. إذا كنت تعتقد أن حماية الشاشة لا تزال ضرورية، فاختر أحد خيارات التوافق.</string>
+    <string name="gxzw_dialog_not_show_again">لا تظهر مرة اخرى</string>
+    <string name="gxzw_dialog_ok">فهمت</string>
+    <string name="gxzw_dialog_title">حول مستشعر بصمة الإصبع على الشاشة</string>
     <string name="handy_mode">وضع اليد الواحدة</string>
     <string name="handy_mode_enable">وضع اليد الواحدة</string>
     <string name="handy_mode_size">حجم الشاشة</string>
@@ -2334,6 +2354,7 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
@@ -2464,7 +2485,7 @@
     <string name="lockpassword_choose_your_pin_header">تعيين رمز PIN الخاص بك</string>
     <string name="lockpassword_choose_your_pin_header_second_space">"تعيين رمز PIN 
  للواجهة الثانية"</string>
-    <string name="lockpassword_choose_your_pin_title">ادخل ٤-١٦ أرقام</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">أدخل %d-%d أرقام</string>
     <string name="lockpassword_confirm_for_second_user">قم بتأكيد كلمة مرور الواجهة الثانية الخاصة بك</string>
     <string name="lockpassword_confirm_passwords_dont_match">كلمات المرور غير متطابقة</string>
     <string name="lockpassword_confirm_pins_dont_match">رمز PIN غير متطابق</string>
@@ -2689,6 +2710,7 @@
     <string name="memory_title">متوفر: %1$s\u0009\u0009إجمالي: %2$s</string>
     <string name="memory_usage">استخدام الذاكرة</string>
     <string name="memory_usage_apps">الذاكرة المستخدمة بواسطة التطبيقات</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">متوسط الذاكرة المستخدمة خلال آخر ٣ ساعات: %1$s</string>
     <string name="menu_cancel">إلغاء</string>
     <string name="menu_check">خبرة</string>
@@ -2717,9 +2739,11 @@
     <string name="menu_use_uss">‏استخدام Uss</string>
     <string name="mi_pay">محفظة Mi</string>
     <string name="mi_pay_summary">بطاقة الباص/دفع Mi/محاكاة البطاقة</string>
+    <string name="mi_service">خدمة Mi</string>
     <string name="mi_service_app_detail">تفاصيل استخدام البيانات</string>
     <string name="mi_shopping_mall">متجر Mi</string>
     <string name="mi_upi_settings">حساب دفع Mi</string>
+    <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">ملفات متنوعة</string>
     <string name="misc_files_selected_count">تم تحديد %1$d من إجمالي %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s من إجمالي %2$s</string>
@@ -2748,6 +2772,55 @@
     <string name="miui_lab_super_resolution_desc">اجعل الصور أكثر وضوحا</string>
     <string name="miui_lab_super_resolution_title">دقة فائقة</string>
     <string name="miui_master_clear_summary">محو كافة البيانات الموجودة على الهاتف</string>
+    <string name="miui_optimization_disabled">إيقاف تشغيل تحسينات MIUI</string>
+    <string name="miui_sos_audio_summary">تشغيل رسالة SOS بعد رفع جهة الاتصال للطوارئ السماعة</string>
+    <string name="miui_sos_audio_title">رسالة SOS الصوتية</string>
+    <string name="miui_sos_call_log_duration">المدة</string>
+    <string name="miui_sos_call_log_min">د</string>
+    <string name="miui_sos_call_log_none">ليس لدي سجل مكالمات لآخر ساعة.</string>
+    <string name="miui_sos_call_log_sec">ث</string>
+    <string name="miui_sos_call_log_stranger">غريب</string>
+    <string name="miui_sos_call_log_summary">أرسل سجل المكالمات لآخر ساعة إلى جهة الاتصال لحالات الطوارئ</string>
+    <string name="miui_sos_call_log_title">إرسال سجل المكالمات</string>
+    <string name="miui_sos_call_warning_sim_unable">لا توجد إشارة. لا يمكن إرسال رسالة SMS.</string>
+    <string name="miui_sos_calling_summary">سيقوم جهازك تلقائيًا بالاتصال بجهات الاتصال للطوارئ عن طريق تشغيل رسالة SOS الصوتية التي قمت بتسجيلها. سيتم إنهاء المكالمة بعد نهاية الرسالة. وستنتهي المكالمة التلقائية بعد أول محاولة ناجحة.</string>
+    <string name="miui_sos_calling_title">مكالمة تلقائية</string>
+    <string name="miui_sos_contacts_add">جهات الاتصال للطوارئ</string>
+    <string name="miui_sos_contacts_category">جهات الاتصال للطوارئ</string>
+    <string name="miui_sos_emergency_contacts">جهات الاتصال للطوارئ</string>
+    <string name="miui_sos_emergency_contacts_quantity">تم إضافة %d</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">تلقى %1s(%2s) الرسالة</string>
+    <string name="miui_sos_emergency_delivered_sms_noname">تلقى %1s الرسالة</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">فشل إرسال رسالة SOS إلى %1s(%2s).</string>
+    <string name="miui_sos_emergency_failed_sms_noname">فشل إرسال رسالة SOS إلى %1s.</string>
+    <string name="miui_sos_enable_switch_summary">اضغط بسرعة على زر الطاقة ٥ مرات لإرسال رسالة SOS مع موقعك لجهات الاتصال لحالات الطوارئ</string>
+    <string name="miui_sos_enable_switch_title">طوارئ SOS</string>
+    <string name="miui_sos_exit_dialog_cancel">إلغاء</string>
+    <string name="miui_sos_exit_dialog_message">لقد قمت بتفعيل طوارئ SOS. يتم ارسال معلومات موقعك إلى جهات اتصالك للطوارئ. الإيقاف على أية حال؟</string>
+    <string name="miui_sos_exit_dialog_ok">حسنا</string>
+    <string name="miui_sos_exit_dialog_title">يتم إيقاف تشغيل طوارئ SOS</string>
+    <string name="miui_sos_green_guard_summary">مشاركة معلومات الموقع في الوقت الحالى</string>
+    <string name="miui_sos_green_guard_title">الرقابة الأبوية</string>
+    <string name="miui_sos_launch_error">تعذر تفعيل طوارئ SOS</string>
+    <string name="miui_sos_launch_error_confirm">فهمت</string>
+    <string name="miui_sos_launch_error_message">لا يمكن الاتصال بشبكة الجوال. لا يمكن استخدام طوارئ SOS.</string>
+    <string name="miui_sos_launching_summary">تفعيل طوارئ SOS بعد %d ثانية</string>
+    <string name="miui_sos_launching_title">SOS</string>
+    <string name="miui_sos_menu_add">إضافة</string>
+    <string name="miui_sos_menu_edit">تعديل</string>
+    <string name="miui_sos_msg_call_log_prefix">في ما يلي سجل المكالمات الخاص بي للساعة الأخيرة:</string>
+    <string name="miui_sos_play_voice">تشغيل رسالة SOS</string>
+    <string name="miui_sos_remind_add">إضافة</string>
+    <string name="miui_sos_remind_infocontent">لقد قمت بإضافتك كجهة اتصال في حالات الطوارئ. ستتلقى رسالة تحتوي على معلومات موقعي في حالة تعرضي للخطر. [طوارئ Mi SOS]</string>
+    <string name="miui_sos_remind_open">تحتاج طوارئ SOS جهة اتصال واحدة للطوارئ على الأقل لتعمل بشكل طبيعي.</string>
+    <string name="miui_sos_remind_sendinfo">لا تنسى أن تخبر هؤلاء الأشخاص أنهم الآن جهات الاتصال الخاصة بك في حالات الطوارئ. وذلك ليتم مساعدتك في أسرع وقت.</string>
+    <string name="miui_sos_remind_sendnow">إرسال الآن</string>
+    <string name="miui_sos_remind_title">تنبيه</string>
+    <string name="miui_sos_settings_alert_contacts_repeat">لا يمكن إضافة جهات اتصال مكررة.</string>
+    <string name="miui_sos_settings_alert_contacts_too_many">يمكنك إضافة ما يصل إلى ۳ جهات اتصال للطوارئ.</string>
+    <string name="miui_sos_settings_category">إعدادات SOS</string>
+    <string name="miui_sos_statusbar_summary">انقر لإيقاف التشغيل</string>
+    <string name="miui_sos_statusbar_title">تم تفعيل طوارئ SOS</string>
     <string name="miui_touch_filtered_warning">إذا كان التطبيق يقوم بحظر مربع حوار الأذونات، فاسحب عنصر التداخل أو أغلق التطبيق.</string>
     <string name="miui_updater">تحديث النظام</string>
     <string name="miui_userguide">دليل المستخدم</string>
@@ -2823,11 +2896,15 @@
     <string name="music_dirac_mode_general">عام</string>
     <string name="music_dirac_mode_general_earbuds">عام</string>
     <string name="music_dirac_mode_general_inear">عامة In-Ear</string>
+    <string name="music_dirac_mode_half_in_ear">Mi Half in Ear</string>
     <string name="music_dirac_mode_headset">سماعات رأس Mi</string>
     <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
     <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
+    <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
     <string name="music_dirac_mode_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
+    <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
     <string name="music_dirac_mode_off">Dirac متوقف</string>
     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
     <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -2939,6 +3016,7 @@
     <string name="nfc_how_it_works_got_it">حسنًا</string>
     <string name="nfc_how_it_works_title">الدفع في محطة</string>
     <string name="nfc_more_title">المزيد...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">التطبيق الافتراضي للدفع</string>
     <string name="nfc_payment_default_not_set">لم يتم التعيين</string>
     <string name="nfc_payment_favor_default">استخدم دائماً التطبيق الإفتراضي</string>
@@ -3150,6 +3228,7 @@
     <string name="overlay_display_devices_title">محاكاة أجهزة العرض الثانوية</string>
     <string name="overlay_settings">عرض التطبيق أمام غيره</string>
     <string name="owner_info_settings_edit_text_hint">‏جهاز Android الخاص بهاني مثلاً</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">بدون</string>
     <string name="owner_info_settings_title">توقيع شاشة القفل</string>
     <string name="owner_space">الواجهة الاولى</string>
@@ -3462,6 +3541,8 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -4085,6 +4166,7 @@
     <string name="security_encryption_attention_3">سيتوجب عليك تعيين كلمة مرور جديدة لشاشة القفل.</string>
     <string name="security_encryption_attention_4">تأكد من أنك تتذكر كلمة مرور شاشة القفل، وإلا سيتوجب عليك إكمال إعادة تعيين كاملة لمحو كافة البيانات الموجودة على الجهاز.</string>
     <string name="security_encryption_attention_info">يمكنك تشفير حساباتك، الإعدادات، التطبيقات المحمّلة وبياناتها، الوسائط، وملفات أخرى.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">اختيار عدم تشفير الجهاز باستخدام كلمة مرور قفل الشاشة قد يجعل بعض خدمات Google غير متاحة.</string>
     <string name="security_encryption_close_dialog_title">الرجوع الى حماية كلمة المرور الافتراضية</string>
@@ -4337,6 +4419,7 @@
     <string name="sim_reenter_new">إعادة كتابة رقم التعريف الشخصي الجديد</string>
     <string name="sim_select_card">‏تحديد شريحة SIM</string>
     <string name="sim_selection_required_pref">يلزم التحديد</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">‏بطاقات SIM</string>
     <string name="sim_setup_wizard_title">‏بطاقات SIM</string>
     <string name="sim_signal_strength">%1$d ديسبل ميلي واط %2$d وحدة إشارة واحدة</string>
@@ -4350,11 +4433,13 @@
     <string name="size_kilo_byte">كيلوبايت</string>
     <string name="size_mega_byte">ميغابايت</string>
     <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip_anyway_button_label">التخطي على أي حال</string>
     <string name="skip_label">تخطي</string>
     <string name="skip_lock_screen_confirm_msg">لن يتم عرض الإشعارات ومشغل الموسيقى والاختصارات على شاشة القفل.</string>
     <string name="skip_step">تخطي</string>
+    <string name="slight_pause">،</string>
     <string name="slot_number">(فتحة %1$d)</string>
     <string name="slot_status_title">معلومات IMEI</string>
     <string name="smallwindow_smartcover_title">غطاء النافذة الصغيرة الأمامي</string>
@@ -4375,6 +4460,12 @@
     <string name="sort_max_use">الترتيب بحسب الاستخدام الأقصى</string>
     <string name="sort_order_alpha">تصنيف بحسب الاسم</string>
     <string name="sort_order_size">تصنيف بحسب الحجم</string>
+    <string name="sos_privacy_and_content_policy">اتفاقية المستخدم وسياسة الخصوصية</string>
+    <string name="sos_privacy_dialog_button_cancel">إلغاء</string>
+    <string name="sos_privacy_dialog_button_ok">المتابعة</string>
+    <string name="sos_privacy_dialog_message">"قبل تفعيل طوارئ SOS، يرجى قراءة وقبول %s. r
+ ومن أجل ضمان الاستخدام الطبيعي لوظيفة مساعد طوارئ SOS، تحتاج إلى الحصول على موقعك واستخدام شبكة الجوال وقراءة جهات الاتصال الخاصة بك. موافق؟"</string>
+    <string name="sos_privacy_dialog_title">الأحكام والشروط</string>
     <string name="sound_category_call_ringtone_vibrate_title">نغمة الرنين واصوات الإشعار</string>
     <string name="sound_category_sound_title">إعدادات عامة</string>
     <string name="sound_category_system_title">النظام</string>
@@ -4427,9 +4518,10 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
-    <string name="status_bar_settings_customer_feedback">الإبلاغ عن خلل</string>
+    <string name="status_bar_settings_customer_feedback">feedback</string>
     <string name="status_bar_settings_enable_notification">إظهار الإشعارات</string>
     <string name="status_bar_settings_function_description">معلومات عن هذه الميزة</string>
     <string name="status_bar_settings_long_click_sort">إضغط لمدة طويلة لإختيار زر</string>
@@ -4668,6 +4760,7 @@
     <string name="suggestions_title">الاقتراحات</string>
     <string name="sum_carrier_select">اختيار مشغل شبكة</string>
     <string name="summary_divider_text">"، "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s إلى %2$s</string>
     <string name="super_resolution_access_title">التطبيقات القابلة للوصول</string>
     <string name="super_resolution_desc">اجعل الصور أكثر وضوحا باستخدام خوارزمية AI</string>
@@ -4707,6 +4800,7 @@
     <string name="suw_back_button_label">رجوع</string>
     <string name="suw_more_button_label">المزيد</string>
     <string name="suw_next_button_label">التالي</string>
+    <string name="switch_access_service_on">تبديل المدخل</string>
     <string name="switch_off_text">إيقاف</string>
     <string name="switch_on_text">تشغيل</string>
     <string name="switch_screen_button_order">تبديل أزرار الشاشة</string>
@@ -4756,6 +4850,7 @@
     <string name="system_update_settings_list_item_title">تحديثات النظام</string>
     <string name="talkback_summary">إن تطبيق قارئ الشاشة مُصمَّم في الأساس من أجل الأشخاص الكفيفين والذين يعانون من ضعف في النظر.</string>
     <string name="talkback_title">Talkback</string>
+    <string name="talkback_watermark_enable">علامة مائية TalkBack</string>
     <string name="tap_to_wake">انقر للتنبيه من وضع السكون</string>
     <string name="tap_to_wake_summary">انقر نقرًا مزدوجًا على أي مكان بالشاشة لتنبيه الجهاز من وضع السكون</string>
     <string name="taplus_title">Taplus</string>
@@ -4992,7 +5087,7 @@
     <string name="unlock_set_unlock_password_title">كلمة المرور</string>
     <string name="unlock_set_unlock_pattern_summary">ارسم نقش بسيط بإصبعك لإلغاء قفل الجهاز</string>
     <string name="unlock_set_unlock_pattern_title">نقش</string>
-    <string name="unlock_set_unlock_pin_summary">ادخل ٤-١٦ أرقام لإلغاء قفل الجهاز</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">أدخل %d-%d أرقام لإلغاء قفل الجهاز</string>
     <string name="unlock_set_unlock_pin_title">رمز PIN</string>
     <string name="unlock_set_unlock_summary">تعيين قفل الشاشة</string>
     <string name="unlock_setup_wizard_fingerprint_details">‏بعد إعداد قفل شاشة، يمكنك أيضًا إعداد بصمة إصبعك في الإعدادات > الأمان.</string>
@@ -5663,9 +5758,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

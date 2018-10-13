@@ -93,4 +93,6 @@
     <string name="active_classify">ترتيب حسب حالة النشاط</string>
     <string name="extreme_mode_max_item_alert">يمكنك تحديد ما يصل إلى ٤ تطبيقات لتشغيلها في الخلفية في الوضع الأقصى</string>
     <string name="message_i_know">فهمت</string>
+    <string name="high_temp_state">درجة الحرارة عالية</string>
+    <string name="high_temp_state_message">سيتم تقييد حماية درجة الحرارة العالية، والبيانات، وwifi، ونظام تحديد المواقع، والكاميرا والخ</string>
 </resources>

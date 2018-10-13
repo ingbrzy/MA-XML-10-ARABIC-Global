@@ -9,7 +9,7 @@
     <string name="passport_login">تسجيل الدخول</string>
     <string name="passport_relogin">تسجيل الدخول مرة أخرى</string>
     <string name="passport_skip_login">تخطي</string>
-    <string name="passport_skip_setup_account_title">تخطي الإعداد</string>
+    <string name="passport_skip_setup_account_title">عدم استخدام Mi Cloud؟</string>
     <string name="passport_skip_setup_account_msg">يمكنك إعداد حساب Mi في الإعدادات فيما بعد.</string>
     <string name="passport_confirm_login">متابعة</string>
     <string name="passport_find_password_on_web_msg">قم بزيارة account.mi.com لإعادة تعيين كلمة المرور.</string>

@@ -112,6 +112,7 @@
     <string name="description_image_button_dialpad">لوحة الاتصال</string>
     <string name="description_image_button_tools">خيارات</string>
     <string name="description_target_answer">رد</string>
+    <string name="description_message_list_title">قائمة الردود السريعة</string>
     <string name="ok">موافق</string>
     <string name="cancel">إلغاء</string>
     <string name="wait_prompt_str">"إرسال نغمات الرنين التالية؟
@@ -199,4 +200,5 @@
     <string name="dialpad_eight">٨</string>
     <string name="dialpad_nine">۹</string>
     <string name="prompt_no_volte_when_failed">لا يمكن إجراء مكالمات. تأكد من اتصال جهازك بشبكة 4G مع دعم VoLTE.</string>
+    <string name="volume_boost_text">تم زيادة مستوى الصوت بنجاح</string>
 </resources>

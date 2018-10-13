@@ -8,7 +8,6 @@
     <string name="close_panel">إيقاف الكرة السريعة</string>
     <string name="customize_entries">تحديد اختصارات</string>
     <string name="enable_touch_assistant">تشغيل الكرة السريعة</string>
-    <string name="enabled_for_pad_hint">يعمل عندما يكون \"حظر أزرار التنقل في وضعية الشاشة العريضة\" مُشغل</string>
     <string name="function_settings">إعدادات الاختصار</string>
     <string name="handy_mode_default_to_close_whether_open">تم إيقاف وضع اليد الواحدة افتراضياً. تشغيل وضع اليد الواحدة؟</string>
     <string name="hide_touch_assistant">إخفاء تلقائياً</string>

@@ -520,4 +520,12 @@
         <item quantity="few">%d عناصر</item>
         <item quantity="many">%d عنصر</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Select up to %d photos</item>
+        <item quantity="zero">Select up to %d photos</item>
+        <item quantity="one">Select up to %d photo</item>
+        <item quantity="two">Select up to %d photos</item>
+        <item quantity="few">Select up to %d photos</item>
+        <item quantity="many">Select up to %d photos</item>
+    </plurals>
 </resources>

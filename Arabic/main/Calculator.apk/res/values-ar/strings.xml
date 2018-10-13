@@ -225,6 +225,8 @@
     <string name="tax_social_insurance">التأمين الأجتماعي</string>
     <string name="tax_thershold_foreign">%s (الرعايا الأجانب)</string>
     <string name="tax_thershold_native">%s (البر الرئيسي للصين)</string>
+    <string name="tax_thershold_native_new">%s (جديد)</string>
+    <string name="tax_thershold_native_new_description">سيتم احتساب الضرائب وفقا لقانون الضرائب الجديد ابتداء من ١ أكتوبر ٢٠١٨</string>
     <string name="tax_threshold">الحد المعفى من الضرائب</string>
     <string name="tax_title_primary" />
     <string name="tax_title_secondary" />

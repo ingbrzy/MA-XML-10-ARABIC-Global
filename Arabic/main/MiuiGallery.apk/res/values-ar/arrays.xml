@@ -29,4 +29,9 @@
         <item>جد الأم</item>
         <item>جدة الأم</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Move</item>
+        <item>Copy</item>
+        <item>@string/cancel</item>
+    </string-array>
 </resources>

@@ -152,6 +152,14 @@
         <item quantity="few">يمكنك إدخال ما يصل إلى %1$d أيام</item>
         <item quantity="many">يمكنك إدخال ما يصل إلى %1$d يوم</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">يمكن إعداد ما يصل إلى %d تذكير</item>
+        <item quantity="zero">يمكن إعداد ما يصل إلى %d تذكير</item>
+        <item quantity="one">يمكن إعداد ما يصل إلى %d تذكير</item>
+        <item quantity="two">يمكن إعداد ما يصل إلى %d تذكيرات</item>
+        <item quantity="few">يمكن إعداد ما يصل إلى %d تذكيرات</item>
+        <item quantity="many">يمكن إعداد ما يصل إلى %d تذكير</item>
+    </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="zero">+%d</item>

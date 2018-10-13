@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">تنبيه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">عذرًا، هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
     <string name="selectTextMode">تحديد نص</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">رمز بصمة الإصبع</string>
     <string name="paste_as_plain_text">اللصق كنص عادي</string>
     <string name="autofill">الملء التلقائي</string>
@@ -370,6 +371,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
     <string name="fcComplete">اكتمل كود الميزة.</string>
     <string name="fcError">حدثت مشكلة بالاتصال أو أن كود الميزة غير صحيح.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">بحث</string>
     <string name="find_next">بحث عن التطابق التالي</string>
     <string name="find_on_page">بحث في الصفحة</string>
@@ -555,6 +557,7 @@
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ إلغاء تأمين شريحة SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">حاول مرة أخرى خلال %1$d ثانية.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
@@ -829,6 +832,7 @@
     <string name="notification_channel_wfc">‏الاتصال عبر Wi-Fi</string>
     <string name="notification_hidden_text">إشعار جديد</string>
     <string name="notification_listener_binding_label">برنامج تلقّي الإشعارات الصوتية</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">خدمة ترتيب أهمية الإشعارات</string>
     <string name="notification_reply_button_accessibility">الرد</string>
     <string name="notification_title">حدث خطأ أثناء تسجيل الدخول إلى %1$s</string>
@@ -1343,8 +1347,11 @@
     <string name="system_error_manufacturer">حدثت مشكلة داخلية في جهازك. يمكنك الاتصال بالمصنِّع للحصول على تفاصيل.</string>
     <string name="system_error_wipe_data">حدثت مشكلة داخلية في جهازك، وقد لا يستقر وضعه حتى إجراء إعادة الضبط بحسب بيانات المصنع.</string>
     <string name="taking_remote_bugreport_notification_title">جارٍ الحصول على تقرير الخطأ…</string>
-    <string name="tethered_notification_message">انقر للإعداد.</string>
-    <string name="tethered_notification_title">النطاق أو نقطة الاتصال نشطة</string>
+    <string name="tethered_notification_message">Tap to set up.</string>
+    <string name="tethered_notification_multi_device_message">%1$s connected devices</string>
+    <string name="tethered_notification_no_device_message">No connected device</string>
+    <string name="tethered_notification_one_device_message">%1$s connected device</string>
+    <string name="tethered_notification_title">Tethering or hotspot active</string>
     <string name="textSelectionCABTitle">تحديد النص</string>
     <string name="text_copied">تم نسخ النص إلى الحافظة.</string>
     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
@@ -1502,5 +1509,6 @@
     <string name="zen_mode_feature_name">عدم الإزعاج</string>
     <string name="zen_mode_forever">حتى يتم تعطيل \"عدم الإزعاج\"</string>
     <string name="zen_mode_forever_dnd">حتى يتم تعطيل \"عدم الإزعاج\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">حتى %1$s</string>
 </resources>
