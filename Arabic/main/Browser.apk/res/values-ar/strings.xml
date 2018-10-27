@@ -18,6 +18,17 @@
     <string name="common_open_on_phone">فتح على الهاتف</string>
     <string name="common_signin_button_text">تسجل الدخول</string>
     <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="exo_controls_fastforward_description">تقديم سريع</string>
+    <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
+    <string name="exo_controls_pause_description">إيقاف مؤقت</string>
+    <string name="exo_controls_play_description">تشغيل</string>
+    <string name="exo_controls_previous_description">المقطع الصوتي السابق</string>
+    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
+    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
+    <string name="exo_controls_repeat_one_description">تكرار مقطع واحد</string>
+    <string name="exo_controls_rewind_description">إرجاع</string>
+    <string name="exo_controls_shuffle_description">ترتيب عشوائي</string>
+    <string name="exo_controls_stop_description">إيقاف</string>
     <string name="s1">حفظ الصورة</string>
     <string name="s2">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
     <string name="s3">قبول</string>
@@ -25,8 +36,9 @@
     <string name="s5">إنشاء حدث تقويم</string>
     <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
-    <string name="abc_action_bar_home_description">اذهب إلى صفحة البداية</string>
-    <string name="abc_action_bar_up_description">اذهب لأعلى</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="abc_action_bar_home_description">انتقل إلى الصفحة الرئيسية</string>
+    <string name="abc_action_bar_up_description">انتقل لأعلى</string>
     <string name="abc_action_menu_overflow_description">المزيد</string>
     <string name="abc_action_mode_done">تم</string>
     <string name="abc_action_mode_select_all">تحديد الكل</string>
@@ -147,6 +159,7 @@
     <string name="cannot_download">يمكن تنزيل \"HTTP\" أو \"HTTPS\" من URLs فقط</string>
     <string name="card_setting_close_recommend">تلقي توصيات</string>
     <string name="cast_video">بث الفيديو</string>
+    <string name="change_news_language">تغيير لغة الأخبار؟</string>
     <string name="channels_edit">تعديل</string>
     <string name="channels_finish">إنتهى</string>
     <string name="choosertitle_sharevia">مشاركة عبر</string>
@@ -240,6 +253,7 @@
     <string name="document_open_other">تطبيقات أخرى</string>
     <string name="document_open_title">فتح بإستخدام</string>
     <string name="dont_remind_again">تذكر هذا الإختيار</string>
+    <string name="download_btn">Download</string>
     <string name="download_btn_select_all">تحديد الكل</string>
     <string name="download_btn_select_none">الغاء تحديد الكل</string>
     <string name="download_complete">تم التحميل بنجاح</string>
@@ -330,6 +344,7 @@
     <string name="go_supermarket_title">المزيد من التطبيقات، سرعة افضل، وإستخدام اقل للبيانات في متجر التطبيقات</string>
     <string name="gold_medals">ميداليات ذهبية</string>
     <string name="google_bookmarks">Google</string>
+    <string name="hash_tag">\# %1$s</string>
     <string name="have_sent_bookmark_to_home_screen">تم الوضع على الشاشة الرئيسية</string>
     <string name="hint">تلميح</string>
     <string name="history">السجل</string>
@@ -731,6 +746,8 @@
     <string name="mw_snippets_disabled_generic_prompt">الحصول على محتويات متخصصة</string>
     <string name="mw_snippets_disabled_signed_out_instructions">سجل الدخول إلى Chrome للحصول على محتويات مخصصة مقترحة من Google.</string>
     <string name="mw_time_picker_dialog_am">ص</string>
+    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
+    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">م</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">تعيين الوقت</string>
@@ -964,6 +981,7 @@
     <string name="remove_snapshot">حذف الصفحة المحفوظة</string>
     <string name="removed_from_bookmarks">تمت الإزالة من الإشارات المرجعية</string>
     <string name="replace">استبدل</string>
+    <string name="replay">Play again</string>
     <string name="reply_comment_title">رد: %s</string>
     <string name="resume_download">بدء</string>
     <string name="retry_after_network_available">لا يمكن الاتصال بالشبكة</string>
@@ -1027,6 +1045,7 @@
     <string name="sendstartpage">صفحة البداية</string>
     <string name="share_image_text">انظر ماذا شاركت! @MIUI</string>
     <string name="share_page_text">انظر ماذا شاركت: %1$s @MIUI| %2$s</string>
+    <string name="share_slide_video_text">Look what I shared: %1$s</string>
     <string name="share_video">مشاركة الفيديو</string>
     <string name="sign_in_to" formatted="false">تسجيل الدخول إلى %s1 %s2\"</string>
     <string name="site_sort_des">إعادة ترتيب العناصر</string>
@@ -1163,6 +1182,9 @@
     <string name="video_unknown_duration">المدة غير معروفة</string>
     <string name="view_certificate">عرض الشهادة</string>
     <string name="view_document_downloaded_files">عرض الملفات التي تم تحميلها في التنزيلات</string>
+    <string name="view_source">View source</string>
+    <string name="vmate_download_content">Enjoy all prank, comedy, music, dance videos</string>
+    <string name="vmate_download_title">India’s most Entertaining App</string>
     <string name="voice_check_network">تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
     <string name="voice_connect_network">تعذر الاتصال بالشبكة.</string>
     <string name="voice_description">بحث صوتي</string>

@@ -244,6 +244,14 @@
         <item quantity="few">تم العثور على %d مشاكل في البطارية، قم بإصلاحها</item>
         <item quantity="many">تم العثور على %d مشكل في البطارية، قم بإصلاحها</item>
     </plurals>
+    <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">تم استنزاف %2$d%% من البطارية في آخر %1$d دقيقة</item>
+        <item quantity="zero">تم استنزاف %2$d%% من البطارية في آخر %1$d دقيقة</item>
+        <item quantity="one">تم استنزاف %2$d%% من البطارية في آخر %1$d دقيقة</item>
+        <item quantity="two">تم استنزاف %2$d%% من البطارية في آخر %1$d دقائق</item>
+        <item quantity="few">تم استنزاف %2$d%% من البطارية في آخر %1$d دقائق</item>
+        <item quantity="many">تم استنزاف %2$d%% من البطارية في آخر %1$d دقيقة</item>
+    </plurals>
     <plurals name="power_center_menu_text">
         <item quantity="other">عنصر</item>
         <item quantity="zero">عنصر</item>
@@ -485,20 +493,20 @@
         <item quantity="many">%d يوم منذ آخر فحص</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
-        <item quantity="zero">%d risks,</item>
-        <item quantity="one">%d risk,</item>
-        <item quantity="two">%d risks,</item>
-        <item quantity="few">%d risks,</item>
-        <item quantity="many">%d risks,</item>
+        <item quantity="other">%d خطر،</item>
+        <item quantity="zero">%d خطر،</item>
+        <item quantity="one">%d خطر،</item>
+        <item quantity="two">%d مخاطر،</item>
+        <item quantity="few">%d مخاطر،</item>
+        <item quantity="many">%d خطر،</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans</item>
-        <item quantity="zero">%d trojans</item>
-        <item quantity="one">%d trojan</item>
-        <item quantity="two">%d trojans</item>
-        <item quantity="few">%d trojans</item>
-        <item quantity="many">%d trojans</item>
+        <item quantity="other">%d حصان طروادة</item>
+        <item quantity="zero">%d حصان طروادة</item>
+        <item quantity="one">%d حصان طروادة</item>
+        <item quantity="two">%d أحصنة طروادة</item>
+        <item quantity="few">%d أحصنة طروادة</item>
+        <item quantity="many">%d حصان طروادة</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">تطبيق خطير: %d</item>
@@ -739,5 +747,21 @@
         <item quantity="two">يتطلب تحسين %1$d مشاكل</item>
         <item quantity="few">يتطلب تحسين %1$d مشاكل</item>
         <item quantity="many">يتطلب تحسين %1$d مشكلة</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p1">
+        <item quantity="other">%1$s:</item>
+        <item quantity="zero">%1$s:</item>
+        <item quantity="one">%1$s:</item>
+        <item quantity="two">%1$s:</item>
+        <item quantity="few">%1$s:</item>
+        <item quantity="many">%1$s:</item>
+    </plurals>
+    <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="zero">%1$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="two">%1$s</item>
+        <item quantity="few">%1$s</item>
+        <item quantity="many">%1$s</item>
     </plurals>
 </resources>

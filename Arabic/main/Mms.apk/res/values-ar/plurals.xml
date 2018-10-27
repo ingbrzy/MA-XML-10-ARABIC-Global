@@ -40,6 +40,14 @@
         <item quantity="few">تم تحديد %d</item>
         <item quantity="many">تم تحديد %d</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">تم استلام رسالة بواسطة %1$s و%2$d شخص آخر</item>
+        <item quantity="zero">تم استلام رسالة بواسطة %1$s و%2$d أشخاص آخرين</item>
+        <item quantity="one">تم استلام رسالة بواسطة %1$s و%2$d شخص آخر</item>
+        <item quantity="two">تم استلام رسالة بواسطة %1$s و%2$d أشخاص آخرين</item>
+        <item quantity="few">تم استلام رسالة بواسطة %1$s و%2$d أشخاص آخرين</item>
+        <item quantity="many">تم استلام رسالة بواسطة %1$s و%2$d شخص آخر</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">تعذر الإرسال إلى %d جهة اتصال</item>
         <item quantity="zero">تعذر الإرسال إلى %d جهة اتصال</item>

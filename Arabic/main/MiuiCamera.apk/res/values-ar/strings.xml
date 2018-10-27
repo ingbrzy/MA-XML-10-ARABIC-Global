@@ -22,7 +22,7 @@
     <string name="confirm_location_alert">تذكر مواقع الصور</string>
     <string name="start_capture">موافق</string>
     <string name="pref_camera_recordlocation_title">حفظ معلومات الموقع</string>
-    <string name="pref_camera_recordlocation_entry_off">إيقاف</string>
+    <string name="pref_camera_recordlocation_entry_off">متوقف</string>
     <string name="pref_camera_recordlocation_entry_on">تشغيل</string>
     <string name="pref_camera_sound_title">صوت الكاميرا</string>
     <string name="pref_camera_proximity_lock_title">وضع الجيب</string>
@@ -84,10 +84,10 @@
     <string name="pref_camera_flashmode_title">وضع الفلاش</string>
     <string name="pref_camera_flashmode_entry_auto">تلقائي</string>
     <string name="pref_camera_flashmode_entry_on">تشغيل</string>
-    <string name="pref_camera_flashmode_entry_off">إيقاف</string>
+    <string name="pref_camera_flashmode_entry_off">متوقف</string>
     <string name="pref_camera_flashmode_entry_torch">المصباح</string>
     <string name="pref_camera_front_bokeh_entry_on">تشغيل</string>
-    <string name="pref_camera_front_bokeh_entry_off">إيقاف</string>
+    <string name="pref_camera_front_bokeh_entry_off">متوقف</string>
     <string name="pref_camera_whitebalance_title">توازن اللون الأبيض</string>
     <string name="pref_camera_whitebalance_entry_auto">تلقائي</string>
     <string name="pref_camera_whitebalance_entry_incandescent">ساطع</string>
@@ -150,7 +150,7 @@
     <string name="portait_effect_entry_story">قصة</string>
     <string name="portait_effect_entry_riddle">لغز</string>
     <string name="portait_effect_entry_movie">فيلم</string>
-    <string name="pref_camera_touchafaec_entry_off">إيقاف</string>
+    <string name="pref_camera_touchafaec_entry_off">متوقف</string>
     <string name="pref_camera_touchafaec_entry_on">تشغيل</string>
     <string name="pref_camera_multilevel_entry_lowest">الأدنى</string>
     <string name="pref_camera_multilevel_entry_lower">أدنى</string>
@@ -164,7 +164,7 @@
     <string name="pref_camera_saturation_title">صفاء اللون</string>
     <string name="pref_camera_sharpness_title">الحدّة</string>
     <string name="pref_camera_scenemode_title">مشهد</string>
-    <string name="pref_camera_scenemode_entry_off">إيقاف</string>
+    <string name="pref_camera_scenemode_entry_off">متوقف</string>
     <string name="pref_camera_scenemode_entry_auto">تلقائي</string>
     <string name="pref_camera_scenemode_entry_portrait">بورتريه</string>
     <string name="pref_camera_scenemode_entry_landscape">منظر طبيعي</string>
@@ -180,7 +180,7 @@
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_entry_auto">تلقائي</string>
     <string name="pref_camera_antibanding_title">مضاد التباين</string>
-    <string name="pref_camera_antibanding_entry_0">إيقاف</string>
+    <string name="pref_camera_antibanding_entry_0">متوقف</string>
     <string name="pref_camera_antibanding_entry_1">٥٠ هرتز</string>
     <string name="pref_camera_antibanding_entry_2">٦٠ هرتز</string>
     <string name="pref_camera_antibanding_entry_3">تلقائي</string>
@@ -188,7 +188,7 @@
     <string name="spaceIsLow_content_primary_storage_priority">وحدة تخزين USB على وشك النفاد</string>
     <string name="spaceIsLow_content_external_storage_priority">بطاقة الذاكرة SD على وشك النفاد</string>
     <string name="video_reach_size_limit">لقد وصلت الحد الاقصي.</string>
-    <string name="pref_camera_hfr_entry_off">إيقاف</string>
+    <string name="pref_camera_hfr_entry_off">متوقف</string>
     <string name="pref_camera_hfr_entry_2x">٦٠</string>
     <string name="pref_camera_hfr_entry_3x">٩٠</string>
     <string name="pref_camera_hfr_entry_4x">١٢٠</string>
@@ -220,8 +220,8 @@
     <string name="accessibility_hdr_on">HDR مشغل</string>
     <string name="accessibility_filter_open_panel">تم فتح قائمة الفلتر</string>
     <string name="accessibility_filter_close_panel">تم إغلاق قائمة الفلتر</string>
-    <string name="accessibility_bokeh_normal">تمويه الخلفية للكاميرا الأمامية متوقفة</string>
-    <string name="accessibility_bokeh_on">تمويه الخلفية للكاميرا الأمامية مشغل</string>
+    <string name="accessibility_bokeh_normal">تشويش الخلفية للكاميرا الأمامية متوقفة</string>
+    <string name="accessibility_bokeh_on">تشويش الخلفية للكاميرا الأمامية مشغل</string>
     <string name="accessibility_ai_scene_on">كاميرا AI مشغلة</string>
     <string name="accessibility_ai_scene_off">AI camera is off</string>
     <string name="accessibility_more">المزيد</string>
@@ -251,7 +251,7 @@
     <string name="pref_camera_video_duration_entry_10">١٠ دقائق</string>
     <string name="pref_camera_video_duration_entry_30">٣٠ دقيقة</string>
     <string name="pref_camera_video_duration_entry_120">بلا حدود</string>
-    <string name="pref_camera_zsl_entry_off">إيقاف</string>
+    <string name="pref_camera_zsl_entry_off">متوقف</string>
     <string name="pref_camera_zsl_entry_on">تشغيل</string>
     <string name="pref_camera_facedetection_title">اكتشاف الوجه</string>
     <string name="camera_facedetection_sub_option_hint">ميزة تجريبية</string>
@@ -305,13 +305,13 @@
     <string name="face_score_info">النتيجة: %.1f</string>
     <string name="face_analyze_info_male">ذكر</string>
     <string name="face_analyze_info_female">أنثى</string>
-    <string name="face_beauty_intelligent_level_0">إيقاف</string>
+    <string name="face_beauty_intelligent_level_0">متوقف</string>
     <string name="face_beauty_intelligent_level_1">منخفض</string>
     <string name="face_beauty_intelligent_level_2">متوسط</string>
     <string name="face_beauty_intelligent_level_3">عالي</string>
     <string name="pref_camera_show_gender_age_config_title">العمر و الجنس</string>
     <string name="pref_camera_show_gender_age_title">العمر والجنس</string>
-    <string name="pref_camera_show_gender_age_entry_off">إيقاف</string>
+    <string name="pref_camera_show_gender_age_entry_off">متوقف</string>
     <string name="pref_camera_show_gender_age_entry_on">عرض العمر والجنس عند تشغيل التجميل</string>
     <string name="pref_camera_show_gender_age_entry_alias">عرض العمر عند تشغيل التجميل</string>
     <string name="pref_camera_show_gender_age_label_on">العمر والجنس</string>
@@ -354,7 +354,7 @@
     <string name="pref_front_mirror_entry_auto">عند اكتشاف الوجه</string>
     <string name="pref_front_mirror_label_auto">تلقائي</string>
     <string name="pref_front_mirror_entry_on">تشغيل</string>
-    <string name="pref_front_mirror_entry_off">إيقاف</string>
+    <string name="pref_front_mirror_entry_off">متوقف</string>
     <string name="pref_burst_shoot_title">لقطات متسلسة</string>
     <string name="burst_shoot_exit_button_text">إيقاف تشغيل اللقطات المتسلسة</string>
     <string name="pref_camera_long_pressing_shutter_title">إضغط لمدة طويلة على زر التصوير لقفل AE/AF/AWB</string>
@@ -369,10 +369,10 @@
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">تركيز</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">لقطات متسلسة</string>
     <string name="pref_camera_hdr_entry_auto">تلقائي</string>
-    <string name="pref_camera_hdr_entry_off">إيقاف</string>
+    <string name="pref_camera_hdr_entry_off">متوقف</string>
     <string name="pref_camera_hdr_entry_normal">احترافي</string>
     <string name="pref_camera_hdr_entry_live">مباشر</string>
-    <string name="pref_simple_hdr_entry_off">إيقاف</string>
+    <string name="pref_simple_hdr_entry_off">متوقف</string>
     <string name="pref_simple_hdr_entry_on">تشغيل</string>
     <string name="pref_camera_delay_capture_title">المؤقت</string>
     <string name="simple_mode_button_text_delay_capture">إيقاف تشغيل المؤقت</string>
@@ -388,7 +388,7 @@
     <string name="pref_camera_super_resolution_title">تشغيل SR</string>
     <string name="simple_mode_button_text_scene">إيقاف تشغيل وضع المشهد</string>
     <string name="pref_camera_peak_title">أقصى تركيز</string>
-    <string name="pref_camera_peak_entry_off">إيقاف</string>
+    <string name="pref_camera_peak_entry_off">متوقف</string>
     <string name="pref_camera_peak_entry_on">تشغيل</string>
     <string name="pref_camera_gradienter_title">الاستقامة</string>
     <string name="simple_mode_button_text_gradienter">إيقاف تشغيل الاستقامة</string>
@@ -402,7 +402,7 @@
     <string name="pref_camera_snap_entry_take_movie">وضع الالتقاط السريع (فيديو)</string>
     <string name="pref_camera_snap_label_take_picture">صورة</string>
     <string name="pref_camera_snap_label_take_movie">فيديو</string>
-    <string name="pref_camera_snap_entry_off">إيقاف</string>
+    <string name="pref_camera_snap_entry_off">متوقف</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">لا يمكن استخدام وضع الالتقاط السريع عندما يكون \"إيقاظ بواسطة أزرار الصوت\" مفعّل.</string>
     <string name="pref_camera_tilt_shift_title">تغيير الإمالة</string>
     <string name="simple_mode_button_text_tilt_shift">إيقاف تشغيل تغيير الإمالة</string>
@@ -435,13 +435,14 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"جرب وضع البورتريه.
-اجعل الكائن واضح أثناء عدم وضوح الخلفية."</string>
+اجعل الشخص أو الشيء واضح أثناء تشويش الخلفية."</string>
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="simple_mode_button_text_square">إيقاف تشغيل المربع</string>
     <string name="face_beauty_smart">ذكي</string>
     <string name="face_beauty_advanced">إحترافي</string>
-    <string name="face_beauty_close">إيقاف</string>
+    <string name="face_beauty_close">متوقف</string>
     <string name="pref_skin_beautify_intelligent_title">ذكي</string>
     <string name="pref_skin_beautify_slim_title">نحيف</string>
     <string name="pref_skin_beautify_eye_title">العيون</string>
@@ -451,6 +452,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -566,4 +568,8 @@
     <string name="lighting_pattern_shutter">إخفاءات</string>
     <string name="view_privacy_policy">عرض سياسة الخصوصية</string>
     <string name="fps960_toast">سوف يبدأ التصوير في الوضع البطيء عندما يصل المؤقت إلى النقطة البيضاء</string>
+    <string name="portrait_bokeh_text">وضع البورتريه</string>
+    <string name="portrait_bokeh_first_tips">"استخدم وضع البورتريه لتشويش
+ الخلفية في الصور"</string>
+    <string name="portrait_bokeh_tips">حدد عنصر على بعد ١.٥ متر</string>
 </resources>

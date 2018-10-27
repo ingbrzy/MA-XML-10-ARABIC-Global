@@ -62,6 +62,21 @@
     <string name="fund" />
     <string name="fund_loan">صندوق القروض</string>
     <string name="global_network_confirm_content">يحتاج محول العملة الاتصال بالإنترنت ليعمل بشكل طبيعي.</string>
+    <string name="global_search_key_area_convertion">المساحة;محول المساحة;محول مساحة</string>
+    <string name="global_search_key_calculation">الآلة الحاسبة;آلة حاسبة;وحدة التحويل;المحول;محول الوحدة</string>
+    <string name="global_search_key_date_convertion">محول الوقت;الوحدات الزمنية;تحويل الوقت;الوقت</string>
+    <string name="global_search_key_exchange_rate">سعر الصرف;تحويل سعر الصرف;تحويل العملات;العملة;أسعار الصرف</string>
+    <string name="global_search_key_length_convertion">الطول;المحول;محول الطول</string>
+    <string name="global_search_key_mortgage">حساب الرهن العقاري;حاسبة الرهن العقاري;الرهن العقاري</string>
+    <string name="global_search_key_personal_tax">ضريبة الدخل;الدخل بعد الضرائب;حاسبة الضرائب;حساب الدخل الشخصي;حساب الدخل بعد الضرائب; ضريبة الدخل;الضرائب;الضرائب</string>
+    <string name="global_search_key_scientific_convertion">الآلة الحاسبة العلمية; حساب المعادلة;الرياضيات;الجبر</string>
+    <string name="global_search_key_speed_convertion">تحويل وحدة السرعة;تحويل السرعة;تحويل السرعة;سرعة المحول;السرعة;السرعة</string>
+    <string name="global_search_key_temperature_convertion">تحويل وحدة درجة الحرارة;تحويل درجة الحرارة;محول درجة الحرارة; فهرنهايت;درجة مئوية;درجة مئوية</string>
+    <string name="global_search_key_volume_convertion">تحويل وحدة مستوى الصوت;تحويل الصوت;محول الصوت</string>
+    <string name="global_search_key_weight_convertion">تحويل وحدة الوزن;تحويل الوزن;تحويل الوزن كيلوغرام;كغ;كيلوغرام;باوند;باوند;رطل</string>
+    <string name="global_search_key_word_figure">أرقام مالية</string>
+    <string name="golbal_search_calculator_setting">الآلة الحاسبة؛ إعدادات الآلة حاسبة؛ الإعدادات</string>
+    <string name="golbal_search_path_calculator_setting">تطبيقات النظام/الآلة الحاسبة/الإعدادات</string>
     <string name="home_title_calculator">الآلة الحاسبة</string>
     <string name="income_type" />
     <string name="install">تثبيت</string>
@@ -141,6 +156,7 @@
     <string name="negDesc">التبديل بين درجات الحرارة الأقل والأعلى من الصفر</string>
     <string name="network_confirm_content">يحتاج محول العملة والآلات الحاسبة للضرائب والرهن إلى الاتصال بالإنترنت والدخول إلى خدمات الموقع للعمل بشكل طبيعي.</string>
     <string name="network_confirm_title">يتطلب أذونات</string>
+    <string name="not_supported_due_to_language">هذه الميزة متوفرة فقط للغة الصينية</string>
     <string name="percent" />
     <string name="percentDesc">في المئة</string>
     <string name="piDesc">pi</string>
@@ -536,5 +552,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_connect_download_manager_fail">فشل في بدء التنزيل. تأكد من أن مدير التنزيل يعمل بشكل جيد.</string>
+    <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة ، يرجى التحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
+    <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
+الحجم: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s
+حجم تحديث دلتا: %2$s"</string>
+    <string name="xiaomi_update_dialog_title">تحديث %1$s!</string>
     <string name="year" />
 </resources>

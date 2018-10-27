@@ -152,6 +152,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه بعد ايقاف التشغيل</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
@@ -160,6 +161,7 @@
     <string name="start_up">بدء</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
     <string name="temperature_unit">%1$s°</string>
@@ -172,6 +174,10 @@
     <string name="timer_alarm_cancel_pad">انقر على الشاشة لإيقاف الرنين</string>
     <string name="timer_alarm_dot_matrix_label">مؤقت</string>
     <string name="timer_alert_alert_silenced">سيتم كتم صوت المؤقت بعد %d دقيقة.</string>
+    <string name="timer_alert_mute_off">سيصدر المنبه صوت عند توقف المؤقت</string>
+    <string name="timer_alert_mute_on">لن يصدر المنبه صوت عند توقف المؤقت</string>
+    <string name="timer_alert_mute_remind">اضغط لكتم المنبه</string>
+    <string name="timer_alert_mute_switch">التبديل لكتم صوت التنبيهات</string>
     <string name="timer_alert_type_beach">شاطئ</string>
     <string name="timer_alert_type_forest">غابات</string>
     <string name="timer_alert_type_mute">إفتراضي</string>
@@ -215,7 +221,7 @@
     <string name="volume_button_setting_title">أزرار الصوت</string>
     <string name="workday_alarm_clock">منبه يوم عمل</string>
     <string name="worldclock_empty_text">لا توجد أي ساعات</string>
-    <string name="worldclock_input_hint_text">أدخل مدينة</string>
+    <string name="worldclock_input_hint_text">البحث عن بلد أو مدينة</string>
     <string name="worldclock_search_city">حدد مدينة</string>
     <string name="worldclock_title">الساعة</string>
     <string name="worldclock_world_time">المناطق الزمنية</string>

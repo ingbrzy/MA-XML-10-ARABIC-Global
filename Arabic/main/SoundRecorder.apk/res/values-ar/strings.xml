@@ -36,7 +36,7 @@
     <string name="no_file">فارغ</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز الخاص بك إلى حذفه أيضاً من Mi Cloud. حذف الآن؟</string>
-    <string name="alert_message_delete_local_record">Delete this recording?</string>
+    <string name="alert_message_delete_local_record">حذف هذا التسجيل؟</string>
     <string name="share">مشاركة</string>
     <string name="rename">إعادة تسمية</string>
     <string name="delete">حذف</string>
@@ -152,7 +152,7 @@
     <string name="head_set_tip_dialog_title">استخدام mic الداخلي</string>
     <string name="head_set_tip_dialog_msg">افصل سماعات الأذن الخاصة بك لتكون قادرة على تسجيل الصوت مع مفضلة محددة (مثال، الموسيقى، الصوت).</string>
     <string name="head_set_tip_dialog_ok">فهمت</string>
-    <string name="rename_fail_tip">"Couldn't rename. Item with this name already exists."</string>
+    <string name="rename_fail_tip">تعذر إعادة التسمية. يوجد ملف بنفس الاسم مسبقا.</string>
     <string name="dialog_privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وسيتم حذف جميع البيانات ذات الصلة من الخوادم. هذا قد يجعل التطبيق غير قابل للاستخدام تقريبا. هل تريد إلغاء الإذن على أي حال؟ لضمان أمان حسابك، سجل الدخول إلى i.mi.com قبل إلغاء الترخيص لخدمات Mi Cloud.</string>
     <string name="privacy_policy_title">سياسة الخصوصية</string>
 </resources>

@@ -70,7 +70,6 @@
         <item>هراري</item>
         <item>جوهانسبرغ</item>
         <item>كمبالا</item>
-        <item>الخرطوم</item>
         <item>كيغالي</item>
         <item>كينشاسا</item>
         <item>لاغوس</item>
@@ -83,29 +82,27 @@
         <item>تونس</item>
         <item>مرسى</item>
         <item>ميندوزا</item>
-        <item>أروبا</item>
         <item>أسونسيون</item>
-        <item>بربادوس</item>
-        <item>بيلز</item>
+        <item>بريدج</item>
+        <item>بليز</item>
         <item>بوغوتا</item>
         <item>بوينس آيرس</item>
         <item>كانكون</item>
         <item>كاراكاس</item>
         <item>جورج تاون</item>
         <item>شيكاغو</item>
-        <item>كوستاريكا</item>
-        <item>كوراساو</item>
+        <item>سان خوسيه</item>
+        <item>كوراكاو</item>
         <item>داوسون كريك</item>
         <item>دنفر</item>
         <item>ديترويت</item>
-        <item>دومينيكا</item>
+        <item>سانتو دومينغو</item>
         <item>إدمونتون</item>
         <item>السلفادور</item>
         <item>فورتاليزا</item>
-        <item>ترك الكبرى</item>
-        <item>غرينادا</item>
+        <item>سانت جورج</item>
         <item>جواتيمالا</item>
-        <item>غيانا</item>
+        <item>جورج تاون</item>
         <item>هاليفاكس</item>
         <item>هافانا</item>
         <item>إنديانابوليس</item>
@@ -117,12 +114,12 @@
         <item>فينسين</item>
         <item>ويناماك</item>
         <item>كينغستون</item>
-        <item>لاباز</item>
+        <item>نوسترا سينورا دي لاباز</item>
         <item>ليما</item>
         <item>لوس أنجلوس</item>
         <item>لويزفيل</item>
         <item>ماناغوا</item>
-        <item>مارتينيك</item>
+        <item>فور دو فرانس</item>
         <item>ميتلاكاتلا</item>
         <item>مدينة مكسيكو</item>
         <item>مونتيري</item>
@@ -137,25 +134,22 @@
         <item>فينيكس</item>
         <item>ميناء أسبانيا</item>
         <item>بورت أو برانس</item>
-        <item>بويرتوريكو</item>
-        <item>سانتو دومينغو</item>
         <item>ساو باولو</item>
         <item>سانت جونز</item>
         <item>سانت كيتس</item>
-        <item>سانت لوسيا</item>
+        <item>كاستريس</item>
         <item>سانت توماس</item>
         <item>تيخوانا</item>
         <item>تورونتو</item>
         <item>فانكوفر</item>
         <item>وينيبيغ</item>
-        <item>القطب الجنوبي</item>
         <item>لونغييربين</item>
         <item>ألماتي</item>
         <item>عمان</item>
         <item>أنادير</item>
         <item>أكتاو</item>
         <item>بغداد</item>
-        <item>البحرين</item>
+        <item>المنامة</item>
         <item>باكو</item>
         <item>بانكوك</item>
         <item>بيروت</item>
@@ -179,10 +173,9 @@
         <item>مسقط</item>
         <item>بنوم بنه</item>
         <item>بيونج يانج</item>
-        <item>قطر</item>
+        <item>الدوحة</item>
         <item>رانغون</item>
         <item>الرياض</item>
-        <item>مدينة هو تشي منه</item>
         <item>سيول</item>
         <item>شانغهاي</item>
         <item>سنغافورة</item>
@@ -191,9 +184,9 @@
         <item>تل أبيب</item>
         <item>طوكيو</item>
         <item>أولان باتور</item>
-        <item>برمودا</item>
+        <item>هاميلتون</item>
         <item>جزر الكناري</item>
-        <item>الرأس الأخضر</item>
+        <item>برايا</item>
         <item>ريكيافيك</item>
         <item>ستانلي</item>
         <item>أديليد</item>
@@ -210,7 +203,7 @@
         <item>ساسكاتشوان</item>
         <item>جزيرة الفصح</item>
         <item>أمستردام</item>
-        <item>أندورا</item>
+        <item>أندورا لا فيلا</item>
         <item>أثينا</item>
         <item>بلفاست</item>
         <item>بلغراد</item>
@@ -230,7 +223,7 @@
         <item>لندن</item>
         <item>لوكسمبورج</item>
         <item>مدريد</item>
-        <item>مالطا</item>
+        <item>فاليتا</item>
         <item>مينسك</item>
         <item>موناكو</item>
         <item>موسكو</item>
@@ -253,17 +246,14 @@
         <item>زغرب</item>
         <item>زيورخ</item>
         <item>أنتاناناريفو</item>
-        <item>جزر المالديف</item>
-        <item>موريشيوس</item>
+        <item>مالي</item>
+        <item>بورت لويس</item>
         <item>أوكلاند</item>
-        <item>فيجي</item>
+        <item>سوفا</item>
         <item>غوام</item>
         <item>هونولولو</item>
-        <item>كيريتيماتي</item>
         <item>نوميا</item>
-        <item>ساموا</item>
         <item>تاهيتي</item>
-        <item>أنتيغوا</item>
         <item>أوستن</item>
         <item>بوسطن</item>
         <item>كالغاري</item>
@@ -283,7 +273,7 @@
         <item>سان سلفادور</item>
         <item>سياتل</item>
         <item>سانت لويس</item>
-        <item>واشنطن العاصمة</item>
+        <item>واشنطن</item>
         <item>هيوستن</item>
         <item>سان أنطونيو</item>
         <item>جاكسونفيل</item>
@@ -342,7 +332,7 @@
         <item>سانت بطرسبرغ</item>
         <item>كراكوف</item>
         <item>وروكلو</item>
-        <item>هامبورغ</item>
+        <item>هامبورج</item>
         <item>أولو</item>
         <item>حيفا</item>
         <item>سان خوان</item>
@@ -362,13 +352,12 @@
         <item>غينيا</item>
         <item>السنغال</item>
         <item>تنزانيا</item>
-        <item>جمهورية جيبوتي</item>
+        <item>جيبوتي</item>
         <item>سيراليون</item>
         <item>بوتسوانا</item>
         <item>زيمبابوي</item>
         <item>جنوب أفريقيا</item>
         <item>أوغندا</item>
-        <item>جمهورية السودان</item>
         <item>رواندا</item>
         <item>جمهورية الكونغو الديمقراطية</item>
         <item>نيجيريا</item>
@@ -379,9 +368,8 @@
         <item>مالي</item>
         <item>ليبيا</item>
         <item>تونس</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>الأرجنتين</item>
-        <item>أروبا</item>
         <item>باراجواي</item>
         <item>بربادوس</item>
         <item>بيلز</item>
@@ -390,7 +378,7 @@
         <item>المكسيك</item>
         <item>فنزويلا</item>
         <item>جزر كايمان</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>كوستاريكا</item>
         <item>كوراساو</item>
         <item>كندا</item>
@@ -400,7 +388,6 @@
         <item>كندا</item>
         <item>السلفادور</item>
         <item>البرازيل</item>
-        <item>جزر تركس وكايكوس</item>
         <item>غرينادا</item>
         <item>جواتيمالا</item>
         <item>غيانا</item>
@@ -423,20 +410,18 @@
         <item>مارتينيك</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>المكسيك</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>اوروجواي</item>
         <item>كندا</item>
         <item>البهاما</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
+        <item>أمريكا</item>
+        <item>أمريكا</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>بنما</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>ترنداد وتوباجو</item>
         <item>هايتي</item>
-        <item>بويرتوريكو</item>
-        <item>جمهورية الدومينيكان</item>
         <item>البرازيل</item>
         <item>كندا</item>
         <item>سانت كيتس ونيفيس</item>
@@ -446,7 +431,6 @@
         <item>كندا</item>
         <item>كندا</item>
         <item>كندا</item>
-        <item>أنتاركتيكا</item>
         <item>سفالبارد وجان مايان</item>
         <item>كازاخستان</item>
         <item>الأردن</item>
@@ -466,7 +450,7 @@
         <item>فيتنام</item>
         <item>الصين</item>
         <item>إندونيسيا</item>
-        <item>إسرائيل</item>
+        <item></item>
         <item>أفغانستان</item>
         <item>باكستان</item>
         <item>نيبال</item>
@@ -479,8 +463,7 @@
         <item>كوريا الشمالية</item>
         <item>قطر</item>
         <item>ميانمار</item>
-        <item>المملكة العربية السعودية</item>
-        <item>الصين</item>
+        <item>السعودية</item>
         <item>كوريا الجنوبية</item>
         <item>الصين</item>
         <item>سنغافورة</item>
@@ -506,7 +489,7 @@
         <item>كندا</item>
         <item>كندا</item>
         <item>كندا</item>
-        <item>شيلي</item>
+        <item>تشيلي</item>
         <item>هولندا</item>
         <item>أندورا</item>
         <item>اليونان</item>
@@ -516,7 +499,7 @@
         <item>سلوفاكيا</item>
         <item>بلجيكا</item>
         <item>رومانيا</item>
-        <item>المجر</item>
+        <item>اليونان</item>
         <item>مولدوفا</item>
         <item>الدنمارك</item>
         <item>أيرلندا</item>
@@ -537,58 +520,55 @@
         <item>تشيك</item>
         <item>لاتفيا</item>
         <item>إيطاليا</item>
-        <item>سان مارينو</item>
+        <item></item>
         <item>البوسنة والهرسك</item>
-        <item>أوكرانيا</item>
+        <item></item>
         <item>مقدونيا</item>
         <item>بلغاريا</item>
         <item>السويد</item>
         <item>إستونيا</item>
-        <item>مدينة الفاتيكان</item>
+        <item></item>
         <item>النمسا</item>
-        <item>لتوانيا</item>
+        <item>ليتوانيا</item>
         <item>بولندا</item>
         <item>كرواتيا</item>
         <item>سويسرا</item>
         <item>مدغشقر</item>
-        <item>جزر المالديف</item>
+        <item>المالديف</item>
         <item>موريشيوس</item>
         <item>نيوزيلندا</item>
         <item>فيجي</item>
         <item>غوام</item>
         <item>الولايات المتحدة الأمريكية</item>
-        <item>أستراليا</item>
         <item>كاليدونيا الجديدة</item>
-        <item>ساموا</item>
         <item>بولينيزيا الفرنسية</item>
-        <item>أنتيغوا وبربودا</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>كندا</item>
+        <item>أمريكا</item>
         <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
+        <item>أمريكا</item>
+        <item>أمريكا</item>
+        <item>أمريكا</item>
         <item>كندا</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>السلفادور</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>الولايات المتحدة الأمريكية</item>
@@ -630,7 +610,7 @@
         <item>الهند</item>
         <item>الولايات المتحدة الأمريكية</item>
         <item>البرازيل</item>
-        <item>الولايات المتحدة الأمريكية</item>
+        <item>أمريكا</item>
         <item>ليبيريا</item>
         <item>سيريلانكا</item>
         <item>المكسيك</item>

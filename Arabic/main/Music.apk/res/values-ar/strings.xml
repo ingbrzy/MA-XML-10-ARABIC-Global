@@ -25,6 +25,7 @@
     <string name="s5">إنشاء حدث تقويم</string>
     <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="account_and_cloud">حساب</string>
     <string name="action_item_add">إضافة إلى</string>
     <string name="action_item_add_song">إضافة الى قائمة التشغيل</string>
@@ -135,6 +136,7 @@
     <string name="continue_backup">متابعة</string>
     <string name="cp_info_first">"خدمة تشغيل الموسيقى على الانترنت
 مقدمه أساساً من Ultimate Inc."</string>
+    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">تعذر إنشاء طلب، حاول مجدداً.</string>
     <string name="create_playlist">إنشاء قائمة تشغيل</string>
     <string name="create_playlist_failure">تعذرإنشاء قائمة تشغيل</string>
@@ -229,6 +231,7 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عند توفير شحن البطارية مُشغل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي يتم تحميلها</string>
@@ -562,6 +565,7 @@
     <string name="priority_storage">استخدام بطاقة الذاكرة SD الخارجية</string>
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
     <string name="pulluprefreshrecyclerview_loading_error">تعذر التحميل</string>
@@ -734,6 +738,7 @@
     <string name="upgrade_music">تحديث الموسيقى</string>
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="version_info">الإصدار</string>
     <string name="vip_after_tomorrow_auto_renew_message">سيتم تجديد اشتراك الموسيقى الخاص بك تلقائياً بعد الغد مساءً. قم بالتأكد أن لديك رصيد Mi كافي في حسابك لأكمال الدفع.</string>
     <string name="vip_after_tomorrow_renew_message">لن تتمكن من تشغيل الصوت بجودة عالية, ولكن ستتوفر بعض الاغاني بالجودة العادية.</string>

@@ -60,6 +60,7 @@
     <string name="fm_has_turned_off">تم إيقاف راديو FM</string>
     <string name="msg_fm_starting">جارٍ البدء…</string>
     <string name="txt_sleep_mode">وضع السكون</string>
+    <string name="txt_divider">" | "</string>
     <string name="group_favor">المفضلة</string>
     <string name="group_other">أخرى</string>
     <string name="using_recorder_dialog_title">يتطلب إذن</string>

@@ -152,6 +152,14 @@
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">حدد مايصل إلى %d صورة</item>
+        <item quantity="zero">حدد مايصل إلى %d صورة</item>
+        <item quantity="one">حدد مايصل إلى %d صورة</item>
+        <item quantity="two">حدد مايصل إلى %d صور</item>
+        <item quantity="few">حدد مايصل إلى %d صور</item>
+        <item quantity="many">حدد مايصل إلى %d صورة</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d عنصر مُحدد</item>
         <item quantity="zero">%d عنصر مُحدد</item>
@@ -519,13 +527,5 @@
         <item quantity="two">%d عناصر</item>
         <item quantity="few">%d عناصر</item>
         <item quantity="many">%d عنصر</item>
-    </plurals>
-    <plurals name="creation_max_image">
-        <item quantity="other">Select up to %d photos</item>
-        <item quantity="zero">Select up to %d photos</item>
-        <item quantity="one">Select up to %d photo</item>
-        <item quantity="two">Select up to %d photos</item>
-        <item quantity="few">Select up to %d photos</item>
-        <item quantity="many">Select up to %d photos</item>
     </plurals>
 </resources>

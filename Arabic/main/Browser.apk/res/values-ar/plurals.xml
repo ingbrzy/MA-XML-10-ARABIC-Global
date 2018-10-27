@@ -168,6 +168,14 @@
         <item quantity="few">تحقق من %1$d فيديوهات جديدة</item>
         <item quantity="many">تحقق من %1$d فيديو جديد</item>
     </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d views</item>
+        <item quantity="zero">%1$d views</item>
+        <item quantity="one">%1$d view</item>
+        <item quantity="two">%1$d views</item>
+        <item quantity="few">%1$d views</item>
+        <item quantity="many">%1$d views</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">صافٍ</item>
         <item quantity="zero">صافٍ</item>

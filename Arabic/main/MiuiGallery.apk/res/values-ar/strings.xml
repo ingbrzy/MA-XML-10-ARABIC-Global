@@ -274,6 +274,7 @@
     <string name="collage_poster_global_summer_flower_text">الصيف</string>
     <string name="collage_poster_global_tea_text">استراحة شاي</string>
     <string name="collage_rotate">تدوير</string>
+    <string name="collage_select_image_range">يمكن أن تحتوي الصور المجمعة على ١-٤ صور</string>
     <string name="collage_title_layout">تنسيق</string>
     <string name="collage_title_poster">ملصق</string>
     <string name="collaps_people">إخفاء</string>
@@ -466,6 +467,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -476,6 +478,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ذكرى</string>
     <string name="filter_bi_mono">مونو</string>
     <string name="filter_bi_pink">وردي</string>
@@ -537,6 +540,7 @@
     <string name="finish_fill_baby">إنشاء</string>
     <string name="flash_off">لا يوجد فلاش</string>
     <string name="flash_on">الفلاش مستخدم</string>
+    <string name="frame_not_support_image_ratio">هذه النسبة غير مدعومة</string>
     <string name="free_view_desc">عرض 3D</string>
     <string name="gallery_setting">الإعدادات</string>
     <string name="gallery_sync_disable_toast">المزامنة متوقفة للمعرض</string>
@@ -544,6 +548,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -709,6 +714,7 @@
     <string name="operation_in_process">جارٍ المعالجة…</string>
     <string name="operation_move_to_other_albums">النقل الى ألبومات أخرى</string>
     <string name="operation_not_show_in_photos_tab">عدم العرض في الصور</string>
+    <string name="operation_produce">أبداع</string>
     <string name="operation_projection">عرض</string>
     <string name="operation_remove_face">حذف</string>
     <string name="operation_remove_from_face_album">إزالة من الألبوم</string>
@@ -741,6 +747,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">صور الحيوانات الأليفة</string>
     <string name="petabyteShort">بنتابايت</string>
     <string name="photo">الصور</string>
@@ -751,10 +758,12 @@
     <string name="photo_editor_beauty_compare">الأصلية</string>
     <string name="photo_editor_crop_and_rotate">قص</string>
     <string name="photo_editor_crop_auto">تلقائي</string>
+    <string name="photo_editor_crop_auto_tips">تم القص تلقائيا</string>
     <string name="photo_editor_crop_reset">إعادة تعيين</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">رسم</string>
     <string name="photo_editor_filter">فلتر</string>
+    <string name="photo_editor_frame">إطار</string>
     <string name="photo_editor_label">تعديل</string>
     <string name="photo_editor_long_crop">قص</string>
     <string name="photo_editor_miui_beauty">تجميل</string>
@@ -809,6 +818,7 @@
     <string name="photo_editor_talkback_redo">إعادة</string>
     <string name="photo_editor_talkback_undo">تراجع</string>
     <string name="photo_editor_text">نص</string>
+    <string name="photo_movie_select_image_range">يمكن أن تحتوي المقاطع على ٣-٦ صور</string>
     <string name="photo_page_save_uri_image_fail">تعذر الحفظ إلى المعرض</string>
     <string name="photo_page_save_uri_image_ok">تم حفظ الصور إلى المعرض</string>
     <string name="photo_print_menu_loading">جارٍ تنزيل المكون الإضافي…</string>
@@ -998,6 +1008,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -1017,6 +1030,7 @@
     <string name="secret_reason_unknow_reasons">خطأ غير معروف</string>
     <string name="secret_reason_video_not_support">لا يمكن إضافة هذه الفيديوهات إلى ألبوم مخفي</string>
     <string name="see_ignore_faces">عرض الأشخاص الذين تجاهلتهم</string>
+    <string name="select_image_operation">يتم إضافة الصور</string>
     <string name="select_item_face">"هل هذا '%s'؟"</string>
     <string name="select_origin_tip">ملف اصلي (%s)</string>
     <string name="send_file_beautify_failed">تعذر المشاركة</string>
@@ -1157,6 +1171,7 @@
     <string name="unpublish_failed">تعذر إلغاء النشر</string>
     <string name="unpublish_succeeded">لم يتم نشر الألبوم</string>
     <string name="unpublishing">يتم الإلغاء…</string>
+    <string name="unsupport_video">لا يعمل %s مع الفيديوهات</string>
     <string name="user_agree">موافق</string>
     <string name="user_agreement2">شروط الخدمة</string>
     <string name="user_agreement4">سياسة الخصوصية</string>
@@ -1274,6 +1289,7 @@
     <string name="view_face_album">عرض الألبوم</string>
     <string name="view_more_face_desc">عرض المزيد من الأشخاص</string>
     <string name="voice_assistant">إدخال الصوت</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">مرحباً في Mi Cloud</string>
     <string name="where_is_barcode">أين رمز QR؟</string>
     <string name="who_is_this">من هذا؟</string>
@@ -1281,10 +1297,7 @@
     <string name="yes">نعم</string>
     <string name="yesterday">أمس</string>
     <string name="you_are">انت الطفل</string>
-    <string name="collage_select_image_range">Collages can contain 1-4 photos</string>
-    <string name="operation_produce">Creativity</string>
-    <string name="photo_editor_crop_auto_tips">Cropped automatically</string>
-    <string name="photo_movie_select_image_range">Clips can contain 3-6 photos</string>
+    <string name="operation_set_slide_wallpaper">تعيين كخلفية لعرض الشرائح</string>
     <string name="refocus_discard_confirm_message">حفظ التغييرات؟</string>
     <string name="refocus_discard_negative_btn">تجاهل الرسالة</string>
     <string name="refocus_discard_positive_btn">حفظ</string>
@@ -1297,6 +1310,6 @@
     <string name="refocus_title">ضبابي</string>
     <string name="refocus_type_static">مستوى الضبابية</string>
     <string name="refocus_type_video">مسارات الضوء</string>
-    <string name="select_image_operation">Adding photos</string>
-    <string name="unsupport_video">"%s doesn't work with videos"</string>
+    <string name="set_as_slide_wallpaper_description">هذه الصورة هي صورة مصغرة، هل تريد تحميل النسخة الأصلية؟</string>
+    <string name="set_as_slide_wallpaper_title">تعيين كخلفية لعرض الشرائح</string>
 </resources>

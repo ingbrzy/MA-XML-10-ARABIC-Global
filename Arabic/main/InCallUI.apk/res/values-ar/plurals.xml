@@ -9,27 +9,27 @@
         <item quantity="many">تم تسجيل %d مكالمة.</item>
     </plurals>
     <plurals name="duration_seconds">
-        <item quantity="other">%d seconds</item>
-        <item quantity="zero">%d seconds</item>
-        <item quantity="one">1 second</item>
-        <item quantity="two">%d seconds</item>
-        <item quantity="few">%d seconds</item>
-        <item quantity="many">%d seconds</item>
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">١ ثانية</item>
+        <item quantity="two">%d ثواني</item>
+        <item quantity="few">%d ثواني</item>
+        <item quantity="many">%d ثانية</item>
     </plurals>
     <plurals name="duration_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="zero">%d minutes</item>
-        <item quantity="one">1 minute</item>
-        <item quantity="two">%d minutes</item>
-        <item quantity="few">%d minutes</item>
-        <item quantity="many">%d minutes</item>
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقائق</item>
+        <item quantity="one">١ دقيقة</item>
+        <item quantity="two">%d دقائق</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="zero">%d hours</item>
-        <item quantity="one">1 hour</item>
-        <item quantity="two">%d hours</item>
-        <item quantity="few">%d hours</item>
-        <item quantity="many">%d hours</item>
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">١ ساعة</item>
+        <item quantity="two">%d ساعات</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
     </plurals>
 </resources>

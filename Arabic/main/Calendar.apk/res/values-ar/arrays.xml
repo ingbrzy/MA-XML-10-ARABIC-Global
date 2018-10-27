@@ -48,6 +48,10 @@
         <item>هذا الحدث والأحداث المستقبلية</item>
         <item>جميع الأحداث</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>٤</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>الجوزاء</item>
         <item>برج الجوزاء</item>

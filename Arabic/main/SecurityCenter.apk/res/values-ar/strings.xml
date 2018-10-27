@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -205,7 +207,7 @@
     <string name="report_only">اختر رسالة للإبلاغ عنها</string>
     <string name="report_success">تم الإبلاغ عن الرسالة</string>
     <string name="report_error">تعذر الإبلاغ عن الرسالة</string>
-    <string name="report_warning">"Report %1$s SMS to Mi? These messages and phone numbers they were sent from will be uploaded to Mi's servers for review. Any personal info associated with these messages is always kept anonymous."</string>
+    <string name="report_warning">الإبلاغ عن %1$s SMS إلى Mi؟ سيتم تحميل الرسائل وإرقام الهواتف هذه إلى خوادم Mi للمراجعة. ستظل أي معلومات شخصية مرتبطة بهذه الرسائل مجهولة الهوية.</string>
     <string name="report_warning_title">تنبيه</string>
     <string name="st_sub_title_customize_mode_name">الإسم</string>
     <string name="read_all_sms">قراءة الكل</string>
@@ -455,6 +457,7 @@
     <string name="managed_user_title">جميع التطبيقات المشغلة</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
     <string name="pref_traffic_manage_title">استخدام البيانات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_adjust_traffic_data">تعيين استخدام البيانات</string>
     <string name="pref_category_title_other">إعدادات إضافية</string>
@@ -660,7 +663,7 @@
     <string name="tc_sms_report_notify_correction_body">اذهب إلى تطبيق استخدام البيانات في مركز الحماية ثم حاول مرة أخرى يدويًا.</string>
     <string name="tc_sms_report_notify_get_failure_body">تعذر إرسال تقرير استخدام البيانات. تأكد من اتصالك بشبكة الجوال.</string>
     <string name="tc_sms_report_tips_dialog_title">رسالة (SMS) إستخدام البيانات</string>
-    <string name="tc_sms_report_tips_dialog_message">"An SMS is sent to get the latest data usage info from your carrier. If you think the info isn't correct, send us your feedback."</string>
+    <string name="tc_sms_report_tips_dialog_message">تم إرسال رسالة نصية قصيرة للحصول على أحدث معلومات استخدام البيانات من قبل شركة الاتصالات الخاصة بك. إذا كنت تعتقد أن المعلومات ليست صحيحة، ارسل لنا ملاحظاتك.</string>
     <string name="tc_sms_report_get_sms_failure">تعذر الحصول على معلومات إستخدام البيانات</string>
     <string name="tc_sms_report_get_sms_timeout">انتهت مهلة الطلب</string>
     <string name="tc_sms_report_get_sms_successs">تم تحديث معلومات إستخدام البيانات بنجاح</string>
@@ -972,6 +975,7 @@
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"هذا التطبيق قد يبطئ
 جهازك"</string>
+    <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_ill_proc_handle_unstaill_title">إلغاء التثبيت %s؟</string>
     <string name="om_ill_proc_handle_uninstall_prompt">إلغاء تثبيت هذا التطبيق لإصلاح مشاكل إستخدام البطارية.</string>
     <string name="om_ill_proc_type_wakelock_title">هذا التطبيق يقوم بحظر وضع السكون ويستنزف البطارية</string>
@@ -1016,7 +1020,7 @@
     <string name="menu_item_force_stop">إيقاف إجباري</string>
     <string name="menu_item_uninstall">إلغاء التثبيت</string>
     <string name="menu_item_app_details">التفاصيل</string>
-    <string name="details_subtitle">Usage details</string>
+    <string name="details_subtitle">تفاصيل الاستخدام</string>
     <string name="packages_subtitle">الحزم المضمنة</string>
     <string name="battery_desc_standby">البطارية المستخدمة عند سكون الهاتف</string>
     <string name="battery_desc_radio">البطارية المستخدمة من قبل الراديو</string>
@@ -1030,6 +1034,7 @@
     <string name="usage_type_data_send">بيانات الجوال المرسلة</string>
     <string name="usage_type_no_coverage">الوقت بدون إشارة</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">أندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="power_screen">الشاشة</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1124,7 +1129,6 @@
     <string name="deep_save_ontime_boot_shutdown_summary">جدولة الوقت لتشغيل وايقاف الجهاز</string>
     <string name="btn_text_quick_save_power">تقليل حرارة الجهاز</string>
     <string name="notification_battery_consume_abnormal_title">يتم استنزاف البطارية بسرعة كبيرة</string>
-    <string name="notification_battery_consume_abnormal_summary">استنزاف %2$s من البطارية خلال آخر %1$d دقيقة</string>
     <string name="app_check_no_issue">يبدو أنه لا يوجد مشاكل في البطارية. رائع!</string>
     <string name="power_save_mode_enable">توفير شحن البطارية</string>
     <string name="power_save_mode_summary">مراقبة العمليات الخلفية و إيقاف تشغيل المزامنة.</string>
@@ -1257,12 +1261,17 @@
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
     <string name="power_center_stop_scan_title">إيقاف الفحص</string>
     <string name="hide_mode_result_summary_text">تخصيص إعدادات موفر البطارية للتطبيقات الفردية</string>
     <string name="auto_task_result_summary_text">تعيين مهام تلقائية لموفر البطارية</string>
     <string name="pc_settings_title">إعدادات إستخدام البطارية</string>
     <string name="pc_main_activity_back">رجوع</string>
     <string name="extreme_power_save_mode_card_summary">تشغيل وضع الحد الأقصى لتوفير الطاقة عند انخفاض البطارية.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
     <string name="handle_bar_title_system">النظام</string>
     <string name="apps_list_header_title_sms">التحقق من تطبيق الرسائل</string>
     <string name="apps_list_header_title_sms_access">تقييد الوصول إلى رموز التحقق</string>
@@ -1416,11 +1425,13 @@
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_summary_networkassistants">إدارة خطة بياناتك</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">تم تجاوز الحد</string>
     <string name="menu_summary_networkassistants_3">بيانات كافية</string>
     <string name="menu_summary_networkassistants_4">البيانات على وشك النفاذ</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_networkassistants_unit_kb">ك.ب</string>
@@ -1433,12 +1444,14 @@
     <string name="menu_summary_garbage_cleanup">لا توجد مهملات</string>
     <string name="menu_summary_garbage_cleanup_2">حجم المهملات</string>
     <string name="menu_summary_garbage_cleanup_3">حذف المهملات الآن</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">استخدام البطارية</string>
     <string name="menu_summary_power_manager">يمنحك موفر البطارية مزيدًا من الوقت بين فترات الشحن</string>
     <string name="menu_summary_power_manager_1">البطارية مشحونة بالكامل</string>
     <string name="menu_summary_power_manager_2">%s متبقي</string>
     <string name="menu_summary_power_manager_3">قم بتوصيل الشاحن</string>
     <string name="menu_summary_power_manager_4">%s حتى يكتمل الشحن</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">تم إلغاء الفحص السابق</string>
     <string name="examination_score_100">يبدو كل شيء جيداً!</string>
     <string name="examination_score_80_100">يمكن تحسين بعض العناصر</string>
@@ -1653,6 +1666,8 @@
     <string name="summary_cloud_space_full">احصل على المزيد من المساحة و الوصول الى المزيد من الميزات</string>
     <string name="title_auto_update">التحديث تلقائياً</string>
     <string name="summary_auto_update">سيقوم MIUI بتحديد الوقت الأنسب لتنزيل وتثبيت التحديثات.</string>
+    <string name="title_rcs_switch">تشغيل رسائل China Mobile</string>
+    <string name="summary_rcs_switch">إرسال رسائل نصية مجانية إلى مستخدمي China Mobile الآخرين</string>
     <string name="title_miui_update_latest">MIUI مُحدث</string>
     <string name="title_miui_update">تحديث متاح</string>
     <string name="summary_miui_update">تحديث متاح لـ %s.</string>
@@ -1812,6 +1827,7 @@
     <string name="card_main_deepclean_wechat_action">حذف</string>
     <string name="card_main_sectool_title">الأدوات</string>
     <string name="card_main_monthreport_action">عرض</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">اختبار الشبكة</string>
     <string name="card_main_netcheck_summary">اختبار الاتصال لمشاكل الشبكة</string>
     <string name="card_main_netcheck_action">اختبار</string>
@@ -1853,7 +1869,7 @@
     <string name="ac_notification_contentTitle">حماية التطبيقات بقفل التطبيقات</string>
     <string name="ac_pre_notification_contentTitle">جرب قفل التطبيقات</string>
     <string name="ac_post_notification_contentTitle">قم بتشغيل قفل التطبيقات</string>
-    <string name="midrop_post_notification_contentTitle">Need to share files?</string>
+    <string name="midrop_post_notification_contentTitle">هل تحتاج إلى مشاركة الملفات؟</string>
     <string name="notification_masked_item">إخفاء الإشعارات</string>
     <string name="lock_mode_title">إعدادات القفل</string>
     <string name="after_the_lock_screen">قفل التطبيقات جنبا إلى جنب مع الشاشة</string>
@@ -1863,7 +1879,7 @@
     <string name="ac_notification_contentText">انقر للتشغيل</string>
     <string name="ac_pre_notification_contentText">حماية معلوماتك الشخصية</string>
     <string name="ac_post_notification_contentText">الحصول على الحماية على مستوى النظام</string>
-    <string name="midrop_post_notification_contentText">Transfer files at speeds up to 50 Mbps in Mi Drop.</string>
+    <string name="midrop_post_notification_contentText">استخدم Mi Drop بسرعات تصل إلى ٥٠ ميغابايت في الثانية.</string>
     <string name="notification_masked_subtitle">إخفاء الإشعارات من التطبيقات المحمية بقفل التطبيقات</string>
     <string name="ac_enter_applock">ادخل قفل التطبيقات</string>
     <string name="ac_mask_all_apps">إخفاء لجميع التطبيقات</string>
@@ -1983,6 +1999,7 @@
     <string name="reset_data_title">لا يمكن إستعادة كلمة المرور</string>
     <string name="reset_data_dialog_message">هذا الجهاز غير مرتبط بحساب Mi. لا يمكن استرداد أو إعادة تعيين كلمة المرور. قم بعمل نسخة احتياطية لجميع البيانات المهمة وإعادة ضبط المصنع. سيتم حذف جميع البيانات نهائيًا، وسيتم تهيئة بطاقة SD أثناء إعادة ضبط المصنع.</string>
     <string name="reset_data_dialog_ok">إعدادات المصنع</string>
+    <string name="ad_split_screen_title">يرجى التبديل إلى وضع ملء الشاشة لإلغاء القفل</string>
     <string name="wakepath_confirm_start_activity">السماح لـ%1$s بفتح %2$s؟</string>
     <string name="unlike">لا شكراً</string>
     <string name="toast_network_eror">لا يمكن الاتصال بالشبكة</string>
@@ -2194,6 +2211,7 @@
     <string name="gs_call_handsfree_mute">الوضع الصامت</string>
     <string name="gs_gamebox">اختصارات أثناء اللعب</string>
     <string name="gs_gamebox_detail">إظهار لوحة الإختصارات أثناء اللعب</string>
+    <string name="gs_gamebox_slip">إسحب الشاشة للأسفل للفتح</string>
     <string name="gs_forbid_autosync">تقييد المزامنة الخلفية</string>
     <string name="gs_app_back_self_start">توفير شحن البطارية</string>
     <string name="gs_only_self_start_for_list">تقييد العمليات الخلفية لتوفير البطارية للألعاب</string>
@@ -2345,6 +2363,7 @@
     <string name="screenrecord_not_find">قم بتثبيت أحدث إصدار من مسجل الشاشة وحاول مرة أخرى.</string>
     <string name="gamebox_qq_not_find">قم بتثبيت QQ وحاول مرة أخرى.</string>
     <string name="gamebox_wechat_not_find">قم بتثبيت WeChat وحاول مرة أخرى.</string>
+    <string name="gamebox_app_not_find">ثبت التطبيق أولا.</string>
     <string name="gamebox_type_close">عدم الإظهار</string>
     <string name="gamebox_type_float">اختصار ثابت</string>
     <string name="gamebox_type_gesture">مرّر للإظهار</string>
@@ -2361,6 +2380,7 @@
     <string name="gb_create_icon_summary">إنشاء اختصار في الشاشة الرئيسية</string>
     <string name="title_reply">تعليق</string>
     <string name="title_like">اعجاب</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">بيانات الجوال</string>
     <string name="game_wid_viewpoint_buttom">خذ استراحة قصيرة.</string>
     <string name="video_repeat">إعادة التشغيل</string>
@@ -2409,14 +2429,11 @@
     <string name="first_aid_card_airplane_title">لا يمكن إجراء المكالمات أو الاتصال بالشبكة</string>
     <string name="first_aid_card_airplane_summary">قم بإيقاف تشغيل وضع الطائرة لتتمكن من إجراء مكالمات أو الاتصال بالشبكة</string>
     <string name="first_aid_card_airplane_button">إيقاف</string>
-    <string name="first_aid_card_apn_title">تعذر الاتصال بالشبكة</string>
-    <string name="first_aid_card_apn_summary">تم تغيير نقاط الوصول (APNs). قم بتصحيحها للاتصال بالشبكة.</string>
-    <string name="first_aid_card_apn_button">إصلاح</string>
     <string name="first_aid_card_unable_install_title">لا يمكن تثبيت التطبيقات</string>
     <string name="first_aid_card_unable_install_summary">فقط %s من مساحة التخزين متوفرة. قم بتفريغ مساحة لتتمكن من تثبيت التطبيقات.</string>
     <string name="first_aid_card_unable_install_button">تفريغ مساحة</string>
     <string name="first_aid_result_summary_normal">كل شي يبدو جيداً!</string>
-    <string name="first_aid_result_summary_not_finished">لم يكتمل الفحص. لم يتم اكتشاف بعض المخاطر.</string>
+    <string name="first_aid_result_summary_not_finished">لم يكتمل الفحص. قد تكون بعض المخاطر غير مكتشفة.</string>
     <string name="first_aid_result_feedback_title">الإبلاغ عن خلل</string>
     <string name="first_aid_result_feedback_summary">لم يجد فحص الإسعافات الأولية أية مشاكل. ومع ذلك، لقد لاحظت وجود البعض.</string>
     <string name="first_aid_result_feedback_button">إرسال</string>

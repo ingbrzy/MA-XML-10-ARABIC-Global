@@ -108,6 +108,8 @@
     <string name="card_title_utilities">الخدمات</string>
     <string name="check_network">تحقق من إعدادات الشبكة</string>
     <string name="check_network_retry">تحقق من إعدادات الشبكة وحاول مجدداً</string>
+    <string name="clean_grabage">تنظيف</string>
+    <string name="clean_now">تحقق</string>
     <string name="cleanup_garbage">المنظف</string>
     <string name="cleanup_memory">مسح الذاكرة المؤقتة</string>
     <string name="cleanup_power">تنظيف عميق</string>
@@ -129,6 +131,7 @@
     <string name="cta_negative">إغلاق</string>
     <string name="cta_positive">التفاصيل</string>
     <string name="cta_title">السماح لمنصة التطبيقات بمساعدتك</string>
+    <string name="current_optimization_value">المخاطر تقلل من أمن جهازك</string>
     <string name="data_error">حدث خطأ ما، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="data_error_show">اكتمل هذا الطلب، لا يمكن عرض التفاصيل.</string>
     <string name="donnot_ask">لا تسأل مجدداً</string>
@@ -225,7 +228,11 @@
     <string name="ola_trip">طلب سيارة اجرة</string>
     <string name="ola_trip_content">تقدير الأجرة وطلب سيارة Ola</string>
     <string name="ola_trip_content_detail">تقدير الأجرة التقريبية وطلب سيارة Ola.</string>
+    <string name="optimizate_now">تحسين</string>
+    <string name="optimization">مستوى الأمان</string>
     <string name="phone_check">التحسين</string>
+    <string name="phone_has_garbage">يمكن أن تبطئ الملفات غير الضرورية جهازك</string>
+    <string name="phone_has_virus">تهدد البرامج الضارة والفيروسات الأمان</string>
     <string name="place_label">الاماكن الأكثر زيارة</string>
     <string name="record_name">تسجيل</string>
     <string name="record_parent">المسجل</string>
@@ -241,6 +248,7 @@
     <string name="search_card_view_date">EE y.M.d</string>
     <string name="search_tip">جار البحث…</string>
     <string name="security">الحماية</string>
+    <string name="security_brief">حماية جهازك وتنظيف الذاكرة</string>
     <string name="service_unavailiable">قم بالاتصال بالإنترنت ثم حاول مجددا.</string>
     <string name="set_home_failed">يتعذر إضافة عناوين, حاول مرة أخرى.</string>
     <string name="set_office_failed">يتعذر إضافة عناوين, حاول مرة أخرى.</string>
@@ -353,6 +361,7 @@
     <string name="upgrade_now">التحديث</string>
     <string name="user_id">هوية المستخدم: %s</string>
     <string name="utilities_apps_bref">استكشف خدمات الجهات الخارجية</string>
+    <string name="virus_scan">فحص الفيروس</string>
     <string name="walk">مشي</string>
     <string name="webull_title">Webull</string>
     <string name="which_transport">كيف تصل عادة إلى وجهتك؟</string>

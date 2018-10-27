@@ -57,6 +57,7 @@
     <string name="save_pic_success">حفظ الصورة إلى %s</string>
     <string name="save_pic_fail">تعذر حفظ الصورة. تحقق من بطاقة الـ SD الخاصة بك</string>
     <string name="pic_not_exist">هذه الصورة غير موجودة</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">تحديد منتج</string>
     <string name="michat_skillset_business_type_title">تحديد خدمة</string>
     <string name="michat_close_text">انتهت الدردشة</string>
@@ -289,8 +290,8 @@
     <string name="warning_field_invalid">تحديد %1$s صالح</string>
     <string name="min_error">يجب أن يكون %1$s الخاص بك اطول.</string>
     <string name="max_error">يجب %1$s الخاص بك أن يكون أقصر.</string>
-    <string name="reply_option_log_hint">可选</string>
-    <string name="reply_select_log_hint">选择日志文件</string>
+    <string name="reply_option_log_hint">اختياري</string>
+    <string name="reply_select_log_hint">اختر سجل</string>
     <string name="title_mi_family">منازل Mi القريبة</string>
     <string name="hint_feedback_main">قم بوصف المشكلة</string>
     <string name="goon_feedback_main">متابعة</string>
@@ -330,5 +331,34 @@
     <string name="customer_service_apply">طلب خدمة العملاء</string>
     <string name="customer_service_complain">تقرير خدمة العملاء</string>
     <string name="customer_service_station">خدمة المواقع</string>
+    <string name="title_catch_full_log">السجلات</string>
+    <string name="toast_catch_full_log_catching">يمكنك فقط إنشاء سجل واحد في كل مرة.</string>
+    <string name="catch_full_log_item_title_signal">الهاتف والإشارة وشبكات الهاتف</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi و Mi Drop</string>
+    <string name="catch_full_log_item_title_gps">خدمات الموقع</string>
+    <string name="catch_full_log_item_title_audio">الصوت وتسجيل الصوت ومكالمة صوتية</string>
+    <string name="catch_full_log_item_title_sensor">المستشعرات</string>
+    <string name="catch_full_log_item_title_bt">البلوتوث</string>
+    <string name="catch_full_log_item_title_dump_heap">تأخير</string>
+    <string name="catch_full_log_item_content_need_open">"الخطوات:
+١. انقر فوق \"إنشاء سجل\".
+٢. عد إلى الميزة التي تريد الإبلاغ عنها وإعادة إنتاجها.
+٣. عد إلى هذه الصفحة وانقر على \"إنهاء وتحميل\"."</string>
+    <string name="catch_full_log_item_content_catch_direct">"الخطوات:
+١. عد إلى الميزة التي تريد الإبلاغ عنها وإعادة إنتاجها.
+٢. عد إلى هذه الصفحة وانقر على \"إنهاء وتحميل\"."</string>
+    <string name="catch_full_log_action_start">إنشاء السجل</string>
+    <string name="catch_full_log_action_complete">إنهاء وتحميل</string>
+    <string name="catch_full_log_action_cancel">إلغاء</string>
+    <string name="catch_full_log_dialog_content">يقوم MIUI بإنشاء السجل. قد يؤثر هذا على الأداء العام لجهازك. إذا لم تتمكن من إعادة إظهار/انتاج المشكلة التي تريد الإبلاغ عنها ، فارجع إلى السجلات وانقر على \"إلغاء\".</string>
+    <string name="catch_full_log_dialog_confirm_text">انتقل إلى الشاشة الرئيسية</string>
+    <string name="catch_full_log_notification_title">جارٍ إنشاء السجل…</string>
+    <string name="catch_full_log_notification_content">انقر للرجوع إلى السجلات</string>
+    <string name="catch_full_log_start_dump_hprof">إنشاء سجل متأخر</string>
+    <string name="catch_full_log_dump_hprof_failed">تعذر إنشاء سجل متأخر</string>
+    <string name="catch_full_log_add_original_photo">إضافة صورة</string>
+    <string name="catch_full_log_add_photo_dialog_content">إذا كانت المشكلة التي تبلغ عنها مرتبطة بجودة صورة الكاميرا، أضف عينة من الصورة (بدون اقتصاص) لمساعدتنا في العثور عليها. أضافة صورة الآن؟</string>
+    <string name="catch_full_log_submit_directly">إرسال</string>
+    <string name="catch_full_log_add_photo">إضافة صورة</string>
     <string name="select_system_app_tag">تحديد المشكلة</string>
 </resources>
