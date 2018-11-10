@@ -56,6 +56,22 @@
         <item quantity="few">رمز PUK غير صحيح، تبقى %d محاولات</item>
         <item quantity="many">رمز PUK غير صحيح، تبقى %d محاولة</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">ينطلب ادخال كلمة المرور بعد %d ساعة من عدم النشاط</item>
+        <item quantity="zero">ينطلب ادخال كلمة المرور بعد %d ساعة من عدم النشاط</item>
+        <item quantity="one">ينطلب ادخال كلمة المرور بعد %d ساعة من عدم النشاط</item>
+        <item quantity="two">ينطلب ادخال كلمة المرور بعد %d ساعات من عدم النشاط</item>
+        <item quantity="few">ينطلب ادخال كلمة المرور بعد %d ساعات من عدم النشاط</item>
+        <item quantity="many">ينطلب ادخال كلمة المرور بعد %d ساعة من عدم النشاط</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">يتطلب رسم النقش بعد %d ساعة من عدم النشاط</item>
+        <item quantity="zero">يتطلب رسم النقش بعد %d ساعة من عدم النشاط</item>
+        <item quantity="one">يتطلب رسم النقش بعد %d ساعة من عدم النشاط</item>
+        <item quantity="two">يتطلب رسم النقش بعد %d ساعات من عدم النشاط</item>
+        <item quantity="few">يتطلب رسم النقش بعد %d ساعات من عدم النشاط</item>
+        <item quantity="many">يتطلب رسم النقش بعد %d ساعة من عدم النشاط</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"%d  ساعة متبقية"</item>
         <item quantity="zero">"%d  ساعة متبقية"</item>

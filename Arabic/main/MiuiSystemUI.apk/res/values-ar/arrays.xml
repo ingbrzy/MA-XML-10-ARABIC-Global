@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -65,8 +83,8 @@
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>الأمثل لجوده الصوت (۹۹۰ كيلوبت في الثانية/۹۰۹ كيلوبت في الثانية)</item>
-        <item>جودة الصوت والإتصال المتوازن (٦۰٦ كيلوبت / ٦۰٦ كيلوبت في الثانية)</item>
+        <item>الأمثل لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
+        <item>جودة الصوت والإتصال المتوازن (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
         <item>الإفضل لجوده الاتصال (۳۳۰ كيلو بايت / ۳۰۳ كيلو بايت في الثانية)</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
@@ -188,7 +206,7 @@
     <string-array name="overlay_display_devices_entries">
         <item>لا شيء</item>
         <item>480p</item>
-        <item>480p (آمن)</item>
+        <item>(آمن) 480p</item>
         <item>720p</item>
         <item>720p (آمن)</item>
         <item>1080p</item>

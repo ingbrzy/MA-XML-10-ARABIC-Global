@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inCallLabel">InCallUI</string>
+    <string name="inCallLabel">الهاتف</string>
     <string name="unknown">غير معروف</string>
     <string name="private_num">رقم خاص</string>
     <string name="payphone">هاتف عمومي</string>

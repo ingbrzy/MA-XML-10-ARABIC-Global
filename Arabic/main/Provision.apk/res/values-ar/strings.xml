@@ -48,10 +48,10 @@
     <string name="terms_of_use_label">"خصوصيتك مهمة جدًا بالنسبة لنا. يرجى قراءة شروط الخدمة وسياسة الخصوصية لفهم ماهي المعلومات التي نجمعها، وكيف نستخدمها والخيارات المتاحة لك.
 
 يجب أن توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI. ستتصل %s وحساب Mi بالإنترنت وتحصل على موقعك."</string>
-    <string name="terms_of_use_lable_apps">خدمات Mi، خدمات تفعيل Mi SIM ،MiCloud، العثور على الجهاز، الشاشة الرئيسية، مركز الألعاب، MAB، مكونات نظام MIUI Daemon وMSA، خدمات الترجمة، التطبيقات السريعة، منصة التطبيقات، الإحصائيات، رابط Mi</string>
+    <string name="terms_of_use_lable_apps">خدمات Mi وخدمات تفعيل Mi SIM و Mi Cloud والعثور على الجهاز والشاشة الرئيسية ومركز الألعاب و MAB ومكونات نظام MIUI Daemon و MSA وخدمات الترجمة والتطبيقات السريعة ومنصة التطبيقات والإحصائيات ورابط Mi</string>
     <string name="terms_of_use_lable_gms">، خدمات متجر Play</string>
     <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
-    <string name="terms_of_use_lable_smart_cards">، البطاقات الذكية</string>
+    <string name="terms_of_use_lable_smart_cards">، والبطاقات الذكية</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>

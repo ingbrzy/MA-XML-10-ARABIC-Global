@@ -67,10 +67,11 @@
     <string name="xspace_label">التطبيقات المزدوجة</string>
     <string name="xspace_setting_label">إعدادات التطبيق المزدوج</string>
     <string name="xspace_account">حسابات التطبيق المزدوج</string>
+    <string name="xspace_remove">حذف حسابات التطبيقات المزدوجة</string>
     <string name="declare_dialog_title">معلومات عن التطبيقات المزدوجة</string>
     <string name="menu_item_about_privacy_title">سياسة الخصوصية</string>
     <string name="stop_xspace_alert_title">حذف حسابات التطبيق المزدوج</string>
-    <string name="stop_xspace_alert_content">لقد قمت بحذف جميع التطبيقات المزدوجة. هل تريد حذف حسابات التطبيق المزدوج وبيانات التطبيق أيضا؟ سيكون عليك بعد ذلك إنشاء التطبيقات المزدوجة مرة أخرى عتد الحاجة.</string>
+    <string name="stop_xspace_alert_content">سيتم حذف جميع التطبيقات المزدوجة نهائياً. يجب عليك إعادة تشغيل الجهاز لتطبيق التغييرات. حذف الحسابات الآن؟</string>
     <string name="xspace_loading_msg">جارٍ تحميل التطبيقات…</string>
     <string name="xspace_header">التطبيقات المزدوجة</string>
     <string name="xspace_introduce">موصى به</string>

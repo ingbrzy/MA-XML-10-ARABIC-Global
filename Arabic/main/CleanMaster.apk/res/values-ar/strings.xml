@@ -17,7 +17,7 @@
     <string name="gigabyteShort">غ.ب</string>
     <string name="terabyteShort">ت.ب</string>
     <string name="petabyteShort">ب.ب</string>
-    <string name="update_date_format">yyyy/MM/dd</string>
+    <string name="update_date_format">dd/MM/yyyy</string>
     <string name="activity_title_garbage_cleanup">المنظف</string>
     <string name="activity_title_scanfinish">اكتمل المسح</string>
     <string name="empty_title_photos">لم يتم العثور على أية صور</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">حزم</string>
     <string name="hints_residual_header_left">المخلفات</string>
     <string name="hints_memory_header_left">الذاكرة</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ملفات كبيرة: %d</string>
     <string name="hints_installed_apps_header_left">التطبيقات المثبتة: %d</string>
     <string name="toast_resolve_apk_error">حل خطأ apk</string>
@@ -299,6 +300,7 @@
     <string name="downloading">جارٍ التحميل</string>
     <string name="installing">جارٍ التثبيت</string>
     <string name="start_install">التثبيت الآن</string>
+    <string name="empty">" "</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
     <string name="connecting">جارٍ الاتصال…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">لم يتم ايجاد الملف</string>
     <string name="app_usage_never">لم تستخدم مؤخرا</string>
     <string name="app_usage_recently">استخدم مؤخرا</string>
-    <string name="resutl_function_deep_clean_summary">" يمكن مسح المزيد من "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ملفات لتفريغ المزيد من المساحة.</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> من التخزين المؤقت للـWeChat. تفريغ المزيد من المساحة.</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>يمكنك حذف &lt;font color=#ff0000 >%1$s&lt;/font> من ذاكرة التخزين المؤقت الناتجة عن تطبيق QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" يمكن مسح المزيد من "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> ملفات لتفريغ المزيد من المساحة. </Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> من التخزين المؤقت للـWeChat. تفريغ المزيد من المساحة. </Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data> يمكنك حذف &lt;font color=#ff0000 >%1$s&lt;/font> من ذاكرة التخزين المؤقت الناتجة عن تطبيق QQ ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">حول المنظف</string>
@@ -498,19 +500,6 @@
     <string name="auto_clean_time_three_day">كل ٣ أيام</string>
     <string name="auto_clean_time_seven_day">كل ٧ أيام</string>
     <string name="auto_clean_time_fifteen_day">كل ١٥ يوم</string>
-    <string name="pref_category_title_auto_clean_config_settings">التنظيف التلقائي</string>
-    <string name="pref_title_auto_clean">التنظيف تلقائيا</string>
-    <string name="pref_title_auto_clean_operation">طريقة التنظيف</string>
-    <string name="pref_title_auto_clean_trigger">تنظيف التخزين</string>
-    <string name="auto_clean_operation_dialog_title">طريقة التنظيف</string>
-    <string name="auto_clean_operation_clean_and_alert">تذكير وتنظيف</string>
-    <string name="auto_clean_operation_just_clean">تنظيف فقط</string>
-    <string name="auto_clean_trigger_dialog_title">تنظيف التخزين</string>
-    <string name="auto_clean_trigger_percent_ninety">عندما يكون ٩٠% ممتلئ</string>
-    <string name="auto_clean_trigger_percent_eighty">عندما يكون ٨٠% ممتلئ</string>
-    <string name="auto_clean_trigger_percent_sixty">عندما يكون ٦٠% ممتلئ</string>
-    <string name="auto_clean_notification_title">تذكير للتنظيف</string>
-    <string name="auto_clean_notification_content">تم تنظيف %s مهملات</string>
     <string name="guide_secure_dialog_title">تحسين الأداء</string>
     <string name="guide_secure_dialog_message">نقاط تحسين الجهاز أقل من ٨٠ نقطة. التحسين الآن؟</string>
     <string name="guide_secure_dialog_positive">تحسين</string>
@@ -538,10 +527,6 @@
     <string name="whatsapp_group_gif">GIF</string>
     <string name="whatsapp_group_document">المستندات</string>
     <string name="whatsapp_btn_quick_cleanup">حذف العناصر المحددة (%s)</string>
-    <string name="whatsapp_type_image_send">الصور المرسلة</string>
-    <string name="whatsapp_type_image_recv">الصور المستلمة</string>
-    <string name="whatsapp_type_document_send">الملفات المرسلة</string>
-    <string name="whatsapp_type_document_recv">الملفات المستلمة</string>
     <string name="whatsapp_file_show_order">اليوم</string>
     <string name="whatsapp_clean_exit_confirm_title">إيقاف البحث؟</string>
     <string name="whatsapp_clean_exit_confirm_msg">لم ينته فحص WhatsApp بعد. إيقاق الفحص الآن؟</string>
@@ -567,4 +552,17 @@
     <string name="memory_clean_no_trash_tip">كل شيء يبدو جيداً</string>
     <string name="toast_updater_open_4g_text">سيتم تحديث التطبيقات باستخدام بيانات الجوال (4G)</string>
     <string name="toast_updater_close_4g_text">لن يتم تحديث التطبيقات باستخدام بيانات الجوال (4G)</string>
+    <string name="facebook_cleaner">منطف الفيسبوك</string>
+    <string name="facebook_group_image">صور</string>
+    <string name="facebook_group_video">الفيديوهات</string>
+    <string name="facebook_group_gif">GIF</string>
+    <string name="facebook_group_cache">ملفات ذاكرة التخزين المؤقت</string>
+    <string name="app_clean_group_image_send">الصور المرسلة</string>
+    <string name="app_clean_group_image_recv">الصور المستلمة</string>
+    <string name="app_clean_group_document_send">الملفات المرسلة</string>
+    <string name="app_clean_group_document_recv">الملفات المستلمة</string>
+    <string name="facebook_clean_exit_confirm_title">إيقاف البحث ؟</string>
+    <string name="facebook_clean_exit_confirm_msg">لم ينته فحص الفيسبوك بعد. إيقاق الفحص الآن؟</string>
+    <string name="facebook_clean_exit_confirm_cancel">متابعة الفحص</string>
+    <string name="facebook_clean_exit_confirm_ok">إيقاف</string>
 </resources>

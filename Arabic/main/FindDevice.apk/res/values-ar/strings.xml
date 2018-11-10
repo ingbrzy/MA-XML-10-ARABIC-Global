@@ -16,7 +16,7 @@
     <string name="find_device_crash">تم إغلاق \"العثور على الجهاز\" بشكل غير متوقع.</string>
     <string name="find_device_storage_corrupted">تخزين \"العثور على الجهاز\" متلف. جهازك غير آمن الآن.</string>
     <string name="find_device_telephony_fault">العثور على الجهاز: خطأ هاتفي (%s).</string>
-    <string name="time_correction_success">تم تصحيح الوقت</string>
+    <string name="time_correction_success">تم تعديل الوقت</string>
     <string name="time_correction_failure">لا يمكن تصحيح الوقت. %s</string>
     <string name="find_device_stop_noise">انقر موافق لكتم الصوت</string>
     <string name="find_device_noise_title">منبه العثور على الجهاز</string>

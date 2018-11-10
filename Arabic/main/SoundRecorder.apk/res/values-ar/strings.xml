@@ -58,7 +58,7 @@
     <string name="sound_recorder_settings">الإعدادات</string>
     <string name="preference_led_indicator">إشعارات قفل الشاشة</string>
     <string name="preference_tip_rename">تسمية التسجيلات يدوياً</string>
-    <string name="preference_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة وضوء إشعار الوميض في شاشة القفل</string>
+    <string name="preference_led_indicator_prompt">عرض اختصار شريط الحالة وضوء إشعار الوميض في شاشة القفل أثناء التسجيل</string>
     <string name="preference_scenes">نوع التسجيل</string>
     <string name="preference_record_scenes_dialog_title">اختيار نوع التسجيل</string>
     <string name="preference_silent_mode">كتم الرنين أثناء التسجيل</string>

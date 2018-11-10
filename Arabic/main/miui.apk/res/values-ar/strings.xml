@@ -46,6 +46,7 @@
     <string name="size_giga_byte">غيغابايت</string>
     <string name="size_tera_byte">تيرابايت</string>
     <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">تم</string>
     <string name="date_picker_dialog_title">تعيين التاريخ</string>
     <string name="time_picker_dialog_title">تعيين الوقت</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">تم إيقاف المزامنة بسبب مشاكل مع حساب Mi الخاص بك.</string>
     <string name="error_not_acceptable">تم إيقاف المزامنة.</string>
     <string name="more">المزيد</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Slight Cold</string>
     <string name="solar_term_great_cold">Great Cold</string>
     <string name="solar_term_spring_begins">Spring Begins</string>
@@ -304,16 +306,16 @@
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_pm">a h:mm</string>
+    <string name="fmt_time_12hour_minute_second_pm">a h:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">a h:mm:ss.S</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>

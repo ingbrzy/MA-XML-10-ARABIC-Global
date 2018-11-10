@@ -30,6 +30,7 @@
     <string name="passport_register">إنشاء حساب</string>
     <string name="passport_new_user_register">إنشاء حساب</string>
     <string name="passport_vcode_sms_send_prompt">إرسال رمز التحقق إلى %s</string>
+    <string name="passport_input_phone_password">أدخل كلمة المرور لرقم الهاتف %s</string>
     <string name="passport_get_verify_code">الحصول على رمز</string>
     <string name="passport_re_get_verify_code">الحصول على الرمز مرة أخرى</string>
     <string name="passport_getting_verify_code">جارٍ الحصول</string>
@@ -59,6 +60,7 @@
     <string name="passport_forget_password_no_underline">نسيت كلمة المرور</string>
     <string name="passport_reg_type_email">عنوان البريد الإلكتروني</string>
     <string name="passport_register_by_email"><u>إنشاء حساب باستخدام عنوان البريد الإلكتروني</u></string>
+    <string name="passport_international_register_by_email">إنشاء حساب باستخدام عنوان البريد الإلكتروني</string>
     <string name="passport_account_not_actived">لم يتم تفعيل حسابك</string>
     <string name="passport_active_email_visit">تحقق من علبة الوارد الخاصة بك في %s</string>
     <string name="passport_click_email_to_valid">"
@@ -177,6 +179,7 @@
     <string name="passport_quick_register_notice"><u>ليس لديك حساب Mi؟ قم بإنشاء واحد.</u></string>
     <string name="passport_password_phone_login">تسجيل الدخول باستخدام حساب Mi</string>
     <string name="passport_sms_verification_code_login">تسجيل الدخول بإستخدام SMS</string>
+    <string name="passport_sms_verification_code_login_or_register">تسجيل الدخول أو التسجيل بإستخدام SMS</string>
     <string name="passport_login_other_account">حساب آخر</string>
     <string name="passport_reg_new_account">إنشاء حساب</string>
     <string name="passport_select_the_login_account">تحديد الحساب الذي تريج تسجيل الدخول به</string>

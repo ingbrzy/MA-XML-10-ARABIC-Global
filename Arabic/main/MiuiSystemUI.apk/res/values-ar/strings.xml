@@ -52,6 +52,7 @@
     <string name="accessibility_camera_button">الكاميرا</string>
     <string name="accessibility_carrier_network_change_mode">تغيير شبكة الاتصالات.</string>
     <string name="accessibility_cast_name">متصل بشبكة %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">توقف بث الشاشة.</string>
     <string name="accessibility_cell_data">بيانات الجوال</string>
     <string name="accessibility_cell_data_off">بيانات الجوال متوقفة</string>
@@ -538,6 +539,7 @@
     <string name="dock_forced_resizable">قد لا يعمل التطبيق في وصع تقسيم الشاشة.</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">تقسيم الشاشة غير مدعوم في شاشة القفل.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">التطبيق لا يدعم وضع تقسيم الشاشة.</string>
+    <string name="download_lock_wallpaper">انقر مرتين لتنزيل خلفية كاروسيل</string>
     <string name="doze_pickup_subtype_performs_proximity_check" />
     <string name="drag_to_add_tiles">اضغط مع الاستمرار لإضافة أو إعادة ترتيب العناصر</string>
     <string name="drag_to_remove_tiles">اسحب هنا للحذف</string>
@@ -733,7 +735,6 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">لا يمكن التبديل بين الواجهات أثناء إجراء مكالمة</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">لا يمكن التبديل بين الواجهتين عندما تكون رقابة الوالدين قيد التشغيل</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">تحتاج إلى الدخول إلى الواجهة الاولى بعد إعادة تشغيل الجهاز</string>
-    <string name="input_password_handle_sdcard_fs">لا يمكن الدخول إلى الواجهة الثانية من شاشة القفل. قم بالدخول من الواجهة الاولى.</string>
     <string name="input_password_hint_text">ادخل كلمة المرور</string>
     <string name="input_pattern_hint_text">ارسم نقش إلغاء قفل الشاشة</string>
     <string name="input_pin_code">أدخل رمز PIN</string>
@@ -814,6 +815,10 @@
     <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
     <string name="keyguard_charging_info_click_to_detail">عرض التفاصيل</string>
+    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
+    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
@@ -838,6 +843,7 @@
     <string name="keyguard_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. الرجاء إدراج بطاقة SIM.</string>
     <string name="keyguard_missing_sim_message">لا توجد بطاقة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكه مقفله</string>
     <string name="keyguard_password_enter_password_code">أدخل كلمة المرور لإلغاء القفل</string>
     <string name="keyguard_password_enter_pin_code">أدخل رمز PIN</string>
@@ -921,6 +927,7 @@
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">"، "</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة المرور أو إزالتها للنسخ الاحتياطي للشاشة الرئيسية الكاملة</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة للشاشة الرئيسية ’ليست محمية حاليًا</string>
     <string name="local_backup_password_title">كلمه مرور النسخ الإحطياتي الشامل</string>
@@ -984,6 +991,7 @@
     <string name="miui_guide_dialog_message">سيستمر تشغيل أصوات الوسائط (الموسيقى والفيديوهات وما إلى ذلك) في وضع السكون. يمكنك تغيير هذا في الإعدادات.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
     <string name="miui_ringer_count_down">العد التنازلي</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">صامت</string>
     <string name="miui_ringer_standard_description">كتم نغمات الرنين للمكالمات الواردة والإشعارات</string>
     <string name="miui_ringer_total">عدم الازعاج</string>
@@ -1011,12 +1019,14 @@
 
 لمزيد من المعلومات، اتصل بمسؤول النظام."</string>
     <string name="monitoring_description_ca_cert_settings">فتح الشهادات الموثوقة</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">يتم تثبيت مرجع مصدق على هذا الجهاز. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يقوم المشرف بمراقبة وإدارة الإعدادات والتطبيقات والوصول إلى موارد الشركة والبيانات المتعلقة بجهازك ومعلومات الموقع.</string>
     <string name="monitoring_description_do_body_vpn">انت متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك البريد الإلكتروني والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك من قِبل %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s تستخدم %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">معرفة المزيد</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">قامت مؤسستك بتثبيت مرجع مصدق في ملف العمل الشخصي. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">ملف العمل الشخصي متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"تتم إدارة جهازك من قِبل مؤسستك.
@@ -1048,6 +1058,7 @@
 
  انت أيضًا متصل بشبكة VPN، حيث يمكن مراقبة نشاط هذه الشبكة."</string>
     <string name="monitoring_description_vpn_settings">فتح إعدادات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل الشبكة</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1062,6 +1073,7 @@
     <string name="nav_guide_message">استخدم الإيماءات لإخفاء أو إظهار أزرار التنقل.</string>
     <string name="nav_guide_ok">إعداد</string>
     <string name="nav_guide_title">إخفاء أزرار التنقل</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا يوجد</string>
     <string name="no_multi_window_app">لا توجد تطبيقات تدعم وضع تقسيم الشاشة</string>
     <string name="no_notification_tips">لا توجد إشعارات</string>
@@ -1145,8 +1157,10 @@
     <string name="phone_locked_foget_password_method_content"><Data>يجب عليك&lt;font color=#a5220e>محو جميع البيانات&lt;/font> على جهازك، بما في ذلك الصور وجهات الاتصال، ثم تعيين واحدة جديدة.</Data></string>
     <string name="phone_locked_foget_password_method_next">التالي</string>
     <string name="phone_locked_foget_password_ok">فهمت</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>قم بإيقاف تشغيل جهازك، ثم اضغط باستمرار على &lt;font color=#a5220e>زر الطاقة&lt;/font> و &lt;font color=#a5220e>زر رفع مستوى الصوت&lt;/font> معا حتى تشاهد شعار Mi.;</Data></string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>حدد &lt;font color=#a5220e>\"مسح وإعادة تعيين&lt;/font> ثم انتظر حتى يقوم جهاز بإعادة التشغيل..;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>قم بإيقاف تشغيل جهازك، ثم اضغط باستمرار على &lt;font color=#a5220e>زر الطاقة&lt;/font> و &lt;font color=#a5220e>زر رفع مستوى الصوت&lt;/font> معا حتى تشاهد شعار Mi. ;</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>"حدد &lt;font color=#a5220e>\"مسح وإعادة تعيين&lt;/font> ثم انتظر حتى يقوم جهاز بإعادة التشغيل..
+        ;"</Data>"
+    "</string>
     <string name="phone_locked_forget_password_suggesstions_title">كيفية مسح البيانات؟</string>
     <string name="phone_locked_string">تم قفل الهاتف</string>
     <string name="picture_color_mode">وضع ألوان الصورة</string>
@@ -1200,6 +1214,7 @@
     <string name="power_remaining_charging_duration_only">%1$s مُتبقية حتي إكتمال الشحن</string>
     <string name="power_remaining_duration_only">حوالي %1$sباقي</string>
     <string name="power_remaining_duration_only_short">%1$s متبقية</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
@@ -1467,7 +1482,9 @@ d MMM"</string>
     <string name="status_bar_input_method_settings_configure_input_methods">إعداد طرق الإدخال</string>
     <string name="status_bar_latest_events_title">الإشعارات</string>
     <string name="status_bar_network_flow_content">"اليوم: %1$s  المتبقي: %2$s"</string>
-    <string name="status_bar_network_flow_exceed_content">"اليوم:  %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;تجاوزت الخطة: &lt;font color=%2$s>%3$s&lt;/font>"</string>
+    <string name="status_bar_network_flow_exceed_content">"اليوم:  %1$s
+        &amp;nbsp;&amp;nbsp;&amp;nbsp;تجاوزت الخطة: &lt;font color=%2$s>%3$s&lt;/font>
+        "</string>
     <string name="status_bar_network_flow_limit">"   الحد الشهري: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   شراء >"</string>
     <string name="status_bar_network_flow_today">اليوم: %1$s</string>
@@ -1734,6 +1751,7 @@ d MMM"</string>
     <string name="wait_for_debugger">انتظر المصحح</string>
     <string name="wait_for_debugger_summary">ينتظر تطبيق التصحيح المصحح للإرفاق قبل التنفيذ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">حرر لعرض التفاصيل</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
     <string name="wifi_aggressive_handover">ال‏تبديل التلقائي من شبكة Wi‑Fi إلى بيانات الجوال</string>
     <string name="wifi_aggressive_handover_summary">عند تفعيلها، سيتم تبديل الاتصال إلى بيانات الجوال بشكل أكثر نشاطا، عندما تكون إشارة Wi‑Fi منخفضة.</string>
@@ -1758,9 +1776,11 @@ d MMM"</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>

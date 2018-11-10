@@ -98,7 +98,6 @@
     <string name="app_name">المعرض</string>
     <string name="app_name_view_picture">عرض الصور</string>
     <string name="app_name_view_video">عرض الفيديوهات</string>
-    <string name="apply">تطبيق</string>
     <string name="associate_face_album">اختر ألبوم</string>
     <string name="auto_backup_introduce">إنشاء نسخة احتياطية للصور ومقاطع فيديو تلقائيا (تحتاج الى حساب Mi)</string>
     <string name="auto_download_media_title">تنزيل الصور تلقائياً من Mi Cloud</string>
@@ -123,10 +122,6 @@
     <string name="baby_album_sharers_page_title">مشاركة مع الأسرة</string>
     <string name="baby_birthday">تاريخ الميلاد</string>
     <string name="baby_face_desc">ألبوم الطفل</string>
-    <string name="baby_lock_wallpaper">خلفية شاشة القفل</string>
-    <string name="baby_lock_wallpaper_cancelled">تم التغيير إلى خلفية شاشة القفل الافتراضية</string>
-    <string name="baby_lock_wallpaper_save_settings_msg">هل تريد تطبيق الإعدادات الحالية؟</string>
-    <string name="baby_lock_wallpaper_title">استخدام صور الطفل كخلفية شاشة القفل</string>
     <string name="baby_name_cannot_empty">ادخل الاسم</string>
     <string name="baby_name_cannot_start_with">"لا يمكن أن يبدأ الاسم بـ '%s'"</string>
     <string name="baby_name_contain_invalidate_char">"لا يمكن أن يحتوي الاسم على '%s'"</string>
@@ -196,7 +191,6 @@
     <string name="byteShort">بايت</string>
     <string name="camera_needs_auto_backup_tip">يجب النسخ الاحتياطي لألبوم الكاميرا</string>
     <string name="cancel">إلغاء</string>
-    <string name="cancel_baby_lock_wallpaper_confirm_msg">التغييرإلى خلفية شاشة القفل الافتراضية؟</string>
     <string name="cancel_download_btn_text">إيقاف</string>
     <string name="cancel_hint">تم إلغاء العملية</string>
     <string name="cannot_remove_creator">لا يمكن إزالة المنشئ</string>
@@ -347,6 +341,11 @@
     <string name="disable_auto_upload_tip">إيقاف المزامنة مع Mi Cloud لهذا الألبوم؟</string>
     <string name="disable_auto_upload_title">إيقاف تشغيل المزامنة مع Mi Cloud</string>
     <string name="do_not_remind_me">عدم الإظهار مرة أخرى</string>
+    <string name="document_provider_guide_step_1">١. انقر على زر \"المزيد\".</string>
+    <string name="document_provider_guide_step_2">٢. انقر على \"عرض التخزين الداخلي\".</string>
+    <string name="document_provider_guide_step_3">٣. اضغط على زر القائمة الجانبية.</string>
+    <string name="document_provider_guide_step_4">٤. حدد \"بطاقة SD\".</string>
+    <string name="document_provider_guide_step_5">٥. انقر على \"تحديد\".</string>
     <string name="double_tap_to_higher_definition">نقر مزدوج مرة أخرى للمعاينة بجودة HD</string>
     <string name="download_canceled">تم إلغاء التحميل</string>
     <string name="download_error_format">تعذر تنزيل %s</string>
@@ -450,6 +449,18 @@
     <string name="exit_video_play">خروج</string>
     <string name="expand_desc">المزيد</string>
     <string name="expand_people">عرض المزيد من الأشخاص</string>
+    <string name="ext_sdcard_first_entrance_request_failed_text">سيحفظ المعرض العناصر إلى التخزين الداخلي بدلاً من ذلك. يمكنك تغيير هذا من الإعدادات> التخزين> إعدادات التخزين.</string>
+    <string name="ext_sdcard_first_entrance_request_failed_title">تعذر إعطاء الإذونات.</string>
+    <string name="ext_sdcard_guide_first_page_button_text">التالي</string>
+    <string name="ext_sdcard_guide_last_page_button_text">إعطاء الأذونات</string>
+    <string name="ext_sdcard_guide_text">يحتاج المعرض إلى إذنك للوصول إلى بطاقة SD. إليك مايمكنك فعله:</string>
+    <string name="ext_sdcard_operation_failed_text">يحتاج المعرض إلى إذنك للوصول إلى بطاقة SD.</string>
+    <string name="ext_sdcard_operation_failed_title">لا يمكن إكمال هذا الإجراء</string>
+    <string name="ext_sdcard_permission_request_button_text">حسنا</string>
+    <string name="ext_sdcard_permission_request_reason">يحتاج المعرض إلى إذنك للوصول إلى بطاقة SD. سيسمح لك بحذف وتعديل الصور والفيديوهات المخزنة على بطاقة SD الخاصة بك.</string>
+    <string name="ext_sdcard_permission_request_title">السماح للمعرض الوصول إلى بطاقة SD</string>
+    <string name="ext_sdcard_request_failed_button_text">موافق</string>
+    <string name="ext_sdcard_request_succeed_toast_text">أنت جاهز للانطلاق!</string>
     <string name="face_album_empty">"لا يوجد صور كافية للتعرف على اشخاص.
 قم بإخذ صور اكثر لأصدقائك!"</string>
     <string name="face_album_empty_syncing">جارٍ مزامنة البيانات، يرجى العودة لاحقاً</string>
@@ -467,6 +478,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -477,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ذكرى</string>
     <string name="filter_bi_mono">مونو</string>
     <string name="filter_bi_pink">وردي</string>
@@ -546,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -721,6 +735,7 @@
     <string name="operation_save">حفظ</string>
     <string name="operation_send">إرسال</string>
     <string name="operation_set_contact_photo">تعيين كصورة جهة اتصال</string>
+    <string name="operation_set_slide_wallpaper">تعيين كخلفية لعرض الشرائح</string>
     <string name="operation_set_wallpaper">تعيين كخلفية الشاشة</string>
     <string name="operation_share">مشاركة</string>
     <string name="operation_show_in_photos_tab">عرض في الصور</string>
@@ -744,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">صور الحيوانات الأليفة</string>
     <string name="petabyteShort">بنتابايت</string>
     <string name="photo">الصور</string>
@@ -867,6 +883,7 @@
     <string name="picker_image_will_download">%d من الصور المحددة ليست على الجهاز. سيتم تحميلها.</string>
     <string name="picker_no_network_message">الاتصال بالشبكة للتحميل</string>
     <string name="picker_origin_need_download">%1$d من الصور المُحددة (%2$dميغابايت) ليست على الجهاز. التحميل بإستخدام بيانات الجوال؟</string>
+    <string name="picker_origin_request_progress_fail">تعذر تنزيل الصورة الأصلية بسبب خطأ في الشبكة.</string>
     <string name="picker_origin_request_progress_message">جارٍ إعداد الملفات الأصلية (%1$d/%2$d)…</string>
     <string name="picker_title_format">حدد %1$d إلى %2$d صور</string>
     <string name="picker_title_selection_format">الصور الُمحددة: %d</string>
@@ -1004,6 +1021,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -1023,7 +1043,7 @@
     <string name="secret_reason_unknow_reasons">خطأ غير معروف</string>
     <string name="secret_reason_video_not_support">لا يمكن إضافة هذه الفيديوهات إلى ألبوم مخفي</string>
     <string name="see_ignore_faces">عرض الأشخاص الذين تجاهلتهم</string>
-    <string name="select_image_operation">يتم إضافة الصور</string>
+    <string name="select_image_operation">إضافة الصور</string>
     <string name="select_item_face">"هل هذا '%s'؟"</string>
     <string name="select_origin_tip">ملف اصلي (%s)</string>
     <string name="send_file_beautify_failed">تعذر المشاركة</string>
@@ -1032,7 +1052,8 @@
     <string name="send_secret_file_failed">تعذر المشاركة</string>
     <string name="send_secret_file_space_low">لا توجد مساحة تخزين كافية</string>
     <string name="send_too_many_files_error">لا يمكن الارسال إلى %d في نفس الوقت</string>
-    <string name="set_as_baby_lock_wallpaper">تعيين كخلفية شاشة القفل</string>
+    <string name="set_as_slide_wallpaper_description">هذه الصورة هي صورة مصغرة، هل تريد تحميل النسخة الأصلية؟</string>
+    <string name="set_as_slide_wallpaper_title">تعيين كخلفية لعرض الشرائح</string>
     <string name="set_as_wallpaper_description">هذه الصورة هي صورة مصغرة، هل تريد تحميل النسخة الأصلية؟</string>
     <string name="set_as_wallpaper_title">تعيين كخلفية الشاشة</string>
     <string name="set_face_group_toast_msg_new_user">اضغط مطوّلا على شخص لدمجه او تجاهله.</string>
@@ -1282,6 +1303,7 @@
     <string name="view_face_album">عرض الألبوم</string>
     <string name="view_more_face_desc">عرض المزيد من الأشخاص</string>
     <string name="voice_assistant">إدخال الصوت</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">مرحباً في Mi Cloud</string>
     <string name="where_is_barcode">أين رمز QR؟</string>
     <string name="who_is_this">من هذا؟</string>
@@ -1289,7 +1311,7 @@
     <string name="yes">نعم</string>
     <string name="yesterday">أمس</string>
     <string name="you_are">انت الطفل</string>
-    <string name="operation_set_slide_wallpaper">تعيين كخلفية لعرض الشرائح</string>
+    <string name="photo_editor_talkback_crop_screen">نسبة أبعاد ملء الشاشة</string>
     <string name="refocus_discard_confirm_message">حفظ التغييرات؟</string>
     <string name="refocus_discard_negative_btn">تجاهل الرسالة</string>
     <string name="refocus_discard_positive_btn">حفظ</string>
@@ -1302,6 +1324,4 @@
     <string name="refocus_title">ضبابي</string>
     <string name="refocus_type_static">مستوى الضبابية</string>
     <string name="refocus_type_video">مسارات الضوء</string>
-    <string name="set_as_slide_wallpaper_description">هذه الصورة هي صورة مصغرة، هل تريد تحميل النسخة الأصلية؟</string>
-    <string name="set_as_slide_wallpaper_title">تعيين كخلفية لعرض الشرائح</string>
 </resources>

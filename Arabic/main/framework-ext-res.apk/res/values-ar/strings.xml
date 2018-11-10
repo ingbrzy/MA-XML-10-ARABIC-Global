@@ -135,6 +135,7 @@
     <string name="security_permission_open_wifi_settings">فتح إعدادات Wi-Fi</string>
     <string name="xspace_resolver_activity_title">تحديد تطبيق</string>
     <string name="user_switching_dialog_text">يتم التبديل…</string>
+    <string name="xspace_head">التطبيق المزدوج</string>
     <string name="activity_package_delete_confirm_title">تنبيه</string>
     <string name="button_text_cancel">إلغاء</string>
     <string name="button_text_delete">إلغاء التثبيت</string>
@@ -161,7 +162,7 @@
     <string name="remain">المتبقي: %s</string>
     <string name="configure_input_methods">اختر لوحة المفاتيح</string>
     <string name="miui_upgrading_notification_title">تحميل النظام، وبعض المميزات قد لا تتوفر.</string>
-    <string name="miui_screen_ratio_hint">مشاكل ابعاد الشاشة</string>
+    <string name="miui_screen_ratio_hint">مشاكل أبعاد الشاشة</string>
     <string name="miui_screen_ratio_hint_message">يُسمح لهذا التطبيق بالتشغيل في وضع ملء الشاشة، وقد يؤدي ذلك إلى مشاكل في العرض، يمكنك تغيير هذا من الإعدادات> وضع ملء الشاشة.</string>
     <string name="miui_screen_ratio_hint_dont_show_again">لا تظهر مرة اخرى</string>
     <string name="miui_screen_ratio_hint_ok">موافق</string>

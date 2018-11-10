@@ -24,6 +24,14 @@
         <item quantity="few">قبل %d أيام</item>
         <item quantity="many">قبل %d يوم</item>
     </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">متوسط %1$s محطة</item>
+        <item quantity="zero">متوسط %1$s محطة</item>
+        <item quantity="one">متوسط %1$s محطة</item>
+        <item quantity="two">متوسط %1$s محطات</item>
+        <item quantity="few">متوسط %1$s محطات</item>
+        <item quantity="many">متوسط %1$s محطة</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">توقعات %1$s يوم</item>
         <item quantity="zero">توقعات %1$s يوم</item>
