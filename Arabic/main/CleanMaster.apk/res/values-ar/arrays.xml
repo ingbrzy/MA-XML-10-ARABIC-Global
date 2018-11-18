@@ -25,7 +25,7 @@
     </string-array>
     <string-array name="wechat_sort">
         <item>التاريخ</item>
-        <item>حجم</item>
+        <item>الحجم</item>
     </string-array>
     <string-array name="hide_installed_packages">
         <item>com.miui.klo.bugreport</item>

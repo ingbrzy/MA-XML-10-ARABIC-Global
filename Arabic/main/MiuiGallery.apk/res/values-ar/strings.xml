@@ -255,7 +255,7 @@
     <string name="cloudfolder_name_reserved">اسم الألبوم محفوظ</string>
     <string name="collage__talkback_effect">تأثير %d</string>
     <string name="collage_choose">تحديد</string>
-    <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+    <string name="collage_drawable_normal_date_format">yyyy/MM/dd</string>
     <string name="collage_drawable_rect_date_month_day">dd MMM</string>
     <string name="collage_drawable_rect_date_year">yyyy</string>
     <string name="collage_margin_text">هوامش</string>
@@ -287,10 +287,10 @@
     <string name="confirm_merge_face_albums">" "<Data> هل تريد دمج هذا الألبوم مع %s؟ </Data>" "</string>
     <string name="confirm_merge_many_face_albums">" "<Data> هل تريد دمج هذه الألبومات مع %s؟ </Data>" "</string>
     <string name="confirm_not_face">لا توجد نتائج متطابقة</string>
-    <string name="confirm_recommandation_face_is">" "<Data> متأكد أن هذا &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هذا الشخص إلى \"%2$s\" ألبوم. </Data>" "</string>
-    <string name="confirm_recommandation_face_not">" "<Data> متأكد أن هذا ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_are">" "<Data> متأكد أن هؤلاء f&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هؤلاء الاشخاص إلى \"%2$s\" ألبوم. </Data>" "</string>
-    <string name="confirm_recommandation_multiple_faces_not">" "<Data> متأكد أن هؤلاء ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ </Data>" "</string>
+    <string name="confirm_recommandation_face_is"><Data> متأكد أن هذا &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هذا الشخص إلى \"%2$s\" ألبوم. </Data>" "</string>
+    <string name="confirm_recommandation_face_not"><Data> متأكد أن هذا ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_are"><Data> متأكد أن هؤلاء f&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هؤلاء الاشخاص إلى \"%2$s\" ألبوم. </Data>" "</string>
+    <string name="confirm_recommandation_multiple_faces_not"><Data> متأكد أن هؤلاء ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ </Data>" "</string>
     <string name="contact_tip">جهة اتصال</string>
     <string name="context_menu_add_contact">إضافة إلى جهات الاتصال</string>
     <string name="context_menu_copy">نسخ</string>
@@ -478,6 +478,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -488,6 +489,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">ذكرى</string>
     <string name="filter_bi_mono">مونو</string>
     <string name="filter_bi_pink">وردي</string>
@@ -557,6 +559,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -756,6 +759,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">صور الحيوانات الأليفة</string>
     <string name="petabyteShort">بنتابايت</string>
     <string name="photo">الصور</string>
@@ -1017,6 +1021,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -1296,6 +1303,7 @@
     <string name="view_face_album">عرض الألبوم</string>
     <string name="view_more_face_desc">عرض المزيد من الأشخاص</string>
     <string name="voice_assistant">إدخال الصوت</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">مرحباً في Mi Cloud</string>
     <string name="where_is_barcode">أين رمز QR؟</string>
     <string name="who_is_this">من هذا؟</string>

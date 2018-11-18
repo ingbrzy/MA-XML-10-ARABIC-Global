@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -67,7 +85,7 @@
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>الأمثل لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
         <item>جودة الصوت والإتصال المتوازن (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
-        <item>الإفضل لجوده الاتصال (۳۳۰ كيلو بايت / ۳۰۳ كيلو بايت في الثانية)</item>
+        <item>تحسين سرعة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
@@ -186,18 +204,18 @@
         <item>يميل يمين</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>لا شيء</item>
+        <item>بدون</item>
         <item>480p</item>
         <item>(آمن) 480p</item>
         <item>720p</item>
-        <item>720p (آمن)</item>
+        <item>(آمن) 720p</item>
         <item>1080p</item>
-        <item>1080p (آمن)</item>
+        <item>(آمن) 1080p</item>
         <item>4K</item>
-        <item>4K (آمن)</item>
-        <item>4K (زيادة دقة)</item>
-        <item>4K (زيادة دقة، آمن)</item>
-        <item>720p، 1080p (شاشة مزدوجة)</item>
+        <item>(آمن) 4K</item>
+        <item>(زيادة دقة) 4K</item>
+        <item>(زيادة دقة، آمن) 4K</item>
+        <item>(شاشة مزدوجة) 720p، 1080p</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">

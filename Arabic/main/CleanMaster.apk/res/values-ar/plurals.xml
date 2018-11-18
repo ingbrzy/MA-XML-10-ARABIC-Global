@@ -177,12 +177,12 @@
         <item quantity="many">لم يستخدم لمدة %d سنة</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">" لم يتم استخدام تطبيق"&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة. ;&lt;/Data>" "</item>
-        <item quantity="zero">" لم يتم استخدام تطبيق"&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة. ;&lt;/Data>" "</item>
-        <item quantity="one">" لم يتم استخدام تطبيق"&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة. ;&lt;/Data>" "</item>
-        <item quantity="two">" لم يتم استخدام تطبيقات"&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة. ;&lt;/Data>" "</item>
-        <item quantity="few">" لم يتم استخدام تطبيقات"&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة. ;&lt;/Data>" "</item>
-        <item quantity="many">" لم يتم استخدام تطبيق"&lt;Data> &lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة. ;&lt;/Data>" "</item>
+        <item quantity="other">لم يتم استخدام تطبيق&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
+        <item quantity="zero">لم يتم استخدام تطبيق&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
+        <item quantity="one">لم يتم استخدام تطبيق&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
+        <item quantity="two">لم يتم استخدام تطبيقات&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
+        <item quantity="few">لم يتم استخدام تطبيقات&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
+        <item quantity="many">لم يتم استخدام تطبيق&lt;Data>&lt;font color=#ff0000 >%d&lt;/font> منذ مدة طويلة، إلق نظرة.;&lt;/Data></item>
     </plurals>
     <plurals name="clean_long_msg_p1">
         <item quantity="other">"مسح %1$d ملف (%2$d%%)

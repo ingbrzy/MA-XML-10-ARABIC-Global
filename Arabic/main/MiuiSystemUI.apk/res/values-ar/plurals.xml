@@ -97,28 +97,28 @@
         <item quantity="many">%1$d ساعة و %2$d دقيقة متبقية</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
-        <item quantity="other">%dساعات</item>
-        <item quantity="zero">%dساعات</item>
-        <item quantity="one">%dساعات</item>
-        <item quantity="two">%dساعات</item>
-        <item quantity="few">%dساعات</item>
-        <item quantity="many">%dساعات</item>
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">%d ساعات</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_min_time_format">
         <item quantity="other">%d دقيقة</item>
         <item quantity="zero">%d دقيقة</item>
         <item quantity="one">%d دقيقة</item>
-        <item quantity="two">%d دقيقة</item>
-        <item quantity="few">%d دقيقة</item>
+        <item quantity="two">%d دقائق</item>
+        <item quantity="few">%d دقائق</item>
         <item quantity="many">%d دقيقة</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">%1$dس %2$dدق</item>
-        <item quantity="zero">%1$dس %2$dدق</item>
-        <item quantity="one">%1$dس %2$dدق</item>
-        <item quantity="two">%1$dس %2$dدق</item>
-        <item quantity="few">%1$dس %2$dدق</item>
-        <item quantity="many">%1$dس %2$dدق</item>
+        <item quantity="other">%1$d س %2$d دق</item>
+        <item quantity="zero">%1$d س %2$d دق</item>
+        <item quantity="one">%1$d س %2$d دق</item>
+        <item quantity="two">%1$d س %2$d دق</item>
+        <item quantity="few">%1$d س %2$d دق</item>
+        <item quantity="many">%1$d س %2$d دق</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">تبقى %d ساعة</item>

@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">حزم</string>
     <string name="hints_residual_header_left">المخلفات</string>
     <string name="hints_memory_header_left">الذاكرة</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ملفات كبيرة: %d</string>
     <string name="hints_installed_apps_header_left">التطبيقات المثبتة: %d</string>
     <string name="toast_resolve_apk_error">حل خطأ apk</string>
@@ -299,6 +300,7 @@
     <string name="downloading">جارٍ التحميل</string>
     <string name="installing">جارٍ التثبيت</string>
     <string name="start_install">التثبيت الآن</string>
+    <string name="empty">" "</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
     <string name="connecting">جارٍ الاتصال…</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">لم يتم ايجاد الملف</string>
     <string name="app_usage_never">لم تستخدم مؤخرا</string>
     <string name="app_usage_recently">استخدم مؤخرا</string>
-    <string name="resutl_function_deep_clean_summary">" يمكن مسح المزيد من "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> ملفات لتفريغ المزيد من المساحة. </Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data> &lt;font color=#ff0000 >%1$s&lt;/font> من التخزين المؤقت للـWeChat. تفريغ المزيد من المساحة. </Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data> يمكنك حذف &lt;font color=#ff0000 >%1$s&lt;/font> من ذاكرة التخزين المؤقت الناتجة عن تطبيق QQ ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">" يمكن مسح المزيد من "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ملفات لتفريغ المزيد من المساحة.</Data>" "</string>
+    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> من التخزين المؤقت للـWeChat. تفريغ المزيد من المساحة.</Data>" "</string>
+    <string name="resutl_function_qq_clean_summary">" "<Data>يمكنك حذف &lt;font color=#ff0000 >%1$s&lt;/font> من ذاكرة التخزين المؤقت الناتجة عن تطبيق QQ;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">حول المنظف</string>
@@ -551,16 +553,16 @@
     <string name="toast_updater_open_4g_text">سيتم تحديث التطبيقات باستخدام بيانات الجوال (4G)</string>
     <string name="toast_updater_close_4g_text">لن يتم تحديث التطبيقات باستخدام بيانات الجوال (4G)</string>
     <string name="facebook_cleaner">منطف الفيسبوك</string>
-    <string name="facebook_group_image">صور</string>
+    <string name="facebook_group_image">الصور</string>
     <string name="facebook_group_video">الفيديوهات</string>
-    <string name="facebook_group_gif">GIF</string>
-    <string name="facebook_group_cache">ملفات ذاكرة التخزين المؤقت</string>
+    <string name="facebook_group_gif">GIFs</string>
+    <string name="facebook_group_cache">ملفات الذاكرة المؤقتة</string>
     <string name="app_clean_group_image_send">الصور المرسلة</string>
     <string name="app_clean_group_image_recv">الصور المستلمة</string>
     <string name="app_clean_group_document_send">الملفات المرسلة</string>
     <string name="app_clean_group_document_recv">الملفات المستلمة</string>
-    <string name="facebook_clean_exit_confirm_title">إيقاف البحث ؟</string>
-    <string name="facebook_clean_exit_confirm_msg">لم ينته فحص الفيسبوك بعد. إيقاق الفحص الآن؟</string>
+    <string name="facebook_clean_exit_confirm_title">إيقاف الفحص؟</string>
+    <string name="facebook_clean_exit_confirm_msg">لم ينتهي فحص الفيسبوك بعد. إيقاف الفحص الآن؟</string>
     <string name="facebook_clean_exit_confirm_cancel">متابعة الفحص</string>
     <string name="facebook_clean_exit_confirm_ok">إيقاف</string>
 </resources>
