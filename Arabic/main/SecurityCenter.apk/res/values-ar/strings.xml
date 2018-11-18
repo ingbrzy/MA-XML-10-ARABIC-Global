@@ -19,9 +19,7 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -462,7 +460,6 @@
     <string name="not_limited_brand">غير محدودة</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
     <string name="pref_traffic_manage_title">استخدام البيانات</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_adjust_traffic_data">تعيين استخدام البيانات</string>
     <string name="pref_category_title_other">إعدادات إضافية</string>
@@ -964,7 +961,6 @@
     <string name="om_settings_memory_occupy_notify_never">أبداً</string>
     <string name="om_lock_app_locked_app">مقفل</string>
     <string name="om_lock_app_unlocked_app">إلغاء القفل</string>
-    <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_not_finish_speedboost">زيادة السرعة مطلوبه</string>
     <string name="om_running_locked_apps">التطبيقات المشغلة المقفلة</string>
     <string name="om_running_system_apps">تطبيقات النظام المشغلة</string>
@@ -1014,7 +1010,6 @@
     <string name="usage_type_data_send">بيانات الجوال المرسلة</string>
     <string name="usage_type_no_coverage">الوقت بدون إشارة</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">أندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="power_screen">الشاشة</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1231,17 +1226,12 @@
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
-    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
     <string name="power_center_stop_scan_title">إيقاف الفحص</string>
     <string name="hide_mode_result_summary_text">تخصيص إعدادات موفر البطارية للتطبيقات الفردية</string>
     <string name="auto_task_result_summary_text">تعيين مهام تلقائية لموفر البطارية</string>
     <string name="pc_settings_title">إعدادات إستخدام البطارية</string>
     <string name="pc_main_activity_back">رجوع</string>
     <string name="extreme_power_save_mode_card_summary">تشغيل وضع الحد الأقصى لتوفير الطاقة عند انخفاض البطارية.</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
     <string name="handle_bar_title_system">النظام</string>
     <string name="apps_list_header_title_sms">التحقق من تطبيق الرسائل</string>
     <string name="apps_list_header_title_sms_access">تقييد الوصول إلى رموز التحقق</string>
@@ -1395,13 +1385,11 @@
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_summary_networkassistants">إدارة خطة بياناتك</string>
-    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">تم تجاوز الحد</string>
     <string name="menu_summary_networkassistants_3">بيانات كافية</string>
     <string name="menu_summary_networkassistants_4">البيانات على وشك النفاذ</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_networkassistants_unit_kb">ك.ب</string>
@@ -1414,14 +1402,12 @@
     <string name="menu_summary_garbage_cleanup">لا توجد مهملات</string>
     <string name="menu_summary_garbage_cleanup_2">حجم المهملات</string>
     <string name="menu_summary_garbage_cleanup_3">حذف المهملات الآن</string>
-    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">استخدام البطارية</string>
     <string name="menu_summary_power_manager">يمنحك موفر البطارية مزيدًا من الوقت بين فترات الشحن</string>
     <string name="menu_summary_power_manager_1">البطارية مشحونة بالكامل</string>
     <string name="menu_summary_power_manager_2">%s متبقي</string>
     <string name="menu_summary_power_manager_3">قم بتوصيل الشاحن</string>
     <string name="menu_summary_power_manager_4">%s حتى يكتمل الشحن</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">تم إلغاء الفحص السابق</string>
     <string name="examination_score_100">يبدو كل شيء جيداً!</string>
     <string name="examination_score_80_100">يمكن تحسين بعض العناصر</string>
@@ -1797,7 +1783,6 @@
     <string name="card_main_deepclean_wechat_action">حذف</string>
     <string name="card_main_sectool_title">الأدوات</string>
     <string name="card_main_monthreport_action">عرض</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">اختبار الشبكة</string>
     <string name="card_main_netcheck_summary">اختبار الاتصال لمشاكل الشبكة</string>
     <string name="card_main_netcheck_action">اختبار</string>
@@ -2351,7 +2336,6 @@
     <string name="gb_create_icon_summary">إنشاء اختصار في الشاشة الرئيسية</string>
     <string name="title_reply">تعليق</string>
     <string name="title_like">اعجاب</string>
-    <string name="ellipsis">…</string>
     <string name="game_video_net_data">بيانات الجوال</string>
     <string name="game_wid_viewpoint_buttom">خذ استراحة قصيرة.</string>
     <string name="video_repeat">إعادة التشغيل</string>
