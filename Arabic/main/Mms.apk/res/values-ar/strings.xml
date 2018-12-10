@@ -82,6 +82,16 @@
     <string name="cloud_state_sync_finished">تمت المزامنة مع Mi Cloud</string>
     <string name="cloud_state_syncing">جارٍ المزامنة مع …Mi Cloud</string>
     <string name="cmcc_privacy">اتفاقية خصوصية China Mobile</string>
+    <string name="complain_input_number">أدخل رقم هاتفك</string>
+    <string name="complain_jump">تخطي</string>
+    <string name="complain_message_title">إبلاغ</string>
+    <string name="complain_ok">موافق</string>
+    <string name="complain_phone_number">رقم الهاتف</string>
+    <string name="complain_reason">لماذا يتم الإبلاغ عن هذه الرسالة؟</string>
+    <string name="complain_success">شكرا لملاحظاتك. يساعدنا ذلك في جعل تطبيق الرسائل أفضل!</string>
+    <string name="complain_tips">"سيتم تحميل محتوى أحدث الرسائل التي قمت بالإبلاغ عنها إلى خوادمنا بالإضافة إلى رقم الهاتف الذي قدمته. سيراجع مقدمي الخدمات لدينا ذلك. 
+"</string>
+    <string name="complain_upload">تم إرسال الإبلاغ</string>
     <string name="compressing">الصورة كبير للغاية. جارٍ الضغط…</string>
     <string name="confirm">موافق</string>
     <string name="confirm_add_blacklist_dialog_dspt">إضافة هذا الرقم إلى قائمة الحظر الخاصة بك؟</string>
@@ -144,7 +154,6 @@
     <string name="dialog_message_mx">تسمح لك رسالة Mi بإرسال رسائل مجانية لمستخدمي MIUI الآخرين. قد تحتاج إلى إرسال رسالة نصية قصيرة لإعادة تفعيل رسالة Mi. وقد تفرض عليك شركة الاتصالات رسوما على هذه الرسالة. يجب عليك الموافقة على \"%1$s\" و \"%2$s\" قبل استخدام رسالة Mi.</string>
     <string name="dialog_message_networking">يحتاج تطبيق الرسائل إلى استخدام الصفحات الصفراء ليتمكن من تقديم معرف هوية المرسل. وتحتاج الرسائل والصفحات الصفراء إلى الاتصال بالإنترنت والوصول إلى موقعك للعمل بشكل طبيعي. السماح؟</string>
     <string name="dialog_message_rcs">تسمح لك رسائل China Mobile بإرسال رسائل مجانية إلى مستخدمي China Mobile الآخرين في البر الرئيسي للصين. يجب عليك أولاً الموافقة على \"%1$s\" قبل استخدام رسائل China Mobile.</string>
-    <string name="dialog_message_sms_report">سيتم رفع الرسائل المزعجة و معلومات المرسل إلى MIUI عند إبلاغك عنها. سيتم استخدامها فقط لتحسين مرشحات البريد المزعج لـ MIUI.</string>
     <string name="dialog_title_fake_cell_detect_error">تصحيح</string>
     <string name="dialog_title_mx_rcs">رسالة Mi</string>
     <string name="dialog_title_networking">الأحكام والشروط</string>
@@ -179,7 +188,6 @@
     <string name="error_timed_msg">وقت غير صالح</string>
     <string name="ex_type_mx">رسالة Mi</string>
     <string name="ex_type_sms">SMS/MMS</string>
-    <string name="exceed_length_limit">超出最大长度界限</string>
     <string name="exceed_message_size_limitation">حجم الرساله وصل للحد الأقصى.</string>
     <string name="exceed_message_size_limitation_add_slide">"حجم الرسالة  ليس كافي لإضافة شريحة"</string>
     <string name="exceed_message_text_limitation">تم الوصول إلى الحد الأقصى لطول الرسالة.</string>
@@ -202,6 +210,7 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_message_select_title">إعادة توجيه الرسالة</string>
@@ -214,15 +223,15 @@
     <string name="found_wild_messages_title">مزامنة الرسائل من Mi Cloud</string>
     <string name="from_label">"من: "</string>
     <string name="from_pkg_name">من التطبيق:</string>
-    <string name="group_already_kicked_hint">你不在这个群里，无法发送消息</string>
+    <string name="group_already_kicked_hint">لا يمكن إرسال الرسائل. لست عضو في هذه الدردشة.</string>
     <string name="group_message">رسالة جماعية</string>
-    <string name="group_message_title">群聊消息</string>
-    <string name="group_not_exist_hint">群已经被解散了，无法发送消息</string>
-    <string name="group_notify_message_title">群通知消息</string>
-    <string name="group_rejoin_failed">群操作失败</string>
+    <string name="group_message_title">الدردشات الجماعية</string>
+    <string name="group_not_exist_hint">لا يمكن إرسال الرسائل. تم حذف هذه الدردشة.</string>
+    <string name="group_notify_message_title">إشعارات الدردشة الجماعية</string>
+    <string name="group_rejoin_failed">لا يمكن الانضمام إلى الدردشة الجماعية</string>
     <string name="group_resend_message">إعادة إرسال (%d)</string>
-    <string name="group_view_settings_disolved">群已经被解散，无法查看群资料</string>
-    <string name="group_view_settings_not_memeber">不在这个群里，无法查看群资料</string>
+    <string name="group_view_settings_disolved">لا يمكن عرض العناصر. تم حذف هذه الدردشة.</string>
+    <string name="group_view_settings_not_memeber">لا يمكن عرض العناصر. لست عضو في هذه الدردشة.</string>
     <string name="guild_add_attachments">انقر لإضافة تعبيرات وعناصر أخرى</string>
     <string name="guild_add_recipients">انقر لإضافة مستلمين من جهات الاتصال</string>
     <string name="guild_msim_switcher">انقر لتبديل بطاقات SIM</string>
@@ -300,7 +309,7 @@
     <string name="mms">MMS</string>
     <string name="move_down">تحريك لأسفل</string>
     <string name="move_up">تحريك للأعلى</string>
-    <string name="msg_no_member_selected">请至少选择一个联系人.</string>
+    <string name="msg_no_member_selected">حدد جهة اتصال ١ على الأقل</string>
     <string name="msg_type_hint_mms">رسالة وسائط متعددة(MMS)</string>
     <string name="msg_type_hint_mms_omit">رسالة وسائط متعددة(MMS)</string>
     <string name="msg_type_hint_mx">رسالة Mi</string>
@@ -434,7 +443,6 @@
     <string name="pref_sms_storage_title">التخزبن</string>
     <string name="pref_sms_theme_title">عرض</string>
     <string name="pref_summary_allow_si_sl_push">السماح للرسائل بتحميل المحتوى من مواقع الويب</string>
-    <string name="pref_summary_allow_upload_message_info">سيتم رفع الرسائل المزعجة و معلومات المرسل إلى MIUI عند إبلاغك عنها.</string>
     <string name="pref_summary_auto_delete">حذف الرسائل القديمة عند الوصول إلى الحد الأقصى</string>
     <string name="pref_summary_delete_limit">%1$sمن الرسائل لكل محادثة</string>
     <string name="pref_summary_delivery_reports">عرض تقارير التسليم لجميع الرسائل المرسلة</string>
@@ -451,7 +459,6 @@
     <string name="pref_switch_sdk_setting">تبديل مزود خدمة رسائل (SMS) الذكية</string>
     <string name="pref_system_title">النظام</string>
     <string name="pref_title_allow_si_sl_push">السماح برسائل WAP push (SI/SL)</string>
-    <string name="pref_title_allow_upload_message_info">تحميل الرسائل المزعجة</string>
     <string name="pref_title_auto_delete">حذف الرسائل القديمة</string>
     <string name="pref_title_card_format">مشاركة شكل البطاقة</string>
     <string name="pref_title_delivery_reports">حالة التسليم</string>
@@ -505,19 +512,19 @@
     <string name="rcs_auto_resend_sms">التحويل إلى رسالة SMS</string>
     <string name="rcs_auto_resume">استئناف عمليات التحميل المتقطعة تلقائيًا</string>
     <string name="rcs_auto_resume_only_by_wifi">إعادة التحميل فقط عند الاتصال بشبكة Wi-Fi</string>
-    <string name="rcs_create_new_group">新建群聊</string>
+    <string name="rcs_create_new_group">إنشاء دردشة جماعية</string>
     <string name="rcs_dspt">ارسال واستلام الرسائل بإستخدام Wi-Fi أو شبكة China Mobile</string>
     <string name="rcs_dspt_unavailable">لا يمكن استخدام هذه الميزة الآن. بطاقة SIM China Mobile ليست بطاقة البيانات الافتراضية.</string>
     <string name="rcs_forward_faild">تعذر إعادة التوجيه</string>
     <string name="rcs_forward_successful">تم إعادة التوجيه بنجاح</string>
-    <string name="rcs_group_notification_invitation">群邀请</string>
+    <string name="rcs_group_notification_invitation">دعوة للدردشة الجماعية</string>
     <string name="rcs_message">رسائل China Mobile</string>
     <string name="rcs_message_disable">لا يمكن عرض هذه الرسالة في المساحة الثانية</string>
     <string name="rcs_msg">رسائل China Mobile</string>
     <string name="rcs_not_online">لا يمكن استخدام رسائل China Mobile. تحقق من إعدادات الشبكة وحاول مرة أخرى.</string>
     <string name="rcs_offline_hint">رسائل China Mobile غير متصلة. لا يمكن إعادة التوجيه.</string>
     <string name="rcs_recipient_type_contact">إعادة التوجيه إلى جهة اتصال</string>
-    <string name="rcs_recipient_type_group">转发到群</string>
+    <string name="rcs_recipient_type_group">إعادة توجيه إلى الدردشة الجماعية</string>
     <string name="rcs_recipient_type_pc">إعادة التوجيه إلى جهاز الكمبيوتر</string>
     <string name="rcs_resend_not_online">غير قادر على استخدام رسائل China Mobile</string>
     <string name="rcs_resend_sim_card_not_insert">يبدو أنه لم يتم تثبيت بطاقة SIM</string>
@@ -634,6 +641,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
@@ -665,7 +673,6 @@
     <string name="sms_full_title">ذاكرة الرسائل القصيرة ممتلئة</string>
     <string name="sms_rejected_body">تم رفض رسالة نصية واردة.</string>
     <string name="sms_rejected_title">تم رفض الرسالة النصية</string>
-    <string name="sms_report">الإبلاغ عن الرسائل المزعجة</string>
     <string name="sms_report_dialog_content">تعذر إرسال التقرير، حاول مرة أخرى.</string>
     <string name="sms_report_dialog_retry">حاول مجددا</string>
     <string name="sms_report_dialog_title">حاول مجددا</string>

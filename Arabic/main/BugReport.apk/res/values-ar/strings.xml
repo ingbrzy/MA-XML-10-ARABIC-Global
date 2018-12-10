@@ -46,7 +46,6 @@
     <string name="michat_cant_join_artificial">تعذر الاتصال وذلك لخطأ في الشبكة</string>
     <string name="michat_lose_artificial">حدث خطأ في الشبكة، لقد تركت الدردشة</string>
     <string name="michat_transfer_message">جارٍ إيجاد شخص لمساعدتك…</string>
-    <string name="michat_queue_pos_update">يوجد %1$d شخص أمامك، انتظر للحظة…</string>
     <string name="michat_in_artificial_customer_state">لا يمكن عمل هذا في حين يجري المساعدة من قبل شخص</string>
     <string name="michat_pull_to_refresh_pull_label">اسحب لأسفل لعرض السجل</string>
     <string name="michat_pull_to_refresh_release_label">حرر لعرض السجل</string>
@@ -57,6 +56,7 @@
     <string name="save_pic_success">حفظ الصورة إلى %s</string>
     <string name="save_pic_fail">تعذر حفظ الصورة. تحقق من بطاقة الـ SD الخاصة بك</string>
     <string name="pic_not_exist">هذه الصورة غير موجودة</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">تحديد منتج</string>
     <string name="michat_skillset_business_type_title">تحديد خدمة</string>
     <string name="michat_close_text">انتهت الدردشة</string>
@@ -132,7 +132,6 @@
     <string name="toast_report_sent_failed">تعذر إرسال التقرير</string>
     <string name="toast_report_copied_to_clipboard">تم نسخ التقرير إلى الحافظة</string>
     <string name="toast_description_required">تحتاج إلى كتابة وصف</string>
-    <string name="toast_feedbackservice_in_submit">جارٍ معالجة التقارير السابقة…</string>
     <string name="toast_pending_log_collection">لايزال يتم تجميع السجلات…</string>
     <string name="toast_feedback_submitted">تم إرسال التقرير</string>
     <string name="toast_feedback_submitting">جار الإرسال…</string>
@@ -161,7 +160,7 @@
     <string name="cta_cancel">إلغاء</string>
     <string name="cta_confirm">موافق</string>
     <string name="submit_dialog_title">ارسال تقرير</string>
-    <string name="submit_dialog_content"><Data>سيتم إرسال تقريرك مع المرفقات والسجلات إلى خوادم MIUI. وقد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.</Data></string>
+    <string name="submit_dialog_content"><Data>يجب عليك قبول &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a> لدينا لتتمكن من استخدام تطبيق الإبلاغ عن خلل. سيتم تحميل المشكلات التي تقوم بالإبلاغ عنها مع العناصر التي تقوم بإرفاقها (قد تحتوي على البيانات الشخصية، بالإضافة إلى معلومات حول جهازك وشبكتك) إلى خوادم MIUI. سيساعدنا ذلك في العثور على المشكلات التي تبلغ عنها وحلها.</Data></string>
     <string name="submit_dialog_content_global"><Data>سيتم إرسال تقريرك مع المرفقات (إن وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد تحميلها) إلى خوادم MIUI وقسم مقيد من منتدى MIUI للمطورين. سيتم أيضًا جمع تعليقاتك ومعلومات نشاطك في المنتدى لتحليلها ولمزيد من التواصل. قد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.</Data></string>
     <string name="submit_dialog_cancel">غير موافق</string>
     <string name="submit_dialog_confirm">موافق</string>
@@ -247,6 +246,7 @@
     <string name="feedback_contact_info_hint">رقم الهاتف/البريد الإلكتروني</string>
     <string name="toast_loading_app_id">جار الحصول على المعلومات…</string>
     <string name="feedback_status_commit_succ_title">تم الإرسال</string>
+    <string name="feedback_status_commit_in_queue_title">جارٍ الانتظار…</string>
     <string name="feedback_status_commit_uploading_title">جار الإرسال…</string>
     <string name="feedback_status_commit_failed_title">تعذر ارسال التقرير</string>
     <string name="feedback_status_processing">جارٍ المعالجة…</string>
@@ -333,6 +333,7 @@
     <string name="customer_service_station">خدمة المواقع</string>
     <string name="title_catch_full_log">السجلات</string>
     <string name="toast_catch_full_log_catching">يمكنك فقط إنشاء سجل واحد في كل مرة.</string>
+    <string name="toast_catch_full_log_open_failed">تعذر بدء تسجيل السجل.</string>
     <string name="catch_full_log_item_title_signal">الهاتف والإشارة وشبكات الهاتف</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi و Mi Drop</string>
     <string name="catch_full_log_item_title_gps">خدمات الموقع</string>
@@ -350,7 +351,7 @@
     <string name="catch_full_log_action_start">إنشاء السجل</string>
     <string name="catch_full_log_action_complete">إنهاء وتحميل</string>
     <string name="catch_full_log_action_cancel">إلغاء</string>
-    <string name="catch_full_log_dialog_content">يقوم MIUI بإنشاء السجل. قد يؤثر هذا على الأداء العام لجهازك. إذا لم تتمكن من إعادة إظهار/انتاج المشكلة التي تريد الإبلاغ عنها ، فارجع إلى السجلات وانقر على \"إلغاء\".</string>
+    <string name="catch_full_log_dialog_content">يقوم MIUI بإنشاء سجل. قد يؤثر هذا على الأداء العام لجهازك. إذا لم تتمكن من إعادة إظهار/انتاج المشكلة التي تريد الإبلاغ عنها، فارجع إلى السجلات وانقر على \"إلغاء\".</string>
     <string name="catch_full_log_dialog_confirm_text">انتقل إلى الشاشة الرئيسية</string>
     <string name="catch_full_log_notification_title">جارٍ إنشاء السجل…</string>
     <string name="catch_full_log_notification_content">انقر للرجوع إلى السجلات</string>

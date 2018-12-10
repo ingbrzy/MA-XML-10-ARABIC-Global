@@ -203,7 +203,7 @@
     <string name="tap_to_exposure">انقر لضبط التعرض يدويا</string>
     <string name="accessibility_shutter_button">زر التصوير</string>
     <string name="accessibility_intent_done_apply">تم</string>
-    <string name="accessibility_intent_done_retry">إعادة التصوير</string>
+    <string name="accessibility_intent_done_retry">إعادة المحاولة</string>
     <string name="accessibility_review_thumbnail">أحدث صورة</string>
     <string name="accessibility_camera_picker">تبديل الكاميرا الأمامية والخلفية</string>
     <string name="accessibility_stereo_button">ضبط التركيز</string>
@@ -261,13 +261,12 @@
     <string name="pref_camera_referenceline_title">عرض خطوط الشبكة</string>
     <string name="pref_camera_volumekey_function_entry_volume">مستوى الصوت</string>
     <string name="pref_camera_volumekey_function_entry_shutter">التصوير</string>
+    <string name="pref_camera_volumekey_function_entry_timer">العد التنازلي للقطة الكاميرا</string>
     <string name="pref_camera_volumekey_function_entry_zoom">التكبير/التصغير</string>
-    <string name="pref_camera_volumekey_function_entry_exposure">التعرض</string>
     <string name="pref_camera_volumekey_function_title">وظيفة أزرار الصوت</string>
     <string name="error_fail_to_start_audio_capture">تعذر بدء تشغيل التقاط الصوت</string>
     <string name="toast_start_audio_capture">إصدار صوت لالتقاط صورة</string>
     <string name="record_back_pressed_hint">المس مرة أخرى لإيقاف التسجيل</string>
-    <string name="toast_burst_snap_finished_summary">اكتملت اللقطة السريعة، تم التقاط %1$s صور</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">لا يمكن استخدام اللقطات المتسلسة أثناء تشغيل التقاط الصوت</string>
     <string name="time_lapse_error">لا يمكن استخدام حجم الفيديو هذا لتسجيل التقطع الزمني</string>
     <string name="pref_camera_movie_solid_title">استقرار الصورة</string>
@@ -429,12 +428,13 @@
     <string name="pref_camera_portrait_mode_title">وضع بورتريه</string>
     <string name="pref_camera_portrait_mode_entry_off">وضع بورتريه متوقف</string>
     <string name="pref_camera_portrait_mode_entry_on">وضع بورتريه مشغل</string>
-    <string name="portrait_mode_lowlight_hint">انه الآن مظلم جدا</string>
+    <string name="portrait_mode_lowlight_hint">هذا مظلم جدا</string>
     <string name="portrait_mode_too_close_hint">تحرك لمسافة أبعد من الجسم</string>
-    <string name="portrait_mode_too_far_hint">حدد عنصر على بعد ٢ متر</string>
+    <string name="portrait_mode_too_far_hint">ضع الهدف في حدود ٢ متر</string>
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"جرب وضع البورتريه.
 اجعل الشخص أو الشيء واضح أثناء تشويش الخلفية."</string>
     <string name="pref_camera_square_mode_title">مربع</string>
@@ -451,6 +451,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -569,5 +570,5 @@
     <string name="portrait_bokeh_text">وضع البورتريه</string>
     <string name="portrait_bokeh_first_tips">"استخدم وضع البورتريه لتشويش
  الخلفية في الصور"</string>
-    <string name="portrait_bokeh_tips">حدد عنصر على بعد ١.٥ متر</string>
+    <string name="portrait_bokeh_tips">ضع الهدف في حدود ١.٥ متر</string>
 </resources>

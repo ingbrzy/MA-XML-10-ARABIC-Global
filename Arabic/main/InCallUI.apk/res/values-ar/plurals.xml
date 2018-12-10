@@ -25,12 +25,12 @@
         <item quantity="many">تم تسجيل %d مكالمة.</item>
     </plurals>
     <plurals name="antispam_marked_count">
-        <item quantity="other">تم الأبلاغ من %d مستخدم MIUI</item>
-        <item quantity="zero">تم الأبلاغ من %d مستخدم MIUI</item>
-        <item quantity="one">تم الأبلاغ من %d مستخدم MIUI</item>
-        <item quantity="two">تم الأبلاغ من %d مستخدم MIUI</item>
-        <item quantity="few">تم الأبلاغ من %d مستخدم MIUI</item>
-        <item quantity="many">تم الأبلاغ من %d مستخدم MIUI</item>
+        <item quantity="other">تم الابلاغ من %d مستخدم MIUI</item>
+        <item quantity="zero">تم الابلاغ من %d مستخدم MIUI</item>
+        <item quantity="one">تم الابلاغ من %d مستخدم MIUI</item>
+        <item quantity="two">تم الابلاغ من %d مستخدم MIUI</item>
+        <item quantity="few">تم الابلاغ من %d مستخدم MIUI</item>
+        <item quantity="many">تم الابلاغ من %d مستخدم MIUI</item>
     </plurals>
     <plurals name="duration_seconds">
         <item quantity="other">%d ثانية</item>

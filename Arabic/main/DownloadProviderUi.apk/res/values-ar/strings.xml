@@ -4,9 +4,9 @@
     <string name="button_sort_by_date">حسب التاريخ</string>
     <string name="button_sort_by_size">حسب الحجم</string>
     <string name="cancel_running_download">إلغاء</string>
-    <string name="common_google_play_services_enable_button">تمكين</string>
-    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
-    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_button">تفعيل</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
     <string name="common_google_play_services_install_button">تثبيت</string>
     <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
     <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>

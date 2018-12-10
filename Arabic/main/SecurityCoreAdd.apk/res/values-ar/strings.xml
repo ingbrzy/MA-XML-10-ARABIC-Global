@@ -435,4 +435,26 @@
     <string name="install_error">تعذر التثبيت. إعد المحاولة.</string>
     <string name="ent_install_dialog_content">تثبيت التطبيقات وإعادة تشغيل جهازك الآن؟</string>
     <string name="ent_disallow_running">هذا التطبيق ممنوع من التشغيل</string>
+    <string name="greenguard_child_des_title">أحتاج مساعدة من أصدقائي وعائلتي</string>
+    <string name="greenguard_child_des">استخدم التطبيق لدينا لتبقى متصلاً</string>
+    <string name="greenguard_parent_des_title">أحتاج مساعدة من أصدقائي وعائلتي</string>
+    <string name="greenguard_parent_des">تنزيل التطبيق لدينا وإضافة أجهزة أخرى</string>
+    <string name="cta_declaration_title">الأحكام و الشروط</string>
+    <string name="cta_declaration_message_format" formatted="false">يجب عليك قراءة وقبول &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> لدينا قبل استخدام وضع المؤسسة. يحتاج الجهاز إلى الاتصال بالإنترنت لتفعيل وضع المؤسسة. موافق؟</string>
+    <string name="cta_declaration_agree_and_continue">أوافق</string>
+    <string name="undo_activated_dialog_message">يؤدي إلغاء الترخيص إلى تعطيل وضع المؤسسة وإعادة ضبط جهازك على إعدادات المصنع. جميع الميزات ذات الصلة لن تكون متاحة. بالإضافة إلى ذلك، ستتوقف Xiaomi عن جمع البيانات المطلوبة لوضع المؤسسة (IMEI، ومعرف الجهاز، وإصدار النظام، والمنطقة، وما إلى ذلك). نذكركم أن Xiaomi لا تقوم بإدارة البيانات التي تم جمعها لوضع المؤسسة. سنبذل قصارى جهدنا لإخطار الأطراف المهتمة، ومع ذلك، نوصيك بالاتصال بمشرفي الشركة للموافقة على هذه المراجعة. إلغاء الترخيص وإعادة الضبط على إعدادات المصنع؟</string>
+    <string name="undo_activated_dialog_ok">إلغاء الترخيص</string>
+    <string name="undo_grant_dialog_message">ستتوقف Xiaomi عن جمع البيانات المطلوبة لهذه الميزة (IMEI، ومعرف الجهاز، وإصدار النظام، والمنطقة، وما إلى ذلك) بعد إلغاء الترخيص. إلغاء الترخيص الآن؟</string>
+    <string name="undo_privacy_menu">إلغاء الترخيص</string>
+    <string name="more_settings">المزيد</string>
+    <string name="undo_success">تم إلغاء الترخيص بنجاح</string>
+    <string name="master_clear_apply_title">تنبيه</string>
+    <string name="master_clear_apply_step_1">لإلغاء الترخيص، تحتاج إلى إعادة ضبط جهازك على إعدادات المصنع. سيؤدي ذلك إلى حذف جميع الملفات والبيانات نهائيًا، بما في ذلك الحسابات وجهات الاتصال والصور والتطبيقات. قبل إلغاء الترخيص، قم بعمل نسخة احتياطية من جميع البيانات المهمة على جهاز الكمبيوتر الخاص بك.</string>
+    <string name="master_clear_apply_step_2">تأكد من تخزين كافة العناصر المهمة على جهاز الكمبيوتر الخاص بك. بعد النقر على \"موافق\"، سيتم إعادة ضبط جهازك على إعدادات المصنع مع إزالة جميع الملفات والبيانات، بما في ذلك الحسابات وجهات الاتصال والصور والتطبيقات.</string>
+    <string name="button_text_next_step">التالي</string>
+    <string name="button_text_next_step_timer">الخطوة التالية (%d)</string>
+    <string name="dialog_tip_need_network">يحتاج الجهاز الاتصال بالإنترنت لإلغاء الترخيص.</string>
+    <string name="dialog_undo_negative">لا تلغي الترخيص</string>
+    <string name="dialog_title_service_error">خطأ في الخادم</string>
+    <string name="dialog_message_service_error">تعذر إلغاء الترخيص وإعادة ضبط جهازك على إعدادات المصنع. المحاولة مجدداً</string>
 </resources>

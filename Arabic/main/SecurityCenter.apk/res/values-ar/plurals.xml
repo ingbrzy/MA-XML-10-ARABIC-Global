@@ -532,6 +532,30 @@
         <item quantity="few">"انتظر لمدة %d ثواني ثم حاول مرة أخرى. "</item>
         <item quantity="many">"انتظر لمدة %d ثانية ثم حاول مرة أخرى. "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">قم بتوصيل %d نقطة على الاقل</item>
+        <item quantity="zero">قم بتوصيل %d نقطة على الاقل</item>
+        <item quantity="one">قم بتوصيل %d نقطة على الاقل</item>
+        <item quantity="two">قم بتوصيل %d نقاط على الاقل</item>
+        <item quantity="few">قم بتوصيل %d نقاط على الاقل</item>
+        <item quantity="many">قم بتوصيل %d نقطة على الاقل</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">أدخل %d رقم على الأقل</item>
+        <item quantity="zero">أدخل %d رقم على الأقل</item>
+        <item quantity="one">أدخل %d رقم على الأقل</item>
+        <item quantity="two">أدخل %d أرقام على الأقل</item>
+        <item quantity="few">أدخل %d أرقام على الأقل</item>
+        <item quantity="many">أدخل %d رقم على الأقل</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">أدخل %d حرف على الأقل</item>
+        <item quantity="zero">أدخل %d حرف على الأقل</item>
+        <item quantity="one">أدخل %d حرف على الأقل</item>
+        <item quantity="two">أدخل %d حروف على الأقل</item>
+        <item quantity="few">أدخل %d حروف على الأقل</item>
+        <item quantity="many">أدخل %d حرف على الأقل</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d تطبيق</item>
         <item quantity="zero">%d تطبيقات</item>

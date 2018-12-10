@@ -46,9 +46,12 @@
     <string name="customization"><u>تخصيص</u></string>
     <string name="home_hint_global_launcher">مشغل POCO</string>
     <string name="home_hint_other_launcher">مشغل أخر</string>
-    <string name="self_device">"هذا جهاز  "</string>
-    <string name="main_space">الواجهة الاولى</string>
-    <string name="second_space">الواجهة الثانية</string>
+    <string name="self_device_main_space">الواجهة الاولى لهذا الهاتف</string>
+    <string name="self_device_second_space">الواجهة الثانية لهذا الهاتف</string>
+    <string name="other_device_main_space">الواجهة الاولى</string>
+    <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="size_unknown">حجم غير معروف</string>
     <string name="recovering">استعادة \"%s\"</string>
@@ -130,6 +133,8 @@
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
     <string name="loading_user_backup">جارٍ تحميل النسخ الاحتياطية…</string>
+    <string name="loading_progress_num">(%s%%)</string>
+    <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">تعذر التحقق من الحساب.</string>
     <string name="no_account">لم تقم بتسجيل الدخول إلى حساب Mi.</string>
     <string name="no_backup">لا توجد نُسخ احتياطية في Mi Cloud.</string>
@@ -137,7 +142,7 @@
     <string name="home_restore_error">تعذر استعادة الشاشة الرئيسية</string>
     <string name="get_device_id_error">تعذر الحصول على معرف الجهاز</string>
     <string name="unsupported_home">تحديث MIUI إلى أحدث إصدار.</string>
-    <string name="error_retry_later">تعذر اكمال هذا الأجراء. انتظر دقيقة أو دقيقتين ثم حاول مجدداً..</string>
+    <string name="error_retry_later">تعذر اكمال هذا الأجراء. انتظر دقيقة أو دقيقتين ثم حاول مجدداً…</string>
     <string name="try_continue">انقر للمتابعة</string>
     <string name="download_home_data">جارٍ تنزيل تنسيق الشاشة الرئيسية…</string>
     <string name="restore_home_failed">تعذر استعادة الشاشة الرئيسية.</string>
@@ -154,6 +159,9 @@
     <string name="dialog_msg_restore_require_wlan">يتطلب استعادة النسخ الاحتياطية الاتصال بشبكة Wi-Fi.</string>
     <string name="dialog_btn_next">التالي</string>
     <string name="dialog_btn_restore_skip">استعادة لاحقاً</string>
+    <string name="dialog_btn_cancel_backup">إلغاء</string>
+    <string name="dialog_btn_overwrite_backup">كتابة فوقية</string>
+    <string name="dialog_msg_overwrite_backup">تختلف النسخة الاحتياطية المحلية عن النسخة في Mi Cloud. إذا قمت بالمتابعة، فإن النسخة الحالية ستحل محل النسخة السابقة.</string>
     <string name="cloud_backup">نُسخ Mi Cloud الاحتياطية</string>
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
     <string name="restore_cloud_backup_to_phone">استعادة عناصر من Mi Cloud</string>
@@ -176,4 +184,6 @@
     <string name="msg_alert_restore_error">تعذر إسترداد العناصر من MiCloud. يرجى إعادة المحاولة.</string>
     <string name="btn_restore_retry">إعادة المحاولة</string>
     <string name="btn_restore_abort">إلغاء</string>
+    <string name="backup_stopped_title">تم إيقاف النسخ الاحتياطي مؤقتًا</string>
+    <string name="backup_stopped_msg">ستحل النسخة الاحتياطية الحالية محل النسخة السابقة. اضغط للعرض.</string>
 </resources>

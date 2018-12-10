@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="accessibility_calllog_detail">تفاصيل سجل المكالمات</string>
     <string name="accessibility_contact_detail">تفاصيل جهة الاتصال</string>
     <string name="account_container_title">مستورد من</string>
@@ -98,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(الأساسي)</string>
     <string name="call_telex">الاتصال بالتلكس</string>
     <string name="call_tty_tdd">الاتصال بـ TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">الاتصال بالعمل</string>
     <string name="call_work_mobile">الاتصال بالهاتف الجوال للعمل</string>
@@ -332,8 +334,8 @@
     <string name="description_image_button_plus">زائد</string>
     <string name="description_image_button_pound">الشباك</string>
     <string name="description_image_button_seven">سبعة</string>
-    <string name="description_image_button_sim1_named_dial">Dial using SIM1 %s</string>
-    <string name="description_image_button_sim2_named_dial">Dial using SIM2 %s</string>
+    <string name="description_image_button_sim1_named_dial">الاتصال باستخدام بطاقة SIM1 %s</string>
+    <string name="description_image_button_sim2_named_dial">الاتصال باستخدام بطاقة SIM2 %s</string>
     <string name="description_image_button_six">ستة</string>
     <string name="description_image_button_star">نجمة</string>
     <string name="description_image_button_three">ثلاثة</string>
@@ -485,6 +487,7 @@
     <string name="force_touch_miprofile">بطاقات جهة اتصال</string>
     <string name="force_touch_new_contact">جهة اتصال جديدة</string>
     <string name="frequentList">متكرر</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">الاسم</string>
     <string name="gallery">المعرض</string>
     <string name="generic_no_account_prompt">حافظ على جهات اتصالك آمنة حتى إذا فقدت هاتفك: عليك بمزامنتها مع الخدمة عبر الإنترنت.</string>
@@ -665,6 +668,7 @@
     <string name="miprofile_contact_header">جهات الاتصال مع بطاقات جهة اتصال</string>
     <string name="miprofile_contact_meaasge">جهات الاتصال المحلية</string>
     <string name="miprofile_contact_verifying">تحقق</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
     <string name="miprofile_error_accept_self">لا يمكن تبادل بطاقة جهة الاتصال الخاصة بك</string>
     <string name="miprofile_error_no_miaccount">تسجيل الدخول إلى حساب Mi</string>
@@ -818,7 +822,10 @@
     <string name="path_wipe_data">تطبيقات النظام/جهات الاتصال/تنظيم جهات الاتصال/مسح البيانات</string>
     <string name="payphone">هاتف عمومي</string>
     <string name="people">جهات الاتصال</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">الرقم طويل جداً</string>
     <string name="phone_primary">أساسي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة على الجهاز.</string>
@@ -1067,6 +1074,7 @@
     <string name="sim_unloaded">بطاقة SIM غير مثبتة</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">الشركات</string>
     <string name="smart_group_company_unavailable">لا توجد معلومات عن الشركة</string>
     <string name="smart_group_frequency_1">خلال الشهر الماضي</string>
@@ -1199,6 +1207,7 @@
     <string name="voip_audio_description">مكالمة VoIP</string>
     <string name="voip_video_description">مكالمة فيديو VoIP</string>
     <string name="websiteLabelsGroup">موقع ويب</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">مسح البيانات</string>
     <string name="yellowPageNavigationIconLabel">الصفحات الصفراء</string>
     <string name="yellowPageNavigationLabel">الصفحات الصفراء</string>

@@ -17,12 +17,12 @@
         <item quantity="many">هل تريد حذف التنبيهات المحدّدة؟</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">هل تريد حذف المنطقة الزمنية المحدّدة؟</item>
-        <item quantity="zero">هل تريد حذف المنطقة الزمنية المحدّدة؟</item>
-        <item quantity="one">هل تريد حذف هذه المنطقة الزمنية؟</item>
-        <item quantity="two">هل تريد حذف المنطقة الزمنية المحدّدة؟</item>
-        <item quantity="few">هل تريد حذف المنطقة الزمنية المحدّدة؟</item>
-        <item quantity="many">هل تريد حذف المنطقة الزمنية المحدّدة؟</item>
+        <item quantity="other">حذف المناطق الزمنية المحددة؟</item>
+        <item quantity="zero">حذف المناطق الزمنية المحددة؟</item>
+        <item quantity="one">حذف هذه المنطقة الزمنية؟</item>
+        <item quantity="two">حذف المناطق الزمنية المحددة؟</item>
+        <item quantity="few">حذف المناطق الزمنية المحددة؟</item>
+        <item quantity="many">حذف المناطق الزمنية المحددة؟</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d ثانية</item>

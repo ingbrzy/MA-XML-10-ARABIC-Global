@@ -135,7 +135,7 @@
     <string name="security_permission_open_wifi_settings">فتح إعدادات Wi-Fi</string>
     <string name="xspace_resolver_activity_title">تحديد تطبيق</string>
     <string name="user_switching_dialog_text">يتم التبديل…</string>
-    <string name="xspace_head">التطبيق المزدوج</string>
+    <string name="xspace_head">التطبيقات المزدوجة</string>
     <string name="activity_package_delete_confirm_title">تنبيه</string>
     <string name="button_text_cancel">إلغاء</string>
     <string name="button_text_delete">إلغاء التثبيت</string>
@@ -185,4 +185,5 @@
     <string name="miui_warning_tip_info">حدث خطأ ما في%1$s. أغلاق هذا التطبيق الآن؟</string>
     <string name="talk_back_water_mark_string1">TalkBack مشغل</string>
     <string name="talk_back_water_mark_string2">اضغط مع الاستمرار على زر رفع وخفض الصوت لمدة ۳ ثوانٍ لإيقاف التشغيل</string>
+    <string name="start_dump_log">ابدأ في الحصول على سجلات المشاكل</string>
 </resources>

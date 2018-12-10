@@ -38,7 +38,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -50,6 +52,7 @@
     <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
     <string name="exo_track_unknown">غير معروف</string>
     <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="accessibiliy_description_content_account">الملف الشخصي</string>
     <string name="accessibiliy_description_content_ad">اعلان</string>
     <string name="accessibiliy_description_content_add_resource">إضافة عناصر</string>
@@ -172,6 +175,7 @@
     <string name="incompatible_dialog_ok">فهمت</string>
     <string name="incompatible_dialog_title">مشاكل التوافق</string>
     <string name="is_setting_wallpaper_message">جارٍ إعداد خلفية الشاشة…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">التنبيهات</string>
     <string name="item_resource_audio_optional_color_ring">نغمة الرنة</string>
     <string name="item_resource_audio_optional_notification_ring">الإشعارات</string>
@@ -393,6 +397,7 @@
     <string name="resource_pack_price_info">السعر الأصلي: %1$s</string>
     <string name="resource_pack_warning">لقد اشتريت %1$d من مكونات هذه السمة مسبقا. انها أرخص إذا اشتريت المكونات المتبقية على حدة.</string>
     <string name="resource_present">هدية</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">مجاني</string>
     <string name="resource_price_unit">رصيد Mi</string>
     <string name="resource_purchase_common_error">حدث خطأ ما، حاول مجدداً</string>
@@ -404,6 +409,10 @@
     <string name="resource_ranking">الشائعة</string>
     <string name="resource_ranking_free">مجاني</string>
     <string name="resource_ranking_purchase">مدفوع</string>
+    <string name="resource_ring_ranking_list_divider">-</string>
+    <string name="resource_ring_ranking_list_rank_1">١</string>
+    <string name="resource_ring_ranking_list_rank_2">٢</string>
+    <string name="resource_ring_ranking_list_rank_3">۳</string>
     <string name="resource_ringtone_default">نغمات الرنين</string>
     <string name="resource_ringtone_playing_error">خطأ</string>
     <string name="resource_ringtone_volume_mute">صوت الرنين صامت</string>
@@ -449,7 +458,7 @@
     <string name="resource_trial_end_purchase">شراء</string>
     <string name="resource_trial_end_restore">انهاء الفترة التجريبية</string>
     <string name="resource_trial_end_time">(فترة تجريبية حتى: %1$s)</string>
-    <string name="resource_trial_end_time_format">hh:mma MMM d</string>
+    <string name="resource_trial_end_time_format">d MMM ahh:mm</string>
     <string name="resource_trial_end_title">انتهت الفترة التجريبية</string>
     <string name="resource_trial_fail_cancel">موافق</string>
     <string name="resource_trial_fail_go_settings">الإعدادات</string>
@@ -479,7 +488,7 @@
     <string name="shortcut_title">هل أعجبتك خلفيات الشاشة الخاصة بنا؟</string>
     <string name="show_free">Show free %1$s</string>
     <string name="show_incompatible">عرض %1$s الغير متوافقة</string>
-    <string name="swipe_find_more">مرّر لأعلى</string>
+    <string name="swipe_find_more">مرر لأعلى لعرض المزيد</string>
     <string name="system_precust">المثبتة</string>
     <string name="the_picture_is_not_support">الصورة غير مدعومة</string>
     <string name="the_picture_is_too_small">الصورة صغيرة جداً</string>
@@ -524,7 +533,7 @@
     <string name="theme_description_title_default">الافتراضي</string>
     <string name="theme_detail_tab_comment">التعليقات</string>
     <string name="theme_detail_tab_recommend">موصى به</string>
-    <string name="theme_detail_tab_theme">السمات</string>
+    <string name="theme_detail_tab_theme">التفاصيل</string>
     <string name="theme_empty_redirect">الرجوع إلى السمات</string>
     <string name="theme_favorite_add_fail">تعذّر الإضافة إلى المفضلة</string>
     <string name="theme_favorite_add_success">تمت الإضافة إلى المفضلة</string>
@@ -539,6 +548,7 @@
     <string name="theme_is_external_priority_storage">حفظ إلى بطاقة SD</string>
     <string name="theme_is_external_priority_storage_summary">ستتم إعادة تشغيل تطبيق السمات مباشرة لتطبيق هذا الإعداد.</string>
     <string name="theme_multiple_button_title_customize">تخصيص</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">لا</string>
     <string name="theme_purchased_list_empty">لم تقم بشراء أية سمات.</string>
     <string name="theme_purchased_non_local">على الانترنت</string>

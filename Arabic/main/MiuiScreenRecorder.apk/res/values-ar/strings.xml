@@ -75,7 +75,7 @@
     <string name="sound_source">مصدر الصوت</string>
     <string name="sound_source_summary">أصوات النظام أو الميكروفون</string>
     <string name="sound_source_summary_without_system_sounds">استخدام الميكروفون أو اكتم الصوت</string>
-    <string name="start">بداية</string>
+    <string name="start">البدء</string>
     <string name="start_recording">بدء التسجيل</string>
     <string name="stop_by_second_space">تبديل الواجهات سيوقف التسجيل</string>
     <string name="stop_record_while_locking">قفل الشاشة للإنهاء</string>

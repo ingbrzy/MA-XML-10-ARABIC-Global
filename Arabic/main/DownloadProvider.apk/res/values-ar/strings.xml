@@ -4,6 +4,7 @@
     <string name="notif_title_file_size">إجمالي %1$d</string>
     <string name="notif_title_single_downloading">جارٍ تنزيل %1$s</string>
     <string name="download_filesize_unknown">غير معروف</string>
+    <string name="notification_dld_msg">إدارة التطبيقات التي يتم تنزيلها</string>
     <string name="app_label">التنزيلات</string>
     <string name="permlab_downloadManager">الوصول للتنزيلات.</string>
     <string name="permdesc_downloadManager">السماح للتطبيق الوصول إلى مدير التنزيلات واستخدامة في تنزيل الملفات. يمكن للتطبيقات الضارة استخدام هذا لتعطيل التنزيلات والوصول إلى المعلومات الخاصة.</string>

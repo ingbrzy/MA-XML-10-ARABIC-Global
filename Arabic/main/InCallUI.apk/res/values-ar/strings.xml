@@ -198,4 +198,5 @@
     <string name="dialpad_nine">۹</string>
     <string name="prompt_no_volte_when_failed">لا يمكن إجراء مكالمات. تأكد من اتصال جهازك بشبكة 4G مع دعم VoLTE.</string>
     <string name="volume_boost_text">تم زيادة مستوى الصوت بنجاح</string>
+    <string name="supp_service_notification_call_waiting">الرقم المطلوب مشغول. يرجى الانتظار…</string>
 </resources>
