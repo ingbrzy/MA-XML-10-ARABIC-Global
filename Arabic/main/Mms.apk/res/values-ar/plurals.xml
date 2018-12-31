@@ -25,12 +25,12 @@
         <item quantity="many">لم تتم مزامنة %d رسالة</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">حذف %1$d محادثة محددة؟</item>
-        <item quantity="zero">حذف %1$d محادثة محددة؟</item>
-        <item quantity="one">حذف %1$d محادثة محددة؟</item>
-        <item quantity="two">حذف %1$d محادثات محددة؟</item>
-        <item quantity="few">حذف %1$d محادثات محددة؟</item>
-        <item quantity="many">حذف %1$d محادثة محددة؟</item>
+        <item quantity="other">حذف &lt;g example="15" id="number">%1$s&lt;/g> محادثة محددة؟</item>
+        <item quantity="zero">حذف &lt;g example="15" id="number">%1$s&lt;/g> محادثة محددة؟</item>
+        <item quantity="one">حذف هذة المحادثة؟</item>
+        <item quantity="two">حذف &lt;g example="15" id="number">%1$s&lt;/g> محادثات محددة؟</item>
+        <item quantity="few">حذف &lt;g example="15" id="number">%1$s&lt;/g> محادثات محددة؟</item>
+        <item quantity="many">حذف &lt;g example="15" id="number">%1$s&lt;/g> محادثة محددة؟</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">تم تحديد %d</item>

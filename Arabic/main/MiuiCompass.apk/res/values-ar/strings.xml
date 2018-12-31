@@ -22,9 +22,10 @@
     <string name="calibrate_title">معايرة البوصلة</string>
     <string name="cancel">إلغاء</string>
     <string name="cannot_get_location">--</string>
-    <string name="dialog_body_no_network">لا يمكن الاتصال بالشبكة</string>
+    <string name="compass_settings">الإعدادت</string>
+    <string name="dialog_body_no_network">الاتصال بشبكة Wi-Fi أو تشغيل بيانات الجوال.</string>
     <string name="dialog_calibrat_altitude">جارٍ المعايرة…</string>
-    <string name="dialog_title_no_network">قم بتشغيل الشبكة</string>
+    <string name="dialog_title_no_network">تعذر الاتصال بالشبكة</string>
     <string name="direction_east">الشرق</string>
     <string name="direction_north">الشمال</string>
     <string name="direction_north_east">الشمال الشرقي</string>
@@ -38,7 +39,7 @@
     <string name="error_camera_unavailable_title">الكاميرا غير متاحة</string>
     <string name="first_using_dialog_message">البوصلة تحتاج إلى استخدام اتصال الشبكة، والكاميرا، وخدمات الموقع للجهاز الخاص بك للعمل بشكل طبيعي.</string>
     <string name="first_using_dialog_title">إذن الوصول</string>
-    <string name="guide_toast">للمعايرة، حرك هاتفك حسب الحركة أدناه.</string>
+    <string name="guide_toast">للمعايرة، حرك جهازك كما هو موضح أدناه.</string>
     <string name="latitude">خط العرض</string>
     <string name="location_east">الشرق</string>
     <string name="location_enable">السماح</string>

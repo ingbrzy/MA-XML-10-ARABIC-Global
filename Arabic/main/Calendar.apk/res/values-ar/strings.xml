@@ -23,6 +23,7 @@
     <string name="copy_number">نسخ رقم الهاتف</string>
     <string name="done">رجوع</string>
     <string name="more_string">%1$s+</string>
+    <string name="search_menu_title">البحث</string>
     <string name="status_bar_notification_info_overflow">+999</string>
     <string name="accessibility_add_attendee">إضافة حضور</string>
     <string name="accessibility_all_day">حدث كل اليوم</string>
@@ -84,6 +85,7 @@
     <string name="can_not_modify_allday_event">لا يمكن تغيير حدث كامل اليوم</string>
     <string name="can_not_modify_event">لا يمكن تغيير الحدث</string>
     <string name="can_not_modify_repeating_acrossing_days_event">لا يمكن تغيير حدث عدة أيام</string>
+    <string name="cancel_reminder">Cancel Reminder</string>
     <string name="card_detail_dialog_message">سيتم تحديث %1$s كل يوم. قم بالاشتراك لتلقي التحديثات اليومية.</string>
     <string name="card_detail_dialog_negative">الاشتراك لاحقاً</string>
     <string name="card_detail_dialog_positive">الاشتراك الآن</string>
@@ -135,6 +137,7 @@
     <string name="description_calendar">تطبيقات النظام/التقويم</string>
     <string name="description_calendar_edit_event">تطبيقات النظام/التقويم/جدول الأعمال</string>
     <string name="directory_searching_fmt">جارٍ بحث %s…</string>
+    <string name="discard_label">إلغاء</string>
     <string name="does_not_repeat">حدث لمرة واحدة</string>
     <string name="edit_date_calculate_days_backward_error_hint">لا يمكن الحساب إلى الأمام</string>
     <string name="edit_date_calculate_days_empty_hint">أدخل عدد الأيام</string>
@@ -202,6 +205,7 @@
     <string name="fb_calendar_owner_account">تقويم Mi</string>
     <string name="festival_detail_title">مهرجان</string>
     <string name="file_exception">حدث خطأ ما</string>
+    <string name="fixtures">Fixtures</string>
     <string name="force_touch_title_add_new_event">إضافة حدث</string>
     <string name="from_google_group_calendar">تقويم Google</string>
     <string name="gadget_no_events">لا توجد أحداث قادمة في التقويم</string>
@@ -211,6 +215,7 @@
     <string name="global_football_final">النهائي</string>
     <string name="global_football_no_match">لا توجد مباريات كرة قدم مجدولة لهذا اليوم.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
+    <string name="guide_card_close">إغلاق</string>
     <string name="guide_card_import">استيراد</string>
     <string name="guide_card_primary_fb_text">أعياد ميلاد الأصدقاء من الفيسبوك</string>
     <string name="guide_card_primary_text">استيراد تواريخ ميلاد أصدقائك</string>
@@ -273,6 +278,7 @@
     <string name="new_event_description">جديد</string>
     <string name="new_event_dialog_label">حدث جديد</string>
     <string name="new_event_dialog_option">حدث جديد</string>
+    <string name="news">News</string>
     <string name="no_contact_birthday_hint">لا توجد تواريخ ميلاد للإستيراد</string>
     <string name="no_events_hint">لا توجد أحداث</string>
     <string name="no_internet">تعذر الاتصال بالإنترنت</string>
@@ -368,6 +374,7 @@
     <string name="search_calendar_settings">التقويم؛جدول الأعمال؛تذكير</string>
     <string name="select_date">الانتقال إلى تاريخ</string>
     <string name="select_synced_calendars_title">التقاويم المراد مزامنتها</string>
+    <string name="set_reminder">Set Reminder</string>
     <string name="setting_about_calendar_version">إصدار التقويم:</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="setting_about_miui_version">إصدار MIUI:</string>
@@ -398,15 +405,16 @@
     <string name="subscribe_channel_hint">"قم بالاشتراك في الخدمات التي تريد و تلقى التحديثات اليومية على الصفحة الرئيسية الخاصة بك. ي
 مكنك أيضا إضافة تذكير حتى لا تفوت أي شيء مهم."</string>
     <string name="subscribe_channel_subscribe">اشتراك</string>
-    <string name="subscribe_channel_subscribing">يتم الاشتراك</string>
+    <string name="subscribe_channel_subscribing">تم الاشتراك</string>
     <string name="subscribe_channel_title">قناة</string>
-    <string name="subscribing_card">يتم الاشتراك</string>
+    <string name="subscribing_card">تم الاشتراك</string>
     <string name="synced">تمت المزامنة</string>
     <string name="tab_title_agenda">الأحداث</string>
     <string name="tab_title_day">اليوم</string>
     <string name="tab_title_month">الشهر</string>
     <string name="tab_title_week">الأسبوع</string>
-    <string name="talk_back_read_date">التاريخ الحالي: %1$s (%2$s وفقا للتقويم القمري).</string>
+    <string name="talk_back_read_date">%1$s (%2$s وفقا للتقويم القمري).</string>
+    <string name="talk_back_setting">الإعدادت</string>
     <string name="template_announce_item_index">حدث %1$s من %2$s.</string>
     <string name="template_week_num">اسبوع %1$s</string>
     <string name="time_zone">المنطقة الزمنية</string>
@@ -443,11 +451,12 @@
     <string name="travel_train_station">محطة القطار</string>
     <string name="unsubscribe_card">إلغاء الاشتراك</string>
     <string name="unsubscribe_card_success">تم إلغاء الإشتراك من “%1$s”بنجاح</string>
-    <string name="unsubscribing_card">جارٍ إلغاء الاشتراك</string>
+    <string name="unsubscribing_card">تم إلغاء الاشتراك</string>
     <string name="user_notice_button_exit">إلغاء</string>
     <string name="user_notice_button_ok">موافق</string>
     <string name="user_notice_message">باستخدامك هذا المنتج، فأنت توافق على %1$s و%2$s لـ Xiaomi. بعض المزايا تتطلب الاتصال بالإنترنت والوصول الى الموقع وإلى جهات الاتصال لتعمل بشكل طبيعي.</string>
     <string name="user_notice_title">تنبيه</string>
+    <string name="view_details">View Details</string>
     <string name="view_event_calendar_label">التقويم:</string>
     <string name="view_event_organizer_label">المنظم:</string>
     <string name="view_event_response_label">هل ستحضر؟</string>

@@ -69,7 +69,7 @@
     <string name="got_it">حسنا</string>
     <string name="gps">الملاحة</string>
     <string name="import_contact">استيراد جهة اتصال</string>
-    <string name="impunity_declaration_content">يحتاج الماسح إذنًا للوصول إلى الكاميرا والتقاط الصور. ويحتاج أيضًا إلى الاتصال بالإنترنت ليعمل بشكل طبيعي. بالنقر على \"أوافق\" يعني أنك قرأت ووافقت على %1$sسياسة الخصوصية%2$s لدينا.</string>
+    <string name="impunity_declaration_content">يحتاج الماسح الإذن للوصول إلى الكاميرا والتقاط الصور. ويحتاج أيضًا إلى الاتصال بالإنترنت ليعمل بشكل طبيعي. بالنقر على \"أوافق\" يعني أنك قرأت ووافقت على %1$sسياسة الخصوصية%2$s لدينا.</string>
     <string name="impunity_declaration_negative_text">خروج</string>
     <string name="impunity_declaration_title">سياسة الخصوصية</string>
     <string name="label_choose_picture">اختيار صورة</string>
@@ -92,6 +92,7 @@
     <string name="module_title_business_card">بطاقة العمل</string>
     <string name="module_title_code">رمز QR</string>
     <string name="module_title_document">مستند</string>
+    <string name="module_title_plant">نبات</string>
     <string name="module_title_shopping">تسوق</string>
     <string name="module_title_translation">ترجمة</string>
     <string name="name">الاسم:</string>
@@ -106,6 +107,11 @@
     <string name="payment_text">فتح بإستخدام %s</string>
     <string name="phone">الهاتف:</string>
     <string name="place_barcode_into_rectangle">ضع الرمز داخل الإطار</string>
+    <string name="plant_fail">لا يمكن التعرف</string>
+    <string name="plant_loading">جارٍ التعرف…</string>
+    <string name="plant_reg_fail_2">لا يمكن التعرف على هذا العنصر. يمكن للماسح فقط التعرف على نباتات.</string>
+    <string name="plant_support">" (الدعم التقني)"</string>
+    <string name="plant_title">امسح النبات الذي تريد تحديده</string>
     <string name="preparing_sd">جار إعداد التخزين الداخلي…</string>
     <string name="previous">رجوع</string>
     <string name="qr_code_details">تفاصيل رمز QR:</string>

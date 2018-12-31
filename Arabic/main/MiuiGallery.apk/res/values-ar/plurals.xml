@@ -112,6 +112,14 @@
         <item quantity="few">إعادة تسمية النسخة الاحتياطية في غضون %d ساعات</item>
         <item quantity="many">إعادة تسمية النسخة الاحتياطية في غضون %d ساعة</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="zero">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="one">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="two">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="few">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
+        <item quantity="many">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d صورة أو فيديو | متوقفة مؤقتا</item>
         <item quantity="zero">%d صورة أو فيديو | متوقفة مؤقتا</item>
@@ -520,22 +528,6 @@
         <item quantity="few">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
         <item quantity="many">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
     </plurals>
-    <plurals name="sync_total_count">
-        <item quantity="other">%d عنصر</item>
-        <item quantity="zero">%d عناصر</item>
-        <item quantity="one">%d عنصر</item>
-        <item quantity="two">%d عناصر</item>
-        <item quantity="few">%d عناصر</item>
-        <item quantity="many">%d عنصر</item>
-    </plurals>
-    <plurals name="backup_file_over_size_title">
-        <item quantity="other">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
-        <item quantity="zero">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
-        <item quantity="one">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
-        <item quantity="two">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
-        <item quantity="few">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
-        <item quantity="many">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
-    </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
         <item quantity="zero">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
@@ -543,5 +535,13 @@
         <item quantity="two">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
         <item quantity="few">تجاوز %d عناصر الحد الأقصى للنسخ الاحتياطي</item>
         <item quantity="many">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d عنصر</item>
+        <item quantity="zero">%d عناصر</item>
+        <item quantity="one">%d عنصر</item>
+        <item quantity="two">%d عناصر</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصر</item>
     </plurals>
 </resources>

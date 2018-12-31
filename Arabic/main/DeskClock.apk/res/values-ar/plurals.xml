@@ -8,6 +8,14 @@
         <item quantity="few">غفوة أخرى بعد %d دقائق.</item>
         <item quantity="many">غفوة أخرى بعد %d دقيقة.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">هل تريد حذف التنبيهات المحدّدة؟</item>
         <item quantity="zero">هل تريد حذف المنبه المحدّد؟</item>
@@ -24,6 +32,30 @@
         <item quantity="few">حذف المناطق الزمنية المحددة؟</item>
         <item quantity="many">حذف المناطق الزمنية المحددة؟</item>
     </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">%d ساعات</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقائق</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d ثانية</item>
         <item quantity="zero">%d ثانية</item>
@@ -31,6 +63,14 @@
         <item quantity="two">%d ثواني</item>
         <item quantity="few">%d ثواني</item>
         <item quantity="many">%d ثانية</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="zero">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="one">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="two">سيتوقف المنبه %2$s مرات (%1$s دقائق)</item>
+        <item quantity="few">سيتوقف المنبه %2$s مرات (%1$s دقائق)</item>
+        <item quantity="many">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">غفوة لمدة %d دقيقة</item>

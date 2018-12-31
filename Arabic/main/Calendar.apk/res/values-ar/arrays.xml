@@ -68,10 +68,10 @@
     <string-array name="default_reminder_labels">
         <item>في وقت الحدث</item>
         <item>قبل ٥ دقائق</item>
-        <item>قبل ١٠ دقائق</item>
-        <item>قبل ١٥ دقائق</item>
-        <item>قبل ٣٠ دقائق</item>
-        <item>قبل ١ ساعة</item>
+        <item>قبل ١٥ دقيقة</item>
+        <item>قبل ٣٠ دقيقة</item>
+        <item>قبل ساعة</item>
+        <item>قبل ٤ ساعات</item>
         <item>قبل ١ يوم</item>
         <item>قبل ٢ أيام</item>
         <item>قبل ١ اسبوع</item>
@@ -80,6 +80,10 @@
         <item>هذا الحدث فقط</item>
         <item>هذا الحدث والأحداث المستقبلية</item>
         <item>جميع الأحداث</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>٤</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>الجوزاء</item>

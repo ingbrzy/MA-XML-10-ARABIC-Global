@@ -17,9 +17,9 @@
         <item>WAV</item>
     </string-array>
     <string-array name="record_format_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+        <item>١</item>
+        <item>٢</item>
+        <item>۳</item>
     </string-array>
     <string-array name="record_locale_language">
         <item>fa</item>
@@ -47,13 +47,13 @@
     </string-array>
     <string-array name="record_scenes_summaries">
         <item>تسجيل الموسيقى مع جودة أفضل</item>
-        <item>ضع الميكروفون بالقرب من مصدر الصوت للحصول على جودة أفضل</item>
+        <item>قم بنقل الميكروفون أقرب من مصدر الصوت لجودة افضل</item>
         <item>ضع الهاتف بين شخصين لتسجيل محادثتهم بشكل واضح</item>
         <item>تسمح تقنية المدى الديناميكي العالي للميكرفون بإلتقاط الصوت بأكثر دقة</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
         <item>سجل عبر ٢ قنوات، استمع إلى صوت ستيريو في السماعات</item>
-        <item>ضع الميكروفون بالقرب من مصدر الصوت للحصول على جودة أفضل</item>
+        <item>قم بنقل الميكروفون أقرب من مصدر الصوت لجودة افضل</item>
         <item>ضع الهاتف بين شخصين لتسجيل محادثتهم بشكل واضح</item>
         <item>تسمح تقنية المدى الديناميكي العالي للميكرفون بإلتقاط الصوت بأكثر دقة</item>
     </string-array>

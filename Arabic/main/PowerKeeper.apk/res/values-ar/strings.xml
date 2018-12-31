@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">كلما اكتشف MIUI أنك نائم، فإنه سيغلق التطبيقات الخلفية ويقييد البلوتوث وGPS وبيانات الجوال و Wi-Fi، ولن تضيء الشاشة للإشعارات.</string>
     <string name="nonui_mode_config_title">الوضع الغير تفاعلي</string>
     <string name="nonui_mode_config_description">لا تضىء الشاشة للإشعارات، قم بإيقاف ضوء LED، مستشعر بصمة الاصبع، وعناصر التحكم باللمس لحفظ البطارية عند اكتشاف MIUI أنك لا تستخدم جهازك.</string>
-    <string name="power_center">الطاقة</string>
+    <string name="power_center">استخدام البطارية</string>
     <string name="power_usage">استهلاك الطاقة</string>
     <string name="power_mode">إعدادات الطاقة</string>
     <string name="performance_category">الأداء</string>
@@ -43,7 +43,7 @@
     <string name="hints_loading_text">لحظة من فضلك…</string>
     <string name="config_mode_title">إعدادات الخلفية</string>
     <string name="config_suggest_suffix_title">توفير البطارية (موصى به)</string>
-    <string name="config_no_restrict_title">لا توجد تقييدات</string>
+    <string name="config_no_restrict_title">لا توجد قيود</string>
     <string name="config_restrict_function_title">تقييد بيانات الخلفية</string>
     <string name="config_restrict_running_title">تقييد نشاط الخلفية</string>
     <string name="config_restrict_running_warning">سيتم إغلاق التطبيقات في الخلفية. وقد يؤدي هذا إلى عملها بشكل غير طبيعي.</string>
@@ -98,4 +98,13 @@
     <string name="atrace_start">جارٍ تسجيل سجل atrace…</string>
     <string name="atrace_saving">جارٍ حفظ سجل atrace…</string>
     <string name="atrace_saved">تم الحفظ بنجاح</string>
+    <string name="notification_open_extreme_mode_text">تم تشغيل الحد الأقصى لموفر البطارية</string>
+    <string name="extreme_power_settings_title">الإعدادات</string>
+    <string name="notification_exit_extreme_mode_title">تم إيقاف الحد الأقصى لموفر البطارية</string>
+    <string name="notification_exit_extreme_mode_text">شحن البطارية أكثر من %s</string>
+    <string name="extreme_power_config_mode_summary">يقيد الحد الأقصى لموفر البطارية نشاط الخلفية ويُوقف المزامنة.</string>
+    <string name="extreme_add_white_list_title">استثناءات الخلفية</string>
+    <string name="extreme_add_white_list_summary">أضف ما يصل إلى ٤ تطبيقات</string>
+    <string name="adaptive_battery_title">استخدام البطارية التكيفية</string>
+    <string name="adaptive_battery_summary">تقليل البطارية للتطبيقات الغير مستخدمة كثيرا</string>
 </resources>

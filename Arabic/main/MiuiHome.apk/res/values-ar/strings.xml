@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة شاشة</string>
@@ -152,6 +153,7 @@
     <string name="gadget_clock_24_label">ساعة ٢x٤</string>
     <string name="gadget_clock_34_label">ساعة ٣x٤</string>
     <string name="gadget_clock_label">الساعة</string>
+    <string name="gadget_dual_clock_label">ساعة مزدوجة</string>
     <string name="gadget_error_text">لا يمكن تحميل الأداة</string>
     <string name="gadget_google_search_label">بحث في Google</string>
     <string name="gadget_load_error">جارٍ التحميل…</string>
@@ -277,11 +279,14 @@
     <string name="recommend_apk_size_and_desc">%1$dم.ب |%2$s</string>
     <string name="recommend_apps_default_title">فارغ</string>
     <string name="recommend_apps_no_data">لا توجد بيانات</string>
+    <string name="recommend_apps_no_data_toast">لا توجد توصيات حاليا.</string>
     <string name="recommend_apps_notice">التطبيقات الدعائية</string>
     <string name="recommend_apps_notice_nodata">التطبيقات الدعائية (لا توجد بيانات)</string>
     <string name="recommend_apps_switch_title">التطبيقات الدعائية</string>
     <string name="recommend_apps_tips">تحتاج هذه الميزة للاتصال بالإنترنت لتعمل بشكل طبيعي. لإيقاف هذه الميزة، اضغط على اسم المجلد.</string>
     <string name="recommend_loading">جارٍ التحميل</string>
+    <string name="recommend_refresh">تحديث</string>
+    <string name="recommend_xout">لا تظهر</string>
     <string name="reset_description_first_time">يمكنك استعادة التنسيق من %1$s خلال ساعتين</string>
     <string name="reset_description_others">يمكنك استعادة التنسيق من %1$s</string>
     <string name="reset_fail">تعذر الإستعادة</string>
@@ -347,7 +352,4 @@
     <string name="widget_gadget_player">موسيقى</string>
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
-    <string name="recommend_apps_no_data_toast">لا توجد توصيات حاليا.</string>
-    <string name="recommend_refresh">تحديث</string>
-    <string name="recommend_xout">لا تظهر</string>
 </resources>

@@ -308,10 +308,10 @@
     <string name="xspace_default_guide_notification_xspace_title">استخدام التطبيق المزدوج</string>
     <string name="space_name_default">واجهة العمل</string>
     <string name="space_des_default">واجهة منعزلة مع بيانات مشفرة</string>
-    <string name="create_work_space">إنشاء واجهة عمل</string>
+    <string name="create_work_space">إنشاء واجهة العمل</string>
     <string name="switch_download_space">تبديل واجهة العمل</string>
     <string name="confirm_airspace_password">تأكيد كلمة مرور %s</string>
-    <string name="air_space_created">تم إنشاء واجهة عمل بنجاح</string>
+    <string name="air_space_created">تم إنشاء واجهة العمل بنجاح</string>
     <string name="enter_air_space">اذهب إلى واجهة العمل</string>
     <string name="invalid_qr_code">رمز QR غير صالح</string>
     <string name="need_network_when_create">اتصل بالشبكة قبل إنشاء واجهة العمل</string>
@@ -341,7 +341,7 @@
     <string name="gpg_message">يحتاج إنشاء تطبيقات مزدوجة إلى ألعاب متجر Play. إنشاء تطبيق مزدوج لألعاب متجر play؟</string>
     <string name="gpg_title">التطبيق المزدوج لألعاب متجر Play</string>
     <string name="gms_message">يحتاج إنشاء تطبيقات مزدوجة إلى خدمات Google. إنشاء تطبيق مزدوج لخدمات Google؟</string>
-    <string name="gms_title">تشغيل خدمات Google</string>
+    <string name="gms_title">تطبيق مزدوج لخدمات Google</string>
     <string name="gms_open_button">تشغيل</string>
     <string name="create_second_space">تم الإنشاء بنجاح</string>
     <string name="set_space_password">تعيين كلمة مرور</string>
@@ -407,7 +407,7 @@
     <string name="activate_ent_mode">تفعيل وضع المؤسسة</string>
     <string name="about_ent_mode">حول وضع المؤسسة</string>
     <string name="ent_mode_activated">وضع المؤسسة مفعل</string>
-    <string name="ent_activation_hint">أدخل رمز المؤسسة مع رمز الترخيص لتفعيل وضع المؤسسة. بعد ذلك ، سيتم تفعيل خدمات الشركات المخصصة بعد ذلك.</string>
+    <string name="ent_activation_hint">أدخل رمز المؤسسة مع رمز الترخيص لتفعيل وضع المؤسسة. بعد ذلك، سيتم تفعيل خدمات الشركات المخصصة بعد ذلك.</string>
     <string name="ent_activation_hint_whit_licence">"قم بتفعيل وضع المؤسسة لتفعيل خدمات المؤسسة المخصصة.
 وتأكد من صحة اسم المؤسسة. يرجى قراءة سياسات الخصوصية المناسبة والموافقة عليها قبل التفعيل."</string>
     <string name="ent_agency_code">رمز المؤسسة</string>
@@ -440,7 +440,7 @@
     <string name="greenguard_parent_des_title">أحتاج مساعدة من أصدقائي وعائلتي</string>
     <string name="greenguard_parent_des">تنزيل التطبيق لدينا وإضافة أجهزة أخرى</string>
     <string name="cta_declaration_title">الأحكام و الشروط</string>
-    <string name="cta_declaration_message_format" formatted="false">يجب عليك قراءة وقبول &lt;font color=%s>&lt;a href=%s> %s &lt;/a>&lt;/font> لدينا قبل استخدام وضع المؤسسة. يحتاج الجهاز إلى الاتصال بالإنترنت لتفعيل وضع المؤسسة. موافق؟</string>
+    <string name="cta_declaration_message_format" formatted="false">يجب عليك قراءة وقبول &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> لدينا قبل استخدام وضع المؤسسة. يحتاج الجهاز إلى الاتصال بالإنترنت لتفعيل وضع المؤسسة. موافق؟</string>
     <string name="cta_declaration_agree_and_continue">أوافق</string>
     <string name="undo_activated_dialog_message">يؤدي إلغاء الترخيص إلى تعطيل وضع المؤسسة وإعادة ضبط جهازك على إعدادات المصنع. جميع الميزات ذات الصلة لن تكون متاحة. بالإضافة إلى ذلك، ستتوقف Xiaomi عن جمع البيانات المطلوبة لوضع المؤسسة (IMEI، ومعرف الجهاز، وإصدار النظام، والمنطقة، وما إلى ذلك). نذكركم أن Xiaomi لا تقوم بإدارة البيانات التي تم جمعها لوضع المؤسسة. سنبذل قصارى جهدنا لإخطار الأطراف المهتمة، ومع ذلك، نوصيك بالاتصال بمشرفي الشركة للموافقة على هذه المراجعة. إلغاء الترخيص وإعادة الضبط على إعدادات المصنع؟</string>
     <string name="undo_activated_dialog_ok">إلغاء الترخيص</string>
@@ -457,4 +457,8 @@
     <string name="dialog_undo_negative">لا تلغي الترخيص</string>
     <string name="dialog_title_service_error">خطأ في الخادم</string>
     <string name="dialog_message_service_error">تعذر إلغاء الترخيص وإعادة ضبط جهازك على إعدادات المصنع. المحاولة مجدداً</string>
+    <string name="dialog_verify">التحقق من بصمتك</string>
+    <string name="dialog_verify_fingerprint_retry">تعذر التحقق من بصمة الإصبع. حاول مجدداََ.</string>
+    <string name="button_touch">ضع إصبعك على المستشعر</string>
+    <string name="button_input_password">ادخل كلمة المرور</string>
 </resources>

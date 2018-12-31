@@ -14,7 +14,7 @@
         <item>مرة</item>
         <item>يومياُ</item>
         <item>أيام العمل</item>
-        <item>أيام العطل</item>
+        <item>أيام العطلة</item>
         <item>من الاثنين إلى الجمعة</item>
         <item>مخصص</item>
     </string-array>
@@ -673,17 +673,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="weather_tips_value">
-        <item>قلل الأنشطة في الهواء الطلق.</item>
-        <item>الطرق زلقة اليوم.</item>
-        <item>الطقس عاصف، كن حذراً.</item>
-        <item>الطقس ضبابي اليوم، قُد بحذر.</item>
-        <item>الهواء ملوث، ارتدي قناع.</item>
-        <item>خذ مظلة معك عند الخروج.</item>
-        <item>كن حذراً في الطريق.</item>
-        <item>هناك بَرَد اليوم، كن حذرا.</item>
-        <item>عاصفة رملية قادمة، ارتدي قناع.</item>
-        <item>أتمنى لك نهارا سعيد!</item>
     </string-array>
 </resources>

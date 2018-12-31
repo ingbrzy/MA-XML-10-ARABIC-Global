@@ -47,12 +47,18 @@
         <item quantity="many">سيتوقف المشغل خلال %d دقيقة</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">تم الانشاء في %1$s | الإجمالي %2$d أغنية</item>
-        <item quantity="zero">تم الانشاء في %1$s | الإجمالي %2$d أغاني</item>
-        <item quantity="one">تم الانشاء في %1$s | الإجمالي %2$d أغنية</item>
-        <item quantity="two">تم الانشاء في %1$s | الإجمالي %2$d أغاني</item>
-        <item quantity="few">تم الانشاء في %1$s | الإجمالي %2$d أغاني</item>
-        <item quantity="many">تم الانشاء في %1$s | الإجمالي %2$d أغنية</item>
+        <item quantity="other">"تم الانشاء في %1$s
+الإجمالي %2$d أغنية"</item>
+        <item quantity="zero">"تم الانشاء في %1$s
+الإجمالي %2$d أغاني"</item>
+        <item quantity="one">"تم الانشاء في %1$s
+الإجمالي %2$d أغنية"</item>
+        <item quantity="two">"تم الانشاء في %1$s
+الإجمالي %2$d أغاني"</item>
+        <item quantity="few">"تم الانشاء في %1$s
+الإجمالي %2$d أغاني"</item>
+        <item quantity="many">"تم الانشاء في %1$s
+الإجمالي %2$d أغنية"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">تم إضافة %d اغنية لقائمة التشغيل</item>
@@ -163,6 +169,22 @@
         <item quantity="two">تم تحديد %d عناصر</item>
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">جارٍ تنزيل %1$d ملف</item>
+        <item quantity="zero">جارٍ تنزيل %1$d ملف</item>
+        <item quantity="one">جارٍ تنزيل %1$d ملف</item>
+        <item quantity="two">جارٍ تنزيل %1$d ملفات</item>
+        <item quantity="few">جارٍ تنزيل %1$d ملفات</item>
+        <item quantity="many">جارٍ تنزيل %1$d ملف</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">تعذر تنزيل %1$d عنصر</item>
+        <item quantity="zero">تعذر تنزيل %1$d عنصر</item>
+        <item quantity="one">تعذر تنزيل %1$d عنصر</item>
+        <item quantity="two">تعذر تنزيل %1$d عناصر</item>
+        <item quantity="few">تعذر تنزيل %1$d عناصر</item>
+        <item quantity="many">تعذر تنزيل %1$d عنصر</item>
     </plurals>
     <plurals name="reader_count">
         <item quantity="other">%dمتابع</item>

@@ -102,8 +102,8 @@
     <string name="accessibility_shortcut_service_title">خدمة الاختصار</string>
     <string name="accessibility_summary_default_combination">%1$s / %2$s</string>
     <string name="accessibility_summary_source">مقدمة من قبل %s</string>
-    <string name="accessibility_summary_state_disabled">إيقاف</string>
-    <string name="accessibility_summary_state_enabled">تشغيل</string>
+    <string name="accessibility_summary_state_disabled">متوقف</string>
+    <string name="accessibility_summary_state_enabled">مشغل</string>
     <string name="accessibility_sync_disabled">تم تعطيل المزامنة</string>
     <string name="accessibility_sync_enabled">تم تمكين المزامنة</string>
     <string name="accessibility_sync_error">خطأ في المزامنة</string>
@@ -170,11 +170,11 @@
     <string name="add_fingerprint_instruction_title">اضف بصمة إصبعك</string>
     <string name="add_fingerprint_move_fast">ابقِ إصبعك على الشاشة لفترة أطول قليلاً</string>
     <string name="add_fingerprint_name_suggest_text">اسم بصمة الإصبع</string>
-    <string name="add_fingerprint_put_finger_edge_msg">قم بتحريك إصبعك قليلا و ضعها على المستشعر مرة أخرى لإضافة كل الأجزاء المختلفة من بصمتك.</string>
+    <string name="add_fingerprint_put_finger_edge_msg">قم بتحريك إصبعك قليلا وضعها على المستشعر مرة أخرى لإضافة كل الأجزاء المختلفة من بصمتك.</string>
     <string name="add_fingerprint_put_finger_msg">ضع إصبعك عدة مرات على المستشعر وارفعها عند شعورك بإهتزاز.</string>
     <string name="add_fingerprint_put_finger_title">إضافة بصمة الإصبع</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">قم بتحريك إصبعك قليلا</string>
-    <string name="add_fingerprint_success_msg">اضيف بنجاح</string>
+    <string name="add_fingerprint_success_msg">تمت الإضافة بنجاح</string>
     <string name="add_fingerprint_text">إضافة بصمة الإصبع</string>
     <string name="add_fingerprint_toast_text">ضع إصبعك على المستشعر</string>
     <string name="add_front_fingerprint_instruction_msg">يتواجد مستشعر بصمة الإصبع في زر الصفحة الرئيسية لجهازك.</string>
@@ -925,8 +925,9 @@
     <string name="bootloader_status_unlocked">غير مقفل</string>
     <string name="bootloader_status_unlocked_info">هذا الجهاز غير مقفل</string>
     <string name="bootloader_summary">فلاش نظام الجهاز عبر USB</string>
-    <string name="bootloader_tips">بعد أضافه حساب Mi الخاص بك، لا تقم بتسجيل الخروج منه، أو اجراء أعاده تعيين المصنع، أو مسح بيانات تطبيقات النظام. إذا قمت بأي مما سبق، أضف حسابك مره أخرى أو لن تتمكن من إلغاء قفل جهازك.</string>
+    <string name="bootloader_tips">بعد أضافه حساب Mi، لا تقم بتسجيل الخروج منه، أو إعادة ضبط إعدادات المصنع، أو مسح بيانات تطبيقات النظام. إذا قمت بأي مما سبق، أعد ربط الحساب بالجهاز، وإلا فلن تتمكن من إلغاء قفل جهازك.</string>
     <string name="bootloader_tips_ok">فهمت</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="breathing_light_color_menu_title">لون الإضاءة</string>
     <string name="breathing_light_color_summary">لون الإضاءة عند استلام إشعار جديد</string>
     <string name="breathing_light_freq_summary">وميض عند استلام إشعارات جديدة</string>
@@ -1526,6 +1527,7 @@
     <string name="dialog_title_hdmi_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="dialog_title_login">تسجيل الدخول إلى حساب Mi</string>
     <string name="dialog_yes">نعم</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة. ستتمكن من استخدام لوحة المفاتيح هذه بعد إعادة التشغيل فقط في حالة إلغاء قفل جهازك.</string>
     <string name="disable_overlays">تعطيل تراكبات الأجهزة</string>
     <string name="disable_overlays_summary">استخدام GPU دائما لعرض الشاشة</string>
@@ -1586,6 +1588,7 @@
     <string name="dndm_auto_button_title">تكرار وقت عدم الإزعاج</string>
     <string name="dndm_auto_setting_group">مجدول</string>
     <string name="dndm_auto_time_setting">ضبط الوقت</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">إلى</string>
     <string name="dndm_auto_time_turn_off_title">إيقاف تلقائي لعدم الإزعاج</string>
     <string name="dndm_auto_time_turn_on">من</string>
@@ -1908,8 +1911,8 @@
     <string name="fingerprint_not_identified_msg">تعذر قراءة بصمة الإصبع. أدخل كلمة المرور الخاصة بك</string>
     <string name="fingerprint_not_recognized">لم يتم التعرف عليها</string>
     <string name="fingerprint_others_title">أخرى</string>
-    <string name="fingerprint_payment">الدفع بإستخدام بصمة الأصبع</string>
-    <string name="fingerprint_removal_failed">تعذر حذف بصمة الإصبع, حاول مجددا لاحقا</string>
+    <string name="fingerprint_payment">الدفع بإستخدام بصمة الإصبع</string>
+    <string name="fingerprint_removal_failed">تعذر حذف بصمة الإصبع، حاول مجددا لاحقا</string>
     <string name="fingerprint_swipe_for_notifications_summary">للاطلاع على الإشعارات، مرر سريعًا للأسفل على مستشعر بصمات الإصبع على الجزء الخلفي لهاتفك.</string>
     <string name="fingerprint_swipe_for_notifications_title">تمرير البصمة للحصول على الإشعارات</string>
     <string name="fingerprint_unlock_set_unlock_password">بصمة الإصبع وكلمة المرور</string>
@@ -2001,7 +2004,7 @@
     <string name="forget_password_button_text"><u>نسيت كلمة المرور</u></string>
     <string name="forget_password_dialog_button_text">رجوع</string>
     <string name="forget_password_dialog_content_four"><Data>٢. اختر &lt;font color=#e6e6e6>[Wipe data]&lt;/font>،ثم انتظر حتى يتم إعادة تشغيل جهازك.</Data></string>
-    <string name="forget_password_dialog_content_one"><Data>إذا نسيت كلمة المرور، فلن تتمكن من استعادتها. ومع ذلك، يمكنك إعادة تعيينها بعد &lt;font color=#ec2700> حذف جميع البيانات الموجودة على الجهاز&lt;/font>(بما في ذلك الصور وجهات الاتصال وإلخ). قم بعمل نسخة احتياطية من جميع البيانات المهمة.</Data></string>
+    <string name="forget_password_dialog_content_one"><Data>إذا نسيت كلمة المرور، فلن تتمكن من استعادتها. ومع ذلك، يمكنك إعادة تعيينها بعد &lt;font color=#ec2700> حذف جميع البيانات الموجودة على الجهاز&lt;/font>(بما في ذلك الصور وجهات الاتصال وإلخ). قم بعمل نسخة احتياطية لجميع البيانات المهمة.</Data></string>
     <string name="forget_password_dialog_content_three"><Data>"١. أوقف تشغيل الجهاز. ثم اضغط باستمرار على زر &lt;font color=#e6e6e6>الطاقة&lt;/font> وزر&lt;font color=#e6e6e6>رفع مستوى الصوت حتى ترى&lt;img src=''>الأيقونة."</Data></string>
     <string name="forget_password_dialog_content_two">اتبع هذه الخطوات لمحو البيانات:</string>
     <string name="forget_password_dialog_title">إعادة تعيين كلمة المرور</string>
@@ -2053,6 +2056,7 @@
     <string name="gadget_picker_title">اختيار أداة</string>
     <string name="gadget_state_off">إيقاف</string>
     <string name="gadget_state_on">تشغيل</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_turning_off">جارٍ إيقاف التشغيل</string>
     <string name="gadget_state_turning_on">جارٍ التشغيل…</string>
     <string name="gadget_sync">المزامنة</string>
@@ -2080,7 +2084,7 @@
     <string name="google_title">غوغل</string>
     <string name="got_it">فهمت</string>
     <string name="gsm_to_wifi_connect_type_title">بطاقة GSM إلى شبكة Wi-Fi</string>
-    <string name="gxzw_add_fingerprint_continue">المتابعة</string>
+    <string name="gxzw_add_fingerprint_continue">متابعة</string>
     <string name="gxzw_add_fingerprint_edge_message">حرك إصبعك لتسجيل حواف بصمتك</string>
     <string name="gxzw_add_fingerprint_edge_title">حرك اصبعك قليلاً</string>
     <string name="gxzw_add_fingerprint_finish">تم!</string>
@@ -2097,6 +2101,7 @@
     <string name="gxzw_anim_metal">معدن</string>
     <string name="gxzw_anim_pulse">نبض</string>
     <string name="gxzw_anim_rhythm">إيقاع</string>
+    <string name="gxzw_anim_star">ضوء النجوم</string>
     <string name="gxzw_anim_title">الرسوم المتحركة لبصمة الأصبع</string>
     <string name="gxzw_dialog_message">حتى تتمكن من استخدام مستشعر بصمة الإصبع على الشاشة بشكل طبيعي، لا تستخدم واقيات الشاشة. إذا كنت تعتقد أن حماية الشاشة لا تزال ضرورية، فاختر أحد خيارات التوافق.</string>
     <string name="gxzw_dialog_not_show_again">لا تظهر مرة اخرى</string>
@@ -2265,7 +2270,7 @@
     <string name="keyboard_shortcuts_helper">مساعد اختصارات لوحة المفاتيح</string>
     <string name="keyboard_shortcuts_helper_summary">عرض الاختصارات المتاحة</string>
     <string name="keyguard_advance_setting_title">إعدادات متقدمة</string>
-    <string name="keyguard_notification_status_title">الإشعارات</string>
+    <string name="keyguard_notification_status_title">عند وصول إشعارات والشاشة متوقفة</string>
     <string name="keyguard_security_setting_others">أخرى</string>
     <string name="keyguard_security_setting_privacy_policy">سياسة الخصوصية</string>
     <string name="keywords_accounts">الحساب</string>
@@ -2375,15 +2380,16 @@
     <string name="lift_to_wake_title">الرفع لتنبيه الجهاز</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">‏%1$d ميغابت في الثانية</string>
     <string name="list_bg_header_text">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك.</string>
     <string name="list_empty_text">فارغ</string>
     <string name="loading_notification_apps">جارٍ تحميل التطبيقات...</string>
     <string name="local_auto_backup_off">متوقف</string>
     <string name="local_auto_backup_on">تشغيل</string>
     <string name="local_auto_backup_section_title">نسخ احتياطي تلقائي</string>
-    <string name="local_backup_password_summary_change">انقر لتغيير كلمة المرور أو إزالتها للنسخ الاحتياطي للشاشة الرئيسية الكاملة</string>
-    <string name="local_backup_password_summary_none">النسخ الاحتياطية الكاملة للشاشة الرئيسية ’ليست محمية حاليًا</string>
-    <string name="local_backup_password_title">كلمه مرور النسخ الإحطياتي الشامل</string>
+    <string name="local_backup_password_summary_change">انقر لتغيير أو حذف كلمة مرور النسخ الاحتياطي الكامل للشاشة الرئيسية</string>
+    <string name="local_backup_password_summary_none">النسخ الاحتياطي الكامل للشاشة الرئيسية ليس محمي</string>
+    <string name="local_backup_password_title">كلمة مرور الشاشة الرئيسية الاحتياطية</string>
     <string name="local_backup_password_toast_confirmation_mismatch">كلمات المرور غير متطابقة</string>
     <string name="local_backup_password_toast_success">تم تعيين كلمة المرور الجديدة للنسخ الاحتياطي</string>
     <string name="local_backup_password_toast_validation_failure">تعذر تعيين نسخة احتياطية لكلمة المرور</string>
@@ -2435,8 +2441,8 @@
     <string name="location_neighborhood_level_wifi">تحديد الموقع من قبل شبكة Wi-Fi</string>
     <string name="location_network_based">Wi-Fiو شبكة الجوال</string>
     <string name="location_no_recent_apps">لم تطلب أي تطبيقات الوصول إلى الموقع مؤخرًا</string>
-    <string name="location_off_summary">إيقاف</string>
-    <string name="location_on_summary">تشغيل / %1$s</string>
+    <string name="location_off_summary">متوقف</string>
+    <string name="location_on_summary">في / %1$s</string>
     <string name="location_scanning_bluetooth_always_scanning_description">يمكنك تحسين دقة الموقع من خلال السماح لتطبيقات وخدمات النظام باكتشاف أجهزة بلوتوث في أي وقت.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">البحث عن بلوتوث</string>
     <string name="location_scanning_screen_title">البحث عن شبكة لاسلكية</string>
@@ -2473,7 +2479,7 @@
     <string name="lock_screen_signature_summary">ستظهر هذه الرسالة على شاشة القفل</string>
     <string name="lock_screen_signature_title">معلومات المالك على شاشة القفل</string>
     <string name="lock_screen_unlock_show">تخطي شاشة القفل</string>
-    <string name="lock_screen_unlock_show_summary">فتح الشاشة الرئيسية مباشرة أو إدخال كلمة المرور</string>
+    <string name="lock_screen_unlock_show_summary">افتح الشاشة الرئيسية أو ادخل كلمة المرور مباشرة</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">انقر للتغيير</string>
     <string name="lock_settings">قفل الشاشة وكلمة المرور</string>
     <string name="lock_settings_common_title">إعدادات القفل</string>
@@ -2588,8 +2594,8 @@
     <string name="lockscreen_glogin_checking_password">جار الفحص…</string>
     <string name="lockscreen_glogin_password_hint">كلمة المرور</string>
     <string name="lockscreen_glogin_submit_button">تسجيل الدخول</string>
-    <string name="lockscreen_magazine">خلفية كاروسيل</string>
-    <string name="lockscreen_magazine_summary">خلفية كاروسيل عالية الجودة</string>
+    <string name="lockscreen_magazine">خلفية الشاشة المُتغيرة</string>
+    <string name="lockscreen_magazine_summary">خلفية مُتغيرة عالية الجودة</string>
     <string name="lockscreen_magazine_title">خلفية كاروسيل</string>
     <string name="lockscreen_remote_input">أثناء قفل الجهاز، منع كتابة ردود أو نصوص أخرى في الإشعارات</string>
     <string name="lockscreen_settings_title">تفضيلات شاشة القفل</string>
@@ -2731,6 +2737,7 @@
     <string name="memory_title">متوفر: %1$s\u0009\u0009إجمالي: %2$s</string>
     <string name="memory_usage">استخدام الذاكرة</string>
     <string name="memory_usage_apps">الذاكرة المستخدمة بواسطة التطبيقات</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">متوسط الذاكرة المستخدمة خلال آخر ٣ ساعات: %1$s</string>
     <string name="menu_cancel">إلغاء</string>
     <string name="menu_check">خبرة</string>
@@ -3006,6 +3013,7 @@
     <string name="network_dashboard_title">الشبكة والإنترنت</string>
     <string name="network_detail">تفاصيل شبكة %s</string>
     <string name="network_error">خطأ في الشبكة</string>
+    <string name="network_name_input_error">تعذر حفظ SSID، حاول مجددا.</string>
     <string name="network_operators_settings">مشغلو الشبكة</string>
     <string name="network_reset_not_available">إعادة ضبط الشبكة ليست متاحة لهذا المستخدم</string>
     <string name="network_restrictions">قيود الشبكات</string>
@@ -3038,6 +3046,7 @@
     <string name="nfc_how_it_works_got_it">حسنًا</string>
     <string name="nfc_how_it_works_title">الدفع في محطة</string>
     <string name="nfc_more_title">المزيد...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">التطبيق الافتراضي للدفع</string>
     <string name="nfc_payment_default_not_set">لم يتم التعيين</string>
     <string name="nfc_payment_favor_default">استخدم دائماً التطبيق الإفتراضي</string>
@@ -3250,6 +3259,7 @@
     <string name="overlay_display_devices_title">محاكاة العرض الثانوية</string>
     <string name="overlay_settings">عرض التطبيق أمام غيره</string>
     <string name="owner_info_settings_edit_text_hint">‏جهاز Android الخاص بهاني مثلاً</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">بدون</string>
     <string name="owner_info_settings_title">توقيع شاشة القفل</string>
     <string name="owner_space">الواجهة الاولى</string>
@@ -3573,6 +3583,8 @@
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -4187,7 +4199,7 @@
     <string name="secondspace_delete_space_title">حذف الواجهة الثانية</string>
     <string name="secspace_fod_finger_tips">تعذر التحقق، حاول مجددا.</string>
     <string name="secspace_fod_finger_title">التحقق من بصمتك</string>
-    <string name="secspace_fod_use_password">أدخل كلمة المرور</string>
+    <string name="secspace_fod_use_password">ادخل كلمة المرور</string>
     <string name="secure_keyguard_business_title">تعيين قفل الشاشة</string>
     <string name="secure_lock_encryption_warning">لن يستخدم جهازك ميزة قفل الشاشة لتحسين تشفير البيانات، وذلك لأنك قد مكّنت إحدى خدمات إمكانية الوصول.</string>
     <string name="security_dashboard_summary">قفل الشاشة، بصمة الإصبع</string>
@@ -4201,6 +4213,7 @@
     <string name="security_encryption_attention_3">سيتوجب عليك تعيين كلمة مرور جديدة لشاشة القفل.</string>
     <string name="security_encryption_attention_4">تأكد من أنك تتذكر كلمة مرور شاشة القفل، وإلا سيتوجب عليك إكمال إعادة تعيين كاملة لمحو كافة البيانات الموجودة على الجهاز.</string>
     <string name="security_encryption_attention_info">يمكنك تشفير حساباتك، الإعدادات، التطبيقات المحمّلة وبياناتها، الوسائط، وملفات أخرى.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">اختيار عدم تشفير الجهاز باستخدام كلمة مرور قفل الشاشة قد يجعل بعض خدمات Google غير متاحة.</string>
     <string name="security_encryption_close_dialog_title">الرجوع الى حماية كلمة المرور الافتراضية</string>
@@ -4300,6 +4313,8 @@
     <string name="services_subtitle">الخدمات</string>
     <string name="set_data_limit">تعيين حد البيانات</string>
     <string name="set_data_warning">تعيين تحذير استخدام البيانات</string>
+    <string name="set_jeejen_prompt_message">سيتم تعيين Jeejen كمشغل افتراضي للجهاز. يمكنك تغيير المشغل الافتراضي من الإعدادات > إعدادات النظام > الشاشة الرئيسية والمستخدم مؤخراً > المشغل الافتراضي.</string>
+    <string name="set_jeejen_prompt_title">تطبيق التغييرات</string>
     <string name="setting_privacy_password">تعيين كلمة مرور حماية الخصوصية</string>
     <string name="settings_ad_loading">تحميل …</string>
     <string name="settings_ad_loading_unavailable">تعذر تحميل المعلومات.</string>
@@ -4324,13 +4339,13 @@
     <string name="settings_toggle_position_divider_list">مفتاح تبديل مفعّل أعلى الشريط</string>
     <string name="setup_choose_unlock_fingerprint_msg">تعيين قفل الشاشة قبل إضافة بصمة إصبعك.</string>
     <string name="setup_choose_unlock_mixed_password">كلمة المرور</string>
-    <string name="setup_choose_unlock_mixpassword_title">تعيين كلمة مرور</string>
+    <string name="setup_choose_unlock_mixpassword_title">تعيين كلمة المرور</string>
     <string name="setup_choose_unlock_password">رمز PIN</string>
-    <string name="setup_choose_unlock_password_msg">أدخل ٤ أرقام</string>
+    <string name="setup_choose_unlock_password_msg">ادخل ٤ أرقام</string>
     <string name="setup_choose_unlock_password_title">تعيين رمز PIN</string>
     <string name="setup_choose_unlock_pattern">نقش</string>
     <string name="setup_choose_unlock_pattern_title">ارسم نقش إلغاء قفل الشاشة</string>
-    <string name="setup_choose_unlock_type_title">تعيين كلمة مرور</string>
+    <string name="setup_choose_unlock_type_title">تعيين كلمة المرور</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">لقد اخترت استخدام بصمة الإصبع كوسيلة لإلغاء تأمين هاتفك. إذا تخطيت ذلك الآن، فستحتاج إلى إعداده لاحقًا. لن يستغرق منك الإعداد سوى دقيقة تقريبًا.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">هل تريد تخطي إعداد بصمة الإصبع؟</string>
     <string name="setup_fingerprint_enroll_finish_message">لن يلزمك سوى لمس مستشعر بصمات الإصبع لتنشيط الجهاز وإلغاء قفله.</string>
@@ -4339,7 +4354,7 @@
     <string name="setup_lock_settings_picker_message">يمكنك منع الآخرين من استخدام هذا الهاتف بدون إذنك من خلال تنشيط ميزات حماية الجهاز. اختر قفل الشاشة الذي تريد استخدامه.</string>
     <string name="setup_lock_settings_picker_title">حماية هاتفك</string>
     <string name="setup_password_back">رجوع</string>
-    <string name="setup_password_confirm">تأكيد</string>
+    <string name="setup_password_confirm">موافق</string>
     <string name="setup_wifi_nfc_tag">‏إعداد علامة NFC عبر Wi-Fi</string>
     <string name="severe_threats_summary">تلقي تنبيهات بشأن التهديدات القصوى للحياة والممتلكات</string>
     <string name="severe_threats_title">التهديدات القصوى</string>
@@ -4453,6 +4468,7 @@
     <string name="sim_reenter_new">إعادة كتابة رقم التعريف الشخصي الجديد</string>
     <string name="sim_select_card">‏تحديد شريحة SIM</string>
     <string name="sim_selection_required_pref">يلزم التحديد</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">‏بطاقات SIM</string>
     <string name="sim_setup_wizard_title">‏بطاقات SIM</string>
     <string name="sim_signal_strength">%1$d ديسبل ميلي واط %2$d وحدة إشارة واحدة</string>
@@ -4466,6 +4482,7 @@
     <string name="size_kilo_byte">كيلوبايت</string>
     <string name="size_mega_byte">ميغابايت</string>
     <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip_anyway_button_label">التخطي على أي حال</string>
     <string name="skip_label">تخطي</string>
@@ -4495,8 +4512,8 @@
     <string name="sos_privacy_and_content_policy">اتفاقية المستخدم وسياسة الخصوصية</string>
     <string name="sos_privacy_dialog_button_cancel">إلغاء</string>
     <string name="sos_privacy_dialog_button_ok">أوافق</string>
-    <string name="sos_privacy_dialog_message">"اقرأ ووافق على %s لدينا قبل استخدام هذه الميزة.r
-تتطلب هذه الميزة أذونات الوصول إلى موقعك واستخدام شبكات الجوال وقراءة جهات الاتصال الخاصة بك. أوافق؟"</string>
+    <string name="sos_privacy_dialog_message">"اقرأ ووافق على %s لدينا قبل استخدام هذه الميزة.
+تتطلب هذه الميزة أذونات الوصول إلى موقعك واستخدام شبكات الجوال وقراءة جهات الاتصال الخاصة بك. موافق؟"</string>
     <string name="sos_privacy_dialog_title">الأحكام والشروط</string>
     <string name="sound_category_call_ringtone_vibrate_title">نغمة الرنين واصوات الإشعار</string>
     <string name="sound_category_sound_title">إعدادات عامة</string>
@@ -4550,6 +4567,7 @@
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="status_bar_settings_app_notification_preferences">إعدادات التطبيق</string>
     <string name="status_bar_settings_basic_settings">الإعدادات الأساسية</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_custom_carrier">تعديل اسم شركة الاتصالات</string>
     <string name="status_bar_settings_custom_wifi_name">تعديل اسم Wi-Fi</string>
     <string name="status_bar_settings_customer_feedback">الإبلاغ عن خلل</string>
@@ -4795,6 +4813,7 @@
     <string name="sum_carrier_select">اختيار مشغل شبكة</string>
     <string name="summary_divider_text">"، "</string>
     <string name="summary_font_size_v2">تعديل حجم النص والصور والأيقونات</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s إلى %2$s</string>
     <string name="super_resolution_access_title">التطبيقات القابلة للوصول</string>
     <string name="super_resolution_desc">اجعل الصور أكثر وضوحا باستخدام خوارزمية AI</string>
@@ -5027,8 +5046,9 @@
     <string name="turn_off_keyguard_password_alert_title">إيقاف التشغيل</string>
     <string name="turn_off_keyguard_password_confirm_msg">بعض ميزات الحماية لن تعمل بدون كلمة المرور الخاصة بك.</string>
     <string name="turn_off_keyguard_password_wait_dialog">جارٍ إيقاف كلمة المرور…</string>
+    <string name="turn_off_keyguard_password_with_face_confirm_msg">بعد إيقاف تشغيل كلمة مرور قفل الشاشة، سيتم حذف بيانات الوجه المسجلة. لن تتمكن من إلغاء قفل الجهاز باستخدام وجهك.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">لن تتمكن من إلغاء قفل جهازك بإستخدام بصمة الأصبع بعد إلغاء كلمة المرور.</string>
-    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">بعد إيقاف تشغيل كلمة مرور قفل الشاشة، سيتم حذف بصمات الأصابع المسجلة. لن تتمكن من إلغاء قفل الجهاز باستخدام بصمة الإصبع الخاصة بك.</string>
+    <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">بعد إيقاف تشغيل كلمة مرور قفل الشاشة، سيتم حذف بصمات الأصابع وبيانات الوجة المسجلة. لن تتمكن من إلغاء قفل الجهاز باستخدام بصمة الإصبع أو وجهك.</string>
     <string name="turn_off_security_lock">إيقاف تشغيل القفل</string>
     <string name="turn_on_keyguard_password">تفعيل كلمة مرور شاشة القفل</string>
     <string name="turn_on_keyguard_password_alert">تذكر كلمة مرور جهازك. إذا نسيتها، لن تكون قادرا على استعادتها.</string>
@@ -5119,12 +5139,12 @@
     <string name="unlock_set_unlock_none_title">لا شيء</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_off_title">بدون</string>
-    <string name="unlock_set_unlock_password_none">بدون</string>
-    <string name="unlock_set_unlock_password_summary">أدخل ٤ حروف أو أرقام أو أكثر لفتح الجهاز</string>
+    <string name="unlock_set_unlock_password_none">لا شيء</string>
+    <string name="unlock_set_unlock_password_summary">ادخل ٤ حروف أو أرقام أو أكثر لفتح الجهاز</string>
     <string name="unlock_set_unlock_password_title">كلمة المرور</string>
     <string name="unlock_set_unlock_pattern_summary">ارسم نقش بسيط بإصبعك لإلغاء قفل الجهاز</string>
     <string name="unlock_set_unlock_pattern_title">نقش</string>
-    <string name="unlock_set_unlock_pin_summary" formatted="false">أدخل %d-%d أرقام لإلغاء قفل الجهاز</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">ادخل %d-%d أرقام لإلغاء قفل الجهاز</string>
     <string name="unlock_set_unlock_pin_title">رمز PIN</string>
     <string name="unlock_set_unlock_summary">تعيين قفل الشاشة</string>
     <string name="unlock_setup_wizard_fingerprint_details">‏بعد إعداد قفل شاشة، يمكنك أيضًا إعداد بصمة إصبعك في الإعدادات > الأمان.</string>
@@ -5795,9 +5815,11 @@
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
@@ -5984,10 +6006,13 @@
     <string name="work_profile_usage_access_warning">لن يؤدي إيقاف وصول هذا التطبيق إلى بيانات الاستخدام إلى منع المشرف من تتبع استخدام البيانات للتطبيقات في الملف الشخصي للعمل.</string>
     <string name="work_ringtone_title">نغمة رنين هاتف العمل</string>
     <string name="work_sim_title">‏شريحة SIM للعمل</string>
+    <string name="work_sound_permission_dialog_button_text_known">فهمت</string>
+    <string name="work_sound_permission_dialog_message">لا يمكنك استخدام السمات في وضع المؤسسة. تواصل مع مشرفك للحصول على الأذن.</string>
+    <string name="work_sound_permission_dialog_title">قيود وضع المؤسسة</string>
     <string name="work_sound_same_as_personal">مثل الملف الشخصي</string>
     <string name="work_space_delete">حذف واجهة العمل</string>
     <string name="work_space_delete_confirm">حذف الآن</string>
-    <string name="work_space_delete_description">لن تتمكن من الدخول إلى واجهة العمل بعد حذفك له. سيتم نقل أو حذف جميع البيانات.</string>
+    <string name="work_space_delete_description">لن تتمكن من الدخول إلى واجهة العمل بعد حذفك لها. سيتم نقل أو حذف جميع البيانات.</string>
     <string name="work_sync_dialog_message">سيتم استخدام أصوات ملفك الشخصي لملف العمل الشخصي</string>
     <string name="work_sync_dialog_title">هل تريد استبدال الأصوات؟</string>
     <string name="work_sync_dialog_yes">استبدال</string>
