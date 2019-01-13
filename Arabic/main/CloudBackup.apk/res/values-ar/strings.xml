@@ -27,9 +27,9 @@
     <string name="cloud_back_up_frequence_choice_title">جدولة النسخ الاحتياطي</string>
     <string name="cloud_back_up_frequence_long">كل ٧ أيام</string>
     <string name="cloud_back_up_frequence_short">كل يوم</string>
-    <string name="cloud_back_up_share_activity_title">ترقية حساب Mi</string>
-    <string name="cloud_back_up_share_activity_discription">الحصول على مساحة تخزين اكثر, نسخ احتياطي يومي, والمزيد.</string>
-    <string name="cloud_back_up_share_activity_confirm">ترقية</string>
+    <string name="cloud_back_up_subscribe_vip_title">Upgrade Mi Account</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Get more storage space, daily backups, and more.</string>
+    <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
     <string name="cloud_back_up_detail_discription">"عند الاتصال بشبكة Wi-Fi، سيتم إنشاء نسخة احتياطية في Mi Cloud من العناصر التالية: 
 *  التطبيقات وتنسيق الشاشة الرئيسية وخلفيات الشاشة. 
 *   المنبه والساعة وإعدادات الوقت. 
@@ -50,6 +50,8 @@
     <string name="self_device_second_space">الواجهة الثانية لهذا الهاتف</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="size_unknown">حجم غير معروف</string>
     <string name="recovering">استعادة \"%s\"</string>
@@ -59,6 +61,7 @@
     <string name="backing_up_to_micloud">جارٍ النسخ الاحتياطي…</string>
     <string name="restore_from_cloud">الاستعادة من Mi Cloud</string>
     <string name="backup_to_cloud">نسخ التطبيق احتياطيًا</string>
+    <string name="restoring_file_title_no_progress">جارٍ إستعادة الملفات…</string>
     <string name="menu_item_sort">ترتيب حسب</string>
     <string name="menu_item_sort_name">الإسم</string>
     <string name="menu_item_sort_size">الحجم</string>
@@ -86,6 +89,8 @@
     <string name="recover_miui_settings">استعادة إعدادات النظام</string>
     <string name="wait_icon_download">تنزيل أيقونات التطبيق</string>
     <string name="download_settings_fail">تعذر تنزيل إعدادات الشاشة الرئيسية</string>
+    <string name="restore_init_description">بدء الإستعادة</string>
+    <string name="restore_finish_description">انتهت الإستعادة</string>
     <string name="backup_fail_wifi_needed">تعذر النسخ الاحتياطي، يتطلب Wi-Fi.</string>
     <string name="backup_success">تم الاحتفاظ بنسخة احتياطية بنجاح</string>
     <string name="cloud_task_in_process">أترغب في إيقاف %s وحذف هذه النسخة الإحتياطية؟ لا يمكنك عكس هذا الإجراء.</string>
@@ -131,6 +136,7 @@
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
     <string name="loading_user_backup">جارٍ تحميل النسخ الاحتياطية…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="authentication_failed">تعذر التحقق من الحساب.</string>
     <string name="no_account">لم تقم بتسجيل الدخول إلى حساب Mi.</string>
@@ -173,6 +179,7 @@
     <string name="notification_channel_remind">تذكير</string>
     <string name="done_remove">تم الحذف بنجاح</string>
     <string name="doing_restore_home">جارٍ استعادة الشاشة الرئيسية والإعدادات…</string>
+    <string name="restoring_settings">جارٍ إستعادة الإعدادات…</string>
     <string name="title_alert_cancel_restore">إيقاف الإستعادة</string>
     <string name="msg_alert_cancel_restore">يتم إسترداد العناصر. التوقف الآن؟</string>
     <string name="btn_restore_cancel">إلغاء</string>

@@ -11,6 +11,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_text_copied">تم نسخ النص</string>
     <string name="cancel">إلغاء</string>
+    <string name="children_education">تعليم الأطفال</string>
     <string name="choose_currency">حدد عملة</string>
     <string name="choose_unit">حدد وحدة</string>
     <string name="city">مدينة</string>
@@ -44,10 +45,10 @@
     <string name="devided_by_zero_reminder_message">لا يمكن القسمة على صفر</string>
     <string name="dialog_privacy_content">بالإضافة إلى الوظائف الأساسية، يحتوي التطبيق أيضًا على آلة حاسبة علمية ومحول متعدد الوظائف. تتطلب بعض الوظائف اتصالاً بالإنترنت للتشغيل العادي. يجب عليك قراءة وقبول %1$s and %2$sلدينا قبل استخدام الآلة الحاسبة.</string>
     <string name="dialog_privacy_title">الأحكام والشروط</string>
-    <string name="dialog_rating_desc_ask">How do you feel about Calculator?</string>
-    <string name="dialog_rating_desc_less">Could you give us your feedback as well?</string>
-    <string name="dialog_rating_desc_perfect">Nice! Rate Calculator in App Store as well?</string>
-    <string name="dialog_rating_title">Rate our app</string>
+    <string name="dialog_rating_desc_ask">ما رأيك في الآلة الحاسبة؟</string>
+    <string name="dialog_rating_desc_less">هل يمكنك ترك تعليق أيضا؟</string>
+    <string name="dialog_rating_desc_perfect">رائع! تقييم الآلة الحاسبة في متجر التطبيقات أيضاً؟</string>
+    <string name="dialog_rating_title">تقييم التطبيق</string>
     <string name="digit0">٠</string>
     <string name="digit1">١</string>
     <string name="digit2">٢</string>
@@ -66,9 +67,13 @@
     <string name="error">صيغة خاطئة</string>
     <string name="error_fomrat">الصيغة خطأ</string>
     <string name="exit">خروج</string>
+    <string name="extra_deduction_instruction">تفاصيل الخصم</string>
+    <string name="extra_deduction_tips">انقر فوق الزر الموجود في الزاوية العلوية من الشاشة لعرض تفاصيل الخصم.</string>
+    <string name="extra_deduction_title">الخصومات الإضافية</string>
     <string name="factorialDesc">عاملي</string>
     <string name="fund" />
     <string name="fund_loan">صندوق القروض</string>
+    <string name="further_education">مزيد من التعليم</string>
     <string name="global_network_confirm_content">يحتاج محول العملة الاتصال بالإنترنت ليعمل بشكل طبيعي.</string>
     <string name="global_search_key_area_convertion">المساحة;محول المساحة;محول مساحة</string>
     <string name="global_search_key_calculation">الآلة الحاسبة;آلة حاسبة;وحدة التحويل;المحول;محول الوحدة</string>
@@ -85,7 +90,10 @@
     <string name="global_search_key_word_figure">أرقام مالية</string>
     <string name="golbal_search_calculator_setting">الآلة الحاسبة؛ إعدادات الآلة حاسبة؛ الإعدادات</string>
     <string name="golbal_search_path_calculator_setting">تطبيقات النظام/الآلة الحاسبة/الإعدادات</string>
+    <string name="help_content_desc">المساعدة</string>
+    <string name="home_loan">فوائد الرهن</string>
     <string name="home_title_calculator">الآلة الحاسبة</string>
+    <string name="house_rent">الإيجار</string>
     <string name="income_type" />
     <string name="install">تثبيت</string>
     <string name="install_scanner_to_continued_use">تم إلغاء تثبيت الماسح. هل تريد التثبيت مرة أخرى؟</string>
@@ -109,8 +117,10 @@
     <string name="leftParenDesc">قوس أيسر</string>
     <string name="lg">lg</string>
     <string name="lgDesc">خوارزمية</string>
+    <string name="license_host_unreachable">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="ln">ln</string>
     <string name="lnDesc">خوارزمية طبيعية</string>
+    <string name="loading">لحظة من فضلك…</string>
     <string name="loading_fail_message_no_network">تعذر الاتصال بالشبكة. انقر هنا للمحاولة مجدداً.</string>
     <string name="loading_fail_refresh">تحديث</string>
     <string name="loading_message">جارٍ تحميل التطبيق…</string>
@@ -130,6 +140,7 @@
     <string name="loan_repayment_detail_loading">جارٍ تحميل تفاصيل السداد…</string>
     <string name="loan_repayment_detail_unit">تفاصيل السداد (يوان صيني)</string>
     <string name="loan_unit">(×١٠ ألف)</string>
+    <string name="medical_treatment">العلاج الطبي</string>
     <string name="menuDesc">القائمة</string>
     <string name="minusDesc">ناقص</string>
     <string name="month" />
@@ -165,12 +176,14 @@
     <string name="mortgage_tab_combining_loan">Hybrid</string>
     <string name="mortgage_tab_commercial_loan">تجاري</string>
     <string name="mortgage_years_amount">فترة الرهن</string>
+    <string name="mt_max">المبلغ الذي ادخلته كبير جدًا</string>
     <string name="mulDesc">ضرب</string>
     <string name="negDesc">التبديل بين درجات الحرارة الأقل والأعلى من الصفر</string>
     <string name="network_confirm_content">يحتاج محول العملة والآلات الحاسبة للضرائب والرهن إلى الاتصال بالإنترنت والدخول إلى خدمات الموقع للعمل بشكل طبيعي.</string>
     <string name="network_confirm_title">يتطلب أذونات</string>
+    <string name="none">لا يوجد</string>
     <string name="not_supported_due_to_language">هذه الميزة متوفرة فقط للغة الصينية</string>
-    <string name="ok">OK</string>
+    <string name="ok">موافق</string>
     <string name="percent" />
     <string name="percentDesc">في المئة</string>
     <string name="piDesc">pi</string>
@@ -189,10 +202,10 @@
     <string name="preference_follow_web_title">الموقع الرسمي</string>
     <string name="preference_follow_wechat_title">WeChat</string>
     <string name="preference_follow_weibo_title">Sina Weibo</string>
-    <string name="preference_help">Help &amp; feedback</string>
+    <string name="preference_help">المساعدة والإبلاغات</string>
     <string name="preference_other">أخرى</string>
     <string name="preference_privacy_title">سياسة الخصوصية</string>
-    <string name="preference_rating_title">Rate our app</string>
+    <string name="preference_rating_title">تقييم التطبيق</string>
     <string name="preference_settings">الإعدادات</string>
     <string name="preference_use_degress_summary">قم باستبدال الزاويا النصف قطرية بزوايا في الدالة المثلثية</string>
     <string name="preference_use_degress_title">استخدم الزوايا</string>
@@ -212,6 +225,7 @@
     <string name="social_security" />
     <string name="sqrtDesc">جذر تربيعي</string>
     <string name="start_calculate" />
+    <string name="support_elder">دعم المسنين</string>
     <string name="switchDesc">تبديل</string>
     <string name="tab_title_calculator">الآلة الحاسبة</string>
     <string name="tab_title_convert">المحول</string>
@@ -254,7 +268,7 @@
     <string name="tax_location">الموقع</string>
     <string name="tax_medical">طبي</string>
     <string name="tax_param_error">ادخل أسعار التأمين الصحيحة</string>
-    <string name="tax_rate_provider">البيانات مقدمة من hexun.com و East Money</string>
+    <string name="tax_rate_provider">يتم حسابها وفقًا للقواعد الضريبية الجديدة. البيانات مقدمة من hexun.com و East Money.</string>
     <string name="tax_result_real_get">بعد الضريبه</string>
     <string name="tax_social_insurance">التأمين الأجتماعي</string>
     <string name="tax_thershold_foreign">%s (الرعايا الأجانب)</string>
@@ -548,6 +562,7 @@
     <string name="unit_year">سنة</string>
     <string name="unit_year_format">سنة %s</string>
     <string name="unit_yuan">CNY</string>
+    <string name="updating">جارٍ تحديث الآلة الحاسبة…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
     <string name="voiceDesc">عناصر التحكم في الصوت</string>
     <string name="wf_word_figure">حروف مالية</string>
@@ -572,8 +587,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

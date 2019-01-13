@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -59,15 +77,15 @@
         <item>ستيريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>تحسين جودة الصوت</item>
+        <item>محسّن لجودة الصوت</item>
         <item>توازن الصوت وسرعة الاتصال</item>
-        <item>تحسين جودة الإتصال</item>
+        <item>محسّن لجودة الإتصال</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>الأمثل لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
+        <item>محسّن لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
         <item>جودة الصوت والإتصال المتوازن (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
-        <item>تحسين سرعة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
+        <item>محسّن سرعة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
