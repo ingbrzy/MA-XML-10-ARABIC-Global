@@ -22,7 +22,7 @@
     <string name="sleep_config_enhance_description_non_nfc">كلما اكتشف MIUI أنك نائم، فإنه سيغلق التطبيقات الخلفية ويقييد البلوتوث وGPS وبيانات الجوال و Wi-Fi، ولن تضيء الشاشة للإشعارات.</string>
     <string name="nonui_mode_config_title">الوضع الغير تفاعلي</string>
     <string name="nonui_mode_config_description">لا تضىء الشاشة للإشعارات، قم بإيقاف ضوء LED، مستشعر بصمة الاصبع، وعناصر التحكم باللمس لحفظ البطارية عند اكتشاف MIUI أنك لا تستخدم جهازك.</string>
-    <string name="power_center">استخدام البطارية</string>
+    <string name="power_center">موفر البطارية</string>
     <string name="power_usage">استهلاك الطاقة</string>
     <string name="power_mode">إعدادات الطاقة</string>
     <string name="performance_category">الأداء</string>
@@ -110,4 +110,8 @@
     <string name="extreme_add_white_list_summary">أضف ما يصل إلى ٤ تطبيقات</string>
     <string name="adaptive_battery_title">استخدام البطارية التكيفية</string>
     <string name="adaptive_battery_summary">تقليل البطارية للتطبيقات الغير مستخدمة كثيرا</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="dark_mode_summary">قم بالتبديل إلى الألوان الداكنة لتوفير الطاقة</string>
+    <string name="open_dark_mode">التبديل إلى الوضع الداكن</string>
+    <string name="open_dark_mode_tip">قد تنخفض جودة عرض بعض الميزات في الوضع الداكن. وسيتم استعادتها إلى الوضع الطبيعي عند الخروج من الوضع الداكن، التبديل إلى الوضع الداكن الآن؟</string>
 </resources>

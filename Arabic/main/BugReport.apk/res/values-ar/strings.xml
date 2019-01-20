@@ -438,6 +438,7 @@
     <string name="passport_wrong_phone_number_format">تنسيق رقم الهاتف الذي أدخلته غير صالح</string>
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
     <string name="pic_not_exist">هذه الصورة غير موجودة</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">سيتم ارسال تقريرك مع سجلات الخطأ إلى خوادم Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">تذكر التفضيل</string>
     <string name="post_miui_bbs_failed">تعذر النشر في منتدى MIUI</string>

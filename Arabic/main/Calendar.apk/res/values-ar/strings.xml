@@ -97,6 +97,7 @@
     <string name="card_title_change">مزيد</string>
     <string name="change_response_title">تغيير الإستجابة</string>
     <string name="click_to_share">انقر للمشاركة</string>
+    <string name="close_alarm">إيقاف</string>
     <string name="countdown_event_title">العد التنازلي: %1$s</string>
     <string name="countdown_notify_before_3_day_title">العد التنازلي: %1$s في ۳ أيام</string>
     <string name="countdown_notify_title">العد التنازلي: %1$s</string>
@@ -291,6 +292,8 @@
     <string name="no_visiable_calendar_select_account">إضافة حساب</string>
     <string name="no_visiable_calendar_title">إضافة حساب</string>
     <string name="not_synced">لم تتم المزامنة</string>
+    <string name="notification_channel_description" />
+    <string name="notification_channel_name">تذكيرات التقويم</string>
     <string name="panchang_amanta">Amanta</string>
     <string name="panchang_amanta_month">شهر أمانتا:</string>
     <string name="panchang_ayana">Ayana</string>
