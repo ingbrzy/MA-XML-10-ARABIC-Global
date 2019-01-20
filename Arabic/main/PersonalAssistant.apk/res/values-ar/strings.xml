@@ -296,7 +296,6 @@
     <string name="sms_happened">انتهت</string>
     <string name="stock_card_add">إضافة شركات</string>
     <string name="stock_card_title">الأسهم</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">نظام الألوان</string>
     <string name="stock_list_empty_text">أنت لا تتبع أي شركات.</string>
     <string name="stock_provider">يتم توفير أسعار سوق الأسهم من قبل Webull</string>

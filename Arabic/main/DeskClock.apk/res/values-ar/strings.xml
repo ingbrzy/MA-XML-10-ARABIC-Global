@@ -148,7 +148,6 @@
     <string name="shutdown_alarm_enable_summary">سوف يرن المنبه إذا تم ضبطة ٥ دقائق على الأقل بعد إيقاف تشغيل الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
@@ -166,7 +165,6 @@
     <string name="start_up">بدء</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
-    <string name="symbol_colon">:</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
     <string name="temperature_unit">℃</string>
