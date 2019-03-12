@@ -30,6 +30,9 @@
     <string name="other_settings_auto_update_summary">سيختار MIUI أفضل وقت لتثبيت التحديثات</string>
     <string name="other_settings_ad_enable">توصيات إعلانية مخصصة</string>
     <string name="other_settings_ad_enable_summary">تلقي إعلانات مخصصة استنادا إلى بيانات نشاطك</string>
+    <string name="other_settings_enhanced_lockscreen">خلفية كاروسيل</string>
+    <string name="other_settings_enhanced_lockscreen_summary">احصل على صور وقصص مختارة ترسل إلى شاشة القفل يوميًا. تطبق الشروط والأحكام.</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">الأحكام والشروط</string>
     <string name="back">رجوع</string>
     <string name="next">التالي</string>
     <string name="skip_underline">تخطي هذه الخطوة</string>
@@ -51,7 +54,8 @@
     <string name="terms_of_use_lable_apps">خدمات Mi وخدمات تفعيل Mi SIM و Mi Cloud والعثور على الجهاز والشاشة الرئيسية ومركز الألعاب و MAB ومكونات نظام MIUI Daemon و MSA وخدمات الترجمة والتطبيقات السريعة ومنصة التطبيقات والإحصائيات ورابط Mi</string>
     <string name="terms_of_use_lable_gms">، خدمات متجر Play</string>
     <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
-    <string name="terms_of_use_lable_smart_cards">، والبطاقات الذكية</string>
+    <string name="terms_of_use_lable_smart_cards">والبطاقات الذكية</string>
+    <string name="terms_of_use_lable_vsimcore">، MConnService</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>
@@ -105,13 +109,14 @@
 : ١. عندما تكون الشاشة قيد التشغيل.
 ٢. عند استماعك إلى الموسيقى عند سكون الشاشة."</string>
     <string name="voice_assist_advice">يسمح لك Mi AI باستخدام التحكم الصوتي، ولكنه يستهلك المزيد من الطاقة (+١% كل ساعة).</string>
-    <string name="ai_button_title">حول زر AI</string>
-    <string name="ai_button_desc">استخدم هذا الزر لتشغيل Mi AI واكمال المهام في هاتفك بإستخدام صوتك فقط</string>
+    <string name="ai_button_title">زر AI</string>
+    <string name="ai_button_desc">الوصول السريع إلى مساعد الصوت الذكي</string>
     <string name="ai_button_long_press">اضغط مع الاستمرار</string>
-    <string name="ai_button_long_press_desc">قل الأمر وحرر الزر</string>
+    <string name="ai_button_long_press_desc">اضغط مع الاستمرار على زر AI للتحدث إلى Mi AI</string>
     <string name="ai_button_single_press">اضغط</string>
-    <string name="ai_button_single_press_desc">تشغيل Mi AI</string>
+    <string name="ai_button_single_press_desc">اضغط زر AI لعرض اختصارات Mi AI</string>
     <string name="ai_button_double_press">اضغط مرتين</string>
-    <string name="ai_button_double_press_desc">إعداد ميزات Mi AI</string>
+    <string name="ai_button_double_press_desc">اضغط مرتين على زر AI لإكمال المهام المخصصة</string>
     <string name="zone_picker_title">اختر المنطقة الزمنية</string>
+    <string name="locale_picker_other_locale_title">المزيد من المناطق</string>
 </resources>

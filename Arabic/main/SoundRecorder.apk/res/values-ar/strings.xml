@@ -64,9 +64,15 @@
     <string name="keywords_search_call_record">تسجيل المكالمات;تسجيل المكالمة;تسجيل المكالمة;تسجيلات المكالمة</string>
     <string name="keywords_search_record">تسجيل جديد; إضافة تسجيل;تسجيل;تسجيلات;التحويل النصي;نسخ;المسجل;مسجل الكلام;مسجل الصوت;مسجل التطبيقات;تسجيل التطبيقات;كيف أقوم بالتسجيل;أين هو المسجل;مسجل MIUI</string>
     <string name="keywords_search_record_list">المسجل;التحويل النصي;التحويلات النصية;تسجيل;مشاركة التسجيل;التسجيل;التسجيلات</string>
+    <string name="korea_permission_phone">الهاتف</string>
+    <string name="korea_permission_phone_resc">للوصول إلى حالة الجهاز ومعالجة التسجيلات أثناء المكالمات</string>
+    <string name="korea_permission_record">ميكروفون</string>
+    <string name="korea_permission_record_resc">لتسجيل الصوت</string>
+    <string name="korea_permission_storage">التخزبن</string>
+    <string name="korea_permission_storage_desc">لحفظ التسجيلات</string>
     <string name="loading_order_list">لحظة من فضلك…</string>
     <string name="loading_order_list_empty">لا توجد طلبات هنا.</string>
-    <string name="low_battery_error">أقل من ٥٪ متبقية من البطارية. قم بايقاف وحفظ التسجيل الخاص بك للتأكد من عدم فقدانه.</string>
+    <string name="low_battery_error">أقل من ٥% متبقية من البطارية. قم بايقاف وحفظ التسجيل الخاص بك للتأكد من عدم فقدانه.</string>
     <string name="low_battery_error_confirm">موافق</string>
     <string name="low_battery_error_title">البطارية منخفضة</string>
     <string name="lyric_item_point_count">%1$d إلى %2$d</string>
@@ -85,7 +91,7 @@
     <string name="no_file">فارغ</string>
     <string name="notification_message_all_paused">جارٍ انتظار الاتصال بشبكة Wi-Fi.</string>
     <string name="notification_playback">جارٍ التشغيل…</string>
-    <string name="notification_recording">جارٍ التسجيل…</string>
+    <string name="notification_recording">جارٍ التسجيل …</string>
     <string name="notification_recording_ticker">تم كتم صوت الهاتف</string>
     <string name="notification_stopped">توقف التسجيل</string>
     <string name="notification_title_all_paused">تم إيقاف التنزيل مؤقتاً</string>
@@ -230,7 +236,7 @@
     <string name="speech_recognition_running_tip">"جارٍ المعالجة "</string>
     <string name="start">استئناف</string>
     <string name="status_bar_back">انقر للعودة إلى المسجل</string>
-    <string name="status_bar_recording">جارٍ التسجيل…</string>
+    <string name="status_bar_recording">جارٍ التسجيل …</string>
     <string name="status_bar_recording_pause">تم إيقاف المسجل مؤقتاً</string>
     <string name="text_btn_complete">إيقاف</string>
     <string name="text_btn_list">التسجيلات</string>

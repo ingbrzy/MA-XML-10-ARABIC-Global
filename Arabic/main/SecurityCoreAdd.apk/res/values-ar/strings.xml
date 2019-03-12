@@ -418,7 +418,7 @@
     <string name="ent_licence_code_hint">أدخل رمز الترخيص</string>
     <string name="ent_next_step">التالي</string>
     <string name="ent_get_code_hint">يمكنك الحصول على رموز المؤسسة والترخيص من مشرفك</string>
-    <string name="ent_agree_privacy_policy">لقد قرأت وأوافق على سياسة الخصوصية</string>
+    <string name="ent_agree_privacy_policy">لقد قرأت وموافق على سياسة الخصوصية</string>
     <string name="ent_activation">تفعيل</string>
     <string name="ent_activating">جارٍ التفعيل…</string>
     <string name="ent_installing">جارٍ التثبيت…</string>
@@ -450,15 +450,16 @@
     <string name="undo_success">تم إلغاء الترخيص بنجاح</string>
     <string name="master_clear_apply_title">تنبيه</string>
     <string name="master_clear_apply_step_1">لإلغاء الترخيص، تحتاج إلى إعادة ضبط جهازك على إعدادات المصنع. سيؤدي ذلك إلى حذف جميع الملفات والبيانات نهائيًا، بما في ذلك الحسابات وجهات الاتصال والصور والتطبيقات. قبل إلغاء الترخيص، قم بعمل نسخة احتياطية من جميع البيانات المهمة على جهاز الكمبيوتر الخاص بك.</string>
-    <string name="master_clear_apply_step_2">تأكد من تخزين كافة العناصر المهمة على جهاز الكمبيوتر الخاص بك. بعد النقر على \"موافق\"، سيتم إعادة ضبط جهازك على إعدادات المصنع مع إزالة جميع الملفات والبيانات، بما في ذلك الحسابات وجهات الاتصال والصور والتطبيقات.</string>
+    <string name="master_clear_apply_step_2">تأكد من تخزين كافة العناصر المهمة على جهاز الكمبيوتر الخاص بك. بعد النقر على \"موافق\"، سيتم إعادة ضبط بيانات المصنع لجهازك مع إزالة جميع الملفات والبيانات، بما في ذلك الحسابات وجهات الاتصال والصور والتطبيقات.</string>
     <string name="button_text_next_step">التالي</string>
     <string name="button_text_next_step_timer">الخطوة التالية (%d)</string>
     <string name="dialog_tip_need_network">يحتاج الجهاز الاتصال بالإنترنت لإلغاء الترخيص.</string>
     <string name="dialog_undo_negative">لا تلغي الترخيص</string>
     <string name="dialog_title_service_error">خطأ في الخادم</string>
-    <string name="dialog_message_service_error">تعذر إلغاء الترخيص وإعادة ضبط جهازك على إعدادات المصنع. المحاولة مجدداً</string>
+    <string name="dialog_message_service_error">تعذر إلغاء الترخيص وإعادة ضبط بيانات المصنع. حاول مجدداً</string>
     <string name="dialog_verify">التحقق من بصمتك</string>
     <string name="dialog_verify_fingerprint_retry">تعذر التحقق من بصمة الإصبع. حاول مجدداََ.</string>
     <string name="button_touch">ضع إصبعك على المستشعر</string>
     <string name="button_input_password">ادخل كلمة المرور</string>
+    <string name="master_clear_not_available">إعادة ضبط المصنع مقيد من قِبل شركتك.</string>
 </resources>

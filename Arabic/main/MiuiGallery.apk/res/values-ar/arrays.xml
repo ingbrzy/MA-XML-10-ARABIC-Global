@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>يوم خاص</item>
+        <item>يوم للذكرى</item>
+        <item>لحظات نابضة بالحياة</item>
+    </string-array>
     <string-array name="baby_sexy">
         <item>صبي</item>
         <item>فتاة</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>عطلات نهاية الأسبوع</item>
+        <item>لحظات من الحياة</item>
+        <item>لحظات عطلة نهاية الاسبوع</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>نقل</item>
+        <item>نسخ</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>يناير</item>
@@ -26,6 +41,11 @@
         <item>جد الأم</item>
         <item>جدة الأم</item>
     </string-array>
+    <string-array name="parties_title">
+        <item>معا</item>
+        <item>أوقات طيبة</item>
+        <item>في انسجام تام</item>
+    </string-array>
     <string-array name="relation_with_me">
         <item>انا</item>
         <item>طفل</item>
@@ -48,5 +68,9 @@
         <item>جدة الأب</item>
         <item>جد الأم</item>
         <item>جدة الأم</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>المضي قدماً</item>
+        <item>مليء بالطاقة</item>
     </string-array>
 </resources>

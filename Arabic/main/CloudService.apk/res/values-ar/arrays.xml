@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>لتحديد العناصر المتزامنة</item>
+        <item>لمزامنة الرسائل</item>
+        <item>لمزامنة جهات الاتصال</item>
+        <item>لمزامنة أحداث التقويم</item>
+        <item>لمزامنة العناصر مع الخدمات التي تستخدم التخزين</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>الهاتف</item>
+        <item>SMS</item>
+        <item>جهات الاتصال</item>
+        <item>التقويم</item>
+        <item>التخزبن</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>مزامنة بيانات التطبيق</item>
         <item>نسخ تنسيق الشاشة الرئيسية احتياطياً</item>

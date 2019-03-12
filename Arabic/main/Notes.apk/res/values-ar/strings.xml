@@ -118,6 +118,7 @@
     <string name="menu_title_select_folder">تحديد مجلد</string>
     <string name="menu_unhide">عدم إخفاء</string>
     <string name="menu_unstick">إلغاء التثبيت</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">ليس الآن</string>
     <string name="note_description_content">تطبيق الملاحظات هو أداة رائعة لتسجيل أفكارك. يحتوي على تذكيرات افتراضية ومزامنة للعناصر الخاصة بك إلى Mi Cloud لتتمكن من الوصول إليها في أي مكان وفي أي وقت. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل حذف التطبيق.</string>
     <string name="note_description_title">حول الملاحظات</string>
@@ -129,8 +130,13 @@
     <string name="note_sort_way">حدد طريقة كيفية ترتيب ملاحظاتك</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">ملاحظة تذكير</string>
     <string name="permdesc_accessNote">قد تستخدم التطبيقات الخبيثة هذا للوصول لبياناتك الشخصية.</string>
+    <string name="permission_intro_contact">تدوين الملاحظات التي تتم أثناء المكالمات</string>
+    <string name="permission_intro_microphone">لتسجيل الملاحظات الصوتية</string>
+    <string name="permission_intro_phone">تدوين الملاحظات التي تتم أثناء المكالمات</string>
+    <string name="permission_intro_storage">لحفظ الملاحظات والمرفقات</string>
     <string name="permlab_accessNote">دخول الملاحظات</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">لا تسأل عن تأكيد عند حذف ملاحظة باستخدام إيماءه</string>
     <string name="pref_title_cloud_trash_bin">الملاحظات المحذوفة من Mi Cloud</string>
@@ -213,6 +219,14 @@
     <string name="toast_reach_text_limit_truncate">هذه الملاحظة طويلة جداً. بعض من النص تم قصه من النهاية.</string>
     <string name="toast_refuse_to_record_when_in_call">لا يمكن استخدام هذه الميزة أثناء إجراء المكالمات</string>
     <string name="toast_refuse_to_record_when_in_multi_window">لا يمكن استخدام هذه الميزة مع تقسيم الشاشة</string>
+    <string name="toast_refuse_to_use_contact">"أذونات جهات الاتصال مقيدة.
+اسمح للملاحظات بقراءة جهات الاتصال والعثور على حسابات على الجهاز."</string>
+    <string name="toast_refuse_to_use_external_storage">"أذونات التخزين مقيدة.
+اسمح للملاحظات بقراءة محتويات بطاقة SD."</string>
+    <string name="toast_refuse_to_use_phone_state">"أذونات الهاتف مقيدة.
+اسمح للملاحظات بقراءة حالة الهاتف والهوية."</string>
+    <string name="toast_refuse_to_use_record_audio">"أذونات الميكروفون مقيدة.
+اسمح للملاحظات لتسجيل الصوت."</string>
     <string name="toolbar_check_description">إضافة مربع اختيار</string>
     <string name="toolbar_delete_description">حذف هذه الملاحظة</string>
     <string name="toolbar_gallery_description">إضافة صورة</string>

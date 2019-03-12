@@ -3,7 +3,7 @@
     <string name="camera_setting">الكاميرا</string>
     <string name="path_settings">تطبيقات النظام/الكاميرا/الإعدادات</string>
     <string name="search_settings">إعدادات الكاميرا;الجودة;جودة الصورة;موقع الصورة;موقع الصورة;اكتشاف الوجه;صوت الكاميرا</string>
-    <string name="hibernate_hint">انقر على الشاشة لايقاظ الكاميرا</string>
+    <string name="hibernate_hint">انقر على الشاشة لتشغيل الكاميرا</string>
     <string name="camera_error_title">خطأ في الكاميرا</string>
     <string name="cannot_connect_camera_once">لا يمكن الاتصال بالكاميرا</string>
     <string name="cannot_connect_camera_twice">لا يزال يتعذر الاتصال بالكاميرا. حاول إعادة تشغيل جهازك.</string>
@@ -180,7 +180,7 @@
     <string name="pref_camera_scenemode_entry_off">متوقف</string>
     <string name="pref_camera_scenemode_entry_auto">تلقائي</string>
     <string name="pref_camera_scenemode_entry_portrait">بورتريه</string>
-    <string name="pref_camera_scenemode_entry_landscape">منظر طبيعي</string>
+    <string name="pref_camera_scenemode_entry_landscape">أفقي</string>
     <string name="pref_camera_scenemode_entry_night">ليلي</string>
     <string name="pref_camera_scenemode_entry_night_portrait">بورتريه ليلي</string>
     <string name="pref_camera_scenemode_entry_beach">شاطئ</string>
@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"جرب وضع البورتريه.
 اجعل الشخص أو الشيء واضح أثناء تشويش الخلفية."</string>
     <string name="pref_camera_square_mode_title">مربع</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -588,6 +590,7 @@
     <string name="lighting_pattern_leaf">اوراق اشجار</string>
     <string name="lighting_pattern_dot">نقاط</string>
     <string name="lighting_pattern_shutter">إخفاءات</string>
+    <string name="lighting_pattern_holi">هولي</string>
     <string name="view_privacy_policy">عرض سياسة الخصوصية</string>
     <string name="fps960_toast">يبدأ التقاط الحركة البطيئة في الربع الأخير من التسجيل</string>
     <string name="portrait_bokeh_text">وضع البورتريه</string>
@@ -608,27 +611,27 @@
     <string name="live_speed_extreme_fast">سريع جداً</string>
     <string name="live_sticker_updating">جارٍ التحديث…</string>
     <string name="live_sticker_network_error_hint">خطأ بالشبكة</string>
-    <string name="ultra_wide_mode">زاوية واسعة</string>
+    <string name="ultra_wide_mode">الزاوية الواسعة جدًا</string>
     <string name="beauty_body">الشكل</string>
     <string name="beauty_body_head">الرأس</string>
     <string name="beauty_body_body">نحيف</string>
     <string name="beauty_body_shoulder">الأكتاف</string>
     <string name="beauty_body_legged">الأرجل</string>
     <string name="beauty_body_reset_tip">تم إعادة تعيين تأثيرات الشكل بنجاح</string>
-    <string name="ultra_wide_open_tip">وضع الزاوية الواسعة</string>
-    <string name="ultra_wide_close_tip">وضع الزاوية الواسعة متوقف</string>
-    <string name="pref_camera_zoom_mode_entry_ultra">زاوية واسعة</string>
-    <string name="ultra_wide_recommend_tip_hint">جرب وضع الزاوية الواسعة</string>
+    <string name="ultra_wide_open_tip">وضع الزاوية الواسعة جدًا</string>
+    <string name="ultra_wide_close_tip">وضع الزاوية الواسعة جدًا متوقف</string>
+    <string name="pref_camera_zoom_mode_entry_ultra">واسعة جدًا</string>
+    <string name="ultra_wide_recommend_tip_hint">جرب وضع الزاوية الواسعة جدًا</string>
     <string name="camera_liveshot_on_tip">لقطات ديناميكية</string>
     <string name="camera_liveshot_off_tip">اللقطات الديناميكية متوقفة</string>
     <string name="accessibility_camera_liveshot_on">اللقطات الديناميكية مشغلة</string>
     <string name="accessibility_camera_liveshot_off">اللقطات الديناميكية متوقفة</string>
     <string name="beauty_tab_name_live_filter">فلاتر</string>
     <string name="beauty_tab_name_live_beauty">تجميل</string>
-    <string name="accessibility_ultra_wide_on">وضع الزاوية الواسعة مشغل</string>
-    <string name="accessibility_ultra_wide_off">وضع الزاوية الواسعة متوقف</string>
+    <string name="accessibility_ultra_wide_on">تم تشغيل وضع الزاوية الواسعة جدًا</string>
+    <string name="accessibility_ultra_wide_off">تم إيقاف تشغيل وضع الزاوية الواسعة جدًا</string>
     <string name="ai_scene_top_tip">وضع القمر</string>
-    <string name="pref_camera_ultra_wide_ldc_title">تصحيح التشويه في اللقطات الواسعة</string>
+    <string name="pref_camera_ultra_wide_ldc_title">تصحيح التشويه في اللقطات الواسعة جداً</string>
     <string name="pref_camera_ultra_wide_ldc_description">تصحيح الأجسام المشوهه تلقائيا</string>
     <string name="pref_camera_normal_wide_ldc_title">تصحيح الوجه المشوهه في الصور الجماعية</string>
     <string name="pref_camera_normal_wide_ldc_description">تصحيح الوجوه المشوهة للأشخاص القريبين من حافة الإطار</string>
@@ -638,17 +641,17 @@
     <string name="accessibility_camera_ultra_wide_bokeh_off">وضع الجسم الكامل متوقف</string>
     <string name="ai_scene_top_moon_off">وضع الضوء ضعيف</string>
     <string name="ultra_pixel_photography_48mp_open_tip">٤٨ ميغابكسل</string>
-    <string name="ultra_pixel_photography_48mp_close_tip">٤٨ ميغابكسل متوقف</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_on">٤٨ ميغابكسل مشغل</string>
-    <string name="accessibility_ultra_pixel_photography_48mp_off">٤٨ ميغابكسل متوقف</string>
+    <string name="ultra_pixel_photography_48mp_close_tip">وضع ٤٨ ميغابكسل متوقف</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_on">وضع ٤٨ ميغابكسل مشغل</string>
+    <string name="accessibility_ultra_pixel_photography_48mp_off">وضع ٤٨ ميغابكسل متوقف</string>
     <string name="module_name_professional">إحترافي</string>
     <string name="live_edit_exit_message">التوقف عن التصوير الآن؟</string>
     <string name="live_edit_exit_confirm">إيقاف</string>
     <string name="live_edit_share_title">مشاركة</string>
     <string name="beauty_reset_toast">تم حذف تأثيرات التجميل بنجاح</string>
-    <string name="pref_camera_ultra_wide_mode_title">وضع الزاوية الواسعة</string>
-    <string name="ultra_wide_mode_use_hint_text">"استخدم هذا الوضع لإضافة المزيد من المشاهد في صورتك.
-يساعدك وضع الزاوية الواسعة عندما لا يمكنك الابتعاد كثيراً عن المشهد."</string>
+    <string name="pref_camera_ultra_wide_mode_title">وضع الزاوية الواسعة جدًا</string>
+    <string name="ultra_wide_mode_use_hint_text">"استخدم هذا الوضع لتغطية مساحة أكبر من المشهد في الصورة. 
+وضع الزاوية الواسعة جدا مناسب عندما لا يمكنك التصوير من بعيد."</string>
     <string name="live_reverse_message">حذف العنصر الذي تم التقاطة مسبقاً؟</string>
     <string name="live_reverse_confirm">حذف</string>
     <string name="live_error_title">وقت النظام غير صحيح</string>
@@ -673,4 +676,10 @@
     <string name="accessibility_ultra_pixel_photography_32mp_on">٣٢ ميغابكسل مشغل</string>
     <string name="accessibility_ultra_pixel_photography_32mp_off">٣٢ ميغابكسل متوقف</string>
     <string name="zoom_no_support_tip_48M">التكبير لا يعمل في وضع ٤٨ ميغابكسل</string>
+    <string name="hand_gesture_open_tip">أظهر كف يدك للكاميرا لبدء المؤقت</string>
+    <string name="hand_gesture_tip">التقاط صورة بكف اليد</string>
+    <string name="autozoom_landscape_hint">التقط الصور في الوضع الأفقي للحصول على أفضل تأثير</string>
+    <string name="super_night_toast">ابقي الهاتف ثابت أثناء التصوير</string>
+    <string name="capture_back_pressed_hint">انقر مرة اخرى للخروج</string>
+    <string name="video_ultra_clear_tip">4K UHD</string>
 </resources>

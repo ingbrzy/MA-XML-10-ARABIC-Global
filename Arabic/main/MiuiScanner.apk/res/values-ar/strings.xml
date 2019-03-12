@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="about_title">حول</string>
     <string name="access_sd_fail">تعذر الوصول إلى بطاقة SD</string>
     <string name="accessibility_shutter_button">الغالق</string>
-    <string name="action_search">Search</string>
+    <string name="action_search">بحث</string>
     <string name="address">العنوان:</string>
     <string name="agree_btn">أوافق</string>
     <string name="amazon_assistant_shopping_title">البحث في Amazon</string>
@@ -28,7 +49,7 @@
     <string name="choose_pay_title">تحديد طريقه الدفع</string>
     <string name="choose_picture">تحديد صورة رمز QR</string>
     <string name="common_retake_picture">إعادة التصوير</string>
-    <string name="common_retry">Try again</string>
+    <string name="common_retry">حاول مجددا</string>
     <string name="common_save">حفظ</string>
     <string name="company">الشركة:</string>
     <string name="confirm">موافق</string>
@@ -40,7 +61,7 @@
     <string name="copy_text_success">تم نسخ النص</string>
     <string name="crop_cancel_description">إلغاء</string>
     <string name="crop_done_description">تم</string>
-    <string name="crop_title_study">Crop the photo</string>
+    <string name="crop_title_study">قص الصورة</string>
     <string name="crop_title_translation">حدد نص للترجمة</string>
     <string name="document_color_picture">ملون</string>
     <string name="document_color_picture_tip">جارٍ التحويل إلى ملون…</string>
@@ -65,11 +86,11 @@
     <string name="email">البريد الإلكتروني:</string>
     <string name="error_camera_disabled">تم رفض الوصول إلى الكاميرا وذلك لأسباب حماية</string>
     <string name="error_cannot_connect_camera">لا يمكن الاتصال بالكاميرا</string>
-    <string name="error_empty_result">"Couldn't find results"</string>
+    <string name="error_empty_result">تعذر إيجاد نتائج</string>
     <string name="error_get_image">تعذر الحصول على الصورة</string>
     <string name="error_media_storage_failure">لا يمكن حفظ الصورة</string>
-    <string name="error_permissions">لا يمتلك الماسح الضوئي الأذونات اللازمة من أجل العمل بشكل طبيعي. انتقل إلى الإعدادات وتحقق من الأذونات للمتابعة.</string>
-    <string name="error_server_error">Server error</string>
+    <string name="error_permissions">لا يمتلك تطبيق الماسح الأذونات اللازمة من أجل العمل بشكل طبيعي. انتقل إلى الإعدادات وتحقق من الأذونات للمتابعة.</string>
+    <string name="error_server_error">حدث خطأ في الخادم.</string>
     <string name="fax">فاكس</string>
     <string name="feed_search_fail">لا يوجد نتائج، حاول مجدداً</string>
     <string name="feedback_description_camera_access">لا يمكن للماسح الاتصال بالكاميرا</string>
@@ -77,7 +98,7 @@
     <string name="got_it">حسنا</string>
     <string name="gps">الملاحة</string>
     <string name="import_contact">استيراد جهة اتصال</string>
-    <string name="impunity_declaration_content">يحتاج الماسح الإذن للوصول إلى الكاميرا والتقاط الصور. ويحتاج أيضًا إلى الاتصال بالإنترنت ليعمل بشكل طبيعي. بالنقر على \"أوافق\" يعني أنك قرأت ووافقت على %1$sسياسة الخصوصية%2$s لدينا.</string>
+    <string name="impunity_declaration_content">يحتاج الماسح إلى الوصول إلى الكاميرا لمعالجة الصور التي تم إنشاؤها باستخدام التطبيق. لا تستخدم الماسح لالتقاط صور تحتوي على بياناتك الشخصية. بالنقر على \"أوافق\" ، فإنك تقبل &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"> سياسة الخصوصية &lt;/a>&lt;/font> لدينا، وتسمح للماسح بالاتصال بالإنترنت.</string>
     <string name="impunity_declaration_negative_text">خروج</string>
     <string name="impunity_declaration_title">سياسة الخصوصية</string>
     <string name="label_choose_picture">اختيار صورة</string>
@@ -102,7 +123,7 @@
     <string name="module_title_document">مستند</string>
     <string name="module_title_plant">نبات</string>
     <string name="module_title_shopping">تسوق</string>
-    <string name="module_title_study">Study</string>
+    <string name="module_title_study">واجب منزلي</string>
     <string name="module_title_translation">ترجمة</string>
     <string name="name">الاسم:</string>
     <string name="new_schedule">إنشاء حدث</string>
@@ -114,6 +135,8 @@
     <string name="not_recommend_access_web_url">الذهاب على أية حال</string>
     <string name="note">ملاحظة:</string>
     <string name="open_url">افتح URL</string>
+    <string name="pay_no_tip">لا تظهر مرة اخرى</string>
+    <string name="pay_save_this_choose">تذكر اختياري</string>
     <string name="payment_text">فتح بإستخدام %s</string>
     <string name="phone">الهاتف:</string>
     <string name="place_barcode_into_rectangle">ضع الرمز داخل الإطار</string>
@@ -145,11 +168,11 @@
     <string name="shopping_title">خذ صورة للمنتج</string>
     <string name="shopping_vendor_info">مدعوم من Taobao</string>
     <string name="spaceIsLow_content">لا يوجد مساحة في التخزين الداخلي. قم بتفريغ بعض المساحة.</string>
-    <string name="study_rotate_picture">Processing the photo</string>
-    <string name="study_scan_result">Result</string>
-    <string name="study_searching">Searching for result</string>
-    <string name="study_title">Take a photo of the problem</string>
-    <string name="study_vendor_info">Powered by 作业帮</string>
+    <string name="study_rotate_picture">جارٍ معالجة الصورة…</string>
+    <string name="study_scan_result">النتيجة</string>
+    <string name="study_searching">جارٍ البحث عن نتائج…</string>
+    <string name="study_title">قم بالمسح الضوئي للمشكلة التي ترغب في حلها</string>
+    <string name="study_vendor_info">مدعوم من قِبل Zuoyebang</string>
     <string name="switch_open">تشغيل</string>
     <string name="tel">هاتف</string>
     <string name="title">العنوان:</string>
@@ -160,6 +183,7 @@
     <string name="translate_dest_lang">لغة الترجمة</string>
     <string name="translate_fail">تعذر الترجمة</string>
     <string name="translate_loading">جارٍ الترجمة…</string>
+    <string name="translate_parallel_2_lines">تأكد من أن النص موازي للخطوط الموجودة على الشاشة</string>
     <string name="translate_save_fail">تعذر حفظ الملاحظة</string>
     <string name="translate_src_lang">لغة المصدر</string>
     <string name="translate_text_compare">لغة الترجمة</string>

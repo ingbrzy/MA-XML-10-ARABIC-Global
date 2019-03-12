@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">حزم</string>
     <string name="hints_residual_header_left">المخلفات</string>
     <string name="hints_memory_header_left">الذاكرة</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ملفات كبيرة: %d</string>
     <string name="hints_installed_apps_header_left">التطبيقات المثبتة: %d</string>
     <string name="toast_resolve_apk_error">حل خطأ apk</string>
@@ -299,12 +300,13 @@
     <string name="downloading">جارٍ التحميل</string>
     <string name="installing">جارٍ التثبيت</string>
     <string name="start_install">التثبيت الآن</string>
+    <string name="empty">" "</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
     <string name="connecting">جارٍ الاتصال…</string>
     <string name="clear_bigfiles">حذف الملفات الكبيرة، الصور المتكررة والعناصر الاخرى المهملة</string>
     <string name="clear_immediately">التنظيف الان</string>
-    <string name="clear_safe_notify">أداة مركز الاشعارات</string>
+    <string name="clear_safe_notify">مركز اشعارات التطبيقات المصغرة</string>
     <string name="nb_clear_set">مسح ذاكرة التخزين المؤقت، عرض معلومات البطارية وقائمة الحظر في مركز الاشعارات</string>
     <string name="seton_immediately">تشغيل</string>
     <string name="notify_when">الحصول على إشعار عند وصول حجم سلة المهملات الى ١٠٠ميغابايت</string>
@@ -467,9 +469,9 @@
     <string name="file_not_found">لم يتم ايجاد الملف</string>
     <string name="app_usage_never">لم تستخدم مؤخرا</string>
     <string name="app_usage_recently">استخدم مؤخرا</string>
-    <string name="resutl_function_deep_clean_summary">" يمكن مسح المزيد من "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ملفات لتفريغ المزيد من المساحة.</Data>" "</string>
-    <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> من التخزين المؤقت للـWeChat. تفريغ المزيد من المساحة.</Data>" "</string>
-    <string name="resutl_function_qq_clean_summary">" "<Data>يمكنك حذف &lt;font color=#ff0000 >%1$s&lt;/font> من ذاكرة التخزين المؤقت الناتجة عن تطبيق QQ;</Data>" "</string>
+    <string name="resutl_function_deep_clean_summary">يمكن مسح المزيد من &lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> ملفات لتفريغ المزيد من المساحة.&lt;/Data></string>
+    <string name="resutl_function_wechat_clean_summary">&lt;Data>&lt;font color=#ff0000 >%1$s&lt;/font> من التخزين المؤقت للـWeChat. تفريغ المزيد من المساحة.&lt;/Data></string>
+    <string name="resutl_function_qq_clean_summary">&lt;Data>يمكنك حذف &lt;font color=#ff0000 >%1$s&lt;/font> من ذاكرة التخزين المؤقت الناتجة عن تطبيق QQ;&lt;/Data></string>
     <string name="engine_tm">Tencent</string>
     <string name="engine_cm">Clean Master</string>
     <string name="app_description_title">حول المنظف</string>
@@ -539,13 +541,12 @@
     <string name="whatsapp_function_title">منظف الـ WhatsApp</string>
     <string name="whatsapp_function_summery">حذف مرفقات الـ WhatsApp</string>
     <string name="clean_summary">تم التنظيف %1$s</string>
-    <string name="onekeyclean_boosting_title">يتم زيادة السرعة</string>
+    <string name="onekeyclean_boosting_title">جارٍ زيادة السرعة</string>
     <string name="onekeyclean_boosted_title">تم التنظيف بنجاح</string>
     <string name="onekeyclean_boost_cleaned">تم التنظيف %s</string>
     <string name="onekeyclean_boost_available">%s متوفر</string>
     <string name="onekeyclean_card_summery">تنظيف المهملات لتفريغ المساحة</string>
     <string name="onekeyclean_card_btn">التنظيف الآن</string>
-    <string name="memory_clean_icon_text">تنظيف الذاكرة</string>
     <string name="pref_title_create_onekeyclean_shortcut">عرض اختصار الشاشة الرئيسية</string>
     <string name="memory_clean_no_trash_tip">كل شيء يبدو جيداً</string>
     <string name="toast_updater_open_4g_text">سيتم تحديث التطبيقات باستخدام بيانات الجوال (4G)</string>

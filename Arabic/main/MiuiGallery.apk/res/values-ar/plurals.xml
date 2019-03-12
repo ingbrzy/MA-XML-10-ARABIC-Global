@@ -288,14 +288,6 @@
         <item quantity="few">تخطي %1$d صور لا يمكن تقديمها.</item>
         <item quantity="many">تخطي %1$d صورة لا يمكن تقديمها.</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">%1$d عنصر</item>
-        <item quantity="zero">%1$d عنصر</item>
-        <item quantity="one">%1$d عنصر</item>
-        <item quantity="two">%1$d عناصر</item>
-        <item quantity="few">%1$d عناصر</item>
-        <item quantity="many">%1$d عنصر</item>
-    </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d عنصر بإنتظار النسخ الاحتياطي</item>
         <item quantity="zero">%1$d عناصر بإنتظار النسخ الاحتياطي</item>
@@ -543,5 +535,21 @@
         <item quantity="two">%d عناصر</item>
         <item quantity="few">%d عناصر</item>
         <item quantity="many">%d عنصر</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">%1$d عنصر</item>
+        <item quantity="two">%1$d عناصر</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصر</item>
+    </plurals>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ملف</item>
+        <item quantity="zero">%1$d ملف</item>
+        <item quantity="one">%1$d ملف</item>
+        <item quantity="two">%1$d ملفات</item>
+        <item quantity="few">%1$d ملفات</item>
+        <item quantity="many">%1$d ملف</item>
     </plurals>
 </resources>

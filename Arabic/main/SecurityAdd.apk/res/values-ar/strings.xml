@@ -13,6 +13,7 @@
     <string name="no_network_btn">حاول مرة أخرى</string>
     <string name="main_toolbar_purchase">شحن الرصيد</string>
     <string name="usage_sorted_loading_text">لحظة من فضلك…</string>
+    <string name="empty">" "</string>
     <string name="share">مشاركة</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
@@ -33,4 +34,5 @@
     <string name="gb_weixinpay_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="gb_alipays_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="xunyou_pay_webview">خدمات Xunyou</string>
+    <string name="gamebox_no_network_btn">إعادة التحميل</string>
 </resources>

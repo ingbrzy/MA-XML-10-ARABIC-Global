@@ -42,6 +42,7 @@
     <string name="add_to_last_of_playlist">إضافة الى اخر قائمة التشغيل</string>
     <string name="add_to_playlist_successful">تمت الإضافة بنجاح</string>
     <string name="added_next_play">تمت الإضافة إلى التشغيل التالي</string>
+    <string name="agreement_desc">اتفاقية المستخدم (إلزامي)</string>
     <string name="alaka_required">يجب عليك الدفع للاستماع لهذه الأغنية</string>
     <string name="album_label">أغلفة ألبومات</string>
     <string name="album_name">ألبوم</string>
@@ -53,6 +54,16 @@
     <string name="already_favorited">مفضّلة مسبقا</string>
     <string name="always_use_metered">دائما استخدم بيانات الجوال</string>
     <string name="app_label">التنزيلات</string>
+    <string name="app_permission_confirm">فهمت</string>
+    <string name="app_permission_optional">أذونات اختيارية</string>
+    <string name="app_permission_require">أذونات إلزامية</string>
+    <string name="app_permission_use_desc">الأذونات</string>
+    <string name="app_permission_use_group_account">الحسابات</string>
+    <string name="app_permission_use_group_account_desc">للحصول على معلومات حساب Mi</string>
+    <string name="app_permission_use_group_phone">الهاتف</string>
+    <string name="app_permission_use_group_phone_desc">لخدمات Google Push</string>
+    <string name="app_permission_use_group_storage">التخزبن</string>
+    <string name="app_permission_use_group_storage_desc">لتشغيل والعثور على الأغاني المحفوظة على الجهاز</string>
     <string name="artist">الفنانين</string>
     <string name="artist_area_all">الكل</string>
     <string name="artist_area_china">الصين</string>
@@ -90,9 +101,9 @@
     <string name="click_to_shuffle">انقر للتشغيل العشوائي</string>
     <string name="close_music_time">"الوقت المتبقي: "</string>
     <string name="comment_format" formatted="false">%s: %s</string>
-    <string name="common_google_play_services_enable_button">تمكين</string>
-    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
-    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_button">تفعيل</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
     <string name="common_google_play_services_install_button">تثبيت</string>
     <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
     <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
@@ -119,6 +130,7 @@
     <string name="current_version">الإصدار الحالي</string>
     <string name="data_usage_warning">استخدام البيانات</string>
     <string name="data_usage_warning_summary">قد يؤدي استخدام اتصال بيانات جوالك لتشغيل الموسيقى بجودة عالية إلى زيادة رسوم الاستخدام.</string>
+    <string name="data_use_desc">وثائق قانونية</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="delete">حذف</string>
     <string name="delete_download">حذف</string>
@@ -205,6 +217,7 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
@@ -284,7 +297,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -306,6 +321,7 @@
     <string name="favorite_succeed">تم الإضافة إلى المفضلة</string>
     <string name="favorite_tracks">المفضلة</string>
     <string name="favorites">المفضلة</string>
+    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="feed_back">الإبلاغ عن خلل</string>
     <string name="file_not_found">الملف غير موجود</string>
     <string name="filter_by_duration">حسب المدة</string>
@@ -326,6 +342,7 @@
     <string name="format_not_support">هذة الصيغة غير مدعومة.</string>
     <string name="format_unsupported_or_corrupted">هذة الصيغة غير مدعومة أو أن الملف تالف</string>
     <string name="fragment_title_artist_album">الألبومات</string>
+    <string name="gcm_fallback_notification_channel_label">متنوعة</string>
     <string name="handle_later">ليس الآن</string>
     <string name="hd_quality_audio">جودة الصوت HD</string>
     <string name="headset_and_audio_effect_category">سماعات الرأس ومؤثرات الصوت</string>
@@ -344,7 +361,7 @@
     <string name="hungama_subscribe_positive_button">شراء عضوية PRO</string>
     <string name="hungama_subscribe_title">عضوية PRO</string>
     <string name="i_know">موافق</string>
-    <string name="impunity_declaration_content">يجب أن تقرأ وتوافق على &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">سياسة الخصوصية&lt;/a>قبل استخدام المنتج.</string>
+    <string name="impunity_declaration_content">يجب أن تقرأ وتوافق على &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=ar_EG\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=ar_EG\">سياسة الخصوصية&lt;/a>قبل استخدام المنتج.</string>
     <string name="impunity_declaration_ignore">عدم الإظهار مرة أخرى</string>
     <string name="impunity_declaration_negative_text">خروج</string>
     <string name="impunity_declaration_positive_text">موافق</string>
@@ -409,7 +426,7 @@
     <string name="metered_serious_alert_msg_with_beyond_data">لقد تجاوزت حد بيانات الجوال الخاصة بك بنحو %s. هل تريد استخدام بيانات الجوال لتشغيل الأغاني؟</string>
     <string name="metered_serious_alert_msg_with_data">مزال لديك %s فقط من بيانات الجوال. هل ما زلت تريد تشغيل الموسيقى باستخدام بيانات الجوال؟</string>
     <string name="metered_serious_allow">تشغيل على أي حال</string>
-    <string name="milink_unavaliable_please_update">رابط Mi غير متاح. قم بتحديث MIUI.</string>
+    <string name="milink_unavaliable_please_update">Mi Link غير متاح. قم بتحديث MIUI.</string>
     <string name="missing_title">&lt;غير معروف></string>
     <string name="miuishare_account_login_ok">تسجيل الدخول</string>
     <string name="miuishare_no_network">لا يمكن الاتصال بالشبكة.</string>
@@ -426,7 +443,7 @@
     <string name="modify_song_info_success">تم تحديث معلومات الأغنية</string>
     <string name="more">المزيد</string>
     <string name="more_add_song_list">إضافة أغاني إلى قائمة الانتظار</string>
-    <string name="more_milink_and_bluetooth">Mi Link &amp; البلوتوث</string>
+    <string name="more_milink_and_bluetooth">Mi Link والبلوتوث</string>
     <string name="more_settings">الإعدادات المتقدمة</string>
     <string name="more_settings_summary">مؤقت النوم وتصفية الملفات والمزيد</string>
     <string name="more_share">مشاركة</string>
@@ -539,7 +556,9 @@
     <string name="preset_music_playlist">قائمة تشغيل موسيقى Mi</string>
     <string name="priority_storage">استخدام بطاقة ذاكرة SD خارجية</string>
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
+    <string name="privacy_desc">سياسة الخصوصية (إلزامي)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
@@ -547,6 +566,7 @@
     <string name="pulluprefreshrecyclerview_loading_finished">تم التحميل بنجاح</string>
     <string name="pulluprefreshrecyclerview_loading_running">جارٍ التحميل…</string>
     <string name="queue_is_empty">قائمة الانتظار فارغة.</string>
+    <string name="ready_to_play">التالي</string>
     <string name="recently_played">الحديثة</string>
     <string name="recently_played_songs">الحديثة</string>
     <string name="recommended_file_size_download_in_mobile">استخدم %s من بيانات الجوال لتنزيل هذا الملف؟</string>
@@ -637,6 +657,7 @@
     <string name="start_to_check_new_version">جار التحقق من وجود تحديثات…</string>
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
     <string name="storage_usb">وحدة تخزين USB</string>
@@ -697,6 +718,7 @@
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="version_info">الإصدار</string>
     <string name="video_play_cellular">جهازك غير متصل بشبكة Wi-Fi. استخدام بيانات الجوال؟</string>
     <string name="video_replay_btn">التشغيل مرة أخرى</string>

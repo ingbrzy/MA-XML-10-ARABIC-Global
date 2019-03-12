@@ -23,7 +23,7 @@
     <string name="station_freq_format">%s ميغاهرتز</string>
     <string name="alert_message_delete_station">سيتم حذف هذة المحطة.</string>
     <string name="msg_noantenna_message">لم يتم اكتشاف أية سماعة رأس. قد لا تتوفر بعض الوظائف.</string>
-    <string name="msg_try_plug_headset">قم بتوصيل سماعات الرأس و حاول مجدداً.</string>
+    <string name="msg_try_plug_headset">قم بتوصيل سماعات الرأس وحاول مجدداً.</string>
     <string name="msg_do_not_support_fm">لا يدعم هذا الجهاز راديو FM</string>
     <string name="exit_fm">خروج</string>
     <string name="toast_sleep_mode">سيتوقف تشغيل الراديو خلال %s</string>
@@ -40,8 +40,8 @@
     <string name="alert_frequency_duplicate">هذا التردد موجود مسبقاً</string>
     <string name="hint_frequency">التردد: %1$s ~%2$s</string>
     <string name="hint_label">تسمية</string>
-    <string name="frequency_mhz_fomart">%sميغاهرتز</string>
-    <string name="context_menu_title">%sميغاهرتز</string>
+    <string name="frequency_mhz_fomart">%s ميغاهرتز</string>
+    <string name="context_menu_title">%s ميغاهرتز</string>
     <string name="context_menu_item_edit">تعديل</string>
     <string name="context_menu_item_delete">حذف</string>
     <string name="context_menu_item_favorite">إضافة إلى المفضلة</string>
@@ -60,6 +60,7 @@
     <string name="fm_has_turned_off">تم إيقاف راديو FM</string>
     <string name="msg_fm_starting">جارٍ البدء…</string>
     <string name="txt_sleep_mode">وضع السكون</string>
+    <string name="txt_divider">" | "</string>
     <string name="group_favor">المفضلة</string>
     <string name="group_other">أخرى</string>
     <string name="using_recorder_dialog_title">يتطلب إذن</string>

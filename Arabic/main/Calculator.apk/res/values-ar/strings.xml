@@ -249,6 +249,11 @@
     <string name="tax_credit_mortgage">الرهن</string>
     <string name="tax_credit_personal_income_tax">ضريبة الدخل الشخصي</string>
     <string name="tax_credit_pretax_income">الدخل قبل الضريبة (يوان صيني)</string>
+    <string name="tax_detail">تفاصيل الضريبة</string>
+    <string name="tax_detail_amount">مبلغ الضريبة</string>
+    <string name="tax_detail_rate">معدل الضريبة</string>
+    <string name="tax_detail_take_off">الخصم</string>
+    <string name="tax_detail_tax_payed">المبلغ المدفوع</string>
     <string name="tax_edittext_hint" />
     <string name="tax_endowment">تمويل التقاعد</string>
     <string name="tax_fixed_salary_hint">أدخل الدخل قبل الضريبة</string>
@@ -263,11 +268,13 @@
     <string name="tax_individual_income_tax_result">النتائج</string>
     <string name="tax_injury">أذى</string>
     <string name="tax_insurance_and_fund">تأمين</string>
+    <string name="tax_insurance_and_fund_detail">تفاصيل التأمين</string>
     <string name="tax_last_salary_hint">أدخل الدخل الخاص بك</string>
     <string name="tax_last_salary_number">الدخل</string>
     <string name="tax_location">الموقع</string>
     <string name="tax_medical">طبي</string>
     <string name="tax_param_error">ادخل أسعار التأمين الصحيحة</string>
+    <string name="tax_payment_period">عدد المدفوعات</string>
     <string name="tax_rate_provider">يتم حسابها وفقًا للقواعد الضريبية الجديدة. البيانات مقدمة من hexun.com و East Money.</string>
     <string name="tax_result_real_get">بعد الضريبه</string>
     <string name="tax_social_insurance">التأمين الأجتماعي</string>
@@ -587,8 +594,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

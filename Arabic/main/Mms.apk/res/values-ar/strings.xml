@@ -45,6 +45,10 @@
     <string name="audio_message_mx_offline">تعذر تنزيل الصوت. رسالة Mi غير متصلة او غير متاحة.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">لا يوجد اتصال بالشبكة و لم يتم تثبيت بطاقة SIM خاطئة. قم بتثبيت بطاقة SIM التي تم إرسال الرسالة منها ثم قم بالاتصال بالشبكة.</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">تشغيل الرسائل الذكية</string>
+    <string name="auto_identify_btn_text_when_all_disabled">كشف تلقائيا لهوية المرسل</string>
+    <string name="auto_identify_btn_title">تم إرسال هذه الرسالة من رقم مجهول.</string>
+    <string name="auto_identify_confirmation">قد يستغرق عدة دقائق لتفعيل هذه الميزة.</string>
     <string name="back_to_message_list">الرجوع إلى قائمة الرسائل</string>
     <string name="batch_adding_progress_message">جارٍ الإضافة…</string>
     <string name="batch_deleting_message_progress_message">جارٍ الحذف…</string>
@@ -153,7 +157,7 @@
     <string name="delete">حذف</string>
     <string name="delete_bookmark">حذف من المفضلة</string>
     <string name="delete_message">حذف</string>
-    <string name="delete_phrase">حذف الإستجابة</string>
+    <string name="delete_phrase">حذف الرد</string>
     <string name="delete_unlocked">حذف الرسائل المؤمَنة</string>
     <string name="delete_wild_sims">حذف الأرقام</string>
     <string name="delete_wild_sims_confirm">سيتم حذف جميع الرسائل المتعلق بالأرقام المحددة في هذا الهاتف. يمكنك استعادتها من i.mi.com</string>
@@ -186,7 +190,7 @@
     <string name="duration_zero">يجب أن تكون المدة أكبر من ٠ ثانية</string>
     <string name="earlier">في وقت سابق</string>
     <string name="edit">تعديل</string>
-    <string name="edit_phrase">تعديل الإستجابات السريعة</string>
+    <string name="edit_phrase">تعديل الردور السريعة</string>
     <string name="edit_slide_activity">تعديل الشريحة</string>
     <string name="edit_slideshow_activity">تعديل عرض الشرائح</string>
     <string name="enabled">مشغّل</string>
@@ -220,6 +224,7 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_message_select_title">إعادة توجيه الرسالة</string>
@@ -290,6 +295,7 @@
     <string name="menu_pick_from_contact">تحديد من جهات الاتصال</string>
     <string name="menu_preferences">الإعدادات</string>
     <string name="menu_send_as_common">إرسال كرسالة نصية قصيرة(SMS)</string>
+    <string name="menu_traffic_destination">الوجهة</string>
     <string name="menu_unlock">حذف من المفضلة</string>
     <string name="menu_view_contact">عرض جهات الإتصال</string>
     <string name="message_class_label">"فئة الرسالة: "</string>
@@ -343,11 +349,11 @@
     <string name="mx_activate_error_server">تعذر التفعيل</string>
     <string name="mx_activate_error_sim_change">يبدو بأنك قمت بتبديل بطاقات SIM. يجب إعادة تفعيل رسالة Mi.</string>
     <string name="mx_activate_error_title">تعذر التفعيل</string>
-    <string name="mx_activate_hint_malformed_info">قد تكون هناك حاجة لارسال رسالة قصيرة (SMS) لتفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="mx_activate_hint_server">قد تكون هناك حاجة لارسال رسالة قصيرة (SMS) لتفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="mx_activate_hint_sim_change">قد تكون هناك حاجة لارسال رسالة قصيرة (SMS) لإعادة تفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="mx_activate_int_hint_malformed_info">قد تكون هناك حاجة لارسال رسالة (SMS) دولية لإعادة تفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="mx_activate_int_hint_server">قد تكون هناك حاجة لارسال رسالة (SMS) دولية لإعادة تفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="mx_activate_hint_malformed_info">قد تكون هناك حاجة لارسال رسالة SMS لتفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="mx_activate_hint_server">قد تكون هناك حاجة لارسال رسالة SMS لتفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="mx_activate_hint_sim_change">قد تكون هناك حاجة لارسال رسالة SMS لإعادة تفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="mx_activate_int_hint_malformed_info">قد تكون هناك حاجة لارسال رسالة SMS دولية لإعادة تفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="mx_activate_int_hint_server">قد تكون هناك حاجة لارسال رسالة SMS دولية لإعادة تفعيل رسالة Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
     <string name="mx_activate_int_hint_sim_change">يبدو أنك قمت بتبديل بطاقات SIM. قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل خدمة النص والصوت المجانية. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
     <string name="mx_activate_network_allow_notice">تحتاج هذه الميزة إلى استخدام كمية قليلة من بيانات الجوال عند تفعيلها للتحقق من حالة المستخدم الآخر. الموافقة؟</string>
     <string name="mx_activate_status_desc_activating_now">جارٍ التفعيل…</string>
@@ -388,6 +394,7 @@
     <string name="mx_stranger_recommend_msg">حظر رسائل Mi من الأرقام الغير معروفة</string>
     <string name="mx_type_guide">إرسال رسائل مجانية لمستخدمي MIUI الآخرين</string>
     <string name="need_download">جارٍ المزامنة…</string>
+    <string name="net_sms_subscribed">تم الأشتراك بنجاح</string>
     <string name="net_sms_unsubscribe">تم إلغاء الأشتراك بنجاح</string>
     <string name="network_error_description">حدث خطأ ما في الشبكة، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="networking_allow_continue">السماح</string>
@@ -396,8 +403,8 @@
     <string name="networking_allow_title">تنبيه</string>
     <string name="new_message">إنشاء رسالة</string>
     <string name="new_message_arrived">يوجد لديك رسالة جديدة</string>
-    <string name="new_phrase">إضافة استجابة</string>
-    <string name="new_phrase_hint">أدخل استجابة جديدة</string>
+    <string name="new_phrase">إضافة رد</string>
+    <string name="new_phrase_hint">أدخل رد جديد</string>
     <string name="no">إلغاء</string>
     <string name="no_block_button_msg">إلغاء حظر</string>
     <string name="no_conversations">لا توجد محادثات</string>
@@ -422,16 +429,17 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">رسائل جديدة</string>
     <string name="number_add_hint">أدخل رقم الهاتف</string>
+    <string name="number_recognition_partner">مزودي خدمة التعرف على هوية المرسل</string>
     <string name="open_audio_record_panel">افتح اللوحة لتسجيل الصوت</string>
     <string name="open_edit_sms_panel">افتح اللوحة لتعديل الرسالة</string>
     <string name="open_url_with_web">هل تريد فتح عنوان الـ URL هذا في المتصفح؟</string>
     <string name="over_max_mms_size">.رسالة الوسائط المتعددة كبيرة جدًا</string>
     <string name="overwrite_edited_content">سوف تتم الكتابة فوق المحتويات التي قمت بتعديلها.</string>
     <string name="packages_select_sim_cards_title">تحديد بطاقة SIM</string>
-    <string name="phrase_confirm_delete_message">سيتم حذف هذه الإستجابة.</string>
-    <string name="phrase_empty">لا توجد استجابات</string>
+    <string name="phrase_confirm_delete_message">سيتم حذف هذة الرد.</string>
+    <string name="phrase_empty">لا توجد ردود</string>
     <string name="phrase_from">من %1s</string>
-    <string name="phrase_list_title">استجابات سريعة</string>
+    <string name="phrase_list_title">الردود السريعة</string>
     <string name="pick_too_many_recipients">عدد كبير من المستلمين</string>
     <string name="play">تشغيل</string>
     <string name="playing_failed">لا يمكن التشغيل</string>
@@ -661,6 +669,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مُرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
@@ -732,7 +741,7 @@
     <string name="storage_unavailable">لا توجد مساحة متوفرة</string>
     <string name="subject_hint">الموضوع</string>
     <string name="subject_label">"الموضوع: "</string>
-    <string name="subscribe">Subscribe</string>
+    <string name="subscribe">اشتراك</string>
     <string name="summary_pref_cm_smart_sms">نماذج البطاقات وأرقام خدمة الرسائل القصيرة وغيرها.</string>
     <string name="switch_to_editor">وضع المحرر</string>
     <string name="switch_to_menu">وضع القائمة</string>
@@ -759,6 +768,7 @@
     <string name="too_many_attachments">لا يمكن تجاوز%1$sمرفق. فقط المرفق الأول%2$sسيتم إضافته.</string>
     <string name="too_many_recipients">تحتوي الرسالة على عدد كبير من المستلمين(%1$s). لا يمكن أن يكون لديك أكتر من %2$sمستلم.</string>
     <string name="too_many_unsent_mms">لا يمكن إرسال الرسالة في الوقت الحالي. يوجد الكثير من رسائل الوسائط المتعددة الغير مرسلة.</string>
+    <string name="train_edit_destination">إضافة</string>
     <string name="try_to_send">محاولة الإرسال</string>
     <string name="type_attachment">المرفقات</string>
     <string name="type_audio">الصوت</string>

@@ -175,6 +175,12 @@
     <string name="wifi_assistant_wifi_no_internet">لا يمكن لشبكة Wi-Fi هذه الوصول إلى الإنترنت</string>
     <string name="wifi_assistant_wifi_no_internet_detail">انقر لعرض التفاصيل</string>
     <string name="resolver_app_recommend_flag">موصى به</string>
+    <string name="resolver_checkbox_once">مرة</string>
+    <string name="resolver_checkbox_always">دائماً</string>
+    <string name="resolver_mi_browser">متصفح Mi</string>
+    <string name="resolver_recommend_options_tag">خيارات موصى بها</string>
+    <string name="resolver_offical_recommend">رسمي</string>
+    <string name="resolver_other_method">خيارات أخرى</string>
     <string name="voice_button_action_up">انقر للتحدث</string>
     <string name="voice_button_action_down">حرّره للبحث</string>
     <string name="voice_begin">ما الذي تبحث عنه؟</string>

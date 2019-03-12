@@ -23,4 +23,5 @@
     <string name="debug_tool_email_body">مرفق مع قاعدة بيانات التقويم الخاصة بي مع كل المواعيد والمعلومات الشخصية. تعامل مع الرعاية.</string>
     <string name="channel_name">تذكيرات التقويم</string>
     <string name="channel_description" />
+    <string name="cta_notice">افتح التقويم واسمح له بالاتصال بالإنترنت أولاً.</string>
 </resources>
