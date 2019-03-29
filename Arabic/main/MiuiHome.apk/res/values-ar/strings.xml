@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة الشاشة</string>
@@ -114,6 +115,7 @@
     <string name="edit_mode_group_error_full">لا توجد مساحة كافية</string>
     <string name="edit_mode_group_error_in_folder">أغلق المجلد قبل تجميع الأيقونات</string>
     <string name="edit_mode_group_error_one_folder">لا يمكنك تكرار المجلد مع الرموز المحددة</string>
+    <string name="edit_mode_top_menu_finish">تم</string>
     <string name="edit_mode_uninstall">إلغاء التثبيت</string>
     <string name="editing_add_widget_tips">تعديل التطبيقات المصغرة</string>
     <string name="editing_mode_enter_tip_text">إلمس لتعديل الشاشة الرئيسية</string>
@@ -141,7 +143,7 @@
     <string name="free_style_edit_move_tip">إضغط لمدة طويلة لنقل عنصر</string>
     <string name="free_style_edit_tab_free_component">عناصر</string>
     <string name="free_style_edit_tab_shortcut">الإختصارات</string>
-    <string name="free_style_edit_tab_widget">التطبيقات المصغرة</string>
+    <string name="free_style_edit_tab_widget">الإضافات</string>
     <string name="free_style_enter_tip">لعرض Mi Space، مرر من أعلى الشاشة لأسفل باستخدام أصبعين</string>
     <string name="free_style_exit_tip">للعودة إلى الشاشة الرئيسية، مرر من أسفل الشاشة لأعلى باستخدام أصبعين</string>
     <string name="free_style_londing_text">لحظة من فضلك…</string>
@@ -215,6 +217,7 @@
     <string name="menu_default_screen_preview">تعيين الشاشة الإفتراضية</string>
     <string name="menu_edit">تعديل الشاشة الرئيسية</string>
     <string name="menu_exit_scene">الخروج من Mi Space</string>
+    <string name="menu_finish">تم</string>
     <string name="menu_item_add_item">وضع على الشاشة الرئيسية</string>
     <string name="menu_launcher_setting">إعدادات المشغل</string>
     <string name="menu_lock">قفل تنسيق الشاشة الرئيسية</string>
@@ -352,15 +355,15 @@
     <string name="widget_gadget_player">موسيقى</string>
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
+    <string name="widgets_preview_title">إضافة تطبيق مصغر</string>
     <string name="home_gesture_content_center">مركز المحتوى</string>
     <string name="home_gesture_global_search">بحث</string>
     <string name="home_gesture_no_action">لا يوجد</string>
     <string name="home_gesture_notification_bar">الإشعارات</string>
     <string name="home_pull_down_action">مرّر لأسفل على الشاشة الرئيسية</string>
     <string name="home_slide_up_action">مرّر لأعلى على الشاشة الرئيسية</string>
-    <string name="launcher_pull_down_title">مرّر لأعلى على الشاشة الرئيسية</string>
-    <string name="launcher_slide_up_title">مرّر لأسفل على الشاشة الرئيسية</string>
-    <string name="menu_finish">تم</string>
-    <string name="minus_one_screen">minus one screen</string>
-    <string name="widgets_preview_title">إضافة تطبيق مصغر</string>
+    <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
+    <string name="launcher_slide_up_title">مرّر لأعلى على الشاشة الرئيسية</string>
+    <string name="launcher_sliding_up_gesture">مرّر لأعلى على الشاشة الرئيسية لفتح البحث</string>
+    <string name="minus_one_screen">منصة التطبيقات</string>
 </resources>

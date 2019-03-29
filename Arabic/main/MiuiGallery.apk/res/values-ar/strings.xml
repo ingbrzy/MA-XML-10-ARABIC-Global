@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">+999</string>
-    <string name="confirm_recommandation_face_is">&lt;Data> متأكد أن هذا &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هذا الشخص إلى \"%2$s\" ألبوم. &lt;/Data></string>
-    <string name="confirm_recommandation_face_not">&lt;Data> متأكد أن هذا ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> متأكد أن هؤلاء f&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هؤلاء الاشخاص إلى \"%2$s\" ألبوم. &lt;/Data></string>
-    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> متأكد أن هؤلاء ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ &lt;/Data></string>
     <string name="accept">قبول</string>
     <string name="accept_or_deny">%1$s قام بمشاركة الألبوم %2$s معك.</string>
     <string name="actionbar_overflow_item_desc">المزيد من الخيارات</string>
@@ -48,7 +43,7 @@
     <string name="ai_album_setting_title">حدد الأشياء في الصور</string>
     <string name="album_already_exists_check">عرض</string>
     <string name="album_already_exists_msg">ألبوم \"%s\" موجود مسبقا</string>
-    <string name="album_already_forced_top">في الأعلى مسبقاً</string>
+    <string name="album_already_forced_top">مثبت</string>
     <string name="album_bluetooth">البلوتوث</string>
     <string name="album_camera_name">الكاميرا</string>
     <string name="album_creative">صوري المعدلة</string>
@@ -237,13 +232,20 @@
     <string name="cleaner_screen_shot_action">مسح</string>
     <string name="cleaner_screen_shot_description">حذف لقطات الشاشة التي لم تعد تحتاجها.</string>
     <string name="cleaner_screen_shot_title">حذف لقطات الشاشة</string>
+    <string name="cleaner_similar_action">حذف الآن</string>
+    <string name="cleaner_similar_description">حذف الصور المكررة</string>
+    <string name="cleaner_similar_title">صور مكررة</string>
     <string name="cleaner_slim_action">بدء التحسين</string>
     <string name="cleaner_slim_description">الحفاظ على الصور المحسنة على جهازك. سيتم تخزين الملفات الأصلية في Mi Cloud.</string>
     <string name="cleaner_slim_start">التحسين</string>
     <string name="cleaner_slim_title">تحسين الصور</string>
-    <string name="cleaner_space_description">يمكن تفريغ المساحة</string>
-    <string name="cleaner_space_detail_description">مسح الصور في المعرض لتوفير مساحة التخزين</string>
+    <string name="cleaner_space_description">مساحة يمكن تفريغها</string>
+    <string name="cleaner_space_detail_description">امسح صور في المعرض لتوفير مزيد من المساحة</string>
     <string name="cleaner_stop_scan">إيقاف المسح</string>
+    <string name="cleaner_video_action">حذف الآن</string>
+    <string name="cleaner_video_description">حذف الفيديوهات التي تشغل مساحة التخزين</string>
+    <string name="cleaner_video_pick_delete_selected">حذف الفيديوهات المحددة</string>
+    <string name="cleaner_video_title">حذف الفيديوهات</string>
     <string name="click_download_gif">انقر لتنزيل الصورة</string>
     <string name="click_top_right">انقر فوق هذه الأيقونة</string>
     <string name="close">إغلاق</string>
@@ -253,7 +255,7 @@
     <string name="cloud_guide_login_title">النسخ الاحتياطي للصور و الفيديوهات تلقائياً</string>
     <string name="cloud_guide_welcome_title">Mi Cloud</string>
     <string name="cloud_screenshots_display_name">لقطات الشاشة</string>
-    <string name="cloud_settings">النسخ الاحتياطية للمعرض</string>
+    <string name="cloud_settings">النسخ الاحتياطي للمعرض</string>
     <string name="cloud_storage_extend">زيادة مساحة الـ Cloud</string>
     <string name="cloud_storage_ok_append_desc">متاح %s</string>
     <string name="cloud_storage_ok_desc">تخزين Mi Cloud %s</string>
@@ -278,7 +280,7 @@
     <string name="collage_margin_text">هوامش</string>
     <string name="collage_mirror">عكس</string>
     <string name="collage_poster_global_cat_text">كفوف</string>
-    <string name="collage_poster_global_city_text">METROPOLIS</string>
+    <string name="collage_poster_global_city_text">ناطحة سحاب</string>
     <string name="collage_poster_global_dream_text">الأحلام</string>
     <string name="collage_poster_global_foodie_text">لذيذ</string>
     <string name="collage_poster_global_green_plant_text">رحلة</string>
@@ -288,8 +290,8 @@
     <string name="collage_rotate">تدوير</string>
     <string name="collage_select_image_range">يمكن أن تحتوي الصور المجمعة على ١-٦ صور</string>
     <string name="collage_title_layout">تنسيق</string>
-    <string name="collage_title_poster">ملصق</string>
-    <string name="collage_title_stitching">شريط الفيلم</string>
+    <string name="collage_title_poster">ملصقات</string>
+    <string name="collage_title_stitching">إطار</string>
     <string name="collaps_people">إخفاء</string>
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
     <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
@@ -306,6 +308,10 @@
     <string name="confirm_merge_face_albums">&lt;Data> هل تريد دمج هذا الألبوم مع %s؟ &lt;/Data></string>
     <string name="confirm_merge_many_face_albums">&lt;Data> هل تريد دمج هذه الألبومات مع %s؟ &lt;/Data></string>
     <string name="confirm_not_face">لا توجد نتائج متطابقة</string>
+    <string name="confirm_recommandation_face_is">&lt;Data> متأكد أن هذا &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هذا الشخص إلى \"%2$s\" ألبوم. &lt;/Data></string>
+    <string name="confirm_recommandation_face_not">&lt;Data> متأكد أن هذا ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_are">&lt;Data> متأكد أن هؤلاء f&lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ سيتم نقل هؤلاء الاشخاص إلى \"%2$s\" ألبوم. &lt;/Data></string>
+    <string name="confirm_recommandation_multiple_faces_not">&lt;Data> متأكد أن هؤلاء ليس &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>؟ &lt;/Data></string>
     <string name="contact_tip">جهة اتصال</string>
     <string name="context_menu_add_contact">إضافة إلى جهات الاتصال</string>
     <string name="context_menu_copy">نسخ</string>
@@ -354,7 +360,7 @@
     <string name="deny">رفض</string>
     <string name="detail_title">المعلومات التفصيلية</string>
     <string name="disable_auto_upload_tip">إيقاف المزامنة مع Mi Cloud لهذا الألبوم؟</string>
-    <string name="disable_auto_upload_title">إيقاف تشغيل المزامنة مع Mi Cloud</string>
+    <string name="disable_auto_upload_title">إيقاف تشغيل مزامنة Mi Cloud</string>
     <string name="do_not_remind_me">عدم الإظهار مرة أخرى</string>
     <string name="document_provider_guide_step_1">١. انقر على زر \"المزيد\".</string>
     <string name="document_provider_guide_step_2">٢. انقر على \"عرض التخزين الداخلي\".</string>
@@ -476,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">السماح للمعرض الوصول إلى بطاقة SD</string>
     <string name="ext_sdcard_request_failed_button_text">موافق</string>
     <string name="ext_sdcard_request_succeed_toast_text">أنت جاهز للانطلاق!</string>
-    <string name="face_album_empty">"لا يوجد صور كافية للتعرف على اشخاص.
+    <string name="face_album_empty">"لا يوجد صور كافية للتعرف على اشخاص.r
 قم بإخذ صور اكثر لأصدقائك!"</string>
     <string name="face_album_empty_syncing">جارٍ مزامنة البيانات، يرجى العودة لاحقاً</string>
     <string name="face_album_empty_syncing_when_connect_wifi">اتصل بالشبكة لمزامنة المعلومات</string>
@@ -493,6 +499,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -503,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">أبيض وأسود</string>
     <string name="filter_bi_dusk">غسق</string>
     <string name="filter_bi_lilt">واقعي</string>
@@ -548,7 +556,7 @@
     <string name="filter_people_lilt">واقعي</string>
     <string name="filter_people_maze">متاهة</string>
     <string name="filter_people_movie">فيلم</string>
-    <string name="filter_people_nature">طبيعية</string>
+    <string name="filter_people_nature">طبيعي</string>
     <string name="filter_people_pink">احمرار</string>
     <string name="filter_people_riddle">لغز</string>
     <string name="filter_people_sepia">بني داكن</string>
@@ -576,6 +584,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -655,7 +664,7 @@
     <string name="loading_gif_thumbnail">جارٍ تنزيل مصغرات الصورة…</string>
     <string name="loading_image">جارٍ تنزيل الصورة…</string>
     <string name="loading_image_thumbnail">جارٍ تنزيل مصغرات الصورة…</string>
-    <string name="loading_members">جارٍ تحميل الأعضاء026</string>
+    <string name="loading_members">جارٍ تحميل الأعضاء2026</string>
     <string name="loading_processing_tip">جارٍ معالجة الصورة…</string>
     <string name="loading_suspend">تم إيقاف التنزيل مؤقتًا. سوف يستأنف التنزيل عند يكون الـWi-Fi متاح.</string>
     <string name="loading_video">جارٍ تنزيل الفيديو…</string>
@@ -782,7 +791,7 @@
     <string name="operation_cast_connecting_format">جارٍ الاتصال بـ %s</string>
     <string name="operation_delete">حذف</string>
     <string name="operation_detail">تفاصيل</string>
-    <string name="operation_disable_auto_upload">إيقاف تشغيل المزامنة مع Mi Cloud</string>
+    <string name="operation_disable_auto_upload">إيقاف تشغيل مزامنة Mi Cloud</string>
     <string name="operation_download">التحميل الأصلي (%s)</string>
     <string name="operation_edit">تعديل</string>
     <string name="operation_edit_video">تعديل</string>
@@ -792,9 +801,9 @@
     <string name="operation_force_top">تثبيت</string>
     <string name="operation_hide">جعله غير مرئي</string>
     <string name="operation_in_process">جارٍ المعالجة…</string>
-    <string name="operation_move_to_other_albums">النقل الى ألبومات أخرى</string>
+    <string name="operation_move_to_other_albums">نقل الى ألبومات أخرى</string>
     <string name="operation_not_show_in_photos_tab">عدم العرض في الصور</string>
-    <string name="operation_produce">الأبداع</string>
+    <string name="operation_produce">أبداع</string>
     <string name="operation_projection">عرض</string>
     <string name="operation_remove_face">حذف</string>
     <string name="operation_remove_from_face_album">إزالة من الألبوم</string>
@@ -814,7 +823,7 @@
     <string name="operation_successful">تم</string>
     <string name="operation_too_often">تمهل! يتم إجراء العديد من الطلبات من عنوان الـIP الخاص بك. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="operation_unforce_top">إلغاء التثبيت</string>
-    <string name="operation_unhide">جعله مرئي</string>
+    <string name="operation_unhide">إظهار</string>
     <string name="orientation_lock_tip">التدوير التلقائي متوقف</string>
     <string name="orientation_unlock_tip">التدوير التلقائي مشغّل</string>
     <string name="origin_gif_name">الملف الأصلي</string>
@@ -829,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">لتسمية الأشخاص في الصور</string>
     <string name="permission_contract_name">جهات الاتصال</string>
     <string name="permission_optional_category">أذونات اختيارية</string>
@@ -1021,6 +1031,16 @@
     <string name="scan_barcode_guide">للحصول على رمز QR الخاص بالألبوم، انقر على أيقونة مشاركة.</string>
     <string name="scan_barcode_to_join">امسح رمز QR لإضافة ألبوم</string>
     <string name="scan_qr_code_buttom_text">امسح رمز QR لعرض هذا الألبوم</string>
+    <string name="screen_doodle_talkback_size">عرض خط الرسم</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
+    <string name="screen_editor_finish">تم</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
+    <string name="screen_save_dialog_btn_cancel">إلغاء</string>
+    <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
+    <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
     <string name="search_backup_full_screen">تشغيل المزامنة مع Mi Cloud لايجاد المزيد من الأجسام والاشخاص</string>
     <string name="search_backup_now">تشغيل</string>
     <string name="search_backup_sub_title">التشغيل لايجاد المزيد من الصور</string>
@@ -1075,17 +1095,20 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
     <string name="secret_album_display_name">ألبوم مخفي</string>
-    <string name="secret_album_password_first_use_msg">سيتم استخدام كلمة مرور حماية الخصوصية. تعمل للتطبيقات، الصور، الملاحظات والمجلدات المخفية، الخ.</string>
+    <string name="secret_album_password_first_use_msg">سيتم استخدام كلمة مرور حماية الخصوصية. تعمل في التطبيقات والصور والملاحظات والمجلدات المخفية وغيرة.</string>
     <string name="secret_album_password_first_use_title">كلمة مرور حماية الخصوصية</string>
     <string name="secret_album_password_update_dialog_msg">كلمة مرور حماية الخصوصية تعمل للصور، الملاحظات والمجلدات المخفية، الخ.</string>
     <string name="secret_album_password_update_dialog_title">تحديث كلمة المرور</string>
     <string name="secret_album_password_update_first_user_dialog_msg">كلمة مرور حماية الخصوصية تعمل للصور، الملاحظات والمجلدات المخفية، الخ.</string>
     <string name="secret_album_password_update_first_user_dialog_title">ترقية كلمة المرور</string>
-    <string name="secret_album_set_pc_password_dialog_msg">سيتم استخدام كلمة مرور حماية الخصوصية. تعمل للتطبيقات، الصور، الملاحظات والمجلدات المخفية، الخ.</string>
+    <string name="secret_album_set_pc_password_dialog_msg">سيتم استخدام كلمة مرور حماية الخصوصية. تعمل في التطبيقات والصور والملاحظات والمجلدات المخفية وغيرة.</string>
     <string name="secret_album_set_pc_password_dialog_ok">تعيين كلمة مرور جديدة</string>
     <string name="secret_album_set_pc_password_dialog_title">تعيين كلمة مرور</string>
     <string name="secret_reason_space_full">ألبومات Cloud مُمتلئة</string>
@@ -1095,7 +1118,7 @@
     <string name="secret_reason_video_not_support">لا يمكن إضافة هذه الفيديوهات إلى ألبوم مخفي</string>
     <string name="see_ignore_faces">عرض الأشخاص الذين تجاهلتهم</string>
     <string name="select_all">تحديد الكل</string>
-    <string name="select_image_operation">إضافة الصور</string>
+    <string name="select_image_operation">إضافة صور</string>
     <string name="select_item_face">"هل هذا '%s'؟"</string>
     <string name="select_origin_tip">ملف اصلي (%s)</string>
     <string name="send_file_beautify_failed">تعذر المشاركة</string>
@@ -1131,6 +1154,7 @@
     <string name="show_hidden_album_title">إظهار الألبومات الغير مرئية</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">تم نقلها بنجاح، اذهب إلى الألبومات الأخرى للعرض</string>
     <string name="show_in_other_albums_enable_toast_long_press_menu">تم نقلها بنجاح، اذهب إلى الألبومات للعرض</string>
+    <string name="similar_keep_clear">احتفظ بأفضل الصور</string>
     <string name="slideshow_interval_dialog_title">ادخل الفاصل الزمني</string>
     <string name="slideshow_interval_invalid">يجب أن يكون الفاصل الزمني ما بين ٣ و ٣٦٠٠ ثانية</string>
     <string name="slideshow_interval_title">إظهار كل شريحة لمدة</string>
@@ -1151,6 +1175,7 @@
     <string name="slim_stop">إيقاف التحسين</string>
     <string name="start_debug">تصحيح المعرض</string>
     <string name="start_to_use_face_albumset">ترتيب حسب الأشخاص</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="sticker_ad">منشورات</string>
     <string name="sticker_baibai">نباتات</string>
     <string name="sticker_beard">صالون حلاقة</string>
@@ -1167,6 +1192,10 @@
     <string name="sticker_spring">ربيع</string>
     <string name="sticker_summer">صيف</string>
     <string name="sticker_words">كلمات</string>
+    <string name="storage_description_primary">التخزين الداخلي</string>
+    <string name="storage_description_sdcard">بطاقة SD</string>
+    <string name="storage_description_usb">وحدة تخزين USB</string>
+    <string name="storage_description_xspace">بيانات التطبيقات المزدوجة</string>
     <string name="storage_no_space">لا توجد مساحة كافية</string>
     <string name="story_back_stop_download">انقر مرة أخرى لإيقاف التنزيل</string>
     <string name="story_cancel_download">إلغاء</string>
@@ -1229,6 +1258,7 @@
     <string name="to_enable_sync_dialog_message">تشغيل المزامنة أولاً</string>
     <string name="to_enable_sync_dialog_positive_button_text">اذهب إلى الإعدادات</string>
     <string name="to_enable_sync_dialog_title">مزامنة</string>
+    <string name="today">اليوم</string>
     <string name="too_many_recipients">لا يمكن إضافة أكثر من %2$s مستلم (لقد قمت بإضافة %1$s).</string>
     <string name="trash_bin">حجم المهملات</string>
     <string name="trash_bin_summary">تصفح الصور المحذوفة مؤخرا و التي تم القيام بنسخة احتياطية لها</string>
@@ -1327,7 +1357,7 @@
     <string name="video_editor_smart_effect_none">لا شيء</string>
     <string name="video_editor_smart_effect_radical">متفائل</string>
     <string name="video_editor_smart_effect_rhythm">نبض</string>
-    <string name="video_editor_smart_effect_street">مدينة</string>
+    <string name="video_editor_smart_effect_street">ناطحة سحاب</string>
     <string name="video_editor_smart_effect_time_limit_txt_40">يمكنك تطبيق هذا التأثير على الفيديوهات لمدة لاتزيد عن ٤٠ ثانية. تم تصحيح المدة تلقائيًا.</string>
     <string name="video_editor_smart_effect_time_limit_txt_6">يمكنك تطبيق هذا التأثير على فيديوهات لا تقل مدتها عن ٦ ثواني.</string>
     <string name="video_editor_smart_effect_time_limit_txt_60">يمكنك تطبيق هذا التأثير على الفيديوهات لمدة لاتزيد عن ٦٠ ثانية. تم تصحيح المدة تلقائيًا.</string>
@@ -1365,64 +1395,6 @@
     <string name="who_is_this">من هذا؟</string>
     <string name="xiaomi_account_not_exists_toast">حساب Mi هذا غير موجود</string>
     <string name="yes">نعم</string>
+    <string name="yesterday">أمس</string>
     <string name="you_are">انت الطفل</string>
-    <string name="cleaner_similar_action">حذف الآن</string>
-    <string name="cleaner_similar_description">حذف الصور المكررة</string>
-    <string name="cleaner_similar_title">صور مكررة</string>
-    <string name="cleaner_video_action">حذف الآن</string>
-    <string name="cleaner_video_description">حذف الفيديوهات التي تشغل مساحة التخزين</string>
-    <string name="cleaner_video_pick_delete_selected">حذف الفيديوهات المحددة</string>
-    <string name="cleaner_video_title">حذف الفيديوهات</string>
-    <string name="photomovie_audio_custom">محلي</string>
-    <string name="photomovie_audio_default">ذكرى</string>
-    <string name="photomovie_audio_kawaii">رومانسي</string>
-    <string name="photomovie_audio_light">أغنية راقصة</string>
-    <string name="photomovie_audio_linear">روك</string>
-    <string name="photomovie_audio_none">بدون</string>
-    <string name="photomovie_audio_soft">قيثارة</string>
-    <string name="photomovie_audio_sport">تكنو</string>
-    <string name="photomovie_cancel_download">إلغاء</string>
-    <string name="photomovie_delete_disable">تحتاج ٣ صور على الأقل لإنشاء مقطع فيديو.</string>
-    <string name="photomovie_download">تنزيل</string>
-    <string name="photomovie_download_failed">تعذر التنزيل</string>
-    <string name="photomovie_download_failed_for_notwork">تعذر التنزيل. يرجى الاتصال بالشبكة وإعادة المحاولة.</string>
-    <string name="photomovie_download_without_wifi_msg">إن استخدام اتصال بيانات الجوال لتنزيل الملفات يزيد من استخدام بياناتك. إذا تم تجاوز القيد المفروض على استخدام البيانات في الخطة، قد تفرض عليك شركة الاتصالات رسومًا إضافية.</string>
-    <string name="photomovie_download_without_wifi_title">تحذير إستخدام البيانات</string>
-    <string name="photomovie_exit_cancel">إلغاء</string>
-    <string name="photomovie_exit_confirm">إنهاء</string>
-    <string name="photomovie_exit_content">ستفقد كل التغييرات. الخروج على أية حال؟</string>
-    <string name="photomovie_exit_title">إنهاء</string>
-    <string name="photomovie_item_name">مقطع فيديو</string>
-    <string name="photomovie_return">رجوع</string>
-    <string name="photomovie_save">حفظ</string>
-    <string name="photomovie_save_failed">تعذر الحفظ</string>
-    <string name="photomovie_save_successfully">تم الحفظ بنجاح</string>
-    <string name="photomovie_saving">جارٍ إنشاء مقطع الفيديو…</string>
-    <string name="photomovie_tab_edit">تعديل</string>
-    <string name="photomovie_tab_music">الموسيقى</string>
-    <string name="photomovie_tab_template">قالب</string>
-    <string name="photomovie_template_default">بطيء</string>
-    <string name="photomovie_template_kawaii">سحر</string>
-    <string name="photomovie_template_light">نسيم</string>
-    <string name="photomovie_template_linear">رحلة طريق</string>
-    <string name="photomovie_template_soft">شبابي</string>
-    <string name="photomovie_template_sport">حيوية</string>
-    <string name="refocus_discard_confirm_message">حفظ التغييرات؟</string>
-    <string name="refocus_discard_negative_btn">تجاهل الرسالة</string>
-    <string name="refocus_discard_positive_btn">حفظ</string>
-    <string name="refocus_photo_not_support">لا يمكن تعيين التأثير الضبابي على هذه الصورة</string>
-    <string name="refocus_save_cancel">إلغاء</string>
-    <string name="refocus_save_title">اختر التنسيق</string>
-    <string name="refocus_save_to_photo">حفظ كصورة</string>
-    <string name="refocus_save_to_video">حفظ كفيديو</string>
-    <string name="refocus_saving">جارٍ الحفظ…</string>
-    <string name="refocus_title">ضبابي</string>
-    <string name="refocus_type_static">مستوى الضبابية</string>
-    <string name="refocus_type_video">مسارات الضوء</string>
-    <string name="screen_doodle_talkback_size">عرض خط الرسم</string>
-    <string name="screen_editor_finish">تم</string>
-    <string name="screen_save_dialog_btn_cancel">إلغاء</string>
-    <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
-    <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
-    <string name="similar_keep_clear">احتفظ بأفضل الصور</string>
 </resources>

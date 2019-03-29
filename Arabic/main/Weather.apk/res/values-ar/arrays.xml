@@ -154,7 +154,7 @@
         <item>مقياس بوفورت</item>
         <item>كيلومتر في الساعة (كم/س)</item>
         <item>أمتار في الثانية (م/ث)</item>
-        <item>ميل في الساعة (mph)</item>
+        <item>ميل في الساعة (ميل/ساعة)</item>
         <item>عقدة (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">

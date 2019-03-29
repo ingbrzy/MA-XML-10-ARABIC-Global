@@ -29,6 +29,8 @@
     <string name="already_updated">محدث</string>
     <string name="app_label">الرسائل</string>
     <string name="app_name">أجهزة</string>
+    <string name="application_list_title">تطبيق مصغر</string>
+    <string name="attach_group_chat">الدردشة الجماعية</string>
     <string name="attach_image">صور</string>
     <string name="attach_rcs_file">ملف</string>
     <string name="attach_rcs_location">الموقع</string>
@@ -40,6 +42,7 @@
     <string name="attach_take_photo">أخذ صورة</string>
     <string name="attach_transaction">تحويل الأموال</string>
     <string name="attach_video">فيديو</string>
+    <string name="attach_video_call">مكالمة فيديو</string>
     <string name="audio_download_failed">تعذر تنزيل ملف الصوت</string>
     <string name="audio_message_expired">انتهت صلاحية هذه الرسالة صوتية.</string>
     <string name="audio_message_mx_offline">تعذر تنزيل الصوت. رسالة Mi غير متصلة او غير متاحة.</string>
@@ -73,6 +76,7 @@
     <string name="button_unfold">فتح</string>
     <string name="call_sender">الاتصال بالمرسل</string>
     <string name="can_not_send_by_rcs">غير قادر على استخدام رسائل China Mobile</string>
+    <string name="can_not_view_group_chat_stranger">لا يمكن عرض معلومات عن الغرباء.</string>
     <string name="cannot_add_picture_and_video">.لا يمكن إضافة صورة و فديو إلى شريحة واحده</string>
     <string name="cannot_add_slide_anymore">.لا يمكن إضافة المزيد من الشرائح</string>
     <string name="cannot_forward_drm_obj">.المتضمن في الرسالة DRM لا يمكن إعادة توجية كائن</string>
@@ -130,6 +134,7 @@
     <string name="confirm_restore_positive">استعادة</string>
     <string name="confirm_restore_title">استعادة الرسالة</string>
     <string name="confirm_send_mms">أحد بيأنات المستلمين تتضمن عنوان بريد إلكتروني. سيتم إرسال هذه الرسالة كرسالة MMS، وقد تتحمل تكاليف إضافية من شركة الإتصالات الخاص بك.</string>
+    <string name="contact_not_exists">هذا الشخص غير موجود في جهات اتصالاتك.</string>
     <string name="context_menu_add_calendar">إضافة إلى التقويم</string>
     <string name="context_menu_add_contact">إضافة إلى جهات الاتصال</string>
     <string name="context_menu_add_to_browser_favorite">إضافة إلى الإشارات المرجعية للمتصفح</string>
@@ -224,6 +229,7 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_message_select_title">إعادة توجيه الرسالة</string>
@@ -245,6 +251,7 @@
     <string name="group_resend_message">إعادة إرسال (%d)</string>
     <string name="group_view_settings_disolved">لا يمكن عرض العناصر. تم حذف هذه الدردشة.</string>
     <string name="group_view_settings_not_memeber">لا يمكن عرض العناصر. لست عضو في هذه الدردشة.</string>
+    <string name="groupchat_list_title">الدردشات الجماعية</string>
     <string name="guild_add_attachments">انقر لإضافة تعبيرات وعناصر أخرى</string>
     <string name="guild_add_recipients">انقر لإضافة مستلمين من جهات الاتصال</string>
     <string name="guild_msim_switcher">انقر لتبديل بطاقات SIM</string>
@@ -287,6 +294,7 @@
     <string name="menu_edit">تعديل</string>
     <string name="menu_forward">إعادة توجيه</string>
     <string name="menu_lock">إضافة إلى المفضلة</string>
+    <string name="menu_make_call">اتصال</string>
     <string name="menu_mark">علامة</string>
     <string name="menu_more">المزيد</string>
     <string name="menu_new_contact">جهة اتصال جديدة</string>
@@ -297,6 +305,7 @@
     <string name="menu_traffic_destination">الوجهة</string>
     <string name="menu_unlock">حذف من المفضلة</string>
     <string name="menu_view_contact">عرض جهات الإتصال</string>
+    <string name="menu_view_group_info">معلومات المجموعة</string>
     <string name="message_class_label">"فئة الرسالة: "</string>
     <string name="message_contact">جهة الإتصال:</string>
     <string name="message_details_title">تفاصيل الرسالة</string>
@@ -408,6 +417,7 @@
     <string name="no_block_button_msg">إلغاء حظر</string>
     <string name="no_conversations">لا توجد محادثات</string>
     <string name="no_delivery_report">لا يوجد تقرير تسليم</string>
+    <string name="no_network_description">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="no_subject">(بدون موضوع)</string>
     <string name="no_subject_view">(بدون موضوع)</string>
     <string name="non_english_subject_limit">١٣ حرف</string>
@@ -530,6 +540,9 @@
     <string name="prvate_contact">جهات اتصال خاصة</string>
     <string name="quick_reply">رد</string>
     <string name="rate_limit_surpassed">موافق</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">تغيير</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">عندما تكون إشارة الشبكة ضعيفة، يمكنك تحويل جزء من نص الرسالة (ما يصل إلى ٩٠٠ بايت) وإرسالها كرسالة نصية قصيرة. انتقل إلى الإعدادات للتغيير.</string>
+    <string name="rcs_auto_resend_as_sms_remind_title">التحويل إلى رسالة SMS</string>
     <string name="rcs_auto_resend_mms">التحويل إلى رسالة وسائط</string>
     <string name="rcs_auto_resend_sms">التحويل إلى رسالة SMS</string>
     <string name="rcs_auto_resume">استئناف عمليات التحميل المتقطعة تلقائيًا</string>
@@ -540,10 +553,12 @@
     <string name="rcs_forward_faild">تعذر إعادة التوجيه</string>
     <string name="rcs_forward_successful">تم إعادة التوجيه بنجاح</string>
     <string name="rcs_group_notification_invitation">دعوة للدردشة الجماعية</string>
+    <string name="rcs_hello_from_pc">سجل الدخول إلى Fetion على حاسوبك لنقل الملفات.</string>
     <string name="rcs_message">رسائل China Mobile</string>
     <string name="rcs_message_disable">لا يمكن عرض هذه الرسالة في المساحة الثانية</string>
     <string name="rcs_msg">رسائل China Mobile</string>
     <string name="rcs_not_online">لا يمكن استخدام رسائل China Mobile. تحقق من إعدادات الشبكة وحاول مرة أخرى.</string>
+    <string name="rcs_offline">لا يمكن تسجيل الدخول إلى UC. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="rcs_offline_hint">رسائل China Mobile غير متصلة. لا يمكن إعادة التوجيه.</string>
     <string name="rcs_recipient_type_contact">إعادة التوجيه إلى جهة اتصال</string>
     <string name="rcs_recipient_type_group">إعادة توجيه إلى الدردشة الجماعية</string>
@@ -668,6 +683,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مُرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>

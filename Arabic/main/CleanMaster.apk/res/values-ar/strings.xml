@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">حزم</string>
     <string name="hints_residual_header_left">المخلفات</string>
     <string name="hints_memory_header_left">الذاكرة</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ملفات كبيرة: %d</string>
     <string name="hints_installed_apps_header_left">التطبيقات المثبتة: %d</string>
     <string name="toast_resolve_apk_error">حل خطأ apk</string>
@@ -195,7 +196,7 @@
     <string name="deepclean_normal_title">تنظيف تلقائي</string>
     <string name="deepclean_normal_item_desc1">حجم المهملات</string>
     <string name="deepclean_normal_item_desc2">لن يؤثر نشاط المنظف على أداء النظام</string>
-    <string name="deepclean_1_k_clean">تنظيف الذاكرة</string>
+    <string name="deepclean_1_k_clean">مسح الذاكرة</string>
     <string name="similar_image_title">صور</string>
     <string name="similar_image_desc">حذف الصور المماثلة</string>
     <string name="similar_image_scaning">جار الفحص…</string>
@@ -299,6 +300,7 @@
     <string name="downloading">جارٍ التحميل</string>
     <string name="installing">جارٍ التثبيت</string>
     <string name="start_install">التثبيت الآن</string>
+    <string name="empty">" "</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
     <string name="connecting">جارٍ الاتصال…</string>
@@ -535,8 +537,8 @@
     <string name="whatsapp_content_empty">لا توجد عناصر هنا.</string>
     <string name="whatsapp_delete_confirm_message">الحذف الآن؟</string>
     <string name="whatsapp_delete_done">تم</string>
-    <string name="whatsapp_title">منظف الـ WhatsApp</string>
-    <string name="whatsapp_function_title">منظف الـ WhatsApp</string>
+    <string name="whatsapp_title">منظف الواتساب</string>
+    <string name="whatsapp_function_title">منظف الواتساب</string>
     <string name="whatsapp_function_summery">حذف مرفقات الـ WhatsApp</string>
     <string name="clean_summary">تم التنظيف %1$s</string>
     <string name="onekeyclean_boosting_title">جارٍ زيادة السرعة</string>

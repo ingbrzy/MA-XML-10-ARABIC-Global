@@ -37,7 +37,7 @@
     <string name="incall_error_supp_service_hangup">لا يمكن إنهاء المكالمة.</string>
     <string name="incall_error_supp_service_hold">لا يمكن تعليق المكالمات.</string>
     <string name="onscreen_add_call_text">إضافة مكالمة</string>
-    <string name="onscreen_audio_mode_bluetooth">بلوتوث</string>
+    <string name="onscreen_audio_mode_bluetooth">البلوتوث</string>
     <string name="onscreen_audio_mode_conference">جماعية</string>
     <string name="onscreen_audio_mode_handset">سماعة الأذن</string>
     <string name="onscreen_audio_mode_headset">سماعة الرأس</string>
@@ -78,6 +78,7 @@
     <string name="respond_via_sms_custom_message">رسالة مخصصة</string>
     <string name="manageConferenceLabel">إدارة المكالمات الجماعية</string>
     <string name="emergency_call_dialog_number_for_display">رقم الطوارئ</string>
+    <string name="volte_call">مكالمة VoLTE</string>
     <string name="notification_dialing">جارٍالاتصال</string>
     <string name="notification_ongoing_call">مكالمة جارية</string>
     <string name="notification_on_hold">معلقة</string>

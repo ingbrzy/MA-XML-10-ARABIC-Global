@@ -352,6 +352,14 @@
         <item quantity="few">%1$d فيديوهات في انتظار القيام بنسخة احتياطية</item>
         <item quantity="many">%1$d فيديو في انتظار القيام بنسخة احتياطية</item>
     </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">%1$d عنصر</item>
+        <item quantity="two">%1$d عناصر</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصر</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">الصور المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الجوال؟</item>
         <item quantity="zero">الصورة المُحددة ليست على الجهاز. التحميل بإستخدام بيانات الجوال؟</item>
@@ -535,14 +543,6 @@
         <item quantity="two">%d عناصر</item>
         <item quantity="few">%d عناصر</item>
         <item quantity="many">%d عنصر</item>
-    </plurals>
-    <plurals name="photo_count_format">
-        <item quantity="other">%1$d عنصر</item>
-        <item quantity="zero">%1$d عنصر</item>
-        <item quantity="one">%1$d عنصر</item>
-        <item quantity="two">%1$d عناصر</item>
-        <item quantity="few">%1$d عناصر</item>
-        <item quantity="many">%1$d عنصر</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d ملف</item>

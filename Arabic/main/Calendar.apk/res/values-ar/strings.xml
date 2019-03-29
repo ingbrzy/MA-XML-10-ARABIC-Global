@@ -47,27 +47,19 @@
     <string name="accessibility_all_day">حدث كل اليوم</string>
     <string name="accessibility_pick_start_date">تاريخ البدء</string>
     <string name="accessibility_pick_time_zone">المنطقة الزمنية</string>
-    <string name="accessibility_reminder_time">وقت التذكير</string>
     <string name="accessibility_remove_attendee">إزالة الحضور</string>
     <string name="accessibility_repeats">التكرار</string>
     <string name="accessibility_sync_cal">مزامنة التقويم</string>
     <string name="account_and_calendar">الحسابات</string>
-    <string name="accounts">الحسابات والمزامنة</string>
-    <string name="acct_not_synced">لم تتم مزامنة هذا الحساب. قد تكون تقاويمك غير محدثة.</string>
-    <string name="acessibility_selected_marker_description">الحدث المحدد</string>
     <string name="action_bar_date_button_title">حساب تاريخ</string>
-    <string name="action_bar_more_menu_view_description">المزيد</string>
     <string name="action_bar_return">رجوع</string>
     <string name="action_text_card_manager">قناة</string>
-    <string name="action_text_today">اليوم</string>
     <string name="add_anniversary">إضافة ذكرى سنوية</string>
     <string name="add_countdown">إضافة عد تنازلي</string>
     <string name="add_event">إضافة حدث</string>
     <string name="agenda_month_empty_hint">لا توجد أحداث لليوم</string>
-    <string name="agenda_today">اليوم، %1$s</string>
     <string name="agenda_tomorrow">غدا، %1$s</string>
     <string name="agenda_view">الأحداث</string>
-    <string name="agenda_yesterday">أمس، %1$s</string>
     <string name="alarm_label">تجاهل</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">انتهت الصلاحية</string>
@@ -94,11 +86,6 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">تم حفظ عيد الميلاد</string>
     <string name="birthday_term">عيد ميلاد</string>
-    <string name="button_day">يوم</string>
-    <string name="button_month">شهر</string>
-    <string name="button_week">أسبوع</string>
-    <string name="calculate_result">النتيجة</string>
-    <string name="calendar_refresh">تحديث</string>
     <string name="can_not_create_long_event">اسم الحدث طويل جدا</string>
     <string name="can_not_modify_allday_event">لا يمكن تغيير حدث كامل اليوم</string>
     <string name="can_not_modify_event">لا يمكن تغيير الحدث</string>
@@ -110,7 +97,6 @@
     <string name="card_detail_dialog_title">الاشتراك الآن؟</string>
     <string name="card_detail_hint">سيتم عرض وتحديث المحتوى في الصفحة الرئيسية كل يوم بمجرد الاشتراك بنجاح</string>
     <string name="card_detail_title">التفاصيل</string>
-    <string name="card_manager">إدارة الإشتراكات</string>
     <string name="card_manager_no_data">لا توجد إشتراكات بعد</string>
     <string name="card_title_change">مزيد</string>
     <string name="cards_language_hint">قد لا تتوفر بعض البطاقات في اللغة المحددة.</string>
@@ -146,13 +132,12 @@
     <string name="date_interval_text_to">إلى %1$s</string>
     <string name="date_jump_hint">الانتقال إلى يوم محدد</string>
     <string name="date_jump_title">الانتقال إلى تاريخ</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_mode">التذكيرات</string>
-    <string name="delete_calendar">إلغاء الاشتراك</string>
     <string name="delete_recurring_event_title">حذف %s؟</string>
     <string name="delete_this_event_title">حذف هذا الحدث؟</string>
-    <string name="deleting_calendar">إلغاء الاشتراك…</string>
     <string name="description_calendar">تطبيقات النظام/التقويم</string>
     <string name="description_calendar_edit_event">تطبيقات النظام/التقويم/جدول الأعمال</string>
     <string name="directory_searching_fmt">جارٍ بحث %s…</string>
@@ -167,8 +152,6 @@
     <string name="edit_event_birthday_import_from_contact">استيراد تاريخ الميلاد من جهات الاتصال</string>
     <string name="edit_event_birthday_name_empty_hint">ادخل اسم</string>
     <string name="edit_event_birthday_name_hint">الإسم</string>
-    <string name="edit_event_birthday_reminder_3_days_before">كذلك التذكير ٣ أيام مقدماً</string>
-    <string name="edit_event_birthday_reminder_time">وقت التذكير</string>
     <string name="edit_event_calendar_label">التقويم</string>
     <string name="edit_event_choose_date">اختر تاريخ</string>
     <string name="edit_event_confirm_message">تجاهل التغييرات؟</string>
@@ -225,7 +208,6 @@
     <string name="festival_detail_title">مهرجان</string>
     <string name="file_exception">حدث خطأ ما</string>
     <string name="fixtures">مباريات</string>
-    <string name="force_touch_title_add_new_event">إضافة حدث</string>
     <string name="from_google_group_calendar">تقويم Google</string>
     <string name="gadget_no_events">لا توجد أحداث قادمة في التقويم</string>
     <string name="gadget_title">التقويم</string>
@@ -234,16 +216,16 @@
     <string name="global_football_final">النهائي</string>
     <string name="global_football_no_match">لا توجد مباريات كرة قدم لهذا اليوم.</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
-    <string name="greetingcard_end_of_page">هذا كل شيء لليوم. ترقب التحديثات.</string>
+    <string name="greetingcard_end_of_page">هذا كل شيء لهذا اليوم. عد غدا!</string>
     <string name="greetingcard_notification_desc">تحقق من أحدث الحالات</string>
-    <string name="greetingcard_notification_title">أخبارك اليومية جاهزة!</string>
-    <string name="greetingcard_reminder_disabled_status">تم إلغاء تفعيل حالات الواتساب اليومية</string>
-    <string name="greetingcard_reminder_disabled_text">تشغيل التذكير</string>
-    <string name="greetingcard_reminder_enabled_status">تم تفعيل حالات الواتساب اليومية</string>
-    <string name="greetingcard_reminder_enabled_text">تم تشغيل التذكير</string>
-    <string name="greetingcard_reminder_pref_desc">احصل على أحدث الحالات والتحيات يومياً</string>
-    <string name="greetingcard_reminder_pref_title">أعلمني بذلك</string>
-    <string name="greetingcard_select_activity_label">تحيات الجميع</string>
+    <string name="greetingcard_notification_title">أخبارك اليومية جاهزة</string>
+    <string name="greetingcard_reminder_disabled_status">لن تتلقى تذكيرات يومية حول حالات الواتساب.</string>
+    <string name="greetingcard_reminder_disabled_text">تشغيل التذكيرات</string>
+    <string name="greetingcard_reminder_enabled_status">ستتلقى تذكيرات يومية حول حالات الواتساب.</string>
+    <string name="greetingcard_reminder_enabled_text">التذكيرات مشغلة</string>
+    <string name="greetingcard_reminder_pref_desc">استلام الإشعارات اليومية حول التحيات والحالات</string>
+    <string name="greetingcard_reminder_pref_title">استلام إشعارات</string>
+    <string name="greetingcard_select_activity_label">كل التحيات</string>
     <string name="greetingcard_view_all_text">عرض الكل</string>
     <string name="guide_card_close">إغلاق</string>
     <string name="guide_card_import">استيراد</string>
@@ -283,7 +265,6 @@
     <string name="match_finished">لا يمكن تعيين التذكيرات للألعاب الجارية والمنتهية</string>
     <string name="match_select_activity_label">البطولات</string>
     <string name="menu_general_preferences">عام</string>
-    <string name="menu_preferences">الإعدادات</string>
     <string name="menu_reminder_preferences">التذكيرات</string>
     <string name="missing_name">(بدون اسم)</string>
     <string name="missing_required_permission">لقد قيدت الأذونات المطلوبة.</string>
@@ -308,8 +289,6 @@
     <string name="monthly_on_day_count">شهريًا (%1$s %2$s)</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="new_event_description">جديد</string>
-    <string name="new_event_dialog_label">حدث جديد</string>
-    <string name="new_event_dialog_option">حدث جديد</string>
     <string name="news">أخبار</string>
     <string name="no_contact_birthday_hint">لا توجد تواريخ ميلاد للإستيراد</string>
     <string name="no_events_hint">لا توجد أحداث</string>
@@ -322,7 +301,6 @@
     <string name="no_visiable_calendar_message">تحتاج إلى إضافة حساب تقويم. انقر على \"إضافة حساب\" للمتابعة.</string>
     <string name="no_visiable_calendar_select_account">إضافة حساب</string>
     <string name="no_visiable_calendar_title">إضافة حساب</string>
-    <string name="not_synced">لم تتم المزامنة</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">تذكيرات التقويم</string>
     <string name="panchang_amanta">Amanta</string>
@@ -348,7 +326,6 @@
     <string name="panchang_yog">Yog</string>
     <string name="path_calendar_settings">تطبيقات النظام/التقويم/الإعدادات</string>
     <string name="prefDialogTitle_vibrateWhen">الاهتزاز</string>
-    <string name="pref_error_no_ringtone_select">النغمة الأساسية</string>
     <string name="pref_reminder_time">وقت التذكير</string>
     <string name="pref_title_alarm_remind">تذكيرات المنبه</string>
     <string name="pref_title_no_remind">بدون تذكيرات</string>
@@ -373,7 +350,6 @@
     <string name="remind_me">تذكير</string>
     <string name="repeat_activity_label">التكرار</string>
     <string name="repeat_custom_activity_label">مخصص</string>
-    <string name="repeat_custom_prompt">كل %1$s في %2$s</string>
     <string name="repeat_custom_prompt_daily">كل %1$s</string>
     <string name="repeat_custom_prompt_sentence">الحدث سيتكرر%1$s</string>
     <string name="repeat_custom_prompt_splitter">"، "</string>
@@ -403,12 +379,10 @@
     <string name="rest_day_indication">: )</string>
     <string name="saving_event">تم حفظ الحدث</string>
     <string name="saving_event_with_guest">جارٍ ارسال التحديثات…</string>
-    <string name="search">بحث</string>
     <string name="search_calendar">التاريخ؛شروط شمسية؛قمري؛التقويم؛الحظ؛جدول الأعمال؛اجتماع؛تذكير؛عطلة؛عطلة؛تاريخ الميلاد؛۲۰۱٦؛۲۰۱٧؛مهرجان الربيع؛رأس السنة الميلادية؛عيد العمال الدولي؛مهرجان منتصف الخريف</string>
     <string name="search_calendar_edit_event">اجتماع؛تذكير؛جدول الأعمال</string>
     <string name="search_calendar_settings">التقويم؛جدول الأعمال؛تذكير</string>
     <string name="select_date">الانتقال إلى تاريخ</string>
-    <string name="select_synced_calendars_title">التقاويم المراد مزامنتها</string>
     <string name="set_reminder">تعيين تذكير</string>
     <string name="setting_about_calendar_version">إصدار التقويم:</string>
     <string name="setting_about_imei">IMEI:</string>
@@ -433,18 +407,14 @@
     <string name="subscribe_card_success">تم الاشتراك بنجاح! تحقق من التفاصيل في الصفحة الرئيسية.</string>
     <string name="subscribe_card_success_for_homepage">تم الإشتراك في “%1$s”بنجاح</string>
     <string name="subscribe_channel_bottom_hint">—— تقويم Mi ——</string>
-    <string name="subscribe_channel_click_hint">الاشتراك مطلوب</string>
-    <string name="subscribe_channel_footer_button">إدارة الإشتراكات</string>
     <string name="subscribe_channel_footer_desc">تحقق من إشتراكاتك أو إلغاء إشتراكك</string>
     <string name="subscribe_channel_footer_title">تم الاشتراك</string>
-    <string name="subscribe_channel_footer_view">تحقق</string>
     <string name="subscribe_channel_hint">"قم بالاشتراك في الخدمات التي تريد و تلقى التحديثات اليومية على الصفحة الرئيسية الخاصة بك. ي
 مكنك أيضا إضافة تذكير حتى لا تفوت أي شيء مهم."</string>
     <string name="subscribe_channel_subscribe">اشتراك</string>
     <string name="subscribe_channel_subscribing">تم الاشتراك</string>
     <string name="subscribe_channel_title">قناة</string>
     <string name="subscribing_card">تم الاشتراك</string>
-    <string name="synced">تمت المزامنة</string>
     <string name="tab_title_agenda">الأحداث</string>
     <string name="tab_title_day">اليوم</string>
     <string name="tab_title_month">الشهر</string>
@@ -452,7 +422,6 @@
     <string name="talk_back_read_date">%1$s (%2$s وفقا للتقويم القمري).</string>
     <string name="talk_back_setting">الإعدادت</string>
     <string name="template_announce_item_index">حدث %1$s من %2$s.</string>
-    <string name="template_week_num">اسبوع %1$s</string>
     <string name="time_zone">المنطقة الزمنية</string>
     <string name="timezone_label">المنطقة الزمنية</string>
     <string name="today">اليوم</string>
@@ -466,7 +435,6 @@
     <string name="too_long_name">الاسم طويل جدا</string>
     <string name="travel_airport">مطار</string>
     <string name="travel_carriage_number_text">سيارة</string>
-    <string name="travel_eta_advice">%2$s دقيقة قيادة إلى %1$s.</string>
     <string name="travel_ets_advice">قيادة إلى %2$s قبل %1$s.</string>
     <string name="travel_event_add_successfully">تم إنشاء الحدث</string>
     <string name="travel_event_title_flight">الرحلة: %1$s-%2$s%3$s</string>
@@ -508,4 +476,7 @@
     <string name="xiaomi_calendar_display_name">تقويم حساب Mi</string>
     <string name="yearly">سنويًا (كل %s)</string>
     <string name="yearly_plain">سنوي</string>
+    <string name="global_joke_collapse_text">Show less</string>
+    <string name="global_joke_copy_toast_message">Copied text successfully</string>
+    <string name="global_joke_expand_text">Show more</string>
 </resources>

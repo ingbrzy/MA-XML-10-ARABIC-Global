@@ -9,7 +9,7 @@
     <string name="deny_backup_button_label">عدم النسخ الاحتياطي</string>
     <string name="restore_confirm_text">"تم طلب استرداد جميع البيانات بالكامل من كمبيوتر سطح مكتب متصل. هل تريد السماح بإجراء ذلك؟
 
-إذا لم تطلب الاسترداد بنفسك، فلا تسمح بمتابعة العملية. يؤدي لك إلى استبدال أية بيانات حاليًا على الجهاز."</string>
+إذا لم تطلب الاسترداد بنفسك، فلا تسمح بمتابعة العملية. يؤدي لك إلى استبدال أي بيانات حاليًا على الجهاز."</string>
     <string name="allow_restore_button_label">استرداد بياناتي</string>
     <string name="deny_restore_button_label">عدم الاسترداد</string>
     <string name="current_password_text">يُرجى إدخال كلمة مرور النسخ الاحتياطي أدناه:</string>

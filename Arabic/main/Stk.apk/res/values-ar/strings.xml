@@ -27,8 +27,8 @@
     <string name="stk_dialog_reject">لا</string>
     <string name="no_sim_card_inserted">قم بإدراج بطاقة SIM لتشغيل أدوات SIM.</string>
     <string name="stk_channel_name">رسائل خدمة الجوّال</string>
-    <string name="stk_intent_permission">الأذونات مطلوبة</string>
     <string name="sim_type_sim_name">أدوات SIM</string>
     <string name="sim_type_usim_name">أدوات USIM</string>
     <string name="sim_type_uim_name">أدوات UIM</string>
+    <string name="stk_intent_permission">الأذونات مطلوبة</string>
 </resources>

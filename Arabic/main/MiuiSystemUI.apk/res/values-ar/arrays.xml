@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -37,80 +55,90 @@
         <item>لا تظهر هذا الأيقونة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>۱٦ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>۱٦ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>مونو</item>
         <item>ستيريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>مونو</item>
         <item>ستيريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>محسّن لجودة الصوت</item>
-        <item>توازن الصوت وسرعة الاتصال</item>
-        <item>محسّن لجودة الإتصال</item>
+        <item>الصوت المتوازن وجودة الاتصال</item>
+        <item>محسّن لجودة الاتصال</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>محسّن لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
-        <item>جودة الصوت والإتصال المتوازن (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
-        <item>محسّن سرعة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
+        <item>جودة صوت واتصال متوازنة (٦٦٠ك.بت/ث / ٦٠٦ك.بت/ث)</item>
+        <item>محسّن لجودة الاتصال (۳۳۰ك.بت/ث / ۳۰۳ك.بت/ث)</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
         <item>۰. ۹٦ كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
         <item>۰. ۹٦ كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>"  |  نشط"</item>
+        <item>"  |  نشط (وسائط)"</item>
+        <item>"  |  نشط (هاتف)"</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
+        <item>avrcp13</item>
         <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (الافتراضي)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -129,14 +157,12 @@
         <item>طبيعية</item>
         <item>قياسية</item>
     </string-array>
+    <array name="data_type_name_mcc_mnc_key" />
+    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>إيقاف</item>
         <item>عرض مناطق تجاوز الحد</item>
         <item>عرض مناطق Deuteranomaly</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (افتراضي)</item>
-        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>بدون</item>
@@ -244,7 +270,7 @@
     <string-array name="tts_rate_entries">
         <item>بطيء جدا</item>
         <item>بطيء</item>
-        <item>متوسط</item>
+        <item>عادي</item>
         <item>سريع</item>
         <item>أسرع</item>
         <item>سريع جدا</item>

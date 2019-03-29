@@ -6,7 +6,7 @@
         <item>١/١٩ - ٢/١٨</item>
     </string-array>
     <string-array name="aries_info">
-        <item>الحمل</item>
+        <item>aries</item>
         <item>برج الحمل</item>
         <item>٣/٢٠ - ٤/١٩</item>
     </string-array>
@@ -15,7 +15,7 @@
         <item>الدوري الألماني</item>
     </string-array>
     <string-array name="cancer_info">
-        <item>السرطان</item>
+        <item>cancer</item>
         <item>برج السرطان</item>
         <item>٦/٢٠ - ٧/٢٢</item>
     </string-array>
@@ -81,8 +81,12 @@
         <item>هذا الحدث والأحداث المستقبلية</item>
         <item>جميع الأحداث</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>٤</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>الجوزاء</item>
+        <item>gemini</item>
         <item>برج الجوزاء</item>
         <item>٥/٢٠ - ٦/٢٠</item>
     </string-array>
@@ -91,12 +95,12 @@
         <item>الدوري الإسباني</item>
     </string-array>
     <string-array name="leo_info">
-        <item>الأسد</item>
+        <item>leo</item>
         <item>برج الأسد</item>
         <item>٧/٢٢ - ٨/٢٢</item>
     </string-array>
     <string-array name="libra_info">
-        <item>الميزان</item>
+        <item>libra</item>
         <item>برج الميزان</item>
         <item>٩/٢٢ - ١٠/٢٣</item>
     </string-array>
@@ -218,12 +222,12 @@
         <item>لا</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>القوس</item>
+        <item>sagittarius</item>
         <item>برج القوس</item>
         <item>١١/٢١ - ١٢/٢١</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>العقرب</item>
+        <item>scorpio</item>
         <item>برج العقرب</item>
         <item>١٠/٢٣ - ١١/٢١</item>
     </string-array>
@@ -232,7 +236,7 @@
         <item>الدوري الإيطالي الدرجة الأولى</item>
     </string-array>
     <string-array name="taurus_info">
-        <item>الثور</item>
+        <item>taurus</item>
         <item>برج الثور</item>
         <item>٤/١٩ - ٥/٢٠</item>
     </string-array>
@@ -332,7 +336,7 @@
         <item>قبل ١ يوم</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>العذراء</item>
+        <item>virgo</item>
         <item>برج العذراء</item>
         <item>٨/٢٢ - ٩/٢٢</item>
     </string-array>

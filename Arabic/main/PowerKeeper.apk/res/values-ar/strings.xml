@@ -38,10 +38,17 @@
     <string name="vip_feedback_enable">تشغيل ملاحظات Vip</string>
     <string name="extreme_power_config_mode_category">الحد الأقصى لموفر البطارية</string>
     <string name="extreme_power_config_mode_title">الحد الأقصى لموفر البطارية</string>
+    <string name="notification_open_extreme_mode_text">تم تشغيل الحد الأقصى لموفر البطارية</string>
+    <string name="extreme_power_settings_title">الإعدادات</string>
+    <string name="notification_exit_extreme_mode_title">تم إيقاف الحد الأقصى لموفر البطارية</string>
+    <string name="notification_exit_extreme_mode_text">شحن البطارية أكثر من %s</string>
+    <string name="extreme_power_config_mode_summary">يقيد الحد الأقصى لموفر البطارية نشاط الخلفية ويُوقف المزامنة.</string>
     <string name="extreme_power_config_mode_desc"><li>يوقف الحد الأقصى لموفر البطارية جميع الأنشطة الخلفية للتطبيق بعد الخروج منه والرجوع إلى الشاشة الرئيسية. لن يتمكن هذا التطبيق من إرسال إشعارات أو تلقي تحديثات.</li>"
 "<li>إذا كنت تريد أن يعمل التطبيق في الخلفية، فقم بقفله من شاشة المستخدمة مؤخرا أو أو أضفه إلى قائمة الاستثناءات. يمكن اختيار ٤ تطبيقات فقط ليتم تشغيلها في الخلفية عند تشغيل وضع الحد الأقصى لموفر البطارية.</li>"
 "<li>يقوم الحد الأقصى لموفر البطارية بإيقاف تشغيل NFC أفترضياً. يمكنك تغيير ذلك من الإعدادات.</li>"
 "<li>لضمان استخدام جميع المميزات لجهازك بشكل طبيعي. سيتم إيقاف تشغيل وضع الحد الأقصى لموفر البطارية تلقائيًا عندما تكون نسبة شحن البطارية أكثر من ٣٠%.</li></string>
+    <string name="extreme_add_white_list_title">استثناءات الخلفية</string>
+    <string name="extreme_add_white_list_summary">أضف ما يصل إلى ٤ تطبيقات</string>
     <string name="empty_title_apps_container_list">لا توجد تطبيقات</string>
     <string name="hints_loading_text">لحظة من فضلك…</string>
     <string name="config_mode_title">إعدادات الخلفية</string>
@@ -101,13 +108,6 @@
     <string name="atrace_start">جارٍ تسجيل سجل atrace…</string>
     <string name="atrace_saving">جارٍ حفظ سجل atrace…</string>
     <string name="atrace_saved">تم الحفظ بنجاح</string>
-    <string name="notification_open_extreme_mode_text">تم تشغيل الحد الأقصى لموفر البطارية</string>
-    <string name="extreme_power_settings_title">الإعدادات</string>
-    <string name="notification_exit_extreme_mode_title">تم إيقاف الحد الأقصى لموفر البطارية</string>
-    <string name="notification_exit_extreme_mode_text">شحن البطارية أكثر من %s</string>
-    <string name="extreme_power_config_mode_summary">يقيد الحد الأقصى لموفر البطارية نشاط الخلفية ويُوقف المزامنة.</string>
-    <string name="extreme_add_white_list_title">استثناءات الخلفية</string>
-    <string name="extreme_add_white_list_summary">أضف ما يصل إلى ٤ تطبيقات</string>
     <string name="adaptive_battery_title">استخدام البطارية التكيفية</string>
-    <string name="adaptive_battery_summary">تقليل البطارية للتطبيقات الغير مستخدمة كثيرا</string>
+    <string name="adaptive_battery_summary">حد البطارية للتطبيقات التي لا تستخدمها كثيراً</string>
 </resources>

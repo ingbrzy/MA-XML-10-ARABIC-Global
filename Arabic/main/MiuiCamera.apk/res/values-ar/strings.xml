@@ -16,9 +16,9 @@
     <string name="preparing_sd">جار التحقق من بطاقة SD…</string>
     <string name="access_sd_fail">تعذر الوصول إلى بطاقة SD.</string>
     <string name="confirm_restore_title">استعادة الإعدادات الافتراضية</string>
-    <string name="confirm_restore_message">استعادة إعدادات الكاميرا الافتراضية ؟</string>
+    <string name="confirm_restore_message">هل تريد استعادة إعدادات الكاميرا الافتراضية؟</string>
     <string name="confirm_location_title">هل تريد تذكر مواقع الصور؟</string>
-    <string name="confirm_location_message">ضع علامة على صورك ومقاطع فيديوهاتك مع معلومات حول موقع إلتقاطها. ستكون هذه المعلومات متاحة للتطبيقات الأخرى بالإضافة إلى صورك المحفوظة.</string>
+    <string name="confirm_location_message">ضع علامة على صورك وفيديوهاتك مع معلومات حول موقع إلتقاطها. ستكون هذه المعلومات متاحة للتطبيقات الأخرى بالإضافة إلى صورك المحفوظة.</string>
     <string name="confirm_location_alert">تذكر مواقع الصور</string>
     <string name="start_capture">موافق</string>
     <string name="pref_camera_recordlocation_title">حفظ معلومات الموقع</string>
@@ -85,7 +85,7 @@
     <string name="pref_camera_flashmode_entry_auto">تلقائي</string>
     <string name="pref_camera_flashmode_entry_on">تشغيل</string>
     <string name="pref_camera_flashmode_entry_off">متوقف</string>
-    <string name="pref_camera_flashmode_entry_torch">المصباح</string>
+    <string name="pref_camera_flashmode_entry_torch">فلاش</string>
     <string name="pref_camera_front_bokeh_entry_on">تشغيل</string>
     <string name="pref_camera_front_bokeh_entry_off">متوقف</string>
     <string name="pref_camera_whitebalance_title">توازن اللون الأبيض</string>
@@ -294,7 +294,7 @@
     <string name="simple_mode_button_text_fast_video">إيقاف الحركة البطيئة</string>
     <string name="see_qrcode_detals">عرض تفاصيل رمز QR</string>
     <string name="pref_camera_watermark_title">إضافة طابع زمني على الصور</string>
-    <string name="pref_camera_device_watermark_title">العلامة المائية للجهاز</string>
+    <string name="pref_camera_device_watermark_title">علامة مائية للجهاز</string>
     <string name="pref_userdefine_watermark_title">تخصيص العلامة المائية</string>
     <string name="custom_watermark_words">تخصيص العلامة المائية</string>
     <string name="custom_watermark_tips">سيظهر هذا النص في السطر الثاني من العلامة المائية. يمكنه أن يحتوي على ١٨ أو ١٤حرفاً صينياً.</string>
@@ -457,6 +457,7 @@
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_use_hint">"يقوم وضع بورتريه بتشويش الخلفية
 و التركيز على الأشخاص في المقدمة."</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="portrait_mode_use_hint_for_bokeh">"جرب وضع البورتريه.
 اجعل الشخص أو الشيء واضح أثناء تشويش الخلفية."</string>
     <string name="pref_camera_square_mode_title">مربع</string>
@@ -473,6 +474,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -485,7 +487,7 @@
     <string name="cannot_connect_camera_volte_call">مكالمة فيديو جارية، يرجى أعادة المحاولة لاحقا.</string>
     <string name="pref_camera_groupshot_mode_title">سيلفي لمجموعة</string>
     <string name="simple_mode_button_text_groupshot">إيقاف تشغيل السيلفي لمجموعة</string>
-    <string name="pref_groupshot_with_primitive_title">حفظ الصور الأصلية كذلك</string>
+    <string name="pref_groupshot_with_primitive_title">حفظ الصور الأصلية</string>
     <string name="hint_groupshot_beauty">لا يمكن استخدام التجميل في اللقطة الجماعية</string>
     <string name="hint_groupshot">"سوف تأخذ الكاميرا صور متعددة
 ومن ثم سيتم إنشاء لقطة يبدو الجميع فيها أفضل."</string>
@@ -599,7 +601,7 @@
     <string name="close_back_flash_toast">الجهاز ساخن. لا يمكنك استخدام المصباح حاليا.</string>
     <string name="autozoom_hint">تتبع الجسم المتحرك</string>
     <string name="autozoom_disabled_hint">تم التوقف عن تتبع الجسم المتحرك</string>
-    <string name="autozoom_click_hint">انقر على جسم ما لبدء التتبع. ابق على بعد ٣ أمتار على الأقل للحصول على أفضل تأثير.</string>
+    <string name="autozoom_click_hint">انقر على جسم ما للتركيز عليه أثناء تحركه. ابق على بعد ٣ أمتار على الأقل للحصول على أفضل تأثير.</string>
     <string name="live_sticker_fragment_tab_name">ملصقات</string>
     <string name="live_speed_fragment_tab_name">السرعة</string>
     <string name="live_speed_extreme_slow">بطيء جداً</string>
@@ -680,4 +682,8 @@
     <string name="super_night_toast">ابقي الهاتف ثابت أثناء التصوير</string>
     <string name="capture_back_pressed_hint">انقر مرة اخرى للخروج</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
+    <string name="pref_camera_video_bokeh_on">بوكيه فيديو</string>
+    <string name="pref_camera_video_bokeh_off">بوكيه فيديو غير مشغل</string>
+    <string name="macro_mode">ماكرو</string>
+    <string name="macro_mode_tip">يجب ألا تتجاوز المسافة بين العدسة والجسم ١٠سم</string>
 </resources>

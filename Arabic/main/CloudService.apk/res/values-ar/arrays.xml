@@ -14,6 +14,106 @@
         <item>التقويم</item>
         <item>التخزبن</item>
     </string-array>
+    <string-array name="settings_search_contacts">
+        <item>مزامنة جهات الاتصال مع Mi Cloud</item>
+        <item>تشغيل/إعداد المزامنة</item>
+        <item>جهات الاتصال;سجل المكالمات;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>مزامنة الرسائل مع Mi Cloud</item>
+        <item>تشغيل/إعداد المزامنة</item>
+        <item>رسائل;الرسائل;SMS;رسالة قصيرة;رسائل وسائط متعددة;MMS;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>مزامنة المعرض مع Mi Cloud</item>
+        <item>تشغيل/إعداد المزامنة</item>
+        <item>معرض;المعرض;صور;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>مزامنة سجل المكالمات مع MiCloud</item>
+        <item>تشغيل/إعداد المزامنة</item>
+        <item>سجل المكالمات;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>مزامنة التسجيلات مع Mi Cloud</item>
+        <item>تشغيل/إعداد المزامنة</item>
+        <item>مسجل;المسجل;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_music">
+        <item>مزامنة الموسيقى مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>موسيقى;الموسيقى;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>مزامنة الملاحظات مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>ملاحظات;الملاحظات;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>مزامنة إعدادات Wi-Fi مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>مزامنة التقويم مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>تقويم;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>مزامنة المتصفح مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>متصفح;المتصفح;المسجل;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>مزامنة الحماية مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>أمان;امان;حماية;الحماية;المسجل;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>مزامنة منصة التطبيقات مع Mi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>منصة التطبيقات;بطاقات;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Mi Cloud. جميع خدمات Mi في مكان واحد.</item>
+        <item>يمكنك الوصول إلى الصور وجهات الاتصال والرسائل والأجهزة الخاصة بك من أي مكان</item>
+        <item>مساحة غير كافية;عضوية;تخزين;مساحة التخزين;Cloud;مزامنة;خدمات Cloud;Mi Cloud;مهملات;عناصر محذوفه;الحماية;حماية;امان</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>العثور على الجهاز</item>
+        <item>مسح البيانات وقفل الجهاز عند فقدانه</item>
+        <item>العثور على الجهاز;ضاع;مفقود;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>العثور على الجهاز</item>
+        <item>مسح البيانات وقفل الجهاز عند فقدانه</item>
+        <item>العثور على الجهاز;ضاع;مفقود;Cloud;مزامنة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>العناصر المحذوفة في Mi Cloud</item>
+        <item>استعادة جهات الاتصال والصور والرسائل وأكثر من ذلك</item>
+        <item>مهملات;عناصر محذوفة;سلة المهملات;استعادة;خدمات Cloud;Mi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>عضوية Mi Cloud</item>
+        <item>قم بترقية عضويتك للحصول على مساحة تخزين أكبر وحماية بياناتك</item>
+        <item>مساحة غير كافية;عضوية;تخزين;مساحة التخزين;Cloud;مزامنة;خدمات Cloud;Mi Cloud;بلاتيني;ماسي;Vip;نسخ احتياطي;استعادة;مهملات;عناصر محذوفة;سلة مهملات</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>نسخ احتياطي للشاشة الرئيسية إلى Mi Cloud</item>
+        <item>نسخ احتياطي لتنسيق الشاشة الرئيسية والتطبيقات المثبتة وإعدادات النظام</item>
+        <item>Cloud;نسخ احتياطي;نسخة احتياطية;خدمات Cloud;Mi Cloud;الشاشة الرئيسية;شاشة الرئيسية;تنسيق;التطبيقات;اعدادات;تردد النسخ الاحتياطي;ادارة النسخ الاحتياطية;ادارة النسخ الاحتياطي;استعادة;استرداد</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>النسخ الاحتياطي</item>
+        <item>عناصر النسخ الاحتياطي</item>
+        <item>Cloud;نسخ احتياطي;نسخة احتياطية;خدمات Cloud;Mi Cloud;الشاشة الرئيسية;شاشة الرئيسية;تنسيق;التطبيقات;ادارة النسخ الاحتياطية;ادارة النسخ الاحتياطي;استعادة;استرداد</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>استعادة عناصر من Mi Cloud</item>
+        <item>قم بتنزيل النسخ الاحتياطية على جهازك</item>
+        <item>Cloud;نسخ احتياطي;نسخة احتياطية;خدمات Cloud;Mi Cloud</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>مزامنة بيانات التطبيق</item>
         <item>نسخ تنسيق الشاشة الرئيسية احتياطياً</item>

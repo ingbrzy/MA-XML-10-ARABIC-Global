@@ -288,4 +288,12 @@
         <item quantity="few">صافٍ</item>
         <item quantity="many">صافٍ</item>
     </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">تم اتصال %1$d جهاز</item>
+        <item quantity="zero">تم اتصال %1$d جهاز</item>
+        <item quantity="one">تم اتصال %1$d جهاز</item>
+        <item quantity="two">تم اتصال %1$d أجهزة</item>
+        <item quantity="few">تم اتصال %1$d أجهزة</item>
+        <item quantity="many">تم اتصال %1$d جهاز</item>
+    </plurals>
 </resources>

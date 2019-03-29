@@ -104,7 +104,7 @@
     <string name="item_title_currency">العملة</string>
     <string name="item_title_dress_size">حجم الملابس</string>
     <string name="item_title_length_conversion">الطول</string>
-    <string name="item_title_mortgage">الرهن</string>
+    <string name="item_title_mortgage">Home loan</string>
     <string name="item_title_scientific_calculator">علمية</string>
     <string name="item_title_tax">ضرائب</string>
     <string name="item_title_temprature_conversion">درجة الحرارة</string>
@@ -136,9 +136,7 @@
     <string name="loan_interest_rate">الفائدة</string>
     <string name="loan_pay_years">فترة القرض</string>
     <string name="loan_payback_way">السداد</string>
-    <string name="loan_repayment_detail">تفاصيل السداد</string>
     <string name="loan_repayment_detail_loading">جارٍ تحميل تفاصيل السداد…</string>
-    <string name="loan_repayment_detail_unit">تفاصيل السداد (يوان صيني)</string>
     <string name="loan_unit">(×١٠ ألف)</string>
     <string name="medical_treatment">العلاج الطبي</string>
     <string name="menuDesc">القائمة</string>
@@ -166,7 +164,7 @@
     <string name="mortgage_interest_rate">الفائدة التجارية</string>
     <string name="mortgage_item_repayment">طريقه السداد</string>
     <string name="mortgage_item_start_time">تاريخ البدء</string>
-    <string name="mortgage_item_years">فترة الرهن</string>
+    <string name="mortgage_item_years">Loan tenure</string>
     <string name="mortgage_loans_amount">قيمة الرهن</string>
     <string name="mortgage_provident_found_interest_rate">سعر الفائدة للصندوق</string>
     <string name="mortgage_repayment_amount">مبلغ السداد</string>
@@ -594,8 +592,11 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

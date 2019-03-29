@@ -16,6 +16,22 @@
         <item quantity="few">الإجراء المحدد لا يتوفر أثناء التواجد في وضع الرد على مكالمة الطوارئ. وسيكون الهاتف في هذا الوضع لمدة %s دقائق. فهل ترغب في الخروج الآن؟</item>
         <item quantity="many">الإجراء المحدد لا يتوفر أثناء التواجد في وضع الرد على مكالمة الطوارئ. وسيكون الهاتف في هذا الوضع لمدة %s دقيقة. فهل ترغب في الخروج الآن؟</item>
     </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">تأخير: %s ثانية</item>
+        <item quantity="zero">تأخير: %s ثانية</item>
+        <item quantity="one">تأخير: %s ثانية</item>
+        <item quantity="two">تأخير: %s ثواني</item>
+        <item quantity="few">تأخير: %s ثواني</item>
+        <item quantity="many">تأخير: %s ثانية</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
+        <item quantity="zero">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
+        <item quantity="one">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
+        <item quantity="two">يمكنك إضافة ما يصل إلى %s أشخاص، قم بالتحديد مجددا.</item>
+        <item quantity="few">يمكنك إضافة ما يصل إلى %s أشخاص، قم بالتحديد مجددا.</item>
+        <item quantity="many">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
+    </plurals>
     <plurals name="call_record_auto_whitelist_summary">
         <item quantity="other">%d رقم</item>
         <item quantity="zero">%d رقم</item>
@@ -32,22 +48,6 @@
         <item quantity="few">سيتم حذف %d أرقام.</item>
         <item quantity="many">سيتم حذف %d رقم.</item>
     </plurals>
-    <plurals name="call_record_add_white_list_over_reminder">
-        <item quantity="other">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
-        <item quantity="zero">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
-        <item quantity="one">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
-        <item quantity="two">يمكنك إضافة ما يصل إلى %s أشخاص، قم بالتحديد مجددا.</item>
-        <item quantity="few">يمكنك إضافة ما يصل إلى %s أشخاص، قم بالتحديد مجددا.</item>
-        <item quantity="many">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>
-    </plurals>
-    <plurals name="auto_answer_summary_delay">
-        <item quantity="other">تأخير: %s ثانية</item>
-        <item quantity="zero">تأخير: %s ثانية</item>
-        <item quantity="one">تأخير: %s ثانية</item>
-        <item quantity="two">تأخير: %s ثواني</item>
-        <item quantity="few">تأخير: %s ثواني</item>
-        <item quantity="many">تأخير: %s ثانية</item>
-    </plurals>
     <plurals name="pin_attempts">
         <item quantity="other">"
 %d محاولة متبقية."</item>
@@ -61,5 +61,13 @@
 %d محاولات متبقية."</item>
         <item quantity="many">"
 %d محاولة متبقية."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="zero">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="two">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="few">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="many">‏عدد الأجهزة المتصلة ‎%1$d</item>
     </plurals>
 </resources>

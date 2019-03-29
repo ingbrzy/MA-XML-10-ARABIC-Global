@@ -30,6 +30,16 @@
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="ai_key_item_name">
+        <item>تحدث إلى مساعد Google</item>
+        <item>فتح بحث Google</item>
+        <item>فتح الكاميرا الخلفية</item>
+        <item>فتح الكاميرا الأمامية</item>
+        <item>فتح التطبيق السابق</item>
+        <item>تشغيل ضوء الفلاش</item>
+        <item>تشغيل وضع القراءة</item>
+        <item>لا شيء</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>كل يوم</item>
         <item>ليالي الأسبوع</item>
@@ -52,11 +62,11 @@
         <item>مقياس الرسوم المتحركة 10x</item>
     </string-array>
     <string-array name="ap_identify">
-        <item>الافتراضي</item>
+        <item>الإفتراضي</item>
         <item>نقطة اتصال محمولة</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>لا شيء</item>
+        <item>بدون</item>
         <item>بروتوكول مصادقة كلمات المرور</item>
         <item>‏بروتوكول CHAP</item>
         <item>‏بروتوكول مصادقة كلمات المرور أو بروتوكول CHAP</item>
@@ -126,7 +136,7 @@
         <item>كتم صوت/إلغاء كتم صوت الميكروفون</item>
         <item>عرض الإعلام المنبثق</item>
         <item>وسائط المشروع</item>
-        <item>تنشيط الشبكة الظاهرية الخاصة</item>
+        <item>تفعيل الشبكة الافتراضية الخاصة</item>
         <item>كتابة الخلفية</item>
         <item>تركيبة مساعدة</item>
         <item>لقطة شاشة مساعدة</item>
@@ -183,7 +193,7 @@
         <item>مستوى الصوت</item>
         <item>مستوى صوت الرنين</item>
         <item>مستوى صوت الوسائط</item>
-        <item>مستوى صوت المنبه</item>
+        <item>مستوى صوت المنبّه</item>
         <item>مستوى صوت الإشعار</item>
         <item>مستوى صوت البلوتوث</item>
         <item>البقاء في الوضع النشط</item>
@@ -193,7 +203,7 @@
         <item>كتم صوت/إلغاء كتم صوت الميكروفون</item>
         <item>عرض الإعلام المنبثق</item>
         <item>وسائط المشروع</item>
-        <item>تنشيط الشبكة الظاهرية الخاصة</item>
+        <item>تفعيل الشبكة الافتراضية الخاصة</item>
         <item>كتابة الخلفية</item>
         <item>تركيبة مساعدة</item>
         <item>لقطة شاشة مساعدة</item>
@@ -227,7 +237,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>رسم بياني</item>
-        <item>نسبة مئوية</item>
+        <item>نسبة مئوية (في الأيقونة)</item>
+        <item>نسبة مئوية (بجانب الأيقونة)</item>
         <item>شريط علوي</item>
     </string-array>
     <string-array name="battery_labels">
@@ -262,31 +273,31 @@
         <item>وضع زمن الانتقال البطيء</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>۱٦ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>۱٦ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>مونو</item>
         <item>ستيريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>مونو</item>
         <item>ستيريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>محسّن لجودة الصوت</item>
-        <item>توازن الصوت وسرعة الاتصال</item>
-        <item>محسّن لجودة الإتصال</item>
+        <item>الصوت المتوازن وجودة الاتصال</item>
+        <item>محسّن لجودة الاتصال</item>
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
@@ -296,14 +307,14 @@
         <item>أفضل تأثير (معدل البت التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
         <item>۰. ۹٦ كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
@@ -331,15 +342,31 @@
         <item>تمكين الترميز الإختياري</item>
         <item>تعطيل الترميز الاختياري</item>
     </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>"  |  نشط"</item>
+        <item>"  |  نشط (وسائط)"</item>
+        <item>"  |  نشط (هاتف)"</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
+        <item>avrcp13</item>
         <item>avrcp15</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (الافتراضي)</item>
+        <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_max_connected_audio_devices">
+        <item>استخدام الإعداد التلقائي للنظام: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
         <item>دقيقتان</item>
@@ -356,7 +383,7 @@
         <item>دائما</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
-        <item>الافتراضية</item>
+        <item>التلقائية</item>
         <item>بدون</item>
         <item>مخطط</item>
         <item>تظليل القطرات</item>
@@ -377,7 +404,7 @@
         <item>٪۱۰۰</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>استخدام الإعدادات الافتراضية للتطبيق</item>
+        <item>استخدام الإعدادات التلقائية للتطبيق</item>
         <item>أبيض في أسود</item>
         <item>أسود في أبيض</item>
         <item>أصفر في أسود</item>
@@ -385,7 +412,7 @@
         <item>مخصص</item>
     </string-array>
     <string-array name="captioning_typeface_selector_titles">
-        <item>افتراضي</item>
+        <item>تلقائي</item>
         <item>Sans-serif</item>
         <item>‏Sans-serif مكثف</item>
         <item>Sans-serif monospace</item>
@@ -400,16 +427,6 @@
         <item>نقش</item>
         <item>رمز PIN</item>
         <item>كلمة مرور</item>
-    </string-array>
-    <string-array name="check_importance_entries">
-        <item>موصى بها</item>
-        <item>هام</item>
-        <item>غير هام</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>سوف يقرر MIUI أي إشعارات يجب أن تظهر مباشرة</item>
-        <item>ستظهر الاشعارات في مركز الاشعارات</item>
-        <item>ستظهر الاشعارات في مجلد منفصل</item>
     </string-array>
     <string-array name="city_name">
         <item>ابيدجان</item>
@@ -702,6 +719,31 @@
         <item>باراماريبو</item>
         <item>كيتو</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
         <item>ألوان طبيعية كما تراها العين</item>
@@ -736,6 +778,11 @@
         <item>0</item>
         <item>1</item>
     </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>تلقائي (حسب الوقت من اليوم)</item>
+        <item>التشغيل دائمًا</item>
+        <item>إيقاف دائمًا</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>آخر ۳۰ يومًا</item>
         <item>تعيين دورة الاستخدام...</item>
@@ -744,10 +791,6 @@
         <item>إيقاف</item>
         <item>عرض مناطق تجاوز الحد</item>
         <item>عرض مناطق Deuteranomaly</item>
-    </string-array>
-    <string-array name="debug_hw_renderer_entries">
-        <item>OpenGL (افتراضي)</item>
-        <item>OpenGL (Skia)</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>مطلقًا</item>
@@ -773,7 +816,7 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>صغير</item>
-        <item>الإعداد الافتراضي</item>
+        <item>الإعداد التلقائي</item>
         <item>كبير</item>
         <item>الأكبر</item>
     </string-array>
@@ -788,6 +831,21 @@
     <string-array name="fluency_mode_summaries">
         <item>يسرع أداء الجهاز</item>
         <item>قد تبطئ أداء الجهاز</item>
+    </string-array>
+    <string-array name="fold_entries">
+        <item>موصى به</item>
+        <item>هام</item>
+        <item>غير هام</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>سوف يقرر MIUI أي إشعارات يجب أن تظهر مباشرة</item>
+        <item>ستظهر الاشعارات في مركز الاشعارات</item>
+        <item>ستظهر الاشعارات في مجلد منفصل</item>
+    </string-array>
+    <string-array name="fold_values">
+        <item>0</item>
+        <item>1</item>
+        <item>-1</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>٤.٥ بوصة</item>
@@ -814,6 +872,19 @@
         <item>لا تتحقق ابدا</item>
         <item>تحقق من محتوى DRM فقط</item>
         <item>تحقق دائماََ</item>
+    </string-array>
+    <string-array name="hide_account_list">
+        <item>com.android.localphone</item>
+        <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>ايقاظ الشاشة</item>
@@ -858,6 +929,43 @@
         <item>بعد ٥ دقائق</item>
         <item>أبداً</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>قصيرة</item>
         <item>متوسطة</item>
@@ -927,6 +1035,14 @@
 
 ملاحظة: فقط لـ Ubuntu 8.04!"</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>أعد تثبيت Mi PC Suite</item>
@@ -944,8 +1060,34 @@
         <item>جار الانتقال…</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
-        <item>رسم بياني</item>
+        <item>بياني</item>
         <item>نسبة مئوية</item>
+    </string-array>
+    <string-array name="notifi_importance_entries">
+        <item>@string/importance_high</item>
+        <item>@string/importance_default</item>
+        <item>@string/importance_low</item>
+        <item>@string/importance_min</item>
+    </string-array>
+    <string-array name="notifi_importance_summaries">
+        <item>@string/notifi_importance_high</item>
+        <item>@string/notifi_importance_default</item>
+        <item>@string/notifi_importance_low</item>
+        <item>@string/notifi_importance_min</item>
+    </string-array>
+    <string-array name="notifi_importance_values">
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>البحث</item>
+        <item>الإعدادات</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>أندرويد</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>
@@ -1018,6 +1160,62 @@
         <item>تقليل ضوضاء الميكرفون الواحد</item>
         <item>تقليل ضوضاء الميكرفون المزدوج</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>أداء</item>
         <item>متوازن</item>
@@ -1105,6 +1303,11 @@
         <item>زيادة التباين</item>
         <item>القياسي</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1167,6 +1370,10 @@
         <item>إرسم منطقة القصاصة الغير مستطيلة بالأزرق</item>
         <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>دائماً</item>
         <item>٣٠ دقيقة</item>
@@ -1189,13 +1396,35 @@
         <item>السماح</item>
         <item>رفض</item>
     </string-array>
-    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>بحث</item>
-        <item>الإعدادات</item>
-    </string-array>
-    <string-array name="status_bar_settings_notification_style_entries">
-        <item>MIUI</item>
-        <item>أندرويد</item>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
+    <string-array name="time_format_entries">
+        <item>١٢-ساعة ١:٠٠م</item>
+        <item>٢٤-ساعة ١٣:٠٠</item>
+        <item>تلقائي (بناءً على لغة النظام)</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>أمريكا</item>
@@ -1233,7 +1462,7 @@
     <string-array name="tts_rate_entries">
         <item>بطيء جدا</item>
         <item>بطيء</item>
-        <item>متوسط</item>
+        <item>عادي</item>
         <item>سريع</item>
         <item>أسرع</item>
         <item>سريع جدا</item>
@@ -1273,9 +1502,9 @@
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
-        <item>السؤال عند الاتصال</item>
+        <item>اسأل عند الاتصال</item>
         <item>الشحن فقط</item>
-        <item>تحميل بطاقة SD</item>
+        <item>تثبيت بطاقة SD</item>
     </string-array>
     <string-array name="vip_mode_text">
         <item>من أي احد</item>
@@ -1298,12 +1527,12 @@
         <item>غير ناجح</item>
     </string-array>
     <string-array name="vpn_types_long">
-        <item>‏شبكة ظاهرية خاصة (VPN) عبر PPTP</item>
-        <item>‏شبكة ظاهرية خاصة (VPN) لـ L2TP/IPSec مزودة بمفاتيح مشتركة مسبقًا</item>
-        <item>‏شبكة ظاهرية خاصة (VPN) لـ L2TP/IPSec مزودة بشهادات</item>
-        <item>‏شبكة ظاهرية خاصة (VPN) لـ IPSec مزودة بمفاتيح مشتركة مسبقًا ومصادقة Xauth</item>
-        <item>‏شبكة ظاهرية خاصة (VPN) لـ IPSec مزودة بشهادات ومصادقة Xauth</item>
-        <item>‏شبكة ظاهرية خاصة (VPN) لـ IPSec مزودة بشهادات ومصادقة مختلطة</item>
+        <item>‏شبكة افتراضية خاصة (VPN) عبر PPTP</item>
+        <item>‏شبكة افتراضية خاصة (VPN) لـ L2TP/IPSec مزودة بمفاتيح مشتركة مسبقًا</item>
+        <item>‏شبكة افتراضية خاصة (VPN) لـ L2TP/IPSec مزودة بشهادات</item>
+        <item>‏شبكة افتراضية خاصة (VPN) لـ IPSec مزودة بمفاتيح مشتركة مسبقًا ومصادقة Xauth</item>
+        <item>‏شبكة افتراضية خاصة (VPN) لـ IPSec مزودة بشهادات ومصادقة Xauth</item>
+        <item>‏شبكة افتراضية خاصة (VPN) لـ IPSec مزودة بشهادات ومصادقة مختلطة</item>
     </string-array>
     <string-array name="wfd_status">
         <item>بدء جلسة…</item>
@@ -1324,6 +1553,14 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa2</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>‏شبكة Wi-Fi مُفضّلة</item>
@@ -1359,22 +1596,31 @@
     </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAP</item>
-        <item>طبقة النقل الآمنة</item>
+        <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
-        <item>طبقة النقل الآمنة</item>
+        <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
         <item>SIM</item>
         <item>AKA</item>
         <item>"AKA'‎"</item>
     </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>لا</item>
+        <item>نعم</item>
+    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>ثابت</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>الاكتشاف التلقائي</item>
+        <item>معاملة الشبكة باعتبارها ذات سعة محدودة</item>
+        <item>معاملة الشبكة باعتبارها ذات سعة غير محدودة</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>متصل</item>
@@ -1389,7 +1635,7 @@
         <item>رقم التعريف من هذا الجهاز</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>لا شيء</item>
+        <item>بدون</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -1402,14 +1648,14 @@
         <item>"AKA'‎"</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
-        <item>لا شيء</item>
+        <item>بدون</item>
         <item>بروتوكول مصادقة كلمات المرور</item>
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>لا شيء</item>
+        <item>بدون</item>
         <item>يدويًا</item>
         <item>تهيئة تلقائية للوكيل</item>
     </string-array>
@@ -1419,16 +1665,6 @@
         <item>متوسطة</item>
         <item>جيدة</item>
         <item>ممتازة</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries">
-        <item>دومًا</item>
-        <item>عند التوصيل فقط</item>
-        <item>مطلقًا</item>
-    </string-array>
-    <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>دومًا</item>
-        <item>عند التوصيل فقط</item>
-        <item>مطلقًا</item>
     </string-array>
     <string-array name="wifi_ssid_type_entries">
         <item>الاتصال تلقائيا</item>
@@ -1461,6 +1697,10 @@
         <item>لم ينجح ذلك</item>
         <item>محظور</item>
         <item>مؤقتا تجنب الإتصال الضعيف</item>
+    </string-array>
+    <string-array name="wifi_tether_security_values">
+        <item>4</item>
+        <item>0</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>الرسوم المتحركة متوقفة</item>

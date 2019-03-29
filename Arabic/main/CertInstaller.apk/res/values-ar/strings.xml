@@ -18,7 +18,7 @@
     <string name="password_empty_error">أدخل كلمة المرور.</string>
     <string name="name_empty_error">اكتب اسمًا.</string>
     <string name="name_char_error">أدخل اسمًا يحتوي على أحرف وأرقام فقط.</string>
-    <string name="unable_to_save_cert">تعذر حفظ الشهادة. لم يتم تمكين وحدة تخزين بيانات الاعتماد أو لم تتم تهيئتها بشكل صحيح.</string>
+    <string name="unable_to_save_cert">تعذر حفظ الشهادة. لم يتم تفعيل وحدة تخزين بيانات الاعتماد أو لم تتم تهيئتها بشكل صحيح.</string>
     <string name="cert_not_saved">الشهادة غير مثبتة.</string>
     <string name="no_cert_to_saved">ليس هناك شهادات للتثبيت.</string>
     <string name="invalid_cert">الشهادة غير صالحة.</string>
@@ -30,6 +30,7 @@
     <string name="sdcard_not_present">‏بطاقة SD غير موجودة.</string>
     <string name="only_primary_user_allowed">يُسمح لمالك هذا الجهاز فقط تثبيت الشهادات.</string>
     <string name="credential_usage_label">استخدام بيانات الاعتماد:</string>
+    <string name="certificate_capabilities_warning">ملاحظة: قد يفحص مُصدِر هذه الشهادة جميع الزيارات إلى الجهاز ومنه.</string>
     <string name="wifi_title">‏الملف الشخصي لاتصال Wi-Fi</string>
     <string name="wifi_detail_title">‏تفاصيل %s</string>
     <string name="wifi_detail_label">التفاصيل</string>
@@ -59,7 +60,7 @@ FQDN: %2$s
     <string name="install_done">‏تمت إضافة بيانات اعتماد %1$s إلى شبكات Wi-Fi المحفوظة.</string>
     <string name="done_label">تم</string>
     <string name="wifi_installer_detail">‏تثبيت بيانات اعتماد Wi-Fi للاتصال بالشبكات المتاحة عبر %1$s.</string>
-    <string name="wifi_installer_download_error">الملف الذي تم تنزيله يحتوي على مشكلات ولا يمكن تثبيته. تأكد من تنزيل الملف من المصدر الصحيح.</string>
+    <string name="wifi_installer_download_error">الملف الذي تم تنزيله يحتوي على مشاكل ولا يمكن تثبيته. تأكد من تنزيل الملف من المصدر الصحيح.</string>
     <string name="wifi_installer_fail">‏يتعذر تثبيت بيانات اعتماد Wi-Fi. يمكنك تجربة تنزيل الملف مرة أخرى.</string>
     <string name="wifi_installer_fail_no_wifi_title">تم إلغاء التثبيت</string>
     <string name="wifi_installer_fail_title">يتعذر التثبيت</string>

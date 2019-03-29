@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"تقديم حجم النسخة: %1$s
 حجم تحديث دلتا: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="app_name">نسخة احتياطية</string>
     <string name="local_app_name">النسخ الاحتياطي</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">استعادة</string>
     <string name="enable_encrypt_description">مشفر</string>
     <string name="disable_encrypt_description">غير مشفر</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">لحظة من فضلك…</string>
     <string name="state_mounting">الوصول إلى تخزين جهاز التوجيه…</string>
     <string name="abort_backup_confirm">لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟</string>
@@ -308,7 +312,9 @@
     <string name="trans_detail_app_data_useless_tip">يمكنك استعادة هذه من التطبيق، لا حاجة لنقلها.</string>
     <string name="trans_detail_item_app_data_too_large_tip">يبدو أن العنصر كبير جدا لنقلة.</string>
     <string name="trans_detail_item_app_data_selected_tip">كما تم اختيار التطبيقات المقابلة.</string>
-    <string name="trans_detail_list_footer">ملاحظة: يمكنك اختيار نقل التطبيقات بشكل منفصل. ومع ذلك، عند تحديد البيانات، سيتم أيضا نقل التطبيقات المقابلة.</string>
+    <string name="trans_detail_list_footer">"١. يمكنك اختيار التطبيقات الفردية التي ترغب بنقلها..
+٢. إذا قمت بتحديد بيانات التطبيق، فسيتم تحديد التطبيقات المناسبة أيضًا.
+٣. قد لا يتم نقل بيانات تطبيق WeChat و QQ بسبب مشكلات التوافق. يمكنك تجربة ميزات النقل في التطبيق."</string>
     <string name="trans_detail_page_tip">كلما زادت العناصر التي حددتها، استمرت عملية النقل لوقت أطول.</string>
     <string name="trans_detail_sys_data_list_title">تطبيقات النظام</string>
     <string name="trans_detail_app_data_list_title">بيانات التطبيق</string>
@@ -368,8 +374,9 @@
     <string name="trans_wait_trans_data">"متصل بالجهاز القديم.
 في انتظار النقل…"</string>
     <string name="trans_select_data">قم بتحديد عناصر للارسال</string>
-    <string name="trans_select_data_tips">"حدد العناصر المراد نقلها
-الملفات المماثلة في الجهاز الجديد سيتم استبدالها"</string>
+    <string name="trans_select_data_tips">"حدد عناصر لنقلها.
+سيتم استبدال العناصر المماثلة الموجودة على الجهاز الجديد.
+(حجم العناصر المنقولة التي تراها الآن هو تقدير تقريبي.)"</string>
     <string name="trans_select_data_no_space">"لا توجد مساحة تخزين كافية في الجهاز الجديد (%s متوفر).
 قم بتفريغ مساحة أو نقل العناصر المهمة فقط."</string>
     <string name="trans_select_data_too_large">"تم تحديد عدد كبير جدا من العناصر للنقل.
@@ -385,6 +392,22 @@
     <string name="trans_old_phone_low_space_msg">يحتاج ناقل Mi إلى بعض المساحة التخزينية لحزم البيانات المنقولة، ولكن يبدو أنه لا توجد مساحة كافية على الجهاز القديم. قم بتفريغ مساحة من \"الحماية\" أو انقل العناصر المهمة فقط.</string>
     <string name="button_clean_garbage">تفريغ مساحة</string>
     <string name="button_quit">خروج</string>
+    <string name="soft_ap_creating">جارٍ إنشاء نقطة اتصال…</string>
+    <string name="wait_link">"قم بتوصيل الجهاز القديم بنقطة الاتصال هذه.
+لا تترك هذه الصفحة قبل إنشاء الاتصال."</string>
+    <string name="old_way">يمكنك أيضا الاتصال باستخدام رمز QR. انقر لإنشاء الرمز.</string>
+    <string name="soft_ap_create_failed">تعذر إنشاء نقطة اتصال</string>
+    <string name="scan_soft_ap_label">الاتصال بالجهاز القديم</string>
+    <string name="scan_soft_ap">جارٍ البحث عن جهاز جديد…</string>
+    <string name="click_soft_ap_to_link">حدد نقطة اتصال للاتصال</string>
+    <string name="waiting">لحظة من فضلك…</string>
+    <string name="old_soft_name">الاتصال عبر رمز QR</string>
+    <string name="confirm_exit_link_title">قطع النقل</string>
+    <string name="confirm_exit_link_msg">سيتم مقاطعة النقل الحالي إذا قمت بالخروج من التطبيق الآن. سيتوجب عليك إعادة الاتصال بين الجهازين. الخروج من التطبيق؟</string>
+    <string name="confirm_exit_link">خروج</string>
+    <string name="confirm_exit_link_cancel">متابعة</string>
+    <string name="connect_soft_ap_label">جارٍ الاتصال بالجهاز الجديد…</string>
+    <string name="recreate_soft_ap_tips">انقر على الزر أدناه لإعادة المحاولة.</string>
     <string name="trans_install_guide_page_title">تثبيت ناقل Mi على جهازك القديم</string>
     <string name="trans_install_guide_scan_install_tip">"امسح رمز QR بإستخدام هاتفك القديم
 لتنزيل وتثبيت ناقل Mi."</string>
@@ -417,6 +440,8 @@
     <string name="trans_intro_title_old">على الهاتف القديم:</string>
     <string name="trans_intro_desc_old">انقر على \"آنا المرسل\". ثم قم بمسح رمز QR على الهاتف الجديد و انتظر حتى يتعرف ناقل Mi على الملفات المطلوب إرسالها و انقر \"إرسال\".</string>
     <string name="trans_intro_desc_old_market">انقر على \"ابدأ\". ثم قم بمسح رمز QR على الهاتف الجديد و انتظر حتى يتعرف ناقل Mi على الملفات المطلوب إرسالها و انقر \"إرسال\".</string>
+    <string name="trans_intro_question_10">%d. لا يمكن العثور على نقطة الاتصال في الجهاز القديم؟</string>
+    <string name="trans_intro_desc_10">انقر \"الاتصال عبر رمز QR\" في الجهاز الجديد و امسح رمز QR لإنشاء الاتصال.</string>
     <string name="trans_intro_question_3">%d. ماذا اعمل إذا توقف ناقل Mi في خطوة معينة؟</string>
     <string name="trans_intro_desc_3">قم بإلغاء النقل و الخروج من ناقل Mi، ثم ابدأ من جديد. سيتم استبدال الملفات المكررة أثناء عملية النقل الجديدة.</string>
     <string name="trans_intro_question_4">%d. لماذا لا يمكنني استخدام الـ Wi-Fi أثناء عملية النقل؟</string>
@@ -439,6 +464,8 @@
     <string name="trans_intro_desc_multiuser">لا يمكن وصول ناقل Mi إلى العناصر في الواجهة الثانية. قم بنقل العناصر إلى الواجهة الاولى و تشغيل ناقل Mi هناك.</string>
     <string name="trans_intro_title_multiapp">بيانات التطبيقات المزدوجة:</string>
     <string name="trans_intro_desc_multiapp">لا يقوم ناقل Mi بنقل بيانات التطبيقات المزدوجة لتجنب التعارض بين الملفات.</string>
+    <string name="trans_intro_title_gms">بيانات تطبيقات Google:</string>
+    <string name="trans_intro_desc_gms">نظرًا للاحتمال الكبير لعدم نجاح عمليات النقل الناتجة عن مشكلات التوافق، لا يدعم ناقل Mi نقل البيانات التي أنشأتها تطبيقات Google.</string>
     <string name="trans_intro_question_9_market">%d. الإبلاغ عن خلل.</string>
     <string name="trans_intro_desc_9_method_1_title">١. شارك تقريرك بإستخدام تطبيق \"الإبلاغ عن خلل\".</string>
     <string name="trans_intro_desc_9_method_1_dec">انتقل إلى الشاشة الرئيسية> الأدوات > الإبلاغ عن خلل.</string>
@@ -470,7 +497,6 @@
     <string name="trans_success_dialog_button_survey">استبيان</string>
     <string name="trans_success_dialog_survey_title">نحن نقدر ملاحظاتك</string>
     <string name="trans_success_survey_hint">املأ جميع الحقول أولاً.</string>
-    <string name="trans_cancel_dialog_survey_title">لماذا قطعت الإرسال؟</string>
     <string name="trans_dialog_survey_finish">إرسال</string>
     <string name="trans_failed_details_page_title">عمليات النقل الغير ناجحة</string>
     <string name="close_twice_auth_tutor">إيقاف المصادقة ذات العاملين لـ Apple ID</string>
@@ -540,6 +566,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 يجب عليك إنشاء نسخ iCloud احتياطي أولا."</string>
     <string name="list_footer_tip_title">نصائح:</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">استيراد</string>
     <string name="select_empty">قم بتحديد عناصر للاستيراد</string>
     <string name="select_item_summary_wait">جارٍ الانتظار…</string>

@@ -58,6 +58,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
     <string name="cast_notification_connecting_message">جارٍ الاتصال بـ %1$s</string>
@@ -487,6 +488,7 @@
     <string name="slid_fail_message">تعذر الحفظ</string>
     <string name="slide_save_message">جارٍ إنشاء الفيديو…</string>
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="sure_to_logout">تسجيل الخروج الان؟</string>
     <string name="switch_ratio_pause">سرعة التشغيل غير مستقرة. جارٍ التبديل إلى السرعة الأفتراصية…</string>
     <string name="symbol_rmb">¥</string>
