@@ -58,6 +58,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
     <string name="cast_notification_connecting_message">جارٍ الاتصال بـ %1$s</string>
@@ -297,7 +298,7 @@
     <string name="no_recommend_data">لا يوجد فيديو موصى به الآن</string>
     <string name="not_show">لا تظهر مرة اخرى</string>
     <string name="notify_apk_installed">تم التنزيل بنجاح</string>
-    <string name="ok">حسنا</string>
+    <string name="ok">موافق</string>
     <string name="ovp_alert_dialog_download_install_task">جارٍ تنزيل المكون الإضافي…</string>
     <string name="ovp_buffering_video_netplay_label_v5">جارٍ التحميل…</string>
     <string name="ovp_category">الفئات</string>
@@ -487,6 +488,7 @@
     <string name="slid_fail_message">تعذر الحفظ</string>
     <string name="slide_save_message">جارٍ إنشاء الفيديو…</string>
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="sure_to_logout">تسجيل الخروج الان؟</string>
     <string name="switch_ratio_pause">سرعة التشغيل غير مستقرة. جارٍ التبديل إلى السرعة الأفتراصية…</string>
     <string name="symbol_rmb">¥</string>
@@ -518,4 +520,26 @@
     <string name="v_ok">موافق</string>
     <string name="v_pw_need_update_app">تحديث فيديو Mi لاستخدام جميع مميزاته</string>
     <string name="v_save">حفظ</string>
+    <string name="Subscribe">اشتراك</string>
+    <string name="diy_channels_tips">يمكنك تخصيص قائمة القنوات الخاصة بك الآن.</string>
+    <string name="empty_channels">إدارة القنوات</string>
+    <string name="empty_subscribe">لم تقم بالاشتراك في أي شيء حتى الآن.</string>
+    <string name="hidden_channels">لن يتم عرض القنوات التالية على الصفحة الرئيسية.</string>
+    <string name="init_channels">إستعادة الافتراضية</string>
+    <string name="isSubscribed">تم الاشتراك</string>
+    <string name="my_favorite_channels">قنواتي</string>
+    <string name="ovp_navigation_subscribe">اشتراك</string>
+    <string name="ovp_player_plugin_dlg_neg_btn">إغلاق</string>
+    <string name="ovp_player_plugin_dlg_no_content">لم يتم تثبيت أي مكونات مشغل فيديو إضافية.</string>
+    <string name="ovp_player_plugin_dlg_title">مكونات مشغل الفيديو الإضافية</string>
+    <string name="permission_phone">الهاتف</string>
+    <string name="permission_phone_desc">الوصول إلى حالة الجهاز وإيقاف التشغيل مؤقتًا أثناء المكالمات</string>
+    <string name="permission_storage">المساحة</string>
+    <string name="permission_storage_desc">الوصول إلى العناصر وحفظ الملفات وعرض وتشغيل الفيديوهات المحلية</string>
+    <string name="pw_channels">القنوات</string>
+    <string name="recommend_channels">القنوات الموصى بها</string>
+    <string name="restore_channel_list">إستعادة الافتراضية الآن؟</string>
+    <string name="title_publisher">الناشرون</string>
+    <string name="title_subscribe">الاشتراكات</string>
+    <string name="ugc_confirm_unsubscribe">إلغاء الاشتراك الآن؟</string>
 </resources>

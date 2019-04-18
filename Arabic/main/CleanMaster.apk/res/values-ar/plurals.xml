@@ -97,12 +97,12 @@
         <item quantity="many">تم تثبيت %d تطبيق، يمكنك حذف التطبيقات نادرة الإستخدام</item>
     </plurals>
     <plurals name="deepclean_large_summary">
-        <item quantity="other">تم إيجاد %d تطبيق كبير، يمكنك حذف الغير مهم منها</item>
-        <item quantity="zero">تم إيجاد %d تطبيق كبير، يمكنك حذف الغير مهم منها</item>
-        <item quantity="one">تم إيجاد %d تطبيق كبير، يمكنك حذف هذا</item>
-        <item quantity="two">تم إيجاد %d تطبيقات كبيرة، يمكنك حذف الغير مهمة منها</item>
-        <item quantity="few">تم إيجاد %d تطبيقات كبيرة، يمكنك حذف الغير مهمة منها</item>
-        <item quantity="many">تم إيجاد %d تطبيق كبير، يمكنك حذف الغير مهم منها</item>
+        <item quantity="other">تم إيجاد %d تطبيق ذات حجم كبير، يمكنك حذف الغير مهم منها</item>
+        <item quantity="zero">تم إيجاد %d تطبيق ذات حجم كبير، يمكنك حذف الغير مهم منها</item>
+        <item quantity="one">تم إيجاد %d تطبيق ذات حجم كبير، يمكنك حذف هذا</item>
+        <item quantity="two">تم إيجاد %d تطبيقات ذات حجم كبير، يمكنك حذف الغير مهمة منها</item>
+        <item quantity="few">تم إيجاد %d تطبيقات ذات حجم كبير، يمكنك حذف الغير مهمة منها</item>
+        <item quantity="many">تم إيجاد %d تطبيق ذات حجم كبير، يمكنك حذف الغير مهم منها</item>
     </plurals>
     <plurals name="deepclean_similar_summary">
         <item quantity="other">تم إيجاد %d صورة، يمكنك حذف الصور المكررة أو الغير مرغوب فيها</item>

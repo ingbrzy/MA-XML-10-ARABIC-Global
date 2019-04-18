@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="user_detail_fixed_items">
+        <item>عرض العناصر المتزامنة</item>
+        <item>تفاصيل التخزين</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>لتحديد العناصر المتزامنة</item>
         <item>لمزامنة الرسائل</item>

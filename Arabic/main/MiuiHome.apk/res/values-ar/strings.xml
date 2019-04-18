@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة الشاشة</string>
@@ -195,6 +196,7 @@
     <string name="is_system_wallpaper_message">لا يمكن حذف موارد النظام</string>
     <string name="launcher_auto_fill_empty_title">ملء الخانات الفارغة</string>
     <string name="launcher_not_exist">حدث خطأ ما، ارجع إلى الشاشة الرئيسية ثم حاول مجددا.</string>
+    <string name="launcher_sliding_up_gesture">مرّر لأعلى على الشاشة الرئيسية لفتح البحث</string>
     <string name="launcher_title">الشاشة الرئيسية والمستخدمة مؤخراً</string>
     <string name="like">إضافة إلى المفضلة</string>
     <string name="liked">تمت الإضافة إلى المفضلة</string>
@@ -355,6 +357,9 @@
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
     <string name="widgets_preview_title">إضافة تطبيق مصغر</string>
+    <string name="edit_mode_dual_app">Create dual app</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">"Can't uninstall system apps"</string>
+    <string name="edit_mode_group_error_nothing_be_selected">Select an app first</string>
     <string name="home_gesture_content_center">مركز المحتوى</string>
     <string name="home_gesture_global_search">بحث</string>
     <string name="home_gesture_no_action">لا يوجد</string>
@@ -363,6 +368,5 @@
     <string name="home_slide_up_action">مرّر لأعلى على الشاشة الرئيسية</string>
     <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
     <string name="launcher_slide_up_title">مرّر لأعلى على الشاشة الرئيسية</string>
-    <string name="launcher_sliding_up_gesture">مرّر لأعلى على الشاشة الرئيسية لفتح البحث</string>
     <string name="minus_one_screen">منصة التطبيقات</string>
 </resources>

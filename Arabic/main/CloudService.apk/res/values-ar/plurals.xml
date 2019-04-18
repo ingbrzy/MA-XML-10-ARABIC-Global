@@ -136,4 +136,12 @@
         <item quantity="few">منذ %s ساعات</item>
         <item quantity="many">منذ %s ساعة</item>
     </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
+        <item quantity="zero">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
+        <item quantity="one">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
+        <item quantity="two">لن تتم مزامنة %s خدمات مع Mi Cloud</item>
+        <item quantity="few">لن تتم مزامنة %s خدمات مع Mi Cloud</item>
+        <item quantity="many">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
+    </plurals>
 </resources>

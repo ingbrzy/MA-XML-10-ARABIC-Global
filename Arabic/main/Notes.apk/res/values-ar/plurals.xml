@@ -1,28 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">حذف %1$s عنصر؟</item>
+        <item quantity="zero">حذف %1$s عنصر؟</item>
+        <item quantity="one">حذف %1$s عنصر؟</item>
+        <item quantity="two">حذف %1$s عناصر؟</item>
+        <item quantity="few">حذف %1$s عناصر؟</item>
+        <item quantity="many">حذف %1$s عنصر؟</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">لم تتم مزامنة %1$s</item>
-        <item quantity="zero">لم تتم مزامنة %1$s</item>
-        <item quantity="one">لم تتم مزامنة %1$s</item>
-        <item quantity="two">لم تتم مزامنة %1$s</item>
-        <item quantity="few">لم تتم مزامنة %1$s</item>
-        <item quantity="many">لم تتم مزامنة %1$s</item>
+        <item quantity="other">لم تتم مزامنة %1$s عنصر</item>
+        <item quantity="zero">لم تتم مزامنة %1$s عنصر</item>
+        <item quantity="one">لم تتم مزامنة %1$s عنصر</item>
+        <item quantity="two">لم تتم مزامنة %1$s عناصر</item>
+        <item quantity="few">لم تتم مزامنة %1$s عناصر</item>
+        <item quantity="many">لم تتم مزامنة %1$s عنصر</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s مجلد</item>
-        <item quantity="zero">%1$s مجلد</item>
-        <item quantity="one">%1$s مجلد</item>
-        <item quantity="two">%1$s مجلدات</item>
-        <item quantity="few">%1$s مجلدات</item>
-        <item quantity="many">%1$s مجلد</item>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">تم حذف %1$s ملاحظة من المجلد</item>
+        <item quantity="zero">تم حذف %1$s ملاحظة من المجلد</item>
+        <item quantity="one">تم حذف %1$s ملاحظة من المجلد</item>
+        <item quantity="two">تم حذف %1$s ملاحظات من المجلد</item>
+        <item quantity="few">تم حذف %1$s ملاحظات من المجلد</item>
+        <item quantity="many">تم حذف %1$s ملاحظة من المجلد</item>
     </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s ملاحظة</item>
-        <item quantity="zero">%1$s ملاحظة</item>
-        <item quantity="one">%1$s ملاحظة</item>
-        <item quantity="two">%1$s ملاحظات</item>
-        <item quantity="few">%1$s ملاحظات</item>
-        <item quantity="many">%1$s ملاحظة</item>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">تم نقل %1$s ملاحظة الى %2$s</item>
+        <item quantity="zero">تم نقل %1$s ملاحظة الى %2$s</item>
+        <item quantity="one">تم نقل %1$s ملاحظة الى %2$s</item>
+        <item quantity="two">تم نقل %1$s ملاحظات الى %2$s</item>
+        <item quantity="few">تم نقل %1$s ملاحظات الى %2$s</item>
+        <item quantity="many">تم نقل %1$s ملاحظة الى %2$s</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d ثانية متبقية</item>
@@ -31,6 +39,22 @@
         <item quantity="two">%d ثواني متبقية</item>
         <item quantity="few">%d ثواني متبقية</item>
         <item quantity="many">%d ثانية متبقية</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">تم إخفاء %1$s ملاحظة بنجاح</item>
+        <item quantity="zero">تم إخفاء %1$s ملاحظة بنجاح</item>
+        <item quantity="one">تم إخفاء %1$s ملاحظة بنجاح</item>
+        <item quantity="two">تم إخفاء %1$s ملاحظات بنجاح</item>
+        <item quantity="few">تم إخفاء %1$s ملاحظات بنجاح</item>
+        <item quantity="many">تم إخفاء %1$s ملاحظة بنجاح</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">تم إلغاء إخفاء %1$s ملاحظة بنجاح</item>
+        <item quantity="zero">تم إلغاء إخفاء %1$s ملاحظة بنجاح</item>
+        <item quantity="one">تم إلغاء إخفاء %1$s ملاحظة بنجاح</item>
+        <item quantity="two">تم إلغاء إخفاء %1$s ملاحظات بنجاح</item>
+        <item quantity="few">تم إلغاء إخفاء %1$s ملاحظات بنجاح</item>
+        <item quantity="many">تم إلغاء إخفاء %1$s ملاحظة بنجاح</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d حرف</item>

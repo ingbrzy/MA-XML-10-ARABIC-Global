@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="add_alarm">إضافة منبه</string>
     <string name="add_clock">إضافة ساعة</string>
     <string name="add_timezone_title">إضافة منطقة زمنية</string>
@@ -63,6 +64,9 @@
     <string name="channel_name_timer">المؤقت</string>
     <string name="check_theme_app_install">تأكد من تثبيت تطبيق السمات على جهازك.</string>
     <string name="check_voice_assist_app_version">قم بتحديث Mi AI إلى أحدث إصدار.</string>
+    <string name="clock_bg_button_setting_summary_common">حدد لون الخلفية لتطبيق الساعة</string>
+    <string name="clock_bg_button_setting_summary_follow_sys">سيتم استخدام الأسود كلون الخلفية في كل مرة تقوم بالتبديل إلى الوضع المعتم</string>
+    <string name="clock_bg_button_setting_title">لون الخلفية</string>
     <string name="close_alarm">إيقاف التشغيل</string>
     <string name="common_settings">الإعدادات</string>
     <string name="confirm_abort">تجاهل</string>
@@ -83,6 +87,11 @@
     <string name="dialog_message_for_contact_permission">للحصول على تنبيهات أعياد الميلاد، تحتاج الساعة إلى االوصول إلى جهات الاتصال الخاصة بك. موافق؟</string>
     <string name="dialog_message_negative">لا أوافق</string>
     <string name="dialog_message_not_remind">لا تظهر مرة اخرى</string>
+    <string name="dialog_privacy_content">للحصول على معلومات عن أيام العطل الرسمية ومزامنتها وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
+    <string name="dialog_privacy_content_global">لتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
+    <string name="dialog_privacy_content_news">لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
+    <string name="dialog_privacy_content_timer">لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
+    <string name="dialog_privacy_content_timer_data">لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٢٠ ميغابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. انت تستخدم بيانات الجوال الآن. موافق؟</string>
     <string name="done">تم</string>
     <string name="dynamic_alarm_speech">المنبه الذكي</string>
     <string name="edit_alarm">تعديل المنبه</string>
@@ -93,6 +102,10 @@
     <string name="force_touch_enter_stopwatch">ساعة الإيقاف</string>
     <string name="force_touch_enter_timer">المؤقت</string>
     <string name="go_back">رجوع</string>
+    <string name="holiday_update">يتوفر تحديث للعطلات الرسمية</string>
+    <string name="holiday_update_fail">تعذر التحديث</string>
+    <string name="holiday_update_loading">جارٍ التحديث…</string>
+    <string name="holiday_update_success">كل العناصر محدثة</string>
     <string name="hour_unit">ساعة+</string>
     <string name="install_weather_app_error">تعذر تحميل التطبيق</string>
     <string name="install_weather_app_loading">لحظة من فضلك…</string>
@@ -118,6 +131,7 @@
     <string name="life_post_setting">تقرير الصباح</string>
     <string name="life_post_setting_FBE_remind">بسبب قيود في النظام، قد لا يتم عرض معلومات الطقس في التقارير الصباحية بعد إعادة تشغيل الجهاز.</string>
     <string name="life_post_setting_close_title">إيقاف التقارير الصباحية</string>
+    <string name="life_post_setting_open_desc">إيقاف تشغيل التنبيه المتكرر من ٠٤:٠٠ إلى ١٠:٠٠ صباحًا للاستماع إلى تقرير الطقس الحالي</string>
     <string name="life_post_setting_open_subtitle">تلقي معلومات عن الطقس عند إيقافك تشغيل التنبيهات بين ٤:۰۰ و ۹:۳۰</string>
     <string name="life_post_setting_open_title">تلقي تقارير الصباح</string>
     <string name="life_post_setting_wake_up_list_title">سجل الإستيقاظ</string>
@@ -139,13 +153,15 @@
     <string name="menu_item_sort_by_gmt_offset">ترتيب حسب الوقت</string>
     <string name="menu_item_sort_by_name">الترتيب حسب الإسم</string>
     <string name="module_download_cancel">لا شكراً</string>
-    <string name="module_download_data_msg">تحتاج الساعة إلى الاتصال بالإنترنت لتنزيل الملفات الصوتية لمنبهات الطقس MIUI 10 ومؤقتات الضوضاء المحيطة. يتطلب التنزيل ٢٠ ميغابايت من بيانات الجوال. السماح؟</string>
-    <string name="module_download_data_msg_golbal">تحتاج الساعة إلى تنزيل الملفات الصوتية لمنبهات الطقس MIUI 10 ومؤقتات الضوضاء المحيطة. يتطلب التنزيل ٢٠ ميغابايت من بيانات الجوال. السماح؟</string>
-    <string name="module_download_data_msg_replace">يتوفر التحديث الصوتي (≈٢٠م.ب) للتنبيهات الذكية. اتصل بالشبكة وقم بالتنزيل الآن؟</string>
+    <string name="module_download_data_msg">تحتاج الساعة لتنزيل الملفات الصوتية لتبيهات MIUI الذكية. تحتوي التنبيهات الذكية على ميزات تسمح لك بتضمين معلومات الطقس الحالية في التنبيهات. يتطلب التنزيل ≈٢٠ ميغابايت من حركة مرور الجوال. التنزيل الآن؟</string>
+    <string name="module_download_data_msg_golbal">تحتاج الساعة لتنزيل الملفات الصوتية لتبيهات MIUI الذكية. يتطلب التنزيل ≈٢٠ ميغابايت من حركة مرور الجوال. التنزيل الآن؟</string>
+    <string name="module_download_data_msg_replace">هناك تحديث متوفر لتبيهات MIUI الذكية. يتطلب التنزيل ≈٢٠ ميغابايت من حركة مرور الجوال. التنزيل الآن؟</string>
+    <string name="module_download_data_msg_timer">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. يتطلب التنزيل ≈٢٠ ميغابايت من حركة مرور الجوال. التنزيل الآن؟</string>
     <string name="module_download_fail">تعذر تنزيل الملفات الصوتية</string>
-    <string name="module_download_msg">تحتاج الساعة إلى الاتصال بالإنترنت لتنزيل الملفات الصوتية لمنبهات الطقس MIUI 10 ومؤقتات الضوضاء المحيطة. موافق؟</string>
-    <string name="module_download_msg_golbal">تحتاج الساعة إلى تنزيل الملفات الصوتية لمنبهات الطقس MIUI 10 ومؤقتات الضوضاء المحيطة. موافق؟</string>
-    <string name="module_download_msg_replace">يتوفر التحديث الصوتي للتنبيهات الذكية. اتصل بالشبكة وقم بالتنزيل الآن؟</string>
+    <string name="module_download_msg">تحتاج الساعة لتنزيل الملفات الصوتية لتبيهات MIUI الذكية. تحتوي التنبيهات الذكية على ميزات تسمح لك بتضمين معلومات الطقس الحالية في التنبيهات. تنزيلها الآن؟</string>
+    <string name="module_download_msg_golbal">تحتاج الساعة لتنزيل الملفات الصوتية لتبيهات MIUI الذكية. التنزيل الآن؟</string>
+    <string name="module_download_msg_replace">يتوفر تحديث لتبيهات MIUI الذكية. التنزيل الآن؟</string>
+    <string name="module_download_msg_timer">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. التنزيل الآن؟</string>
     <string name="module_download_no_network">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="module_download_ok">السماح</string>
     <string name="module_download_success">تم تنزيل الملفات الصوتية بنجاح</string>
@@ -160,6 +176,7 @@
     <string name="other_category_title">أخرى</string>
     <string name="pause">إيقاف</string>
     <string name="percentage_sign">%</string>
+    <string name="personal_recommend">توصيات المحتوى الشخصي</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="remind_ringtone">النغمة</string>
     <string name="repeat_count">الأوقات</string>
@@ -184,6 +201,7 @@
     <string name="shutdown_alarm_enable_summary">سوف يرن المنبه إذا تم ضبطة ٥ دقائق على الأقل بعد إيقاف تشغيل الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
@@ -202,6 +220,7 @@
     <string name="start_up">بدء</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
+    <string name="symbol_colon">:</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
     <string name="temperature_unit">℃</string>
@@ -255,6 +274,7 @@
     <string name="turn_off_this_repeat_alarm">إيقاف تكرار هذا المنبه</string>
     <string name="upcoming_alarm">%s  منبه قادم</string>
     <string name="upcoming_alarm_hint">يمكنك غلق هذا المنبه مسبقا</string>
+    <string name="user_agreement">اتفاقية مستخدم</string>
     <string name="vibrate_pref_summary">الاهتزاز عند رنين المنبه</string>
     <string name="vibrate_when_ringing">اهتزاز عند الرنين</string>
     <string name="volume_button_setting_summary">تعيين وظيفة أزرار الصوت عند التنبيه</string>

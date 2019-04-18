@@ -162,6 +162,14 @@
         <item quantity="few">&lt;font color==\"red\">%dاغاني&lt;/font> قيد التحميل</item>
         <item quantity="many">&lt;font color==\"red\">%dاغنية&lt;/font> قيد التحميل</item>
     </plurals>
+    <plurals name="free_downloads_num_hint">
+        <item quantity="other">Free downloads left %d songs</item>
+        <item quantity="zero">Free downloads left %d songs</item>
+        <item quantity="one">Free downloads left %d song</item>
+        <item quantity="two">Free downloads left %d songs</item>
+        <item quantity="few">Free downloads left %d songs</item>
+        <item quantity="many">Free downloads left %d songs</item>
+    </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">تم تحديد %d عنصر</item>
         <item quantity="zero">تم تحديد %d عنصر</item>
@@ -241,5 +249,13 @@
         <item quantity="two">%1$s مشاهدات</item>
         <item quantity="few">%1$s مشاهدات</item>
         <item quantity="many">%1$s مشاهدة</item>
+    </plurals>
+    <plurals name="vip_remain_days_hint">
+        <item quantity="other">Remain %d days</item>
+        <item quantity="zero">Remain %d days</item>
+        <item quantity="one">Remain %d day</item>
+        <item quantity="two">Remain %d days</item>
+        <item quantity="few">Remain %d days</item>
+        <item quantity="many">Remain %d days</item>
     </plurals>
 </resources>

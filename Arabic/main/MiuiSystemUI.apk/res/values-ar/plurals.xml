@@ -65,20 +65,20 @@
         <item quantity="many">رمز PUK غير صحيح، تبقى %d محاولة</item>
     </plurals>
     <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">لم تستخدم كلمة مرور لأكثر من %d ساعة. أدخل كلمة المرور.</item>
-        <item quantity="zero">لم تستخدم كلمة مرور لأكثر من %d ساعة. أدخل كلمة المرور.</item>
-        <item quantity="one">لم تستخدم كلمة مرور لأكثر من %d ساعة. أدخل كلمة المرور.</item>
-        <item quantity="two">لم تستخدم كلمة مرور لأكثر من %d ساعات. أدخل كلمة المرور.</item>
-        <item quantity="few">لم تستخدم كلمة مرور لأكثر من %d ساعات. أدخل كلمة المرور.</item>
-        <item quantity="many">لم تستخدم كلمة مرور لأكثر من %d ساعة. أدخل كلمة المرور.</item>
+        <item quantity="other">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
+        <item quantity="zero">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
+        <item quantity="one">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
+        <item quantity="two">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعات لتتذكرها دائما</item>
+        <item quantity="few">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعتين لتتذكرها دائما</item>
+        <item quantity="many">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">لم تستخدم نقش إلغاء قفل الشاشة لأكثر من %d ساعة. أدخل كلمة المرور.</item>
-        <item quantity="zero">لم تستخدم نقش إلغاء قفل الشاشة لأكثر من %d ساعة. أدخل كلمة المرور.</item>
-        <item quantity="one">لم تستخدم نقش إلغاء قفل الشاشة لأكثر من %d ساعة. أدخل كلمة المرور.</item>
-        <item quantity="two">لم تستخدم نقش إلغاء قفل الشاشة لأكثر من %d ساعات. أدخل كلمة المرور.</item>
-        <item quantity="few">لم تستخدم نقش إلغاء قفل الشاشة لأكثر من %d ساعات. أدخل كلمة المرور.</item>
-        <item quantity="many">لم تستخدم نقش إلغاء قفل الشاشة لأكثر من %d ساعة. أدخل كلمة المرور.</item>
+        <item quantity="other">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعات لتتذكرها دائما</item>
+        <item quantity="zero">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
+        <item quantity="one">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
+        <item quantity="two">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعات لتتذكرها دائما</item>
+        <item quantity="few">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعات لتتذكرها دائما</item>
+        <item quantity="many">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">"%d  ساعة متبقية"</item>

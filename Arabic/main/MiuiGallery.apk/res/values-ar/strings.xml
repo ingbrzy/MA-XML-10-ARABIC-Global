@@ -482,7 +482,7 @@
     <string name="ext_sdcard_permission_request_title">السماح للمعرض الوصول إلى بطاقة SD</string>
     <string name="ext_sdcard_request_failed_button_text">موافق</string>
     <string name="ext_sdcard_request_succeed_toast_text">أنت جاهز للانطلاق!</string>
-    <string name="face_album_empty">"لا يوجد صور كافية للتعرف على اشخاص.r
+    <string name="face_album_empty">"لا توجد صور كافية للتعرف على اشخاص.
 قم بإخذ صور اكثر لأصدقائك!"</string>
     <string name="face_album_empty_syncing">جارٍ مزامنة البيانات، يرجى العودة لاحقاً</string>
     <string name="face_album_empty_syncing_when_connect_wifi">اتصل بالشبكة لمزامنة المعلومات</string>
@@ -499,6 +499,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -509,6 +510,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">أبيض وأسود</string>
     <string name="filter_bi_dusk">غسق</string>
     <string name="filter_bi_lilt">واقعي</string>
@@ -582,6 +584,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -835,6 +838,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">لتسمية الأشخاص في الصور</string>
     <string name="permission_contract_name">جهات الاتصال</string>
     <string name="permission_optional_category">أذونات اختيارية</string>
@@ -852,6 +856,7 @@
     <string name="photo_editor_beautify">التجميل</string>
     <string name="photo_editor_beautify_auto">تلقائي</string>
     <string name="photo_editor_beauty_compare">الأصلية</string>
+    <string name="photo_editor_compare_tip">اضغط باستمرار لعرض الصورة الأصلية</string>
     <string name="photo_editor_crop_and_rotate">قص</string>
     <string name="photo_editor_crop_auto">تلقائي</string>
     <string name="photo_editor_crop_auto_tips">تم القص تلقائيا</string>
@@ -889,6 +894,7 @@
     <string name="photo_editor_navigator_module_download_wait_wlan">انتظر شبكة الـWi-Fi</string>
     <string name="photo_editor_navigator_module_downloading">جارٍ تنزيل %s…</string>
     <string name="photo_editor_navigator_need_download">اتصال بالإنترنت لتنزيل %s.</string>
+    <string name="photo_editor_remove_watermark">إزالة العلامة المائية</string>
     <string name="photo_editor_remover">محو</string>
     <string name="photo_editor_rotate">تدوير</string>
     <string name="photo_editor_saving">جارٍ الحفظ…</string>
@@ -1028,7 +1034,12 @@
     <string name="scan_barcode_to_join">امسح رمز QR لإضافة ألبوم</string>
     <string name="scan_qr_code_buttom_text">امسح رمز QR لعرض هذا الألبوم</string>
     <string name="screen_doodle_talkback_size">عرض خط الرسم</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">تم</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">إلغاء</string>
     <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
     <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
@@ -1086,6 +1097,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -1214,7 +1228,7 @@
     <string name="text_append_font_example">Aa</string>
     <string name="text_append_hint">أدخل نص</string>
     <string name="text_append_style">فقاعة</string>
-    <string name="text_append_transparent">غموض</string>
+    <string name="text_append_transparent">الشفافية</string>
     <string name="text_edit_dialog_font">الخط</string>
     <string name="text_edit_dialog_font_default">الافتراضية</string>
     <string name="text_edit_dialog_keyboard">لوحة المَفاتيح</string>
@@ -1225,7 +1239,7 @@
     <string name="text_edit_dialog_style_bold">عريض</string>
     <string name="text_edit_dialog_style_color">"لون  "</string>
     <string name="text_edit_dialog_style_shadow">ظل</string>
-    <string name="text_edit_dialog_style_transparent">تعتيم</string>
+    <string name="text_edit_dialog_style_transparent">الشفافية</string>
     <string name="text_edit_sub_menu_text">فقاعة</string>
     <string name="text_tab_bubble">فقاعات</string>
     <string name="text_tab_watermark">علامات مائية</string>

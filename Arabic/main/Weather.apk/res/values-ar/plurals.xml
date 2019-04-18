@@ -40,14 +40,6 @@
         <item quantity="few">توقعات %1$s أيام</item>
         <item quantity="many">توقعات %1$s يوم</item>
     </plurals>
-    <plurals name="feedback_result_interval_time_too_short">
-        <item quantity="other">%1$s ثانية بعد ردة الفعل</item>
-        <item quantity="zero">%1$s ثانية بعد ردة الفعل</item>
-        <item quantity="one">%1$s ثانية بعد ردة الفعل</item>
-        <item quantity="two">%1$s ثواني بعد ردة الفعل</item>
-        <item quantity="few">%1$s ثواني بعد ردة الفعل</item>
-        <item quantity="many">%1$s ثانية بعد ردة الفعل</item>
-    </plurals>
     <plurals name="no_vote_num">
         <item quantity="other">%1$s شخص |</item>
         <item quantity="zero">%1$s شخص |</item>
@@ -79,5 +71,13 @@
         <item quantity="two">| %1$s أشخاص</item>
         <item quantity="few">| %1$s أشخاص</item>
         <item quantity="many">| %1$s شخص</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short">
+        <item quantity="other">%1$s ثانية بعد ردة الفعل</item>
+        <item quantity="zero">%1$s ثانية بعد ردة الفعل</item>
+        <item quantity="one">%1$s ثانية بعد ردة الفعل</item>
+        <item quantity="two">%1$s ثواني بعد ردة الفعل</item>
+        <item quantity="few">%1$s ثواني بعد ردة الفعل</item>
+        <item quantity="many">%1$s ثانية بعد ردة الفعل</item>
     </plurals>
 </resources>

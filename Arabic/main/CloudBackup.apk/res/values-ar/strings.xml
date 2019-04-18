@@ -50,6 +50,8 @@
     <string name="self_device_second_space">الواجهة الثانية لهذا الهاتف</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="size_unknown">حجم غير معروف</string>
     <string name="recovering">استعادة \"%s\"</string>
@@ -72,7 +74,7 @@
     <string name="desktop_waiting">جارٍ الانتظار</string>
     <string name="desktop_downloading">جارٍ التنزيل</string>
     <string name="desktop_installing">جارٍ التثبيت</string>
-    <string name="desktop_wait_wifi">جارٍ الإنتظار</string>
+    <string name="desktop_wait_network">جارٍ الانتظار…</string>
     <string name="desktop_failed">خطأ</string>
     <string name="recover_from_micloud">الاستعادة من Mi Cloud</string>
     <string name="click_try_to_restore_again">انقر للمحاولة مرة أخرى</string>
@@ -114,7 +116,7 @@
     <string name="confirm_cancel_restore_positive">متابعة</string>
     <string name="confirm_cancel_restore_negative">إلغاء</string>
     <string name="confirm_restore_title">استعادة</string>
-    <string name="confirm_restore_summary">سيتم اعادة تشغيل الشاشة الرئيسية وسيتم تحميل التطبيقات تلقائيا عند الاتصال بشكبة Wi-Fi</string>
+    <string name="confirm_restore_summary">سيتم إعادة تشغيل الشاشة الرئيسية وتنزيل التطبيقات التي تم نسخها احتياطيًا تلقائيًا.</string>
     <string name="confirm_restore">استعادة</string>
     <string name="cloud_backup_have_data">تم إيجاد نسخة احتياطية في Mi Cloud</string>
     <string name="cloud_backup_select_recover">قم بإختيار نسخة احتياطية من Mi Cloud</string>
@@ -134,7 +136,9 @@
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
     <string name="loading_user_backup">جارٍ تحميل النسخ الاحتياطية…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
+    <string name="doing_calc_backup_data_size">جارٍ حساب الحجم…</string>
     <string name="authentication_failed">تعذر التحقق من الحساب.</string>
     <string name="no_account">لم تقم بتسجيل الدخول إلى حساب Mi.</string>
     <string name="no_backup">لا توجد نُسخ احتياطية في Mi Cloud.</string>
@@ -181,10 +185,34 @@
     <string name="msg_alert_cancel_restore">يتم إسترداد العناصر. التوقف الآن؟</string>
     <string name="btn_restore_cancel">إلغاء</string>
     <string name="btn_restore_resume">إستئناف</string>
+    <string name="btn_restore_wait">انتظر شبكة الـWi-Fi</string>
+    <string name="btn_restore_continue">استعادة على أي حال</string>
+    <string name="msg_restore_with_metered_network_pattern">"سيتم تنزيل &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> من الملفات."</string>
+    <string name="msg_restore_with_metered_network_hint">إذا تابعت استعادة هذه العناصر، فسيتم استخدام بيانات الجوال للتنزيل.</string>
+    <string name="msg_restore_start_with_metered_network">"سيتم إعادة تشغيل الشاشة الرئيسية وتنزيل التطبيقات التي تم نسخها احتياطيًا تلقائيًا. سيتم تنزيل &lt;br />&lt;b>&lt;font color='red'>%s من الملفات.&lt;/font>&lt;/b>"</string>
+    <string name="title_restore_with_current_network">باستخدام الاتصال الحالي لتنزيل الملفات</string>
     <string name="title_alert_restore_error">تعذر الإسترداد</string>
     <string name="msg_alert_restore_error">تعذر إسترداد العناصر من MiCloud. يرجى إعادة المحاولة.</string>
     <string name="btn_restore_retry">إعادة المحاولة</string>
     <string name="btn_restore_abort">إلغاء</string>
     <string name="backup_stopped_title">تم إيقاف النسخ الاحتياطي مؤقتًا</string>
     <string name="backup_stopped_msg">ستحل النسخة الاحتياطية الحالية محل النسخة السابقة. اضغط للعرض.</string>
+    <string name="restore_network_unconnect">%s (في انتظار الاتصال)</string>
+    <string name="restore_network_pause">%s (انقر للمتابعة)</string>
+    <string name="restore_detail_title">حدد عناصر للاسترداد</string>
+    <string name="restore_detail_category_settings">الإعدادات</string>
+    <string name="restore_detail_category_apps">تنسيق الشاشة الرئيسية والتطبيقات</string>
+    <string name="restore_detail_more">المزيد</string>
+    <string name="restore_app_order_title">أولوية الاسترداد للعناصر</string>
+    <string name="restore_app_order_search_hint">ابحث عن عناصر لتحديد الأولوية</string>
+    <string name="restore_app_order_search_prior">تطبيقات عالية الأولوية</string>
+    <string name="restore_app_order_search_normal">تطبيقات عادية الأولوية</string>
+    <string name="restore_app_order_search_installed">التطبيقات على هذا الجهاز</string>
+    <string name="restore_app_order_retry">حاول مجددا</string>
+    <string name="restore_app_order_retry_desc">"تعذر الاتصال بالشبكة.
+تحقق من إعدادات الشبكة ثم حاول مرة أخرى."</string>
+    <string name="restore_app_order_loading">لحظة من فضلك…</string>
+    <string name="restore_app_order_finish">تم</string>
+    <string name="provision_restore_data">إستعادة العناصر</string>
+    <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>
 </resources>

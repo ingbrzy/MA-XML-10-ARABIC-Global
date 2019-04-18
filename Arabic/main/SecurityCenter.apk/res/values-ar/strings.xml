@@ -19,7 +19,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -130,7 +132,7 @@
     <string name="close_callwait">متوقّف</string>
     <string name="st_hint_add_phonenumber">أدخل رقم الهاتف</string>
     <string name="st_hint_add_head_number">أدخل بادئة</string>
-    <string name="st_message_SMSpass">السماح بـSMS</string>
+    <string name="st_message_SMSpass">السماح SMS</string>
     <string name="st_message_phonepass">السماح بالمكالمات</string>
     <string name="SMSpass">السماح بالرسائل القصيرة</string>
     <string name="Phonepass">السماح بالمكالمات</string>
@@ -300,9 +302,9 @@
     <string name="mark_number_agent">وكالة</string>
     <string name="mark_number_sell">مسوق عبر الهاتف</string>
     <string name="mark_number_harass">مضايقة</string>
-    <string name="antispam_notification_setting_title">الإخطارات</string>
+    <string name="antispam_notification_setting_title">الإشعارات</string>
     <string name="antispam_notificaiton_type_show_all">كل الأرقام</string>
-    <string name="antispam_notificaiton_type_show_except_blacklist">الأرقام غير المدرجة في قائمة الحظر</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">الأرقام الغير مدرجة في قائمة الحظر</string>
     <string name="antispam_notificaiton_type_show_none">ابدا</string>
     <string name="name">الإسم</string>
     <string name="nickname">الاسم المستعار</string>
@@ -337,7 +339,7 @@
     <string name="st_group_list_management">إدارة قائمة حظر</string>
     <string name="st_call_backsound_group">صوت قائمة الحظر</string>
     <string name="st_tab_title">%1$s (SIM %2$d)</string>
-    <string name="st_confirm_dialog_btn_open">فتح</string>
+    <string name="st_confirm_dialog_btn_open">تشغيل</string>
     <string name="st_confirm_dialog_summary_stranger_call">سيتم حظر جميع المكالمات من الغرياء.</string>
     <string name="st_confirm_dialog_summary_contact_call">سيتم حظر جميع المكالمات من جهات الإتصال.</string>
     <string name="st_confirm_dialog_summary_oversea_call">التشغيل لحظر المكالمات الواردة من أرقام هواتف غريبة.</string>
@@ -461,6 +463,7 @@
     <string name="not_limited_brand">غير محدودة</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
     <string name="pref_traffic_manage_title">استخدام البيانات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_adjust_traffic_data">تعيين استخدام البيانات</string>
     <string name="pref_category_title_other">إعدادات إضافية</string>
@@ -507,12 +510,12 @@
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
     <string name="pref_special_package_setting_summary">إدارة البيانات خارج وقت الذروة وحزم شحن الرصيد والبيانات المعينة</string>
     <string name="pref_warning_values">مستوى تحذير استخدام البيانات</string>
-    <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الاستخدام</string>
+    <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
     <string name="pref_more_settings">الإعدادات الإضافية</string>
     <string name="pref_data_usage_ignore_settings">تجاهل استخدام البيانات</string>
     <string name="pref_data_usage_ignore_settings_summary">عدم تتبع استخدام بيانات التطبيقات المحددة</string>
     <string name="input_traffic_pkg">إدخال استخدام البيانات</string>
-    <string name="begin_date">تاريخ إعادة تعيين الاستخدام</string>
+    <string name="begin_date">تاريخ إعادة تعيين الإستخدام</string>
     <string name="tips_dialog_title">لا تعلم حد استخدامك</string>
     <string name="tips_message">لعرض تفاصيل خطة استخدام بياناتك، اطلب %2$s (%1$s).</string>
     <string name="daily_pkg_traffic">حد استخدام البيانات</string>
@@ -750,7 +753,7 @@
     <string name="lock_screen_warning_switch_title">إظهارتحذيرات على شاشة القفل</string>
     <string name="lock_screen_warning_switch_summary">إظهار تحذير على شاشة القفل عند تجاوز استخدام البيانات لقدر معين</string>
     <string name="lock_screen_warning_value">تحذير استخدام البيانات</string>
-    <string name="pref_normal_traffic_limit">عندما يتم إستخدام خطة البيانات</string>
+    <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="traffic_warning_purchase_title">تحذير استخدام بيانات جوال</string>
     <string name="traffic_purchase_body">اضغط إعادة شحن رصيدك.</string>
@@ -949,7 +952,7 @@
     <string name="memory_clean_memory_size_tip">ذاكرة التخزين المؤقت</string>
     <string name="memory_clean_no_need_clean">كل شيء يبدو جيداً</string>
     <string name="optimize_result_available_memory_info">الذاكرة المتاحة</string>
-    <string name="optimize_result_title_uninstall_apps">التطبيقات</string>
+    <string name="optimize_result_title_uninstall_apps">إلغاء تثبيت التطبيقات</string>
     <string name="om_settings_title">الإعدادات</string>
     <string name="om_settings_lock_app_manage">قفل التطبيقات</string>
     <string name="om_settings_lock_app">قفل التطبيقات</string>
@@ -1012,6 +1015,7 @@
     <string name="usage_type_data_send">بيانات الجوال المرسلة</string>
     <string name="usage_type_no_coverage">الوقت بدون إشارة</string>
     <string name="usage_type_gps">GPS</string>
+    <string name="process_kernel_label">أندرويد</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="power_screen">الشاشة</string>
     <string name="power_wifi">Wi-Fi</string>
@@ -1234,12 +1238,17 @@
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
     <string name="power_center_stop_scan_title">إيقاف الفحص</string>
     <string name="hide_mode_result_summary_text">تخصيص إعدادات موفر البطارية للتطبيقات الفردية</string>
     <string name="auto_task_result_summary_text">تعيين مهام تلقائية لموفر البطارية</string>
     <string name="pc_settings_title">إعدادات تحسين البطارية</string>
     <string name="pc_main_activity_back">رجوع</string>
     <string name="extreme_power_save_mode_card_summary">تشغيل الحد الأقصى لموفر البطارية عند انخفاض البطارية.</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
     <string name="handle_bar_title_system">النظام</string>
     <string name="apps_list_header_title_sms">التحقق من تطبيق الرسائل</string>
     <string name="apps_list_header_title_sms_access">تقييد الوصول إلى رموز التحقق</string>
@@ -1348,11 +1357,13 @@
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_summary_networkassistants">إدارة خطة بياناتك</string>
+    <string name="menu_text_networkassistants_2">%s</string>
     <string name="menu_summary_networkassistants_2">تم تجاوز الحد</string>
     <string name="menu_summary_networkassistants_3">بيانات كافية</string>
     <string name="menu_summary_networkassistants_4">البيانات على وشك النفاذ</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_networkassistants_unit_kb">ك.ب</string>
@@ -1365,12 +1376,14 @@
     <string name="menu_summary_garbage_cleanup">لا توجد مهملات</string>
     <string name="menu_summary_garbage_cleanup_2">حجم المهملات</string>
     <string name="menu_summary_garbage_cleanup_3">حذف المهملات الآن</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_power_manager">تحسين البطارية</string>
     <string name="menu_summary_power_manager">يمنحك موفر البطارية مزيدًا من الوقت بين فترات الشحن</string>
     <string name="menu_summary_power_manager_1">البطارية مشحونة بالكامل</string>
     <string name="menu_summary_power_manager_2">%s متبقي</string>
     <string name="menu_summary_power_manager_3">قم بتوصيل الشاحن</string>
     <string name="menu_summary_power_manager_4">%s حتى يكتمل الشحن</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="last_check_canceled">تم إلغاء الفحص السابق</string>
     <string name="examination_score_100">يبدو كل شيء جيداً!</string>
     <string name="examination_score_80_100">يمكن تحسين بعض العناصر</string>
@@ -1429,7 +1442,7 @@
     <string name="item_app_permission">أذونات التطبيقات</string>
     <string name="item_mms">تصفية الرسائل غير المرغوب فيها</string>
     <string name="item_dev_mode">خيارات المطور</string>
-    <string name="menu_item_about_title">معلومات عن</string>
+    <string name="menu_item_about_title">حول</string>
     <string name="menu_item_about_privacy_title">سياسة الخصوصية</string>
     <string name="menu_item_about_content">الإصدار%s</string>
     <string name="menu_item_about_summary">الإصدار %s</string>
@@ -1458,7 +1471,7 @@
     <string name="hints_virus_app_list_item_summary">تطبيق</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_loading_text">جارٍ التحميل…</string>
-    <string name="security_center_slogan">الحماية. دائما على استعداد.</string>
+    <string name="security_center_slogan">استعداد دائم للحماية.</string>
     <string name="activity_title_auto_start_manager">تشغيل تلقائي</string>
     <string name="activity_title_permission_manager">الأذونات</string>
     <string name="activity_title_other_permission_manager">الأذونات الأخرى</string>
@@ -1748,6 +1761,7 @@
     <string name="card_main_deepclean_wechat_action">حذف</string>
     <string name="card_main_sectool_title">الأدوات</string>
     <string name="card_main_monthreport_action">عرض</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">اختبار الشبكة</string>
     <string name="card_main_netcheck_summary">اختبار الاتصال لمشاكل الشبكة</string>
     <string name="card_main_netcheck_action">اختبار</string>
@@ -2010,6 +2024,7 @@
     <string name="confirmSecondSpacePassword">تأكيد كلمة مرور الواجهة الثانية</string>
     <string name="sponsored_sec_fb">إعلان مُموَّل</string>
     <string name="add_game_notification_summary">انقر للتشغيل وزيادة السرعة</string>
+    <string name="gb_shortcut_pref_title">إختصار الشاشة الرئيسية</string>
     <string name="app_manager_title">إدارة التطبيقات</string>
     <string name="app_manager_uninstall">إلغاء التثبيت</string>
     <string name="app_manager_bipartition">التطبيقات المزدوجة</string>
@@ -2125,6 +2140,7 @@
     <string name="manage_hybrid_permissions">إدارة أذونات التطبيق</string>
     <string name="app_manager_full_screen_title">وضع ملء الشاشة</string>
     <string name="app_manager_full_screen_summary">السماح للتطبيقات المحددة بالعمل في وضع ملء الشاشة</string>
+    <string name="app_manager_find_apps">البحث عن التطبيقات</string>
     <string name="ad_btn_default_text">معرفة المزيد</string>
     <string name="open_activity_err">لم يتم العثور على التطبيق</string>
     <string name="low_memory_warning_dialog_title">لا توجد مساحة كافية</string>
@@ -2354,6 +2370,7 @@
     <string name="gb_advance_settings_reset_dialog_content">استعادة الإعدادات الافتراضية الآن؟</string>
     <string name="title_reply">تعليق</string>
     <string name="title_like">اعجاب</string>
+    <string name="ellipsis">…</string>
     <string name="game_video_net_data">بيانات الجوال</string>
     <string name="game_wid_viewpoint_buttom">خذ استراحة قصيرة.</string>
     <string name="video_repeat">إعادة التشغيل</string>
@@ -2393,6 +2410,11 @@
     <string name="gamebox_recent_task_expand_fail">التطبيقات التي تعمل مع الاختصارات غير مثبتة</string>
     <string name="gamecenter_install_sucessfull">تم التثبيت بنجاح</string>
     <string name="gamecenter_install_fail">تعذر التثبيت</string>
+    <string name="securityadd_update_tips_title">تحديث</string>
+    <string name="securityadd_update_tips_message">قم بتحديث مكون الأمان الإضافي للوصول إلى أحدث ميزات الألعاب. سيتم تنزيل %1$d ميغابايت.</string>
+    <string name="securityadd_update_tips_cancle">ليس الآن</string>
+    <string name="securityadd_update_tips_now">تحديث</string>
+    <string name="securityadd_install_fail">تعذر تحديث المكون الإضافي. حاول مجدداً.</string>
     <string name="notify_channel_name_security">حماية النظام</string>
     <string name="privacy_apps_category_title">التطبيقات المخفية</string>
     <string name="privacy_apps">التطبيقات المخفية</string>
@@ -2524,7 +2546,6 @@
     <string name="resource_gamebooster">مسرّع الألعاب</string>
     <string name="keywords_gamebooster">لعبة؛المسرع؛King of Glory؛وضع الاداء؛عدم الازعاج؛DND؛العاب؛لعب؛ألعاب؛زيادة سرعة اللعب؛سرعة</string>
     <string name="path_gamebooster">تطبيقات النظام/الحماية/مسرع الألعاب</string>
-    <string name="gb_shortcut_pref_title">Home screen shortcut</string>
     <string name="power_center_consume_rank">استخدام البطارية</string>
     <string name="power_center_custom_title">وضع البطارية</string>
     <string name="power_center_auto_shutdown_summary_default">قم بتشغيل جهازك أو إيقافه في وقت المحدد</string>

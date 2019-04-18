@@ -86,6 +86,7 @@
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_saved">تم حفظ عيد الميلاد</string>
     <string name="birthday_term">عيد ميلاد</string>
+    <string name="calendar_permission_desc">إدارة الأحداث</string>
     <string name="can_not_create_long_event">اسم الحدث طويل جدا</string>
     <string name="can_not_modify_allday_event">لا يمكن تغيير حدث كامل اليوم</string>
     <string name="can_not_modify_event">لا يمكن تغيير الحدث</string>
@@ -103,6 +104,7 @@
     <string name="change_response_title">تغيير الإستجابة</string>
     <string name="click_to_share">انقر للمشاركة</string>
     <string name="close_alarm">إيقاف</string>
+    <string name="contacts_permission_desc">الوصول إلى معلومات جهة الاتصال</string>
     <string name="countdown_event_title">العد التنازلي: %1$s</string>
     <string name="countdown_notify_before_3_day_title">العد التنازلي: %1$s في ۳ أيام</string>
     <string name="countdown_notify_title">العد التنازلي: %1$s</string>
@@ -132,6 +134,7 @@
     <string name="date_interval_text_to">إلى %1$s</string>
     <string name="date_jump_hint">الانتقال إلى يوم محدد</string>
     <string name="date_jump_title">الانتقال إلى تاريخ</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_mode">التذكيرات</string>
@@ -214,6 +217,9 @@
     <string name="global_cricket_no_match">لا توجد مباريات كريكيت لهذا اليوم. تحقق في أيام أخرى.</string>
     <string name="global_football_final">النهائي</string>
     <string name="global_football_no_match">لا توجد مباريات كرة قدم لهذا اليوم.</string>
+    <string name="global_joke_collapse_text">عرض أقل</string>
+    <string name="global_joke_copy_toast_message">تم نسخ النص بنجاح</string>
+    <string name="global_joke_expand_text">عرض المزيد</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="greetingcard_end_of_page">هذا كل شيء لهذا اليوم. عد غدا!</string>
     <string name="greetingcard_notification_desc">تحقق من أحدث الحالات</string>
@@ -475,7 +481,4 @@
     <string name="xiaomi_calendar_display_name">تقويم حساب Mi</string>
     <string name="yearly">سنويًا (كل %s)</string>
     <string name="yearly_plain">سنوي</string>
-    <string name="global_joke_collapse_text">Show less</string>
-    <string name="global_joke_copy_toast_message">Copied text successfully</string>
-    <string name="global_joke_expand_text">Show more</string>
 </resources>
