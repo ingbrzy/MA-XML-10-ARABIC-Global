@@ -290,7 +290,6 @@
     <string name="month_view">الشهر</string>
     <string name="monthly">شهري</string>
     <string name="monthly_on_day">شهري (نفس التاريخ)</string>
-    <string name="monthly_on_day_count">شهريًا (%1$s %2$s)</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="new_event_description">جديد</string>
     <string name="news">أخبار</string>
