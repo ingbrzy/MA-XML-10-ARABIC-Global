@@ -704,6 +704,142 @@
         <item quantity="few">‏%d عناصر</item>
         <item quantity="many">‏%d عنصرًا</item>
     </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">تم إلغاء القفل %d مرة</item>
+        <item quantity="zero">تم إلغاء القفل %d مرة</item>
+        <item quantity="one">تم إلغاء القفل %d مرة</item>
+        <item quantity="two">تم إلغاء القفل %d مرات</item>
+        <item quantity="few">تم إلغاء القفل %d مرات</item>
+        <item quantity="many">تم إلغاء القفل %d مرة</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">تم إلغاء القفل %d مرة</item>
+        <item quantity="zero">تم إلغاء القفل %d مرة</item>
+        <item quantity="one">تم إلغاء القفل %d مرة</item>
+        <item quantity="two">تم إلغاء القفل %d مرات</item>
+        <item quantity="few">تم إلغاء القفل %d مرات</item>
+        <item quantity="many">تم إلغاء القفل %d مرة</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">%d إشعار مستلم</item>
+        <item quantity="zero">%d إشعار مستلم</item>
+        <item quantity="one">%d إشعار مستلم</item>
+        <item quantity="two">%d إشعارات مستلمة</item>
+        <item quantity="few">%d إشعارات مستلمة</item>
+        <item quantity="many">%d إشعار مستلم</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">%d إشعار مستلم</item>
+        <item quantity="zero">%d إشعار مستلم</item>
+        <item quantity="one">%d إشعار مستلم</item>
+        <item quantity="two">%d إشعارات مستلمة</item>
+        <item quantity="few">%d إشعارات مستلمة</item>
+        <item quantity="many">%d إشعار مستلم</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%dس</item>
+        <item quantity="zero">%dس</item>
+        <item quantity="one">%dس</item>
+        <item quantity="two">%dس</item>
+        <item quantity="few">%dس</item>
+        <item quantity="many">%dس</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+        <item quantity="two">%d ساعات</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" س"</item>
+        <item quantity="zero">" س"</item>
+        <item quantity="one">" س"</item>
+        <item quantity="two">" س"</item>
+        <item quantity="few">" س"</item>
+        <item quantity="many">" س"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%dدق</item>
+        <item quantity="zero">%dدق</item>
+        <item quantity="one">%dدق</item>
+        <item quantity="two">%dدق</item>
+        <item quantity="few">%dدق</item>
+        <item quantity="many">%dدق</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" دق"</item>
+        <item quantity="zero">" دق"</item>
+        <item quantity="one">" دق"</item>
+        <item quantity="two">" دق"</item>
+        <item quantity="few">" دق"</item>
+        <item quantity="many">" دق"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d إشعار</item>
+        <item quantity="zero">%d إشعار</item>
+        <item quantity="one">%d إشعار</item>
+        <item quantity="two">%d إشعارات</item>
+        <item quantity="few">%d إشعارات</item>
+        <item quantity="many">%d إشعار</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d مرة</item>
+        <item quantity="zero">%d مرة</item>
+        <item quantity="one">%d مرة</item>
+        <item quantity="two">%d مرات</item>
+        <item quantity="few">%d مرات</item>
+        <item quantity="many">%d مرة</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">نهاية الأسبوع: %d ساعة</item>
+        <item quantity="zero">نهاية الأسبوع: %d ساعة</item>
+        <item quantity="one">نهاية الأسبوع: %d ساعة</item>
+        <item quantity="two">نهاية الأسبوع: %d ساعات</item>
+        <item quantity="few">نهاية الأسبوع: %d ساعات</item>
+        <item quantity="many">نهاية الأسبوع: %d ساعة</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">نهاية الأسبوع: %d دقيقة</item>
+        <item quantity="zero">نهاية الأسبوع: %d دقيقة</item>
+        <item quantity="one">نهاية الأسبوع: %d دقيقة</item>
+        <item quantity="two">نهاية الأسبوع: %d دقائق</item>
+        <item quantity="few">نهاية الأسبوع: %d دقائق</item>
+        <item quantity="many">نهاية الأسبوع: %d دقيقة</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">أيام الأسبوع: %d ساعة</item>
+        <item quantity="zero">أيام الأسبوع: %d ساعة</item>
+        <item quantity="one">أيام الأسبوع: %d ساعة</item>
+        <item quantity="two">أيام الأسبوع: %d ساعات</item>
+        <item quantity="few">أيام الأسبوع: %d ساعات</item>
+        <item quantity="many">أيام الأسبوع: %d ساعة</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">أيام الأسبوع: %d دقيقة</item>
+        <item quantity="zero">أيام الأسبوع: %d دقيقة</item>
+        <item quantity="one">أيام الأسبوع: %d دقيقة</item>
+        <item quantity="two">أيام الأسبوع: %d دقائق</item>
+        <item quantity="few">أيام الأسبوع: %d دقائق</item>
+        <item quantity="many">أيام الأسبوع: %d دقيقة</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" س"</item>
+        <item quantity="zero">" س"</item>
+        <item quantity="one">" س"</item>
+        <item quantity="two">" س"</item>
+        <item quantity="few">" س"</item>
+        <item quantity="many">" س"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" دق"</item>
+        <item quantity="zero">" دق"</item>
+        <item quantity="one">" دق"</item>
+        <item quantity="two">" دق"</item>
+        <item quantity="few">" دق"</item>
+        <item quantity="many">" دق"</item>
+    </plurals>
     <plurals name="virus_scan_app_find_risk">
         <item quantity="other">تم العثور على %d من المخاطر</item>
         <item quantity="zero">تم العثور على %d من المخاطر</item>

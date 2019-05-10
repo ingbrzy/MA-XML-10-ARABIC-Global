@@ -9,10 +9,19 @@
         <item>صبي</item>
         <item>فتاة</item>
     </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>نسخ الصور احتياطيا</item>
+        <item>مزامنة الصور مع Mi Cloud</item>
+    </string-array>
     <string-array name="last_weekend_title">
         <item>عطلات نهاية الأسبوع</item>
         <item>لحظات من الحياة</item>
         <item>لحظات عطلة نهاية الاسبوع</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>نقل</item>
+        <item>نسخ</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
         <item>يناير</item>

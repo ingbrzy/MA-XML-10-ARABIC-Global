@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">حزم</string>
     <string name="hints_residual_header_left">المخلفات</string>
     <string name="hints_memory_header_left">الذاكرة</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ملفات كبيرة: %d</string>
     <string name="hints_installed_apps_header_left">التطبيقات المثبتة: %d</string>
     <string name="toast_resolve_apk_error">حل خطأ apk</string>
@@ -299,13 +300,14 @@
     <string name="downloading">جارٍ التحميل</string>
     <string name="installing">جارٍ التثبيت</string>
     <string name="start_install">التثبيت الآن</string>
+    <string name="empty">" "</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
     <string name="connecting">جارٍ الاتصال…</string>
     <string name="clear_bigfiles">حذف الملفات الكبيرة، الصور المتكررة والعناصر الاخرى المهملة</string>
     <string name="clear_immediately">التنظيف الان</string>
-    <string name="clear_safe_notify">مركز اشعارات التطبيقات المصغرة</string>
-    <string name="nb_clear_set">مسح ذاكرة التخزين المؤقت، عرض معلومات البطارية وقائمة الحظر في مركز الاشعارات</string>
+    <string name="clear_safe_notify">مركز إشعارات التطبيقات المصغرة</string>
+    <string name="nb_clear_set">مسح الذاكرة المؤقتة وعرض معلومات البطارية وقائمة الحظر في مركز الإشعارات</string>
     <string name="seton_immediately">تشغيل</string>
     <string name="notify_when">الحصول على إشعار عند وصول حجم سلة المهملات الى ١٠٠ميغابايت</string>
     <string name="goto_set">تعيين</string>

@@ -81,6 +81,8 @@
     <string name="HIPS_Perm_service_foreground_Desc">خدمات المقدمة</string>
     <string name="HIPS_Perm_UDevice_ID">شارك جزء من معلومات جهازك مع مطوري الألعاب للمساعدة في تطوير تجربة اللعب. موافق؟</string>
     <string name="HIPS_Perm_UDevice_ID_DESC">شارك جزء من معلومات جهازك مع مطوري الألعاب للمساعدة في تطوير تجربة اللعب. موافق؟</string>
+    <string name="HIPS_Perm_deamon_notification">إشعار دائم</string>
+    <string name="HIPS_Perm_deamon_notification_Desc">عرض إشعارات دائمة</string>
     <string name="permission_group_title_charges_related">الرسوم</string>
     <string name="permission_group_title_privacy_related">الخصوصية</string>
     <string name="permission_group_title_media_related">الوسائط المتعددة</string>

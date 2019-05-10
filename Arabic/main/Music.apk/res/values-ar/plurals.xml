@@ -61,12 +61,12 @@
 الإجمالي %2$d أغنية"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">تم إضافة %d اغنية لقائمة التشغيل</item>
-        <item quantity="zero">تم إضافة %d اغنية لقائمة التشغيل</item>
-        <item quantity="one">تم إضافة %d اغنية لقائمة التشغيل</item>
-        <item quantity="two">تم إضافة %d اغاني لقائمة التشغيل</item>
-        <item quantity="few">تم إضافة %d اغاني لقائمة التشغيل</item>
-        <item quantity="many">تم إضافة %d اغنية لقائمة التشغيل</item>
+        <item quantity="other">تم إضافة %d أغنية لقائمة التشغيل</item>
+        <item quantity="zero">تم إضافة %d أغنية لقائمة التشغيل</item>
+        <item quantity="one">تم إضافة %d أغنية لقائمة التشغيل</item>
+        <item quantity="two">تم إضافة %d أغاني لقائمة التشغيل</item>
+        <item quantity="few">تم إضافة %d أغاني لقائمة التشغيل</item>
+        <item quantity="many">تم إضافة %d أغنية لقائمة التشغيل</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d أغنية</item>
@@ -124,7 +124,7 @@
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">هل تريد حذف %d اغنية؟</item>
-        <item quantity="zero">هل تريد حذف %d اغنية؟</item>
+        <item quantity="zero">هل تريد حذف %d أغنية؟</item>
         <item quantity="one">هل تريد حذف %d أغنية؟</item>
         <item quantity="two">هل تريد حذف %d اغاني؟</item>
         <item quantity="few">هل تريد حذف %d اغاني؟</item>
@@ -163,12 +163,12 @@
         <item quantity="many">&lt;font color==\"red\">%dاغنية&lt;/font> قيد التحميل</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">Free downloads left %d songs</item>
-        <item quantity="zero">Free downloads left %d songs</item>
-        <item quantity="one">Free downloads left %d song</item>
-        <item quantity="two">Free downloads left %d songs</item>
-        <item quantity="few">Free downloads left %d songs</item>
-        <item quantity="many">Free downloads left %d songs</item>
+        <item quantity="other">تبقى %d تنزيل مجاني</item>
+        <item quantity="zero">تبقى %d تنزيل مجاني</item>
+        <item quantity="one">تبقى %d تنزيل مجاني</item>
+        <item quantity="two">تبقى %d تنزيلات مجاني</item>
+        <item quantity="few">تبقى %d تنزيلات مجاني</item>
+        <item quantity="many">تبقى %d تنزيل مجاني</item>
     </plurals>
     <plurals name="multichoice_title">
         <item quantity="other">تم تحديد %d عنصر</item>
@@ -203,12 +203,12 @@
         <item quantity="many">%d متابع</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">سيتم إرسال %d اغنية</item>
-        <item quantity="zero">سيتم إرسال %d اغاني</item>
-        <item quantity="one">سيتم إرسال %d اغنية</item>
-        <item quantity="two">سيتم إرسال %d اغاني</item>
-        <item quantity="few">سيتم إرسال %d اغاني</item>
-        <item quantity="many">سيتم إرسال %d اغنية</item>
+        <item quantity="other">سيتم إرسال %d أغنية</item>
+        <item quantity="zero">سيتم إرسال %d أغنية</item>
+        <item quantity="one">سيتم إرسال %d أغنية</item>
+        <item quantity="two">سيتم إرسال %d أغاني</item>
+        <item quantity="few">سيتم إرسال %d أغاني</item>
+        <item quantity="many">سيتم إرسال %d أغنية</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
         <item quantity="other">تم تخطي %d أغنية. قم بتشغيل الخدمات عبر الأنترنت في الإعدادات للإستماع إليها.</item>
@@ -251,11 +251,11 @@
         <item quantity="many">%1$s مشاهدة</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">Remain %d days</item>
-        <item quantity="zero">Remain %d days</item>
-        <item quantity="one">Remain %d day</item>
-        <item quantity="two">Remain %d days</item>
-        <item quantity="few">Remain %d days</item>
-        <item quantity="many">Remain %d days</item>
+        <item quantity="other">تبقى %d يوم</item>
+        <item quantity="zero">تبقى %d يوم</item>
+        <item quantity="one">تبقى %d يوم</item>
+        <item quantity="two">تبقى %d أيام</item>
+        <item quantity="few">تبقى %d أيام</item>
+        <item quantity="many">تبقى %d يوم</item>
     </plurals>
 </resources>

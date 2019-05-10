@@ -15,7 +15,7 @@
     <string name="add_to_album_success">تم الإضافة إلى الألبوم</string>
     <string name="add_to_album_tip">صور Cloud</string>
     <string name="add_to_favorites_failed">تعذز الإضافة إلى المفضلة</string>
-    <string name="add_to_secret_exist">الصورة موجودة مسبقا في الألبوم المخفي</string>
+    <string name="add_to_secret_exist">هذا العنصر موجود مسبقاً في الألبوم المخفي</string>
     <string name="add_to_secret_fail">تعذر الإضافة إلى الألبوم المخفي</string>
     <string name="add_to_secret_failed_with_reason">لا يمكن الإضافة إلى الألبوم المخفي. %1$s.</string>
     <string name="add_to_secret_successful">تمت الإضافة إلى الألبوم المخفي</string>
@@ -39,6 +39,7 @@
     <string name="agreement_summary">وثائق قانونية</string>
     <string name="ai_album_open_switch_button_title">بدء تحليل الصور</string>
     <string name="ai_album_requesting_title">مازالت خوارزمية AI تعالج صورك. يرجى العودة بعد بضع دقائق.</string>
+    <string name="ai_album_setting_key_word">البحث عن صور</string>
     <string name="ai_album_setting_sub_title">السماح لخوارزمية AI بتحديد الأشخاص والأماكن والأشياء على صورك حتى تتمكن من العثور عليها بشكل أسرع.</string>
     <string name="ai_album_setting_title">حدد الأشياء في الصور</string>
     <string name="album_already_exists_check">عرض</string>
@@ -188,6 +189,8 @@
     <string name="backuped_title">تم القيام بنسخة احتياطية بنجاح</string>
     <string name="backuping_title_gprs">جارٍ النسخ الاحتياطي بإستخدام بيانات الجوال…</string>
     <string name="backuping_title_normal">جار النسخ الاحتياطي…</string>
+    <string name="base_btn_cancel">إلغاء</string>
+    <string name="base_btn_download">تنزيل</string>
     <string name="begin_share">تم إنشاء ألبوم الطفل \"%s\"، يمكنك مشاركتة الآن</string>
     <string name="begin_share_toast">هل تريد إنشاء ألبوم منفصل لهذا الطفل قبل المشاركة؟</string>
     <string name="blank_app_name" />
@@ -227,7 +230,7 @@
     <string name="cleaner_scan_exit_dialog_title">إيقاف الفحص</string>
     <string name="cleaner_scan_finish">تم الفحص بنجاح</string>
     <string name="cleaner_scan_no_result">تعذر تفريغ مساحة أكبر</string>
-    <string name="cleaner_scan_ok">حسنا</string>
+    <string name="cleaner_scan_ok">فهمت</string>
     <string name="cleaner_scan_title">جارٍ فحص الألبومات…</string>
     <string name="cleaner_screen_shot_action">مسح</string>
     <string name="cleaner_screen_shot_description">حذف لقطات الشاشة التي لم تعد تحتاجها.</string>
@@ -361,7 +364,7 @@
     <string name="detail_title">المعلومات التفصيلية</string>
     <string name="disable_auto_upload_tip">إيقاف المزامنة مع Mi Cloud لهذا الألبوم؟</string>
     <string name="disable_auto_upload_title">إيقاف تشغيل مزامنة Mi Cloud</string>
-    <string name="do_not_remind_me">عدم الإظهار مرة أخرى</string>
+    <string name="do_not_remind_me">لا تظهر مرة اخرى</string>
     <string name="document_provider_guide_step_1">١. انقر على زر \"المزيد\".</string>
     <string name="document_provider_guide_step_2">٢. انقر على \"عرض التخزين الداخلي\".</string>
     <string name="document_provider_guide_step_3">٣. اضغط على زر القائمة الجانبية.</string>
@@ -477,7 +480,7 @@
     <string name="ext_sdcard_guide_text">يحتاج المعرض إلى إذنك للوصول إلى بطاقة SD. إليك مايمكنك فعله:</string>
     <string name="ext_sdcard_operation_failed_text">يحتاج المعرض إلى إذنك للوصول إلى بطاقة SD.</string>
     <string name="ext_sdcard_operation_failed_title">لا يمكن إكمال هذا الإجراء</string>
-    <string name="ext_sdcard_permission_request_button_text">حسنا</string>
+    <string name="ext_sdcard_permission_request_button_text">فهمت</string>
     <string name="ext_sdcard_permission_request_reason">يحتاج المعرض إلى إذنك للوصول إلى بطاقة SD. سيسمح لك بحذف وتعديل الصور والفيديوهات المخزنة على بطاقة SD الخاصة بك.</string>
     <string name="ext_sdcard_permission_request_title">السماح للمعرض الوصول إلى بطاقة SD</string>
     <string name="ext_sdcard_request_failed_button_text">موافق</string>
@@ -499,6 +502,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -509,6 +513,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">أبيض وأسود</string>
     <string name="filter_bi_dusk">غسق</string>
     <string name="filter_bi_lilt">واقعي</string>
@@ -526,6 +531,7 @@
     <string name="filter_category_master">رئيسي</string>
     <string name="filter_category_portrait">بورتريه</string>
     <string name="filter_category_scene">منظر طبيعي</string>
+    <string name="filter_category_sky">سماء</string>
     <string name="filter_film_blackwhite">أبيض وأسود</string>
     <string name="filter_film_dew">طل</string>
     <string name="filter_film_fade">تلاشى</string>
@@ -568,6 +574,17 @@
     <string name="filter_scene_series">انعكاسات</string>
     <string name="filter_scene_vivid">مشرق</string>
     <string name="filter_scene_warm">شمس</string>
+    <string name="filter_sky_cloudy">غائم</string>
+    <string name="filter_sky_detect_forbidden_tips">لا يمكن الكشف عن سماء</string>
+    <string name="filter_sky_download_failed">تعذر تنزيل المكون الإضافي. تحقق من اتصال الشبكة ثم حاول مجددا.</string>
+    <string name="filter_sky_download_finish">تم تنزيل المكون الإضافي بنجاح</string>
+    <string name="filter_sky_download_sdk_without_wifi_msg">إذا لم يكن هناك اتصال Wi-Fi، يمكنك تنزيل المكون إضافي لاستبدال السماء في الصورة (%1$dم.ب) عبر بيانات الجوال.</string>
+    <string name="filter_sky_download_sdk_without_wifi_title">تنزيل المكون الإضافي</string>
+    <string name="filter_sky_dusk">غسق</string>
+    <string name="filter_sky_glow">توهج</string>
+    <string name="filter_sky_rainbow">قوس قزح</string>
+    <string name="filter_sky_sunny">مشمس</string>
+    <string name="filter_sky_sunset">غروب</string>
     <string name="finish_create_baby_album_toast">تم إنشاء الألبوم لـ \"%s\" في Mi Cloud</string>
     <string name="finish_fill_baby">إنشاء</string>
     <string name="flash_off">لا يوجد فلاش</string>
@@ -582,6 +599,7 @@
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -692,7 +710,7 @@
     <string name="merge_album_title">دمج هذا الشخص</string>
     <string name="messagelist_sender_self">أنا</string>
     <string name="micloud_introduce">إنشاء نسخة احتياطية للصور ومقاطع فيديو تلقائيا (تحتاج الى حساب Mi)</string>
-    <string name="month_view_tip_button_text">حسنا</string>
+    <string name="month_view_tip_button_text">فهمت</string>
     <string name="month_view_tip_sub_title">المس الشاشة لعرض الشهر</string>
     <string name="month_view_tip_title">عرض الشهر</string>
     <string name="more">المزيد</string>
@@ -835,14 +853,15 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">لتسمية الأشخاص في الصور</string>
     <string name="permission_contract_name">جهات الاتصال</string>
     <string name="permission_optional_category">أذونات اختيارية</string>
-    <string name="permission_phone_desc">لطلبات الشبكة المستندة إلى معرف الجهاز</string>
+    <string name="permission_phone_desc">لطلبات الشبكة المستندة على معرف الجهاز</string>
     <string name="permission_phone_name">الهاتف</string>
     <string name="permission_require_category">أذونات إلزامية</string>
     <string name="permission_storage_desc">لعرض وتحرير وحفظ الصور</string>
-    <string name="permission_storage_name">التخزبن</string>
+    <string name="permission_storage_name">المساحة</string>
     <string name="permission_use_desc">الأذونات</string>
     <string name="pet_album_display_name">صور الحيوانات الأليفة</string>
     <string name="petabyteShort">بنتابايت</string>
@@ -958,7 +977,7 @@
     <string name="preparing_data">لحظة من فضلك…</string>
     <string name="privacy_permission_request_message">يحتاج المعرض الوصول إلى %3$s. سيتم استخدام المعلومات التي نجمعها وفقًا لـ %1$s و%2$s لدينا. السماح؟</string>
     <string name="privacy_permission_request_negative">تقييد</string>
-    <string name="privacy_permission_request_positive">السماح</string>
+    <string name="privacy_permission_request_positive">سماح</string>
     <string name="privacy_permission_request_title">يتطلب أذونات</string>
     <string name="projection_cancel">إلغاء</string>
     <string name="projection_checkbox_text">تذكر هذا العرض</string>
@@ -1030,7 +1049,12 @@
     <string name="scan_barcode_to_join">امسح رمز QR لإضافة ألبوم</string>
     <string name="scan_qr_code_buttom_text">امسح رمز QR لعرض هذا الألبوم</string>
     <string name="screen_doodle_talkback_size">عرض خط الرسم</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">تم</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">إلغاء</string>
     <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
     <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
@@ -1088,6 +1112,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -1107,7 +1134,7 @@
     <string name="secret_reason_unknow_reasons">خطأ غير معروف</string>
     <string name="secret_reason_video_not_support">لا يمكن إضافة هذه الفيديوهات إلى ألبوم مخفي</string>
     <string name="see_ignore_faces">عرض الأشخاص الذين تجاهلتهم</string>
-    <string name="select_all">تحديد الكل</string>
+    <string name="select_all">اختيار الكل</string>
     <string name="select_image_operation">إضافة صور</string>
     <string name="select_item_face">"هل هذا '%s'؟"</string>
     <string name="select_origin_tip">ملف اصلي (%s)</string>
@@ -1251,6 +1278,7 @@
     <string name="today">اليوم</string>
     <string name="too_many_recipients">لا يمكن إضافة أكثر من %2$s مستلم (لقد قمت بإضافة %1$s).</string>
     <string name="trash_bin">حجم المهملات</string>
+    <string name="trash_bin_key_word">تم حذف الصور</string>
     <string name="trash_bin_summary">تصفح الصور المحذوفة مؤخرا و التي تم القيام بنسخة احتياطية لها</string>
     <string name="try_again_later">أعد المحاولة لاحقاً.</string>
     <string name="try_to_send">إرسال</string>
@@ -1261,9 +1289,9 @@
     <string name="unchecked_something">%s غير محدد</string>
     <string name="unpublish_failed">تعذر إلغاء النشر</string>
     <string name="unpublish_succeeded">لم يتم نشر الألبوم</string>
-    <string name="unpublishing">يتم الإلغاء…</string>
+    <string name="unpublishing">جارٍ الإلغاء…</string>
     <string name="unsupport_video">لا يعمل %s مع الفيديوهات</string>
-    <string name="user_agree">موافق</string>
+    <string name="user_agree">أوافق</string>
     <string name="user_agreement2">شروط الخدمة</string>
     <string name="user_agreement4">سياسة الخصوصية</string>
     <string name="user_alias_self">ذاتي</string>

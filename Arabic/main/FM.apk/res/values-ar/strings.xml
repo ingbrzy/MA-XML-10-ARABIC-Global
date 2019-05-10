@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">راديو FM</string>
+    <string name="app_name">خدمة راديو FM</string>
     <string name="station_freq_format">%s ميغاهرتز</string>
     <string name="frequency_mhz_fomart">%s ميغاهرتز</string>
     <string name="notification_rec_title">اضغط لعرض التسجيل</string>
     <string name="record_completed">اكتمل التسجيل</string>
-    <string name="start">بدء</string>
-    <string name="stop">إيقاف</string>
-    <string name="jump">انتقال</string>
-    <string name="scan">فحص</string>
 </resources>

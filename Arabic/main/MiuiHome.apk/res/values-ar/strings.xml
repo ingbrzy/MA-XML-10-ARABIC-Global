@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة الشاشة</string>
@@ -110,9 +111,12 @@
     <string name="drag_single_item_name" />
     <string name="dual_app">التطبيقات المزدوجة</string>
     <string name="edit_folder_title">تعديل اسم المجلد</string>
+    <string name="edit_mode_dual_app">إنشاء تطبيق مزدوج</string>
     <string name="edit_mode_group">مجموعة</string>
+    <string name="edit_mode_group_error_cant_delete_system_apps">لا يمكن إلغاء تثبيت تطبيقات النظام</string>
     <string name="edit_mode_group_error_full">لا توجد مساحة كافية</string>
     <string name="edit_mode_group_error_in_folder">أغلق المجلد قبل تجميع الأيقونات</string>
+    <string name="edit_mode_group_error_nothing_be_selected">اختر تطبيق أولاً</string>
     <string name="edit_mode_group_error_one_folder">لا يمكنك تكرار المجلد مع الرموز المحددة</string>
     <string name="edit_mode_top_menu_finish">تم</string>
     <string name="edit_mode_uninstall">إلغاء التثبيت</string>
@@ -186,15 +190,22 @@
     <string name="guide_install_app_msg">لم يتم تثبيت التطبيق على جهازك. هل تريد إيجاد وتثبيت التطبيق الآن؟</string>
     <string name="guide_install_app_title">إيجاد وتثبيت التطبيق؟</string>
     <string name="guide_tips_editing_mode">اضغط لمدة طويلة لاختيار تطبيق مصغر</string>
+    <string name="home_gesture_content_center">مركز المحتوى</string>
+    <string name="home_gesture_global_search">بحث</string>
+    <string name="home_gesture_no_action">لا يوجد</string>
+    <string name="home_gesture_notification_bar">الإشعارات</string>
+    <string name="home_pull_down_action">مرّر لأسفل على الشاشة الرئيسية</string>
     <string name="home_screen">الشاشة الرئيسية</string>
+    <string name="home_slide_up_action">مرّر لأعلى على الشاشة الرئيسية</string>
     <string name="icon_reorganize_channel">ترتيب الأيقونات</string>
     <string name="image_too_small_message">الصورة الأصلية ليست كبيرة بما فيه الكفاية.</string>
     <string name="install">تثبيت</string>
     <string name="invalid_contact_shortcut">جهة اتصال غير صالحة</string>
     <string name="is_setting_wallpaper_message">جارٍ تعيين خلفية الشاشة…</string>
     <string name="is_system_wallpaper_message">لا يمكن حذف موارد النظام</string>
-    <string name="launcher_auto_fill_empty_title">ملء الخانات الفارغة</string>
     <string name="launcher_not_exist">حدث خطأ ما، ارجع إلى الشاشة الرئيسية ثم حاول مجددا.</string>
+    <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
+    <string name="launcher_slide_up_title">مرّر لأعلى على الشاشة الرئيسية</string>
     <string name="launcher_sliding_up_gesture">مرّر لأعلى على الشاشة الرئيسية لفتح البحث</string>
     <string name="launcher_title">الشاشة الرئيسية والمستخدمة مؤخراً</string>
     <string name="like">إضافة إلى المفضلة</string>
@@ -210,7 +221,7 @@
     <string name="memory_clear_nothing_result">لا يوجد شيء لمسحه من الذاكرة المؤقتة</string>
     <string name="memory_clear_result">تم مسح %1$sبايت</string>
     <string name="menu_add">إضافة</string>
-    <string name="menu_auto_fill">ملء الخانات الفارغة</string>
+    <string name="menu_auto_fill_of_uninstall">ملء خلايا التطبيقات غير مثبتة</string>
     <string name="menu_back_desktop">الرجوع للشاشة الرئيسية</string>
     <string name="menu_cell_setting">تنسيق الشاشة الرئيسية</string>
     <string name="menu_customize">الإعدادت</string>
@@ -231,6 +242,7 @@
     <string name="menu_wallpaper">خلفية الشاشة</string>
     <string name="menu_workspace_preview">معاينات الشاشة الرئيسية</string>
     <string name="mi_wallpaper">سمات MIUI</string>
+    <string name="minus_one_screen">منصة التطبيقات</string>
     <string name="miui_screen_config_title">إعدادات الشاشة الرئيسية</string>
     <string name="mtzgadget_missing_text">التطبيق المصغر غير متوفر</string>
     <string name="multi_selecting_tips">لنقل تطبيق، انقر مع الاستمرار على أيقونته واسحبه إلى هنا.</string>
@@ -247,7 +259,7 @@
     <string name="open_personal_assistant_dialog_desc_international">لن تتمكن من إستخدام بطاقات منصة التطبيقات (الأسهم، الاختصارات، إلخ.) وتلقي التحديثات بعد إيقاف تشغيل هذه الميزة.</string>
     <string name="open_personal_assistant_dialog_title">قم بإيقاف منصة التطبيقات</string>
     <string name="open_personal_assistant_title">منصة التطبيقات</string>
-    <string name="out_of_space">لا توجد مساحة إضافية في هذه الشاشة</string>
+    <string name="out_of_space">لا توجد مساحة إضافية على هذه الشاشة</string>
     <string name="permdesc_install_shortcut">السماح لتطبيق بإضافة اختصارات بدون تدخل المستخدم.</string>
     <string name="permdesc_install_widget">السماح لتطبيق بإضافة تطبيق مصغر دون تدخل المستخدم.</string>
     <string name="permdesc_read_settings">السماح لتطبيق ما بقراءة الإعدادات واختصارات الشاشة الرئيسية.</string>
@@ -356,16 +368,7 @@
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
     <string name="widgets_preview_title">إضافة تطبيق مصغر</string>
-    <string name="edit_mode_dual_app">Create dual app</string>
-    <string name="edit_mode_group_error_cant_delete_system_apps">"Can't uninstall system apps"</string>
-    <string name="edit_mode_group_error_nothing_be_selected">Select an app first</string>
-    <string name="home_gesture_content_center">مركز المحتوى</string>
-    <string name="home_gesture_global_search">بحث</string>
-    <string name="home_gesture_no_action">لا يوجد</string>
-    <string name="home_gesture_notification_bar">الإشعارات</string>
-    <string name="home_pull_down_action">مرّر لأسفل على الشاشة الرئيسية</string>
-    <string name="home_slide_up_action">مرّر لأعلى على الشاشة الرئيسية</string>
-    <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
-    <string name="launcher_slide_up_title">مرّر لأعلى على الشاشة الرئيسية</string>
-    <string name="minus_one_screen">منصة التطبيقات</string>
+    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
+    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="system_shortcuts_more_operation">معلومات التطبيق</string>
 </resources>

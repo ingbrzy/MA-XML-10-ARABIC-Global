@@ -3,7 +3,12 @@
     <string name="allow">أوافق</string>
     <string name="app_name">الآلة الحاسبة</string>
     <string name="app_name_danfa">حاسبة Mi</string>
+    <string name="app_notification_info">تعمل الآلة الحاسبة في الخلفية</string>
     <string name="base_rate">سعر الفائدة الأساسي</string>
+    <string name="btn_float_window_alpha">ضبط معدل الشفافية</string>
+    <string name="btn_float_window_back_to_app">تكبير الآلة الحاسبة</string>
+    <string name="btn_float_window_close">إغلاق الآلة الحاسبة المصغرة</string>
+    <string name="btn_float_window_resize">تغيير حجم الآلة الحاسبة المصغرة</string>
     <string name="cal_convert_to_word_figure">التحويل إلى حروف مالية</string>
     <string name="cal_copy">نسخ</string>
     <string name="cal_edit_mode">وضع التعديل</string>
@@ -71,6 +76,7 @@
     <string name="extra_deduction_tips">انقر فوق الزر الموجود في الزاوية العلوية من الشاشة لعرض تفاصيل الخصم.</string>
     <string name="extra_deduction_title">الخصومات الإضافية</string>
     <string name="factorialDesc">عاملي</string>
+    <string name="float_window_guide_text">انقر هنا لتصغير الآلة الحاسبة</string>
     <string name="fund" />
     <string name="fund_loan">صندوق القروض</string>
     <string name="further_education">مزيد من التعليم</string>
@@ -91,6 +97,7 @@
     <string name="golbal_search_calculator_setting">الآلة الحاسبة؛ إعدادات الآلة حاسبة؛ الإعدادات</string>
     <string name="golbal_search_path_calculator_setting">تطبيقات النظام/الآلة الحاسبة/الإعدادات</string>
     <string name="help_content_desc">المساعدة</string>
+    <string name="hint_floatwindow_alpha_guide_text">انقر لتعديل معدل الشفافية</string>
     <string name="home_loan">فوائد الرهن</string>
     <string name="home_title_calculator">الآلة الحاسبة</string>
     <string name="house_rent">الإيجار</string>
@@ -569,6 +576,7 @@
     <string name="unit_yuan">CNY</string>
     <string name="updating">جارٍ تحديث الآلة الحاسبة…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="view_float_window_move">نقل الآلة الحاسبة المصغرة</string>
     <string name="voiceDesc">عناصر التحكم في الصوت</string>
     <string name="wf_word_figure">حروف مالية</string>
     <string name="word_figure_big_unit_fen">分</string>
@@ -592,20 +600,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s
 حجم تحديث دلتا: %2$s"</string>
     <string name="xiaomi_update_dialog_title">تحديث %1$s!</string>
     <string name="year" />
-    <string name="app_notification_info">تعمل الآلة الحاسبة في الخلفية</string>
-    <string name="btn_float_window_alpha">Adjust opacity</string>
-    <string name="btn_float_window_back_to_app">Maximize Calculator</string>
-    <string name="btn_float_window_close">Close minimized Calculator</string>
-    <string name="btn_float_window_resize">Resize minimized calculator</string>
-    <string name="float_window_guide_text">انقر هنا لتصغير الآلة الحاسبة</string>
-    <string name="hint_floatwindow_alpha_guide_text">انقر لتعديل معدل الشفافية</string>
-    <string name="view_float_window_move">Move minimized Calculator</string>
 </resources>

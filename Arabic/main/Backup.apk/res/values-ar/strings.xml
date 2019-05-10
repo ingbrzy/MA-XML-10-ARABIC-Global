@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"تقديم حجم النسخة: %1$s
 حجم تحديث دلتا: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="app_name">نسخة احتياطية</string>
     <string name="local_app_name">النسخ الاحتياطي</string>
@@ -73,6 +76,7 @@
     <string name="sms_title">الرسائل</string>
     <string name="mms_title">رسائل الوسائط المتعددة</string>
     <string name="wifi_title">إعدادات Wi-Fi</string>
+    <string name="phone_title">إعدادات الهاتف</string>
     <string name="note_title">ملاحظات</string>
     <string name="compute_backup_info">جار الحصول على معلومات النسخ الاحتياطي…</string>
     <string name="compute_delete_contact_info">جار الحصول على المعلومات…</string>
@@ -157,7 +161,7 @@
     <string name="auto_backup_user_data">التطبيقات</string>
     <string name="auto_backup_progress">جارٍ النسخ الاحتياطي…</string>
     <string name="backup">نسخ احتياطي</string>
-    <string name="restore">استعادة</string>
+    <string name="restore">استرداد</string>
     <string name="cloud_last_backup">"آخر عملية نسخ احتياطي في "</string>
     <string name="cloud_search">جارٍ البحث…</string>
     <string name="cloud_no_backup">لا توجد نسخ احتياطية</string>
@@ -222,9 +226,10 @@
     <string name="page_loading">لحظة من فضلك…</string>
     <string name="file_uploading">جارٍ التحميل…</string>
     <string name="new_backup">نسخ احتياطي</string>
-    <string name="restore_backup">استعادة</string>
+    <string name="restore_backup">استرداد</string>
     <string name="enable_encrypt_description">مشفر</string>
     <string name="disable_encrypt_description">غير مشفر</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">لحظة من فضلك…</string>
     <string name="state_mounting">الوصول إلى تخزين جهاز التوجيه…</string>
     <string name="abort_backup_confirm">لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟</string>
@@ -254,6 +259,7 @@
     <string name="err_pkg_not_exist">تعذر العثور على التطبيق.</string>
     <string name="err_user_abort">تم الإلغاء من قبل المستخدم.</string>
     <string name="err_binder_died">توقف التطبيق بشكل غير متوقع.</string>
+    <string name="err_no_gms">إصدار التطبيق غير متوافق. قم بتثبيت هذا التطبيق بشكل منفصل.</string>
     <string name="backup_is_running">النسخ الاحتياطي للجهاز</string>
     <string name="restore_is_running">استعادة الجهاز</string>
     <string name="notif_backup_title">النسخ الاحتياطي للبيانات</string>
@@ -307,6 +313,7 @@
     <string name="trans_detail_qq_data">بيانات QQ (يتضمن سجل الدردشات)</string>
     <string name="trans_detail_app_data_useless_tip">يمكنك استعادة هذه من التطبيق، لا حاجة لنقلها.</string>
     <string name="trans_detail_item_app_data_too_large_tip">يبدو أن العنصر كبير جدا لنقلة.</string>
+    <string name="trans_detail_item_app_data_skip_data">لا يمكن نقل بيانات التطبيق</string>
     <string name="trans_detail_item_app_data_selected_tip">كما تم اختيار التطبيقات المقابلة.</string>
     <string name="trans_detail_list_footer">"١. يمكنك اختيار التطبيقات الفردية التي ترغب بنقلها..
 ٢. إذا قمت بتحديد بيانات التطبيق، فسيتم تحديد التطبيقات المناسبة أيضًا.
@@ -562,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 يجب عليك إنشاء نسخ iCloud احتياطي أولا."</string>
     <string name="list_footer_tip_title">نصائح:</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">استيراد</string>
     <string name="select_empty">قم بتحديد عناصر للاستيراد</string>
     <string name="select_item_summary_wait">جارٍ الانتظار…</string>

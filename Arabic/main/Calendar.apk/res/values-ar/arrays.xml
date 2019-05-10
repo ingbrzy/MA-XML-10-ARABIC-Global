@@ -81,6 +81,10 @@
         <item>هذا الحدث والأحداث المستقبلية</item>
         <item>جميع الأحداث</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>٤</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>برج الجوزاء</item>
@@ -103,13 +107,6 @@
     <string-array name="ligue_1">
         <item>٥</item>
         <item>الدوري الفرنسي الدرجة الأولى</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>الأول</item>
-        <item>الثاني</item>
-        <item>الثالث</item>
-        <item>الرابع</item>
-        <item>الأخير</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
@@ -348,5 +345,42 @@
     <string-array name="widget_style_list">
         <item>شفاف</item>
         <item>خلفية بيضاء</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>الاثنين الأول</item>
+        <item>الثلاثاء الأول</item>
+        <item>الأربعاء الأول</item>
+        <item>الخميس الأول</item>
+        <item>الجمعة الأولى</item>
+        <item>السبت الأول</item>
+        <item>الأحد الأول</item>
+        <item>الاثنين الثاني</item>
+        <item>الثلاثاء الثاني</item>
+        <item>الأربعاء الثاني</item>
+        <item>الخميس الثاني</item>
+        <item>الجمعة الثانية</item>
+        <item>السبت الثاني</item>
+        <item>الأحد الثاني</item>
+        <item>الاثنين الثالث</item>
+        <item>الثلاثاء الثالث</item>
+        <item>الأربعاء الثالث</item>
+        <item>الخميس الثالث</item>
+        <item>الجمعة الثالثة</item>
+        <item>السبت الثالث</item>
+        <item>الأحد الثالث</item>
+        <item>الاثنين الرابع</item>
+        <item>الثلاثاء الرابع</item>
+        <item>الأربعاء الرابع</item>
+        <item>الخميس الرابع</item>
+        <item>الجمعة الرابعة</item>
+        <item>السبت الرابع</item>
+        <item>الأحد الرابع</item>
+        <item>آخر اثنين</item>
+        <item>آخر ثلاثاء</item>
+        <item>آخر أربعاء</item>
+        <item>آخر خميس</item>
+        <item>آخر جمعة</item>
+        <item>آخر سبت</item>
+        <item>آخر أحد</item>
     </string-array>
 </resources>

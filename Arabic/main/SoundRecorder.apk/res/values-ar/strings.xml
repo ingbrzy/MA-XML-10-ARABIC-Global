@@ -133,7 +133,7 @@
     <string name="preference_enable_earpiece_summary">استخدام مكبر صوت جهاز الاستقبال للتشغيل الخارجي</string>
     <string name="preference_enable_earpiece_title">استخدام جهاز الاستقبال لتشغيل الصوت</string>
     <string name="preference_led_indicator">إشعارات قفل الشاشة</string>
-    <string name="preference_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة وضوء إشعار الوميض في شاشة القفل</string>
+    <string name="preference_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة ووميض ضوء الإشعارات في شاشة القفل</string>
     <string name="preference_online_orders">طلبات عبر الإنترنت</string>
     <string name="preference_recog_faqs">الأسئلة الشائعة حول التحويل إلى نصوص عبر الإنترنت</string>
     <string name="preference_recog_terms">شروط الخدمة</string>
@@ -223,7 +223,7 @@
     <string name="search_app">المسجل</string>
     <string name="search_enable_earpiece_title">استخدام جهاز الاستقبال لتشغيل الصوت</string>
     <string name="search_led_indicator">إشعارات شاشة القفل</string>
-    <string name="search_led_indicator_prompt">أثناء التسجيل, قم بعرض اختصار شريط الحالة و ضوء إشعار الوميض في شاشة القفل</string>
+    <string name="search_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة ووميض ضوء الإشعارات في شاشة القفل</string>
     <string name="search_quliaty_title">جودة التسجيل</string>
     <string name="search_scenes">نوع التسجيل</string>
     <string name="search_silent_mode">كتم الرنين أثناء التسجيل</string>

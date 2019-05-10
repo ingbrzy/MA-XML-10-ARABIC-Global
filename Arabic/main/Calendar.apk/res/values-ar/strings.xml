@@ -102,6 +102,7 @@
     <string name="card_title_change">مزيد</string>
     <string name="cards_language_hint">قد لا تتوفر بعض البطاقات في اللغة المحددة.</string>
     <string name="change_response_title">تغيير الإستجابة</string>
+    <string name="change_zodiac">تغيير علامة البرج</string>
     <string name="click_to_share">انقر للمشاركة</string>
     <string name="close_alarm">إيقاف</string>
     <string name="contacts_permission_desc">الوصول إلى معلومات جهة الاتصال</string>
@@ -134,6 +135,7 @@
     <string name="date_interval_text_to">إلى %1$s</string>
     <string name="date_jump_hint">الانتقال إلى يوم محدد</string>
     <string name="date_jump_title">الانتقال إلى تاريخ</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_mode">التذكيرات</string>
@@ -202,6 +204,7 @@
     <string name="event_view">عرض الحدث</string>
     <string name="every_weekday">أيام الأسبوع (الاثنين–الجمعة)</string>
     <string name="fb_birthday_failure">تعذر استيراد تواريخ الميلاد من الفيسبوك. حاول مجدداً.</string>
+    <string name="fb_birthday_region_warning">لا تتوفر هذه الميزة في منطقتك</string>
     <string name="fb_birthday_success">تم استيراد تواريخ أعياد الميلاد من الفيسبوك بنجاح</string>
     <string name="fb_calendar_account_name">تقويم Mi المحلي</string>
     <string name="fb_calendar_display_name">أعياد ميلاد الأصدقاء من الفيسبوك</string>
@@ -290,6 +293,7 @@
     <string name="month_view">الشهر</string>
     <string name="monthly">شهري</string>
     <string name="monthly_on_day">شهري (نفس التاريخ)</string>
+    <string name="monthly_on_day_count">شهريًا (%1$s)</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="new_event_description">جديد</string>
     <string name="news">أخبار</string>

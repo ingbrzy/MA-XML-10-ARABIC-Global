@@ -219,6 +219,7 @@
     <string name="passport_talkback_switch_image_captcha">التبديل إلى رمز التحقق من الصورة</string>
     <string name="passport_license_info_open">التفاصيل</string>
     <string name="passport_license_info_collapse">تقليص</string>
+    <string name="passport_first_login_prompt">سيتم إنشاء حساب Mi تلقائيا عند تسجيل الدخول للمرة الأولى.</string>
     <string name="search_app_name">حساب Mi</string>
     <string name="search_mi_account">حساب Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud،إعداد الحساب،معلومات دفع Mi،تسجيل الخروج</string>
@@ -308,7 +309,7 @@
     <string name="restart_phone_bind_title">تغيير هاتف الاسترداد</string>
     <string name="restart_phone_bind_message">قد يأخذ بعض الوقت لإستلام SMS. البدء على إي حال؟</string>
     <string name="restart_action">البدء من جديد</string>
-    <string name="error_dup_binded_email">عنوان البريد الإلكتروني هذا مرتبط مسيقاُ بحساب Mi آخر.</string>
+    <string name="error_dup_binded_email">عنوان البريد الإلكتروني هذا مرتبط مسبقا بحساب Mi آخر.</string>
     <string name="error_invalid_bind_address">عنوان البريد الإلكتروني اللذي أدخلتة غير صالح.</string>
     <string name="get_phone_bind_exceed_limit">يمكنك ربط ما يصل إلى ٣ حسابات Mi برقم هاتف. لا يمكن إضافة حسابات جديدة.</string>
     <string name="just_a_second">لحظة من فضلك…</string>
@@ -353,6 +354,8 @@
     <string name="activity_not_found_notice">لا يمكن العثور على التطبيق</string>
     <string name="scan_barcode_title">لتسجيل الدخول في حساب Mi، امسح رمز QR</string>
     <string name="talkback_scan_barcode">مسح رمز QR</string>
+    <string name="scan_barcode">مسح رمز QR لتسجيل الدخول</string>
+    <string name="agreement_and_privacy">سياسة الخصوصية واتفاقية المستخدم</string>
     <string name="authorize_title">ترخيص</string>
     <string name="my_device_title">الجهاز الحالي</string>
     <string name="device_list_title">الأجهزة الخاصة بي</string>
@@ -419,9 +422,8 @@
     <string name="push_notify_dialog_title">التحقق من الحساب</string>
     <string name="push_notify_dialog_message">لقد تم استخدم جهاز غير معروف لتسجيل الدخول إلى حساب Mi الخاص بك. أدخل رمز التحقق هذا على الجهاز. إن لم تكن أنت، قم بتغيير كلمة مرور حساب Mi على الفور. لا تكشف عن رمز التحقق لأشخاص آخرين.</string>
     <string name="account_secure_info_pref_title">معلومات الحساب</string>
-    <string name="account_user_email">البريد الإلكتروني</string>
-    <string name="account_user_phone">الهاتف</string>
-    <string name="account_user_recovery_phone">هاتف الاسترداد</string>
+    <string name="account_user_email">البريد الإلكتروني لاسترداد الحساب</string>
+    <string name="account_user_phone">رقم الهاتف لاسترداد الحساب</string>
     <string name="input_new_pwd">ادخل كلمة المرور</string>
     <string name="confirm_new_pwd">تأكيد كلمة المرور الجديدة</string>
     <string name="inconsistent_pwd">كلمة المرور غير متطابقة</string>

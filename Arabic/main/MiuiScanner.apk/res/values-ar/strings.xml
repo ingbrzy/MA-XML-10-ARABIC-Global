@@ -39,6 +39,7 @@
     <string name="business_card">بطاقة العمل</string>
     <string name="business_card_result_title">بطاقة أعمال</string>
     <string name="business_card_title">ضع بطاقة العمل داخل الإطار</string>
+    <string name="business_card_with_qr_code">ضع بطاقة العمل أو امسح رمز QR داخل الإطار</string>
     <string name="business_copy">نسخ</string>
     <string name="business_new_contacts">إنشاء جهات الاتصال</string>
     <string name="business_no_result">تعذر التعرف على بطاقة العمل، حاول مجدداً.</string>

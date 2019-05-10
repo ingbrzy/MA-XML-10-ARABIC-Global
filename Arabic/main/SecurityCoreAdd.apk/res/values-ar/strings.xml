@@ -56,6 +56,7 @@
     <string name="loading_space">لحظة من فضلك…</string>
     <string name="private_space_setting">إدارة</string>
     <string name="exit_private_space">تبديل</string>
+    <string name="kid_mode_label">واجهة الطفل</string>
     <string name="wating">لحظة من فضلك…</string>
     <string name="Active">نشط</string>
     <string name="ok_button">موافق</string>
@@ -115,8 +116,8 @@
     <string name="closed">متوقّف</string>
     <string name="changePassword">تغيير كلمة المرور</string>
     <string name="passWordGuardSummary">الدخول إلى الواجهة الثانية من قفل الشاشة باستخدام كلمة المرور</string>
-    <string name="notificationTitle">اختصار مركز الاشعارات</string>
-    <string name="notificationSummary">تبديل بين الواجهتين من مركز الاشعارات</string>
+    <string name="notificationTitle">اختصار مركز الإشعارات</string>
+    <string name="notificationSummary">تبديل بين الواجهتين من مركز الإشعارات</string>
     <string name="otherSettings">إعدادات أخرى</string>
     <string name="privacyContactsTitle">رسائل خاصة و جهات الاتصال</string>
     <string name="privacyContactsSummary">عرض العناصر الخاصة في الواجهة الثانية</string>
@@ -161,6 +162,7 @@
     <string name="create_space_loading">جارٍ إنشاء الواجهة الثانية…</string>
     <string name="close_second_space">تم حذف الواجهة الثانية</string>
     <string name="close_second_space_success">تم حذف الواجهة الثانية</string>
+    <string name="close_kid_space_success">حذف واجهة الطفل</string>
     <string name="enable">تشغيل</string>
     <string name="disable">إيقاف التشغيل</string>
     <string name="PrivacyContactDes1">"ستصبح جهات الاتصال خاصة.
@@ -355,8 +357,8 @@
     <string name="set_space_finger_sub_text_suc">تم تعيين بصمة الاصبع بنجاح</string>
     <string name="show_noti_from_owner">إشعارات من الواجهة الأخرى</string>
     <string name="show_noti_from_owner_detail">تلقي الإشعارات في الواجهة الحالية عندما يأتون إلى الواجهة الأخرى</string>
-    <string name="show_noti_quick_switch_icon">اختصار مركز الاشعارات</string>
-    <string name="show_noti_quick_switch_icon_detail">عرض اختصار لتبديل الواجهات في مركز الاشعارات</string>
+    <string name="show_noti_quick_switch_icon">اختصار مركز الإشعارات</string>
+    <string name="show_noti_quick_switch_icon_detail">عرض اختصار لتبديل الواجهات في مركز الإشعارات</string>
     <string name="show_decktop_quick_switch_icon">إختصار الشاشة الرئيسية</string>
     <string name="show_decktop_quick_switch_icon_detail">عرض اختصار لتبديل الواجهات على الشاشة الرئيسية في الواجهة الاولى</string>
     <string name="has_created_second_space">"يمكنك فتح الواجهة الثانية الآن.
@@ -462,4 +464,6 @@
     <string name="button_touch">ضع إصبعك على المستشعر</string>
     <string name="button_input_password">ادخل كلمة المرور</string>
     <string name="master_clear_not_available">إعادة ضبط المصنع مقيد من قِبل شركتك.</string>
+    <string name="dual_animation">تشغيل الرسوم المتحركة</string>
+    <string name="dual_animation_description">عرض الرسوم المتحركة عند تشغيل التطبيقات المزدوجة</string>
 </resources>

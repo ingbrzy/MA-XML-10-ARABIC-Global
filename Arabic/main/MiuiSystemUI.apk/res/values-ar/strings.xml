@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">الكاميرا</string>
     <string name="accessibility_carrier_network_change_mode">تغيير شبكة الاتصالات.</string>
     <string name="accessibility_cast_name">متصل بشبكة %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">توقف بث الشاشة.</string>
     <string name="accessibility_cell_data">بيانات الجوال</string>
     <string name="accessibility_cell_data_off">بيانات الجوال متوقفة</string>
@@ -139,7 +140,7 @@
     <string name="accessibility_no_wifi">WiFi غير متصل.</string>
     <string name="accessibility_no_wimax">لا يوجد WiMAX.</string>
     <string name="accessibility_not_connected">غير متصل.</string>
-    <string name="accessibility_notification_dismissed">تم إزالة الإشعار.</string>
+    <string name="accessibility_notification_dismissed">تم تجاهل الإشعار.</string>
     <string name="accessibility_notifications_button">الإشعارات.</string>
     <string name="accessibility_one_bar">شريط واحد.</string>
     <string name="accessibility_overflow_action">عرض جميع الإشعارات</string>
@@ -324,9 +325,14 @@
     <string name="battery_info_status_full">ممتلئة</string>
     <string name="battery_info_status_not_charging">لا تشحن</string>
     <string name="battery_info_status_unknown">غير معروف</string>
+    <string name="battery_low_button_not_open_power_save">ليس الآن</string>
+    <string name="battery_low_button_open_power_save">تشغيل</string>
     <string name="battery_low_percent_format">تبقى %d%%</string>
+    <string name="battery_low_percent_format_save_mode_closed">البطارية أقل من %d%%. بقم بشحن الجهاز.</string>
+    <string name="battery_low_percent_format_save_mode_open">البطارية أقل من %d%%. قم بتشغيل \"موفر البطارية\" لتوفير الطاقة.</string>
     <string name="battery_low_percent_format_saver_started">تبقى %s. موفر البطارية قيد التشغيل.</string>
     <string name="battery_low_title">البطارية منخفضة</string>
+    <string name="battery_low_title_power_save">موفر البطارية</string>
     <string name="battery_low_why">الإعدادات</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">استخدام البطارية</string>
@@ -467,6 +473,9 @@
     <string name="category_work">عمل</string>
     <string name="charge_length_format">%1$s منذ</string>
     <string name="chooseUsbActivity">تحديد تطبيق لجهاز USB</string>
+    <string name="choose_clock_title_left_top">محاذاة لليمين</string>
+    <string name="choose_clock_title_middle">وسط</string>
+    <string name="choose_clock_title_vertical">عمودي</string>
     <string name="choose_profile">اختيار الملف الشخصي</string>
     <string name="clear_adb_keys">‏إلغاء ترخيص تصحيح أخطاء USB</string>
     <string name="clear_all_notifications_text">مسح الكل</string>
@@ -477,7 +486,7 @@
     <string name="clock">الساعة</string>
     <string name="clock_city_name_local">محلي</string>
     <string name="clock_seconds">إظهار ثواني الساعة</string>
-    <string name="clock_seconds_desc">عرض ثواني الساعة في شريط الحالة. قد يؤثر على عمر البطارية.</string>
+    <string name="clock_seconds_desc">عرض ثواني الساعة في شريط الحالة. قد يؤثر ذلك على عمر البطارية.</string>
     <string name="compat_mode_off">تمديد لملء الشاشة</string>
     <string name="compat_mode_on">تكبير لملء الشاشة</string>
     <string name="confirm">حسنا</string>
@@ -576,6 +585,7 @@
     <string name="dlg_summary_nfc">إيقاف تشغيل NFC</string>
     <string name="dlg_summary_title">يوقف الحد الأقصى لموفر البطارية جميع الأنشطة الخلفية للتطبيق بعد الخروج منه والرجوع إلى الشاشة الرئيسية. إذا كنت تريد أن يعمل التطبيق في الخلفية، قم بإضافته إلى قائمة الاستثناءات.</string>
     <string name="dnd_is_off">DND متوقف</string>
+    <string name="dnd_notification_warnings_title">عدم الإزعاج مشغل. سيتم إسكات المكالمات والإشعارات.</string>
     <string name="do_disclosure_generic">تتم إدارة هذا الجهاز من قِبل مؤسستك</string>
     <string name="do_disclosure_with_name">تتم إدارة هذا الجهاز من قِبل %s</string>
     <string name="do_not_silence">لا تصمت</string>
@@ -654,6 +664,7 @@
     <string name="face_data_manage_delete_msg">حذف بيانات الوجه</string>
     <string name="face_data_manage_delete_sure">لن تتمكن من إلغاء قفل الجهاز باستخدام بيانات الوجه بعد حذفه.</string>
     <string name="face_data_manage_delete_title">بيانات الوجه</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">بعد تشغيل الشاشة، اسحب لأعلى لإلغاء قفل الجهاز باستخدام بيانات الوجه.</string>
     <string name="face_data_manage_unlock_msg">إلغاء قفل الجهاز بإستخدام بيانات الوجه</string>
     <string name="face_data_manage_unlock_slide_msg">إستبدال اختصارات شريط التمرير بخاصية التعرف على الوجه</string>
     <string name="face_data_manage_unlock_title">إلغاء القفل بإستخدام بيانات الوجه</string>
@@ -669,7 +680,8 @@
     <string name="face_unlock_close_screen">أقترب أكثر من الشاشة</string>
     <string name="face_unlock_down">إرفع رأسك</string>
     <string name="face_unlock_fail">تعذر التحقق من الوجه</string>
-    <string name="face_unlock_fail_retry">لا يمكن التحقق من الوجه. انقر على الرمز للمحاولة مجددا.</string>
+    <string name="face_unlock_fail_retry">لا يمكن التحقق من الوجه. انقر أعلى للمحاولة مجددا.</string>
+    <string name="face_unlock_fail_retry_global">انقر أعلى لإستخدام التعرف على الوجه</string>
     <string name="face_unlock_identify_error">حدث خطأ في التعرف</string>
     <string name="face_unlock_not_found">تعذر التعرف عليك</string>
     <string name="face_unlock_not_roi">إبقي وجهك داخل الإطار</string>
@@ -691,7 +703,14 @@
     <string name="face_unlock_sc_status">إسحب الشاشة للأسفل لفتح الكاميرا</string>
     <string name="face_unlock_stay_away_screen">إبقى بعيدا عن الشاشة مسافة ٢٥ إلى ٤٠ سم</string>
     <string name="face_unlock_success">تم التحقق من بيانات الوجه بنجاح</string>
-    <string name="face_unlock_success_stay_screen_msg">ابقاء على شاشة القفل بعد التحقق من الوجه. مرر لأعلى لفتح الشاشة الرئيسية.</string>
+    <string name="face_unlock_success_show_message_dialog_msg">اسمح لإشعارات شاشة القفل لتتمكن من عرضها في شاشة القفل.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">لا شكراً</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">سماح</string>
+    <string name="face_unlock_success_show_message_dialog_title">إشعارات شاشة القفل</string>
+    <string name="face_unlock_success_show_message_msg">عرض مصدر الإشعارات فقط عند قفل الجهاز وإضافة التفاصيل بعد التحقق من بيانات الوجه</string>
+    <string name="face_unlock_success_show_message_title">عرض تفاصيل الإشعارات بعد التحقق من بيانات الوجه</string>
+    <string name="face_unlock_success_show_message_toast">سيتم عرض الإشعارات على شاشة القفل</string>
+    <string name="face_unlock_success_stay_screen_msg">ابقاء على شاشة القفل بعد التحقق من بصمة الوجة. مرر لأعلى لفتح الشاشة الرئيسية.</string>
     <string name="face_unlock_success_stay_screen_title">ابقاء على قفل الشاشة بعد فتح الجهاز</string>
     <string name="failed_to_open_app_settings_toast">تعذّر فتح الإعدادات لـ %1$s</string>
     <string name="fingerprint_add_text">تم تحديث واجهه بصمة الأصبع. قم بإضافة بصمة الاصبع الخاص بك مرة أخرى.</string>
@@ -757,6 +776,7 @@
     <string name="gxzw_try_again">حاول مجددا</string>
     <string name="gxzw_try_more_again">حاول مجددا</string>
     <string name="gxzw_use_password">استخدم كلمة المرور لإلغاء القفل</string>
+    <string name="gxzw_use_password_to_unlock">ادخل كلمة المرور</string>
     <string name="hdcp_checking_dialog_title">‏تعيين سلوك تحقق HDCP</string>
     <string name="hdcp_checking_title">تحقق HDCP</string>
     <string name="headset">سماعة الرأس</string>
@@ -779,7 +799,7 @@
     <string name="ime_security_warning">يمكن لطريقة الإدخال هذه جمع كل النص الذي سيتم نطقه، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقة الائتمان. يتم أحذه من التطبيق %1$s. استخدام طريقة الإدخال هذه؟</string>
     <string name="immediately_destroy_activities">لا تبقي الأنشطة</string>
     <string name="immediately_destroy_activities_summary">إنهاء كل نشاط في أقرب وقت يتركه المستخدم</string>
-    <string name="important_desc">ستظهر جميع الاشعارات الهامة مباشرة في مركز الاشعارات.</string>
+    <string name="important_desc">ستظهر جميع الإشعارات الهامة مباشرة في مركز الإشعارات.</string>
     <string name="ims_reg_status_not_registered">لم يتم التسجيل</string>
     <string name="ims_reg_status_registered">تم التسجيل</string>
     <string name="ims_reg_title">حالة تسجيل IMS</string>
@@ -818,7 +838,7 @@
     <string name="invalid_sim_pin_hint">يجب ان يحتوي رمز PIN على ٤ الى ۸ أرقام</string>
     <string name="invalid_sim_puk_hint">يجب ان يتكون رمز PUK من ۸ أرقام على الاقل</string>
     <string name="keep_screen_on">البقاء في الوضع النشط</string>
-    <string name="keep_screen_on_summary">لن تدخل الشاشة ابدا في وضع السكون أثناء الشحن</string>
+    <string name="keep_screen_on_summary">لن تنطفئ الشاشة ابدا أثناء الشحن</string>
     <string name="keyboard_key_back">رجوع</string>
     <string name="keyboard_key_backspace">مسافة للخلف</string>
     <string name="keyboard_key_button_template">زر %1$s</string>
@@ -872,6 +892,10 @@
     <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
     <string name="keyguard_charging_info_click_to_detail">عرض التفاصيل</string>
+    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
+    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
@@ -896,6 +920,7 @@
     <string name="keyguard_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. الرجاء إدراج بطاقة SIM.</string>
     <string name="keyguard_missing_sim_message">لا توجد بطاقة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكه مقفله</string>
     <string name="keyguard_password_enter_password_code">أدخل كلمة المرور لإلغاء القفل</string>
     <string name="keyguard_password_enter_pin_code">أدخل رمز PIN</string>
@@ -979,6 +1004,7 @@
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">"، "</string>
     <string name="local_backup_password_summary_change">انقر لتغيير أو حذف كلمة مرور النسخ الاحتياطي الكامل للشاشة الرئيسية</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطي الكامل للشاشة الرئيسية ليس محمي</string>
     <string name="local_backup_password_title">كلمة مرور الشاشة الرئيسية الاحتياطية</string>
@@ -1048,6 +1074,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">سيستمر تشغيل أصوات الوسائط (الموسيقى والفيديوهات وما إلى ذلك) في وضع السكون. يمكنك تغيير هذا في الإعدادات.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
     <string name="miui_ringer_count_down">العد التنازلي</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">صامت</string>
     <string name="miui_ringer_standard_description">كتم نغمات الرنين للمكالمات الواردة والإشعارات</string>
     <string name="miui_ringer_total">عدم الازعاج</string>
@@ -1075,12 +1102,14 @@ d MMMM"</string>
 
 لمزيد من المعلومات، اتصل بمسؤول النظام."</string>
     <string name="monitoring_description_ca_cert_settings">فتح الشهادات الموثوقة</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">يتم تثبيت مرجع مصدق على هذا الجهاز. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يقوم المشرف بمراقبة وإدارة الإعدادات والتطبيقات والوصول إلى موارد الشركة والبيانات المتعلقة بجهازك ومعلومات الموقع.</string>
     <string name="monitoring_description_do_body_vpn">انت متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك البريد الإلكتروني والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك من قِبل %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s تستخدم %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">معرفة المزيد</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">قامت مؤسستك بتثبيت مرجع مصدق في ملف العمل الشخصي. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">ملف العمل الشخصي متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"تتم إدارة جهازك من قِبل مؤسستك.
@@ -1112,6 +1141,7 @@ d MMMM"</string>
 
  انت أيضًا متصل بشبكة VPN، حيث يمكن مراقبة نشاط هذه الشبكة."</string>
     <string name="monitoring_description_vpn_settings">فتح إعدادات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل الشبكة</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1126,6 +1156,7 @@ d MMMM"</string>
     <string name="nav_guide_message">استخدم الإيماءات لإخفاء أو إظهار أزرار التنقل.</string>
     <string name="nav_guide_ok">إعداد</string>
     <string name="nav_guide_title">إخفاء أزرار التنقل</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا يوجد</string>
     <string name="no_multi_window_app">لا توجد تطبيقات تدعم وضع تقسيم الشاشة</string>
     <string name="no_notification_tips">لا توجد إشعارات</string>
@@ -1139,6 +1170,7 @@ d MMMM"</string>
     <string name="notification_channel_controls_closed_accessibility">عناصر التحكم بالإشعارات لتطبيق %1$s متوقفة</string>
     <string name="notification_channel_controls_opened_accessibility">عناصر التحكم بالإشعارات لتطبيق %1$s مشغلة</string>
     <string name="notification_channel_disabled">لن تتلقى هذه الإشعارات بعد الآن.</string>
+    <string name="notification_channel_dnd">عدم الإزعاج</string>
     <string name="notification_channel_general">رسائل عامة</string>
     <string name="notification_channel_location">الموقع</string>
     <string name="notification_channel_screenbutton">الأزرار</string>
@@ -1161,7 +1193,7 @@ d MMMM"</string>
     <string name="notification_low_battery_action_btn">تشغيل</string>
     <string name="notification_low_battery_need_charge">البطارية منخفضة. اشحن هاتفك.</string>
     <string name="notification_low_battery_open_save_mode">تشغيل موفر البطارية</string>
-    <string name="notification_low_battery_title">البطارية منخفضة: %d%%</string>
+    <string name="notification_low_battery_title">Less than %d%% of battery remaining</string>
     <string name="notification_manager">إدارة الإشعارات</string>
     <string name="notification_manager_des">تصفية وإدارة الإشعارات</string>
     <string name="notification_menu_accessibility">%1$s %2$s</string>
@@ -1169,7 +1201,7 @@ d MMMM"</string>
     <string name="notification_menu_filter_secondary_text">ستظهر جميع اشعارات %s في مجلد منفصل.</string>
     <string name="notification_menu_filter_title">غير هام</string>
     <string name="notification_menu_gear_description">التحكم في الاشعارات</string>
-    <string name="notification_menu_remove_from_filter_secondary_text">ستظهر جميع اشعارات %s الهامة مباشرة في مركز الاشعارات.</string>
+    <string name="notification_menu_remove_from_filter_secondary_text">ستظهر جميع إشعارات %s الهامة مباشرة في مركز الإشعارات.</string>
     <string name="notification_menu_remove_from_filter_title">هام</string>
     <string name="notification_menu_snooze_description">خيارات غفوة الإشعار</string>
     <string name="notification_more_settings">المزيد من الإعدادات</string>
@@ -1278,12 +1310,17 @@ d MMMM"</string>
     <string name="power_remaining_more_than_subtext">تبقى أكثر من %1$s - (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">تبقى أكثر من %1$s</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
+    <string name="power_save_ps_clean">تنظيف ذاكرة التخزين المؤقت كلما تم قفل الجهاز</string>
+    <string name="power_save_ps_close_setting">قم بإيقاف تشغيل خدمات الخلفية (المزامنة،GPS) لحفظ البطارية</string>
+    <string name="power_save_ps_freeze">تجميد التطبيقات في الخلفية</string>
+    <string name="power_save_ps_limit">تقييد نشاط تطبيقات النظام</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="private_dns_mode_off">متوقف</string>
     <string name="private_dns_mode_opportunistic">تلقائي</string>
     <string name="private_dns_mode_provider">اسم المضيف لموفر DNS الخاص</string>
     <string name="private_dns_mode_provider_failure">تعذر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">أدخل اسم المضيف لموفر DNS</string>
+    <string name="process_kernel_label">‏نظام تشغيل الأندرويد</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
@@ -1802,7 +1839,7 @@ d MMM"</string>
 يمكن لأي مستخدم تحديث التطبيقات لجميع المستخدمين الآخرين."</string>
     <string name="user_add_user_title">إضافة مستخدم جديد؟</string>
     <string name="user_guest">ضيف</string>
-    <string name="user_guide_for_notification">إسحب لأسفل لفتح مركز الاشعارات</string>
+    <string name="user_guide_for_notification">إسحب لأسفل لفتح مركز الإشعارات</string>
     <string name="user_guide_for_toggle">يمكن تمرير قائمة مفاتيح التبديل بشكل أفقي</string>
     <string name="user_guide_for_toggle_list">إدارة مفاتيح التبديل</string>
     <string name="user_logout_notification_action">تسجيل خروج المستخدم</string>
@@ -1864,6 +1901,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">سداسي عشري</string>
     <string name="wapi_yes">نعم</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطة الوصول ممتلئة مؤقتًا</string>
     <string name="wifi_auto_sel_wapi_cert">التحديد تلقائياً</string>
@@ -1897,12 +1935,14 @@ d MMM"</string>
     <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_owe">OWE</string>
     <string name="wifi_security_passpoint">Passpoint</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_sae">SAE</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_sae">SAE</string>
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>

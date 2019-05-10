@@ -92,6 +92,8 @@
     <string name="content_description_complete">اكتمل</string>
     <string name="language_picker_other_languages_title">المزيد من اللغات</string>
     <string name="language_settings">اختر اللغة</string>
+    <string name="font_hint_normal">زيادة حجم النص</string>
+    <string name="font_hint_large">حجم النص الافتراضي</string>
     <string name="navigation_picker_radio_text_full_screen">إيماءات ملء الشاشة</string>
     <string name="navigation_picker_radio_text_virtual_key">الأزرار</string>
     <string name="congratulation_swipe">مرّر لأعلى لدخول إلى النظام</string>
@@ -119,4 +121,8 @@
     <string name="ai_button_double_press_desc">اضغط مرتين على زر AI لإكمال المهام المخصصة</string>
     <string name="zone_picker_title">اختر المنطقة الزمنية</string>
     <string name="locale_picker_other_locale_title">المزيد من المناطق</string>
+    <string name="skip_gesture_guide_dialog_title">إيماءات ملء الشاشة</string>
+    <string name="skip_gesture_guide_dialog_message">تأكد من معرفة كيفية استخدام إيماءات ملء الشاشة قبل اختيار هذا الخيار.</string>
+    <string name="skip_gesture_guide_dialog_negative_btn">إلغاء</string>
+    <string name="skip_gesture_guide_dialog_positive_btn">موافق</string>
 </resources>

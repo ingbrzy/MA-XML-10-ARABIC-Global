@@ -29,7 +29,7 @@
     <string name="already_updated">محدث</string>
     <string name="app_label">الرسائل</string>
     <string name="app_name">أجهزة</string>
-    <string name="application_list_title">تطبيق مصغر</string>
+    <string name="application_list_title">تطبيقات مصغرة</string>
     <string name="attach_group_chat">الدردشة الجماعية</string>
     <string name="attach_image">صور</string>
     <string name="attach_rcs_file">ملف</string>
@@ -173,6 +173,8 @@
     <string name="dialog_message_mx">تسمح لك رسالة Mi بإرسال رسائل مجانية لمستخدمي MIUI الآخرين. قد تحتاج إلى إرسال رسالة نصية قصيرة لإعادة تفعيل رسالة Mi. وقد تفرض عليك شركة الاتصالات رسوما على هذه الرسالة. يجب عليك الموافقة على \"%1$s\" و \"%2$s\" قبل استخدام رسالة Mi.</string>
     <string name="dialog_message_networking">يحتاج تطبيق الرسائل إلى استخدام الصفحات الصفراء ليتمكن من تقديم معرف هوية المرسل. وتحتاج الرسائل والصفحات الصفراء إلى الاتصال بالإنترنت والوصول إلى موقعك للعمل بشكل طبيعي. السماح؟</string>
     <string name="dialog_message_rcs">تسمح لك رسائل China Mobile بإرسال رسائل مجانية إلى مستخدمي China Mobile الآخرين في البر الرئيسي للصين. يجب عليك أولاً الموافقة على \"%1$s\" قبل استخدام رسائل China Mobile.</string>
+    <string name="dialog_sim_locked_confirm">OK</string>
+    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
     <string name="dialog_title_fake_cell_detect_error">تصحيح</string>
     <string name="dialog_title_mx_rcs">رسالة Mi</string>
     <string name="dialog_title_networking">الأحكام والشروط</string>
@@ -193,7 +195,7 @@
     <string name="duration_sec">المدة(%s ثواني)</string>
     <string name="duration_selector_title">" مدة الشريحة"</string>
     <string name="duration_zero">يجب أن تكون المدة أكبر من ٠ ثانية</string>
-    <string name="earlier">في وقت سابق</string>
+    <string name="earlier">أقدم</string>
     <string name="edit">تعديل</string>
     <string name="edit_phrase">تعديل الردور السريعة</string>
     <string name="edit_slide_activity">تعديل الشريحة</string>
@@ -229,6 +231,7 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_message_select_title">إعادة توجيه الرسالة</string>
@@ -267,7 +270,7 @@
     <string name="hybrid_pull_to_refresh_release_label">حرر للتحديث…</string>
     <string name="hybrid_service_unavailiable">الخدمة غير متاحة</string>
     <string name="hybrid_try_again">حاول مجددا</string>
-    <string name="i_know">حسنا</string>
+    <string name="i_know">فهمت</string>
     <string name="imageview_ad">اعلان</string>
     <string name="importing_progress_private_message">جارٍ التوريد…</string>
     <string name="in_sms">رسالة</string>
@@ -539,8 +542,8 @@
     <string name="prvate_contact">جهات اتصال خاصة</string>
     <string name="quick_reply">رد</string>
     <string name="rate_limit_surpassed">موافق</string>
-    <string name="rcs_auto_resend_as_sms_remind_change">تغيير</string>
-    <string name="rcs_auto_resend_as_sms_remind_desp">عندما تكون إشارة الشبكة ضعيفة، يمكنك تحويل جزء من نص الرسالة (ما يصل إلى ٩٠٠ بايت) وإرسالها كرسالة نصية قصيرة. انتقل إلى الإعدادات للتغيير.</string>
+    <string name="rcs_auto_resend_as_sms_remind_change">تغيير الأعدادات</string>
+    <string name="rcs_auto_resend_as_sms_remind_desp">يمكنك تحويل الرسائل التي يصل حجمها إلى ٩٠٠ بايت وإرسالها كرسائل نصية قصيرة عندما تكون إشارة الشبكة ضعيفة. انقر فوق \"تغيير الإعدادات\" إذا كنت لا ترغب في تحويل رسائلك إلى رسائل نصية قصيرة.</string>
     <string name="rcs_auto_resend_as_sms_remind_title">التحويل إلى رسالة SMS</string>
     <string name="rcs_auto_resend_mms">التحويل إلى رسالة وسائط</string>
     <string name="rcs_auto_resend_sms">التحويل إلى رسالة SMS</string>
@@ -657,6 +660,7 @@
     <string name="security_alert_dialog_title">إبلاغ</string>
     <string name="select_audio">اختيار ملف صوتي</string>
     <string name="select_bottom_text">النص في الأسفل</string>
+    <string name="select_copy_text">حدد نص لنسخ</string>
     <string name="select_different_attachment">اختر مرفق مختلف.</string>
     <string name="select_different_audio">اختر صوت مختلف.</string>
     <string name="select_different_picture">اختر صورة مختلفة.</string>
@@ -682,6 +686,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مُرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
