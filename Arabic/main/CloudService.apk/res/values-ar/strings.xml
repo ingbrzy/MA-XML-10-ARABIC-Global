@@ -35,6 +35,8 @@
     <string name="mx_sub_dspt_provision_with_voip">مكالمات الإنترنت</string>
     <string name="phone_number_required_dspt_provision">"تتطلب هذه الخدمة رقم الهاتف. "</string>
     <string name="sync_dspt_provision">"مزامنة الصور, جهات الاتصال, الملاحظات والمزيد على جميع أجهزتك أو الوصول إليها على "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.
 "</string>
     <string name="sync_dspt_entrance_provision">"قم بمزامنة الصور، وجهات الاتصال، وسجل المكالمات، والرسائل في جميع أجهزتك. والوصول إلى العناصر التي قمت بمزامنتها من إي متصفح عبر %s. "</string>
@@ -45,6 +47,8 @@
     <string name="sync_dspt_entrance_provision_skip">تخطي هذه الخطوة</string>
     <string name="sync_dspt_entrance_provision_network">يحتاج هذا التطبيق للاتصال بالإنترنت للعمل بشكل طبيعي. قد تتطلب مزامنة البيانات الاتصال بشبكة البيانات وفتح WiFi.</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الذهاب إلى %s لتحديد موقعه أو قفله أو استعادته. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_send_sms_alert">إذا قمت بتبديل بطاقات SIM، فسيتم إرسال رسالة SMS أخرى تلقائياً لتفعيل هذة الميزة.</string>
     <string name="mx_dspt_provision">"رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.
 
@@ -133,8 +137,8 @@
     <string name="sync_item_calllog_summary">مزامنة تسجيلات المكالمات التي تم إجراؤها واستقبالها على هذا الهاتف</string>
     <string name="micloud_main_network_error">يتعذر الاتصال بالشبكة</string>
     <string name="micloud_main_manual_sync">المزامنة يدوياً</string>
-    <string name="micloud_main_sync_mode_title">مزامنة توفير الطاقة</string>
-    <string name="micloud_main_sync_mode_summary">مزامنة الكائنات عند توصيل الشاحن والشاشة متوقفة</string>
+    <string name="micloud_main_sync_mode_title">المزامنة في الوقت الحقيقي</string>
+    <string name="micloud_main_sync_mode_summary">سيتم مزامنة العناصر المذكورة أعلاه في الوقت الحقيقي. قد يؤدي ذلك إلى زيادة استهلاك الطاقة.</string>
     <string name="micloud_main_wait_wlan">في إنتظار الـ Wi-Fi</string>
     <string name="micloud_main_wait_wlan_charge_sleep">اتصل بشبكة Wi-Fi، قم بإيقاف الشاشة وشحن الجهاز بالكامل لإستئناف المزامنة.</string>
     <string name="micloud_main_wait_wlan_charge">اتصل بشبكة Wi-Fi وقم بشحن الجهاز بالكامل لإستئناف المزامنة.</string>
@@ -243,6 +247,7 @@
     <string name="micloud_find_device_opened">العثور على الجهاز يعمل</string>
     <string name="micloud_find_device_open_fail">تعذر تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_fail">تعذر إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_close_fail">تعذر إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_finish">تم</string>
@@ -264,7 +269,7 @@
     <string name="micloud_find_device_guide_alert_negtive_activate">لا شكراً</string>
     <string name="micloud_find_device_close_alert_title">إيقاف تشغيل العثور على الجهاز؟</string>
     <string name="micloud_find_device_close_alert_content">إذا قمت بإىقاف هذه الميزة، فلن تتمكن من تحديد موقع جهازك في حالة فقدانه.</string>
-    <string name="micloud_find_device_close_alert_positive">دعه يعمل</string>
+    <string name="micloud_find_device_close_alert_positive">تشغيل</string>
     <string name="micloud_find_device_close_alert_negtive">إيقاف التشغيل</string>
     <string name="find_device_gdpr_prompt">بتشغيلك \"العثور على الجهاز\"، فإنك توافق على سياسة الخصوصية لدينا. لإلغاء الترخيص، قم بإيقاف تشغيل هذه الميزة.</string>
     <string name="find_device_gdpr_prompt_policy_doc_name">سياسة الخصوصية</string>
@@ -301,6 +306,8 @@
     <string name="micloud_main_head_menu_state_close">متوقف</string>
     <string name="micloud_main_head_menu_state_unavailable">غير مدعوم</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">\"العثور على الجهاز\" غير متوفر في الواجهة الثانية، يمكنك استخدام هذه الميزة في الواجهة الاولى.</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">الدفع بإستخدام بصمة الأصبع</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
@@ -369,7 +376,7 @@
     <string name="micloud_sync_result_request_error">خطأ في طلب المزامنة</string>
     <string name="micloud_sync_result_sim_activated_error">خطأ تفعيل بطاقة SIM</string>
     <string name="micloud_sync_result_permission_error">خطأ متعلق بالأذونات</string>
-    <string name="micloud_sync_result_secure_space_limit">لا تزامن العناصر من الواجهة الثانية</string>
+    <string name="micloud_sync_result_secure_space_limit">لا تقم بمزامنة العناصر من الواجهة الثانية</string>
     <string name="micloud_sync_result_wifi_only">مزامنة عبر Wi-Fi فقط</string>
     <string name="micloud_sync_result_cloud_storage_full">مساحة MiCloud ممتلئة</string>
     <string name="micloud_sync_result_cta_permission_error">اتصل بالشبكة أولا</string>

@@ -160,6 +160,14 @@
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">يمكن أن تحتوي الصور المجمعة على 1-%d صور</item>
+        <item quantity="zero">يمكن أن تحتوي الصور المجمعة على 1-%d صور</item>
+        <item quantity="one">يمكن أن تحتوي الصور المجمعة على 1-%d صور</item>
+        <item quantity="two">يمكن أن تحتوي الصور المجمعة على 1-%d صورة</item>
+        <item quantity="few">يمكن أن تحتوي الصور المجمعة على 1-%d صورة</item>
+        <item quantity="many">يمكن أن تحتوي الصور المجمعة على 1-%d صور</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">حدد مايصل إلى %d صورة</item>
         <item quantity="zero">حدد مايصل إلى %d صورة</item>

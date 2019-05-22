@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
     <string name="add_screen">إضافة الشاشة</string>
@@ -367,7 +368,9 @@
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
     <string name="widgets_preview_title">إضافة تطبيق مصغر</string>
-    <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
-    <string name="privacy_thumbnail_blur_title">Blur app previews</string>
+    <string name="activity_not_unlocked">انتظر حتى يتم إعادة تشغيل جهازك بالكامل قبل فتح التطبيقات</string>
+    <string name="default_folder_title_meitu">Meitu</string>
+    <string name="privacy_thumbnail_blur_summary">تمويه معاينات التطبيق في شاشة المستخدم مؤخراً</string>
+    <string name="privacy_thumbnail_blur_title">طمس معاينات التطبيقات</string>
     <string name="system_shortcuts_more_operation">معلومات التطبيق</string>
 </resources>

@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"تقديم حجم النسخة: %1$s
 حجم تحديث دلتا: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="app_name">نسخة احتياطية</string>
     <string name="local_app_name">النسخ الاحتياطي</string>
@@ -226,6 +229,7 @@
     <string name="restore_backup">استرداد</string>
     <string name="enable_encrypt_description">مشفر</string>
     <string name="disable_encrypt_description">غير مشفر</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">لحظة من فضلك…</string>
     <string name="state_mounting">الوصول إلى تخزين جهاز التوجيه…</string>
     <string name="abort_backup_confirm">لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟</string>
@@ -565,6 +569,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 يجب عليك إنشاء نسخ iCloud احتياطي أولا."</string>
     <string name="list_footer_tip_title">نصائح:</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">استيراد</string>
     <string name="select_empty">قم بتحديد عناصر للاستيراد</string>
     <string name="select_item_summary_wait">جارٍ الانتظار…</string>
@@ -637,4 +642,11 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 قم بتفريغ مساحة أو إجراء عدة عمليات نقل أصغر."</string>
     <string name="usb_trans_old_phone_low_space_title">لا توجد مساحة تخزين كافية</string>
     <string name="usb_trans_old_phone_low_space_msg">تحتاج إلى المزيد من مساحة التخزين لحزم النُسخ الاحتياطية. لا توجد مساحة كافية لمتابعة النقل. يمكنك تفريغ مساحة وحذف الملفات الغير الضرورية أو نقل العناصر الأكثر أهمية فقط في تطبيق الحماية.</string>
+    <string name="dialog_app_upgrade_message">إصدار جديد متاح من ناقل Mi. تحديث ناقل Mi الآن؟</string>
+    <string name="dialog_app_upgrade_exit">خروج</string>
+    <string name="dialog_app_upgrade_download">تحديث</string>
+    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
+    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
+    <string name="dialog_backup_password_cancel">Cancel</string>
+    <string name="dialog_backup_password_to_settings">Settings</string>
 </resources>

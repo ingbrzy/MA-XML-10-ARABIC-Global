@@ -46,7 +46,7 @@
     <string name="passport_input_password_for_login">هذا الرقم مقترن بحساب موجود مسبقا، إدخال كلمة المرور</string>
     <string name="passport_registered_phone_user_ID">هوية المستخدم: %s</string>
     <string name="passport_registered_phone_user_name">اسم المستخدم: %s</string>
-    <string name="passport_password_req_notice">يجب على كلمة المرور أن تكون ٨-١٦ حرفا وتحتوي كل من الأرقام والحروف (تحسس حالة الأحرف).</string>
+    <string name="passport_password_req_notice">يجب على أن تكون كلمة المرور مابين ٨-١٦ حرفا وتحتوي على أرقام وحروف (تحسس حالة الأحرف).</string>
     <string name="passport_reset_password_prompt">كلمة المرور غير صحيحة</string>
     <string name="passport_reset_password_title">إعادة تعيين كلمة المرور</string>
     <string name="passport_auto_generate_pwd">توليد كلمة مرور آمنة</string>
@@ -377,7 +377,7 @@
     <string name="sim_card">بطاقة SIM</string>
     <string name="multi_user_not_show_sync_activity_title">لا تقم بتشغيل المزامنة مع Mi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">يبدو أنك تستخدم حساب Mi الخاص بالواجهة الاولى.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">في مثل هذه الحالة، سيتم مزامنة كل البيانات إلى الواجهة الثانية الخاص بك. لتجنب هذا، لا تقم بتشغيل المزامنة مع Mi Cloud.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">في مثل هذه الحالة، سيتم مزامنة كل البيانات إلى الواجهة الثانية. لتجنب هذا، لا تقم بتشغيل المزامنة مع Mi Cloud.</string>
     <string name="find_device_access_denied">لا يمكن الحصول على الحالة، غير مسموح بالدخول</string>
     <string name="find_device_account_error">لا يمكن الحصول على الحالة نظرا لخطأ في الحساب</string>
     <string name="find_device_null_credential_error">لا يمكن الحصول على معلومات الجهاز، تواصل مع خدمة Xiaomi للعملاء</string>

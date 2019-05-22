@@ -204,4 +204,6 @@
     <string name="popup_camera_calibrate_success">تم المعايرة بنجاح. يمكنك فتح الكاميرا الامامية الآن.</string>
     <string name="popup_camera_calibrate_failed">تعذرت المعايرة</string>
     <string name="popup_camera_using_camera_background">يستخدم %s الكاميرا الامامية</string>
+    <string name="sim_lock_non_ais_msg">بطاقة SIM الخاصة بك غير متوافقة تمامًا مع هذا الهاتف لأنها لا تفي بأحكام وشروط اشتراكك. إذا كانت لديك أي أسئلة أو كنت بحاجة إلى معلومات إضافية حول هذه المشكلة، فاتصل بمركز خدمة Xiaomi أو بالمتجر الذي اشتريت منه.</string>
+    <string name="sim_lock_now_ais_title">SIM%1$d</string>
 </resources>

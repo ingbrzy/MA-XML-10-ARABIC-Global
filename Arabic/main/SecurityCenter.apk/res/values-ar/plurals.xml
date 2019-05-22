@@ -268,6 +268,22 @@
         <item quantity="few">إضافة %d دقائق</item>
         <item quantity="many">إضافة %d دقيقة</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="zero">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
+        <item quantity="two">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="few">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="many">%2$d apps, including %1$s, are draining battery</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d apps are draining battery</item>
+        <item quantity="zero">%d apps are draining battery</item>
+        <item quantity="one">%d app is draining battery</item>
+        <item quantity="two">%d apps are draining battery</item>
+        <item quantity="few">%d apps are draining battery</item>
+        <item quantity="many">%d apps are draining battery</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">قام بتحميله %1$d شخص</item>
         <item quantity="zero">قام بتحميله %1$d شخص</item>
@@ -739,6 +755,14 @@
         <item quantity="two">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="few">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="many">تم تسجيل الدخول %d يوم متتالي</item>
+    </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d ميزة</item>
+        <item quantity="zero">%d ميزة</item>
+        <item quantity="one">%d ميزة</item>
+        <item quantity="two">%d ميزات</item>
+        <item quantity="few">%d ميزات</item>
+        <item quantity="many">%d ميزة</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d حرف</item>

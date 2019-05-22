@@ -104,7 +104,7 @@
     <string name="confirm">موافق</string>
     <string name="setSecondSpacePassword">تعيين كلمة مرور الواجهة الثانية</string>
     <string name="setSecondSpacePasswordGuide">تعيين كلمة مرور الواجهة الثانية</string>
-    <string name="setSecondSpacePasswordGuideDes">استخدم كلمة السر هذه للدخول للواجهة الثانية من شاشة القفل</string>
+    <string name="setSecondSpacePasswordGuideDes">استخدم كلمة المرور هذه للدخول للواجهة الثانية من شاشة القفل</string>
     <string name="setSuccess">تم تعيين كلمات السر بنجاح</string>
     <string name="tryNow">جرّب الآن</string>
     <string name="spaceSetting">الإعدادات</string>
@@ -190,7 +190,7 @@
     <string name="reset_password_dialog_title">لا يمكن إخفاء إختصار الواجهة الثانية</string>
     <string name="reset_password_dialog_message">أنت تستخدم أنواع كلمات مرور مختلفة للواجهة الاولى والواجهة الثانية. يجب أن تستخدم للواجهة الثانية نفس نوع كلمة مرور الواجهة الاولى للإختصار ليتم إخفاءه.</string>
     <string name="reset_password_dialog_positve_btn_title">تغيير</string>
-    <string name="entrance_reopen_toast_msg">لا يتم إخفاء اختصار الواجهة الثانية بسبب أنواع كلمات المرور المختلفة</string>
+    <string name="entrance_reopen_toast_msg">لا يتم إخفاء اختصار الواجهة الثانية بسبب كلمات المرور المختلفة</string>
     <string name="settings_cross_notification_title">الإشعارات</string>
     <string name="settings_cross_notification_summary">استلام إشعارات من فضاء آخر</string>
     <string name="settings_switch_shortcut_summary">عرض اختصار الشاشة الرئيسية في الواجهة الاولى</string>
@@ -203,8 +203,8 @@
     <string name="settings_msg_remove_shortcut_from_second_space">تمت إزالة الاختصار من الواجهة الثانية</string>
     <string name="start_setting_guide_desc_title">هناك بعض الأشياء للإعداد</string>
     <string name="setting_is_show_text_contacts">إعداد جهات اتصال خاصة و رسائل</string>
-    <string name="switch_data_app">نقل عناصر إلى الواجهة الثانية</string>
-    <string name="guide_pwd_detail_title">"حماية بياناتك
+    <string name="switch_data_app">نقل العناصر إلى الواجهة الثانية</string>
+    <string name="guide_pwd_detail_title">"احمي بياناتك
 ادخل الواجهة الثانية من شاشة القفل"</string>
     <string name="temporary_no_set">ليس الآن</string>
     <string name="set_space_pwd_suc">تم إضافة كلمة مرور الواجهة الثانية</string>
@@ -370,7 +370,7 @@
     <string name="remove_user_click_message">* إذا لم يكن لديك أي عناصر مهمة في الواجهة الثانية، %s</string>
     <string name="remove_user_click_message_action">يمكنك حذف الواجهة الثانية وإعادة تشغيل الجهاز الآن.</string>
     <string name="sdcradfs_dialog_in_owner_title">الواجهة الثانية</string>
-    <string name="sdcradfs_dialog_in_owner_message">"يتضمن هذا التحديث ملف نظام جديد وقد تكون البيانات القديمة غير متوافقة معه. للتحديث، قم بنقل العناصر من الواجهة الثانية، إعد تشغيل الجهاز ومن ثم إنشىء الواجهة الثانية مرة أخرى.
+    <string name="sdcradfs_dialog_in_owner_message">"يتضمن هذا التحديث ملف نظام جديد وقد تكون البيانات القديمة غير متوافقة معه. للتحديث، قم بنقل العناصر من الواجهة الثانية، ثم إعد تشغيل الجهاز ومن ثم إنشىء الواجهة الثانية مرة أخرى.
 إذا لم تقم بالتحديث، قد لا تعمل التطبيقات المزدوجة بشكل صحيح."</string>
     <string name="sdcradfs_dialog_in_sec_title">تحديث مهم</string>
     <string name="sdcradfs_dialog_in_sec_message">"للتحديث، يجب عليك حذف الواجهة الثانية وإنشاءها مرة أخرى. قم بنقل البيانات من الواجهة الثانية إلى الواجهة الأولى ومن ثم إعد تشغيل الجهاز لإكمال التحديث.

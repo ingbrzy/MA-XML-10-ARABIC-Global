@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="accessibility_battery_level">البطارية %d في المئة.</string>
+    <string name="accessibility_battery_level_charging">يتم شحن البطارية، %d في المئة.</string>
+    <string name="aod_close_color_inversion">لا يمكن دمج هذه الميزة مع عكس الألوان. قم بإيقاف تشغيل عكس الألوان أولاً.</string>
+    <string name="aod_lock_screen_date">EE، d MMMM</string>
+    <string name="aod_lock_screen_date_12">EE، d MMMM</string>
+    <string name="aod_mode_style">شكل الساعة والخلفية</string>
+    <string name="aod_mode_summary">هذه الميزة تزيد من استهلاك الطاقة للنظام. سيتم تعطيلها عندما يكون جهازك في الظلام لفترة طويلة أو عند فرض قيود على موفر البطارية.</string>
+    <string name="aod_mode_time_summary">جدولة الوقت لتشغيل/إيقاف وضع \"شاشة العرض قيد التشغيل دائماً\"</string>
+    <string name="aod_mode_time_title">الجدول</string>
+    <string name="aod_mode_title">وضع \"الشاشة نشطة دائمًا\"</string>
+    <string name="aod_to_close">إيقاف التشغيل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="paper_mode_end_time_title">إيقاف التشغيل</string>
+    <string name="paper_mode_start_time_title">تشغيل</string>
+</resources>

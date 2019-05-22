@@ -135,6 +135,7 @@
     <string name="date_interval_text_to">إلى %1$s</string>
     <string name="date_jump_hint">الانتقال إلى يوم محدد</string>
     <string name="date_jump_title">الانتقال إلى تاريخ</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_mode">التذكيرات</string>
