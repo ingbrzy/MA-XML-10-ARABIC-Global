@@ -50,6 +50,8 @@
     <string name="self_device_second_space">الواجهة الثانية لهذا الهاتف</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="size_unknown">حجم غير معروف</string>
     <string name="recovering">استعادة \"%s\"</string>
@@ -100,7 +102,7 @@
     <string name="restore_task_cancelling">جارٍ الإلغاء…</string>
     <string name="remove_task_in_process">جارٍ الإزالة…</string>
     <string name="remove_task_unfinished">لم تنتهي الإزالة</string>
-    <string name="back_up_task_unfinished">لم ينتهي النسخ الاحتياطي</string>
+    <string name="back_up_task_unfinished">تعذر النسخ الإحتياطي</string>
     <string name="about_to_recover">لحظة من فضلك…</string>
     <string name="success_open_cloudbackup">تفعيل النسخ الاحتياطي لتطبيقات الشاشة الرئيسية</string>
     <string name="as_new_device">إستبدال الشاشة الرئيسية السابقة والإعدادات</string>
@@ -134,6 +136,7 @@
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
     <string name="loading_user_backup">جارٍ تحميل النسخ الاحتياطية…</string>
+    <string name="loading_progress_num">(%s%%)</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">جارٍ حساب الحجم…</string>
     <string name="authentication_failed">تعذر التحقق من الحساب.</string>
@@ -215,4 +218,10 @@
     <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>
     <string name="selected">محدد</string>
     <string name="unselected">غير محدد</string>
+    <string name="backup_failed_reason_network_error">خطا فى الشبكة. يرجى الانتظار لمدة دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="backup_failed_reason_disk_space_not_enough">لا توجد مساحة تخزين كافية. قم بتفريغ مساحة أولاً.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">لا توجد مساحة كافية في Mi Cloud. قم بترقية خطتك أو فرغ مساحة.</string>
+    <string name="restore_task_unfinished">تعذر الاسترداد</string>
+    <string name="restore_failed_reason_network_error">خطا فى الشبكة. يرجى الانتظار لمدة دقيقة أو دقيقتين ثم حاول مجددا.</string>
+    <string name="restore_failed_reason_disk_space_not_enough">لا توجد مساحة تخزين كافية. قم بتفريغ مساحة أولاً.</string>
 </resources>

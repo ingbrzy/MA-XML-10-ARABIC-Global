@@ -144,6 +144,30 @@
         <item quantity="few">%1$d صور وفيديوهات</item>
         <item quantity="many">%1$d صورة وفيديو</item>
     </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صور</item>
+        <item quantity="one">%d صور</item>
+        <item quantity="two">%d صورة</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورة</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">حفظ %d صورة محددة وحذف الباقي؟</item>
+        <item quantity="zero">حفظ %d صورة محددة وحذف الباقي؟</item>
+        <item quantity="one">حفظ %d صورة محددة وحذف الباقي؟</item>
+        <item quantity="two">حفظ %d صور محددة وحذف الباقي؟</item>
+        <item quantity="few">حفظ %d صور محددة وحذف الباقي؟</item>
+        <item quantity="many">حفظ %d صورة محددة وحذف الباقي؟</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">حفظ %d صورة محددة</item>
+        <item quantity="zero">حفظ %d صورة محددة</item>
+        <item quantity="one">حفظ %d صورة محددة</item>
+        <item quantity="two">حفظ %d صور محددة</item>
+        <item quantity="few">حفظ %d صور محددة</item>
+        <item quantity="many">حفظ %d صورة محددة</item>
+    </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d صورة</item>
         <item quantity="zero">%d صور</item>
@@ -184,13 +208,37 @@
         <item quantity="few">%d عناصر مُحددة</item>
         <item quantity="many">%d عنصر مُحدد</item>
     </plurals>
+    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">حذف %d لقطة متتالية من Mi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية من Mi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="one">حذف %d لقطة متتالية من Mi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="two">حذف %d لقطات متتالية من Mi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="few">حذف %d لقطات متتالية من Mi Cloud والأجهزة المتزامنة؟</item>
+        <item quantity="many">حذف %d لقطة متتالية من Mi Cloud والأجهزة المتزامنة؟</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">حذف %d لقطة متتالية؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية؟</item>
+        <item quantity="one">حذف %d لقطة متتالية؟</item>
+        <item quantity="two">حذف %d لقطات متتالية؟</item>
+        <item quantity="few">حذف %d لقطات متتالية؟</item>
+        <item quantity="many">حذف %d لقطة متتالية؟</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">حذف %d لقطة متتالية من Mi Cloud وهذا الجهاز؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية من Mi Cloud وهذا الجهاز؟</item>
+        <item quantity="one">حذف %d لقطة متتالية من Mi Cloud وهذا الجهاز؟</item>
+        <item quantity="two">حذف %d لقطات متتالية من Mi Cloud وهذا الجهاز؟</item>
+        <item quantity="few">حذف %d لقطات متتالية من Mi Cloud وهذا الجهاز؟</item>
+        <item quantity="many">حذف %d لقطة متتالية من Mi Cloud وهذا الجهاز؟</item>
+    </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">حذف %d عنصر من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="zero">حذف %d عناصر من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="one">حذف %d عنصر من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="two">حذف %d عناصر من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="few">حذف %d عناصر من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="many">حذف %d عنصر من جميع الأجهزة و Mi Cloud؟</item>
+        <item quantity="other">حذف %d عنصر من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="zero">حذف %d عنصر من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="one">حذف %d عنصر من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="two">حذف %d عناصر من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="few">حذف %d عناصر من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="many">حذف %d عنصر من جميع الأجهزة ومن Mi Cloud؟</item>
     </plurals>
     <plurals name="delete_media_from_local">
         <item quantity="other">حذف %d عنصر؟</item>
@@ -201,12 +249,12 @@
         <item quantity="many">حذف %d عنصر؟</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">حذف %d عنصر من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="zero">حذف %d عناصر من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="one">حذف %d عنصر من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="two">حذف %d عناصر من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="few">حذف %d عناصر من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="many">حذف %d عنصر من هذا الألبوم و Mi Cloud؟</item>
+        <item quantity="other">حذف %d عنصر من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="zero">حذف %d عنصر من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="one">حذف %d عنصر من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="two">حذف %d عناصر من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="few">حذف %d عناصر من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="many">حذف %d عنصر من هذا الألبوم ومن Mi Cloud؟</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">حذف %d صورة من جميع الأجهزة ومن Mi Cloud؟</item>
@@ -225,20 +273,28 @@
         <item quantity="many">حذف %d صورة؟</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">حذف %d صورة من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="zero">حذف %d صور من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="one">حذف هذه الصورة من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="two">حذف %d صور من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="few">حذف %d صور من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="many">حذف %d صورة من هذا الألبوم و Mi Cloud؟</item>
+        <item quantity="other">حذف %d صورة من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="zero">حذف %d صورة من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="one">حذف هذه الصورة من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="two">حذف %d صور من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="few">حذف %d صور من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="many">حذف %d صورة من هذا الألبوم ومن Mi Cloud؟</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">حذف %d لقطة متتالية من الجهاز؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية من الجهاز؟</item>
+        <item quantity="one">حذف %d لقطة متتالية من الجهاز؟</item>
+        <item quantity="two">حذف %d لقطات متتالية من الجهاز؟</item>
+        <item quantity="few">حذف %d لقطات متتالية من الجهاز؟</item>
+        <item quantity="many">حذف %d لقطة متتالية من الجهاز؟</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">حذف %d فيديو من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="zero">حذف %d فيديوهات من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="one">حذف هذا الفيديو من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="two">حذف %d فيديوهات من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="few">حذف %d فيديوهات من جميع الأجهزة و Mi Cloud؟</item>
-        <item quantity="many">حذف %d فيديو من جميع الأجهزة و Mi Cloud؟</item>
+        <item quantity="other">حذف %d فيديو من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="zero">حذف %d فيديوهات من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="one">حذف هذا الفيديو من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="two">حذف %d فيديوهات من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="few">حذف %d فيديوهات من جميع الأجهزة ومن Mi Cloud؟</item>
+        <item quantity="many">حذف %d فيديو من جميع الأجهزة ومن Mi Cloud؟</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">حذف %d فيديو؟</item>
@@ -249,12 +305,12 @@
         <item quantity="many">حذف %d فيديو؟</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">حذف %d فيديو من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="zero">حذف %d فيديوهات من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="one">حذف هذا الفيديو من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="two">حذف %d فيديوهات من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="few">حذف %d فيديوهات من هذا الألبوم و Mi Cloud؟</item>
-        <item quantity="many">حذف %d فيديو من هذا الألبوم و Mi Cloud؟</item>
+        <item quantity="other">حذف %d فيديو من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="zero">حذف %d فيديوهات من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="one">حذف هذا الفيديو من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="two">حذف %d فيديوهات من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="few">حذف %d فيديوهات من هذا الألبوم ومن Mi Cloud؟</item>
+        <item quantity="many">حذف %d فيديو من هذا الألبوم ومن Mi Cloud؟</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">تعذر تنزيل %1$d ملف</item>

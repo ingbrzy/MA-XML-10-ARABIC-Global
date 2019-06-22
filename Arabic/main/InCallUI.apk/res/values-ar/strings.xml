@@ -41,7 +41,7 @@
     <string name="onscreen_audio_mode_conference">جماعية</string>
     <string name="onscreen_audio_mode_handset">سماعة الأذن</string>
     <string name="onscreen_audio_mode_headset">سماعة الرأس</string>
-    <string name="onscreen_audio_mode_speaker">مكبر الصوت</string>
+    <string name="onscreen_audio_mode_speaker">سماعة</string>
     <string name="onscreen_call_record">تسجيل</string>
     <string name="sip_call_not_support_record">لا يمكن تسجيل مكالمات SIP</string>
     <string name="onscreen_hold_text">تعليق</string>
@@ -128,9 +128,14 @@
     <string name="msim_select_default_time_left">(%d ثانية)</string>
     <string name="select_sim_hint">لا يمكن استخدام بطاقة SIM %2$d، عندما تكون بطاقة SIM %1$d e قيد الاستخدام.</string>
     <string name="select_one_sim_title">يمكن استخدام بطاقة SIM %1$d فقط</string>
+    <string name="select_sim_hint_for_heduohao">لا يمكن استخدام بطاقة أخرى عندما تكون %1$d قيد الاستخدام بدلا من %2$d.</string>
+    <string name="select_one_sim_title_for_heduohao">يمكن فقط استخدام بطاقة SIM %1$d بدلا من %2$d</string>
     <string name="can_not_use">لا يمكن الاستخدام</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
+    <string name="sim1_heduohao_card">Sub1</string>
+    <string name="sim2_heduohao_card">Sub2</string>
+    <string name="sim3_heduohao_card">Sub3</string>
     <string name="call_description_recording">يتم التسجيل…</string>
     <string name="call_recording_error_privacy">لا يمكن التسجيل أثناء تشغيل وضع الضيف</string>
     <string name="call_recording_error_sd_access">لا يمكن دخول بطاقة SD</string>

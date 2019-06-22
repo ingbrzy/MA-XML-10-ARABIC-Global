@@ -1,8 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="search_menu_title">البحث</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_enable_button">تفعيل</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
+    <string name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
+    <string name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">أعجبك</string>
+    <string name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string name="com_facebook_loading">جارٍ التحميل…</string>
+    <string name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string name="com_facebook_send_button_text">إرسال</string>
+    <string name="com_facebook_share_button_text">مشاركة</string>
+    <string name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
     <string name="passport_account_label">حساب Mi</string>
     <string name="passport_notification_title">خطأ في تسجيل الدخول إلى %1$s</string>
-    <string name="passport_login_prompt">حساب Mi واحد لجميع خدمات Mi.</string>
+    <string name="passport_login_prompt">جميع خدمات Mi في حساب واحد</string>
     <string name="passport_login_using_other_ways">طرق أخرى لتسجيل الدخول</string>
     <string name="passport_register_using_other_ways">طرق أخرى لإنشاء الحساب</string>
     <string name="passport_login_title">تسجيل الدخول لحساب Mi</string>
@@ -185,7 +247,7 @@
     <string name="passport_select_the_login_account">تحديد الحساب الذي تريج تسجيل الدخول به</string>
     <string name="passport_select_the_register_phone">تحديد رقم الهاتف الذي تريد إنشاء حساب به</string>
     <string name="passport_select_the_recycle_phone_login">قم بتحديد حسابك</string>
-    <string name="passport_recycle_login_other_account">انهم ليسوا لي. سوف استخدم واحدة مختلفة.</string>
+    <string name="passport_recycle_login_other_account">ليست لي. ساستخدم حساب مختلف.</string>
     <string name="passport_registered_phone_num">الهاتف: %s</string>
     <string name="passport_quick_login">تسجيل الدخول</string>
     <string name="passport_error_verify_activator_phone_title">تعذر التحقق من رقم الهاتف</string>
@@ -220,6 +282,10 @@
     <string name="passport_license_info_open">التفاصيل</string>
     <string name="passport_license_info_collapse">تقليص</string>
     <string name="passport_first_login_prompt">سيتم إنشاء حساب Mi تلقائيا عند تسجيل الدخول للمرة الأولى.</string>
+    <string name="passport_wx_bind_account_limit">لا يمكن إنشاء حساب الآن. جرب طرق أخرى لتسجيل الدخول.</string>
+    <string name="facebook_app_id">2263965750590514</string>
+    <string name="fb_login_protocol_scheme">fb2263965750590514</string>
+    <string name="server_client_id">29336734752-hkhmuft60qa4qn1ual7etmp6pfo0ib54.apps.googleusercontent.com</string>
     <string name="search_app_name">حساب Mi</string>
     <string name="search_mi_account">حساب Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud،إعداد الحساب،معلومات دفع Mi،تسجيل الخروج</string>
@@ -243,7 +309,6 @@
     <string name="removing_account">جارٍ تسجيل الخروج…</string>
     <string name="delete_bank_card_title">تنبيه</string>
     <string name="delete_bank_card_message">سيتم حذف بطاقة بنك دفع Mi وبطاقة NFC بعد تسجيل الخروج.</string>
-    <string name="bind_settings">الحسابات</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">ربط حساب Sina Weibo</string>
     <string name="bind_weibo_description">أضف أصدقائك من Sina Weibo</string>
@@ -258,7 +323,7 @@
     <string name="button_unbind">قطع الاتصال</string>
     <string name="unbind_sns_description">بعد إلغاء ربط هذا الحساب، لن تتمكن من استخدام معلومات حسابك على %s لتسجيل الدخول لحساب Mi.</string>
     <string name="confirm_unbind">إلغاء ربط هذا الحساب؟</string>
-    <string name="binded_description" formatted="false">تم ربط ال%s بحساب Mi الخاص بك. تم تحديث بيانات ملفك الشخصي من معلومات حسابك على %s.</string>
+    <string name="binded_description" formatted="false">تم ربط %s بحساب Mi الخاص بك. وتم تحديث بيانات ملفك الشخصي من معلومات حسابك على %s.</string>
     <string name="access_token_expired_warning">انتهت صلاحية حساب Weibo</string>
     <string name="access_token_invalid_warning">حساب Weibo غير صالح</string>
     <string name="service_error">خطأ في الخدمة</string>
@@ -394,10 +459,10 @@
     <string name="find_device_remote_exception">خطأ RPC</string>
     <string name="io_error_title">تأكيد الشبكة</string>
     <string name="login_check_find_device_failed_title">تعذر التحقق من معلومات حماية الجهاز</string>
-    <string name="notify_network_restricted_title">تعذّر على حساب Mi الاتصال بالشبكة</string>
+    <string name="notify_network_restricted_title">لا يمكن لحساب Mi الاتصال بالشبكة</string>
     <string name="notify_network_restricted_content_hidden_state">تم تقييد نشاط خلفية حساب Mi. انقر للسماح.</string>
-    <string name="notify_network_restricted_content_bg_network">تم تقييد الدخول للإنترنت لحساب Mi. انقر للسماح.</string>
-    <string name="notify_network_restricted_content_mobile_network">تم تقييد الدخول للإنترنت لحساب Mi. انقر للسماح.</string>
+    <string name="notify_network_restricted_content_bg_network">تم تقييد وصول حساب Mi للإنترنت. انقر للسماح.</string>
+    <string name="notify_network_restricted_content_mobile_network">تم تقييد وصول حساب Mi للإنترنت. انقر للسماح.</string>
     <string name="sms_send_success">تم الارسال</string>
     <string name="auth_fail_warning">انتهت الدورة، قم بتسجيل الدخول لاحقاً</string>
     <string name="find_device_message">الجهاز مقفل. رسالة: %1$s. الاتصال على %2$s.</string>
@@ -409,15 +474,15 @@
  ١. إذا نسيت كلمة المرور، فانتقل إلى id.mi.com لإعادة تعيينها.
 ٢. إن لم تتمكن من إعادة تعيين كلمة المرور أو قام شخص ما بقفل جهازك، فانتقل إلى i.mi.com لإيقاف ذلك;.
 ٣. رقم إلغاء القفل الخاص بك: %s"</string>
-    <string name="login_find_device_bind">هذا الجهاز مرتبط بمعرف حساب Mi موجود مسبقا (%s).</string>
+    <string name="login_find_device_bind">هذا الجهاز مرتبط بمعرف حساب Mi مسبق (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s، رقم الهاتف المرتبط به: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s، البريد الإلكتروني المرتبط به: %s</string>
-    <string name="oauth_title">تسجيل الدخول مع حساب Mi</string>
+    <string name="oauth_title">تسجيل الدخول بحساب Mi</string>
     <string name="oauth_getting_scopes">التحقق من الحساب…</string>
     <string name="oauth_get_scopes_failed">تعذر الحصول على معلومات الحساب</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> سيحصل على الأذونات التالية:&lt;br> &lt;br> %3$s</string>
     <string name="guest_account_label">Mi حساب الضيف</string>
-    <string name="push_notification_title">قمت بتسجيل الدخول إلى حساب Mi الخاص بك بإستخدام جهاز غير معروف</string>
+    <string name="push_notification_title">قمت بتسجيل الدخول إلى حساب Mi بإستخدام جهاز غير معروف</string>
     <string name="push_notification_content">احصل على رمز التحقق</string>
     <string name="push_notify_dialog_title">التحقق من الحساب</string>
     <string name="push_notify_dialog_message">لقد تم استخدم جهاز غير معروف لتسجيل الدخول إلى حساب Mi الخاص بك. أدخل رمز التحقق هذا على الجهاز. إن لم تكن أنت، قم بتغيير كلمة مرور حساب Mi على الفور. لا تكشف عن رمز التحقق لأشخاص آخرين.</string>
@@ -443,7 +508,7 @@
     <string name="account_token_expired_title">تعذرت المصادقة</string>
     <string name="account_token_expired_msg">"إنتهت صلاحية رمز التحقق، ابدأ من جديد أو قم بتسجيل الخروج من
 معرف حساب الخاص بك: %s"</string>
-    <string name="bind_safe_phone_msg">إضف رقم هاتفك لتتمكن من تسجيل الدخول إلى حساب Mi الخاص بك في المرة القادمة.</string>
+    <string name="bind_safe_phone_msg">إضف رقم هاتفك لتتمكن من تسجيل الدخول إلى حساب Mi في المرة القادمة.</string>
     <string name="account_notification_message">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
     <string name="sim_changed_notification_title">هل غيرت رقم هاتفك؟</string>
     <string name="sim_changed_notification_msg">انقر لتحديث رقم الاسترداد.</string>

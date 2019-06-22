@@ -72,6 +72,38 @@
         <item quantity="few">"&lt;font color='#20a7ff'>%1$s&lt;/font> أشخاص قاموا بالتصويت"</item>
         <item quantity="many">"&lt;font color='#20a7ff'>%1$s&lt;/font> شخص قام بالتصويت"</item>
     </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">درجه الحرارة العظمى: %1$s درجة مئوية</item>
+        <item quantity="zero">درجه الحرارة العظمى: %1$s درجة مئوية</item>
+        <item quantity="one">درجه الحرارة العظمى: %1$s درجة مئوية</item>
+        <item quantity="two">درجه الحرارة العظمى: %1$s درجة مئوية</item>
+        <item quantity="few">درجه الحرارة العظمى: %1$s درجة مئوية</item>
+        <item quantity="many">درجه الحرارة العظمى: %1$s درجة مئوية</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">درجه الحرارة العظمى: %1$s فهرنهايت</item>
+        <item quantity="zero">درجه الحرارة العظمى: %1$s فهرنهايت</item>
+        <item quantity="one">درجه الحرارة العظمى: %1$s فهرنهايت</item>
+        <item quantity="two">درجه الحرارة العظمى: %1$s فهرنهايت</item>
+        <item quantity="few">درجه الحرارة العظمى: %1$s فهرنهايت</item>
+        <item quantity="many">درجه الحرارة العظمى: %1$s فهرنهايت</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">درجه الحرارة الصغرى: %1$s درجة مئوية</item>
+        <item quantity="zero">درجه الحرارة الصغرى: %1$s درجة مئوية</item>
+        <item quantity="one">درجه الحرارة الصغرى: %1$s درجة مئوية</item>
+        <item quantity="two">درجه الحرارة الصغرى: %1$s درجة مئوية</item>
+        <item quantity="few">درجه الحرارة الصغرى: %1$s درجة مئوية</item>
+        <item quantity="many">درجه الحرارة الصغرى: %1$s درجة مئوية</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">درجه الحرارة الصغرى: %1$s فهرنهايت</item>
+        <item quantity="zero">درجه الحرارة الصغرى: %1$s فهرنهايت</item>
+        <item quantity="one">درجه الحرارة الصغرى: %1$s فهرنهايت</item>
+        <item quantity="two">درجه الحرارة الصغرى: %1$s فهرنهايت</item>
+        <item quantity="few">درجه الحرارة الصغرى: %1$s فهرنهايت</item>
+        <item quantity="many">درجه الحرارة الصغرى: %1$s فهرنهايت</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">صافٍ</item>
         <item quantity="zero">صافٍ</item>

@@ -72,4 +72,12 @@
         <item quantity="few">عرض %d تعليقات</item>
         <item quantity="many">عرض %d تعليق</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> مشترك</item>
+        <item quantity="zero"> مشترك</item>
+        <item quantity="one"> مشترك</item>
+        <item quantity="two"> مشتركين</item>
+        <item quantity="few"> مشتركين</item>
+        <item quantity="many"> مشترك</item>
+    </plurals>
 </resources>

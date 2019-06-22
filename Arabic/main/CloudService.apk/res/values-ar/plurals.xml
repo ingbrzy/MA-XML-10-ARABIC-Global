@@ -104,6 +104,14 @@
         <item quantity="few">%d عناصر لمنصة التطبيقات</item>
         <item quantity="many">%d عنصر لمنصة التطبيقات</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d عبارة متكررة</item>
+        <item quantity="zero">%d عبارة متكررة</item>
+        <item quantity="one">%d عبارة متكررة</item>
+        <item quantity="two">%d عبارات متكررة</item>
+        <item quantity="few">%d عبارات متكررة</item>
+        <item quantity="many">%d عبارة متكررة</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">لم يتم مزامنة %d صورة. قم بتسجيل الخروج بعد مزامنة جميع العناصر للإحتفاظ بها؛ وإلا سيتم حذف العناصر.</item>
         <item quantity="zero">لم يتم مزامنة %d صورة. قم بتسجيل الخروج بعد مزامنة جميع العناصر للإحتفاظ بها؛ وإلا سيتم حذف العناصر.</item>

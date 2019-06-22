@@ -100,6 +100,14 @@
         <item quantity="few">%d تعليقات</item>
         <item quantity="many">%d تعليق</item>
     </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">قبل %d يوم</item>
+        <item quantity="zero">قبل %d يوم</item>
+        <item quantity="one">قبل %d يوم</item>
+        <item quantity="two">قبل %d أيام</item>
+        <item quantity="few">قبل %d أيام</item>
+        <item quantity="many">قبل %d يوم</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">هل تريد حذف %d عنصر؟</item>
         <item quantity="zero">هل تريد حذف %d عنصر؟</item>

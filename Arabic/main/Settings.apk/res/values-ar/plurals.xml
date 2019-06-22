@@ -857,12 +857,12 @@
         <item quantity="many">مشاركة %d شبكة</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">تم اتصال %1$d جهاز</item>
-        <item quantity="zero">تم اتصال %1$d جهاز</item>
-        <item quantity="one">تم اتصال %1$d جهاز</item>
-        <item quantity="two">تم اتصال %1$d أجهزة</item>
-        <item quantity="few">تم اتصال %1$d أجهزة</item>
-        <item quantity="many">تم اتصال %1$d جهاز</item>
+        <item quantity="other">%1$d جهاز متصل</item>
+        <item quantity="zero">%1$d جهاز متصل</item>
+        <item quantity="one">%1$d جهاز متصل</item>
+        <item quantity="two">%1$d أجهزة متصلة</item>
+        <item quantity="few">%1$d أجهزة متصلة</item>
+        <item quantity="many">%1$d جهاز متصل</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d من المحاولات.</item>

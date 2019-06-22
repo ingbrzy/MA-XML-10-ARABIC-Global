@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="action_firewall_setting">قائمة الحظر</string>
     <string name="activity_not_found">لم يتم العثور على تطبيق لمعالجة هذا الإجراء</string>
     <string name="activity_not_found_uri">لم يتم العثور على إي تطبيق لمعالجة هذا الإجراء</string>
@@ -99,16 +98,7 @@
     <string name="cm_privacy_dialog_tips">يتم توفير خدمات الرسائل الذكية من قِبل شركة الاتصالات الخاص بك. يحتاج تطبيق الرسائل إلى الاتصال بالإنترنت والوصول إلى موقعك لتوفير هذه الخدمات. يجب عليك الموافقة على %1s لشركة الاتصالات قبل بدء استخدام هذه الخدمات. موافق؟</string>
     <string name="cm_privacy_dialog_title">تنبية</string>
     <string name="cmcc_privacy">اتفاقية خصوصية China Mobile</string>
-    <string name="complain_input_number">أدخل رقم هاتفك</string>
-    <string name="complain_jump">تخطي</string>
     <string name="complain_message_title">الإبلاغ</string>
-    <string name="complain_ok">موافق</string>
-    <string name="complain_phone_number">رقم الهاتف (اختياري)</string>
-    <string name="complain_reason">لماذا يتم الإبلاغ عن هذه الرسالة؟</string>
-    <string name="complain_success">شكرا لملاحظاتك. يساعدنا ذلك في جعل تطبيق الرسائل أفضل!</string>
-    <string name="complain_tips">"سيتم تحميل محتوى أحدث الرسائل التي قمت بالإبلاغ عنها إلى خوادمنا بالإضافة إلى رقم الهاتف الذي قدمته. سيراجع مقدمي الخدمات لدينا ذلك. 
-"</string>
-    <string name="complain_upload">تم إرسال الإبلاغ</string>
     <string name="compressing">الصورة كبير للغاية. جارٍ الضغط…</string>
     <string name="confirm">موافق</string>
     <string name="confirm_add_blacklist_dialog_dspt">إضافة هذا الرقم إلى قائمة الحظر الخاصة بك؟</string>
@@ -173,8 +163,8 @@
     <string name="dialog_message_mx">تسمح لك رسالة Mi بإرسال رسائل مجانية لمستخدمي MIUI الآخرين. قد تحتاج إلى إرسال رسالة نصية قصيرة لإعادة تفعيل رسالة Mi. وقد تفرض عليك شركة الاتصالات رسوما على هذه الرسالة. يجب عليك الموافقة على \"%1$s\" و \"%2$s\" قبل استخدام رسالة Mi.</string>
     <string name="dialog_message_networking">يحتاج تطبيق الرسائل إلى استخدام الصفحات الصفراء ليتمكن من تقديم معرف هوية المرسل. وتحتاج الرسائل والصفحات الصفراء إلى الاتصال بالإنترنت والوصول إلى موقعك للعمل بشكل طبيعي. السماح؟</string>
     <string name="dialog_message_rcs">تسمح لك رسائل China Mobile بإرسال رسائل مجانية إلى مستخدمي China Mobile الآخرين في البر الرئيسي للصين. يجب عليك أولاً الموافقة على \"%1$s\" قبل استخدام رسائل China Mobile.</string>
-    <string name="dialog_sim_locked_confirm">OK</string>
-    <string name="dialog_sim_locked_message">"Your SIM card isn't fully operational with this phone because it doesn't comply with the terms and conditions of your subscription. If you have any questions or need more information about this matter, please contact Xiaomi service centers or the store that sold products to you."</string>
+    <string name="dialog_sim_locked_confirm">موافق</string>
+    <string name="dialog_sim_locked_message">بطاقة SIM الخاصة بك غير متوافقة تمامًا مع هذا الهاتف لأنها لا تفي بأحكام وشروط اشتراكك. إذا كانت لديك أي أسئلة أو كنت بحاجة إلى معلومات إضافية، فاتصل بمركز خدمة Xiaomi أو مكان الشراء.</string>
     <string name="dialog_title_fake_cell_detect_error">تصحيح</string>
     <string name="dialog_title_mx_rcs">رسالة Mi</string>
     <string name="dialog_title_networking">الأحكام والشروط</string>
@@ -231,13 +221,14 @@
     <string name="file_size">الحجم:</string>
     <string name="file_title">الإسم:</string>
     <string name="file_width_height">الحجم:</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">رسالة جديدة</string>
     <string name="forward_from">إعادة توجيه من:</string>
     <string name="forward_message_select_title">إعادة توجيه الرسالة</string>
     <string name="forward_prefix">"إعادة توجيه: "</string>
     <string name="found_old_messages">هل تريد تحميل الرسائل من %1$s إلى%2$s؟</string>
     <string name="found_old_messages_title">هل تريد تحميل الرسائل من بطاقات SIM أخرى؟</string>
-    <string name="found_wild_messages_guide_cloud_desc">لمزامنة الرسائل من Mi Cloud، قم بتسجيل الدخول إلى حساب Mi وقم بتشغيل مزامنة الرسائل القصيرة.</string>
+    <string name="found_wild_messages_guide_cloud_desc">لمزامنة الرسائل من Mi Cloud، سجل الدخول إلى حساب Mi وقم بتشغيل مزامنة الرسائل القصيرة.</string>
     <string name="found_wild_messages_guide_settings_desc">مزامنة الرسائل من Mi Cloud في إعدادات الرسائل.</string>
     <string name="found_wild_messages_guide_sync_not_started">لم تبدأ المزامنة بعد</string>
     <string name="found_wild_messages_title">مزامنة الرسائل من Mi Cloud</string>
@@ -556,7 +547,7 @@
     <string name="rcs_group_notification_invitation">دعوة للدردشة الجماعية</string>
     <string name="rcs_hello_from_pc">سجل الدخول إلى Fetion على حاسوبك لنقل الملفات.</string>
     <string name="rcs_message">رسائل China Mobile</string>
-    <string name="rcs_message_disable">لا يمكن عرض هذه الرسالة في المساحة الثانية</string>
+    <string name="rcs_message_disable">لا يمكن عرض هذه الرسالة في الواجهة الثانية</string>
     <string name="rcs_msg">رسائل China Mobile</string>
     <string name="rcs_not_online">لا يمكن استخدام رسائل China Mobile. تحقق من إعدادات الشبكة وحاول مرة أخرى.</string>
     <string name="rcs_offline">لا يمكن تسجيل الدخول إلى UC. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
@@ -685,6 +676,7 @@
     <string name="send_signature_confirm_dialog_title">إرسال الرسالة</string>
     <string name="send_sms">إرسال رسالة</string>
     <string name="send_to">إلى:</string>
+    <string name="send_to_index_contact">%1$s%2$s</string>
     <string name="sent_at_time">تم الارسال في: %1s</string>
     <string name="sent_label">"مُرسلة: "</string>
     <string name="service_message_not_found">انتهت صلاحية الرسالة أو غير متوفرة</string>
@@ -733,6 +725,7 @@
     <string name="sp_mark_as_read_menu_title">وضع علامة \"مقروء\"</string>
     <string name="sqlite_disk_full">مساحة التخزين على جهازك ممتلئة.</string>
     <string name="sqlite_low_memory">لا توجد مساحة تخزين كافية</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_failed">غير ناجح</string>
     <string name="status_label">"الحالة: "</string>
     <string name="status_pending">معلق</string>

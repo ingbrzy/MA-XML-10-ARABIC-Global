@@ -268,21 +268,117 @@
         <item quantity="few">إضافة %d دقائق</item>
         <item quantity="many">إضافة %d دقيقة</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s يوم</item>
+        <item quantity="zero">%s يوم</item>
+        <item quantity="one">%s يوم</item>
+        <item quantity="two">%s أيام</item>
+        <item quantity="few">%s أيام</item>
+        <item quantity="many">%s يوم</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s ساعة</item>
+        <item quantity="zero">%s ساعة</item>
+        <item quantity="one">%s ساعة</item>
+        <item quantity="two">%s ساعات</item>
+        <item quantity="few">%s ساعات</item>
+        <item quantity="many">%s ساعة</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s دقيقة</item>
+        <item quantity="zero">%s دقيقة</item>
+        <item quantity="one">%s دقيقة</item>
+        <item quantity="two">%s دقائق</item>
+        <item quantity="few">%s دقائق</item>
+        <item quantity="many">%s دقيقة</item>
+    </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">تبقى %s يوم</item>
+        <item quantity="zero">تبقى %s يوم</item>
+        <item quantity="one">تبقى %s يوم</item>
+        <item quantity="two">تبقى %s أيام</item>
+        <item quantity="few">تبقى %s أيام</item>
+        <item quantity="many">تبقى %s يوم</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="zero">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+        <item quantity="two">%s hours remaining</item>
+        <item quantity="few">%s hours remaining</item>
+        <item quantity="many">%s hours remaining</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="zero">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+        <item quantity="two">%s minutes remaining</item>
+        <item quantity="few">%s minutes remaining</item>
+        <item quantity="many">%s minutes remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s days remaining</item>
+        <item quantity="zero">%s days remaining</item>
+        <item quantity="one">%s day remaining</item>
+        <item quantity="two">%s days remaining</item>
+        <item quantity="few">%s days remaining</item>
+        <item quantity="many">%s days remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s hours remaining</item>
+        <item quantity="zero">%s hours remaining</item>
+        <item quantity="one">%s hour remaining</item>
+        <item quantity="two">%s hours remaining</item>
+        <item quantity="few">%s hours remaining</item>
+        <item quantity="many">%s hours remaining</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutes remaining</item>
+        <item quantity="zero">%s minutes remaining</item>
+        <item quantity="one">%s minute remaining</item>
+        <item quantity="two">%s minutes remaining</item>
+        <item quantity="few">%s minutes remaining</item>
+        <item quantity="many">%s minutes remaining</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s days until fully charged</item>
+        <item quantity="zero">%s days until fully charged</item>
+        <item quantity="one">%s day until fully charged</item>
+        <item quantity="two">%s days until fully charged</item>
+        <item quantity="few">%s days until fully charged</item>
+        <item quantity="many">%s days until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s hours until fully charged</item>
+        <item quantity="zero">%s hours until fully charged</item>
+        <item quantity="one">%s hour until fully charged</item>
+        <item quantity="two">%s hours until fully charged</item>
+        <item quantity="few">%s hours until fully charged</item>
+        <item quantity="many">%s hours until fully charged</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minutes until fully charged</item>
+        <item quantity="zero">%s minutes until fully charged</item>
+        <item quantity="one">%s minute until fully charged</item>
+        <item quantity="two">%s minutes until fully charged</item>
+        <item quantity="few">%s minutes until fully charged</item>
+        <item quantity="many">%s minutes until fully charged</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
-        <item quantity="other">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="zero">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="one">%2$d app, including %1$s, is draining battery</item>
-        <item quantity="two">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="few">%2$d apps, including %1$s, are draining battery</item>
-        <item quantity="many">%2$d apps, including %1$s, are draining battery</item>
+        <item quantity="other">%2$d تطبيق، بما في ذلك %1$s تستنزف البطارية</item>
+        <item quantity="zero">%2$d تطبيق، بما في ذلك %1$s تستنزف البطارية</item>
+        <item quantity="one">%2$d تطبيق، بما في ذلك %1$s تستنزف البطارية</item>
+        <item quantity="two">%2$d تطبيقات، بما في ذلك %1$s تستنزف البطارية</item>
+        <item quantity="few">%2$d تطبيقات، بما في ذلك %1$s تستنزف البطارية</item>
+        <item quantity="many">%2$d تطبيق، بما في ذلك %1$s تستنزف البطارية</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
-        <item quantity="other">%d apps are draining battery</item>
-        <item quantity="zero">%d apps are draining battery</item>
-        <item quantity="one">%d app is draining battery</item>
-        <item quantity="two">%d apps are draining battery</item>
-        <item quantity="few">%d apps are draining battery</item>
-        <item quantity="many">%d apps are draining battery</item>
+        <item quantity="other">يستنزف %d تطبيق البطارية</item>
+        <item quantity="zero">يستنزف %d تطبيق البطارية</item>
+        <item quantity="one">يستنزف %d تطبيق البطارية</item>
+        <item quantity="two">يستنزف %d تطبيقات البطارية</item>
+        <item quantity="few">يستنزف %d تطبيقات البطارية</item>
+        <item quantity="many">يستنزف %d تطبيق البطارية</item>
     </plurals>
     <plurals name="people">
         <item quantity="other">قام بتحميله %1$d شخص</item>

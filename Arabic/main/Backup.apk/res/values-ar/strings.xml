@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"تقديم حجم النسخة: %1$s
 حجم تحديث دلتا: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="app_name">نسخة احتياطية</string>
     <string name="local_app_name">النسخ الاحتياطي</string>
@@ -46,7 +49,8 @@
     <string name="restore_launcher_layout_hit">استعادة إعدادات المشغل</string>
     <string name="settings_summary">إعدادات الهاتف والرسائل</string>
     <string name="camera_summary">إعدادات الكاميرا (غير متضمنة صور)</string>
-    <string name="account_summary">نسخ أحتياطي لكل من حساب Google، وحساب Mi، وبيانات المستخدم الأخرى</string>
+    <string name="gallery_summary">إعدادات المعرض (غير متضمن صور)</string>
+    <string name="account_summary">نسخ أحتياطي لكل من حساب Google وحساب Mi وبيانات المستخدم الأخرى</string>
     <string name="cloud_app_name">نسخ Mi Cloud الإحتياطي</string>
     <string name="cloud_home_title">Mi Cloud</string>
     <string name="prompt_reading">جار القراءة…</string>
@@ -194,7 +198,7 @@
     <string name="already_enable_encrypt">التشفير قيد التشغيل</string>
     <string name="enable_encrypt_summery1">سجل الدخول إلى حساب Mi للوصول إلى النسخ الاحتياطية المشفرة.</string>
     <string name="enable_encrypt_summery2">سيتم تشفير النسخ الاحتياطية تلقائياً. ستحتاج لتسجيل الدخول إلى حساب Mi للوصول إليها.</string>
-    <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة الاحتياطية بواسطة %1$s. للاستعادة، احذف الحساب الحالي وسجل الدخول كـ %2$s.</string>
+    <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة الاحتياطية بواسطة %1$s. للاسترداد، احذف الحساب الحالي وسجل الدخول إلى %2$s.</string>
     <string name="button_got_it">موافق</string>
     <string name="no_encrypt_password">لا توجد كلمة مرور</string>
     <string name="enable_encrypt_fail">خطأ في التشفير</string>
@@ -226,6 +230,7 @@
     <string name="restore_backup">استرداد</string>
     <string name="enable_encrypt_description">مشفر</string>
     <string name="disable_encrypt_description">غير مشفر</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">لحظة من فضلك…</string>
     <string name="state_mounting">الوصول إلى تخزين جهاز التوجيه…</string>
     <string name="abort_backup_confirm">لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟</string>
@@ -234,6 +239,7 @@
     <string name="feature_title_contacts">جهات الاتصال</string>
     <string name="feature_title_sms">الرسائل</string>
     <string name="feature_title_mms">رسائل وسائط متعددة (MMS)</string>
+    <string name="feature_title_mms_setting">إعدادات الرسائل</string>
     <string name="feature_title_account">حساب Mi</string>
     <string name="feature_title_antispam">قائمة الحظر</string>
     <string name="summary_err_backup_encrypting">تسجيل الدخول لحساب Mi.</string>
@@ -392,9 +398,10 @@
     <string name="button_clean_garbage">تفريغ مساحة</string>
     <string name="button_quit">خروج</string>
     <string name="soft_ap_creating">جارٍ إنشاء نقطة اتصال…</string>
-    <string name="wait_link">"قم بتوصيل الجهاز القديم بنقطة الاتصال هذه.
-لا تترك هذه الصفحة قبل إنشاء الاتصال."</string>
-    <string name="old_way">يمكنك أيضا الاتصال باستخدام رمز QR. انقر لإنشاء الرمز.</string>
+    <string name="wait_link">"افتح ناقل Mi على الجهاز القديم،
+انقر على \"أنا المرسل\" وحدد نقطة اتصال. 
+لا تغلق الصفحة قبل إنشاء الاتصال."</string>
+    <string name="old_way">يمكنك أيضًا إنشاء رمز QR على الجهاز الجديد ومسحه ضوئيًا بإستخدام الجهاز القديم.</string>
     <string name="soft_ap_create_failed">تعذر إنشاء نقطة اتصال</string>
     <string name="scan_soft_ap_label">الاتصال بالجهاز القديم</string>
     <string name="scan_soft_ap">جارٍ البحث عن جهاز جديد…</string>
@@ -453,7 +460,7 @@
     <string name="trans_intro_question_7">%d. لماذا بعض التطبيقات لا تشتغل على جهاز جديد؟</string>
     <string name="trans_intro_desc_7">ترتبط بعض التطبيقات (الخدمات البنكية الإلكترونية، أو التمويل، إلخ) مع جهاز معين لأسباب أمنية. جرب محو بيانات التطبيق أو إعادة تثبيت التطبيق على جهاز جديد.</string>
     <string name="trans_intro_question_8">%d. لماذا لا يتم نقل سجل الـ WeChat كاملا؟</string>
-    <string name="trans_intro_desc_8">قد لا يتم نقل بيانات وسجل دردشة تطبيق الـ WeChat بشكل كامل عبر ناقل Mi. انتقل إلى إعدادات WeChat و قم بتسجيل الخروج من حسابك للحصول على المزيد من فرص النقل بنجاح.</string>
+    <string name="trans_intro_desc_8">قد لا يتم نقل بيانات وسجل دردشة تطبيق WeChat بشكل كامل عبر ناقل Mi. انتقل إلى إعدادات WeChat و قم بتسجيل الخروج من حسابك للحصول على المزيد من فرص النقل بنجاح.</string>
     <string name="trans_intro_question_9">%d. ما هي العناصر التي لا يمكن نقلها؟</string>
     <string name="trans_intro_title_account">الحسابات وكلمات المرور:</string>
     <string name="trans_intro_desc_account">يجب عليك تسجيل الدخول مرة أخرى إلى حساباتك (مثل: حساب Mi، Google، إلخ.) على الجهاز الجديد لأسباب تتعلق بالحماية.</string>
@@ -504,7 +511,7 @@
     <string name="close_twice_auth_step_2">٢. قم بتسجيل الدخول إلى Apple ID الذي ترغب فيه تعطيل المصادقة ذات العاملين، ثم انتقل إلى قسم \"الحماية\" في إعدادات الحساب و اختر \"تعديل\".</string>
     <string name="close_twice_auth_step_3">٣. اضغط على \"إيقاف المصادقة ذات العاملين\". انقر مرة أخرى للتأكيد.</string>
     <string name="close_twice_auth_note">"ملاحظة:
-بعد إنشاء سؤال أمان جديد وتأكيد تاريخ ميلادك، سيتم إيقاف عمل \"التحقق بخطوتين\" لـ Apple ID الخاص بك. إذا لم يظهر لك خيار إيقاف \"التحقق بخطوتين\" على صفحة حساب Apple ID، فلا يمكنك إيقاف تشغيله."</string>
+بعد إنشاء سؤال أمان جديد وتأكيد تاريخ ميلادك، سيتم إيقاف عمل \"التحقق بخطوتين\" لـ Apple ID. إذا لم يظهر لك خيار إيقاف \"التحقق بخطوتين\" على صفحة حساب Apple ID، فلا يمكنك إيقاف تشغيله."</string>
     <string name="close_twice_auth_btn">إيقاف المصادقة ذات العاملين</string>
     <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذات العاملين"</string>
@@ -565,6 +572,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 يجب عليك إنشاء نسخ iCloud احتياطي أولا."</string>
     <string name="list_footer_tip_title">نصائح:</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">استيراد</string>
     <string name="select_empty">قم بتحديد عناصر للاستيراد</string>
     <string name="select_item_summary_wait">جارٍ الانتظار…</string>
@@ -640,8 +648,14 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_app_upgrade_message">إصدار جديد متاح من ناقل Mi. تحديث ناقل Mi الآن؟</string>
     <string name="dialog_app_upgrade_exit">خروج</string>
     <string name="dialog_app_upgrade_download">تحديث</string>
-    <string name="dialog_backup_password_change_machine_tips">"You won't be able to transfer password-protected backups. Turn off backup password before using Mi Mover."</string>
-    <string name="dialog_backup_password_backup_tips">"Can't back up items when backup password is on. Turn off backup password."</string>
-    <string name="dialog_backup_password_cancel">Cancel</string>
-    <string name="dialog_backup_password_to_settings">Settings</string>
+    <string name="dialog_backup_password_change_machine_tips">لا يمكنك نقل النُسخ الاحتياطية المحمية بكلمة مرور. قم بتعطيل كلمة المرور قبل استخدام ناقل Mi.</string>
+    <string name="dialog_backup_password_backup_tips">لا يمكن عمل نسخة احتياطية للعناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي.</string>
+    <string name="dialog_backup_password_cancel">إلغاء</string>
+    <string name="dialog_backup_password_to_settings">الإعدادات</string>
+    <string name="user_feedback">الإبلاغ عن خلل</string>
+    <string name="iCloud_ID_verification_tip">أدخل رمز التحقق من رسالة SMS المرسلة إلى الرقم المقترن بـ Apple ID الخاص بك. تجاهل الرمز المنبثق المعروض على شاشة جهاز iPhone الخاص بك.</string>
+    <string name="trans_complete_restoring">تم النقل بنجاح. جارٍ استرداد البيانات…</string>
+    <string name="dialog_backup_password_auto_backup_tips">لا يمكن عمل نسخة احتياطية تلقائية للعناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
+    <string name="dialog_backup_password_change_device_restore_tips">لا يمكن استخدام ناقل Mi عن تشغيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي.</string>
+    <string name="dialog_backup_password_restore_tips">لا يمكن استرداد العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
 </resources>

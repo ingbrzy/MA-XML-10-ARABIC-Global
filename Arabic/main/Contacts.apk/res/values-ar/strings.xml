@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="accessibility_calllog_detail">تفاصيل سجل المكالمات</string>
     <string name="accessibility_contact_detail">تفاصيل جهة الاتصال</string>
     <string name="account_container_title">مستورد من</string>
@@ -32,7 +33,7 @@
     <string name="add_organization">إضافة منظمة</string>
     <string name="add_to_my_contacts">إضافة إلى جهات اتصالي</string>
     <string name="add_wait">إضافة الانتظار</string>
-    <string name="add_xiaomi_account_dialog_btn">استخدم حساب Mi</string>
+    <string name="add_xiaomi_account_dialog_btn">استخدام حساب Mi</string>
     <string name="add_xiaomi_account_dialog_msg">قم بنسخ جهات الاتصال احتياطياً إلى حساب Mi لتتمكن من الوصول إليها من أي مكان!</string>
     <string name="add_xiaomi_account_dialog_title">اختيار حساب</string>
     <string name="aggregation_suggestion_edit_dialog_message">الانتقال إلى تعديل جهة الاتصال التي تحمل الاسم نفسه؟ سيتم نسخ المعلومات التي أدخلتها حتى الآن.</string>
@@ -100,6 +101,7 @@
     <string name="call_sim_menu_title_suffix">(الأساسي)</string>
     <string name="call_telex">الاتصال بالتلكس</string>
     <string name="call_tty_tdd">الاتصال بـ TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">الاتصال بالعمل</string>
     <string name="call_work_mobile">الاتصال بالهاتف الجوال للعمل</string>
@@ -221,7 +223,8 @@
     <string name="contact_detail_miprofile_accept_fail_toast">تعذر تبادل بطاقات جهات الاتصال</string>
     <string name="contact_detail_miprofile_accept_success_toast">بطاقات جهات اتصال متبادلة</string>
     <string name="contact_detail_miprofile_binded_label">تم التحقق</string>
-    <string name="contact_detail_miprofile_exchange_closed">لا يوجد رقم هاتف مقترن بحساب Mi هذاnم إيقاف نشغيل بطاقات جهات الاتصال</string>
+    <string name="contact_detail_miprofile_exchange_closed">"لا يوجد رقم هاتف مرتبط بحساب Mi هذا
+تم إيقاف نشغيل بطاقات جهات الاتصال"</string>
     <string name="contact_detail_miprofile_privacy_settings">يتطلب الإذن للعرض</string>
     <string name="contact_detail_miprofile_request">تبادل بطاقات جهات الاتصال</string>
     <string name="contact_detail_miprofile_request_fail_toast">تعذر إرسال الطلب</string>
@@ -488,6 +491,7 @@
     <string name="force_touch_miprofile">بطاقات جهة اتصال</string>
     <string name="force_touch_new_contact">جهة اتصال جديدة</string>
     <string name="frequentList">متكرر</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">الاسم</string>
     <string name="gallery">المعرض</string>
     <string name="generic_no_account_prompt">حافظ على جهات اتصالك آمنة حتى إذا فقدت هاتفك: عليك بمزامنتها مع الخدمة عبر الإنترنت.</string>
@@ -650,6 +654,9 @@
     <string name="menu_set_ring_tone">تعيين نغمة الرنين</string>
     <string name="menu_settings">الاعدادت</string>
     <string name="menu_share">مشاركة</string>
+    <string name="menu_share_qrcode">رمز QR</string>
+    <string name="menu_share_text">نص</string>
+    <string name="menu_share_vcard_file">ملف</string>
     <string name="menu_show_all_calls">عرض كل المكالمات</string>
     <string name="menu_show_voicemails_only">عرض رسائل البريد الصوتي فقط</string>
     <string name="menu_splitAggregate">فصل</string>
@@ -660,7 +667,7 @@
     <string name="miprofile_alertdialog_edit">ادخل اسم</string>
     <string name="miprofile_alertdialog_message">عرض هذ الاسم لجهات الاتصال عند طلب تبادل بطاقات.</string>
     <string name="miprofile_alertdialog_title">إدخال الاسم</string>
-    <string name="miprofile_bind_account_alertdialog_message">تحتاج إلى إضافة رقم هاتف هذا الجهاز إلى حساب Mi الخاص بك لاستخدام هذه الميزة.</string>
+    <string name="miprofile_bind_account_alertdialog_message">تحتاج إلى إضافة رقم هاتف هذا الجهاز إلى حساب Mi لاستخدام هذه الميزة.</string>
     <string name="miprofile_bind_account_alertdialog_positive">أضف رقم</string>
     <string name="miprofile_bind_account_alertdialog_title">أضف رقم هاتف</string>
     <string name="miprofile_contact_add">إضافة</string>
@@ -668,6 +675,7 @@
     <string name="miprofile_contact_header">جهات الاتصال مع بطاقات جهة اتصال</string>
     <string name="miprofile_contact_meaasge">جهات الاتصال المحلية</string>
     <string name="miprofile_contact_verifying">تحقق</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
     <string name="miprofile_error_accept_self">لا يمكن تبادل بطاقة جهة الاتصال الخاصة بك</string>
     <string name="miprofile_error_no_miaccount">تسجيل الدخول إلى حساب Mi</string>
@@ -821,7 +829,10 @@
     <string name="path_wipe_data">تطبيقات النظام/جهات الاتصال/تنظيم جهات الاتصال/مسح البيانات</string>
     <string name="payphone">هاتف عمومي</string>
     <string name="people">جهات الاتصال</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">الرقم طويل جداً</string>
     <string name="phone_primary">أساسي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة على الجهاز.</string>
@@ -863,7 +874,7 @@
     <string name="pref_key_sim_manage">بطاقات SIM</string>
     <string name="pref_key_sim_manage1">إعداد بطاقة SIM 1</string>
     <string name="pref_key_sim_manage2">إعداد بطاقة SIM 2</string>
-    <string name="pref_summary_import_from_account">نقل جهات الاتصال من حساب Google و تبادل الحسابات إلى حساب Mi الخاص بي</string>
+    <string name="pref_summary_import_from_account">نقل جهات الاتصال من حساب Google إلى حساب Mi وتبديل الحسابات</string>
     <string name="pref_title_account_import">استيراد جهات الاتصال</string>
     <string name="pref_title_import_from_account">استيراد إلى حساب Mi</string>
     <string name="preference_auto_ip_summary_disable">إيقاف</string>
@@ -1031,8 +1042,10 @@
     <string name="set_data_package">تعيين خطة البيانات اولا</string>
     <string name="set_default">تعيين كإفتراضي</string>
     <string name="set_photo_failed_msg">تعذر تعيين الصورة</string>
+    <string name="share_contact_as">مشاركة جهة الاتصال كـ</string>
     <string name="share_error">لا يمكن مشاركة جهة الاتصال هذه</string>
     <string name="share_over_limit">لا يمكن مشاركة أكثر من ١٠٠٠ جهة اتصال</string>
+    <string name="share_qrcode">مشاركة رمز QR</string>
     <string name="share_via">إرسال باستخدام</string>
     <string name="share_visible_contacts">مشاركة جهات الاتصال</string>
     <string name="shortcutActivityTitle">اختر اختصارًا</string>
@@ -1069,6 +1082,7 @@
     <string name="sim_unloaded">بطاقة SIM غير مثبتة</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">الشركات</string>
     <string name="smart_group_company_unavailable">لا توجد معلومات عن الشركة</string>
     <string name="smart_group_frequency_1">خلال الشهر الماضي</string>
@@ -1201,6 +1215,7 @@
     <string name="voip_audio_description">مكالمة VoIP</string>
     <string name="voip_video_description">مكالمة فيديو VoIP</string>
     <string name="websiteLabelsGroup">موقع ويب</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">مسح البيانات</string>
     <string name="yellowPageNavigationIconLabel">الصفحات الصفراء</string>
     <string name="yellowPageNavigationLabel">الصفحات الصفراء</string>

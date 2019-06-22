@@ -56,6 +56,7 @@
     <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
     <string name="terms_of_use_lable_smart_cards">والبطاقات الذكية</string>
     <string name="terms_of_use_lable_vsimcore">، MConnService</string>
+    <string name="terms_of_use_label_updater">، المحدث</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>
@@ -81,7 +82,7 @@
     <string name="title_fingerprint">تعيين كلمة مرور</string>
     <string name="item_fingerprint">بصمة الإصبع</string>
     <string name="item_lock_screen_password">قفل الشاشة فقط</string>
-    <string name="desc_fingerprint">استخدم بصمة اليد لالغاء قفل الجهاز، التحقق من عمليات دفع Mi، او لتسجيل الدخول الى التطبيقات و الخدمات.</string>
+    <string name="desc_fingerprint">استخدم بصمة الاصبع لإلغاء قفل الجهاز أو التحقق من عمليات دفع Mi او لتسجيل الدخول الى التطبيقات والخدمات.</string>
     <string name="desc_extra_fingerprint" />
     <string name="next_fingerprint">التالي</string>
     <string name="desc_extra_international_fingerprint" />

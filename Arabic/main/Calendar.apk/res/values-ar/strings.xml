@@ -64,6 +64,7 @@
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">انتهت الصلاحية</string>
     <string name="alert_title">إشعارات التقويم</string>
+    <string name="all_events">جميع الأحداث</string>
     <string name="anniversary_event_title">ذكرى سنوية: %1$s</string>
     <string name="anniversary_secondary_tag">ذكرى</string>
     <string name="app_label">التقويم</string>
@@ -135,6 +136,7 @@
     <string name="date_interval_text_to">إلى %1$s</string>
     <string name="date_jump_hint">الانتقال إلى يوم محدد</string>
     <string name="date_jump_title">الانتقال إلى تاريخ</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_mode">التذكيرات</string>
@@ -344,6 +346,7 @@
     <string name="preferences_default_reminder_title">وقت التذكير الافتراضي</string>
     <string name="preferences_home_tz_title">المنطقة الزمنية الرئيسية</string>
     <string name="preferences_notification_ringtone_title">الصوت</string>
+    <string name="preferences_show_indic_date_title">عرض التقويم الهندي</string>
     <string name="preferences_title">التقويم</string>
     <string name="preferences_use_home_tz_descrip">عرض التقاويم وأوقات الحدث في المنطقة الزمنية الرئيسية عند السفر</string>
     <string name="preferences_use_home_tz_title">استخدام المنطقة الزمنية الرئيسية</string>
@@ -403,10 +406,12 @@
     <string name="setting_others">إضافي</string>
     <string name="setting_title_about">معلومات عن</string>
     <string name="setting_title_holiday_display">إظهار العطل</string>
+    <string name="setting_title_policy">سياسة الخصوصية</string>
     <string name="share_image">مشاركة</string>
     <string name="share_image_label">مشاركة عبر</string>
     <string name="share_title">مشاركة</string>
     <string name="show_day_view">إظهار اليوم</string>
+    <string name="show_indic_date_summary">يتوفر التقويم الهندي إذا تم تعيين إحدى لغات الهند كلغة نظامك</string>
     <string name="start_date_calculate">أحسب</string>
     <string name="storage_permission_denied">السماح بالوصول إلى الذاكرة</string>
     <string name="subscribe_card">الاشتراك الآن</string>

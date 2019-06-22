@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="guide_used_number">
+        <item quantity="other">تم التعيين في %1$d جهاز</item>
+        <item quantity="zero">تم التعيين في %1$d جهاز</item>
+        <item quantity="one">تم التعيين في %1$d جهاز</item>
+        <item quantity="two">تم التعيين في %1$d أجهزة</item>
+        <item quantity="few">تم التعيين في %1$d أجهزة</item>
+        <item quantity="many">تم التعيين في %1$d جهاز</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d تعليق</item>
         <item quantity="zero">%d تعليق</item>

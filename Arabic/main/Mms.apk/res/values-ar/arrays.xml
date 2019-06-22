@@ -31,13 +31,6 @@
         <item>فقط في الوضع الصامت</item>
         <item>أبدا</item>
     </string-array>
-    <string-array name="reason_type">
-        <item>احتيال</item>
-        <item>محتوى غير قانوني أو بذيء</item>
-        <item>مزعج</item>
-        <item>أخرى</item>
-        <item>إلغاء</item>
-    </string-array>
     <string-array name="recv_type">
         <item>接收并通知</item>
         <item>只接收</item>

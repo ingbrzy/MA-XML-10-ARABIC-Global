@@ -107,7 +107,7 @@
     <string name="app_name_view_picture">عرض الصور</string>
     <string name="app_name_view_video">عرض الفيديوهات</string>
     <string name="associate_face_album">اختر ألبوم</string>
-    <string name="auto_backup_introduce">إنشاء نسخة احتياطية للصور ومقاطع فيديو تلقائيا (تحتاج الى حساب Mi)</string>
+    <string name="auto_backup_introduce">إنشاء نسخة احتياطية للصور والفيديوهات تلقائيا (حساب Mi مطلوب)</string>
     <string name="auto_download_media_title">تنزيل الصور تلقائياً من Mi Cloud</string>
     <string name="auto_update_face">إضافة الصور تلقائيًا</string>
     <string name="auto_update_face_summary">مطابقة الصور وإضافتها تلقائيًا إلى ألبوم الطفل</string>
@@ -115,9 +115,9 @@
     <string name="auto_update_on">تشغيل</string>
     <string name="auto_upload_before_share_message">نسخ هذا الألبوم احتياطيا إلى Mi Cloud قبل مشاركته</string>
     <string name="auto_upload_before_share_title">تلميح</string>
-    <string name="auto_upload_disable_tip">المزامنة مع Mi Cloud غير مفعلة</string>
-    <string name="auto_upload_disable_toast_long_press_menu">المزامنة مع Mi Cloud في حالة إيقاف</string>
-    <string name="auto_upload_enable_toast_long_press_menu">المزامنة مع Mi Cloud في حالة تشغيل</string>
+    <string name="auto_upload_disable_tip">المزامنة مع Mi Cloud متوقفة</string>
+    <string name="auto_upload_disable_toast_long_press_menu">المزامنة مع Mi Cloud متوقفة</string>
+    <string name="auto_upload_enable_toast_long_press_menu">المزامنة مع Mi Cloud مشغل</string>
     <string name="baby_album">ألبوم طفل</string>
     <string name="baby_album_change_background">تغيير صورة الخلفية</string>
     <string name="baby_album_needs_auto_backup_tip">لا يمكن إيقاف النسخ الاحتياطي التلقائي لألبوم الطفل</string>
@@ -138,7 +138,7 @@
     <string name="baby_sexy">الجنس</string>
     <string name="baby_suffix">الطفل</string>
     <string name="back">رجوع</string>
-    <string name="backup_automatically_summary">النسخ الإحتياطي للصور ومقاطع الفيديو من جميع الأجهزة إلى MiCloud. يمكنك بعد ذلك تصفح وترتيب وتعديل ومشاركة الصور ومقاطع الفيديو في كل الأجهزة بسهولة.</string>
+    <string name="backup_automatically_summary">انسخ الصور ومقاطع الفيديو احنياطيا من جميع الأجهزة إلى Mi Cloud. حيث يمكنك بعد ذلك تصفح وترتيب وتعديل ومشاركة الصور ومقاطع الفيديو في كل الأجهزة بسهولة.</string>
     <string name="backup_automatically_title">النسخ الاحتياطي تلقائياً</string>
     <string name="backup_battery_low_desc">مازال يمكنك اختيار المتابعة للنسخ الاحتياطي للعناصر</string>
     <string name="backup_battery_low_title">توقف النسخ الاحتياطي مؤقتاً بسبب انحفاض البطارية</string>
@@ -150,7 +150,7 @@
     <string name="backup_cta_not_allow_desc">موافق للنسخ الاحتياطي تلقائيا</string>
     <string name="backup_cta_not_allow_title">لا يمكن الوصول إلى الشبكة</string>
     <string name="backup_detail_page_empty">لا توجد صور أو فيديوهات في إنتظار النسخ الاحتياطي</string>
-    <string name="backup_detail_page_title">نُسخ Mi Cloud الاحتياطية</string>
+    <string name="backup_detail_page_title">نسخ Mi Cloud الإحتياطي</string>
     <string name="backup_device_space_low_btn_text">حذف</string>
     <string name="backup_device_space_low_desc">تفريغ مساحة لمتابعة النسخ الاحتياطي للعناصر</string>
     <string name="backup_device_space_low_title">لا توجد مساحة تخزين كافية</string>
@@ -162,7 +162,7 @@
     <string name="backup_need_sync_title">توقف النسخ الاحتياطي</string>
     <string name="backup_no_network_btn_text">الإعدادات</string>
     <string name="backup_no_network_desc">الاتصال بالشبكة لنسخ الاحتياطي للعناصر</string>
-    <string name="backup_no_network_title">تعذر الاتصال بـMi Cloud</string>
+    <string name="backup_no_network_title">لا يمكن الاتصال بـ Mi Cloud</string>
     <string name="backup_no_wifi_btn_text">استخدام البيانات</string>
     <string name="backup_no_wifi_desc">يمكنك ايضا القيام بنسخة إحتياطية للعناصر بإستخدام بيانات الجوال</string>
     <string name="backup_no_wifi_title">ستستمر المزامنة بعد اتصال Wi-Fi</string>
@@ -177,11 +177,11 @@
     <string name="backup_sync_dialog_tips">قم بتشغيل المزامنة مع Mi Cloud لتغيير إعدادات النُسخ الاحتياطية.</string>
     <string name="backup_sync_dialog_title">المزامنة متوقفة</string>
     <string name="backup_sync_error_btn_text">حاول مجددا</string>
-    <string name="backup_sync_error_desc">تعذر الاتصال بـMi Cloud</string>
+    <string name="backup_sync_error_desc">لا يمكن الاتصال بـ Mi Cloud</string>
     <string name="backup_sync_error_title">تعذر مزامنة العناصر</string>
     <string name="backup_sync_off_btn_text">تشغيل</string>
     <string name="backup_sync_off_desc">تشغيل المزامنة مع Mi Cloud للقيام بنسخ احتياطي للصور والفيديوهات</string>
-    <string name="backup_sync_off_title">المزامنة مع Mi Cloud في حالة إيقاف</string>
+    <string name="backup_sync_off_title">المزامنة مع Mi Cloud متوقفة</string>
     <string name="backup_with_gprs_dialog_btn">نسخ احتياطي</string>
     <string name="backup_with_gprs_dialog_message">%s من البيانات تتطلب النسخ الاحتياطي للعناصر. النسخ الاحتياطي الآن؟</string>
     <string name="backup_with_gprs_dialog_title">النسخ الاحتياطي بإستخدام بيانات الجوال</string>
@@ -195,6 +195,13 @@
     <string name="begin_share_toast">هل تريد إنشاء ألبوم منفصل لهذا الطفل قبل المشاركة؟</string>
     <string name="blank_app_name" />
     <string name="browse_category_title">تصفح</string>
+    <string name="burst_image_download_item_title" formatted="false">تنزيل الأصلي (%s|%s)</string>
+    <string name="burst_preview_title">لقطات متتالية</string>
+    <string name="burst_save_all">حفظ الكل</string>
+    <string name="burst_save_choice_title" formatted="false">%d محدد من %d</string>
+    <string name="burst_save_confirm_dialog_title">حفظ الصور</string>
+    <string name="burst_save_error_msg">تعذر الحفظ</string>
+    <string name="burst_save_processing">جارٍ المعالجة…</string>
     <string name="buy_member_tip">أصبح عضواً</string>
     <string name="by_email">بريد إلكتروني</string>
     <string name="by_others">أخرى</string>
@@ -261,11 +268,11 @@
     <string name="cloud_settings">النسخ الاحتياطي للمعرض</string>
     <string name="cloud_storage_extend">زيادة مساحة الـ Cloud</string>
     <string name="cloud_storage_ok_append_desc">متاح %s</string>
-    <string name="cloud_storage_ok_desc">تخزين Mi Cloud %s</string>
+    <string name="cloud_storage_ok_desc">مساحة Mi Cloud %s</string>
     <string name="cloud_storage_ok_title">مساحة تخزين كافية في Mi Cloud</string>
     <string name="cloud_storage_photo_title">الصور</string>
     <string name="cloud_storage_subtitle">جميع العناصر يتم نسخها احتياطياً إلى Mi Cloud</string>
-    <string name="cloud_storage_title">تخزين Mi Cloud</string>
+    <string name="cloud_storage_title">مساحة Mi Cloud</string>
     <string name="cloud_storage_video_title">الفيديوهات</string>
     <string name="cloud_storage_warn_desc">شراء cloud VIP لمساحة تخزين إضافية</string>
     <string name="cloud_storage_warn_title">لا توجد مساحة تخزين Mi Cloud كافية</string>
@@ -337,6 +344,8 @@
     <string name="custom_select_title_select_item">تحديد عناصر</string>
     <string name="debugging_info">تم إنشاء معلومات التصحيح بنجاح. انقر موافق لفتح المجلد.</string>
     <string name="debugging_tip">توليد بيانات التصحيح</string>
+    <string name="decrypt_video_failed">تعذر إعداد الفيديو</string>
+    <string name="decrypting_video">جارٍ إعداد الفيديو…</string>
     <string name="default_relation_name">مجموعة جديدة</string>
     <string name="define_by_user">تخصيص</string>
     <string name="delete">حذف</string>
@@ -390,6 +399,10 @@
     <string name="downloading_dialog_message">يمكنك اختيار جودة الصور التي تم تنزيلها أو إيقاف التنزيل تلقائيا من الإعدادات.</string>
     <string name="downloading_title">تنزيل الصور من Mi Cloud</string>
     <string name="edit_baby_info">عرض معلومات الطفل</string>
+    <string name="editor_cancel">إلغاء</string>
+    <string name="editor_export">حفظ</string>
+    <string name="editor_talkback_redo">إعادة</string>
+    <string name="editor_talkback_undo">تراجع</string>
     <string name="email_picker_title">إضافة بريد إلكتروني مشترك</string>
     <string name="empty_query_text_msg">لا أعرف عن ماذا أبحث…</string>
     <string name="empty_recommend_back">رجوع</string>
@@ -502,6 +515,7 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_to_pick_email">البريد الإلكتروني غير صالح</string>
     <string name="fail_to_sync_album">تعذر مزامنة الألبوم. تحقق من اتصال البيانات وقم بالمحاولة مرة أخرى.</string>
@@ -512,6 +526,7 @@
     <string name="feature_guidance_photo_effects">"تأثيرات صور جديدة 
  متوفرة"</string>
     <string name="feature_guidance_video_editor_smart_effects">تأثيرات جديدة متوفرة</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_bw">أبيض وأسود</string>
     <string name="filter_bi_dusk">غسق</string>
     <string name="filter_bi_lilt">واقعي</string>
@@ -583,20 +598,22 @@
     <string name="filter_sky_rainbow">قوس قزح</string>
     <string name="filter_sky_sunny">مشمس</string>
     <string name="filter_sky_sunset">غروب</string>
-    <string name="finish_create_baby_album_toast">تم إنشاء الألبوم لـ \"%s\" في Mi Cloud</string>
+    <string name="finish_create_baby_album_toast">تم إنشاء الألبوم \"%s\" في Mi Cloud</string>
     <string name="finish_fill_baby">إنشاء</string>
+    <string name="first_time_add_video_to_secret_tips">قم بتحديث المعرض لتتمكن من إخفاء الفيديوهات</string>
     <string name="flash_off">لا يوجد فلاش</string>
     <string name="flash_on">الفلاش مستخدم</string>
     <string name="frame_not_support_image_ratio">هذه النسبة غير مدعومة</string>
     <string name="free_view_desc">عرض 3D</string>
     <string name="gallery_setting">الإعدادات</string>
     <string name="gallery_sync_disable_toast">المزامنة متوقفة للمعرض</string>
-    <string name="generate_story_summary">سيقوم MIUI بتحليل الصور الخاصة بك وإنشاء ألبومات قصص. قم بإيقاف تشغيل هذه الميزة لإيقاف إنشاء ألبومات قصص.</string>
-    <string name="generate_story_title">ألبومات القصص</string>
+    <string name="generate_story_summary">سيقوم MIUI بتحليل الصور الخاصة بك وإنشاء الذكريات. قم بإيقاف تشغيل هذه الميزة لإيقاف إنشاء الذكريات.</string>
+    <string name="generate_story_title">ذكريات</string>
     <string name="get_album_info_in_process">جارٍ الحصول على تفاصيل الألبوم المشترك…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">غيغابايت</string>
     <string name="grant_permission_go_and_set">ضبط</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"يحتاج المعرض للوصول إلى 
 %s
  ليعمل بشكل طبيعي، انقر \"ضبط\" للذهاب إلى الأذونات."</string>
@@ -669,7 +686,7 @@
     <string name="loading_dual_tip">جارٍ تحميل الصورة…</string>
     <string name="loading_fail">تعذر التنزيل</string>
     <string name="loading_fail_sync_off">قم بتشغيل المزامنة مع Mi Cloud للتنزيل</string>
-    <string name="loading_fail_sync_off_message">تعذر تحميل الصور، المزامنة مع Mi Cloud في حالة إيقاف.</string>
+    <string name="loading_fail_sync_off_message">تعذر تحميل الصور، المزامنة مع Mi Cloud متوقفة.</string>
     <string name="loading_fail_sync_without_network">اتصل بالشبكة لتنزيل البيانات الوصفية</string>
     <string name="loading_fail_syncing">انتظر حتى يتم تنزيل البيانات الوصفية بالكامل ثم أعد المحاولة</string>
     <string name="loading_gif">جارٍ تنزيل GIF…</string>
@@ -706,7 +723,7 @@
     <string name="merge_album">دمج</string>
     <string name="merge_album_title">دمج هذا الشخص</string>
     <string name="messagelist_sender_self">أنا</string>
-    <string name="micloud_introduce">إنشاء نسخة احتياطية للصور ومقاطع فيديو تلقائيا (تحتاج الى حساب Mi)</string>
+    <string name="micloud_introduce">إنشاء نسخة احتياطية للصور والفيديوهات تلقائيا (حساب Mi مطلوب)</string>
     <string name="month_view_tip_button_text">فهمت</string>
     <string name="month_view_tip_sub_title">المس الشاشة لعرض الشهر</string>
     <string name="month_view_tip_title">عرض الشهر</string>
@@ -850,6 +867,7 @@
     <string name="people_mark_mode_title_no_mark_name">تحديد شخص</string>
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_unname">غير مسمى</string>
+    <string name="percent_sign">%</string>
     <string name="permissin_contract_desc">لتسمية الأشخاص في الصور</string>
     <string name="permission_contract_name">جهات الاتصال</string>
     <string name="permission_optional_category">أذونات اختيارية</string>
@@ -875,7 +893,7 @@
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_doodle">رسم</string>
     <string name="photo_editor_filter">فلتر</string>
-    <string name="photo_editor_font_default">>Mi Lanting (عادي)</string>
+    <string name="photo_editor_font_default">Mi Lanting (عادي)</string>
     <string name="photo_editor_frame">إطار</string>
     <string name="photo_editor_label">تعديل</string>
     <string name="photo_editor_long_crop">قص</string>
@@ -906,6 +924,7 @@
     <string name="photo_editor_navigator_module_downloading">جارٍ تنزيل %s…</string>
     <string name="photo_editor_navigator_need_download">اتصال بالإنترنت لتنزيل %s.</string>
     <string name="photo_editor_remove_watermark">إزالة العلامة المائية</string>
+    <string name="photo_editor_remove_watermark_on">إضافة علامة مائية</string>
     <string name="photo_editor_remover">محو</string>
     <string name="photo_editor_rotate">تدوير</string>
     <string name="photo_editor_saving">جارٍ الحفظ…</string>
@@ -914,6 +933,7 @@
     <string name="photo_editor_talkback_confirm">تأكيد</string>
     <string name="photo_editor_talkback_crop_16_9">ستة عشر إلى تسعة</string>
     <string name="photo_editor_talkback_crop_1_1">واحد إلى واحد</string>
+    <string name="photo_editor_talkback_crop_2_3">اثنين من ثلاثة</string>
     <string name="photo_editor_talkback_crop_3_4">ثلاثة إلى أربعة</string>
     <string name="photo_editor_talkback_crop_4_3">أربعة إلى ثلاثة</string>
     <string name="photo_editor_talkback_crop_9_16">تسعة إلى ستة عشر</string>
@@ -1045,7 +1065,12 @@
     <string name="scan_barcode_to_join">امسح رمز QR لإضافة ألبوم</string>
     <string name="scan_qr_code_buttom_text">امسح رمز QR لعرض هذا الألبوم</string>
     <string name="screen_doodle_talkback_size">عرض خط الرسم</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">تم</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">إلغاء</string>
     <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
     <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
@@ -1079,7 +1104,7 @@
     <string name="search_login_now">تسجيل الدخول</string>
     <string name="search_login_sub_title">تسجيل الدخول لايجاد المزيد من الصور</string>
     <string name="search_login_title">حساب Mi</string>
-    <string name="search_login_title_full_screen">تسجيل الدخول مع Mi Cloud لايجاد المزيد من الأجسام والاشخاص</string>
+    <string name="search_login_title_full_screen">سجل الدخول لحساب Mi للعثور على المزيد من الأجسام والاشخاص</string>
     <string name="search_mark_feedback_false_negative_title">موافق</string>
     <string name="search_mark_feedback_false_positive_title">إصلاح</string>
     <string name="search_net_error">حدث خطأ في الشبكة. اتصل بشبكة مختلفة ثم حاول مجدداً.</string>
@@ -1103,6 +1128,9 @@
     <string name="search_title_recommend">موصى بها</string>
     <string name="search_title_suggestion">الإقتراحات</string>
     <string name="search_title_tag">أجسام</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">جارٍ البحث عن بروجكتور…</string>
     <string name="secret_album_card_description">أفضل مكان لجميع أسرارك الخاصة</string>
     <string name="secret_album_card_title">جرب الألبوم المخفي</string>
@@ -1178,6 +1206,12 @@
     <string name="slim_running">جار التحسين…</string>
     <string name="slim_space">تم تفريغ مساحة</string>
     <string name="slim_stop">إيقاف التحسين</string>
+    <string name="special_type_eye_repair">تصحيح العيون المغلقة بإستخدام AI</string>
+    <string name="special_type_hdr">HDR</string>
+    <string name="special_type_night_beauty">بورتريه AI في الإضاءة المنخفضة</string>
+    <string name="special_type_night_mode">وضع AI ليلي</string>
+    <string name="special_type_portrait">إضاءة بورتريه فنية AI</string>
+    <string name="special_type_wide_angle">زاوية واسعة فائقة AI</string>
     <string name="start_debug">تصحيح المعرض</string>
     <string name="start_to_use_face_albumset">ترتيب حسب الأشخاص</string>
     <string name="status_bar_notification_info_overflow">+999</string>
@@ -1291,8 +1325,14 @@
     <string name="video_editor_adjust">تحسين</string>
     <string name="video_editor_analyzing">جارٍ فحص الفيديو…</string>
     <string name="video_editor_audio">صوت</string>
+    <string name="video_editor_audio_antiquity">ريترو</string>
     <string name="video_editor_audio_custom">تحديد</string>
+    <string name="video_editor_audio_dream">حلم</string>
+    <string name="video_editor_audio_electronics">كهرباء</string>
     <string name="video_editor_audio_none">لا شيء</string>
+    <string name="video_editor_audio_quiet">سكون</string>
+    <string name="video_editor_audio_summertime">صيف</string>
+    <string name="video_editor_audio_vitality">حيوي</string>
     <string name="video_editor_auto_trim">قص تلقائي</string>
     <string name="video_editor_auto_trim_tip">تزيين تلقائي…</string>
     <string name="video_editor_cancel">إلغاء</string>

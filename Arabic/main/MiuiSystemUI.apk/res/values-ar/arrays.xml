@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -46,7 +64,7 @@
         <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
-        <item>۱٦ بت/عينة</item>
+        <item>٣٢ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>أستخدام إختيار النظام (افتراضي)</item>
@@ -55,20 +73,20 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>أستخدام إختيار النظام (افتراضي)</item>
-        <item>مونو</item>
-        <item>ستيريو</item>
+        <item>أحادي</item>
+        <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>محسّن لجودة الصوت</item>
-        <item>الصوت المتوازن وجودة الاتصال</item>
-        <item>محسّن لجودة الاتصال</item>
-        <item>أفضل تأثير (معدل البت التكيفي)</item>
+        <item>تحسين جودة الصوت</item>
+        <item>توازن الصوت وجودة الاتصال</item>
+        <item>تحسين جودة الاتصال</item>
+        <item>أفضل جهد (معدل سرعة المعلومات التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>محسّن لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
-        <item>جودة صوت واتصال متوازنة (٦٦٠ك.بت/ث / ٦٠٦ك.بت/ث)</item>
-        <item>محسّن لجودة الاتصال (۳۳۰ك.بت/ث / ۳۰۳ك.بت/ث)</item>
-        <item>أفضل تأثير (معدل البت التكيفي)</item>
+        <item>تحسين جودة الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
+        <item>توازن الصوت وجودة الاتصال (٦٦٠ك.بت/ث / ٦٠٦ك.بت/ث)</item>
+        <item>تحسين جودة الاتصال (۳۳۰ك.بت/ث / ۳۰۳ك.بت/ث)</item>
+        <item>أفضل جهد (معدل سرعة المعلومات التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>أستخدام إختيار النظام (افتراضي)</item>
@@ -92,18 +110,18 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>تمكين برامج الترميز الإختيارية</item>
+        <item>تفعيل برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>أستخدام اختيار النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
+        <item>صوت Qualcomm® aptX™</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>تمكين برامج الترميز الإختيارية</item>
+        <item>تفعيل برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
@@ -153,14 +171,14 @@
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>عدم استخدام تحقق HDCP ابدا</item>
-        <item>استخدام تحقق HDCP لمحتوى DRM فقط</item>
-        <item>دائماً إستخدام تحقق HDCP</item>
+        <item>‏عدم استخدام التحقق من HDCP مطلقًا</item>
+        <item>‏استخدام التحقق من HDCP لمحتوى DRM فقط</item>
+        <item>‏استخدام التحقق من HDCP دومًا</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>لا تتحقق ابدا</item>
-        <item>تحقق من محتوى DRM فقط</item>
-        <item>تحقق دائماََ</item>
+        <item>عدم التحقق مطلقًا</item>
+        <item>‏التحقق من محتوى DRM فقط</item>
+        <item>التحقق دائماََ</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>إيقاف</item>
@@ -197,18 +215,18 @@
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
-        <item>إيقاف</item>
-        <item>٦٤ كيلو</item>
-        <item>٢٥٦ كيلو</item>
-        <item>١ ميغا</item>
+        <item>متوقف</item>
+        <item>٦٤ كيلوبايت</item>
+        <item>٢٥٦ كيلوبايت</item>
+        <item>١ ميغابايت</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>إيقاف</item>
-        <item>٦٤ كيلو لسجل المخزن المؤقت</item>
-        <item>٢٥٦ كيلو لسجل المخزن المؤقت</item>
-        <item>١ ميغا لسجل المخزن المؤقت</item>
-        <item>٤ ميغا لسجل المخزن المؤقت</item>
-        <item>١٦ ميغا لسجل المخزن المؤقت</item>
+        <item>متوقف</item>
+        <item>٦٤ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٢٥٦ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>١ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٤ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>١٦ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>إيقاف</item>
@@ -222,13 +240,13 @@
         <item>إيقاف</item>
         <item>جميع مخازن السجلات</item>
         <item>كل شئ عدا المخازن المؤقتة لسجلات الراديو</item>
-        <item>المخزن المؤقت لسجل النواه فقط</item>
+        <item>‏التخزين المؤقت لسجل kernel فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>إيقاف</item>
         <item>الكل</item>
         <item>كل شيء عدا الراديو</item>
-        <item>النواة فقط</item>
+        <item>‏kernel فقط</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>إيقاف</item>
@@ -337,7 +355,7 @@
         <item>مؤقتا تجنب الإتصال الضعيف</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>الرسوم المتحركة متوقفة</item>
+        <item>إيقاف الرسوم المتحركة</item>
         <item>مقياس الرسوم المتحركة .5x</item>
         <item>مقياس الرسوم المتحركة 1x</item>
         <item>مقياس الرسوم المتحركة 1.5x</item>

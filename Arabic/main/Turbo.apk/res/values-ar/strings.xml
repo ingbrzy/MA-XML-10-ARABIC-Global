@@ -42,6 +42,14 @@
     <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
     <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
     <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="early_warning_android_system">‏نظام Android</string>
+    <string name="early_warning_feedback_action">تعليقات</string>
+    <string name="early_warning_feedback_body">يُرجى تقديم تعليقاتك هنا.</string>
+    <string name="early_warning_feedback_chooser_text">اختيار تطبيق بريد إلكتروني</string>
+    <string name="early_warning_feedback_subject">تعليقات عن إشعارات التحذير المبكّر</string>
+    <string name="early_warning_notification_channel_name">تحذيرات البطارية</string>
+    <string name="early_warning_notification_text">هذا قبل الشحن عادةً</string>
+    <string name="early_warning_notification_title">قد تنفد طاقة البطارية عند الساعة %1$s</string>
     <string name="icon_content_description">رمز مربع الحوار</string>
     <string name="password_toggle_content_description">عرض كلمة المرور</string>
     <string name="ssb_clear_data_activity_name">أتريد إعادة ضبط السطوع التكيفي؟</string>

@@ -282,7 +282,7 @@
         <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
-        <item>۱٦ بت/عينة</item>
+        <item>٣٢ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>أستخدام إختيار النظام (افتراضي)</item>
@@ -291,20 +291,20 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>أستخدام إختيار النظام (افتراضي)</item>
-        <item>مونو</item>
-        <item>ستيريو</item>
+        <item>أحادي</item>
+        <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>محسّن لجودة الصوت</item>
-        <item>الصوت المتوازن وجودة الاتصال</item>
-        <item>محسّن لجودة الاتصال</item>
-        <item>أفضل تأثير (معدل البت التكيفي)</item>
+        <item>تحسين جودة الصوت</item>
+        <item>توازن الصوت وجودة الاتصال</item>
+        <item>تحسين جودة الاتصال</item>
+        <item>أفضل جهد (معدل سرعة المعلومات التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>محسّن لجوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
-        <item>جودة الصوت والإتصال المتوازن (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
-        <item>محسّن سرعة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
-        <item>أفضل تأثير (معدل البت التكيفي)</item>
+        <item>تحسين جوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
+        <item>توازن الصوت وجودة الاتصال (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
+        <item>تحسين جودة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
+        <item>أفضل جهد (معدل سرعة المعلومات التكيفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>أستخدام إختيار النظام (افتراضي)</item>
@@ -328,7 +328,7 @@
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
-        <item>تمكين الترميز الإختياري</item>
+        <item>تفعيل برامج الترميز الإختيارية</item>
         <item>تعطيل الترميز الاختياري</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -339,8 +339,8 @@
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
-        <item>تمكين الترميز الإختياري</item>
-        <item>تعطيل الترميز الاختياري</item>
+        <item>تفعيل برامج الترميز الإختيارية</item>
+        <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -719,6 +719,31 @@
         <item>باراماريبو</item>
         <item>كيتو</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
         <item>ألوان طبيعية كما تراها العين</item>
@@ -761,6 +786,24 @@
     <string-array name="data_usage_data_range">
         <item>آخر ۳۰ يومًا</item>
         <item>تعيين دورة الاستخدام...</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Today (mobile data) "</item>
+        <item>"This month (mobile data) "</item>
+        <item>"Last month (mobile data) "</item>
+        <item>"Today (Wi-Fi) "</item>
+        <item>"This month (Wi-Fi) "</item>
+        <item>"Last month (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Today "</item>
+        <item>"This month "</item>
+        <item>"Last month "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Today: "</item>
+        <item>"This month: "</item>
+        <item>"Last month: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>إيقاف</item>
@@ -839,18 +882,27 @@
         <item>قوي</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>عدم استخدام تحقق HDCP ابدا</item>
-        <item>استخدام تحقق HDCP لمحتوى DRM فقط</item>
-        <item>دائماً إستخدام تحقق HDCP</item>
+        <item>‏عدم استخدام التحقق من HDCP مطلقًا</item>
+        <item>‏استخدام التحقق من HDCP لمحتوى DRM فقط</item>
+        <item>‏استخدام التحقق من HDCP دومًا</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>لا تتحقق ابدا</item>
-        <item>تحقق من محتوى DRM فقط</item>
-        <item>تحقق دائماََ</item>
+        <item>عدم التحقق مطلقًا</item>
+        <item>‏التحقق من محتوى DRM فقط</item>
+        <item>التحقق دائماََ</item>
     </string-array>
     <string-array name="hide_account_list">
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>ايقاظ الشاشة</item>
@@ -895,6 +947,43 @@
         <item>بعد ٥ دقائق</item>
         <item>أبداً</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>قصيرة</item>
         <item>متوسطة</item>
@@ -963,6 +1052,14 @@
         <item>"إلغاء التثبيت جهاز: fusermount -u /media/mtp
 
 ملاحظة: فقط لـ Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1063,6 +1160,62 @@
         <item>تقليل ضوضاء الميكرفون الواحد</item>
         <item>تقليل ضوضاء الميكرفون المزدوج</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>أداء</item>
         <item>متوازن</item>
@@ -1150,6 +1303,11 @@
         <item>زيادة التباين</item>
         <item>القياسي</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1179,18 +1337,18 @@
         <item>السماح دومًا</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>إيقاف</item>
-        <item>٦٤ كيلو</item>
-        <item>٢٥٦ كيلو</item>
-        <item>١ ميغا</item>
+        <item>متوقف</item>
+        <item>٦٤ كيلوبايت</item>
+        <item>٢٥٦ كيلوبايت</item>
+        <item>١ ميغابايت</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>إيقاف</item>
-        <item>٦٤ كيلو لسجل المخزن المؤقت</item>
-        <item>٢٥٦ كيلو لسجل المخزن المؤقت</item>
-        <item>١ ميغا لسجل المخزن المؤقت</item>
-        <item>٤ ميغا لسجل المخزن المؤقت</item>
-        <item>١٦ ميغا لسجل المخزن المؤقت</item>
+        <item>متوقف</item>
+        <item>٦٤ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٢٥٦ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>١ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٤ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>١٦ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>إيقاف</item>
@@ -1204,18 +1362,22 @@
         <item>إيقاف</item>
         <item>جميع مخازن السجلات</item>
         <item>كل شئ عدا المخازن المؤقتة لسجلات الراديو</item>
-        <item>المخزن المؤقت لسجل النواه فقط</item>
+        <item>‏التخزين المؤقت لسجل kernel فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>إيقاف</item>
         <item>الكل</item>
         <item>كل شيء عدا الراديو</item>
-        <item>النواة فقط</item>
+        <item>‏kernel فقط</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>إيقاف</item>
         <item>إرسم منطقة القصاصة الغير مستطيلة بالأزرق</item>
         <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>دائماً</item>
@@ -1239,6 +1401,31 @@
         <item>السماح</item>
         <item>رفض</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>١٢-ساعة ١:٠٠م</item>
         <item>٢٤-ساعة ١٣:٠٠</item>
@@ -1267,6 +1454,10 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobile data usage "</item>
+        <item>"Wi-Fi usage "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>الرسوم المتحركة متوقفة</item>
@@ -1371,6 +1562,10 @@
         <item>1</item>
         <item>2</item>
         <item>3</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
@@ -1517,7 +1712,7 @@
         <item>0</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>الرسوم المتحركة متوقفة</item>
+        <item>إيقاف الرسوم المتحركة</item>
         <item>مقياس الرسوم المتحركة .5x</item>
         <item>مقياس الرسوم المتحركة 1x</item>
         <item>مقياس الرسوم المتحركة 1.5x</item>

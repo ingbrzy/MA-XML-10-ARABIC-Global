@@ -42,7 +42,6 @@
     <string name="auto_start_warning_title">السماح لـ %s بالبدء تلقائياً؟</string>
     <string name="auto_start_warning_allow">السماح</string>
     <string name="auto_start_warning_deny">رفض</string>
-    <string name="call_record_sample_prefix_miui">اتصال</string>
     <string name="call_record_or">أو</string>
     <string name="caller_info_name_delimiter">" أو "</string>
     <string name="first_back_long_press_message">لتعيين إعدادات مخصصة إضغط لمدة طويلة على حركات أزرار التنقل، اذهب إلى الإعدادات ثم الإعدادات الإضافية ثم الأزرار</string>
@@ -198,6 +197,7 @@
     <string name="popup_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجدداً.</string>
     <string name="takeback_camera_front_failed">تعذر فتح الكاميرا الامامية. حاول مجددا.</string>
     <string name="stop_operate_camera_frequently">انت تفتح الكاميرا الأمامية كثيرا.</string>
+    <string name="popup_camera_front_when_use">تحتاج الكاميرا إلى فتح الكاميرا الأمامية مجدداً. فتح الآن؟</string>
     <string name="popup_camera_popup_falied_times_calibrate">تعذر فتح الكاميرا الامامية عدة مرات. حاول معايرة الكاميرا.</string>
     <string name="popup_camera_takeback_falied_times_calibrate">تعذر إغلاق الكاميرا الامامية عدة مرات. حاول معايرة الكاميرا.</string>
     <string name="popup_camera_calibrate_now">معايرة</string>

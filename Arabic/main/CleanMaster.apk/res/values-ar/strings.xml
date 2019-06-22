@@ -17,7 +17,7 @@
     <string name="gigabyteShort">غ.ب</string>
     <string name="terabyteShort">ت.ب</string>
     <string name="petabyteShort">ب.ب</string>
-    <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="update_date_format">yyyy/MM/dd</string>
     <string name="activity_title_garbage_cleanup">المنظف</string>
     <string name="activity_title_scanfinish">اكتمل المسح</string>
     <string name="empty_title_photos">لم يتم العثور على أية صور</string>
@@ -53,7 +53,7 @@
     <string name="button_text_uninstall">إلغاء التثبيت</string>
     <string name="pref_category_title_cleanup_white_list">الإستثناءات</string>
     <string name="pref_title_cleanup_white_list">الإستثناءات</string>
-    <string name="pref_summary_cleanup_white_list">منع التطبيقات المحددة من التنظيف</string>
+    <string name="pref_summary_cleanup_white_list">منع الملفات المحددة من التنظيف</string>
     <string name="pref_category_title_auto_update_cleanup_db">إعدادات إضافية</string>
     <string name="pref_title_auto_update_cleanup_db">تحديث تلقائي</string>
     <string name="pref_summary_auto_update_cleanup_db">آخر تحديث: %s</string>
@@ -92,6 +92,7 @@
     <string name="hints_apk_header_left">حزم</string>
     <string name="hints_residual_header_left">المخلفات</string>
     <string name="hints_memory_header_left">الذاكرة</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ملفات كبيرة: %d</string>
     <string name="hints_installed_apps_header_left">التطبيقات المثبتة: %d</string>
     <string name="toast_resolve_apk_error">حل خطأ apk</string>
@@ -185,8 +186,6 @@
     <string name="toast_backup_uninstall_success">تم اكتمال النسخ الإحتياطي و إلغاء التثبيت</string>
     <string name="activity_title_cache_data">بيانات التطبيق</string>
     <string name="deepclean_cache_header_left">ملفات البيانات: %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s من ملفات المهملات</string>
-    <string name="notification_summary_of_garbage_cleanup">انقر لتفريغ المساحة.</string>
     <string name="notification_summary_after_auto_cleanup">تم تنظيف %s.</string>
     <string name="toast_uninstall_success">اكتمل إلغاء التثبيت</string>
     <string name="toast_app_no_residual_on_sdcard">التطبيق لا يحتوي على أي ملفات مخزنة على بطاقة الذاكرة SD</string>
@@ -299,6 +298,7 @@
     <string name="downloading">جارٍ التحميل</string>
     <string name="installing">جارٍ التثبيت</string>
     <string name="start_install">التثبيت الآن</string>
+    <string name="empty">" "</string>
     <string name="open_browser">فتح في المتصفح</string>
     <string name="title_share_link">مشاركة URL</string>
     <string name="connecting">جارٍ الاتصال…</string>
@@ -537,7 +537,7 @@
     <string name="whatsapp_delete_done">تم</string>
     <string name="whatsapp_title">منظف الواتساب</string>
     <string name="whatsapp_function_title">منظف الواتساب</string>
-    <string name="whatsapp_function_summery">حذف مرفقات الـ WhatsApp</string>
+    <string name="whatsapp_function_summery">مسح مرفقات الواتساب</string>
     <string name="clean_summary">تم التنظيف %1$s</string>
     <string name="onekeyclean_boosting_title">جارٍ زيادة السرعة</string>
     <string name="onekeyclean_boosted_title">تم التنظيف بنجاح</string>
@@ -565,4 +565,10 @@
     <string name="one_tap_clean_M">%d ميغابايت</string>
     <string name="one_tap_clean_GB">%s غيغابايت</string>
     <string name="security_center_slogan">استعداد دائم للحماية.</string>
+    <string name="notification_garbage_cleanup_title">تنظيف ملفات المهملات</string>
+    <string name="notification_garbage_cleanup_summary">وصل حجم المهملات إلى %s</string>
+    <string name="notification_low_memory_cache_title">مسح الذاكرة المؤقتة</string>
+    <string name="notification_low_memory_cache_summary">متوفر أقل من ١.٥ غيغابايت مساحة تخزين</string>
+    <string name="notification_low_memory_deepclean_title">مساحة التخزين على وشك النفاذ</string>
+    <string name="notification_low_memory_deepclean_summary">يمكن أن يفرغ التنظيف العميق مساحة على جهازك</string>
 </resources>

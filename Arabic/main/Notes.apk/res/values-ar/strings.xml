@@ -6,7 +6,7 @@
     <string name="action_settings_description">فتح الإعدادات</string>
     <string name="actionbar_close_description">إغلاق</string>
     <string name="actionbar_home_description">رجوع</string>
-    <string name="add_account_desc">مزامنة الملاحظات مع حساب Mi الخاصة بك؟</string>
+    <string name="add_account_desc">مزامنة الملاحظات مع حساب Mi؟</string>
     <string name="alarm_bar_title">تذكير</string>
     <string name="alert_action_edit_anyway">الاستمرار بالتعديل</string>
     <string name="alert_message_delete">حذف %1$s؟</string>
@@ -73,12 +73,12 @@
     <string name="error_contact_not_exist">جهة اتصال غير موجودة</string>
     <string name="error_hide_empty_note">لا يمكن إخفاء ملاحظة فارغة</string>
     <string name="error_note_empty_for_clock">لا يمكن تعيين وقت تذكير لملاحظة فارغة</string>
-    <string name="error_note_empty_for_send_to_desktop">لا يمكن إضافة ملاحظات فارغة على الشاشة الرئيسية</string>
+    <string name="error_note_empty_for_send_to_desktop">لا يمكن وضع ملاحظات فارغة على الشاشة الرئيسية</string>
     <string name="error_note_not_exist">الملاحظة غير موجودة</string>
     <string name="error_send_empty_note">لا يمكن إخفاء ملاحظة فارغة</string>
     <string name="error_send_empty_note_to_weibo">لا يمكن إرسال ملاحظة فارغة إلى Weibo</string>
     <string name="error_unsupport_content">هذه الملاحظه تحتوي على محتوى غير مدعوم، المس هنا للتحديث</string>
-    <string name="error_widget_exist_for_send_to_desktop">هذه الملاحظة بالفعل على الشاشة الرئيسية</string>
+    <string name="error_widget_exist_for_send_to_desktop">هذه الملاحظة موجودة مسبقا على الشاشة الرئيسية</string>
     <string name="first_enter_custom_folder_hint">يمكنك إعادة تسمية أو حذف المجلدات هنا</string>
     <string name="folder_exist">مجلد بنفس الاسم موجود مسبقا</string>
     <string name="folder_operation_delete">حذف</string>
@@ -109,7 +109,7 @@
     <string name="menu_restore">استرداد</string>
     <string name="menu_send_as_image">ارسال كصورة</string>
     <string name="menu_send_as_text">ارسال كنص</string>
-    <string name="menu_send_to_desktop">إضافة إلى الشاشة الرئيسية</string>
+    <string name="menu_send_to_desktop">وضع على الشاشة الرئيسية</string>
     <string name="menu_send_weibo">الإرسال إلى Weibo</string>
     <string name="menu_source">من%1$s</string>
     <string name="menu_stick">تثبيت</string>
@@ -127,6 +127,7 @@
     <string name="note_sort_way">طريقة ترتيب الملاحظات</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notify_alarm_title">تذكير</string>
     <string name="permdesc_accessNote">قد تستخدم التطبيقات الخبيثة هذا للوصول لبياناتك الشخصية.</string>
     <string name="permission_intro_contact">تدوين الملاحظات التي تتم أثناء المكالمات</string>
@@ -134,13 +135,13 @@
     <string name="permission_intro_phone">تدوين الملاحظات التي تتم أثناء المكالمات</string>
     <string name="permission_intro_storage">لحفظ الملاحظات والمرفقات</string>
     <string name="permlab_accessNote">دخول الملاحظات</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">لا تسأل عن تأكيد عند حذف ملاحظة باستخدام إيماءه</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">اسحب بإصبعين لأعلى لحذف الملاحظات دون تأكيد</string>
     <string name="pref_title_cloud_trash_bin">الملاحظات المحذوفة من Mi Cloud</string>
     <string name="pref_title_common">إعدادات إضافية</string>
     <string name="pref_title_font_size">حجم الخط</string>
     <string name="pref_title_note_style">النمط</string>
     <string name="pref_title_show_root_folder_in_homepage">إظهار الملاحظات السريعة فقط على صفحة البداية</string>
-    <string name="pref_title_skip_confirm_for_quick_delete">حذف سريع</string>
+    <string name="pref_title_skip_confirm_for_quick_delete">الحذف بإستخدام إيماءة</string>
     <string name="recover_notes_hint">حدث خطأ ما، اذهب إلى i.mi.com لإسترداد الملاحظات.</string>
     <string name="redo">إعادة</string>
     <string name="refuse_to_open_as_pic_because_of_loading">انتظر حتى يتم تحميل الملاحظة وحاول مجددا.</string>
@@ -208,6 +209,7 @@
     <string name="toast_notes_hidden_edit">تم إخفاء الملاحظة بنجاح. اسحب لأسفل لرؤية الملاحظات المخفية.</string>
     <string name="toast_notes_hidden_home">تم إخفاء الملاحظة بنجاح. اسحب لأسفل لرؤية الملاحظات المخفية.</string>
     <string name="toast_notes_unhidden">تم عدم الإخفاء بنجاح</string>
+    <string name="toast_pic_is_not_really">جارٍ حفظ الصورة …</string>
     <string name="toast_reach_text_limit_attachment">لا يمكن إضافة مرفقات جديدة لأن الملاحظة طويلة جدًا</string>
     <string name="toast_reach_text_limit_checkbox">لا يمكن إضافة مربع الاختيار لأن الملاحظة طويلة جداً</string>
     <string name="toast_reach_text_limit_truncate">هذه الملاحظة طويلة جداً. بعض من النص تم قصه من النهاية.</string>

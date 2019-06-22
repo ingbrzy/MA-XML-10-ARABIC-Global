@@ -398,7 +398,7 @@
     <string name="pref_camera_delay_capture_entry_5s">تأخير ٥ ثواني</string>
     <string name="pref_camera_delay_capture_entry_10s">تأخير ١٠ ثواني</string>
     <string name="pref_ai_detect">اكتشاف AI</string>
-    <string name="pref_google_lens">Google lens</string>
+    <string name="pref_google_lens">Google Lens</string>
     <string name="pref_camera_beauty">التجميل</string>
     <string name="pref_camera_beauty_deep">التجميل الذكي</string>
     <string name="pref_camera_asd_night_title">تعزيز الصور قليلة الإضاءة تلقائيًا</string>
@@ -465,6 +465,7 @@
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
@@ -534,7 +535,7 @@
     <string name="pref_privacy_title">سياسة الخصوصية</string>
     <string name="user_agree">موافق</string>
     <string name="do_not_remind_me">عدم الإظهار مرة أخرى</string>
-    <string name="user_notice_identify_summary_format">قبل إستخدام الكاميرا، يجب عليك أن تقرأ وتوافق على <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">اتفاقية المستخدم</a> وسياسة الخصوصية<a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"> لدينا</a>. تحتاج الكاميرا ايضا الاتصال بالإنترنت للعمل بشكل طبيعي. موافق؟</string>
+    <string name="user_notice_identify_summary_format">قبل إستخدام الكاميرا، يجب عليك أن تقرأ وتوافق على <a href="http://www.miui.com/res/doc/eula.html?lang=ar_EG">اتفاقية المستخدم</a> وسياسة الخصوصية<a href="http://www.miui.com/res/doc/privacy.html?lang=ar_EG"> لدينا</a>. تحتاج الكاميرا ايضا الاتصال بالإنترنت للعمل بشكل طبيعي. موافق؟</string>
     <string name="user_notice_title">الأحكام والشروط</string>
     <string name="network_access_user_notice_title">الاتصال بالإنترنت</string>
     <string name="install_confirmed">تثبيت</string>
@@ -684,7 +685,7 @@
     <string name="pref_google_lens_title">إقتراحات Lens</string>
     <string name="pref_google_lens_summary">قم بتوجيه الكاميرا إلى معلومات جهات الاتصال وعناوين URL ورموز QR لعرض الخيارات المتاحة</string>
     <string name="pref_camera_long_press_viewfinder_title">إعدادات محدد المنظر</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google lens</string>
+    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">قفل AE/AF</string>
     <string name="beauty_body_whole">الجسم</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
@@ -716,12 +717,13 @@
     <string name="eye_light_angel">ملاك</string>
     <string name="beauty_mode_reset_toast">تم مسح تأثيرات التجميل بنجاح</string>
     <string name="makeup_reset_toast">تم مسح تأثيرات المكياج بنجاح</string>
+    <string name="pref_camera_zoom_mode_entry_macro">ماكرو</string>
     <string name="beauty_clear_toast">تم مسح تأثيرات التجميل بنجاح</string>
     <string name="ultra_wide_mode_use_hint_text_sat">"جرب وضع العدسة بزاوية واسعة فائقة 0.6X لتغطية مساحة أكبر من المشهد في الصورة. 
 وضع العدسة بزاوية واسعة فائقة مناسب عندما لا يمكنك التصوير من بعيد."</string>
     <string name="ultra_wide_open_tip_sat">زاوية واسعة فائقة 0.6X</string>
     <string name="video_beauty_tip">تجميل للفيديو</string>
-    <string name="module_name_fun_ar">مرح</string>
+    <string name="module_name_fun_ar">Mimoji</string>
     <string name="mimoji_fragment_tab_name">Mimoji</string>
     <string name="mimoji_on_create">إنشاء Mimoji</string>
     <string name="mimoji_check_normal">انقر زر التصوير</string>
@@ -744,14 +746,14 @@
     <string name="mimoji_detect_faceshape_failed">تعذر اكتشاف شكل الوجه</string>
     <string name="mimoji_detect_unknow_failed">خطأ غير معروف</string>
     <string name="mimoji_recapture_alert">سيتم تجاهل جميع التغييرات عند البدء من جديد. المتابعة على أية حال؟</string>
-    <string name="mimoji_edit_back_alert">All the changes will be discarded once you go back. Go back anyway?</string>
+    <string name="mimoji_edit_back_alert">سيتم تجاهل جميع التغييرات عند الرجوع. الرجوع على اية حال؟</string>
     <string name="mimoji_edit_abandon_alert">تجاهل كل التغييرات؟</string>
     <string name="mimoji_edit_abandon_capture_alert">تجاهل كل التغييرات؟</string>
     <string name="mimoji_edit_cancel_alert">سيتم تجاهل جميع التغييرات. الغاء على اي حال؟</string>
     <string name="mimoji_delete_dialog_title">حذف Mimoji؟</string>
     <string name="mimoji_tips">انقر لالتقاط صورة. اضغط بإستمرار لتسجيل الفيديو.</string>
     <string name="mimoji_detect_tips">حافظ على وجهك داخل الإطار</string>
-    <string name="mimoji_cancle">Cancel</string>
+    <string name="mimoji_cancle">إلغاء</string>
     <string name="mimoji_delete"><font fgcolor="#ffff0000">حذف</font></string>
     <string name="mimoji_back">رجوع</string>
     <string name="mimoji_reset">إعادة تعيين</string>
@@ -771,16 +773,17 @@
     <string name="mimoji_nose_lisps">الأنف والشفتين</string>
     <string name="mimoji_mustache">شعر الوجه</string>
     <string name="mimoji_mole">شامات</string>
-    <string name="mimoji_freckle">Freckles</string>
-    <string name="mimoji_eyeglass">Glasses</string>
+    <string name="mimoji_freckle">نمش</string>
+    <string name="mimoji_eyeglass">نظارات</string>
     <string name="mimoji_ornament">الإكسسوارات</string>
-    <string name="mimoji_headwear">Hats</string>
+    <string name="mimoji_headwear">قبعات</string>
     <string name="mimoji_ear">الأذن</string>
-    <string name="mimoji_eye_shape">Eye shape</string>
+    <string name="mimoji_eye_shape">شكل العين</string>
     <string name="mimoji_eyelash">رموش العين</string>
     <string name="mimoji_eyebrow_shape">شكل الحاجب</string>
     <string name="mimoji_mouth_type">الفم</string>
     <string name="mimoji_nose">الأنف</string>
     <string name="mimoji_earring">الأقراط</string>
-    <string name="ultra_wide_recommend_tip_hint_sat">Try 0.6X ultra wide angle mode</string>
+    <string name="ultra_wide_recommend_tip_hint_sat">جرب وضع زاوية واسعة فائقة 0.6X</string>
+    <string name="lying_direct_hint">التوجيه الحالي</string>
 </resources>

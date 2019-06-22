@@ -2,6 +2,7 @@
 <resources>
     <string name="action_add_to_workspace">إضافة إلى مساحة العمل</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على جهازك</string>
+    <string name="activity_not_unlocked">انتظر حتى يتم إعادة تشغيل جهازك بالكامل قبل فتح التطبيقات</string>
     <string name="add_screen">إضافة الشاشة</string>
     <string name="announce_for_app_move_in_folder">تم نقلها إلى الموقع %1$d في المجلد</string>
     <string name="announce_for_checked">%1$s، محددة</string>
@@ -30,9 +31,11 @@
     <string name="announce_for_open_default_preview">تم فتح إعدادات الشاشة الرئيسية الافتراضية</string>
     <string name="announce_for_open_folder">تم فتح المجلد %1$s</string>
     <string name="announce_for_open_launcher_menu">تم فتح القائمة</string>
+    <string name="announce_for_search_bar">شريط البحث</string>
     <string name="announce_for_show_uninstall_dialog">يظهر مربع حوار إلغاء التثبيت. إلغاء أو تأكيد.</string>
     <string name="announce_for_unchecked">%1$s، غير محددة</string>
     <string name="announce_for_widget_span">العرض %1$d، الارتفاع %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">التطبيق موجود مسبقا</string>
     <string name="app_being_backup_message">يتم نسخ التطبيق احتياطيا</string>
     <string name="app_being_restored_message">يتم استعادة التطبيق</string>
@@ -92,6 +95,7 @@
     <string name="defalut_launcher_title">المشغل الافتراضي</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">ألعاب</string>
+    <string name="default_folder_title_meitu">تطبيقات Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_recommend">المزيد من التطبيقات</string>
     <string name="default_folder_title_security">النظام</string>
@@ -288,6 +292,8 @@
     <string name="preferences_general_title">إعدادات إضافية</string>
     <string name="preferences_title">إعدادات المشغل</string>
     <string name="preferred_app_settings_not_selected">غير محددة</string>
+    <string name="privacy_thumbnail_blur_summary">تمويه معاينات التطبيق في شاشة المستخدم مؤخراً</string>
+    <string name="privacy_thumbnail_blur_title">تمويه معاينات التطبيقات</string>
     <string name="quick_app">التطبيقات السريعة</string>
     <string name="recents_config_title">التطبيقات الحديثة</string>
     <string name="recommend_apk_size_and_desc">%1$d ميغابايت |%2$s</string>
@@ -315,6 +321,9 @@
     <string name="setting_wallpaper_tip">المس او مرر للتعديل</string>
     <string name="settings">الإعدادات</string>
     <string name="settings_shortcut">الإعدادت</string>
+    <string name="shake_to_align_icons">هز الجهاز لملء الخلايا الفارغة بإيقونات</string>
+    <string name="shake_to_align_icons_summary">هز الجهاز أثناء وضع التعديل لملء الخلايا الفارغة تلقائيًا بإيقونات</string>
+    <string name="shake_to_align_icons_title">هز الجهاز لملء الخلايا الفارغة</string>
     <string name="share">مشاركة</string>
     <string name="show_all">عرض الكل</string>
     <string name="show_mem_info_title">إظهار حالة الذاكرة</string>
@@ -324,11 +333,13 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_downloaded">تم تنزيلها</string>
     <string name="status_downloading">جارٍ التنزيل</string>
     <string name="status_installing">تثبيت</string>
     <string name="status_paused">إيقاف مؤقت</string>
     <string name="status_pending">جارٍ الإنتظار</string>
+    <string name="system_shortcuts_more_operation">معلومات التطبيق</string>
     <string name="title_jeejen">الشاشة الرئيسية Jeejen</string>
     <string name="title_select_live_folder">اختر المجلد</string>
     <string name="title_select_shortcut">اختر الاختصار</string>
@@ -367,9 +378,4 @@
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
     <string name="widgets_preview_title">إضافة تطبيق مصغر</string>
-    <string name="activity_not_unlocked">انتظر حتى يتم إعادة تشغيل جهازك بالكامل قبل فتح التطبيقات</string>
-    <string name="default_folder_title_meitu">Meitu</string>
-    <string name="privacy_thumbnail_blur_summary">تمويه معاينات التطبيق في شاشة المستخدم مؤخراً</string>
-    <string name="privacy_thumbnail_blur_title">طمس معاينات التطبيقات</string>
-    <string name="system_shortcuts_more_operation">معلومات التطبيق</string>
 </resources>

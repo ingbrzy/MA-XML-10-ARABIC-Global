@@ -2,13 +2,16 @@
 <resources>
     <string name="alert_message_clear_records">حذف التسجيلات المحددة؟</string>
     <string name="alert_message_delete_local_record">حذف هذا التسجيل؟</string>
-    <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز الخاص بك إلى حذفه أيضاً من Mi Cloud. حذف الآن؟</string>
+    <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Mi Cloud. حذف الآن؟</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="app_name">المسجل</string>
     <string name="back">رجوع</string>
     <string name="button_queue_for_wifi">انتظر</string>
     <string name="button_start_now">تنزيل</string>
     <string name="call_record">المكالمات المسجلة</string>
+    <string name="call_record_list_group_all">الكل</string>
+    <string name="call_record_list_group_connected">متصل</string>
+    <string name="call_record_list_group_unconnected">غير متصل</string>
     <string name="clear_records">حذف التسجيلات المتزامنة</string>
     <string name="cloud_record_open">التسجيلات المتزامنة</string>
     <string name="cloud_record_tip">مزامنة التسجيلات مع Mi Cloud.</string>
@@ -133,13 +136,14 @@
     <string name="preference_enable_earpiece_summary">استخدام مكبر صوت جهاز الاستقبال للتشغيل الخارجي</string>
     <string name="preference_enable_earpiece_title">استخدام جهاز الاستقبال لتشغيل الصوت</string>
     <string name="preference_led_indicator">إشعارات قفل الشاشة</string>
-    <string name="preference_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة ووميض ضوء الإشعارات في شاشة القفل</string>
+    <string name="preference_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة ووميض ضوء الإشعارات</string>
     <string name="preference_online_orders">طلبات عبر الإنترنت</string>
     <string name="preference_recog_faqs">الأسئلة الشائعة حول التحويل إلى نصوص عبر الإنترنت</string>
     <string name="preference_recog_terms">شروط الخدمة</string>
     <string name="preference_record_scenes_dialog_title">اختيار نوع التسجيل</string>
     <string name="preference_scenes">نوع التسجيل</string>
     <string name="preference_silent_mode">كتم الرنين أثناء التسجيل</string>
+    <string name="preference_status_bar_indicator_prompt">عرض اختصار شريط الحالة أثناء التسجيل</string>
     <string name="preference_tip_rename">تسمية التسجيلات يدوياً</string>
     <string name="privacy_policy_title">سياسة الخصوصية</string>
     <string name="recognition_error_cancel">تم الإلغاء</string>
@@ -231,6 +235,9 @@
     <string name="service_instructions">حول iflyrec.com</string>
     <string name="share">مشاركة</string>
     <string name="share_dialog_title">مشاركة باستخدام</string>
+    <string name="shortcut_records">التسجيلات</string>
+    <string name="shortcut_start_record">بدء التسجيل</string>
+    <string name="shortcut_stop_record">إيقاف التسجيل</string>
     <string name="sound_recorder_settings">الإعدادات</string>
     <string name="speech_recognition_complete">تم التحويل إلى النصوص</string>
     <string name="speech_recognition_running_tip">"جارٍ المعالجة "</string>

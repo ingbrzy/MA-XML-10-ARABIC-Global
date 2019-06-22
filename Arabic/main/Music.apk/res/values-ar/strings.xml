@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="April">أبريل</string>
+    <string name="August">أغسطس</string>
+    <string name="December">ديسمبر</string>
+    <string name="February">فبراير</string>
+    <string name="January">يناير</string>
+    <string name="July">يوليو</string>
+    <string name="June">يونيو</string>
+    <string name="March">مارس</string>
+    <string name="May">مايو</string>
+    <string name="November">نوفمبر</string>
+    <string name="October">أكتوبر</string>
+    <string name="September">سبتمبر</string>
+    <string name="Updated_at">"محدث: "</string>
     <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
     <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
     <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
@@ -88,6 +101,7 @@
     <string name="available_playlist_name_format">قائمة تشغيل جديدة %d</string>
     <string name="avoid_to_use_traffic_summary">لا تستخدم شبكة الجوال لتشغيل الموسيقى</string>
     <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الجوال لتشغيل الأغاني</string>
+    <string name="back">رجوع</string>
     <string name="back_confirm">انقر مرة اخرى لنقل التطبيق الى الخلفية</string>
     <string name="bluetooth_device">جهاز صوت البلوتوث</string>
     <string name="buffering">تخزين مؤقت…</string>
@@ -150,8 +164,8 @@
     <string name="desktop_lyric_dialog_positive_button">جرّب الآن</string>
     <string name="desktop_lyric_dialog_title">جرّب الآن</string>
     <string name="desktop_lyric_lock_toast">مقفل. يمكنك إلغاء قفل الموسيقى في مركز الإشعارات.</string>
-    <string name="desktop_lyric_setting_summary">إظهار الكلمات في الشاشة الرئيسية</string>
-    <string name="desktop_lyric_setting_title">كلمات الشاشة الرئيسية</string>
+    <string name="desktop_lyric_setting_summary">إظهار الكلمات على الشاشة الرئيسية</string>
+    <string name="desktop_lyric_setting_title">الكلمات على الشاشة الرئيسية</string>
     <string name="desktop_lyric_textsize">النص</string>
     <string name="device_connected">متصل</string>
     <string name="device_not_connected">غير متصل</string>
@@ -222,6 +236,7 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
@@ -301,7 +316,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -359,6 +376,9 @@
     <string name="hot_icon_in_fast_indexer">مشهور</string>
     <string name="hungama_batch_download_alert_summary">يمكن لأعضاء PRO فقط تنزيل أغاني متعددة. الحصول على عضوية PRO الآن؟</string>
     <string name="hungama_free_download_out_summary">لا يمكنك بعد الآن تنزيل أغاني مجانية. احصل على اشتراك PRO لتنزيل دون حدود؟</string>
+    <string name="hungama_privacy_desc">سياسة خصوصية Hungama (اختياري)</string>
+    <string name="hungama_privacy_tips_content">للوصول إلى المحتوى عبر الإنترنت، يجب أن توافق على <a href="/link/click">سياسة خصوصية Hungama</a>.</string>
+    <string name="hungama_privacy_tips_title">سياسة خصوصية Hungama</string>
     <string name="hungama_subscribe_message">اشتري عضوية PRO لتنزيل الموسيقى بجودة عالية.</string>
     <string name="hungama_subscribe_positive_button">شراء عضوية PRO</string>
     <string name="hungama_subscribe_title">عضوية PRO</string>
@@ -445,7 +465,7 @@
     <string name="modify_song_info_success">تم تحديث معلومات الأغنية</string>
     <string name="more">المزيد</string>
     <string name="more_add_song_list">إضافة أغاني إلى قائمة الانتظار</string>
-    <string name="more_milink_and_bluetooth">والبلوتوث Mi Link</string>
+    <string name="more_milink_and_bluetooth">Mi Link والبلوتوث</string>
     <string name="more_settings">الإعدادات المتقدمة</string>
     <string name="more_settings_summary">مؤقت النوم وتصفية الملفات والمزيد</string>
     <string name="more_share">مشاركة</string>
@@ -487,7 +507,7 @@
     <string name="notification_download_failed">تعذر التنزيل</string>
     <string name="notification_download_success_more">%1$d تم تنزيلها</string>
     <string name="notification_need_wifi_for_size">حجم التحميل يتطلب Wi-Fi.</string>
-    <string name="notification_play_summary">عرض الأغنية الحالية والتالية، إظهار الكلمات على الشاشة الرئيسية</string>
+    <string name="notification_play_summary">عرض الأغنية الحالية والتالية، عرض الكلمات على الشاشة الرئيسية</string>
     <string name="notification_play_title">أداة مركز الاشعارات</string>
     <string name="notification_recommend_summary">تعرف على الموسيقى الجديدة الصاعدة والعروض الترويجية للتطبيقات</string>
     <string name="notification_recommend_title">الإشعارات الهامة</string>
@@ -498,14 +518,29 @@
     <string name="nowplaying_dialog_title_delete_tracks">حذف هذه الأغنية من قائمة الانتظار؟</string>
     <string name="nowplaying_menu_item_delete">حذف من قائمة الانتظار</string>
     <string name="ok">موافق</string>
+    <string name="online_apk_acquired">تم تحميل %d%%</string>
+    <string name="online_apk_acquiring">جارٍ التحميل… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">تعذر التزيل لعدم وجود مساحة كافية.</string>
     <string name="online_apk_downloading">جارٍ التنزيل…%d%%</string>
     <string name="online_apk_install_alert_confirm">تنزيل</string>
+    <string name="online_apk_install_alert_continue">إستئناف</string>
+    <string name="online_apk_install_alert_failed_text">تعذر التحميل، حاول مجدداً.</string>
     <string name="online_apk_install_alert_message">تحتاج إلى تنزيل مكون Yandex.Music الأضافي. التنزيل الآن؟</string>
+    <string name="online_apk_install_alert_mobile_net_text">أنت تستخدم بيانات الجوال الآن. قد يؤدي استخدامه لتحميل البيانات إلى تكاليف إضافية.</string>
     <string name="online_apk_install_alert_note">هذه الخدمة مزودة من قِبل Yandex.Music</string>
+    <string name="online_apk_install_alert_note_new">المحتوى عبر الإنترنت مقدم من %s</string>
+    <string name="online_apk_install_alert_pause">إيقاف مؤقت</string>
+    <string name="online_apk_install_alert_retry">حاول مجدداً</string>
+    <string name="online_apk_install_alert_start">بدء</string>
+    <string name="online_apk_install_completed">انتهى تنزيل المحتوى عبر الإنترنت بنجاح. انقر %s للعرض.</string>
     <string name="online_apk_install_error_no_enough_space">تعذر التثبيت لعدم وجود مساحة كافية.</string>
     <string name="online_apk_install_error_with_reason">تعذر التثبيت (خطأ %d)</string>
+    <string name="online_apk_install_failed_with_reason" formatted="false">تعذر تنزيل المحتوى عبر الإنترنت. انقر %s للمحاوله مجدداً. رمز الخطأ: %d.</string>
+    <string name="online_apk_install_in_background">جارٍ تنزيل المحتوى عبر الإنترنت في الخلفية…</string>
+    <string name="online_apk_install_network_change_paused">انت تستخدم بيانات الجوال. تم استئناف تنزيل العناصر مؤقتاً. انقر %s للعرض.</string>
+    <string name="online_apk_install_network_error">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="online_list_delete_message">كل الاغاني التي تم تنزيلها في قائمة التشغيل سيتم حذفها من وحدة التخزين الداخلي.</string>
+    <string name="online_playlist_category">قوائم التشغيل</string>
     <string name="online_recommend">قائمة التشغيل</string>
     <string name="online_service_open_tip">خدمات الموسيقى عبر الانترنت مشغلة</string>
     <string name="online_service_title">خدمات عبر الإنترنت</string>
@@ -560,6 +595,7 @@
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامي)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
@@ -594,6 +630,8 @@
     <string name="save_changes">حفظ التغييرات</string>
     <string name="search_album_and_lyric">ابحث عن أغلفة ألبوم وكلمات</string>
     <string name="search_empty">تعذر إيجاد أية نتائج</string>
+    <string name="search_empty_subtitle_online_music">انقر على الزر أدناه لفتح %s.</string>
+    <string name="search_empty_title_online_music">لا توجد عناصر هنا بعد.</string>
     <string name="search_for_album">ألبوم</string>
     <string name="search_for_artist">فنان</string>
     <string name="search_hint">بحث عن فنانين، اغاني، ألبومات وتوصيات</string>
@@ -660,6 +698,7 @@
     <string name="start_to_check_new_version">جار التحقق من وجود تحديثات…</string>
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
     <string name="storage_usb">وحدة تخزين USB</string>
@@ -701,7 +740,7 @@
     <string name="title_online_recommend">قوائم تشغيل مميزة</string>
     <string name="title_search_history">سجل البحث</string>
     <string name="toast_download_error_by_count_limit">لقد قمت باستخدام حصص التحميل الخاصة بك لهذا الشهر.</string>
-    <string name="toast_download_error_by_not_login">قم بتسجيل الدخول الى حساب Mi ثم حاول مرة أخرى.</string>
+    <string name="toast_download_error_by_not_login">قم بتسجيل الدخول الى حساب Mi ثم حاول مجددا.</string>
     <string name="toast_download_error_by_vip_required">احصل على حزمة الأغاني المميزة لتنزيل هذه الأغنية.</string>
     <string name="toast_download_in_process">جارٍ التنزيل</string>
     <string name="toast_is_pro">انت بالفعل عضو PRO.</string>
@@ -712,6 +751,8 @@
     <string name="toast_not_pro">تتوفر هذه الميزة فقط لأعضاء PRO.</string>
     <string name="toast_uhd_songs_for_download">تم تعيين جودة التحميل إلى عالية</string>
     <string name="toast_uhd_songs_for_stream">تم تعييين جودة التشغيل إلى عالية</string>
+    <string name="today">اليوم</string>
+    <string name="top_chart_title">القوائم</string>
     <string name="ultra_high_quality">الأعلى</string>
     <string name="unknown_album_name">ألبوم غير معروف</string>
     <string name="unknown_artist_name">فنان غير معروف</string>
@@ -722,6 +763,7 @@
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="version_info">الإصدار</string>
     <string name="video_play_cellular">جهازك غير متصل بشبكة Wi-Fi. استخدام بيانات الجوال؟</string>
     <string name="video_replay_btn">التشغيل مرة أخرى</string>
