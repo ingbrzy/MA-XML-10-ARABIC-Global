@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">%d إشعار في اليوم</item>
+        <item quantity="zero">%d إشعار في اليوم</item>
+        <item quantity="one">%d إشعار في اليوم</item>
+        <item quantity="two">%d إشعارات في اليوم</item>
+        <item quantity="few">%d إشعارات في اليوم</item>
+        <item quantity="many">%d إشعار في اليوم</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">%d إشعار في الأسبوع</item>
+        <item quantity="zero">%d إشعار في الأسبوع</item>
+        <item quantity="one">%d إشعار في الأسبوع</item>
+        <item quantity="two">%d إشعارات في الأسبوع</item>
+        <item quantity="few">%d إشعارات في الأسبوع</item>
+        <item quantity="many">%d إشعار في الأسبوع</item>
+    </plurals>
+</resources>
