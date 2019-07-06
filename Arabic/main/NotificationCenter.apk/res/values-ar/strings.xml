@@ -29,7 +29,6 @@
     <string name="off">متوقف</string>
     <string name="on">مشغل</string>
     <string name="show_badge_notifications">شارات الإشعارات</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_disable_float_notification">الإشعارات العائمة غير مسموح بها</string>
     <string name="summary_disable_lockscreen_notification">إشعارات قفل الشاشة غير مسموح بها</string>
     <string name="summary_disable_show_badge_notification">شارات الإشعارات غير مسموح بها</string>
