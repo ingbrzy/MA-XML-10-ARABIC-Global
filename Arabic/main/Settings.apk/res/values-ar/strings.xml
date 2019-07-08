@@ -2428,7 +2428,6 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="gesture_prevent_ringing_title">الضغط على زر التشغيل وزر رفع مستوى الصوت معًا</string>
     <string name="gesture_setting_off">إيقاف</string>
     <string name="gesture_setting_on">تشغيل</string>
-    <string name="gesture_wakeup_title">انقر مرتين على الشاشة لإيقاظها</string>
     <string name="giga_hertz">غيغاهرتز</string>
     <string name="gigabyteShort">غ.ب</string>
     <string name="global_change_warning">يؤثر هذا الإعداد على جميع المستخدمين في هذا الهاتف.</string>
