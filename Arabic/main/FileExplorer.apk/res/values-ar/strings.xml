@@ -161,7 +161,6 @@
     <string name="dialog_type_image">الصور</string>
     <string name="dialog_type_text">المستندات</string>
     <string name="dialog_type_video">الفيديوهات</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">عرض الاسم</string>
     <string name="domain">النطاق</string>
     <string name="download_success">تم التنزيل بنجاح</string>
@@ -208,7 +207,6 @@
     <string name="favorite_ringtone">نغمات الرنين</string>
     <string name="favorite_screen_cap">لقطات الشاشة</string>
     <string name="feedback_send_email_body_extra_info">لا تحذف المعلومات التالية. سوف يساعدنا ذلك على إيجاد المشكلة.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">للقراءة: </string>
     <string name="file_info_canwrite">للكتابة: </string>
     <string name="file_info_ishidden">مخفي: </string>

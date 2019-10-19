@@ -36,7 +36,6 @@
     <string name="dialog_market_score_title_step2">شكرا لملاحظاتك!</string>
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
-    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot هو الطريقة التقليدية لفلاش أجهزة Mi. عندما يكون الجهاز في وضع Fastboot، فانه يمكن الوصول إلى جميع البيانات المخزنة فيه ومحوها مباشرة. نحن نقوم بقفل وضع Fastboot للتأكد من بقاء بياناتك الخاصة آمنة في حالة فقدان الجهاز، بالإضافة إلى ضمان موثوقية العثور على ميزات الجهاز.</string>
     <string name="fastboot_locked_answer_2">في حال فقدت جهازك، يضمن وضع Fastboot أمان العناصر المخزنة فيه. إذا قمت بإلغاء قفل وضع Fastboot، فلن تكون قادرا على قفل جهازك عن بعد أو محو البيانات باستخدام العثور على الجهاز. ولهذا السبب لا ننصح بإلغاء قفل وضع Fastboot على جهازك.</string>
     <string name="fastboot_locked_answer_3">يجب عليك استخدام أداة إلغاء القفل من موقع MIUI. لإلغاء قفل الجهاز، نحن بحاجة للتأكد من أن الجهاز لك. لهذا السبب يجب عليك تسجيل الدخول باستخدام حساب Mi وتشغيل العثور على الجهاز.</string>
