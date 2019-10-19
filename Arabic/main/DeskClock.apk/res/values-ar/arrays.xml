@@ -25,14 +25,14 @@
         <item>تخصيص</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>سيتم التنبيه في أقل من ١ دقيقة.</item>
-        <item>سيتم التنبيه بعد %1$s.</item>
-        <item>سيصدر المنبه صوتاً في %2$s.</item>
-        <item>سيتم التنبيه بعد %1$s و %2$s.</item>
-        <item>سيتم التنبيه بعد %3$s.</item>
-        <item>سيتم التنبيه بعد %1$s و %3$s.</item>
-        <item>سيتم التنبيه بعد %2$s و %3$s.</item>
-        <item>سيتوقف المنبه بعد %1$s %2$s و %3$s.</item>
+        <item>سيرن المنبه في أقل من ١ دقيقة.</item>
+        <item>سيرن المنبه بعد %1$s.</item>
+        <item>سيرن المنبه بعد %2$s.</item>
+        <item>سيرن المنبه بعد %1$s و %2$s.</item>
+        <item>سيرن بعد %3$s.</item>
+        <item>سيرن المنبه بعد %1$s و %3$s.</item>
+        <item>سيرن المنبه بعد %2$s و %3$s.</item>
+        <item>سيرن المنبه بعد %1$s %2$s و %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>جيد</item>

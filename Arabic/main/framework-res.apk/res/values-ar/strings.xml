@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">تنبيه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">عذرًا، هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
     <string name="selectTextMode">تحديد نص</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">رمز بصمة الإصبع</string>
     <string name="paste_as_plain_text">اللصق كنص عادي</string>
     <string name="autofill">الملء التلقائي</string>
@@ -119,7 +120,7 @@
     <string name="android_system_label">‏نظام Android</string>
     <string name="android_upgrading_apk">جارٍ تحسين التطبيق %1$d من %2$d.</string>
     <string name="android_upgrading_complete">جارٍ إعادة التشغيل.</string>
-    <string name="android_upgrading_fstrim">جارٍ تحسين السعة التخزينية.</string>
+    <string name="android_upgrading_fstrim">جارٍ تحسين سعة التخزين.</string>
     <string name="android_upgrading_notification_title">جارٍ إنهاء تحديث النظام…</string>
     <string name="android_upgrading_starting_apps">بدء التطبيقات.</string>
     <string name="android_upgrading_title">جارٍ تحديث الهاتف…</string>
@@ -284,7 +285,7 @@
     <string name="deprecated_target_sdk_app_store">البحث عن تحديث</string>
     <string name="deprecated_target_sdk_message">‏تمّ إنشاء هذا التطبيق لإصدار قديم من Android وقد لا يعمل بشكل صحيح. جرِّب البحث عن تحديثات أو الاتصال بمطوّر البرامج.</string>
     <string name="description_target_unlock_tablet">مرر بسرعة لإلغاء التأمين.</string>
-    <string name="device_storage_monitor_notification_channel">السعة التخزينية للجهاز</string>
+    <string name="device_storage_monitor_notification_channel">سعة التخزين للجهاز</string>
     <string name="dial">اتصال</string>
     <string name="dial_desc">الاتصال برقم الهاتف المختار</string>
     <string name="dial_number_using">"طلب رقم
@@ -386,6 +387,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
     <string name="fcComplete">اكتمل رمز الميزة.</string>
     <string name="fcError">حدثت مشكلة بالاتصال أو أن رمز الميزة غير صحيح.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">بحث</string>
     <string name="find_next">بحث عن التطابق التالي</string>
     <string name="find_on_page">بحث في الصفحة</string>
@@ -591,6 +593,7 @@
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ إلغاء تأمين شريحة SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
 أعد المحاولة خلال %2$d ثانية."</string>
@@ -615,12 +618,12 @@
     <string name="leave_accessibility_shortcut_on">استخدام الاختصار</string>
     <string name="loading">جارٍ التحميل…</string>
     <string name="locale_search_menu">البحث</string>
-    <string name="lock_to_app_description">"يقفل تثبيت الشاشة العرض في رؤية واحدة.
+    <string name="lock_to_app_description">"تثبيت الشاشة يقفل العرض في رؤية واحدة.
 
- لإلغاء التثبيت، اضغط و استمر على زر الرئيسية والطاقة في آن واحد."</string>
+ لإلغاء التثبيت، اضغط و استمر على زر الرئيسية و الطاقة في آن واحد."</string>
     <string name="lock_to_app_description_accessible">"تثبيت الشاشة يقفل العرض في رؤية واحدة.
 
- لإلغاء التثبيت، اضغط واستمر على زر الرئيسية والطاقة في آن واحد."</string>
+ لإلغاء التثبيت، اضغط و استمر على زر الرئيسية و الطاقة في آن واحد."</string>
     <string name="lock_to_app_toast">لإلغاء تثبيت هذه الشاشة، اضغط باستمرار على زر الرئيسية و الطاقة في آن واحد.</string>
     <string name="lock_to_app_toast_accessible">لإلغاء تثبيت هذه الشاشة، اضغط باستمرار على زر الرئيسية و الطاقة في آن واحد.</string>
     <string name="lock_to_app_unlock_password">المطالبة بكلمة المرور قبل إزالة التثبيت</string>
@@ -883,6 +886,7 @@
     <string name="notification_channel_wfc">‏الاتصال عبر Wi-Fi</string>
     <string name="notification_hidden_text">إشعار جديد</string>
     <string name="notification_listener_binding_label">برنامج تلقّي الإشعارات الصوتية</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">خدمة ترتيب أهمية الإشعارات</string>
     <string name="notification_reply_button_accessibility">الرد</string>
     <string name="notification_title">حدث خطأ أثناء تسجيل الدخول إلى %1$s</string>
@@ -995,8 +999,8 @@
     <string name="permdesc_requestInstallPackages">للسماح لتطبيق ما بطلب تثبيت الحزم.</string>
     <string name="permdesc_route_media_output">للسماح للتطبيق بتوجيه إخراج الوسائط إلى أجهزة خارجية أخرى.</string>
     <string name="permdesc_runInBackground">يمكن أن يعمل هذا التطبيق في الخلفية. وهذا قد يستنفد البطارية بشكل أسرع.</string>
-    <string name="permdesc_sdcardRead">‏للسماح للتطبيق بقراءة محتوى بطاقة SD.</string>
-    <string name="permdesc_sdcardWrite">‏للسماح للتطبيق بالكتابة إلى بطاقة SD.</string>
+    <string name="permdesc_sdcardRead">‏للسماح للتطبيق بقراءة محتوى وحدة تخزين USB.</string>
+    <string name="permdesc_sdcardWrite">‏للسماح للتطبيق بالكتابة إلى وحدة تخزين USB.</string>
     <string name="permdesc_sendSms">‏للسماح للتطبيق بإرسال رسائل قصيرة SMS. وقد يؤدي هذا إلى تحمل رسوم غير متوقعة. وقد تكلفك التطبيقات الضارة أموالاً من خلال إرسال رسائل بدون موافقة منك.</string>
     <string name="permdesc_setAlarm">للسماح للتطبيق بضبط المنبّه في تطبيق المنبّه المثبّت. ربما لا تنفذ بعض تطبيقات المنبّه هذه الميزة.</string>
     <string name="permdesc_setInputCalibration">يتيح للتطبيق إمكانية تعديل معلمات المعايرة في شاشة اللمس. يجب عدم اللجوء إليه مع التطبيقات العادية.</string>
@@ -1137,8 +1141,8 @@
     <string name="permlab_requestInstallPackages">طلب حزم التثبيت</string>
     <string name="permlab_route_media_output">توجيه إخراج الوسائط</string>
     <string name="permlab_runInBackground">العمل في الخلفية</string>
-    <string name="permlab_sdcardRead">‏قراءة محتوى بطاقة SD</string>
-    <string name="permlab_sdcardWrite">‏تعديل محتوى بطاقة SD أو حذفها</string>
+    <string name="permlab_sdcardRead">‏قراءة محتوى وحدة تخزين USB</string>
+    <string name="permlab_sdcardWrite">‏تعديل محتوى وحدة تخزين USB أو حذفها</string>
     <string name="permlab_sendSms">‏إرسال رسائل قصيرة SMS وعرضها</string>
     <string name="permlab_setAlarm">تعيين منبه</string>
     <string name="permlab_setInputCalibration">تغيير معايرة أجهزة الإدخال</string>
@@ -1229,7 +1233,7 @@
     <string name="printing_disabled_by">تم إيقاف الطباعة بواسطة %s.</string>
     <string name="profile_encrypted_detail">تم قفل الملف الشخصي للعمل.</string>
     <string name="profile_encrypted_message">انقر لإلغاء قفل الملف الشخصي للعمل</string>
-    <string name="progress_erasing">‏جارٍ محو بطاقة SD...</string>
+    <string name="progress_erasing">‏جارٍ محو وحدة تخزين USB...</string>
     <string name="quick_contacts_not_available">لم يتم العثور على تطبيق لعرض جهة الاتصال هذه.</string>
     <string name="reason_service_unavailable">خدمة الطباعة ليست مفعّلة</string>
     <string name="reason_unknown">غير معروف</string>
@@ -1410,7 +1414,7 @@
     <string name="stk_cc_ussd_to_dial_video">‏تم تغيير طلب USSD إلى مكالمة فيديو.</string>
     <string name="stk_cc_ussd_to_ss">‏تم تغيير طلب USSD إلى طلب SS.</string>
     <string name="stk_cc_ussd_to_ussd">‏تم التغيير إلى طلب USSD الجديد.</string>
-    <string name="storage_internal">السعة التخزينية المشتركة الداخلية</string>
+    <string name="storage_internal">سعة التخزين المشتركة الداخلية</string>
     <string name="storage_sd_card">‏بطاقة SD</string>
     <string name="storage_sd_card_label">‏بطاقة SD من %s</string>
     <string name="storage_usb">‏وحدة تخزين USB</string>
@@ -1580,6 +1584,9 @@
     <string name="wifi_p2p_show_pin_message">‏رمز PIN:</string>
     <string name="wifi_p2p_to_message">إلى:</string>
     <string name="wifi_p2p_turnon_message">‏ابدأ Wi-Fi Direct. يؤدي هذا إلى إيقاف عميل/نقطة اتصال Wi-Fi.</string>
+    <string name="wifi_softap_config_change">التغييرات التي طرأت على إعدادات نقطة الاتصال</string>
+    <string name="wifi_softap_config_change_detailed">لا يتوافق هذا الجهاز مع إعدادك المفضّل الخاص باستخدام النطاق 5 غيغاهرتز فقط. وسيستخدم الجهاز بدلاً من ذلك النطاق 5 غيغاهرتز عندما يكون متاحًا.</string>
+    <string name="wifi_softap_config_change_summary">تمّ تغيير نطاق نقطة الاتصال الخاصة بك.</string>
     <string name="wifi_wakeup_enabled_content">أنت قريب من شبكة محفوظة: %1$s.</string>
     <string name="wifi_wakeup_enabled_title">‏تم تفعيل شبكة Wi-Fi تلقائيًا.</string>
     <string name="wifi_wakeup_onboarding_action_disable">عدم إعادة التشغيل</string>
@@ -1608,6 +1615,7 @@
     <string name="zen_mode_feature_name">عدم الإزعاج</string>
     <string name="zen_mode_forever">لحين الإيقاف</string>
     <string name="zen_mode_forever_dnd">حتى يتم إيقاف \"عدم الإزعاج\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">حتى %1$s</string>
     <string name="zen_upgrade_notification_content">انقر للاطّلاع على ما تم حظره.</string>
     <string name="zen_upgrade_notification_title">تم تغيير وضع \"الرجاء عدم الإزعاج\".</string>

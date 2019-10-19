@@ -37,11 +37,11 @@
     <string name="incall_error_supp_service_hangup">لا يمكن إنهاء المكالمة.</string>
     <string name="incall_error_supp_service_hold">لا يمكن تعليق المكالمات.</string>
     <string name="onscreen_add_call_text">إضافة مكالمة</string>
-    <string name="onscreen_audio_mode_bluetooth">البلوتوث</string>
+    <string name="onscreen_audio_mode_bluetooth">بلوتوث</string>
     <string name="onscreen_audio_mode_conference">جماعية</string>
     <string name="onscreen_audio_mode_handset">سماعة الأذن</string>
     <string name="onscreen_audio_mode_headset">سماعة الرأس</string>
-    <string name="onscreen_audio_mode_speaker">سماعة</string>
+    <string name="onscreen_audio_mode_speaker">مكبر الصوت</string>
     <string name="onscreen_call_record">تسجيل</string>
     <string name="sip_call_not_support_record">لا يمكن تسجيل مكالمات SIP</string>
     <string name="onscreen_hold_text">تعليق</string>
@@ -78,7 +78,6 @@
     <string name="respond_via_sms_custom_message">رسالة مخصصة</string>
     <string name="manageConferenceLabel">إدارة المكالمات الجماعية</string>
     <string name="emergency_call_dialog_number_for_display">رقم الطوارئ</string>
-    <string name="volte_call">مكالمة VoLTE</string>
     <string name="notification_dialing">جارٍالاتصال</string>
     <string name="notification_ongoing_call">مكالمة جارية</string>
     <string name="notification_on_hold">معلقة</string>
@@ -128,14 +127,9 @@
     <string name="msim_select_default_time_left">(%d ثانية)</string>
     <string name="select_sim_hint">لا يمكن استخدام بطاقة SIM %2$d، عندما تكون بطاقة SIM %1$d e قيد الاستخدام.</string>
     <string name="select_one_sim_title">يمكن استخدام بطاقة SIM %1$d فقط</string>
-    <string name="select_sim_hint_for_heduohao">لا يمكن استخدام بطاقة أخرى عندما تكون %1$d قيد الاستخدام بدلا من %2$d.</string>
-    <string name="select_one_sim_title_for_heduohao">يمكن فقط استخدام بطاقة SIM %1$d بدلا من %2$d</string>
     <string name="can_not_use">لا يمكن الاستخدام</string>
     <string name="sim1_description">SIM1</string>
     <string name="sim2_description">SIM2</string>
-    <string name="sim1_heduohao_card">Sub1</string>
-    <string name="sim2_heduohao_card">Sub2</string>
-    <string name="sim3_heduohao_card">Sub3</string>
     <string name="call_description_recording">يتم التسجيل…</string>
     <string name="call_recording_error_privacy">لا يمكن التسجيل أثناء تشغيل وضع الضيف</string>
     <string name="call_recording_error_sd_access">لا يمكن دخول بطاقة SD</string>
@@ -169,7 +163,6 @@
     <string name="onscreen_message_text">الرسائل</string>
     <string name="onscreen_close_preview_camera">إغلاق</string>
     <string name="upgrade_vt_prompt">التبديل لمكالمة فيديو؟</string>
-    <string name="incoming_answer_voice_text">رد صوتي</string>
     <string name="picking_participant">الحصول على معلومات جهة الاتصال…</string>
     <string name="conference_caller_info_name">مكالمة جماعية مع %1$s</string>
     <string name="video_conference_caller_info_name">مكالمة فيديو جماعية مع %1$s</string>
@@ -191,8 +184,8 @@
     <string name="incoming_circle_text_reject">تحرير</string>
     <string name="incoming_circle_text_answer_p">مرّر للأعلى</string>
     <string name="incoming_circle_text_answer">تحرير</string>
-    <string name="incoming_circle_text_message_p">مرّر للأعلى</string>
-    <string name="incoming_circle_text_message">تحرير</string>
+    <string name="incoming_circle_text_video_answer_p">مرر لأعلى للرد عبر مكالمة فيديو</string>
+    <string name="incoming_circle_text_video_answer">حرر للرد عبر مكالمة فيديو</string>
     <string name="dialpad_zero">٠</string>
     <string name="dialpad_one">١</string>
     <string name="dialpad_two">٢</string>
@@ -206,4 +199,9 @@
     <string name="prompt_no_volte_when_failed">لا يمكن إجراء مكالمات. تأكد من اتصال جهازك بشبكة 4G مع دعم VoLTE.</string>
     <string name="volume_boost_text">تم زيادة مستوى الصوت بنجاح</string>
     <string name="supp_service_notification_call_waiting">الرقم المطلوب مشغول. يرجى الانتظار…</string>
+    <string name="incall_bubble_hangup_click_hint">اضغط مرة أخرى للعودة إلى الاتصال</string>
+    <string name="manager_conference_done">تم</string>
+    <string name="incoming_answer_voice_text">رد صوتي</string>
+    <string name="incoming_circle_text_message_p">مرّر للأعلى</string>
+    <string name="incoming_circle_text_message">تحرير</string>
 </resources>

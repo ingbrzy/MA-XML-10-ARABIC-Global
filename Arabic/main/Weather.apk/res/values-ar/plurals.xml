@@ -32,6 +32,14 @@
         <item quantity="few">متوسط %1$s محطات</item>
         <item quantity="many">متوسط %1$s محطة</item>
     </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">توقعات %1$s-يوم</item>
+        <item quantity="zero">توقعات %1$s-يوم</item>
+        <item quantity="one">توقعات %1$s-يوم</item>
+        <item quantity="two">توقعات %1$s-أيام</item>
+        <item quantity="few">توقعات %1$s-أيام</item>
+        <item quantity="many">توقعات %1$s-يوم</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_top">
         <item quantity="other">توقعات %1$s يوم</item>
         <item quantity="zero">توقعات %1$s يوم</item>

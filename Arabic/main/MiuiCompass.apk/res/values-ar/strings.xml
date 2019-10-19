@@ -55,6 +55,8 @@
     <string name="mobiledata_alert_dialog_title">تحذير استخدام البيانات</string>
     <string name="open_perm_msg">تحتاج البوصلة إلى الوصول لمعلومات الموقع والكاميرا. وهذا ضروري لتحديد الإحداثيات وتوفير معاينات مباشرة. السماح؟</string>
     <string name="open_perm_title">يتطلب أذونات</string>
+    <string name="permission_camera_desc">بإستخدام ميزان الماء</string>
+    <string name="permission_location_desc">عرض الإحداثيات والضغط الجوي</string>
     <string name="preference_other">أخرى</string>
     <string name="preference_privacy_title">سياسة الخصوصية</string>
     <string name="pressure">%.1f</string>

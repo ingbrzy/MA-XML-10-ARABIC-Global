@@ -58,6 +58,7 @@
     <string name="operation_send">ارسال</string>
     <string name="permission_intro_microphone">تسجيل الصوت عند ضبط مصدر الصوت على الميكروفون</string>
     <string name="permission_intro_storage">لحفظ تسجيلات الشاشة</string>
+    <string name="permission_microphone_desc">استخدام الميكروفون كمصدر صوت لتسجيلات الشاشة</string>
     <string name="quit_recording">الخروج من مسجل الشاشة</string>
     <string name="recording_failure">لا يمكن التسجيل، ابدء من جديد</string>
     <string name="recording_max_size">تم إيقاف التسجيل وحفظه لوصول ملف الفيديو إلى الحجم الأفصى. أبدء التسجيل من حيث توقفت إذا لم تنتهي بعد.</string>
@@ -70,6 +71,8 @@
     <string name="screen_record_params">معايير التسجيل</string>
     <string name="select_all">تحديد الكل</string>
     <string name="settings">الإعدادات</string>
+    <string name="settings_other">أخرى</string>
+    <string name="settings_privacy">سياسة الخصوصية</string>
     <string name="show_hard_key">إظهار أزرار التنقل</string>
     <string name="show_hard_key_summary">إظهار عند الضغط على زر الصفحة الرئيسية، القائمة، وأزرار الرجوع</string>
     <string name="show_screen_touch">إظهار إيماءات المس</string>

@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -92,7 +110,8 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>تفعيل برامج الترميز الإختيارية</item>
+        <item>LHDC</item>
+        <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -103,7 +122,8 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>تفعيل برامج الترميز الإختيارية</item>
+        <item>LHDC</item>
+        <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">

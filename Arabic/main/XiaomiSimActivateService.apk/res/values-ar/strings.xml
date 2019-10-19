@@ -3,7 +3,7 @@
     <string name="app_name">خدمة تفعيل Xiaomi SIM</string>
     <string name="accept">موافق</string>
     <string name="explain_send_sms_permission_title">تحقق من رقم الهاتف الخاص بك</string>
-    <string name="explain_send_sms_permission_msg">لتشغيل %s، سيرسل اليك إطار خدمة Xiaomi رسالة قصيرة للتحقق من رقم هاتفك. سيتم احتساب رسوم الرسالة القصيرة من قِبل شركة الاتصالات.</string>
+    <string name="explain_send_sms_permission_msg">لتشغيل %s، سيرسل اليك إطار خدمة Xiaomi رسالة قصيرة للتحقق من رقم هاتفك. سيتم احتساب رسوم الرسالة القصيرة عادية من قبل شركة الاتصالات.</string>
     <string name="explain_send_sms_permission_button">تحقق</string>
     <string name="activate_phone_failed_notif_title">لا يمكن تفعيل بطاقة SIM</string>
     <string name="activate_phone_failed_notif_title_msim">لا يمكن تفعيل بطاقة SIM %d</string>
@@ -37,7 +37,7 @@
     <string name="activate_status_desc_acquire_phone_number_server_no_info">تعذر التحقق من رقم الهاتف</string>
     <string name="activate_status_desc_registering_sim_account">جارٍ تسجيل بطاقة SIM…</string>
     <string name="activate_status_desc_registering_sim_account_server_error">حدث خطأ الخادم أثناء تسجيل بطاقة SIM</string>
-    <string name="activate_status_desc_checking_xiaomi_account">جارٍ التحقق من حساب Mi…</string>
+    <string name="activate_status_desc_checking_xiaomi_account">جار التحقق من حساب Mi…</string>
     <string name="activate_status_desc_checking_xiaomi_account_server_error">حدث خطأ في الخادم أثناء التحقق من حساب Mi</string>
     <string name="activate_status_desc_registering_xiaomi_account">جارٍ إنشاء حساب Mi…</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">حدث خطأ في الخادم أثناء إنشاء حساب Mi</string>
@@ -62,8 +62,8 @@
     <string name="activate_popup_desc_voip_privacy_prefix">خدمة VoIP مدعومة من Weihui. عرض Weihui</string>
     <string name="activate_popup_desc_voip_privacy">سياسة الخصوصية</string>
     <string name="activate_popup_title_register_account">إنشاء حساب Mi</string>
-    <string name="activate_popup_desc_register_account">قد تكون هناك حاجة لرسالة قصيرة لإنشاء حساب Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="activate_popup_desc_register_account_intl">قد تكون هناك حاجة لرسالة قصيرة دولية لإنشاء حساب Mi. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="activate_popup_desc_register_account">قد تكون هناك حاجة لرسالة قصيرة (SMS) لإنشاء حساب Mi الخاص بك. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
+    <string name="activate_popup_desc_register_account_intl">قد تكون هناك حاجة لرسالة (SMS) دولية لإنشاء حساب Mi الخاص بك. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
     <string name="activate_popup_desc_register_account_downlink">أدخل رقم هاتفك</string>
     <string name="activate_popup_title_failed_send_sms">تعذر إرسال رسالة SMS</string>
     <string name="activate_popup_desc_failed_send_sms">تعذر إرسال رسالة التفعيل. تأكد من أن بطاقة SIM الخاصة بك مفعّلة.</string>

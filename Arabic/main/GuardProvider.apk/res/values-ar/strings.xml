@@ -14,19 +14,19 @@
     <string name="DesAvast">Avast</string>
     <string name="tencent_dialog_title">سياسة الخصوصية لـ Tencent</string>
     <string name="tencent_dialog_header">تعمل هذه الميزة على تشفير معرف جهازك وتحميله إلى خوادم Tencent(%s).</string>
-    <string name="tencent_dialog_policy">عرض سياسة الخصوصية</string>
+    <string name="tencent_dialog_policy">سياسة الخصوصية</string>
     <string name="tencent_dialog_cloudscan">تحميل أسماء التطبيقات وتفاصيلها و فحصها باستخدام تعريفات الفيروسات عبر الإنترنت.</string>
     <string name="tencent_dialog_dbupdate">تحديث قاعدة بيانات الفيروسات تلقائياً</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="avl_dialog_title">سياسة خصوصية لـ AVL</string>
     <string name="avl_dialog_header">تعمل هذه الميزة على تشفير معرف جهازك وتحميله إلى خوادم AVL (%s).</string>
-    <string name="avl_dialog_policy">عرض سياسة الخصوصية</string>
+    <string name="avl_dialog_policy">سياسة الخصوصية</string>
     <string name="avl_dialog_cloudscan" />
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">سياسة خصوصية Avast</string>
     <string name="avast_dialog_header">هذه الميزة تعمل على تشفير وتحميل مُعرف جهازك إلى خوادم Avast (%s).</string>
-    <string name="avast_dialog_policy">عرض سياسة الخصوصية</string>
+    <string name="avast_dialog_policy">سياسة الخصوصية</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>

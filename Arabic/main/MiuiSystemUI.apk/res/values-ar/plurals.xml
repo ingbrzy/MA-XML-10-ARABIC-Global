@@ -16,22 +16,6 @@
         <item quantity="few">تم فتحها حديثا، التطبيقات المتاحة: %d. مرّر لأعلى للحذف، اسحب لأسفل للقفل.</item>
         <item quantity="many">تم فتحها حديثا، التطبيقات المتاحة: %d. مرّر لأعلى للحذف، اسحب لأسفل للقفل.</item>
     </plurals>
-    <plurals name="block_record_notification_more_text">
-        <item quantity="other">إخفاء الإشعارات من %1$s &amp; %2$d تطبيق.</item>
-        <item quantity="zero">إخفاء الإشعارات من %1$s &amp; %2$d تطبيق.</item>
-        <item quantity="one">إخفاء الإشعارات من %1$s &amp; %2$d تطبيق.</item>
-        <item quantity="two">إخفاء الإشعارات من %1$s &amp; %2$d تطبيقات.</item>
-        <item quantity="few">إخفاء الإشعارات من %1$s &amp; %2$d تطبيقات.</item>
-        <item quantity="many">إخفاء الإشعارات من %1$s &amp; %2$d تطبيق.</item>
-    </plurals>
-    <plurals name="disable_notification_confirm_title">
-        <item quantity="other">إخفاء إشعارات %d تطبيق؟</item>
-        <item quantity="zero">إخفاء إشعارات %d تطبيق؟</item>
-        <item quantity="one">إخفاء إشعارات هذا التطبيق؟</item>
-        <item quantity="two">إخفاء إشعارات %d تطبيقات؟</item>
-        <item quantity="few">إخفاء إشعارات %d تطبيقات؟</item>
-        <item quantity="many">إخفاء إشعارات %d تطبيق؟</item>
-    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d إشعار غير مهم</item>
         <item quantity="zero">%d إشعار غير مهم</item>

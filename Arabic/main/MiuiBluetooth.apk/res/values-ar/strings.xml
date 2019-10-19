@@ -50,13 +50,13 @@
     <string name="fast_connect_device_connect_cancel">إلغاء</string>
     <string name="fast_connect_device_connect_ok">اتصال</string>
     <string name="fast_connect_device_connect_retry">إعادة المحاولة</string>
-    <string name="fast_connect_device_connect_setup">الإعدادات</string>
+    <string name="fast_connect_device_connect_setup">إعدادات</string>
     <string name="fast_connect_device_connect_success">تم</string>
     <string name="fast_connect_device_headset_l">اليسار</string>
     <string name="fast_connect_device_headset_r">اليمين</string>
     <string name="fast_connect_device_headset_reset">اضغط مع الاستمرار على الزر الموجود في المربع</string>
-    <string name="fast_connect_device_title_connect_fail">تعذر اتصال %1$s</string>
-    <string name="fast_connect_device_title_connecting">جارٍ الاتصال…</string>
+    <string name="fast_connect_device_title_connect_fail">تعذر توصيل %1$s</string>
+    <string name="fast_connect_device_title_connecting">جارٍ التوصيل…</string>
     <string name="fast_connect_device_title_find_headset">العثور على سماعة الرأس %1$s</string>
     <string name="fast_connect_device_title_find_headset_others">العثور على سماعة الرأس %1$s الأخرى</string>
     <string name="goto_package">فتح %1$s</string>

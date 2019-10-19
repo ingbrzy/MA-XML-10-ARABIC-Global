@@ -16,6 +16,22 @@
         <item quantity="few">لم تتم مزامنة %1$s عناصر</item>
         <item quantity="many">لم تتم مزامنة %1$s عنصر</item>
     </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">بعد %1$d يوم</item>
+        <item quantity="zero">بعد %1$d يوم</item>
+        <item quantity="one">بعد %1$d يوم</item>
+        <item quantity="two">بعد %1$d أيام</item>
+        <item quantity="few">بعد %1$d أيام</item>
+        <item quantity="many">بعد %1$d يوم</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">قبل %1$d يوم</item>
+        <item quantity="zero">قبل %1$d يوم</item>
+        <item quantity="one">قبل %1$d يوم</item>
+        <item quantity="two">قبل %1$d أيام</item>
+        <item quantity="few">قبل %1$d أيام</item>
+        <item quantity="many">قبل %1$d يوم</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">تم حذف %1$s ملاحظة من المجلد</item>
         <item quantity="zero">تم حذف %1$s ملاحظة من المجلد</item>
@@ -55,6 +71,46 @@
         <item quantity="two">تم إلغاء إخفاء %1$s ملاحظات بنجاح</item>
         <item quantity="few">تم إلغاء إخفاء %1$s ملاحظات بنجاح</item>
         <item quantity="many">تم إلغاء إخفاء %1$s ملاحظة بنجاح</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">في %1$d يوم</item>
+        <item quantity="zero">في %1$d يوم</item>
+        <item quantity="one">في %1$d يوم</item>
+        <item quantity="two">في %1$d أيام</item>
+        <item quantity="few">في %1$d أيام</item>
+        <item quantity="many">في %1$d يوم</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">قبل %1$d يوم</item>
+        <item quantity="zero">قبل %1$d يوم</item>
+        <item quantity="one">قبل %1$d يوم</item>
+        <item quantity="two">قبل %1$d أيام</item>
+        <item quantity="few">قبل %1$d أيام</item>
+        <item quantity="many">قبل %1$d يوم</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">حذف %1$s مهمة؟</item>
+        <item quantity="zero">حذف %1$s مهمة؟</item>
+        <item quantity="one">حذف %1$s مهمة؟</item>
+        <item quantity="two">حذف %1$s مهام؟</item>
+        <item quantity="few">حذف %1$s مهام؟</item>
+        <item quantity="many">حذف %1$s مهمة؟</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">قبل %1$d يوم</item>
+        <item quantity="zero">قبل %1$d يوم</item>
+        <item quantity="one">قبل %1$d يوم</item>
+        <item quantity="two">قبل %1$d أيام</item>
+        <item quantity="few">قبل %1$d أيام</item>
+        <item quantity="many">قبل %1$d يوم</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">في %1$d يوم</item>
+        <item quantity="zero">في %1$d يوم</item>
+        <item quantity="one">في %1$d يوم</item>
+        <item quantity="two">في %1$d أيام</item>
+        <item quantity="few">في %1$d أيام</item>
+        <item quantity="many">في %1$d يوم</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d حرف</item>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="feed_back_home">
+        <item quantity="other">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
+        <item quantity="zero">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
+        <item quantity="one">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
+        <item quantity="two">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثواني…</item>
+        <item quantity="few">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثواني…</item>
+        <item quantity="many">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">سيتم عرض الترجمات قبل %.1f ثانية</item>
         <item quantity="zero">سيتم عرض الترجمات قبل %.1f ثانية</item>
@@ -17,12 +25,12 @@
         <item quantity="many">سيتم عرض الترجمات بعد %.1f ثانية</item>
     </plurals>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
-        <item quantity="other">الحجم: %.2f ك.ب</item>
-        <item quantity="zero">الحجم: %.2f ك.ب</item>
-        <item quantity="one">الحجم: %.2f ك.ب</item>
-        <item quantity="two">الحجم: %.2f ك.ب</item>
-        <item quantity="few">الحجم: %.2f ك.ب</item>
-        <item quantity="many">الحجم: %.2f ك.ب</item>
+        <item quantity="other">الحجم: %.2fك.ب</item>
+        <item quantity="zero">الحجم: %.2fك.ب</item>
+        <item quantity="one">الحجم: %.2fك.ب</item>
+        <item quantity="two">الحجم: %.2fك.ب</item>
+        <item quantity="few">الحجم: %.2fك.ب</item>
+        <item quantity="many">الحجم: %.2fك.ب</item>
     </plurals>
     <plurals name="lv_video_count">
         <item quantity="other">%d فيديو</item>
@@ -48,36 +56,76 @@
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
     </plurals>
-    <plurals name="pw_comment_count">
-        <item quantity="other">%d تعليق</item>
-        <item quantity="zero">%d تعليق</item>
-        <item quantity="one">%d تعليق</item>
-        <item quantity="two">%d تعليقات</item>
-        <item quantity="few">%d تعليقات</item>
-        <item quantity="many">%d تعليق</item>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">حذف %s عنصر الآن؟</item>
+        <item quantity="zero">حذف %s عنصر الآن؟</item>
+        <item quantity="one">حذف %s عنصر الآن؟</item>
+        <item quantity="two">حذف %s عناصر الآن؟</item>
+        <item quantity="few">حذف %s عناصر الآن؟</item>
+        <item quantity="many">حذف %s عنصر الآن؟</item>
     </plurals>
-    <plurals name="pw_comment_sub_count">
-        <item quantity="other">%d رد</item>
-        <item quantity="zero">%d رد</item>
-        <item quantity="one">%d رد</item>
-        <item quantity="two">%d ردود</item>
-        <item quantity="few">%d ردود</item>
-        <item quantity="many">%d رد</item>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s عنصر محدد</item>
+        <item quantity="zero">%s عنصر محدد</item>
+        <item quantity="one">%s عنصر محدد</item>
+        <item quantity="two">%s عناصر محددة</item>
+        <item quantity="few">%s عناصر محددة</item>
+        <item quantity="many">%s عنصر محدد</item>
     </plurals>
-    <plurals name="pw_comment_view_all_comment">
-        <item quantity="other">عرض %d تعليق</item>
-        <item quantity="zero">عرض %d تعليق</item>
-        <item quantity="one">عرض %d تعليق</item>
-        <item quantity="two">عرض %d تعليقات</item>
-        <item quantity="few">عرض %d تعليقات</item>
-        <item quantity="many">عرض %d تعليق</item>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">حجم الملف:%.2fك.ب</item>
+        <item quantity="zero">حجم الملف:%.2fك.ب</item>
+        <item quantity="one">حجم الملف:%.2fك.ب</item>
+        <item quantity="two">حجم الملف:%.2fك.ب</item>
+        <item quantity="few">حجم الملف:%.2fك.ب</item>
+        <item quantity="many">حجم الملف:%.2fك.ب</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s نتيجة من \"%1$s\"</item>
+        <item quantity="zero">%2$s نتيجة من \"%1$s\"</item>
+        <item quantity="one">%2$s نتيجة من \"%1$s\"</item>
+        <item quantity="two">%2$s نتيجة من \"%1$s\"</item>
+        <item quantity="few">%2$s نتيجة من \"%1$s\"</item>
+        <item quantity="many">%2$s نتيجة من \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d صورة</item>
+        <item quantity="zero">%d صورة</item>
+        <item quantity="one">%d صورة</item>
+        <item quantity="two">%d صور</item>
+        <item quantity="few">%d صور</item>
+        <item quantity="many">%d صورة</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d فيديو</item>
+        <item quantity="zero">%d فيديو</item>
+        <item quantity="one">%d فيديو</item>
+        <item quantity="two">%d فيديوهات</item>
+        <item quantity="few">%d فيديوهات</item>
+        <item quantity="many">%d فيديو</item>
     </plurals>
     <plurals name="subscriber">
-        <item quantity="other"> مشترك</item>
-        <item quantity="zero"> مشترك</item>
-        <item quantity="one"> مشترك</item>
-        <item quantity="two"> مشتركين</item>
-        <item quantity="few"> مشتركين</item>
-        <item quantity="many"> مشترك</item>
+        <item quantity="other">%s مشترك</item>
+        <item quantity="zero">%s مشترك</item>
+        <item quantity="one">%s مشترك</item>
+        <item quantity="two">%s مشتركين</item>
+        <item quantity="few">%s مشتركين</item>
+        <item quantity="many">%s مشترك</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">يتم تقديم الترجمة %.1f ثانية</item>
+        <item quantity="zero">يتم تقديم الترجمة %.1f ثانية</item>
+        <item quantity="one">يتم تقديم الترجمة %.1f ثانية</item>
+        <item quantity="two">يتم تقديم الترجمة %.1f ثواني</item>
+        <item quantity="few">يتم تقديم الترجمة %.1f ثواني</item>
+        <item quantity="many">يتم تقديم الترجمة %.1f ثانية</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">يتم تأخير الترجمة إلى %.1f ثانية</item>
+        <item quantity="zero">يتم تأخير الترجمة إلى %.1f ثانية</item>
+        <item quantity="one">يتم تأخير الترجمة إلى %.1f ثانية</item>
+        <item quantity="two">يتم تأخير الترجمة إلى %.1f ثواني</item>
+        <item quantity="few">يتم تأخير الترجمة إلى %.1f ثواني</item>
+        <item quantity="many">يتم تأخير الترجمة إلى %.1f ثانية</item>
     </plurals>
 </resources>

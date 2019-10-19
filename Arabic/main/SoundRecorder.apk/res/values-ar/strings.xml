@@ -2,7 +2,7 @@
 <resources>
     <string name="alert_message_clear_records">حذف التسجيلات المحددة؟</string>
     <string name="alert_message_delete_local_record">حذف هذا التسجيل؟</string>
-    <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Mi Cloud. حذف الآن؟</string>
+    <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Xiaomi Cloud. حذف الآن؟</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="app_name">المسجل</string>
     <string name="back">رجوع</string>
@@ -14,12 +14,12 @@
     <string name="call_record_list_group_unconnected">غير متصل</string>
     <string name="clear_records">حذف التسجيلات المتزامنة</string>
     <string name="cloud_record_open">التسجيلات المتزامنة</string>
-    <string name="cloud_record_tip">مزامنة التسجيلات مع Mi Cloud.</string>
-    <string name="cloud_service_state_open_reminder">قم بتشغيل المزامنة مع Mi Cloud لمزامنة التسجيلات.</string>
+    <string name="cloud_record_tip">مزامنة التسجيلات مع Xiaomi Cloud.</string>
+    <string name="cloud_service_state_open_reminder">قم بتشغيل المزامنة مع Cloud لمزامنة التسجيلات.</string>
     <string name="cloud_status_full_dialog_cancel">ليس الآن</string>
     <string name="cloud_status_full_dialog_msg">مساحة تخزين icloud ممتلئة، لا يمكن مزامنة التسجيلات. ترقية الحساب الخاص بك للحصول على مساحة التخزين أكبر.</string>
     <string name="cloud_status_full_dialog_ok">ترقية</string>
-    <string name="cloud_status_full_dialog_title">مساحة تخزين Mi Cloud ممتلئة</string>
+    <string name="cloud_status_full_dialog_title">مساحة تخزين Xiaomi Cloud ممتلئة</string>
     <string name="data_connection_body">يؤدي استخدامك لإتصال بيانات الجوال في تنزيل هذا الملف إلى زيادة استخدام بياناتك. إذا تم تجاوز حد استخدام البيانات، قد تفرض عليك شركة الاتصالات رسوماً إضافية.</string>
     <string name="data_connection_button_text">موافق</string>
     <string name="data_connection_title">تحذير استخدام البيانات</string>
@@ -28,7 +28,7 @@
     <string name="deleting_message">جارٍ الحذف…</string>
     <string name="details">التفاصيل</string>
     <string name="dialog_content_storage_full">توقف التسجيل بسبب عدم وجود مساحة كافية على الذاكرة الداخلية للجهاز.</string>
-    <string name="dialog_privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وسيتم حذف جميع البيانات ذات الصلة من الخوادم. هذا قد يجعل التطبيق غير قابل للاستخدام تقريبا. هل تريد إلغاء الإذن على أي حال؟ لضمان أمان حسابك، سجل الدخول إلى i.mi.com قبل إلغاء الترخيص لخدمات Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وسيتم حذف جميع البيانات ذات الصلة من الخوادم. هذا قد يجعل التطبيق غير قابل للاستخدام تقريبا. هل تريد إلغاء الإذن على أي حال؟ لضمان أمان حسابك، سجل الدخول إلى i.mi.com قبل إلغاء الترخيص لخدمات Xiaomi Cloud.</string>
     <string name="dialog_title_storage_full">لا توجد مساحة كافية</string>
     <string name="download">تنزيل</string>
     <string name="duration_format_hour">%s ساعة</string>
@@ -60,7 +60,7 @@
     <string name="error_sdcard_access">لا يمكن دخول بطاقة SD</string>
     <string name="error_sdcard_unmounted">أدخل بطاقة SD الآن</string>
     <string name="export_to_note">تصدير</string>
-    <string name="head_set_tip_dialog_msg">افصل سماعات الأذن الخاصة بك لتكون قادرة على تسجيل الصوت مع مفضلة محددة (مثال، الموسيقى، الصوت).</string>
+    <string name="head_set_tip_dialog_msg">افصل سماعات الأذن لتسجيل الصوت بالإعدادات المحددة (على سبيل المثال ، الموسيقى أو الصوت).</string>
     <string name="head_set_tip_dialog_ok">فهمت</string>
     <string name="head_set_tip_dialog_title">استخدام mic الداخلي</string>
     <string name="invalid_argument">مُعطى غير صالح</string>
@@ -180,7 +180,7 @@
     <string name="recognize_extra_price_desp">(عرض حصري لمستخدمي Mi)</string>
     <string name="record">تسجيل</string>
     <string name="record_back_pressed_hint">لإيقاف التسجيل، المس رجوع مرة أخرى</string>
-    <string name="record_download">تنزيل من Mi Cloud</string>
+    <string name="record_download">تنزيل من Xiaomi Cloud</string>
     <string name="record_download_complete">تم تنزيلها</string>
     <string name="record_download_msg">يمكن تشغيل التسجيلات فقط بعد الانتهاء من تنزيلها.</string>
     <string name="record_download_msg_reload">هذا التسجيل غير موجود.</string>
@@ -245,7 +245,9 @@
     <string name="status_bar_back">انقر للعودة إلى المسجل</string>
     <string name="status_bar_recording">جارٍ التسجيل …</string>
     <string name="status_bar_recording_pause">تم إيقاف المسجل مؤقتاً</string>
+    <string name="text_btn_backward_3_seconds">تأخير ٣ ثواني</string>
     <string name="text_btn_complete">إيقاف</string>
+    <string name="text_btn_forward_3_seconds">تقديم ٣ ثواني</string>
     <string name="text_btn_list">التسجيلات</string>
     <string name="text_btn_mark">علامة</string>
     <string name="text_btn_pause">إيقاف مؤقت</string>
@@ -255,11 +257,16 @@
     <string name="text_btn_recording">تسجيل</string>
     <string name="text_btn_wave">موجة</string>
     <string name="text_finish">تأكيد</string>
+    <string name="text_play_speed_0_5">0.5X سرعة التشغيل</string>
+    <string name="text_play_speed_1_0">سرعة التشغيل العادية</string>
+    <string name="text_play_speed_1_5">1.5X سرعة التشغيل</string>
+    <string name="text_play_speed_2_0">2X سرعة التشغيل</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">يمكن ل%1$s تسجيل حوالي %2$s</string>
     <string name="toast_uninstall_fileexplorer">مدير الملفات غير مثبت</string>
+    <string name="usage_description">نسخ الصوت ومزامنة العناصر مع Cloud</string>
     <string name="webview_check_network">إعدادات الشبكة</string>
     <string name="webview_data_error">حدث خطأ ما</string>
     <string name="webview_locating_fail">لا يمكن العثور على موقعك</string>

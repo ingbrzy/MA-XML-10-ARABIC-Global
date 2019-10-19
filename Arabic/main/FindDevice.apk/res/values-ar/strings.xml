@@ -36,11 +36,11 @@
     <string name="unlock_error_interrupted">توقف</string>
     <string name="unlock_error_rpc">خطأ RPC</string>
     <string name="unlock_error_abort">تم الإلغاء من قبل المستخدم</string>
-    <string name="unlock_error_passport_sdk_timeout">SDK حساب Mi لا يستجيب</string>
+    <string name="unlock_error_passport_sdk_timeout">حزمة تطوير البرامج (SDK) لحساب Mi لا تستجيب</string>
     <string name="open_wifi_settings">فتح إعدادات Wi-Fi</string>
     <string name="activate_xiaomi_account">تفعيل هذا الجهاز</string>
     <string name="login_extra_steps">التحقق من تسجيل الدخول</string>
-    <string name="phone_locked">قد يكون هذا الجهاز مرتبط بحساب Mi مسبق (%s). قم بتسجيل الدخول لتفعيل هذا الجهاز.</string>
+    <string name="phone_locked">قد يكون هذا الجهاز مرتبطا بحساب Mi موجود مسبقا (%s). قم بتسجيل الدخول لتفعيل هذا الجهاز.</string>
     <string name="phone_locked_account_email">، البريد الإلكتروني المرتبط: %s</string>
     <string name="phone_locked_account_phone">، رقم الهاتف المرتبط: %s</string>
     <string name="password">كلمة المرور</string>
@@ -75,7 +75,7 @@
     <string name="device_lost">تم فقدان هذا الجهاز</string>
     <string name="device_locked">هذا الجهاز مُقفل</string>
     <string name="default_lock_msg_words_with_phone">مرحباً! لقد فقدت جهازي. هل يمكنك الاتصال بي؟ شكراً!</string>
-    <string name="default_lock_msg_words">هذا الجهاز مرتبط بحساب Mi مسبق. لأسباب أمنية، تحتاج إلى إدخال كلمة المرور للتحقق من الجهاز.</string>
+    <string name="default_lock_msg_words">هذا الجهاز مرتبط يحساب Mi موجود مسبقا. لأسباب أمنية، تحتاج إلى إدخال كلمة المرور للتحقق من الجهاز.</string>
     <string name="lock_msg_phone">معلومات جهة الاتصال: %s</string>
     <string name="emergency_call">مكالمة الطوارئ</string>
     <string name="return_to_call">الرجوع إلى المكالمة</string>

@@ -336,6 +336,22 @@
         <item quantity="few">يجب أن تحتوي كلمة المرور على %d أحرف كبيرة على الأقل</item>
         <item quantity="many">يجب أن تحتوي كلمة المرور على %d حرفًا كبيرًا على الأقل</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">يمكنك إدخال ما يصل إلى %d حرف</item>
+        <item quantity="zero">يمكنك إدخال ما يصل إلى %d حرف</item>
+        <item quantity="one">يمكنك إدخال ما يصل إلى %d حرف</item>
+        <item quantity="two">يمكنك إدخال ما يصل إلى %d حروف</item>
+        <item quantity="few">يمكنك إدخال ما يصل إلى %d حروف</item>
+        <item quantity="many">يمكنك إدخال ما يصل إلى %d حرف</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">أدخل %d حرف على الأقل</item>
+        <item quantity="zero">أدخل %d حرف على الأقل</item>
+        <item quantity="one">أدخل %d حرف على الأقل</item>
+        <item quantity="two">أدخل %d حروف على الأقل</item>
+        <item quantity="few">أدخل %d حروف على الأقل</item>
+        <item quantity="many">أدخل %d حرف على الأقل</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">يجب أن يتألف رمز PIN من %d رقم</item>
         <item quantity="zero">يجب أن يتألف رمز PIN من %d رقم</item>

@@ -121,12 +121,12 @@
         <item quantity="many">لم يتم مزامنة %d صورة. قم بتسجيل الخروج بعد مزامنة جميع العناصر للإحتفاظ بها؛ وإلا سيتم حذف العناصر.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">المزامنة متوقفة. سيتم إستئنافها بعد %d دقيقة…</item>
-        <item quantity="zero">المزامنة متوقفة. سيتم إستئنافها بعد %d دقيقة…</item>
-        <item quantity="one">المزامنة متوقفة. سيتم إستئنافها بعد %d دقيقة…</item>
-        <item quantity="two">المزامنة متوقفة. سيتم إستئنافها بعد %d دقائق…</item>
-        <item quantity="few">المزامنة متوقفة. سيتم إستئنافها بعد %d دقائق…</item>
-        <item quantity="many">المزامنة متوقفة. سيتم إستئنافها بعد %d دقيقة…</item>
+        <item quantity="other">إستئناف المزامنة بعد %d دقيقة</item>
+        <item quantity="zero">إستئناف المزامنة بعد %d دقيقة</item>
+        <item quantity="one">إستئناف المزامنة بعد %d دقيقة</item>
+        <item quantity="two">إستئناف المزامنة بعد %d دقائق</item>
+        <item quantity="few">إستئناف المزامنة بعد %d دقائق</item>
+        <item quantity="many">إستئناف المزامنة بعد %d دقيقة</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
         <item quantity="other">منذ %s دقيقة</item>
@@ -145,11 +145,11 @@
         <item quantity="many">منذ %s ساعة</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
-        <item quantity="zero">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
-        <item quantity="one">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
-        <item quantity="two">لن تتم مزامنة %s خدمات مع Mi Cloud</item>
-        <item quantity="few">لن تتم مزامنة %s خدمات مع Mi Cloud</item>
-        <item quantity="many">لن تتم مزامنة %s خدمة مع Mi Cloud</item>
+        <item quantity="other">لن تتم مزامنة %s خدمة مع Xiaomi Cloud</item>
+        <item quantity="zero">لن تتم مزامنة %s خدمة مع Xiaomi Cloud</item>
+        <item quantity="one">لن تتم مزامنة %s خدمة مع Xiaomi Cloud</item>
+        <item quantity="two">لن تتم مزامنة %s خدمات مع Xiaomi Cloud</item>
+        <item quantity="few">لن تتم مزامنة %s خدمات مع Xiaomi Cloud</item>
+        <item quantity="many">لن تتم مزامنة %s خدمة مع Xiaomi Cloud</item>
     </plurals>
 </resources>

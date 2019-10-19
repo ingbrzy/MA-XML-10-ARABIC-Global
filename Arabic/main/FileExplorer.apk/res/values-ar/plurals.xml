@@ -88,28 +88,4 @@
         <item quantity="few">"تم تحديد  %1$d  عناصر"</item>
         <item quantity="many">"تم تحديد  %1$d  عنصر"</item>
     </plurals>
-    <plurals name="search_head_hint_app">
-        <item quantity="other">%2$d عنصر من %1$s</item>
-        <item quantity="zero">%2$d عنصر من %1$s</item>
-        <item quantity="one">%2$d عنصر من %1$s</item>
-        <item quantity="two">%2$d عناصر من %1$s</item>
-        <item quantity="few">%2$d عناصر من %1$s</item>
-        <item quantity="many">%2$d عنصر من %1$s</item>
-    </plurals>
-    <plurals name="search_head_hint_file">
-        <item quantity="other">%2$d عنصر ذات صلة بالكلمة المفتاحية \"%1$s\"</item>
-        <item quantity="zero">%2$d عنصر ذات صلة بالكلمة المفتاحية \"%1$s\"</item>
-        <item quantity="one">%2$d االاداة المرافقة لمفتاح الكلمة\"%1$s\"</item>
-        <item quantity="two">%2$d عناصر ذات صلة بالكلمة المفتاحية \"%1$s\"</item>
-        <item quantity="few">%2$d عناصر ذات صلة بالكلمة المفتاحية \"%1$s\"</item>
-        <item quantity="many">%2$d عنصر ذات صلة بالكلمة المفتاحية \"%1$s\"</item>
-    </plurals>
-    <plurals name="search_head_hint_tag">
-        <item quantity="other">تم الإشارة إلى %2$d عنصر كـ %1$s</item>
-        <item quantity="zero">تم الإشارة إلى %2$d عنصر كـ %1$s</item>
-        <item quantity="one">تم الإشارة إلى %2$d عنصر كـ %1$s</item>
-        <item quantity="two">تم الإشارة إلى %2$d عناصر كـ %1$s</item>
-        <item quantity="few">تم الإشارة إلى %2$d عناصر كـ %1$s</item>
-        <item quantity="many">تم الإشارة إلى %2$d عنصر كـ %1$s</item>
-    </plurals>
 </resources>

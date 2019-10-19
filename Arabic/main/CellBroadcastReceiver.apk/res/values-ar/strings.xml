@@ -12,7 +12,7 @@
     <string name="emergency_alerts">الرسائل التحذيرية الطارئة</string>
     <string name="button_dismiss">موافق</string>
     <string name="app_label">Cell Broadcasts</string>
-    <string name="sms_cb_settings">تنبيهات الطوارئ</string>
+    <string name="sms_cb_settings">اعدادات بث الشبكة</string>
     <string name="cell_broadcast_settings_not_available">إعدادات البث الخلوي غير متوفّرة لهذا المستخدم</string>
     <string name="no_cell_broadcasts">لا تتوفر اشعارات نشطة في منطقتك. يمكنك تغيير إعدادات التنبيه باستخدام خيار قائمة الإعدادات.</string>
     <string name="menu_preferences">الإعدادات</string>

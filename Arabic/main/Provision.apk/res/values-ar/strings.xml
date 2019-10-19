@@ -18,7 +18,7 @@
     <string name="sim_card_detection_mobile_not_available">تعذر على بطاقة SIM الاتصال بشبكة</string>
     <string name="sim_scard_detecting_check_mobile_not_available">تعذر على بطاقة SIM الاتصال بشبكة مشغّل شبكة الجوّال. تأكد من وجود رصيد كافي، ثم حاول مرة أخرى.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">السماح بالاتصال بشبكات بيانات الجوال؟ إذا قمت بذلك، فأنه سيتم استخدام بطاقة SIM التي ادخلتها في الاتصال بشبكات بيانات الجوال.</string>
-    <string name="other_settings">إعدادات إضافية</string>
+    <string name="other_settings">الإعدادات الإضافية</string>
     <string name="other_settings_location">الموقع</string>
     <string name="other_settings_location_summary">السماح للتطبيقات بالوصول إلى موقعك</string>
     <string name="other_settings_user_experience">برنامج تجربة المستخدم</string>
@@ -26,13 +26,16 @@
     <string name="other_settings_user_experience_summary_index">عرض التفاصيل</string>
     <string name="other_settings_upload_debug_log_title">إرسال البيانات التشخيصية تلقائياً</string>
     <string name="other_settings_upload_debug_log_summary">قد تحتوي إحصائيات بيانات الاستخدام التي تساعدنا على إيجاد المشاكل وحلها على معلوماتك الشخصية</string>
-    <string name="other_settings_auto_update">التحديث تلقائياً</string>
-    <string name="other_settings_auto_update_summary">سيختار MIUI أفضل وقت لتثبيت التحديثات</string>
-    <string name="other_settings_ad_enable">توصيات إعلانية مخصصة</string>
-    <string name="other_settings_ad_enable_summary">تلقي إعلانات مخصصة استنادا إلى بيانات نشاطك</string>
+    <string name="other_settings_auto_update">التحديثات التلقائية للنظام</string>
+    <string name="other_settings_auto_update_summary">سيختار MIUI الوقت المناسب لتنزيل وتثبيت التحديثات. سيقوم جهازك بإعادة التشغيل تلقائيا لتعيين التغييرات.</string>
+    <string name="other_settings_ad_enable">الإعلانات المخصصة</string>
+    <string name="other_settings_ad_enable_summary">خصص الإعلانات على حسب اهتمامتك</string>
+    <string name="other_settings_ad_disable_summary">قم بتشغيل الميزة لإعلانات مخصصة</string>
+    <string name="other_settings_ad_dialog_content">عند إيقاف تشغيلك لهذه الميزة، لن تتمكن من تلقي إعلانات مخصصة بعد الآن، ولكنك ستتلقى العدد نفسة من الإعلانات التي قد لا تكون ذات صلة باهتماماتك. قم بتشغيل هذه الميزة للحصول على تجربة أفضل من خلال إعلانات ذات صلة أكثر بإهتمامتك. يمكنك العثور على مزيد من التفاصيل في سياسة خصوصية Xiaomi. إيقاف التشغيل على أية حال؟</string>
     <string name="other_settings_enhanced_lockscreen">خلفية كاروسيل</string>
-    <string name="other_settings_enhanced_lockscreen_summary">احصل على صور وقصص مختارة ترسل إلى شاشة القفل يوميًا. تطبق الشروط والأحكام.</string>
-    <string name="other_settings_enhanced_lockscreen_summary_index">الأحكام والشروط</string>
+    <string name="other_settings_enhanced_lockscreen_summary">احصل على صور وقصص رائعة يوميا على شاشة القفل. %1$s و %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary_index">اتفاقية ترخيص المستخدم النهائي</string>
+    <string name="other_settings_enhanced_lockscreen_privacy_index">سياسة الخصوصية</string>
     <string name="back">رجوع</string>
     <string name="next">التالي</string>
     <string name="skip_underline">تخطي هذه الخطوة</string>
@@ -51,12 +54,17 @@
     <string name="terms_of_use_label">"خصوصيتك مهمة جدًا بالنسبة لنا. يرجى قراءة شروط الخدمة وسياسة الخصوصية لفهم ماهي المعلومات التي نجمعها، وكيف نستخدمها والخيارات المتاحة لك.
 
 يجب أن توافق على شروط الخدمة وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI. ستتصل %s وحساب Mi بالإنترنت وتحصل على موقعك."</string>
-    <string name="terms_of_use_lable_apps">خدمات Mi وخدمات تفعيل Mi SIM و Mi Cloud والعثور على الجهاز والشاشة الرئيسية ومركز الألعاب و MAB ومكونات نظام MIUI Daemon و MSA وخدمات الترجمة والتطبيقات السريعة ومنصة التطبيقات والإحصائيات ورابط Mi</string>
-    <string name="terms_of_use_lable_gms">، خدمات متجر Play</string>
+    <string name="terms_of_use_lable_apps">خدمات Mi وخدمات تفعيل Mi SIM و Xiaomi Cloud والعثور على الجهاز والشاشة الرئيسية ومركز الألعاب ومكونات نظام MIUI Daemon و MSA وخدمات الترجمة والتطبيقات السريعة ومنصة التطبيقات والإحصائيات ورابط Mi</string>
+    <string name="terms_of_use_label_mab">, MAB</string>
+    <string name="terms_of_use_label_Mistore">, مكون النظام الإضافي لمتجر Mi</string>
+    <string name="terms_of_use_lable_gms">وخدمات متجر Play</string>
     <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
+    <string name="terms_of_use_ble_htmlViewer">، Fused Location Provider، HTMLViewer</string>
     <string name="terms_of_use_lable_smart_cards">والبطاقات الذكية</string>
     <string name="terms_of_use_lable_vsimcore">، MConnService</string>
-    <string name="terms_of_use_label_updater">، المحدث</string>
+    <string name="terms_of_use_label_updater">والمحدث</string>
+    <string name="terms_of_use_label_package">, مثبت الحزمة</string>
+    <string name="terms_of_use_label_phrase">, العبارات المتكررة</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>
@@ -88,7 +96,7 @@
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">استخدم بصمة الاصبع لالغاء قفل الجهاز، أو لتسجيل الدخول الى التطبيقات والخدمات.</string>
     <string name="content_description_start">بدء</string>
-    <string name="start_up_slogan">صمم خصيصاً لشاشة عرض كاملة</string>
+    <string name="start_up_slogan">الحياة أكثر بساطة</string>
     <string name="content_description_miui_version">MIUI 10</string>
     <string name="content_description_complete">اكتمل</string>
     <string name="language_picker_other_languages_title">المزيد من اللغات</string>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="other">%s days</item>
+        <item quantity="zero">%s days</item>
+        <item quantity="one">1 day</item>
+        <item quantity="two">%s days</item>
+        <item quantity="few">%s days</item>
+        <item quantity="many">%s days</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hours</item>
+        <item quantity="zero">%s hours</item>
+        <item quantity="one">1 hour</item>
+        <item quantity="two">%s hours</item>
+        <item quantity="few">%s hours</item>
+        <item quantity="many">%s hours</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutes</item>
+        <item quantity="zero">%s minutes</item>
+        <item quantity="one">1 minute</item>
+        <item quantity="two">%s minutes</item>
+        <item quantity="few">%s minutes</item>
+        <item quantity="many">%s minutes</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s seconds</item>
+        <item quantity="zero">%s seconds</item>
+        <item quantity="one">1 second</item>
+        <item quantity="two">%s seconds</item>
+        <item quantity="few">%s seconds</item>
+        <item quantity="many">%s seconds</item>
+    </plurals>
+</resources>

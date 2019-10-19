@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">كرة الاختصارات</string>
+    <string name="app_name">الكرة السريعة</string>
     <string name="app_not_installed">غير مثبت</string>
     <string name="applications">التطبيقات</string>
     <string name="category_others">أخرى</string>
     <string name="category_setting">الإعدادات</string>
-    <string name="close_panel">إيقاف كرة الاختصارات</string>
+    <string name="close_panel">إيقاف الكرة السريعة</string>
     <string name="customize_entries">تحديد اختصارات</string>
-    <string name="enable_touch_assistant">تشغيل كرة الاختصارات</string>
+    <string name="enable_touch_assistant">تشغيل الكرة السريعة</string>
     <string name="function_settings">إعدادات الاختصار</string>
     <string name="handy_mode_default_to_close_whether_open">تم إيقاف وضع اليد الواحدة افتراضياً. تشغيل وضع اليد الواحدة؟</string>
     <string name="hide_touch_assistant">إخفاء تلقائياً</string>
-    <string name="hide_touch_assistant_intro">إخفاء كرة الاختصارات في التطبيقات المحددة.</string>
+    <string name="hide_touch_assistant_intro">إخفاء الكرة السريعة في التطبيقات المحددة.</string>
     <string name="hide_when_fullscreen">التحرك جانبا عند ملء الشاشة</string>
     <string name="hide_when_fullscreen_intro">التحرك جانبا عند الدخول في وضع ملء الشاشة.</string>
     <string name="mi_wallet_summary">بطاقة المواصلات/دفع Mi/ بطاقة مفتاح</string>
@@ -41,7 +41,7 @@
     <string name="nfc_trans_card_not_in_use">بطاقة المواصلات هذه غير مفعلة</string>
     <string name="not_working">%s ( لا يعمل)</string>
     <string name="open">تشغيل</string>
-    <string name="open_panel">تشغيل كرة الاختصارات</string>
+    <string name="open_panel">تشغيل الكرة السريعة</string>
     <string name="pay_entry_dialog_title_select">تحديد تطبيق لفتحه</string>
     <string name="pay_entry_dialog_title_setting">تعيين تطبيق</string>
     <string name="pref_category_mipay">اختصارات NFC</string>

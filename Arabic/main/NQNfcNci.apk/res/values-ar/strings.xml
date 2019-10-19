@@ -23,7 +23,7 @@
     <string name="pairing_peripheral">جارٍ إقران %1$s</string>
     <string name="pairing_peripheral_failed">تعذر إقران %1$s</string>
     <string name="failed_to_enable_bt">تعذر تمكين بلوتوث</string>
-    <string name="confirm_pairing">هل تريد بالتأكيد إقران جهاز بلوتوث %1$s؟</string>
+    <string name="confirm_pairing">هل تريد فعلًا إقران جهاز بلوتوث %1$s؟</string>
     <string name="pair_yes">نعم</string>
     <string name="pair_no">لا</string>
     <string name="tap_again_to_pay">انقر مرة أخرى للدفع باستخدام %1$s</string>
@@ -41,4 +41,5 @@
     <string name="prompt_connect_to_network">هل تريد الاتصال بالشبكة %1$s؟</string>
     <string name="beam_requires_nfc_enabled">‏يتطلب شعاع Android تمكين ميزة NFC. هل تريد تمكينها؟</string>
     <string name="android_beam">‏شعاع Android</string>
+    <string name="beam_requires_external_storage_permission">لا يحتوي التطبيق على إذن سعة تخزين خارجية، إلا أنه مطلوب لإرسال هذا الملف</string>
 </resources>

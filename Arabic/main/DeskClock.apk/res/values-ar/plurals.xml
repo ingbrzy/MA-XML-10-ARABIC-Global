@@ -64,13 +64,45 @@
         <item quantity="few">%d ثواني</item>
         <item quantity="many">%d ثانية</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">تم تغيير مدة الغفوة إلى %d دقيقة</item>
+        <item quantity="zero">تم تغيير مدة الغفوة إلى %d دقيقة</item>
+        <item quantity="one">تم تغيير مدة الغفوة إلى %d دقيقة</item>
+        <item quantity="two">تم تغيير مدة الغفوة إلى %d دقائق</item>
+        <item quantity="few">تم تغيير مدة الغفوة إلى %d دقائق</item>
+        <item quantity="many">تم تغيير مدة الغفوة إلى %d دقيقة</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">تكرار %1$s مرة</item>
+        <item quantity="zero">تكرار %1$s مرة</item>
+        <item quantity="one">تكرار %1$s مرة</item>
+        <item quantity="two">تكرار %1$s مرات</item>
+        <item quantity="few">تكرار %1$s مرات</item>
+        <item quantity="many">تكرار %1$s مرة</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">كل %1$s دقيقة، رنين %2$s مرة</item>
+        <item quantity="zero">كل %1$s دقيقة، رنين %2$s مرة</item>
+        <item quantity="one">كل %1$s دقيقة، رنين %2$s مرة</item>
+        <item quantity="two">كل %1$s دقائق، رنين %2$s مرات</item>
+        <item quantity="few">كل %1$s دقائق، رنين %2$s مرات</item>
+        <item quantity="many">كل %1$s دقيقة، رنين %2$s مرة</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">كل %1$sدق</item>
+        <item quantity="zero">كل %1$sدق</item>
+        <item quantity="one">كل %1$sدق</item>
+        <item quantity="two">كل %1$sدق</item>
+        <item quantity="few">كل %1$sدق</item>
+        <item quantity="many">كل %1$sدق</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
-        <item quantity="zero">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
-        <item quantity="one">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
-        <item quantity="two">سيتوقف المنبه %2$s مرات (%1$s دقائق)</item>
-        <item quantity="few">سيتوقف المنبه %2$s مرات (%1$s دقائق)</item>
-        <item quantity="many">سيتوقف المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="other">سيرن المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="zero">سيرن المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="one">سيرن المنبه %2$s مرة (%1$s دقيقة)</item>
+        <item quantity="two">سيرن المنبه %2$s مرات (%1$s دقائق)</item>
+        <item quantity="few">سيرن المنبه %2$s مرات (%1$s دقائق)</item>
+        <item quantity="many">سيرن المنبه %2$s مرة (%1$s دقيقة)</item>
     </plurals>
     <plurals name="snooze_message">
         <item quantity="other">غفوة لمدة %d دقيقة</item>

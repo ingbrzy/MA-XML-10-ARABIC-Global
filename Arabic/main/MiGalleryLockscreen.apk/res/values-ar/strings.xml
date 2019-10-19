@@ -8,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
     <string name="abc_searchview_description_query">طلب البحث</string>
@@ -17,7 +27,6 @@
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
-    <string name="search_menu_title">البحث</string>
     <string name="add_to_trust_device">هذا جهاز موثوق به</string>
     <string name="and">  و </string>
     <string name="bind_sign_in_title">إضافة حساب</string>
@@ -62,8 +71,10 @@
     <string name="phone_number">رقم الهاتف</string>
     <string name="psw_hint">كلمة المرور</string>
     <string name="psw_sign_in">تسجيل الدخول باستخدام كلمة المرور</string>
+    <string name="search_menu_title">البحث</string>
     <string name="sign_in_title">تسجيل الدخول بإستخدام حساب Mi</string>
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ticket_hint">رمز التحقق</string>
     <string name="ticket_invalid">الرمز الذي أدخلته غير صحيح</string>
     <string name="ticket_sign_in">تسجيل الدخول عبر SMS</string>

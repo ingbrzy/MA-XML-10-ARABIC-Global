@@ -109,5 +109,5 @@
     <string name="atrace_saving">جارٍ حفظ سجل atrace…</string>
     <string name="atrace_saved">تم الحفظ بنجاح</string>
     <string name="adaptive_battery_title">استخدام البطارية التكيفية</string>
-    <string name="adaptive_battery_summary">حد البطارية للتطبيقات التي لا تستخدمها كثيراً</string>
+    <string name="adaptive_battery_summary">تقليل البطارية للتطبيقات الغير مستخدمة كثيرا</string>
 </resources>

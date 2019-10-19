@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">استمر بالضغط على الزر لمدة %1$d ثانية</item>
+        <item quantity="zero">استمر بالضغط على الزر لمدة %1$d ثانية</item>
+        <item quantity="one">استمر بالضغط على الزر لمدة %1$d ثانية</item>
+        <item quantity="two">استمر بالضغط على الزر لمدة %1$d ثواني</item>
+        <item quantity="few">استمر بالضغط على الزر لمدة %1$d ثواني</item>
+        <item quantity="many">استمر بالضغط على الزر لمدة %1$d ثانية</item>
+    </plurals>
+</resources>

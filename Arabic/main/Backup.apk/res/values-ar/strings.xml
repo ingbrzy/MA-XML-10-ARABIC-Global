@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"تقديم حجم النسخة: %1$s
 حجم تحديث دلتا: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="app_name">نسخة احتياطية</string>
     <string name="local_app_name">النسخ الاحتياطي</string>
@@ -47,9 +50,9 @@
     <string name="settings_summary">إعدادات الهاتف والرسائل</string>
     <string name="camera_summary">إعدادات الكاميرا (غير متضمنة صور)</string>
     <string name="gallery_summary">إعدادات المعرض (غير متضمن صور)</string>
-    <string name="account_summary">نسخ أحتياطي لكل من حساب Google وحساب Mi وبيانات المستخدم الأخرى</string>
-    <string name="cloud_app_name">نسخ Mi Cloud الإحتياطي</string>
-    <string name="cloud_home_title">Mi Cloud</string>
+    <string name="account_summary">نسخ أحتياطي لكل من حساب Google، وحساب Mi، وبيانات المستخدم الأخرى</string>
+    <string name="cloud_app_name">نسخ Xiaomi Cloud الإحتياطي</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
     <string name="prompt_reading">جار القراءة…</string>
     <string name="prompt_sending">جارٍ التحميل…</string>
     <string name="prompt_writing">جارٍ الحفظ…</string>
@@ -57,17 +60,17 @@
     <string name="backup_update">تحديث</string>
     <string name="backup_delete">حذف:</string>
     <string name="findlost_contact">استرداد جهات الاتصال</string>
-    <string name="findlost_contact_online">استرداد جهات الاتصال من Mi Cloud</string>
+    <string name="findlost_contact_online">استرداد جهات الاتصال من Cloud</string>
     <string name="cloud_backup_login">تسجيل الدخول لحساب Mi</string>
     <string name="cloud_backup_hint">للوصول إلى النسخ الاحتياطية، سجل الدخول الآن</string>
-    <string name="cloud_backup_window_title">نسخ Mi Cloud الإحتياطي</string>
-    <string name="cloud_restore_window_title">استعادة Mi Cloud</string>
+    <string name="cloud_backup_window_title">نسخ Xiaomi Cloud الإحتياطي</string>
+    <string name="cloud_restore_window_title">استعادة من Xiaomi Cloud</string>
     <string name="cloud_restore_title">استعادة البيانات الاحتياطية</string>
     <string name="local_backup_window_title">بيانات النسخ الاحتياطي المحلية</string>
     <string name="local_restore_window_title">الاستعادة محلياً</string>
     <string name="account_login">تسجيل الدخول</string>
     <string name="miliao_account_login">تسجيل الدخول مع Mi Talk</string>
-    <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Mi Cloud وغيرها من خدمات Mi من أي مكان.</string>
+    <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Xiaomi Cloud، سمات MIUI وغيرها من خدمات Mi من أي مكان.</string>
     <string name="auto_backup">جدولة النسخ الاحتياطي الروتيني</string>
     <string name="contact_title">جهات الاتصال</string>
     <string name="call_title">سجل المكالمات</string>
@@ -115,7 +118,7 @@
     <string name="sc_network_unavailable">تحقق من الاتصال ثم حاول مرة أخرى.</string>
     <string name="sc_bad_request">طلب غير صالح</string>
     <string name="sc_unaccess_password_file">لا يمكن العثور على كلمة المرور لشبكة Wi-Fi</string>
-    <string name="sc_service_unavailable">Mi Cloud غير متوفر</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud غير متاح</string>
     <string name="sc_unauthorized">تسجيل الدخول مرة أخرى</string>
     <string name="sc_request_timeout">انتهت مهلة الطلب</string>
     <string name="sc_precondition_failed">تحتاج أولاً إلى إضافة عنوان البريد الإلكتروني إلى حساب Mi.</string>
@@ -159,7 +162,7 @@
     <string name="auto_backup_user_data">التطبيقات</string>
     <string name="auto_backup_progress">جارٍ النسخ الاحتياطي…</string>
     <string name="backup">نسخ احتياطي</string>
-    <string name="restore">استرداد</string>
+    <string name="restore">استعادة</string>
     <string name="cloud_last_backup">"آخر عملية نسخ احتياطي في "</string>
     <string name="cloud_search">جارٍ البحث…</string>
     <string name="cloud_no_backup">لا توجد نسخ احتياطية</string>
@@ -173,7 +176,7 @@
     <string name="deselect_all">إلغاء تحديد الكل</string>
     <string name="reverse_all">مسح الكل</string>
     <string name="refresh">تحديث</string>
-    <string name="cloud_item_info_summary">"  (محلي: %1$s |Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">(محلي: %1$s |Xiaomi Cloud: %2$s)</string>
     <string name="cloud_restore_guide">لاستعادة بيانات المستخدم لـ S%s، المس استعادة</string>
     <string name="import_from_xiaomi_account_hint1">"١.\u0009قم بتنزيل تطبيق Mi Talk وسجل الدخول.
 \u0009http://www.miliao.com
@@ -195,7 +198,7 @@
     <string name="already_enable_encrypt">التشفير قيد التشغيل</string>
     <string name="enable_encrypt_summery1">سجل الدخول إلى حساب Mi للوصول إلى النسخ الاحتياطية المشفرة.</string>
     <string name="enable_encrypt_summery2">سيتم تشفير النسخ الاحتياطية تلقائياً. ستحتاج لتسجيل الدخول إلى حساب Mi للوصول إليها.</string>
-    <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة الاحتياطية بواسطة %1$s. للاسترداد، احذف الحساب الحالي وسجل الدخول إلى %2$s.</string>
+    <string name="enable_encrypt_xiaomi_account">تم إنشاء هذه النسخة الاحتياطية بواسطة %1$s. للاستعادة، احذف الحساب الحالي وسجل الدخول كـ %2$s.</string>
     <string name="button_got_it">موافق</string>
     <string name="no_encrypt_password">لا توجد كلمة مرور</string>
     <string name="enable_encrypt_fail">خطأ في التشفير</string>
@@ -224,9 +227,10 @@
     <string name="page_loading">لحظة من فضلك…</string>
     <string name="file_uploading">جارٍ التحميل…</string>
     <string name="new_backup">نسخ احتياطي</string>
-    <string name="restore_backup">استرداد</string>
+    <string name="restore_backup">استعادة</string>
     <string name="enable_encrypt_description">مشفر</string>
     <string name="disable_encrypt_description">غير مشفر</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">لحظة من فضلك…</string>
     <string name="state_mounting">الوصول إلى تخزين جهاز التوجيه…</string>
     <string name="abort_backup_confirm">لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟</string>
@@ -313,9 +317,7 @@
     <string name="trans_detail_item_app_data_too_large_tip">يبدو أن العنصر كبير جدا لنقلة.</string>
     <string name="trans_detail_item_app_data_skip_data">لا يمكن نقل بيانات التطبيق</string>
     <string name="trans_detail_item_app_data_selected_tip">كما تم اختيار التطبيقات المقابلة.</string>
-    <string name="trans_detail_list_footer">"١. يمكنك اختيار التطبيقات الفردية التي ترغب بنقلها..
-٢. إذا قمت بتحديد بيانات التطبيق، فسيتم تحديد التطبيقات المناسبة أيضًا.
-٣. قد لا يتم نقل بيانات تطبيق WeChat و QQ بسبب مشكلات التوافق. يمكنك تجربة ميزات النقل في التطبيق."</string>
+    <string name="trans_detail_list_footer">١. يمكنك اختيار التطبيقات الفردية التي ترغب بنقلها.. ٢. إذا قمت بتحديد بيانات التطبيق، فسيتم تحديد التطبيقات المناسبة أيضًا. ٣. قد لا يتم نقل بيانات تطبيق WeChat و QQ بسبب مشكلات التوافق. يمكنك تجربة ميزات النقل في التطبيق.</string>
     <string name="trans_detail_page_tip">كلما زادت العناصر التي حددتها، استمرت عملية النقل لوقت أطول.</string>
     <string name="trans_detail_sys_data_list_title">تطبيقات النظام</string>
     <string name="trans_detail_app_data_list_title">بيانات التطبيق</string>
@@ -375,9 +377,7 @@
     <string name="trans_wait_trans_data">"متصل بالجهاز القديم.
 في انتظار النقل…"</string>
     <string name="trans_select_data">قم بتحديد عناصر للارسال</string>
-    <string name="trans_select_data_tips">"حدد عناصر لنقلها.
-سيتم استبدال العناصر المماثلة الموجودة على الجهاز الجديد.
-(حجم العناصر المنقولة التي تراها الآن هو تقدير تقريبي.)"</string>
+    <string name="trans_select_data_tips">حدد عناصر لنقلها. سيتم استبدال العناصر المماثلة الموجودة على الجهاز الجديد. (حجم العناصر المنقولة التي تراها الآن هو تقدير تقريبي.)</string>
     <string name="trans_select_data_no_space">"لا توجد مساحة تخزين كافية في الجهاز الجديد (%s متوفر).
 قم بتفريغ مساحة أو نقل العناصر المهمة فقط."</string>
     <string name="trans_select_data_too_large">"تم تحديد عدد كبير جدا من العناصر للنقل.
@@ -394,22 +394,20 @@
     <string name="button_clean_garbage">تفريغ مساحة</string>
     <string name="button_quit">خروج</string>
     <string name="soft_ap_creating">جارٍ إنشاء نقطة اتصال…</string>
-    <string name="wait_link">"افتح ناقل Mi على الجهاز القديم،
-انقر على \"أنا المرسل\" وحدد نقطة اتصال. 
-لا تغلق الصفحة قبل إنشاء الاتصال."</string>
+    <string name="wait_link">افتح ناقل Mi على الجهاز القديم، انقر على أنا المرسل وحدد نقطة اتصال. لا تغلق الصفحة قبل إنشاء الاتصال.</string>
     <string name="old_way">يمكنك أيضًا إنشاء رمز QR على الجهاز الجديد ومسحه ضوئيًا بإستخدام الجهاز القديم.</string>
     <string name="soft_ap_create_failed">تعذر إنشاء نقطة اتصال</string>
     <string name="scan_soft_ap_label">الاتصال بالجهاز القديم</string>
-    <string name="scan_soft_ap">جارٍ البحث عن جهاز جديد…</string>
+    <string name="scan_soft_ap">البحث عن جهاز جديد…</string>
     <string name="click_soft_ap_to_link">حدد نقطة اتصال للاتصال</string>
     <string name="waiting">لحظة من فضلك…</string>
     <string name="old_soft_name">الاتصال عبر رمز QR</string>
     <string name="confirm_exit_link_title">قطع النقل</string>
     <string name="confirm_exit_link_msg">سيتم مقاطعة النقل الحالي إذا قمت بالخروج من التطبيق الآن. سيتوجب عليك إعادة الاتصال بين الجهازين. الخروج من التطبيق؟</string>
-    <string name="confirm_exit_link">خروج</string>
-    <string name="confirm_exit_link_cancel">متابعة</string>
+    <string name="confirm_exit_link">مغادرة</string>
+    <string name="confirm_exit_link_cancel">لا تغادر</string>
     <string name="connect_soft_ap_label">جارٍ الاتصال بالجهاز الجديد…</string>
-    <string name="recreate_soft_ap_tips">انقر على الزر أدناه لإعادة المحاولة.</string>
+    <string name="recreate_soft_ap_tips">اضغط على الزر أدناه لإعادة المحاولة.</string>
     <string name="trans_install_guide_page_title">تثبيت ناقل Mi على جهازك القديم</string>
     <string name="trans_install_guide_scan_install_tip">"امسح رمز QR بإستخدام هاتفك القديم
 لتنزيل وتثبيت ناقل Mi."</string>
@@ -438,12 +436,12 @@
     <string name="trans_intro_desc_1">في هاتف Mi، قم بالاتصال بشبكة Wi-Fi و انقر \"انا المستلم\". ثم حدد جهاز iOS الخاص بك، و سجل الدخول إلى iCloud وقم بإستراد البيانات.</string>
     <string name="trans_intro_question_2">%d. كيف يمكنني استخدام ناقل Mi لنقل البيانات من جهاز أندرويد؟</string>
     <string name="trans_intro_title_new">على الهاتف الجديد:</string>
-    <string name="trans_intro_desc_new">انقر على \"آنا المستلم\". سيتم إنشاء رمز QR.</string>
+    <string name="trans_intro_desc_new">انقر على آنا المستلم. سيتم إنشاء رمز QR.</string>
     <string name="trans_intro_title_old">على الهاتف القديم:</string>
     <string name="trans_intro_desc_old">انقر على \"آنا المرسل\". ثم قم بمسح رمز QR على الهاتف الجديد و انتظر حتى يتعرف ناقل Mi على الملفات المطلوب إرسالها و انقر \"إرسال\".</string>
     <string name="trans_intro_desc_old_market">انقر على \"ابدأ\". ثم قم بمسح رمز QR على الهاتف الجديد و انتظر حتى يتعرف ناقل Mi على الملفات المطلوب إرسالها و انقر \"إرسال\".</string>
     <string name="trans_intro_question_10">%d. لا يمكن العثور على نقطة الاتصال في الجهاز القديم؟</string>
-    <string name="trans_intro_desc_10">انقر \"الاتصال عبر رمز QR\" في الجهاز الجديد و امسح رمز QR لإنشاء الاتصال.</string>
+    <string name="trans_intro_desc_10">انقر الاتصال عبر رمز QR في الجهاز الجديد و امسح رمز QR لإنشاء الاتصال.</string>
     <string name="trans_intro_question_3">%d. ماذا اعمل إذا توقف ناقل Mi في خطوة معينة؟</string>
     <string name="trans_intro_desc_3">قم بإلغاء النقل و الخروج من ناقل Mi، ثم ابدأ من جديد. سيتم استبدال الملفات المكررة أثناء عملية النقل الجديدة.</string>
     <string name="trans_intro_question_4">%d. لماذا لا يمكنني استخدام الـ Wi-Fi أثناء عملية النقل؟</string>
@@ -456,17 +454,17 @@
     <string name="trans_intro_question_7">%d. لماذا بعض التطبيقات لا تشتغل على جهاز جديد؟</string>
     <string name="trans_intro_desc_7">ترتبط بعض التطبيقات (الخدمات البنكية الإلكترونية، أو التمويل، إلخ) مع جهاز معين لأسباب أمنية. جرب محو بيانات التطبيق أو إعادة تثبيت التطبيق على جهاز جديد.</string>
     <string name="trans_intro_question_8">%d. لماذا لا يتم نقل سجل الـ WeChat كاملا؟</string>
-    <string name="trans_intro_desc_8">قد لا يتم نقل بيانات وسجل دردشة تطبيق WeChat بشكل كامل عبر ناقل Mi. انتقل إلى إعدادات WeChat و قم بتسجيل الخروج من حسابك للحصول على المزيد من فرص النقل بنجاح.</string>
+    <string name="trans_intro_desc_8">قد لا يتم نقل بيانات وسجل دردشة تطبيق الـ WeChat بشكل كامل عبر ناقل Mi. انتقل إلى إعدادات WeChat و قم بتسجيل الخروج من حسابك للحصول على المزيد من فرص النقل بنجاح.</string>
     <string name="trans_intro_question_9">%d. ما هي العناصر التي لا يمكن نقلها؟</string>
     <string name="trans_intro_title_account">الحسابات وكلمات المرور:</string>
     <string name="trans_intro_desc_account">يجب عليك تسجيل الدخول مرة أخرى إلى حساباتك (مثل: حساب Mi، Google، إلخ.) على الجهاز الجديد لأسباب تتعلق بالحماية.</string>
     <string name="trans_intro_title_private">ألبوم مخفي:</string>
-    <string name="trans_intro_desc_private">لا يمكن وصول ناقل Mi إلى الصور في الألبوم المخفي لأنها مشفرة. يمكنك استعادة هذه الصور من Mi Cloud على جهاز جديد.</string>
+    <string name="trans_intro_desc_private">لا يمكن وصول ناقل Mi إلى الصور في الألبوم المخفي لأنها مشفرة. يمكنك استعادة هذه الصور من Xiaomi Cloud على جهاز جديد.</string>
     <string name="trans_intro_title_multiuser">بيانات الواجهة الثانية:</string>
     <string name="trans_intro_desc_multiuser">لا يمكن وصول ناقل Mi إلى العناصر في الواجهة الثانية. قم بنقل العناصر إلى الواجهة الاولى و تشغيل ناقل Mi هناك.</string>
     <string name="trans_intro_title_multiapp">بيانات التطبيقات المزدوجة:</string>
     <string name="trans_intro_desc_multiapp">لا يقوم ناقل Mi بنقل بيانات التطبيقات المزدوجة لتجنب التعارض بين الملفات.</string>
-    <string name="trans_intro_title_gms">بيانات تطبيقات Google:</string>
+    <string name="trans_intro_title_gms">البيانات التي أنشئت بواسطة تطبيقات Google:</string>
     <string name="trans_intro_desc_gms">نظرًا للاحتمال الكبير لعدم نجاح عمليات النقل الناتجة عن مشكلات التوافق، لا يدعم ناقل Mi نقل البيانات التي أنشأتها تطبيقات Google.</string>
     <string name="trans_intro_question_9_market">%d. الإبلاغ عن خلل.</string>
     <string name="trans_intro_desc_9_method_1_title">١. شارك تقريرك بإستخدام تطبيق \"الإبلاغ عن خلل\".</string>
@@ -507,7 +505,7 @@
     <string name="close_twice_auth_step_2">٢. قم بتسجيل الدخول إلى Apple ID الذي ترغب فيه تعطيل المصادقة ذات العاملين، ثم انتقل إلى قسم \"الحماية\" في إعدادات الحساب و اختر \"تعديل\".</string>
     <string name="close_twice_auth_step_3">٣. اضغط على \"إيقاف المصادقة ذات العاملين\". انقر مرة أخرى للتأكيد.</string>
     <string name="close_twice_auth_note">"ملاحظة:
-بعد إنشاء سؤال أمان جديد وتأكيد تاريخ ميلادك، سيتم إيقاف عمل \"التحقق بخطوتين\" لـ Apple ID. إذا لم يظهر لك خيار إيقاف \"التحقق بخطوتين\" على صفحة حساب Apple ID، فلا يمكنك إيقاف تشغيله."</string>
+بعد إنشاء سؤال أمان جديد وتأكيد تاريخ ميلادك، سيتم إيقاف عمل \"التحقق بخطوتين\" لـ Apple ID الخاص بك. إذا لم يظهر لك خيار إيقاف \"التحقق بخطوتين\" على صفحة حساب Apple ID، فلا يمكنك إيقاف تشغيله."</string>
     <string name="close_twice_auth_btn">إيقاف المصادقة ذات العاملين</string>
     <string name="close_twice_auth_operation">"URL:
 https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذات العاملين"</string>
@@ -553,8 +551,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="hsa_sending">جار الإرسال…</string>
     <string name="hsa_send_failed">تعذر إرسال رمز التحقق. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="hsa_tip_title">نصائح:</string>
-    <string name="hsa_tip_message">"١. تم ارسال رسالة رمز تحقق إلى الجهاز المرتبط بـ Apple ID الخاصة بك.
-٢. قم بإيقاف المصادقة ذات العاملين اذا لم يعمل رمز التحقق."</string>
+    <string name="hsa_tip_message">1. إذا لم تتمكن من تلقي رسالة رمز التحقق، فتأكد من تسجيل الدخول إلى iCloud على جهاز Apple الخاص بك. 2. إذا لم يعمل رمز التحقق، فقم بإيقاف تشغيل المصادقة ذات العاملين.</string>
     <string name="hsa_tip_message_with_device">"١. تم ارسال رسالة رمز تحقق إلى \"%s\" المرتبط بـ Apple ID الخاصة بك.
 ٢. قم بإيقاف المصادقة ذات العاملين اذا لم يعمل رمز التحقق."</string>
     <string name="hsa_tip_message_shutdown_hsa">كيفية إيقاف المصادقة ذات العاملين</string>
@@ -568,6 +565,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 يجب عليك إنشاء نسخ iCloud احتياطي أولا."</string>
     <string name="list_footer_tip_title">نصائح:</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">استيراد</string>
     <string name="select_empty">قم بتحديد عناصر للاستيراد</string>
     <string name="select_item_summary_wait">جارٍ الانتظار…</string>
@@ -647,10 +645,11 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_backup_password_backup_tips">لا يمكن عمل نسخة احتياطية للعناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي.</string>
     <string name="dialog_backup_password_cancel">إلغاء</string>
     <string name="dialog_backup_password_to_settings">الإعدادات</string>
-    <string name="user_feedback">الإبلاغ عن خلل</string>
-    <string name="iCloud_ID_verification_tip">أدخل رمز التحقق من رسالة SMS المرسلة إلى الرقم المقترن بـ Apple ID الخاص بك. تجاهل الرمز المنبثق المعروض على شاشة جهاز iPhone الخاص بك.</string>
+    <string name="user_feedback">Feedback</string>
+    <string name="iCloud_ID_verification_tip">انقر على السماح على جهاز Apple لتلقي رمز التحقق. أدخل رمز التحقق هنا.</string>
     <string name="trans_complete_restoring">تم النقل بنجاح. جارٍ استرداد البيانات…</string>
     <string name="dialog_backup_password_auto_backup_tips">لا يمكن عمل نسخة احتياطية تلقائية للعناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
     <string name="dialog_backup_password_change_device_restore_tips">لا يمكن استخدام ناقل Mi عن تشغيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي.</string>
     <string name="dialog_backup_password_restore_tips">لا يمكن استرداد العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
+    <string name="trans_cancel_dialog_survey_title">لماذا قطعت الإرسال؟</string>
 </resources>

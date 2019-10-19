@@ -60,19 +60,19 @@
     <string name="wating">لحظة من فضلك…</string>
     <string name="Active">نشط</string>
     <string name="ok_button">موافق</string>
-    <string name="remove_button">حذف وإعادة تشغيل</string>
-    <string name="remove_button_time">حذف وإعادة التشغيل (%dثانية)</string>
+    <string name="remove_button">حذف</string>
+    <string name="remove_button_time">حذف (%dث)</string>
     <string name="cancel_button">إلغاء</string>
     <string name="list_empty_text">فارغ</string>
-    <string name="list_empty_text_xspace">قم بتثبيت WeChat/QQ/Weibo، وأنشئ تطبيق مزدوج، ثم حاول مجدداً.</string>
+    <string name="list_empty_text_xspace">إنشئ المزيد من التطبيقات المزدوجة وحاول مجددا.</string>
     <string name="xspace_label">التطبيقات المزدوجة</string>
     <string name="xspace_setting_label">إعدادات التطبيق المزدوج</string>
     <string name="xspace_account">حسابات التطبيق المزدوج</string>
     <string name="xspace_remove">حذف حسابات التطبيقات المزدوجة</string>
     <string name="declare_dialog_title">معلومات عن التطبيقات المزدوجة</string>
     <string name="menu_item_about_privacy_title">سياسة الخصوصية</string>
-    <string name="stop_xspace_alert_title">حذف حسابات التطبيق المزدوج</string>
-    <string name="stop_xspace_alert_content">سيتم حذف جميع التطبيقات المزدوجة نهائياً. يجب عليك إعادة تشغيل الجهاز لتطبيق التغييرات. حذف الحسابات الآن؟</string>
+    <string name="stop_xspace_alert_title">حذف حسابات التطبيقات المزدوجة</string>
+    <string name="stop_xspace_alert_content">هل تريد حذف جميع التطبيقات المزدوجة مع حساباتها وبيانات التطبيق؟ سيتم إعادة تشغيل جهازك لتعيين هذا التغيير.</string>
     <string name="xspace_loading_msg">جارٍ تحميل التطبيقات…</string>
     <string name="xspace_header">التطبيقات المزدوجة</string>
     <string name="xspace_introduce">موصى به</string>
@@ -295,15 +295,23 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">دفع WeChat</string>
     <string name="weixin_share_sign">تسجيل الدخول والمشاركة</string>
-    <string name="use_xiaoai_open">ايقاظ بإستخدام المساعد الصوتي</string>
+    <string name="use_xiaoai_open">إيقاظ بإستخدام Mi AI</string>
+    <string name="use_google_open">إيقاظ بإستخدام مساعد Google</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">الإرسال إلى Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">ارسل الى الأصدقاء في QQ/الكمبيوتر</string>
     <string name="qq_login">تسجيل الدخول إلى QQ</string>
-    <string name="xspace_default_setting_label">التطبيق الافتراضي</string>
-    <string name="xspace_default_app_title">التطبيق الافتراضي</string>
-    <string name="xspace_default_app_summary">تعيين التطبيق الافتراضي للمدفوعات، والمشاركة، والمفضلة، وأكثر من ذلك.</string>
+    <string name="xspace_whatsapp_title">واتساب</string>
+    <string name="whatsapp_send">مشاركة إلى الواتساب</string>
+    <string name="xspace_facebook_title">فيسبوك</string>
+    <string name="facebook_send">مشاركة إلى الفيسبوك</string>
+    <string name="facebook_login">تسجيل الدخول باستخدام الفيسبوك</string>
+    <string name="xspace_instagram_title">Instagram</string>
+    <string name="instagram_send">مشاركة إلى Instagram</string>
+    <string name="xspace_default_setting_label">التخصيص</string>
+    <string name="xspace_default_app_title">التخصيص</string>
+    <string name="xspace_default_app_summary">حدد التطبيقات الافتراضية لتسجيل الدخول والمشاركة والمساعدة الصوتية</string>
     <string name="xspace_default_setting_dialog_title"> الإفتراضي</string>
     <string name="xspace_default_guide_notification_content">انقر للتغيير</string>
     <string name="xspace_default_guide_notification_main_title">استخدام التطبيق الأفتراضي</string>
@@ -437,10 +445,12 @@
     <string name="install_error">تعذر التثبيت. إعد المحاولة.</string>
     <string name="ent_install_dialog_content">تثبيت التطبيقات وإعادة تشغيل جهازك الآن؟</string>
     <string name="ent_disallow_running">هذا التطبيق ممنوع من التشغيل</string>
-    <string name="greenguard_child_des_title">أحتاج مساعدة من أصدقائي وعائلتي</string>
-    <string name="greenguard_child_des">استخدم التطبيق لدينا لتبقى متصلاً</string>
-    <string name="greenguard_parent_des_title">أحتاج مساعدة من أصدقائي وعائلتي</string>
-    <string name="greenguard_parent_des">تنزيل التطبيق لدينا وإضافة أجهزة أخرى</string>
+    <string name="greenguard_child_des_title">امسح رمز QR لإضافة جهاز</string>
+    <string name="greenguard_child_des">قم بإدارة أجهزة أصدقائك والعائلة</string>
+    <string name="greenguard_parent_des_title">استخدم Kite Guard لإضافة أجهزة</string>
+    <string name="greenguard_parent_des">قم بإدارة أجهزة أصدقائك والعائلة</string>
+    <string name="greenguard_functional_description">"قم بإدارة الأجهزة عن بُعد وعرض معلومات الموقع
+والتحكم بالتطبيقات المثبتة وتقييد الاستخدام"</string>
     <string name="cta_declaration_title">الأحكام و الشروط</string>
     <string name="cta_declaration_message_format" formatted="false">يجب عليك قراءة وقبول &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> لدينا قبل استخدام وضع المؤسسة. يحتاج الجهاز إلى الاتصال بالإنترنت لتفعيل وضع المؤسسة. موافق؟</string>
     <string name="cta_declaration_agree_and_continue">أوافق</string>
@@ -466,4 +476,5 @@
     <string name="master_clear_not_available">إعادة ضبط المصنع مقيد من قِبل شركتك.</string>
     <string name="dual_animation">تشغيل الرسوم المتحركة</string>
     <string name="dual_animation_description">عرض الرسوم المتحركة عند تشغيل التطبيقات المزدوجة</string>
+    <string name="can_not_switch_when_super_power_active">لا يمكن التبديل بين الواجهتين عندما يكون موفر البطارية الأقصى قيد التشغيل</string>
 </resources>

@@ -8,7 +8,7 @@
     <string-array name="date_of_traffic">
         <item>"أمس "</item>
         <item>"اليوم "</item>
-        <item>"الشهر الماضي "</item>
+        <item>"الشهر السابق "</item>
         <item>"هذا الشهر "</item>
     </string-array>
     <string-array name="date_of_traffic_prefix_cmcc">
@@ -19,18 +19,18 @@
     <string-array name="date_of_traffic_prefix">
         <item>"أمس: "</item>
         <item>"اليوم: "</item>
-        <item>"الشهر الماضي: "</item>
+        <item>"الشهر السابق: "</item>
         <item>"هذا الشهر: "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>أمس (البيانات)</item>
-        <item>اليوم (البيانات)</item>
-        <item>الشهر الماضي (بيانات)</item>
-        <item>هذا الشهر (بيانات)</item>
-        <item>أمس Wi-Fi</item>
-        <item>اليوم Wi-Fi</item>
-        <item>الشهر الماضي Wi-Fi</item>
-        <item>هذا الشهر Wi-Fi</item>
+        <item>"أمس (بيانات الجوال) "</item>
+        <item>"اليوم (بيانات الجوال) "</item>
+        <item>"الشهر السابق (بيانات الجوال) "</item>
+        <item>"هذا الشهر (بيانات الجوال) "</item>
+        <item>"أمس (Wi-Fi) "</item>
+        <item>"اليوم (Wi-Fi) "</item>
+        <item>"الشهر السابق (Wi-Fi) "</item>
+        <item>"هذا الشهر (Wi-Fi) "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"استخدام بيانات الجوال "</item>
@@ -73,6 +73,12 @@
         <item>ترتيب حسب التخزين المستخدم</item>
         <item>الترتيب حسب وقت التثبيت</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="title_app_info">
         <item>مصدر التثبيت</item>
         <item>وقت التثبيت</item>
@@ -104,6 +110,14 @@
         <item>كل يوم</item>
         <item>أيام الأسبوع</item>
         <item>مخصص</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>الافتراضية</item>
+        <item>أولوية الأداء</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>استخدام وضع التحكم في درجة الحرارة الافتراضي</item>
+        <item>أولوية الأداء</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>بعد ١ دقيقة</item>

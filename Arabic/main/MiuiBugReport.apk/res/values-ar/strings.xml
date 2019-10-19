@@ -4,12 +4,12 @@
     <string name="action_submit">إرسال</string>
     <string name="announcement">تنبيه</string>
     <string name="app_empty">تعذر العثور على تطبيقات.</string>
-    <string name="app_label">الإبلاغ عن خلل</string>
+    <string name="app_label">المشاكل والإقتراحات</string>
     <string name="app_name">الإبلاغ عن خلل</string>
     <string name="app_search">البحث عن تطبيقات</string>
     <string name="btn_send">إرسال</string>
     <string name="bugreport_dialog_not_show_again">عدم الإظهار مرة أخرى</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>يتم حفظ سجلات البرنامج على هذا الجهاز. يمكن أن تحتوي على معلومات شخصية ومعلومات موقعك. لا تقم بمشاركة السجلات مع أي شخص ما لم تكن تريد الكشف عن هذه المعلومات. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>يتم حفظ سجلات البرنامج على هذا الجهاز. يمكن أن تحتوي على معلومات شخصية ومعلومات موقعك. لا تقم بمشاركة السجلات مع أي شخص ما لم تكن تريد الكشف عن هذه المعلومات. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">انقر للعرض.</string>
     <string name="bugreport_dump_complete_notification_title">تم إنشاء تقرير عن خلل</string>
     <string name="bugreport_dump_start_notification_summary">قد يستغرق ذلك عدة دقائق.</string>
@@ -102,10 +102,24 @@
     <string name="feedback_description_hint_suggestion">أخبرنا كيف تريد تحسين MIUI.</string>
     <string name="feedback_description_label">الوصف</string>
     <string name="feedback_description_suggest_hint">ارغب في إضافة ميزة جديدة () وذلك لاني احتاج ().</string>
-    <string name="feedback_detail_tile">التقدم</string>
+    <string name="feedback_detail_copy_toast">تم النسخ إلى الحافظة</string>
+    <string name="feedback_detail_feedback_attach">المرفقات</string>
+    <string name="feedback_detail_feedback_attach_upload_failed">تعذر التحميل</string>
+    <string name="feedback_detail_feedback_attach_uploading">جارٍ التحميل…</string>
+    <string name="feedback_detail_feedback_category">الفئة</string>
+    <string name="feedback_detail_feedback_id">رقم التبليغ: %d</string>
+    <string name="feedback_detail_feedback_reply_hint">رد</string>
+    <string name="feedback_detail_feedback_summary">الإبلاغ عن خلل</string>
+    <string name="feedback_detail_need_content">أدخل محتوى أولا</string>
+    <string name="feedback_detail_title">التفاصيل</string>
+    <string name="feedback_detail_upload_generate_log">إنشاء سجلات</string>
+    <string name="feedback_detail_upload_image">تحميل صور/فيديوهات</string>
+    <string name="feedback_detail_upload_local_log">تحميل الملف</string>
+    <string name="feedback_detail_upload_log">تحميل السجلات</string>
+    <string name="feedback_detail_waiting">جارٍ الإنشاء…</string>
     <string name="feedback_empty_report_list">لا يوجد تقارير بعد</string>
-    <string name="feedback_guess">تخميننا</string>
-    <string name="feedback_history_remind_login_desc">تسجيل الدخول مع حساب Mi الخاص بك لعرض التفاصيل و حالة تقدم تقريرك</string>
+    <string name="feedback_guess">لدينا تخمين:</string>
+    <string name="feedback_history_remind_login_desc">سجل الدخول إلى حساب Mi الخاص بك لعرض التفاصيل وحالة تقدم تقريرك</string>
     <string name="feedback_id">المعرف: %d</string>
     <string name="feedback_jira_key">مفتاح JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">جارٍ إنشاء تقرير…</string>
@@ -113,7 +127,7 @@
     <string name="feedback_phone_model_label">طراز الهاتف</string>
     <string name="feedback_probability_label">احتمال</string>
     <string name="feedback_remind_login_btn">تسجيل الدخول</string>
-    <string name="feedback_report_remind_login_desc">قم بتسجيل الدخول لحساب Mi الخاص بك كي يتمكن الدعم الفني من الاتصال بك.</string>
+    <string name="feedback_report_remind_login_desc">قم بتسجيل الدخول لحساب Mi ليتمكن الدعم الفني من الاتصال بك.</string>
     <string name="feedback_report_remind_login_desc2">يمكنك ايضا الاطلاع على تقدم التقرير الخاص بك في\"تقاريري\".</string>
     <string name="feedback_reproductivity_everytime">كل مرة</string>
     <string name="feedback_reproductivity_occasionally">احیاناً</string>
@@ -181,12 +195,13 @@
     <string name="issue_search">بحث</string>
     <string name="kr_authorization_agree">قبول</string>
     <string name="kr_authorization_contact">الحسابات</string>
-    <string name="kr_authorization_contact_desc">للحصول على معلومات حساب Mi والتحقق من حسابك</string>
+    <string name="kr_authorization_contact_desc">للوصول إلى معلومات حساب Mi لتحديد الجهاز</string>
     <string name="kr_authorization_exit">خروج</string>
+    <string name="kr_authorization_function">إرسال ملاحظات وإنشاء سجلات وعرض الأسئلة الشائعة</string>
     <string name="kr_authorization_log_protocol">سجل البروتوكول (اختياري)</string>
     <string name="kr_authorization_log_protocol_desc">لتحسين الخدمات المقدمة لك، سنقوم بتحميل إحصائيات الاستخدام وسجلات النظام إلى خوادمنا. قد تحتوي هذه العناصر على بياناتك الشخصية، بالإضافة إلى معلومات حول جهازك والشبكات. سنستخدم العناصر المحملة للبحث وتحليل المشاكل في النظام.</string>
     <string name="kr_authorization_phone">الهاتف</string>
-    <string name="kr_authorization_phone_desc">للتعرف على الجهاز بإستخدام IMEI ورقم الطراز وتحديد وتحليل المشاكل أيضا</string>
+    <string name="kr_authorization_phone_desc">للوصول إلى طراز الجهاز و IMEI ومعرف الجهاز لتحديد موقع المشكلات وحلها</string>
     <string name="kr_authorization_privacy_policy">سياسة الخصوصية (إلزامي)</string>
     <string name="kr_authorization_select_all">تحديد الكل</string>
     <string name="kr_authorization_storage">التخزبن</string>
@@ -199,6 +214,10 @@
     <string name="max_error">يجب %1$s الخاص بك أن يكون أقصر.</string>
     <string name="menu_copy">نسخ</string>
     <string name="message_label">رسالة</string>
+    <string name="mi_service_dialog_cancel">خروج</string>
+    <string name="mi_service_dialog_confirm">فتح</string>
+    <string name="mi_service_dialog_content">تم نقل جميع ميزات الإبلاغ عن خلل إلى تطبيق \"الخدمات والإبلاغ عن خلل\". ستتم إزالة تطبيق الإبلاغ عن خلل من الشاشة الرئيسية. انقر على \"فتح\" لتجربة تطبيق \"الخدمات والإبلاغ عن خلل\".</string>
+    <string name="mi_service_dialog_title">تقديم \"الخدمات والإبلاغ عن خلل\"</string>
     <string name="michat_app_name">دعم مباشر</string>
     <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">إذا لم تتمكن من الاتصال بالخط الساخن ٤٠٠، اطلب %1$s باستخدام هاتف مختلف</string>
@@ -282,7 +301,7 @@
     <string name="module_more">المزيد</string>
     <string name="module_network">الشبكة</string>
     <string name="module_search">بحث</string>
-    <string name="module_security">الحماية و Mi Cloud</string>
+    <string name="module_security">الحماية و Xiaomi Cloud</string>
     <string name="module_system">النظام</string>
     <string name="module_tools">أدوات النظام</string>
     <string name="modules">تحديد عنصر</string>
@@ -491,12 +510,10 @@
     <string name="section_err_type">نوع الخلل</string>
     <string name="section_screenshot">لقطة الشاشة</string>
     <string name="select_system_app_tag">تحديد المشكلة</string>
-    <string name="submit_dialog_cancel">غير موافق</string>
-    <string name="submit_dialog_confirm">موافق</string>
-    <string name="submit_dialog_content">"&lt;Data>يجب عليك قبول
-         &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a> لدينا لتتمكن من استخدام تطبيق الإبلاغ عن خلل. سيتم تحميل المشكلات التي تقوم بالإبلاغ عنها مع العناصر التي تقوم بإرفاقها (قد تحتوي على البيانات الشخصية، بالإضافة إلى معلومات حول جهازك وشبكتك) إلى خوادم MIUI. سيساعدنا ذلك في العثور على المشكلات التي تبلغ عنها وحلها.&lt;/Data>"</string>
-    <string name="submit_dialog_content_global">"&lt;Data>سيتم إرسال تقريرك مع المرفقات  (إن وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد تحميلها) إلى خوادم MIUI وقسم مقيد من منتدى MIUI للمطورين. سيتم أيضًا جمع تعليقاتك ومعلومات نشاطك في المنتدى لتحليلها ولمزيد من التواصل.
-قد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data>"</string>
+    <string name="submit_dialog_cancel">لا أوافق</string>
+    <string name="submit_dialog_confirm">أوافق</string>
+    <string name="submit_dialog_content">&lt;Data>يجب عليك قبول &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> لدينا لتتمكن من استخدام تطبيق الإبلاغ عن خلل. سيتم تحميل المشكلات التي تقوم بالإبلاغ عنها مع العناصر التي تقوم بإرفاقها (قد تحتوي على البيانات الشخصية، بالإضافة إلى معلومات حول جهازك وشبكتك) إلى خوادم MIUI. سيساعدنا ذلك في العثور على المشكلات التي تبلغ عنها وحلها.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>سيتم إرسال تقريرك مع المرفقات (إذا وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد رفعها) إلى خوادم MIUI. وقد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_title">ارسال تقرير</string>
     <string name="submit_feedback_info_failed">تعذر ارسال التقرير</string>
     <string name="suggestion_description">أضف الوصف هنا</string>

@@ -35,15 +35,15 @@
     <plurals name="duration_seconds">
         <item quantity="other">%d ثانية</item>
         <item quantity="zero">%d ثانية</item>
-        <item quantity="one">%d ثانية</item>
+        <item quantity="one">١ ثانية</item>
         <item quantity="two">%d ثواني</item>
         <item quantity="few">%d ثواني</item>
         <item quantity="many">%d ثانية</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d دقيقة</item>
-        <item quantity="zero">%d دقيقة</item>
-        <item quantity="one">%d دقيقة</item>
+        <item quantity="zero">%d دقائق</item>
+        <item quantity="one">١ دقيقة</item>
         <item quantity="two">%d دقائق</item>
         <item quantity="few">%d دقائق</item>
         <item quantity="many">%d دقيقة</item>
@@ -51,7 +51,7 @@
     <plurals name="duration_hours">
         <item quantity="other">%d ساعة</item>
         <item quantity="zero">%d ساعة</item>
-        <item quantity="one">%d ساعة</item>
+        <item quantity="one">١ ساعة</item>
         <item quantity="two">%d ساعات</item>
         <item quantity="few">%d ساعات</item>
         <item quantity="many">%d ساعة</item>
