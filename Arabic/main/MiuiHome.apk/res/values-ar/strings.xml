@@ -352,7 +352,6 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_downloaded">تم تنزيلها</string>
     <string name="status_downloading">جارٍ التنزيل</string>
     <string name="status_installing">تثبيت</string>

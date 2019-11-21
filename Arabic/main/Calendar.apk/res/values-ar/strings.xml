@@ -106,7 +106,6 @@
     <string name="date_interval_tab">الفاصل الزمني</string>
     <string name="date_interval_text_to">إلى %1$s</string>
     <string name="date_jump_title">الانتقال إلى تاريخ</string>
-    <string name="date_time_fmt">%1$s ،%2$s</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_later_time">الفاصل الزمني الافتراضي \"للتذكير لاحقًا\"</string>

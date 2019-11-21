@@ -487,11 +487,8 @@
     <string name="voice_guide_text">يمكنك تشغيل إخراج الكلام هنا</string>
     <string name="wf_word_figure">حروف مالية</string>
     <string name="word_figure_guide_text">اضغط مع الاستمرار لتغيير الحالة.</string>
-    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
-    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

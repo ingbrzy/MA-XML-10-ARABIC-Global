@@ -145,7 +145,6 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
@@ -481,9 +480,6 @@
     <string name="resource_restore">استرداد</string>
     <string name="resource_restore_fail">تعذر الإستعادة</string>
     <string name="resource_restore_succ">تم الاسترداد بنجاح</string>
-    <string name="resource_ring_ranking_list_rank_1">١</string>
-    <string name="resource_ring_ranking_list_rank_2">٢</string>
-    <string name="resource_ring_ranking_list_rank_3">۳</string>
     <string name="resource_ringtone_default">نغمات الرنين</string>
     <string name="resource_ringtone_playing_error">خطأ</string>
     <string name="resource_ringtone_volume_mute">صوت الرنين صامت</string>
