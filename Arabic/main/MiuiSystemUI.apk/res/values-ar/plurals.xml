@@ -266,10 +266,10 @@
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d جهاز متصل</item>
-        <item quantity="zero">%1$d جهاز متصل</item>
+        <item quantity="zero">%1$d ‏جهاز متصل</item>
         <item quantity="one">%1$d جهاز متصل</item>
-        <item quantity="two">%1$d أجهزة متصلة</item>
-        <item quantity="few">%1$d أجهزة متصلة</item>
+        <item quantity="two">%1$d ‏أجهزة متصلة</item>
+        <item quantity="few">%1$d ‏أجهزة متصلة</item>
         <item quantity="many">%1$d جهاز متصل</item>
     </plurals>
 </resources>

@@ -8,15 +8,6 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تشغيل</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -56,7 +47,6 @@
     <string name="app_label">الساعة</string>
     <string name="auto_silence_never">ابداً</string>
     <string name="auto_silence_title">كتم الصوت تلقائياً</string>
-    <string name="battery_charging_level">%d%%</string>
     <string name="birthday_alarm">منبه عيد ميلادك</string>
     <string name="birthday_alarm_summary">تشغيل نغمة \"عيد ميلاد سعيد\" بدلاً من صوت المنبه الإفتراضي في يوم عيد ميلادك</string>
     <string name="cancel">إلغاء</string>
@@ -74,7 +64,6 @@
     <string name="content_desc_keep_screen">زر \"إبقاء الشاشة نشطة\"</string>
     <string name="control_set_alarm">ضبط المنبه</string>
     <string name="control_set_alarm_with_existing">تم ضبط المنبه: %s</string>
-    <string name="day_concat">", "</string>
     <string name="default_alarm_alert">صوت المنبه الإفتراضي</string>
     <string name="default_alarm_title">نغمة الرنين الافتراضية</string>
     <string name="default_label">منبه</string>
@@ -151,13 +140,11 @@
     <string name="life_post_wake_up_item_acumu_day_title">عد اليوم</string>
     <string name="life_post_wake_up_item_percentage_title">معجبي Mi خلفك</string>
     <string name="life_post_wake_up_item_time_title">وقت الاستيقاظ</string>
-    <string name="life_post_wake_up_percentage_sign">%</string>
     <string name="life_post_wake_up_percentage_title">معجبي Mi خلفك</string>
     <string name="life_post_wake_up_time_title">وقت الاستيقاظ</string>
     <string name="life_post_weather_invalid">انقر للحصول على معلومات الطقس</string>
     <string name="life_post_weather_no_network">اتصل بالشبكة لتحديث معلومات الطقس</string>
-    <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data>لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="listen_news_privacy">&lt;Data>لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
     <string name="loading_ringtone">جارٍ تحميل نغمة الرنين…</string>
     <string name="menu_add_worldclock">إضافة ساعة</string>
     <string name="menu_desk_clock">الساعة</string>
@@ -184,32 +171,33 @@
     <string name="module_download_success">تم تنزيل الملفات الصوتية بنجاح</string>
     <string name="module_download_title">الملفات الصوتية مطلوبة</string>
     <string name="module_downloading">جارٍ تنزيل الملفات الصوتية…</string>
+    <string name="module_unzipping">فك حزمة الصوت…</string>
     <string name="module_update_success">تم ثبيت التحديثات الصوتية لتبيهات MIUI الذكية بنجاح. يمكنك ضبط تبيهات MIUI الذكية من إعدادات الساعة.</string>
     <string name="module_update_success_control">فهمت</string>
     <string name="module_weather_ringtone_download_data">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. تنزيل الآن؟</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى ملفات صوتية. تنزيل الآن؟</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى الاتصال بالانترنت لتنزيل الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى الاتصال بالانترنت لتنزيل الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
     <string name="module_weather_ringtone_introduce">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. كما يسمح لك بالاستماع إلى تقرير الطقس الصباحي.</string>
     <string name="module_weather_ringtone_introduce_global">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي.</string>
     <string name="module_weather_ringtone_update_data">يتضمن منبه الطقس الآن موسيقى خلفية وإعلانات صوتية محسنة. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. التنزيل الآن؟</string>
     <string name="module_weather_ringtone_update_success">يتضمن منبه الطقس الآن موسيقى خلفية وإعلانات صوتية محسنة. يمكنك إنشاء منبه جديد لتجربه هذه الميزة.</string>
-    <string name="module_week_ringtone_download_data">يقوم المنبه الأسبوعي بتشغيل أصوات مختلفة من الطبيعة كل يوم في الأسبوع. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية.. التنزيل الآن؟</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
-    <string name="module_week_ringtone_download_wifi">يقوم المنبه الأسبوعي بتشغيل أصوات مختلفة من الطبيعة كل يوم في الأسبوع. ولذلك ستحتاج الساعة إلى تنزيل الملفات الصوتية. التنزيل الآن؟</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>يقوم المنبه الأسبوعي بتشغيل أصوات مختلفة من الطبيعة كل يوم في الأسبوع. ولذلك ستحتاج الساعة إلى تنزيل الملفات الصوتية. يجب عليك أيضاً قبل استخدام الساعة قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
-    <string name="module_week_ringtone_introduce">يقوم المنبه الأسبوعي بتشغيل أصوات مختلفة من الطبيعة كل يوم في الأسبوع.</string>
-    <string name="module_week_ringtone_update_data">يقوم المنبه الأسبوعي بتشغيل أصوات مختلفة من الطبيعة كل يوم في الأسبوع. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. التنزيل الآن؟</string>
-    <string name="module_week_ringtone_update_success">يتضمن المنبه الأسبوعي الآن موسيقى خلفية لكل يوم في الأسبوع. يمكنك إنشاء منبه جديد لتجربه هذه الميزة.</string>
+    <string name="module_week_ringtone_download_data">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية. يجب عليك قبل استخدام الساعة قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ولذلك ستحتاج الساعة إلى تنزيل الملفات الصوتية. يجب عليك قبل استخدام الساعة قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ.</string>
+    <string name="module_week_ringtone_update_data">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل ≈٣٠ ميغابايت من الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
+    <string name="module_week_ringtone_update_success">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. يمكنك إنشاء منبه جديد لتجربة هذه الميزة.</string>
     <string name="module_white_noise_download_data">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. يتطلب التنزيل ≈٣٠ ميغابايت من بيانات الجوال. التنزيل الآن؟</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٣٠ ميغابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. انت تستخدم بيانات الجوال الآن. موافق؟&lt;/Data></string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٣٠ ميغابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. انت تستخدم بيانات الجوال الآن. موافق؟&lt;/Data></string>
     <string name="module_white_noise_download_wifi">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. التنزيل الآن؟</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
     <string name="monday_to_friday">من الاثنين إلى الجمعة</string>
     <string name="more_setting">المزيد من الإعدادات</string>
     <string name="more_settings">الإعدادات</string>
-    <string name="network_privacy">&lt;Data>للحصول على معلومات عن أيام العطل الرسمية وتعديل التنبيهات، ستحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>Iلتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href= %1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="network_privacy">&lt;Data>للحصول على معلومات عن أيام العطل الرسمية وتعديل التنبيهات، ستحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>Iلتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
     <string name="never">مرة</string>
     <string name="no_alarm_setting">لا توجد تنبيهات هنا</string>
     <string name="no_worldclock">لا توجد ساعات هنا</string>
@@ -217,7 +205,6 @@
     <string name="open_keep_screen">سيتم تشغيل الشاشة</string>
     <string name="other_category_title">أخرى</string>
     <string name="pause">إيقاف</string>
-    <string name="percentage_sign">%</string>
     <string name="personal_recommend">توصيات المحتوى الشخصي</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_policy_title">سياسة الخصوصية</string>
@@ -236,7 +223,7 @@
     <string name="ringtone_firefly">اليراعات</string>
     <string name="ringtone_other">مزيد من نغمات الرنين</string>
     <string name="ringtone_weather">منبه الطقس</string>
-    <string name="ringtone_week">المنبه الأسبوعي</string>
+    <string name="ringtone_week">منبه طبيعي</string>
     <string name="search_alarm_clock_keywords">المنبه؛ ساعة المنبه؛</string>
     <string name="search_stopwatch_keywords">ساعة الإيقاف</string>
     <string name="search_timer_keywords">المؤقت</string>
@@ -263,7 +250,6 @@
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
     <string name="snooze_duration">غفوة</string>
-    <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">غفوة</string>
     <string name="snooze_duration_value">الفاصل الزمني (دقائق)</string>
     <string name="snooze_duration_value_fifteen">١٥</string>
@@ -276,21 +262,15 @@
     <string name="star_wy_alarm_speech">موعد مع روي وان</string>
     <string name="start">بدء</string>
     <string name="start_up">بدء</string>
-    <string name="status_bar_clock_date_time_format">H:mm:ss</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
-    <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_title">ساعة الإيقاف</string>
     <string name="system_permission_purpose">إنشاء تنبيهات أيام الأسبوع وإعداد نغمات مخصصة</string>
     <string name="system_time_setting">الإعدادات</string>
     <string name="system_time_settings_category_title">إعدادات الوقت</string>
-    <string name="temperature_unit">℃</string>
     <string name="time">الوقت</string>
-    <string name="time_picker_colon">:</string>
     <string name="time_picker_label_hour">س</string>
     <string name="time_picker_label_minute">دق</string>
     <string name="time_picker_label_second">ث</string>
-    <string name="timer_alarm_alert_pad">%s</string>
     <string name="timer_alarm_cancel_pad">انقر على الشاشة لإيقاف الرنين</string>
     <string name="timer_alarm_dot_matrix_label">مؤقت</string>
     <string name="timer_alert_alert_silenced">سيتم كتم المؤقت بعد %1$s.</string>
@@ -314,7 +294,6 @@
     <string name="timer_created">تمت إضافة المؤقت بنجاح</string>
     <string name="timer_end_time">سيتوقف المؤقت في %s</string>
     <string name="timer_end_time_format">dd MMM HH:mm</string>
-    <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">موافق</string>
     <string name="timer_is_paused">توقف المؤقت مؤقتاً</string>
     <string name="timer_item_duration_display">%1$d دقيقة %2$d ثانية</string>

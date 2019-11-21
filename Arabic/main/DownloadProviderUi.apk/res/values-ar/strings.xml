@@ -73,11 +73,12 @@
     <string name="bt_path_not_exit">هذا المسار غير موجود</string>
     <string name="bt_restart_dialog_message">إعادة بدء كل التنزيلات في مجلد BT؟</string>
     <string name="bt_restart_dialog_title">إعادة بدء كل التنزيلات</string>
+    <string name="byteShort_per_seconds">ب/ث</string>
     <string name="cancel">إلغاء</string>
     <string name="check_new_downloaded_action">عرض</string>
     <string name="check_new_downloaded_file">تم العثور على ملف جديد</string>
     <string name="clear_data">حذف</string>
-    <string name="complete_time">اكتمل:</string>
+    <string name="complete_time">التنزيل:</string>
     <string name="confirm">موافق</string>
     <string name="confirm_delete_the_download_item_message">حذف هذه التنزيلات؟</string>
     <string name="continue_download">متابعة</string>
@@ -104,7 +105,7 @@
     <string name="download_error_insufficient_space">لا توجد مساحة تخزين كافية</string>
     <string name="download_filesize_unknown">غير معروف</string>
     <string name="download_from">المصدر:</string>
-    <string name="download_in_process">يتم التنزيل</string>
+    <string name="download_in_process">التنزيلات الجارية</string>
     <string name="download_info_start_deleted_tasks">حذف التنزيلات</string>
     <string name="download_list_open_xl_cancel">إلغاء</string>
     <string name="download_list_open_xl_ok">موافق</string>
@@ -113,6 +114,7 @@
     <string name="download_pending">التنزيل قيد الانتظار</string>
     <string name="download_remain_time">المتبقي:</string>
     <string name="download_speed">سرعة التنزيل:</string>
+    <string name="download_speed_suffix">%1$s %2$s</string>
     <string name="download_spend_time">الوقت</string>
     <string name="download_status_continue">إستئناف</string>
     <string name="download_status_fail">إعادة المحاولة</string>
@@ -141,6 +143,7 @@
     <string name="file_exist_hint">هذا الملف موجود مسبقاً</string>
     <string name="file_size">الحجم:</string>
     <string name="get_data_failed">تعذر الحصول على المعلومات. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="gigabyteShort_per_seconds">غ.ب/ث</string>
     <string name="guess_like">ربما يعجبك أيضاً</string>
     <string name="hint">تنبيه</string>
     <string name="info_download_details">التفاصيل</string>
@@ -151,9 +154,12 @@
     <string name="install">تثبيت</string>
     <string name="installing">جارٍ التثبيت…</string>
     <string name="insufficient_space">لا توجد مساحة تخزين كافية</string>
+    <string name="kilobyteShort_per_seconds">ك.ب/ث</string>
     <string name="korean_all_choose_item_title">أوافق على جميع البنود والشروط أدناه.</string>
     <string name="korean_permission_group_phone_describe">الوصول إلى IMEI الجهاز وحالة الشبكة، وجمع المعلومات حول التنزيلات الفاشلة لتحسين الخدمات</string>
     <string name="korean_permission_group_phone_title">الهاتف</string>
+    <string name="korean_permission_group_storage_describe">الوصول إلى تخزين الجهاز لإدارة التنزيلات</string>
+    <string name="korean_permission_group_storage_title">التخزبن</string>
     <string name="korean_privacy_btn_accept">قبول</string>
     <string name="korean_privacy_btn_exit">خروج</string>
     <string name="korean_privacy_item_title">سياسة الخصوصية (إلزامي)</string>
@@ -162,6 +168,7 @@
     <string name="load_finish_hint">هذا كل شئ حتى الان.</string>
     <string name="loading">لحظة من فضلك…</string>
     <string name="media_filter">الوسائط</string>
+    <string name="megabyteShort_per_seconds">م.ب/ث</string>
     <string name="menu_all_task_pause">إيقاف مؤقت للكل</string>
     <string name="menu_all_task_start">بدء الكل</string>
     <string name="menu_enter_edit_mode">المحرر</string>
@@ -194,6 +201,7 @@
     <string name="paused_unknown">إيقاف مؤقت</string>
     <string name="paused_waiting_for_network">في إنتظار الشبكة</string>
     <string name="paused_waiting_to_retry">في إنتظار إعادة المحاولة</string>
+    <string name="petabyteShort_per_seconds">ب.ب/ث</string>
     <string name="pref_download_settings_title">حد حجم التنزيل</string>
     <string name="pref_summary_any_bytes_popup">انتظر اتصال شبكة Wi-Fi دائما لتنزيل الملفات</string>
     <string name="pref_summary_enable_max_bytes_popup">عرض الإشعارات المنبثقة عند استعمال اتصال بيانات الجوال لتنزيل المحتوى</string>
@@ -234,9 +242,10 @@
     <string name="subbt_pause">إيقاف مؤقت</string>
     <string name="subbt_wait">جارٍ الإنتظار…</string>
     <string name="subfile_list">الملفات</string>
-    <string name="task_detail">المهام</string>
+    <string name="task_detail">التفاصيل</string>
     <string name="task_detail_notfound_confirm">موافق</string>
     <string name="task_fail">فشل</string>
+    <string name="terabyteShort_per_seconds">ت.ب/ث</string>
     <string name="toast_only_wifi_download">قم بالاتصال بالـ Wi-Fi لتنزيل هذا العنصر</string>
     <string name="total_speedup">زيادة السرعة (الإجمالي)</string>
     <string name="version">الإصدار %s</string>

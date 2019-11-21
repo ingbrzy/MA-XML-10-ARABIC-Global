@@ -11,6 +11,5 @@
     <string name="pop_up_allow_notify_dialog">السماح</string>
     <string name="pop_up_deny_notify_dialog">رفض</string>
     <string name="sync_notification_title_format">عنصر المزامنة الحالي: %1$s</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xmsf_activate_info">معلومات تفعيل XMSF</string>
 </resources>

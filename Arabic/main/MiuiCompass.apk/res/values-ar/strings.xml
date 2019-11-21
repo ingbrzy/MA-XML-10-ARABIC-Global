@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="allow">السماح</string>
-    <string name="altitude">%.1f</string>
-    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">الارتفاع</string>
     <string name="altitude_uncalibrate_cancel">إلغاء</string>
     <string name="altitude_uncalibrate_msg">لا يمكن معايرة الارتفاع بدقة بدون GPS أو اتصال بيانات الجوال.</string>
     <string name="altitude_uncalibrate_refresh">حاول مرة أخرى</string>
     <string name="altitude_uncalibrate_tip">لا يمكن المعايرة</string>
     <string name="altitude_unit">متر</string>
-    <string name="angle">%.0f</string>
     <string name="app_description_content">تستخدم البوصلة في الملاحة والتوجيه وعرض الاتجاهات. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل إلغاء تثبيت التطبيق.</string>
     <string name="app_description_title">حول البوصلة</string>
     <string name="app_label">البوصلة</string>
@@ -21,8 +18,8 @@
     <string name="calibrate_tip">قم بإمالة جهازك للف الكرة حول الدائرة</string>
     <string name="calibrate_title">معايرة البوصلة</string>
     <string name="cancel">إلغاء</string>
-    <string name="cannot_get_location">--</string>
     <string name="compass_settings">الإعدادت</string>
+    <string name="cta_v2_app_purpose">عرض الاتجاهات، الإحداثيات، الضغط الجوي والارتفاع الحالي</string>
     <string name="dialog_body_no_network">الاتصال بشبكة Wi-Fi أو تشغيل بيانات الجوال.</string>
     <string name="dialog_calibrat_altitude">جارٍ المعايرة…</string>
     <string name="dialog_title_no_network">تعذر الاتصال بالشبكة</string>
@@ -59,9 +56,7 @@
     <string name="permission_location_desc">عرض الإحداثيات والضغط الجوي</string>
     <string name="preference_other">أخرى</string>
     <string name="preference_privacy_title">سياسة الخصوصية</string>
-    <string name="pressure">%.1f</string>
     <string name="pressure_title">الضغط</string>
-    <string name="pressure_unit">hPa</string>
     <string name="shake_enter_tip">قم بهز الجهاز للمعايرة</string>
     <string name="unit_degree">درجات</string>
     <string name="using_camera_confirm_cancel">خروج</string>

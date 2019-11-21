@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">الهدف: %1$d خطوة</item>
+        <item quantity="zero">الهدف: %1$d خطوة</item>
+        <item quantity="one">الهدف: %1$d خطوة</item>
+        <item quantity="two">الهدف: %1$d خطوات</item>
+        <item quantity="few">الهدف: %1$d خطوات</item>
+        <item quantity="many">الهدف: %1$d خطوة</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">"  خطوة"</item>
+        <item quantity="zero">"  خطوة"</item>
+        <item quantity="one">"  خطوة"</item>
+        <item quantity="two">"  خطوات"</item>
+        <item quantity="few">"  خطوات"</item>
+        <item quantity="many">"  خطوة"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d يوم للدورة الشهرية</item>
+        <item quantity="zero">%1$d يوم للدورة الشهرية</item>
+        <item quantity="one">%1$d يوم للدورة الشهرية</item>
+        <item quantity="two">%1$d أيام للدورة الشهرية</item>
+        <item quantity="few">%1$d أيام للدورة الشهرية</item>
+        <item quantity="many">%1$d يوم للدورة الشهرية</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d خطوة</item>
+        <item quantity="zero">%1$d خطوة</item>
+        <item quantity="one">%1$d خطوة</item>
+        <item quantity="two">%1$d خطوات</item>
+        <item quantity="few">%1$d خطوات</item>
+        <item quantity="many">%1$d خطوة</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+        <item quantity="two">%1$d</item>
+        <item quantity="few">%1$d</item>
+        <item quantity="many">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="zero">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="one">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="two">لم تسجلي دورتك الشهرية لـ %1$d أيام. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="few">لم تسجلي دورتك الشهرية لـ %1$d أيام. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+        <item quantity="many">لم تسجلي دورتك الشهرية لـ %1$d يوم. يساعد تسجيلك بانتظام إلى الحصول على توقعات دقيقة.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">استمرت هذه الدورة الشهرية %1$d يوم</item>
+        <item quantity="zero">استمرت هذه الدورة الشهرية %1$d يوم</item>
+        <item quantity="one">استمرت هذه الدورة الشهرية %1$d يوم</item>
+        <item quantity="two">استمرت هذه الدورة الشهرية %1$d أيام</item>
+        <item quantity="few">استمرت هذه الدورة الشهرية %1$d أيام</item>
+        <item quantity="many">استمرت هذه الدورة الشهرية %1$d يوم</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="zero">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="one">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="two">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="few">اليوم %1$d لموعد الدورة الشهرية</item>
+        <item quantity="many">اليوم %1$d لموعد الدورة الشهرية</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d يوم لموعد الدورة</item>
+        <item quantity="zero">%1$d يوم لموعد الدورة</item>
+        <item quantity="one">%1$d يوم لموعد الدورة</item>
+        <item quantity="two">%1$d أيام لموعد الدورة</item>
+        <item quantity="few">%1$d أيام لموعد الدورة</item>
+        <item quantity="many">%1$d يوم لموعد الدورة</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d مرة</item>
+        <item quantity="zero">%1$d مرة</item>
+        <item quantity="one">%1$d مرة</item>
+        <item quantity="two">%1$d مرات</item>
+        <item quantity="few">%1$d مرات</item>
+        <item quantity="many">%1$d مرة</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="zero">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="one">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="two">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="few">اليوم %1$d للدورة الشهرية</item>
+        <item quantity="many">اليوم %1$d للدورة الشهرية</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+        <item quantity="zero">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+        <item quantity="one">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+        <item quantity="two">%1$d أيام لموعد الدورة الشهرية القادمة</item>
+        <item quantity="few">%1$d أيام لموعد الدورة الشهرية القادمة</item>
+        <item quantity="many">%1$d يوم لموعد الدورة الشهرية القادمة</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="zero">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="one">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="two">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="few">اليوم %1$d المتوقع للدورة الشهرية</item>
+        <item quantity="many">اليوم %1$d المتوقع للدورة الشهرية</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">"  يوم"</item>
+        <item quantity="zero">"  يوم"</item>
+        <item quantity="one">"  يوم"</item>
+        <item quantity="two">"  أيام"</item>
+        <item quantity="few">"  أيام"</item>
+        <item quantity="many">"  يوم"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d سنة</item>
+        <item quantity="zero">%1$d سنة</item>
+        <item quantity="one">%1$d سنة</item>
+        <item quantity="two">%1$d سنوات</item>
+        <item quantity="few">%1$d سنوات</item>
+        <item quantity="many">%1$d سنة</item>
+    </plurals>
+</resources>

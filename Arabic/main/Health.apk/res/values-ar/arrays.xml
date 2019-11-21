@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>معقول</item>
+        <item>طويل</item>
+        <item>طويل جدا</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>حان وقت التحرك!</item>
+        <item>معرفة المزيد</item>
+        <item>اشرب بعض الماء أو امشي.</item>
+        <item>معرفة المزيد</item>
+        <item>اصعد الكثير من الدرج</item>
+        <item>معرفة المزيد</item>
+        <item>لا تجلس لمدة طويلة</item>
+        <item>معرفة المزيد</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>ساعة</item>
+        <item>ساعتين</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>"  سعرة"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" سم"</item>
+        <item>"  متر"</item>
+        <item>" كم"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>اليوم</item>
+        <item>اسبوع</item>
+        <item>شهر</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>بلا قيود</item>
+        <item>تقييد نشاط خلفية</item>
+        <item>التوقف بعد ١٠ دقائق</item>
+        <item>ابدا</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" كم/س"</item>
+        <item>" م/س"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>الأحد</item>
+        <item>الإثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+</resources>

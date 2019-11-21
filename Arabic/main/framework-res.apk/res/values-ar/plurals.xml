@@ -144,6 +144,14 @@
         <item quantity="few">في%d أعوام</item>
         <item quantity="many">في%d عامًا</item>
     </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s و%2$d ملف</item>
+        <item quantity="zero">%1$s و%2$d ملف</item>
+        <item quantity="one">%1$s وملف (%2$d)</item>
+        <item quantity="two">%1$s وملفان (%2$d)</item>
+        <item quantity="few">%1$s و%2$d ملفات</item>
+        <item quantity="many">%1$s و%2$d ملفًا</item>
+    </plurals>
     <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">حاول مرة أخرى خلال %d ثانية.</item>
         <item quantity="zero">حاول مرة أخرى خلال %d ثانية.</item>
@@ -187,7 +195,7 @@
     <plurals name="selected_count">
         <item quantity="other">تم تحديد %1$d من العناصر</item>
         <item quantity="zero">تم تحديد %1$d من العناصر</item>
-        <item quantity="one">تم تحديد %1$d عنصر</item>
+        <item quantity="one">تم تحديد عنصر واحد (%1$d)</item>
         <item quantity="two">تم تحديد عنصرين (%1$d)</item>
         <item quantity="few">تم تحديد %1$d عناصر</item>
         <item quantity="many">تم تحديد %1$d عنصرًا</item>

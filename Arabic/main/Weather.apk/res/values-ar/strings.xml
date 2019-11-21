@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_weather_setting">حول الطقس</string>
-    <string name="about_weather_setting_feedback">الإبلاغ عن خلل</string>
+    <string name="about_weather_setting_feedback">التعليقات</string>
     <string name="abrupt_weather_settings_summary_type">تلقي تنبيهات لهطول الأمطار المتوقعة والتغيرات في نوعية الهواء وغيرها من التغيرات الهامة</string>
     <string name="act_find_city_hint">ادخل الموقع</string>
     <string name="act_find_city_hot_attractions_title">مناطق مشهورة</string>
@@ -101,10 +101,12 @@
     <string name="daily_forecast_add_city_message">تابع حالة الطقس على %1$s للحصول على توقعات أكثر تفصيلاً.</string>
     <string name="daily_forecast_add_city_title">شاهد الطقس في %1$s</string>
     <string name="daily_forecast_detail_date">M/d</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"تعذر الحصول على البيانات
 اسحب لأسفل للتحديث أو تحقق من إعدادات الشبكة"</string>
     <string name="data_provided_by">البيانات المقدمة من قِبل</string>
     <string name="edit_city">إدارة المدن</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">جارٍ التحديث…</string>
     <string name="empty_view_net_unavailable">تعذر الاتصال بالشبكة</string>
     <string name="empty_view_refresh">حاول مجددا</string>
@@ -126,6 +128,8 @@
     <string name="first_start_network_title">الاتصال بشبكة الانترنت و الوصول الى الموقع</string>
     <string name="global_aqi">جودة الهواء: %1$s %2$s</string>
     <string name="hourly_forcast_now">الآن</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title_24_hours_desc">توقعات ٢٤ ساعة</string>
     <string name="hourly_forecast_title_hourly_desc">توقعات حالة الطقس لكل ساعة</string>
@@ -141,11 +145,16 @@
     <string name="indices_title_feel">الشعور الحقيقي</string>
     <string name="indices_title_pressure">الضغط</string>
     <string name="install">تثبيت</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">الضغط</string>
     <string name="international_details_title">التفاصيل</string>
     <string name="international_details_uv_index_title">مؤشر الأشعة فوق البنفسجية</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">الرياح</string>
     <string name="it_is_going_to_rain">سوف تمطر</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
+    <string name="life_index_title">مؤشر الطقس</string>
     <string name="locate_fail_detail_err">"لا يمكن تحديد موقع الجهاز
 انقر على الشاشة يدويا لإضافة أو اعادة تحديد مدينة"</string>
     <string name="location_provider_btn_text">تشغيل خدمات الموقع</string>
@@ -156,7 +165,7 @@
     <string name="minute_rain_after_an_hour">خلال ساعة</string>
     <string name="minute_rain_after_two_hour">خلال ساعتين</string>
     <string name="minute_rain_feedback_subtitle">أخبرنا ما هو الطقس.</string>
-    <string name="minute_rain_feedback_text">الملاحظات</string>
+    <string name="minute_rain_feedback_text">التعليقات</string>
     <string name="minute_rain_feedback_title">يبدو أن معلومات الطقس غير صحيحة.</string>
     <string name="minute_rain_let_go_refresh">حرّره للتحديث</string>
     <string name="minute_rain_no_data">لا توجد بيانات</string>
@@ -204,6 +213,7 @@
     <string name="privacy_settings">سياسة الخصوصية</string>
     <string name="pull_fresh_updated">تم التحديث بنجاح</string>
     <string name="pull_fresh_updating">جارٍ التحديث…</string>
+    <string name="q_version_location_provider_btn_text">قم بتشغيل الوصول إلى الموقع وتحسين دقة الموقع</string>
     <string name="radar_cloud_image_title">خريطة الرادار</string>
     <string name="radar_cloud_update_time">قبل %1$s</string>
     <string name="rainfall_settings_summary">تنبيهات هطول أمطار</string>
@@ -214,8 +224,13 @@
     <string name="realtime_humidity_title">الرطوبة</string>
     <string name="realtime_temperature_no_data">N/A</string>
     <string name="realtime_wind_default_title">رياح</string>
+    <string name="refresh_empty_data">تعذر تحميل البيانات. انتظر دقيقة أو اثنتين وحاول مرة أخرى.</string>
     <string name="refresh_fail">تعذر الاتصال بالشبكة</string>
     <string name="reminder_from_xiaomi_weather_app">تنبيه طقس Mi</string>
+    <string name="request_permission_location_dialog_content">لعرض معلومات الطقس المرتبطة بموقعك الحالي</string>
+    <string name="request_permission_main_purpose">عرض معلومات الطقس</string>
+    <string name="request_permission_read_phone_state_dialog_content">لتحديد جهازك</string>
+    <string name="request_permission_storage_dialog_content">لمشاركة معلومات الطقس على شكل صورة</string>
     <string name="retry">حاول مجدداً</string>
     <string name="search_weather">الطقس</string>
     <string name="search_weather_keywords">درجة الحرارة؛ توقعات الطقس؛ الطقس؛ جودة الهواء؛ درجة التلوث؛ الرطوبة</string>
@@ -227,6 +242,7 @@
     <string name="share_menu_title">مشاركة</string>
     <string name="share_subject">مشاركة</string>
     <string name="share_weather_desc">\#طقس MIUI#اليوم %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">،</string>
     <string name="share_weather_save_pic_fail">تعذر أخذ لقطة الشاشة</string>
     <string name="shortcut_short_label_24_hour_forecast">توقعات ٢٤ ساعة</string>
@@ -272,6 +288,7 @@
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_title" />
     <string name="view_forecast_item_yesterday">أمس</string>
+    <string name="view_indexes_item_day_after_tommorrow">في يومين</string>
     <string name="view_indexes_item_today">اليوم</string>
     <string name="view_indexes_item_tommorrow">غدا</string>
     <string name="warning_weather_day_and_night_settings_summary">الحصول على تقارير الطقس اليومية في الساعة ٧:٠٠ و ١٩:٠٠</string>

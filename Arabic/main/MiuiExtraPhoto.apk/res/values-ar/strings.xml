@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="extra_photo_common_saving">جارٍ الحفظ…</string>
+    <string name="motion_photo_re_pick_title">حدّد أفضل صورة</string>
+    <string name="motion_photo_toast_default">الافتراضية</string>
+    <string name="motion_photo_toast_suggest">موصى بها</string>
+    <string name="refocus_discard_confirm_message">حفظ التغييرات؟</string>
+    <string name="refocus_discard_negative_btn">تجاهل الرسالة</string>
+    <string name="refocus_discard_positive_btn">حفظ</string>
+    <string name="refocus_photo_not_support">لا يمكن تعيين التأثير الضبابي على هذه الصورة</string>
+    <string name="refocus_relighting_toast">حرك الدائرة لضبط زاوية الإضاءة</string>
+    <string name="refocus_save_cancel">إلغاء</string>
+    <string name="refocus_save_title">اختر التنسيق</string>
+    <string name="refocus_save_to_photo">حفظ كصورة</string>
+    <string name="refocus_save_to_video">حفظ كفيديو</string>
+    <string name="refocus_saving">جارٍ الحفظ…</string>
+    <string name="refocus_title">ضبابي</string>
+    <string name="refocus_type_relighting">إضاءة استوديو</string>
+    <string name="refocus_type_relighting_no_face">تعذر العثور على وجه</string>
+    <string name="refocus_type_relighting_small_face">تعمل إضاءة الاستوديو في صور يوجد فيها أشخاص أكثر من هنا.</string>
+    <string name="refocus_type_static">مستوى الضبابية</string>
+    <string name="refocus_type_video">مسارات الضوء</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

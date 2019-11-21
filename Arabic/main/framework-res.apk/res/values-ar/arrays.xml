@@ -23,12 +23,12 @@
     </string-array>
     <string-array name="phoneTypes">
         <item>المنزل</item>
-        <item>الجوال</item>
+        <item>الجوّال</item>
         <item>العمل</item>
         <item>فاكس العمل</item>
         <item>فاكس المنزل</item>
         <item>جهاز نداء</item>
-        <item>آخر</item>
+        <item>غير ذلك</item>
         <item>مخصص</item>
     </string-array>
     <string-array name="postalAddressTypes">
@@ -37,6 +37,8 @@
         <item>آخر</item>
         <item>مخصص</item>
     </string-array>
+    <array name="face_acquired_vendor" />
+    <array name="face_error_vendor" />
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
@@ -57,9 +59,5 @@
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>‏حدثت مشكلة أثناء تسجيل الاتصال عبر Wi‑Fi باستخدام مشغِّل شبكة الجوّال: %1$s</item>
-    </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>‏%s الاتصال عبر Wi-Fi</item>
     </string-array>
 </resources>

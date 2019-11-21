@@ -136,6 +136,14 @@
         <item quantity="few">سيتم الاستئناف بعد %dدق</item>
         <item quantity="many">سيتم الاستئناف بعد %dدق</item>
     </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+        <item quantity="zero">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+        <item quantity="one">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+        <item quantity="two">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقائق.</item>
+        <item quantity="few">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d قائق.</item>
+        <item quantity="many">توقف مؤقت لمزامنة الصور والفيديوهات وجهات الاتصال والملاحظات والعناصر الأخرى في Cloud لمدة %d دقيقة.</item>
+    </plurals>
     <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d صورة وفيديو | %2$s</item>
         <item quantity="zero">%1$d صورة وفيديو | %2$s</item>
@@ -385,12 +393,12 @@
         <item quantity="many">%1$d ملف</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d عنصر بإنتظار النسخ الاحتياطي</item>
-        <item quantity="zero">%1$d عناصر بإنتظار النسخ الاحتياطي</item>
-        <item quantity="one">۱ عنصر بإنتظار النسخ الاحتياطي</item>
-        <item quantity="two">%1$d عناصر بإنتظار النسخ الاحتياطي</item>
-        <item quantity="few">%1$d عناصر بإنتظار النسخ الاحتياطي</item>
-        <item quantity="many">%1$d عنصر بإنتظار النسخ الاحتياطي</item>
+        <item quantity="other">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="zero">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="one">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="two">%1$d عناصر في انتظار المزامنة</item>
+        <item quantity="few">%1$d عنصر في انتظار المزامنة</item>
+        <item quantity="many">%1$d عنصر في انتظار المزامنة</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d صورة</item>
@@ -401,36 +409,36 @@
         <item quantity="many">%1$d صورة</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d صورة بانتظار القيام بنسخة احتياطية</item>
-        <item quantity="zero">%1$d صورة بانتظار القيام بنسخة احتياطية</item>
-        <item quantity="one">1 صورة بانتظار القيام بنسخة احتياطية</item>
-        <item quantity="two">%1$d صور بانتظار القيام بنسخة احتياطية</item>
-        <item quantity="few">%1$d صور بانتظار القيام بنسخة احتياطية</item>
-        <item quantity="many">%1$d صورة بانتظار القيام بنسخة احتياطية</item>
+        <item quantity="other">%1$d صورة في انتظار المزامنة</item>
+        <item quantity="zero">%1$d صورة في انتظار المزامنة</item>
+        <item quantity="one">%1$d صورة في انتظار المزامنة</item>
+        <item quantity="two">%1$d صور في انتظار المزامنة</item>
+        <item quantity="few">%1$d صور في انتظار المزامنة</item>
+        <item quantity="many">%1$d صورة في انتظار المزامنة</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">جارٍ القيام بنسخة احتياطية لـ%1$d صورة…</item>
-        <item quantity="zero">جارٍ القيام بنسخة احتياطية لـ%1$d صورة…</item>
-        <item quantity="one">جارٍ النسخ الاحتياطي…</item>
-        <item quantity="two">جارٍ القيام بنسخة احتياطية لـ%1$d صور…</item>
-        <item quantity="few">جارٍ القيام بنسخة احتياطية لـ%1$d صور…</item>
-        <item quantity="many">جارٍ القيام بنسخة احتياطية لـ%1$d صورة…</item>
+        <item quantity="other">جارٍ مزامنة %1$dصورة…</item>
+        <item quantity="zero">جارٍ مزامنة %1$dصورة…</item>
+        <item quantity="one">جارٍ مزامنة %1$dصورة…</item>
+        <item quantity="two">جارٍ مزامنة %1$dصور…</item>
+        <item quantity="few">جارٍ مزامنة %1$dصور…</item>
+        <item quantity="many">جارٍ مزامنة %1$dصورة…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">جارٍ القيام بنسخة احتياطية لـ%1$d عنصر…</item>
-        <item quantity="zero">جارٍ القيام بنسخة احتياطية لـ%1$d عنصر…</item>
-        <item quantity="one">جارٍ القيام بنسخة احتياطية لـ1عنصر…</item>
-        <item quantity="two">جارٍ القيام بنسخة احتياطية لـ%1$d عناصر…</item>
-        <item quantity="few">جارٍ القيام بنسخة احتياطية لـ%1$d عناصر…</item>
-        <item quantity="many">جارٍ القيام بنسخة احتياطية لـ%1$d عنصر…</item>
+        <item quantity="other">جارٍ مزامنة %1$d عنصر…</item>
+        <item quantity="zero">جارٍ مزامنة %1$d عنصر…</item>
+        <item quantity="one">جارٍ مزامنة %1$d عنصر…</item>
+        <item quantity="two">جارٍ مزامنة %1$d عناصر…</item>
+        <item quantity="few">جارٍ مزامنة %1$d عناصر…</item>
+        <item quantity="many">جارٍ مزامنة %1$d عنصر…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">جارٍ القيام بنسخة احتياطية لـ%1$d فيديو…</item>
-        <item quantity="zero">جارٍ القيام بنسخة احتياطية لـ%1$d فيديو…</item>
-        <item quantity="one">جارٍ النسخ الاحتياطي…</item>
-        <item quantity="two">جارٍ القيام بنسخة احتياطية لـ%1$d فيديوهات…</item>
-        <item quantity="few">جارٍ القيام بنسخة احتياطية لـ%1$d فيديوهات…</item>
-        <item quantity="many">جارٍ القيام بنسخة احتياطية لـ%1$d فيديو…</item>
+        <item quantity="other">جارٍ مزامنة %1$d فيديو…</item>
+        <item quantity="zero">جارٍ مزامنة %1$d فيديو…</item>
+        <item quantity="one">جارٍ مزامنة %1$d فيديو…</item>
+        <item quantity="two">جارٍ مزامنة %1$d فيديوهات…</item>
+        <item quantity="few">جارٍ مزامنة %1$d فيديوهات…</item>
+        <item quantity="many">جارٍ مزامنة %1$d فيديو…</item>
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d فيديو</item>
@@ -441,12 +449,12 @@
         <item quantity="many">%1$d فيديو</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">%1$d فيديو في انتظار القيام بنسخة احتياطية</item>
-        <item quantity="zero">%1$d فيديو في انتظار القيام بنسخة احتياطية</item>
-        <item quantity="one">1 فيديو في انتظار القيام بنسخة احتياطية</item>
-        <item quantity="two">%1$d فيديوهات في انتظار القيام بنسخة احتياطية</item>
-        <item quantity="few">%1$d فيديوهات في انتظار القيام بنسخة احتياطية</item>
-        <item quantity="many">%1$d فيديو في انتظار القيام بنسخة احتياطية</item>
+        <item quantity="other">%1$d فيديو في انتظار المزامنة</item>
+        <item quantity="zero">%1$d فيديو في انتظار المزامنة</item>
+        <item quantity="one">%1$d فيديو في انتظار المزامنة</item>
+        <item quantity="two">%1$d فيديوهات في انتظار المزامنة</item>
+        <item quantity="few">%1$d فيديوهات في انتظار المزامنة</item>
+        <item quantity="many">%1$d فيديو في انتظار المزامنة</item>
     </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">%1$d عنصر</item>

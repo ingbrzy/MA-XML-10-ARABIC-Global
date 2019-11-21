@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="animator_duration_scale_entries">
-        <item>الرسوم المتحركة متوقفة</item>
+        <item>إيقاف الرسوم المتحركة</item>
         <item>مقياس الرسوم المتحركة .5x</item>
         <item>مقياس الرسوم المتحركة 1x</item>
         <item>مقياس الرسوم المتحركة 1.5x</item>
@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -37,7 +55,7 @@
         <item>لا تظهر هذا الأيقونة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام اختيار النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>۱٦ بت/عينة</item>
@@ -49,12 +67,12 @@
         <item>٣٢ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
-        <item>مونو</item>
-        <item>ستيريو</item>
+        <item>أستخدام اختيار النظام (افتراضي)</item>
+        <item>أحادي</item>
+        <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام اختيار النظام (افتراضي)</item>
         <item>أحادي</item>
         <item>استريو</item>
     </string-array>
@@ -78,7 +96,7 @@
         <item>۰. ۹٦ كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام اختيار النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
@@ -88,31 +106,31 @@
         <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>صوت Qualcomm® aptX™</item>
+        <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>LHDC</item>
+        <item>صوت Qualcomm® aptX™ Adaptive</item>
+        <item>صوت Qualcomm® aptX™ TWS+</item>
         <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>أستخدام اختيار النظام (افتراضي)</item>
+        <item>أستخدام إختيار النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>صوت Qualcomm® aptX™</item>
-        <item>Qualcomm® aptX™ HD audio</item>
+        <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>LHDC</item>
+        <item>صوت Qualcomm® aptX™ Adaptive</item>
+        <item>صوت Qualcomm® aptX™ TWS+</item>
         <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>"  |  نشط"</item>
-        <item>"  |  نشط (وسائط)"</item>
-        <item>"  |  نشط (هاتف)"</item>
+        <item>" | نشط"</item>
+        <item>" | نشط (الوسائط)"</item>
+        <item>" | نشط (الهاتف)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp14</item>
@@ -121,10 +139,17 @@
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (الافتراضي)</item>
+        <item>AVRCP 1.4 (افتراضي)</item>
         <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>غير مفعل</item>
+        <item>التصفية مفعلة</item>
+        <item>تصفية التسمية مفعلة</item>
+        <item>تصفية Pkts للوسائط مفعلة</item>
+        <item>مفعل</item>
     </string-array>
     <string-array name="clock_options">
         <item>عرض الساعة والدقائق والثواني</item>
@@ -133,23 +158,23 @@
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
-        <item>ألوان طبيعية كما تراها العين</item>
+        <item>الألوان الطبيعية تراها العين</item>
         <item>الألوان المحسنة للمحتوى الرقمي</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>نابض بالحياة (إفتراضي)</item>
-        <item>طبيعية</item>
-        <item>قياسية</item>
+        <item>طبيعي</item>
+        <item>قياسي</item>
     </string-array>
     <array name="data_type_name_mcc_mnc_key" />
     <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
-        <item>إيقاف</item>
+        <item>متوقف</item>
         <item>عرض مناطق تجاوز الحد</item>
         <item>عرض مناطق Deuteranomaly</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>بدون</item>
+        <item>لا شيء</item>
         <item>Logcat</item>
         <item>Systrace (رسومات)</item>
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
@@ -184,18 +209,18 @@
         <item>يميل يمين</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>بدون</item>
+        <item>لا شيء</item>
         <item>480p</item>
         <item>(آمن) 480p</item>
         <item>720p</item>
-        <item>(آمن) 720p</item>
+        <item>720p (آمن)</item>
         <item>1080p</item>
-        <item>(آمن) 1080p</item>
+        <item>1080p (آمن)</item>
         <item>4K</item>
-        <item>(آمن) 4K</item>
-        <item>(زيادة دقة) 4K</item>
-        <item>(زيادة دقة، آمن) 4K</item>
-        <item>(شاشة مزدوجة) 720p، 1080p</item>
+        <item>4K (آمن)</item>
+        <item>4K (زيادة دقة)</item>
+        <item>4K (زيادة دقة، آمن)</item>
+        <item>720p، 1080p (شاشة مزدوجة)</item>
     </string-array>
     <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
@@ -213,37 +238,37 @@
         <item>١٦ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>إيقاف</item>
-        <item>٦٤ كيلو</item>
-        <item>٢٥٦ كيلو</item>
-        <item>١ ميغا</item>
-        <item>٤ ميغا</item>
-        <item>١٦ ميغا</item>
+        <item>متوقف</item>
+        <item>٦٤ كيلوبايت</item>
+        <item>٢٥٦ كيلوبايت</item>
+        <item>١ ميغابايت</item>
+        <item>٤ ميغابايت</item>
+        <item>١٦ ميغابايت</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>إيقاف</item>
-        <item>جميع مخازن السجلات</item>
-        <item>كل شئ عدا المخازن المؤقتة لسجلات الراديو</item>
+        <item>متوقف</item>
+        <item>كل المخازن المؤقتة للسجلات</item>
+        <item>كل المخازن المؤقتة باستثناء مخازن سجلات اللاسلكي</item>
         <item>‏التخزين المؤقت لسجل kernel فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>إيقاف</item>
+        <item>متوقف</item>
         <item>الكل</item>
-        <item>كل شيء عدا الراديو</item>
+        <item>الكل دون اللاسلكي</item>
         <item>‏kernel فقط</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>إيقاف</item>
-        <item>إرسم منطقة القصاصة الغير مستطيلة بالأزرق</item>
+        <item>متوقف</item>
+        <item>إرسم منطقة قصاصة غير مستطيلة بالأزرق</item>
         <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>إيقاف</item>
+        <item>متوقف</item>
         <item>على الشاشة كأشرطة</item>
         <item>في adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>الرسوم المتحركة متوقفة</item>
+        <item>إيقاف الرسوم المتحركة</item>
         <item>مقياس الرسوم المتحركة .5x</item>
         <item>مقياس الرسوم المتحركة 1x</item>
         <item>مقياس الرسوم المتحركة 1.5x</item>
@@ -313,7 +338,7 @@
     <string-array name="wifi_status">
         <item></item>
         <item>جارٍ البحث…</item>
-        <item>جارٍ التوصيل…</item>
+        <item>جارٍ الاتصال…</item>
         <item>جارٍ المصادقة…</item>
         <item>جارٍ الحصول على عنوان IP…</item>
         <item>متصل</item>
@@ -322,7 +347,7 @@
         <item>غير متصل</item>
         <item>غير ناجح</item>
         <item>محظورة</item>
-        <item>تجنب الاتصال الضعيف مؤقتا</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -334,9 +359,9 @@
         <item>معلق</item>
         <item>جارٍ قطع الاتصال بشبكة %1$s…</item>
         <item>غير متصل</item>
-        <item>لم ينجح ذلك</item>
+        <item>غير ناجح</item>
         <item>محظور</item>
-        <item>مؤقتا تجنب الإتصال الضعيف</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>

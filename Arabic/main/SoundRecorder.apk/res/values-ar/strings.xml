@@ -12,6 +12,7 @@
     <string name="call_record_list_group_all">الكل</string>
     <string name="call_record_list_group_connected">متصل</string>
     <string name="call_record_list_group_unconnected">غير متصل</string>
+    <string name="cancel_rename">إلغاء</string>
     <string name="clear_records">حذف التسجيلات المتزامنة</string>
     <string name="cloud_record_open">التسجيلات المتزامنة</string>
     <string name="cloud_record_tip">مزامنة التسجيلات مع Xiaomi Cloud.</string>
@@ -73,6 +74,7 @@
     <string name="korea_permission_record_resc">لتسجيل الصوت</string>
     <string name="korea_permission_storage">التخزبن</string>
     <string name="korea_permission_storage_desc">لحفظ التسجيلات</string>
+    <string name="loading_more">لحظة من فضلك…</string>
     <string name="loading_order_list">لحظة من فضلك…</string>
     <string name="loading_order_list_empty">لا توجد طلبات هنا.</string>
     <string name="low_battery_error">أقل من ٥% متبقية من البطارية. قم بايقاف وحفظ التسجيل الخاص بك للتأكد من عدم فقدانه.</string>
@@ -105,7 +107,6 @@
     <string name="online_recognize_duration_limite">(البدأ من ١٠ دقائق)</string>
     <string name="online_recognize_fail">تعذر التحويل إلى نصوص</string>
     <string name="online_recognize_login_fail">تعذر تسجيل الدخول</string>
-    <string name="online_recognize_order_audio_price">%s CNY</string>
     <string name="online_recognize_order_create">تسجيل الدخول</string>
     <string name="online_recognize_order_duration_key">المدة</string>
     <string name="online_recognize_order_pay">الدفع وعرض النتائج</string>
@@ -121,11 +122,11 @@
     <string name="online_recognize_order_upload">تأكيد ورفع</string>
     <string name="online_recognize_order_uploading">جار التحميل %s…</string>
     <string name="online_recognize_other_order_upload">انتظر حتى يكتمل رفع الحالي ثم حاول مجددا.</string>
+    <string name="online_recognize_progress">جارٍ التحويل إلى نصوص%s…</string>
     <string name="online_recognize_running">جارٍ التحويل إلى نصوص…</string>
     <string name="online_recognize_service_unavailable">الخدمة غير متوفرة الآن. انتظر دقيقة أو دقيقتين وحاول مرة أخرى.</string>
     <string name="order_item_duration">المدة: %s</string>
     <string name="order_item_number">رقم الطلب: %s</string>
-    <string name="order_item_price">%s CNY</string>
     <string name="path_soundrecorder_setting">تطبيقات النظام/المسجل</string>
     <string name="pause">إيقاف مؤقت</string>
     <string name="pay_error_cancel">تم إلغاء الدفع</string>
@@ -190,15 +191,12 @@
     <string name="record_format_preference_title">صيغة التسجيل</string>
     <string name="record_list">التسجيلات</string>
     <string name="record_list_call">المكالمات المسجلة</string>
-    <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">التسجيلات المتزامنة</string>
     <string name="record_list_cloud_call">المكالمات المسجلة المتزامنة</string>
     <string name="record_list_cloud_fm">تسجيلات FM المتزامنة</string>
     <string name="record_list_fm">تسجيلات FM</string>
     <string name="record_list_item_recognize_text">نص</string>
     <string name="record_mark_point">علامة %s</string>
-    <string name="record_name_hour">.</string>
-    <string name="record_name_minute" />
     <string name="record_quliaty_preference_title">جودة التسجيل</string>
     <string name="record_resotre">استرداد السجلات</string>
     <string name="recording">جارٍ التسجيل</string>
@@ -225,7 +223,9 @@
     <string name="retry">إعادة المحاولة</string>
     <string name="runtime_permission_ungranted">لا يمكن استخدام المسجل بسبب أذونات غير ممنوحة</string>
     <string name="search_app">المسجل</string>
+    <string name="search_empty">تعذر العثور على نتائج</string>
     <string name="search_enable_earpiece_title">استخدام جهاز الاستقبال لتشغيل الصوت</string>
+    <string name="search_hint">بحث</string>
     <string name="search_led_indicator">إشعارات شاشة القفل</string>
     <string name="search_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة ووميض ضوء الإشعارات في شاشة القفل</string>
     <string name="search_quliaty_title">جودة التسجيل</string>
@@ -261,9 +261,6 @@
     <string name="text_play_speed_1_0">سرعة التشغيل العادية</string>
     <string name="text_play_speed_1_5">1.5X سرعة التشغيل</string>
     <string name="text_play_speed_2_0">2X سرعة التشغيل</string>
-    <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
-    <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">يمكن ل%1$s تسجيل حوالي %2$s</string>
     <string name="toast_uninstall_fileexplorer">مدير الملفات غير مثبت</string>
     <string name="usage_description">نسخ الصوت ومزامنة العناصر مع Cloud</string>

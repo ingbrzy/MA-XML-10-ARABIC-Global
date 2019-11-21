@@ -23,6 +23,8 @@
     <string name="app_notification_info">تعمل الملاحظات في الخلفية</string>
     <string name="app_widget">ملاحظات</string>
     <string name="application_icon">أيقونة التطبيق</string>
+    <string name="audio_create_normal_state">أفلت للإنشاء. مرر لأعلى للإلغاء.</string>
+    <string name="audio_create_will_cancel_state">أفلت للإلغاء</string>
     <string name="audio_panel_time_counter_default">٠٠:٠٠</string>
     <string name="audio_toast_file_invalid">الملف الصوتي غير صالح</string>
     <string name="audio_toast_file_undownload">لم يتم تنزيل الملف الصوتي بالكامل أو أنه مفقود</string>
@@ -40,9 +42,6 @@
     <string name="cta_dialog_title">يتطلب أذونات</string>
     <string name="cta_reminder">يحتاج تطبيق الملاحظات إلى الأذونات للوصول للإنترنت وتسجيل الصوت والوصول إلى جهات اتصالك للعمل بشكل طبيعي. السماج؟</string>
     <string name="date_calculate_today">٠ يوم</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">المنبه</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_time_picker_has_not_set_alarm">لم يتم تعيين المنبه</string>
@@ -89,8 +88,6 @@
     <string name="error_widget_exist_for_send_to_desktop">هذه الملاحظة موجودة مسبقا على الشاشة الرئيسية</string>
     <string name="exceed_todo_text_limitation">وصف المهمة طويل جدا.</string>
     <string name="first_enter_custom_folder_hint">يمكنك إعادة تسمية أو حذف المجلدات هنا</string>
-    <string name="fmt_chinese_date">N e</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">مجلد بنفس الاسم موجود مسبقا</string>
     <string name="folder_operation_delete">حذف</string>
     <string name="folder_operation_rename">إعادة تسمية</string>
@@ -130,6 +127,10 @@
     <string name="menu_todo_show_finished_todo">اظهار المهام المكتملة</string>
     <string name="menu_unhide">عدم إخفاء</string>
     <string name="menu_unstick">إلغاء التثبيت</string>
+    <string name="new_audio_create_cancel_talkback_des">تم الإلغاء</string>
+    <string name="new_audio_create_done_talkback_des">تم الانشاء</string>
+    <string name="new_audio_create_guide_tip">اضغط مع الاستمرار لإنشاء ملاحظة صوتية</string>
+    <string name="new_audio_create_talkback_des">انقر لإنشاء ملاحظة نصية. اضغط مع الاستمرار لإنشاء ملاحظة صوتية. أفلت الزر لإيقاف التسجيل وإنشاء الملاحظة أو مرِّر لأعلى للإلغاء.</string>
     <string name="not_now">ليس الآن</string>
     <string name="note_description_content">تطبيق الملاحظات هو أداة رائعة لتسجيل أفكارك. يحتوي على تذكيرات افتراضية ومزامنة للعناصر الخاصة بك إلى Cloud لتتمكن من الوصول إليها في أي مكان وفي أي وقت. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل حذف التطبيق.</string>
     <string name="note_description_title">حول الملاحظات</string>
@@ -165,6 +166,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">الحذف بإستخدام إيماءة</string>
     <string name="pref_title_todo_float_mode">استخدم شريط أدوات المهام</string>
     <string name="pref_title_todo_shorcut">شريط الأدوات</string>
+    <string name="privacy_note_content_empty">لا توجد عناصر هنا.</string>
     <string name="recover_notes_hint">حدث خطأ ما، اذهب إلى i.mi.com لإسترداد الملاحظات.</string>
     <string name="redo">إعادة</string>
     <string name="refuse_to_open_as_pic_because_of_loading">انتظر حتى يتم تحميل الملاحظة وحاول مجددا.</string>
@@ -284,8 +286,6 @@
     <string name="todo_module_name">المهام</string>
     <string name="todo_notify_alarm_title">تذكير للمهمة</string>
     <string name="todo_schedule_time_expired">" (انتهى)"</string>
-    <string name="todo_schedule_time_for_picker_hm">H mm</string>
-    <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>
     <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_today">اليوم</string>

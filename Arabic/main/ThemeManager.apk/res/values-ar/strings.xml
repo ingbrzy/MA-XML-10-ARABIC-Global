@@ -8,15 +8,6 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تشغيل</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -122,8 +113,6 @@
     <string name="desktop_effects">تأثيرات الشاشة الرئيسية</string>
     <string name="desktop_wallpaper">الشاشة الرئيسية</string>
     <string name="detail_author_attention_head">تابع أكثر المصممين تميزا لدينا</string>
-    <string name="detail_author_fans">"Followers: "</string>
-    <string name="detail_author_works">"Items: "</string>
     <string name="detail_recommend_title">قد تعجبك هذه</string>
     <string name="dev_options">خيارات المطور</string>
     <string name="dev_options_summary">مصادر ويب</string>
@@ -156,6 +145,7 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
@@ -281,7 +271,6 @@
     <string name="miuishare_no_network">تعذر الإتصال بالشبكة.</string>
     <string name="miuishare_please_retry">تعذر الحصول على المعلومات. تحقق من اتصال الشبكة ثم حاول مجددا.</string>
     <string name="miuishare_publish">ارسال</string>
-    <string name="miuishare_qzone_title">Qzone</string>
     <string name="miuishare_share_done">تمت المشاركة بنجاح</string>
     <string name="miuishare_share_editor_title">مشاركة</string>
     <string name="miuishare_share_fail">تعذر المشاركة</string>
@@ -289,7 +278,6 @@
     <string name="miuishare_title_more">المزيد</string>
     <string name="miuishare_title_share">مشاركة</string>
     <string name="miuishare_wechat_timeline_title">لحظات WeChat</string>
-    <string name="miuishare_weibo_title">Weibo</string>
     <string name="mix_global_option">عام</string>
     <string name="mix_global_option_des">مركز الإشعارات والهاتف والرسائل و عناصر النظام الأخرى. إلغي تحديد هذا المربع لإستخدام الخيارات الافتراضية.</string>
     <string name="mix_home_option_des">خلفية الشاشة والساعة. إلغي تحديد هذا المربع لإستخدام الخيارات الافتراضية.</string>
@@ -307,13 +295,11 @@
     <string name="my_gifts_received">المستلمة</string>
     <string name="network_exception">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="no_data">لا يمكن الاتصال بالشبكة</string>
-    <string name="official_accounts">WeChat</string>
     <string name="online_no_network">لا يمكن الاتصال بالشبكة</string>
     <string name="online_precust_abstract">الملخص</string>
     <string name="online_precust_animal">حيوان</string>
     <string name="online_precust_building">مبنى</string>
     <string name="online_precust_creative">أبداع</string>
-    <string name="online_precust_hatsune">Hatsune</string>
     <string name="online_precust_lifestyle">نمط الحياة</string>
     <string name="online_precust_museum">المتحف البريطاني</string>
     <string name="online_precust_plant">نبات</string>
@@ -495,6 +481,9 @@
     <string name="resource_restore">استرداد</string>
     <string name="resource_restore_fail">تعذر الإستعادة</string>
     <string name="resource_restore_succ">تم الاسترداد بنجاح</string>
+    <string name="resource_ring_ranking_list_rank_1">١</string>
+    <string name="resource_ring_ranking_list_rank_2">٢</string>
+    <string name="resource_ring_ranking_list_rank_3">۳</string>
     <string name="resource_ringtone_default">نغمات الرنين</string>
     <string name="resource_ringtone_playing_error">خطأ</string>
     <string name="resource_ringtone_volume_mute">صوت الرنين صامت</string>
@@ -775,7 +764,6 @@
     <string name="wallpaper_settings_page_title">خلفية الشاشة</string>
     <string name="wallpaper_static">ثابت</string>
     <string name="wechat_not_found">قم بتثبيت تطبيق WeChat أولاً</string>
-    <string name="weibo">Weibo</string>
     <string name="wifi_check_cancel">إلغاء</string>
     <string name="wifi_check_confirm">تأكيد</string>
     <string name="wifi_check_message">استخدام بيانات الجوال لتحميل التحديثات؟</string>

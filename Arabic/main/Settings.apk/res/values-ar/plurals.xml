@@ -24,6 +24,14 @@
         <item quantity="few">قبل %d سنوات</item>
         <item quantity="many">قبل %d سنة</item>
     </plurals>
+    <plurals name="accessibility_usage_summary">
+        <item quantity="other">يحظى %1$d تطبيق بوصول كامل إلى جهازك.</item>
+        <item quantity="zero">يحظى %1$d تطبيق بوصول كامل إلى جهازك.</item>
+        <item quantity="one">يحظى تطبيق واحد بوصول كامل إلى جهازك.</item>
+        <item quantity="two">يحظى تطبيقان (%1$d) بوصول كامل إلى جهازك.</item>
+        <item quantity="few">يحظى %1$d تطبيقات بوصول كامل إلى جهازك.</item>
+        <item quantity="many">يحظى %1$d تطبيقًا بوصول كامل إلى جهازك.</item>
+    </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
         <item quantity="zero">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
@@ -177,12 +185,12 @@
         <item quantity="many">%d جهاز</item>
     </plurals>
     <plurals name="data_saver_unrestricted_summary">
-        <item quantity="other">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
-        <item quantity="zero">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
-        <item quantity="one">هناك تطبيق واحد مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item quantity="other">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
+        <item quantity="zero">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
+        <item quantity="one">هناك تطبيق واحد مسموح له باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
         <item quantity="two">هناك تطبيقان (%1$d) مسموح لهما باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
-        <item quantity="few">هناك %1$d تطبيقات مسموح لها باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
-        <item quantity="many">هناك %1$d تطبيقًا مسموح لها باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item quantity="few">هناك %1$d تطبيقات مسموح لها باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
+        <item quantity="many">هناك %1$d تطبيقًا مسموح لها باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
     </plurals>
     <plurals name="default_camera_app_title">
         <item quantity="other">تطبيقات للكاميرا</item>
@@ -287,6 +295,22 @@
         <item quantity="two">ساعتان (%s)</item>
         <item quantity="few">%s ساعات</item>
         <item quantity="many">%s ساعة</item>
+    </plurals>
+    <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">يمتلك %1$d تطبيق من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="zero">يمتلك %1$d تطبيق من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="one">يمتلك تطبيق واحد (%1$d) من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="two">يمتلك تطبيقان (%1$d) من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="few">تمتلك %1$d تطبيقات من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="many">يمتلك %1$d تطبيقًا من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+    </plurals>
+    <plurals name="location_settings_summary_location_on">
+        <item quantity="other">خدمة \"الموقع الجغرافي\" مفعَّلة - يمتلك %1$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="zero">خدمة \"الموقع الجغرافي\" مفعَّلة - يمتلك %1$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="one">خدمة \"الموقع الجغرافي\" مفعَّلة - يمتلك تطبيق واحد (%1$d) حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="two">خدمة \"الموقع الجغرافي\" مفعَّلة - يمتلك تطبيقان (%1$d) حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="few">خدمة \"الموقع الجغرافي\" مفعَّلة - تمتلك %1$d تطبيقات حق الوصول إلى بيانات الموقع الجغرافي.</item>
+        <item quantity="many">خدمة \"الموقع الجغرافي\" مفعَّلة - يمتلك %1$d تطبيقًا حق الوصول إلى بيانات الموقع الجغرافي.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف على الأقل</item>
@@ -409,12 +433,12 @@
         <item quantity="many">‏يمكن قراءة الإشعارات بواسطة %d تطبيقًا</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d خدمة ناشطة لمنح الثقة</item>
-        <item quantity="zero">%d خدمة ناشطة لمنح الثقة</item>
-        <item quantity="one">خدمة واحدة ناشطة لمنح الثقة</item>
-        <item quantity="two">خدمتان (%d) ناشتطان لمنح الثقة</item>
-        <item quantity="few">%d خدمات ناشطة لمنح الثقة</item>
-        <item quantity="many">%d خدمة ناشطة لمنح الثقة</item>
+        <item quantity="other">%d وكيل معتمد نشط</item>
+        <item quantity="zero">%d وكيل معتمد نشط</item>
+        <item quantity="one">وكيل واحد معتمد نشط</item>
+        <item quantity="two">وكيلان (%d) معتمدان نشطان</item>
+        <item quantity="few">%d وكلاء معتمدين نشطين</item>
+        <item quantity="many">%d وكيلاً معتمدًا نشطًا</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
@@ -440,6 +464,14 @@
         <item quantity="few">%d مضاف</item>
         <item quantity="many">%d مضاف</item>
     </plurals>
+    <plurals name="mobile_network_summary_count">
+        <item quantity="other">‏%1$d شريحة SIM</item>
+        <item quantity="zero">‏%1$d شريحة SIM</item>
+        <item quantity="one">‏%1$d شريحة SIM</item>
+        <item quantity="two">‏شريحتا SIM %1$d</item>
+        <item quantity="few">‏%1$d شرائح SIM</item>
+        <item quantity="many">‏%1$d شريحة SIM</item>
+    </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d قيد</item>
         <item quantity="zero">%1$d قيد</item>
@@ -447,6 +479,14 @@
         <item quantity="two">قيدان (%1$d)</item>
         <item quantity="few">%1$d قيود</item>
         <item quantity="many">%1$d قيدًا</item>
+    </plurals>
+    <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d قناة للإشعارات.</item>
+        <item quantity="zero">%1$d قناة للإشعارات.</item>
+        <item quantity="one">%1$d قناة للإشعارات.</item>
+        <item quantity="two">قناتان (%1$d) للإشعارات.</item>
+        <item quantity="few">%1$d قنوات للإشعارات.</item>
+        <item quantity="many">%1$d قناة للإشعارات.</item>
     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d فئة</item>
@@ -472,6 +512,22 @@
         <item quantity="few">تم إيقاف %d فئات</item>
         <item quantity="many">تم إيقاف %d فئة</item>
     </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">%d إشعار تقريبًا في اليوم</item>
+        <item quantity="zero">%d إشعار تقريبًا في اليوم</item>
+        <item quantity="one">%d إشعار تقريبًا في اليوم</item>
+        <item quantity="two">إشعاران (%d) تقريبًا في اليوم</item>
+        <item quantity="few">%d إشعارات تقريبًا في اليوم</item>
+        <item quantity="many">%d إشعارًا تقريبًا في اليوم</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">%d إشعار تقريبًا في الأسبوع</item>
+        <item quantity="zero">%d إشعار تقريبًا في الأسبوع</item>
+        <item quantity="one">%d إشعار تقريبًا في الأسبوع</item>
+        <item quantity="two">إشعاران (%d) تقريبًا في الأسبوع</item>
+        <item quantity="few">%d إشعارات تقريبًا في الأسبوع</item>
+        <item quantity="many">%d إشعارًا تقريبًا في الأسبوع</item>
+    </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d تطبيق نشط</item>
         <item quantity="zero">%d تطبيق نشط</item>
@@ -479,6 +535,14 @@
         <item quantity="two">تطبيقان نشطان (%d)</item>
         <item quantity="few">%d تطبيقات نشطة</item>
         <item quantity="many">%d تطبيقًا نشطًا</item>
+    </plurals>
+    <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s تطبيق</item>
+        <item quantity="zero">%s تطبيق</item>
+        <item quantity="one">تطبيق واحد</item>
+        <item quantity="two">تطبيقان (%s)</item>
+        <item quantity="few">%s تطبيقات</item>
+        <item quantity="many">%s تطبيقًا</item>
     </plurals>
     <plurals name="permissions_summary">
         <item quantity="other">تم منح %d من الأذونات</item>
@@ -513,20 +577,20 @@
         <item quantity="many">%1$d مهمة طباعة</item>
     </plurals>
     <plurals name="print_settings_summary">
-        <item quantity="other">تم تشغيل %1$d خدمة طباعة</item>
-        <item quantity="zero">تم تشغيل %1$d خدمة طباعة</item>
-        <item quantity="one">تم تشغيل خدمة طباعة واحدة</item>
-        <item quantity="two">تم تشغيل خدمتي طباعة (%1$d)</item>
-        <item quantity="few">تم تشغيل %1$d خدمات طباعة</item>
-        <item quantity="many">تم تشغيل %1$d خدمة طباعة</item>
+        <item quantity="other">تم تفعيل %1$d خدمة طباعة</item>
+        <item quantity="zero">تم تفعيل %1$d خدمة طباعة</item>
+        <item quantity="one">تم تفعيل خدمة طباعة واحدة</item>
+        <item quantity="two">تم تفعيل خدمتي طباعة (%1$d)</item>
+        <item quantity="few">تم تفعيل %1$d خدمات طباعة</item>
+        <item quantity="many">تم تفعيل %1$d خدمة طباعة</item>
     </plurals>
     <plurals name="restricted_app_summary">
-        <item quantity="other">‏تقييد استخدام شحن البطارية لـ %1$d تطبيق</item>
-        <item quantity="zero">‏تقييد استخدام شحن البطارية لـ %1$d تطبيق</item>
-        <item quantity="one">تقييد استخدام شحن البطارية لتطبيق واحد</item>
-        <item quantity="two">تقييد استخدام شحن البطارية لتطبيقين</item>
-        <item quantity="few">‏تقييد استخدام شحن البطارية لـ %1$d تطبيقات</item>
-        <item quantity="many">‏تقييد استخدام شحن البطارية لـ %1$d تطبيقًا</item>
+        <item quantity="other">‏تحديد مدى استخدام البطارية لـ %1$d تطبيق</item>
+        <item quantity="zero">‏تحديد مدى استخدام البطارية لـ %1$d تطبيق</item>
+        <item quantity="one">تحديد مدى استخدام البطارية لتطبيق واحد</item>
+        <item quantity="two">تحديد مدى استخدام البطارية لتطبيقين</item>
+        <item quantity="few">‏تحديد مدى استخدام البطارية لـ %1$d تطبيقات</item>
+        <item quantity="many">‏تحديد مدى استخدام البطارية لـ %1$d تطبيقًا</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
         <item quantity="other">%d من الأذونات الإضافية</item>
@@ -555,7 +619,7 @@
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">تم إعداد %1$d من بصمات الإصبع</item>
         <item quantity="zero">عدم إعداد أي بصمة إصبع (%1$d)</item>
-        <item quantity="one">تم إعداد بصمة إصبع واحدة (1( (%1$d)</item>
+        <item quantity="one">تم إعداد بصمة إصبع واحدة (%1$d)</item>
         <item quantity="two">تم إعداد بصمتي إصبع (%1$d)</item>
         <item quantity="few">تم إعداد %1$d بصمات إصبع</item>
         <item quantity="many">تم إعداد %1$d بصمة إصبع</item>
@@ -567,6 +631,14 @@
         <item quantity="two">‏عرض عنصرين (%d) مخفيين</item>
         <item quantity="few">‏عرض %d عناصر مخفية</item>
         <item quantity="many">‏عرض %d عنصرًا مخفيًّا</item>
+    </plurals>
+    <plurals name="show_bluetooth_devices">
+        <item quantity="other">تم توصيل %1$d جهاز.</item>
+        <item quantity="zero">تم توصيل %1$d جهاز.</item>
+        <item quantity="one">تم توصيل جهاز واحد (%1$d).</item>
+        <item quantity="two">تم توصيل جهازين (%1$d).</item>
+        <item quantity="few">تم توصيل %1$d أجهزة.</item>
+        <item quantity="many">تم توصيل %1$d جهازًا.</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال CIT.</item>
@@ -609,12 +681,12 @@
         <item quantity="many">أنت على بعد %1$d خطوة من الإبلاغ عن خطأ.</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">يمكن لـ %d تطبيق استخدام البيانات غير المقيدة</item>
-        <item quantity="zero">يمكن لـ %d تطبيق استخدام البيانات غير المقيدة</item>
-        <item quantity="one">يمكن لتطبيق واحد استخدام البيانات غير المقيدة</item>
-        <item quantity="two">يمكن لتطبيقين (%d) استخدام البيانات غير المقيدة</item>
-        <item quantity="few">يمكن لـ %d تطبيقات استخدام البيانات غير المقيدة</item>
-        <item quantity="many">يمكن لـ %d تطبيقًا استخدام البيانات غير المقيدة</item>
+        <item quantity="other">يمكن لـ %d تطبيق استخدام البيانات غير المقيّدة</item>
+        <item quantity="zero">لا يمكن لأي (%d) تطبيق استخدام البيانات غير المقيّدة</item>
+        <item quantity="one">يمكن لتطبيق واحد استخدام البيانات غير المقيّدة</item>
+        <item quantity="two">يمكن لتطبيقين (%d) استخدام البيانات غير المقيّدة</item>
+        <item quantity="few">يمكن لـ %d تطبيقات استخدام البيانات غير المقيّدة</item>
+        <item quantity="many">يمكن لـ %d تطبيقًا استخدام البيانات غير المقيّدة</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">الثقة أو إزالة الشهادات</item>
@@ -864,6 +936,22 @@
         <item quantity="few">‏%d شبكات</item>
         <item quantity="many">‏%d شبكة</item>
     </plurals>
+    <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">‏%d شبكة واشتراك</item>
+        <item quantity="zero">‏%d شبكة واشتراك</item>
+        <item quantity="one">1 شبكة واشتراك</item>
+        <item quantity="two">‏%d شبكتان واشتراكان</item>
+        <item quantity="few">‏%d شبكات واشتراكات</item>
+        <item quantity="many">‏%d شبكةً واشتراكًا</item>
+    </plurals>
+    <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">‏%d اشتراك</item>
+        <item quantity="zero">‏%d اشتراك</item>
+        <item quantity="one">اشتراك واحد</item>
+        <item quantity="two">‏اشتراكان (%d)</item>
+        <item quantity="few">‏%d اشتراكات</item>
+        <item quantity="many">‏%d اشتراكًا</item>
+    </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">مشاركة %d شبكة</item>
         <item quantity="zero">مشاركة %d شبكة</item>
@@ -874,10 +962,10 @@
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d جهاز متصل</item>
-        <item quantity="zero">%1$d جهاز متصل</item>
+        <item quantity="zero">%1$d ‏جهاز متصل</item>
         <item quantity="one">%1$d جهاز متصل</item>
-        <item quantity="two">%1$d أجهزة متصلة</item>
-        <item quantity="few">%1$d أجهزة متصلة</item>
+        <item quantity="two">%1$d ‏أجهزة متصلة</item>
+        <item quantity="few">%1$d ‏أجهزة متصلة</item>
         <item quantity="many">%1$d جهاز متصل</item>
     </plurals>
     <plurals name="wrong_pin_code">
@@ -888,29 +976,37 @@
         <item quantity="few">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولات.</item>
         <item quantity="many">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولة.</item>
     </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">يمكن للإشعارات من %1$d تطبيق تخطي وضع \"عدم الإزعاج\".</item>
+        <item quantity="zero">لا يمكن لأي تطبيق تخطي وضع \"عدم الإزعاج\".</item>
+        <item quantity="one">يمكن للإشعارات من تطبيق واحد تخطي وضع \"عدم الإزعاج\".</item>
+        <item quantity="two">يمكن للإشعارات من تطبيقين (%1$d) تخطي وضع \"عدم الإزعاج\".</item>
+        <item quantity="few">يمكن للإشعارات من %1$d تطبيقات تخطي وضع \"عدم الإزعاج\".</item>
+        <item quantity="many">يمكن للإشعارات من %1$d تطبيقًا تخطي وضع \"عدم الإزعاج\".</item>
+    </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
-        <item quantity="other">%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
-        <item quantity="zero">%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
-        <item quantity="one">ساعة واحدة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
-        <item quantity="two">ساعتان (%d) (ما لم يتم تفعيل الحالة تلقائيًا)</item>
-        <item quantity="few">%d ساعات (ما لم يتم تفعيل الحالة تلقائيًا)</item>
-        <item quantity="many">%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان (%d)</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعة</item>
     </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d قاعدة</item>
-        <item quantity="zero">%d قاعدة</item>
-        <item quantity="one">قاعدة واحدة</item>
-        <item quantity="two">قاعدتان (%d)</item>
-        <item quantity="few">%d قواعد</item>
-        <item quantity="many">%d قاعدة</item>
+        <item quantity="other">تم تفعيل %d قاعدة.</item>
+        <item quantity="zero">تم تفعيل %d قاعدة.</item>
+        <item quantity="one">تم تفعيل قاعدة واحدة.</item>
+        <item quantity="two">تم تفعيل قاعدتين (%d).</item>
+        <item quantity="few">تم تفعيل %d قواعد.</item>
+        <item quantity="many">تم تفعيل %d قاعدة.</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
-        <item quantity="other">يمكن تشغيل %d قاعدة تلقائيًا.</item>
-        <item quantity="zero">يمكن تشغيل %d قاعدة تلقائيًا.</item>
-        <item quantity="one">يمكن تشغيل قاعدة واحدة تلقائيًا.</item>
-        <item quantity="two">يمكن تشغيل قاعدتين (%d) تلقائيًا.</item>
-        <item quantity="few">يمكن تشغيل %d قواعد تلقائيًا.</item>
-        <item quantity="many">يمكن تشغيل %d قاعدة تلقائيًا.</item>
+        <item quantity="other">يمكن تفعيل %d جدول زمني تلقائيًا.</item>
+        <item quantity="zero">يمكن تفعيل %d جدول زمني تلقائيًا.</item>
+        <item quantity="one">يمكن تفعيل جدول زمني واحد تلقائيًا.</item>
+        <item quantity="two">يمكن تفعيل جدولين زمنيين (%d) تلقائيًا.</item>
+        <item quantity="few">يمكن تفعيل %d جداول زمنية تلقائيًا.</item>
+        <item quantity="many">يمكن تفعيل %d جدولاً زمنيًا تلقائيًا.</item>
     </plurals>
     <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
         <item quantity="other">%d شخص آخر</item>

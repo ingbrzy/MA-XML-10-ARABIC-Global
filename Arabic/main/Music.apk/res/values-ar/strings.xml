@@ -21,15 +21,8 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تفعيل</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">فضاء</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -131,7 +124,6 @@
     <string name="choose_stream_quality">اختيار جودة التشغيل</string>
     <string name="click_to_shuffle">انقر للتشغيل العشوائي</string>
     <string name="close_music_time">"الوقت المتبقي: "</string>
-    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">تفعيل</string>
     <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
     <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
@@ -159,6 +151,7 @@
     <string name="current_album">غلاف الألبوم الحالي</string>
     <string name="current_lyric">الكلمات الحالية</string>
     <string name="current_version">الإصدار الحالي</string>
+    <string name="daily_recommendation">ميكسات يومية</string>
     <string name="dark_mode">الوضع الداكن</string>
     <string name="data_usage_warning">استخدام البيانات</string>
     <string name="data_usage_warning_summary">قد يؤدي استخدام اتصال بيانات جوالك لتشغيل الموسيقى بجودة عالية إلى زيادة رسوم الاستخدام.</string>
@@ -202,6 +195,10 @@
     <string name="dialog_renew_free_end">النسخة التجريبية المجانية قد انتهت. اشترك في Hungama PRO؟</string>
     <string name="dialog_renew_positive_text">نعم ، أرغب في الاستماع كمحترف</string>
     <string name="dialog_renew_success">شكرا لتأكيدك</string>
+    <string name="dialog_score_btn_good">تقييم</string>
+    <string name="dialog_score_prompt_bad">شكرا لك على ملاحظاتك! سنعمل مافي وسعنا لتحسين التطبيق وخدماتنا.</string>
+    <string name="dialog_score_prompt_good">شكرا لدعمك! هل يمكنك تقييم التطبيق في متجر Play؟</string>
+    <string name="dialog_score_title">تقييم التطبيق</string>
     <string name="dialog_song_sort_type">ترتيب الاغاني</string>
     <string name="dialog_song_sort_type_name">حسب الاسم</string>
     <string name="dialog_song_sort_type_playing_times">حسب عدد مرات التشغيل</string>
@@ -219,6 +216,7 @@
     <string name="dialog_title_remove_tracks">حذف</string>
     <string name="disallow_add_to_fm">لا يمكن إضافة الاغاني لراديو FM</string>
     <string name="do_not_remind_this_version">لا تذكرني بهذا الإصدار</string>
+    <string name="do_not_support_google_voice_search">لا يتم دعم جهازك بحث Google الصوتي.</string>
     <string name="download">تحميل</string>
     <string name="download_added_to_list">تمت اضافته الى قائمة التحميل</string>
     <string name="download_apk_desktop_installing">تثبيت</string>
@@ -307,7 +305,6 @@
     <string name="eq_flat">الافتراضية</string>
     <string name="eq_hiphop">هيب هوب</string>
     <string name="eq_jazz">جاز</string>
-    <string name="eq_metal">Metal</string>
     <string name="eq_pop">بوب</string>
     <string name="eq_preset_format">إعدادات المستخدم %d</string>
     <string name="eq_preset_hint">إسم التأثير</string>
@@ -334,6 +331,7 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
@@ -403,7 +401,9 @@
     <string name="home_tab_search">بحث</string>
     <string name="hot_icon_in_fast_indexer">مشهور</string>
     <string name="hungama_batch_download_alert_summary">يمكن لأعضاء PRO فقط تنزيل أغاني متعددة. الحصول على عضوية PRO الآن؟</string>
+    <string name="hungama_batch_download_alert_summary_toast">اشترك لتحميل جميع الاغاني.</string>
     <string name="hungama_free_download_out_summary">لا يمكنك بعد الآن تنزيل أغاني مجانية. احصل على اشتراك PRO لتنزيل دون حدود؟</string>
+    <string name="hungama_free_download_out_summary_toast">لقد قمت بتنزيل %d أغنية مسبقاً. احصل على اشتراك لتنزيل المزيد.</string>
     <string name="hungama_privacy_desc">سياسة خصوصية Hungama (اختياري)</string>
     <string name="hungama_privacy_tips_content">للوصول إلى المحتوى عبر الإنترنت، يجب أن توافق على <a href="/link/click">سياسة خصوصية Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">سياسة خصوصية Hungama</string>
@@ -498,6 +498,7 @@
     <string name="more_settings">الإعدادات المتقدمة</string>
     <string name="more_settings_summary">مؤقت النوم وتصفية الملفات والمزيد</string>
     <string name="more_share">مشاركة</string>
+    <string name="more_splendid_contents">المزيد</string>
     <string name="mulit_choice_management">إدارة عناصر متعددة</string>
     <string name="music_browser_label">الموسيقى</string>
     <string name="music_filter">تصنيف ملفات الصوت</string>
@@ -622,7 +623,6 @@
     <string name="playlist_type_album">الألبومات</string>
     <string name="playlist_type_artist">فنان</string>
     <string name="playlist_type_billboard">القوائم</string>
-    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">قوائم التشغيل</string>
     <string name="playlist_type_recommend">قوائم التشغيل المميزة</string>
     <string name="please_download_first">تحتاج لتحميل هذة الأغنية قبل تعيينها كنغمة رنين</string>
@@ -633,6 +633,7 @@
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامي)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
@@ -763,6 +764,7 @@
     <string name="tab_album_list">الألبومات</string>
     <string name="tab_artist">الفنانين</string>
     <string name="tab_artist_list">الفنانين</string>
+    <string name="tab_chart">القوائم</string>
     <string name="tab_folder">مجلدات</string>
     <string name="tab_playlist">قوائم التشغيل</string>
     <string name="tab_top_results">أفضل النتائج</string>
@@ -825,6 +827,7 @@
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="version_info">الإصدار</string>
@@ -840,4 +843,5 @@
 انقر على %s لبدء هذا التنزيل في المرة القادمة عند اتصالك بشبكة Wi-Fi."</string>
     <string name="wifi_required_title">يجب عليك الاتصال بشبكة Wi-Fi لتنزيل هذا الملف</string>
     <string name="you_can_switch_mode_in_settings">يمكنك التبديل بين الأوضاع من الإعدادات</string>
+    <string name="you_may_like">قد يعجبك أيضاً</string>
 </resources>

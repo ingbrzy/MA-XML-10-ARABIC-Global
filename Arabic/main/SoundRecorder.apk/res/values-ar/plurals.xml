@@ -40,6 +40,14 @@
         <item quantity="few">تم تنزيل %d تسجيلات</item>
         <item quantity="many">تم تنزيل %d تسجيل</item>
     </plurals>
+    <plurals name="search_result">
+        <item quantity="other">تم العثور على %d تسجيل</item>
+        <item quantity="zero">تم العثور على %d تسجيل</item>
+        <item quantity="one">تم العثور على %d تسجيل</item>
+        <item quantity="two">تم العثور على %d تسجيلات</item>
+        <item quantity="few">حذف %d تسجيلات</item>
+        <item quantity="many">تم العثور على %d تسجيل</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">لم تتم مزامنة %d</item>
         <item quantity="zero">لم تتم مزامنة %d</item>

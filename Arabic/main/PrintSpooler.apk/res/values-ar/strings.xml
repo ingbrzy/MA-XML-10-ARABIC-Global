@@ -5,7 +5,6 @@
     <string name="all_printers_label">جميع الطابعات</string>
     <string name="all_services_title">جميع الخدمات</string>
     <string name="app_activity_main_title">طباعة</string>
-    <string name="app_label">Print Spooler</string>
     <string name="blocked_notification_title_template">رفضت الطابعة %1$s</string>
     <string name="button_delete">حذف</string>
     <string name="button_ok">موافق</string>
@@ -63,7 +62,7 @@
     <string name="print_forget_printer">تجاهل الطابعة</string>
     <string name="print_help_label">المساعدة</string>
     <string name="print_help_tip">تأكد من أن الطابعة والهاتف متصلة بشبكة Wi-Fi وأن اتصال Wi-Fi مباشر قيد التشغيل. %1$s.</string>
-    <string name="print_help_tip_reg">عرض المساعدة</string>
+    <string name="print_help_tip_reg">عرض \"المساعدة\"</string>
     <string name="print_no_print_services">لم يتم تفعيل أي خدمات طباعة</string>
     <string name="print_no_printers">لم يتم العثور على طابعات</string>
     <string name="print_options_collapsed">تم تصغير خيارات الطباعة</string>
@@ -74,7 +73,7 @@
     <string name="print_search_box_shown_utterance">تم إظهار مربع البحث</string>
     <string name="print_searching_for_printers">البحث عن طابعات</string>
     <string name="print_searching_printers">البحث عن طابعة…</string>
-    <string name="print_select_printer">حدد الطابعة</string>
+    <string name="print_select_printer">اختيار الطابعة</string>
     <string name="print_service_security_warning_summary">من الممكن أن يمر المستند عبر خادم أو أكثر أثناء إرساله إلى الطابعة.</string>
     <string name="print_service_security_warning_title">هل تريد استخدام %1$s؟</string>
     <string name="print_services_disabled_toast">بعض خدمات الطباعة غير مفعّلة</string>
@@ -103,7 +102,6 @@
     <string name="search_brand">بحث</string>
     <string name="select_to_add_printers">اختر لإضافة طابعة</string>
     <string name="start_print">طباعة</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_template">الملخص، النسخ %1$s، حجم الورق %2$s</string>
     <string name="system_print_service_help">حول الطباعة</string>
     <string name="template_all_pages">جميع الصفحات وعددها %1$s</string>
