@@ -57,6 +57,7 @@
     <string name="customer_service_apply">طلب خدمة العملاء</string>
     <string name="customer_service_complain">تقرير خدمة العملاء</string>
     <string name="customer_service_station">خدمة المواقع</string>
+    <string name="default_text_view">TextView</string>
     <string name="description">وصف المشكلة</string>
     <string name="dialog_ask_delete">حذف</string>
     <string name="dialog_ask_quit">خروج</string>
@@ -81,6 +82,7 @@
     <string name="err_type_system_summary">الذاكرة، الأداء، إلخ.</string>
     <string name="err_type_systemapp">تطبيقات MIUI</string>
     <string name="err_type_translate">اللغة</string>
+    <string name="err_type_wifi">Wi-Fi</string>
     <string name="err_type_xiaomi_family">منزل Mi</string>
     <string name="err_type_xiaomi_service">خدمة العملاء</string>
     <string name="error_no_connection">تعذر الاتصال بالشبكة</string>
@@ -186,6 +188,7 @@
     <string name="feedback_version_label">الإصدار</string>
     <string name="feesback_list">تقارير</string>
     <string name="first_position">٢#</string>
+    <string name="floor">%1$s#</string>
     <string name="from">من %1$s</string>
     <string name="goon_feedback_main">متابعة</string>
     <string name="hint_feedback_main">قم بوصف المشكلة</string>
@@ -216,6 +219,7 @@
     <string name="mi_service_dialog_content">تم نقل جميع ميزات الإبلاغ عن خلل إلى تطبيق \"الخدمات والإبلاغ عن خلل\". ستتم إزالة تطبيق الإبلاغ عن خلل من الشاشة الرئيسية. انقر على \"فتح\" لتجربة تطبيق \"الخدمات والإبلاغ عن خلل\".</string>
     <string name="mi_service_dialog_title">تقديم \"الخدمات والإبلاغ عن خلل\"</string>
     <string name="michat_app_name">دعم مباشر</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">إذا لم تتمكن من الاتصال بالخط الساخن ٤٠٠، اطلب %1$s باستخدام هاتف مختلف</string>
     <string name="michat_artificial_customer_text">موظفي الدعم</string>
     <string name="michat_attach_image">صورة</string>
@@ -321,6 +325,7 @@
     <string name="network_unavailable_dialog_content">سيتم أرسال التقرير عندما يكون لديك اتصال بيانات.</string>
     <string name="network_unavailable_dialog_title">لا يمكن الاتصال بالشبكة</string>
     <string name="non_system_app_select">التطبيقات التي تم تنزيلها</string>
+    <string name="nothing">--</string>
     <string name="open_feedback_main">المزيد</string>
     <string name="packaging_dialog_content">جارٍ إنشاء تقرير…</string>
     <string name="passport_access_denied">تم رفض الدخول</string>
@@ -478,6 +483,7 @@
     <string name="passport_wrong_phone_number_format">تنسيق رقم الهاتف الذي أدخلته غير صالح</string>
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
     <string name="pic_not_exist">هذه الصورة غير موجودة</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">سيتم ارسال تقريرك مع سجلات الخطأ إلى خوادم Mi.</string>
     <string name="plus_one_submit_dialog_not_show_again">تذكر التفضيل</string>
     <string name="post_miui_bbs_failed">تعذر النشر في منتدى MIUI</string>

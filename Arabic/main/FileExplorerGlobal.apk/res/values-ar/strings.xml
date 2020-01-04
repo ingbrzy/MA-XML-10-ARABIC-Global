@@ -8,6 +8,15 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -38,6 +47,8 @@
     <string name="app_name_downloadedrom">الحزم</string>
     <string name="app_name_downloads">التنزيلات</string>
     <string name="app_name_market">متجر التطبيقات</string>
+    <string name="app_name_midrop">Mi Drop</string>
+    <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">الموسيقى</string>
     <string name="app_name_miuiringtone">نغمة الرنين</string>
     <string name="app_name_miuiwallpaper">خلفيات الشاشة</string>
@@ -60,6 +71,7 @@
     <string name="category">الفئات</string>
     <string name="category_album">ألبومات</string>
     <string name="category_all">الكل</string>
+    <string name="category_apk">APKs</string>
     <string name="category_bluetooth">بلوتوث</string>
     <string name="category_document">المستندات</string>
     <string name="category_download">التنزيلات</string>
@@ -149,6 +161,7 @@
     <string name="dialog_type_image">الصور</string>
     <string name="dialog_type_text">المستندات</string>
     <string name="dialog_type_video">الفيديوهات</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="display_name">عرض الاسم</string>
     <string name="domain">النطاق</string>
     <string name="download_success">تم التنزيل بنجاح</string>
@@ -195,6 +208,7 @@
     <string name="favorite_ringtone">نغمات الرنين</string>
     <string name="favorite_screen_cap">لقطات الشاشة</string>
     <string name="feedback_send_email_body_extra_info">لا تحذف المعلومات التالية. سوف يساعدنا ذلك على إيجاد المشكلة.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">للقراءة: </string>
     <string name="file_info_canwrite">للكتابة: </string>
     <string name="file_info_ishidden">مخفي: </string>
@@ -239,6 +253,7 @@
     <string name="loading">لحظة من فضلك…</string>
     <string name="local_image">الصور</string>
     <string name="local_music">ملفات صوتية</string>
+    <string name="local_network">LAN</string>
     <string name="local_video">ملفات فيديو</string>
     <string name="make_private">إخفاء</string>
     <string name="make_private_msg_1">إخفاء هذا الملف؟</string>
@@ -254,6 +269,7 @@
     <string name="menu_item_sort_date">تاريخ التعديل</string>
     <string name="menu_item_sort_name">الإسم</string>
     <string name="menu_item_sort_type">النوع</string>
+    <string name="menu_item_usb">USB</string>
     <string name="mi_router_label">جهاز التوجيه</string>
     <string name="mode">الوضع</string>
     <string name="month_day_format">dd MMM</string>
@@ -441,6 +457,7 @@
     <string name="sort_size_asc">من الأصغر الى الأكبر</string>
     <string name="sort_size_desc">من الأكبر إلى الأصغر</string>
     <string name="start_server">تشغيل</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_cache">ذاكرة المؤقتة</string>
     <string name="status_download">التنزيلات</string>
     <string name="stay_awake_summary">لا تطفئ الشاشة عند استخدام FTP</string>

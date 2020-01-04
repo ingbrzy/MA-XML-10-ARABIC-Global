@@ -16,6 +16,22 @@
         <item quantity="few">%d عناصر</item>
         <item quantity="many">%d عنصر</item>
     </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">حذف %d تسجيل من Cloud؟</item>
+        <item quantity="zero">حذف %d تسجيل من Cloud؟</item>
+        <item quantity="one">حذف %d تسجيل من Cloud؟</item>
+        <item quantity="two">حذف %d تسجيلات من Cloud؟</item>
+        <item quantity="few">حذف %d تسجيلات من Cloud؟</item>
+        <item quantity="many">حذف %d تسجيل من Cloud؟</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">حذف %d تسجيل؟</item>
+        <item quantity="zero">حذف %d تسجيل؟</item>
+        <item quantity="one">حذف %d تسجيل؟</item>
+        <item quantity="two">حذف %d تسجيلات؟</item>
+        <item quantity="few">حذف %d تسجيلات؟</item>
+        <item quantity="many">حذف %d تسجيل؟</item>
+    </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d عنصر</item>
         <item quantity="zero">%d عنصر</item>

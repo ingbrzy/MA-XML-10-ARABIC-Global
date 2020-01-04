@@ -17,6 +17,9 @@
     <string name="cannot_change_parames">تعذر تغيير المعايير أثناء التسجيل</string>
     <string name="cannot_record">تعذر التسجيل، حاول مجدداً لاحقاً.</string>
     <string name="close_screen_record">تم إيقاف التسجيل</string>
+    <string name="date_day" />
+    <string name="date_month">/</string>
+    <string name="date_year">/</string>
     <string name="description_content">يوفر التطبيق القدرة على تسجيل الشاشة على مستوى النظام. لن تتمكن من استخدام مسجل الشاشة في حالة المتابعة. تأكيد للمتابعة.</string>
     <string name="description_title">حول التطبيق</string>
     <string name="deselect_all">الغاء تحديد الكل</string>
@@ -89,6 +92,7 @@
     <string name="stop_recording">إيقاف التسجيل</string>
     <string name="storage_location">التخزبن</string>
     <string name="storage_location_summary">اختر خيار التخزين المفضل</string>
+    <string name="timer_format">%s</string>
     <string name="unchecked">غير محددة</string>
     <string name="using_record_confirm_cancel">تقييد</string>
     <string name="using_record_confirm_ok">السماح</string>

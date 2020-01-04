@@ -111,6 +111,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
     <string name="cast_notification_connecting_message">جارٍ الاتصال بـ %1$s</string>
@@ -168,6 +169,27 @@
     <string name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
     <string name="com_permission_desc">لا يمكن لفيديو Mi الوصول إلى الفيديوهات على جهازك. السماح بالوصول من الإعدادات.</string>
     <string name="com_permission_title">الأذونات مطلوبة</string>
+    <string name="comment_model_add_comment">إضافة تعليق</string>
+    <string name="comment_model_bg_add_comment">قم بمشاركة أفكارك مع مجتمعنا</string>
+    <string name="comment_model_bg_deleted_comment">تم حذف هذا التعليق</string>
+    <string name="comment_model_comment">التعليقات</string>
+    <string name="comment_model_confirm_delete">حذف التعليق الآن؟</string>
+    <string name="comment_model_copy">نسخ</string>
+    <string name="comment_model_copy_fail">تعذر النسخ</string>
+    <string name="comment_model_copy_success">تم النسخ بنجاح</string>
+    <string name="comment_model_delete">حذف</string>
+    <string name="comment_model_delete_fail">تعذر الحذف</string>
+    <string name="comment_model_delete_success">تم الحذف بنجاح</string>
+    <string name="comment_model_reply">الردود</string>
+    <string name="comment_model_reply_comment">"الرد على %s: "</string>
+    <string name="comment_model_report">الإبلاغ</string>
+    <string name="comment_model_report_fail">تعذر الابلاغ</string>
+    <string name="comment_model_report_success">تم الإبلاغ بنجاح</string>
+    <string name="comment_model_send_fail">لا يمكن الإرسال</string>
+    <string name="comment_model_send_fail_frequently">ليس بهذه السرعة! انتظر دقيقة أو دقيقتين ثم حاول مجدداً.</string>
+    <string name="comment_model_send_forbid_desc">لقد قمت بنشر تعليقات تحتوي على عناصر تنتهك معايير مجتمعنا. حسابك معلق نهائيًا الآن. يمكنك الطعن في قرارنا باستخدام الإيلاغات داخل التطبيق.</string>
+    <string name="comment_model_send_forbid_tips">الحساب معلق</string>
+    <string name="comment_model_send_success">تم الإرسال بنجاح</string>
     <string name="common_cancel">إلغاء</string>
     <string name="common_google_play_services_enable_button">تمكين</string>
     <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تمكين خدمات Google Play.</string>
@@ -199,7 +221,7 @@
     <string name="diagnosis_log_sent_format">"تم إرسال السجلات بنجاح.
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
-    <string name="dialog_privacy_info_new2">لتتمكن من استخدام خدماته، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها. بالنقر على \"أوافق\" يعني أنك قد قرأت ووافقت على &lt;a href=%2$s> سياسة الخصوصية&lt;/a>أدناة.</string>
+    <string name="dialog_privacy_info_new2">لتتمكن من استخدام خدماته، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها. بالنقر على \"أوافق\" يعني أنك قد قرأت ووافقت على &lt;a href=\"%2$s\"> سياسة الخصوصية&lt;/a>أدناة.</string>
     <string name="dialog_privacy_title">الترخيص</string>
     <string name="dialog_revoke_privacy_info_new2">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وستتم إزالة كافة البيانات ذات الصلة من الخوادم. قد يؤدي هذا إلى عمل التطبيق بشكل غير طبيعي. إلغاء التصريح على إية حال؟</string>
     <string name="dialog_revoke_privacy_title">إلغاء الترخيص</string>
@@ -253,6 +275,7 @@
     <string name="favorite_cancel_success">تم الحذف من المفضلة بنجاح</string>
     <string name="favorite_fail">تعذر الإضافة إلى المفضلة. حاول مجددا.</string>
     <string name="favorite_success">تمت الإضافة إلى المفضلة بنجاح</string>
+    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="feedback">التعليقات</string>
     <string name="feedback_activity_title">التعليقات</string>
     <string name="feedback_contact_empty">أدخل معلومات الاتصال الخاصة بك</string>
@@ -431,7 +454,7 @@
     <string name="lv_subtitle_onlinesub_loading">جارٍ تحميل الترجمات…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">جارٍ تحميل الترجمات…</string>
     <string name="lv_subtitle_onlinesub_right_declare">إخلاء المسؤولية</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">احصل على الترجمة &lt;br/>&lt;br/>من&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>جميع الترجمات عبر الإنترنت مقدمة من &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">احصل على الترجمة &lt;br/>&lt;br/>من&lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>. &lt;br/>&lt;br/>جميع الترجمات عبر الإنترنت مقدمة من &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="lv_subtitle_onlinesub_save_failed">تعذر إضافة الترجمات</string>
     <string name="lv_subtitle_onlinesub_save_success">تمت إضافة الترجمات بنجاح</string>
     <string name="lv_subtitle_onlinesub_search_keyword">أدخل الكلمات المفتاحية للبحث</string>
@@ -501,8 +524,15 @@
     <string name="no_recommend_data">لا يوجد فيديو موصى به الآن</string>
     <string name="no_subscriptions">لا توجد عناصر هنا</string>
     <string name="not_show">لا تظهر مرة اخرى</string>
+    <string name="notice_comment_action">قام %s بالتعليق على منشورك</string>
+    <string name="notice_comment_action_deleted">تم حذف هذا التعليق</string>
+    <string name="notice_feedback_content">هناك تحديث على تعليقك. انقر للعرض.</string>
+    <string name="notice_like_action">أعجب %s بتعليقك</string>
+    <string name="notice_message_title">الإشعارات</string>
+    <string name="notice_title">الرسائل</string>
     <string name="notify_apk_installed">تم التحميل بنجاح</string>
     <string name="ok">موافق</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">الاشتركات الاخيرة</string>
     <string name="order_recently_updated">محدث مؤخرا</string>
     <string name="ovp_alert_dialog_download_install_task">جارٍ تنزيل المكون الإضافي…</string>
@@ -510,6 +540,7 @@
     <string name="ovp_category">الفئات</string>
     <string name="ovp_confirm_delete_favor">حذف العناصر المحددة من المفضلة؟</string>
     <string name="ovp_default_plugin_name">مكون HD الإضافي</string>
+    <string name="ovp_detail_back_to_watch_more">اكتشف المزيد من العناصر في الصفحة الرئيسية</string>
     <string name="ovp_detail_collapse_summary">إخفاء</string>
     <string name="ovp_detail_collect">إضافة إلى المفضلة</string>
     <string name="ovp_detail_comment">تعليق</string>
@@ -552,12 +583,14 @@
     <string name="ovp_loading_video_netplay_label_v5">لحظة من فضلك…</string>
     <string name="ovp_local_videos_title">الفيديوهات المحلية</string>
     <string name="ovp_navigation_category">الفئة</string>
+    <string name="ovp_navigation_content">التعاون في المحتوى</string>
     <string name="ovp_navigation_favorites">المفضلة</string>
     <string name="ovp_navigation_feedback">التعليقات</string>
     <string name="ovp_navigation_history">السجل</string>
     <string name="ovp_navigation_home">الشاشة الرئيسية</string>
     <string name="ovp_navigation_language">اللغة</string>
     <string name="ovp_navigation_localvideo">محلية</string>
+    <string name="ovp_navigation_notice">الإشعارات</string>
     <string name="ovp_navigation_setting">الإعدادات</string>
     <string name="ovp_navigation_subscribe">الاشتراك</string>
     <string name="ovp_player_plugin_dlg_neg_btn">إغلاق</string>
@@ -665,8 +698,8 @@
     <string name="passport_unknow_error">حدث خطأ غير معروف</string>
     <string name="passport_unknow_host_network_error">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
     <string name="passport_unknow_network_error">حدث خطأ في الشبكة</string>
-    <string name="passport_user_agreement_link">&lt;Data>لقد قرأت وأوافق على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href=%2$s>سياسة الخصوصية&lt;/a> لـ Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>لقد قرأت ووافقت على المستندات التالية: &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href=%4$s>سياسة الخصوصية&lt;/a>، &lt;a href=%2$s>%3$s&lt;/a> لـ Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>لقد قرأت وأوافق على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لـ Xiaomi.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>لقد قرأت ووافقت على المستندات التالية: &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%4$s\">سياسة الخصوصية&lt;/a>، &lt;a href=\"%2$s\">\"%3$s\"&lt;/a> لـ Xiaomi.&lt;/Data></string>
     <string name="passport_user_id_intro">أدخل كلمة مرور %1$s</string>
     <string name="passport_v_code_error">رمز التحقق غير صحيح</string>
     <string name="passport_vcode_notification_title">التحقق من تسجيل الدخول غير مكتمل</string>
@@ -703,6 +736,7 @@
     <string name="playlist_title">قائمة التشغيل</string>
     <string name="plus_add_shortcut">إنشاء إختصار على الشاشة الرئيسية</string>
     <string name="plus_change_poster">تغيير صورة الغلاف</string>
+    <string name="plus_continue_watching">متابعة المشاهدة</string>
     <string name="plus_deleting_wait">يتم الحذف</string>
     <string name="plus_fallback">التعليقات</string>
     <string name="plus_gallery_allvideos">كل الفيديوهات</string>
@@ -721,6 +755,12 @@
     <string name="plus_gallery_video_title_mediatype">فئات الفيديوهات</string>
     <string name="plus_gallery_video_title_othergallery">فيديوهات أخرى</string>
     <string name="plus_loading_text">جارٍ تجميل العناصر…</string>
+    <string name="plus_menu_delete">حذف</string>
+    <string name="plus_menu_delete_popup_text">الحذف الآن؟</string>
+    <string name="plus_menu_properties">الخصائص</string>
+    <string name="plus_menu_rename">إعادة تسمية</string>
+    <string name="plus_menu_rename_fail">لا يمكن أن يحتوي اسم الملف على \"/\"</string>
+    <string name="plus_menu_share">مشاركة</string>
     <string name="plus_mine_gallery">ألبوماتي</string>
     <string name="plus_mine_videos">فيديوهاتي</string>
     <string name="plus_player_8k_video_not_support">لا يمكن تشغيل فيديوهات 8K على هذا الجهاز</string>
@@ -734,8 +774,8 @@
     <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">PiP غير مدعوم في إصدار النظام هذا.</string>
     <string name="plus_player_play_mode_auto">تشغيل تلقائي</string>
-    <string name="plus_player_play_mode_list">تكرار الكل</string>
-    <string name="plus_player_play_mode_single_circle">تكرار الفيديو</string>
+    <string name="plus_player_play_mode_list">إعادة الكل</string>
+    <string name="plus_player_play_mode_single_circle">إعادة</string>
     <string name="plus_player_play_mode_stop">تشغيل</string>
     <string name="plus_player_share_empty_toast">حدد عناصر للمشاركة</string>
     <string name="plus_player_share_screen">بث</string>
@@ -759,7 +799,7 @@
     <string name="plus_player_subtitle_local_add_success">تمت إضافة الترجمة بنجاح</string>
     <string name="plus_player_subtitle_no_file">لا توجد ملفات ترجمة.</string>
     <string name="plus_player_subtitle_online">ترجمات عبر الإنترنت</string>
-    <string name="plus_player_subtitle_online_declare_content">أنت على وشك البحث عن &lt;br/>ترجمات في قاعدة بيانات&lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.&lt;br/>جميع الترجمات مزودة من قِبل &lt;a href=http://www.opensubtitles.org>opensubtitles.org&lt;/a>.</string>
+    <string name="plus_player_subtitle_online_declare_content">أنت على وشك البحث عن &lt;br/>ترجمات في قاعدة بيانات&lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.&lt;br/>جميع الترجمات مزودة من قِبل &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a>.</string>
     <string name="plus_player_subtitle_online_declare_title">إخلاء المسؤولية</string>
     <string name="plus_player_subtitle_online_download_fail">تعذر تنزيل الترجمات</string>
     <string name="plus_player_subtitle_online_download_start">جارٍ تنزيل الترجمة…</string>
@@ -771,6 +811,31 @@
     <string name="plus_player_unhide">عدم إخفاء</string>
     <string name="plus_player_video_not_support">صيغة هذا الفيديو غير مدعومة.</string>
     <string name="plus_poster_reset_default">استرداد الغلاف الافتراضي</string>
+    <string name="plus_properties_bit_rate">معدل البت</string>
+    <string name="plus_properties_codec">الترميز</string>
+    <string name="plus_properties_date">التاريخ</string>
+    <string name="plus_properties_file">الملف</string>
+    <string name="plus_properties_file_name">اسم الملف</string>
+    <string name="plus_properties_finished">انتهى</string>
+    <string name="plus_properties_format">الصيغة</string>
+    <string name="plus_properties_frame_rate">معدل الإطار</string>
+    <string name="plus_properties_last_playback_position">اخر موضع لتشغيل</string>
+    <string name="plus_properties_last_playback_time">آخر تشغيل</string>
+    <string name="plus_properties_length">المدة</string>
+    <string name="plus_properties_media">الوسائط</string>
+    <string name="plus_properties_path">الموقع</string>
+    <string name="plus_properties_playback_history">سجل التشغيل</string>
+    <string name="plus_properties_resolution">الدقة</string>
+    <string name="plus_properties_sample_rate">معدل النموذج</string>
+    <string name="plus_properties_size">الحجم</string>
+    <string name="plus_properties_status">الحالة</string>
+    <string name="plus_properties_stream">البث</string>
+    <string name="plus_properties_stream_title">العنوان</string>
+    <string name="plus_properties_type">النوع</string>
+    <string name="plus_properties_type_audio">الصوت</string>
+    <string name="plus_properties_type_subtitle">الترجمات</string>
+    <string name="plus_properties_type_video">الفيديو</string>
+    <string name="plus_properties_unfinish">لم ينتهي</string>
     <string name="plus_search_barhint">بحث عن فيديوهات محلية</string>
     <string name="plus_search_guide">بحث عن فيديوهات</string>
     <string name="plus_search_result_empty">تعذر إيجاد نتائج</string>
@@ -810,6 +875,11 @@
     <string name="reload_sub_title">انقر لإعادة المحاولة.</string>
     <string name="reload_title">تعذر الإتصال بالشبكة.</string>
     <string name="report">الإبلاغ</string>
+    <string name="report_content_fakement">محتوى غير مهم أو احتيالي</string>
+    <string name="report_content_illegal">تصريحات غير قانونية</string>
+    <string name="report_content_other">أخرى</string>
+    <string name="report_content_sexy">محتوى جنسي غير لائق</string>
+    <string name="report_content_violence">خطاب يحث على الكراهية</string>
     <string name="report_fail">تعذر الإبلاغ. حاول مجددا.</string>
     <string name="report_success">تم الإبلاغ بنجاح</string>
     <string name="resend_active_email">إعادة إرسال</string>
@@ -862,6 +932,7 @@
     <string name="sns_bind_limit">محاولات كثيرة جداً. حاول استخدام طريقة أخرى لتسجيل الدخول.</string>
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
     <string name="source">"المصدر: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">بطاقة SD</string>
     <string name="storage_internal_sdcard">التخزين الداخلي</string>
     <string name="submit">ارسال</string>

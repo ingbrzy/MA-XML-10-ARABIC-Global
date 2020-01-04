@@ -92,6 +92,7 @@
     <string name="scenario_policies_summary">تطبيق استراتيجيات توفير الطاقة المختلفة لمشاهد مختلفة.</string>
     <string name="scenario_policies_title">مشاهد ذكية</string>
     <string name="scenario_policies_warmcontrol">التحكم في درجة الحرارة</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">تعذر العثور على أية تطبيقات</string>
     <string name="show_system_app">إظهار تطبيقات النظام</string>
     <string name="sleep_config_enhance_description">كلما اكتشف MIUI أنك نائم، فإنه سيغلق التطبيقات الخلفية ويقييد إستخدام NFC، البلوتوث، GPS، بيانات الجوال و Wi-Fi، ولن تضيء الشاشة للإشعارات.</string>

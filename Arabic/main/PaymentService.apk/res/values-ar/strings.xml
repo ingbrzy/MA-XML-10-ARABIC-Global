@@ -19,6 +19,7 @@
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="passport_access_denied">تم رفض الدخول</string>
     <string name="passport_account_hint_text">عنوان البريد الإلكتروني، رقم الهاتف أو هوية حساب Mi</string>
     <string name="passport_account_identity_title">التحقق من هويتك</string>
@@ -48,6 +49,7 @@
  الرابط الذي قمنا بارساله الى البريد الوارد الخاص بك."</string>
     <string name="passport_completed">اكتمل</string>
     <string name="passport_confirm_recycle_account">نعم</string>
+    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
     <string name="passport_continue">متابعة</string>
     <string name="passport_copy_message_text_success">تم النسخ بنجاح</string>
     <string name="passport_copy_message_vcode">نسخ الرمز</string>

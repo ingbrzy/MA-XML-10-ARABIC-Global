@@ -24,6 +24,7 @@
     <string name="sim_type_sim_name">أدوات SIM</string>
     <string name="sim_type_uim_name">أدوات UIM</string>
     <string name="sim_type_usim_name">أدوات USIM</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stk_app_state">حالة التطبيق</string>
     <string name="stk_channel_name">رسائل خدمة الجوّال</string>
     <string name="stk_dialog_accept">نعم</string>

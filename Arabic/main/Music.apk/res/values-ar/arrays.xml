@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="recommendation_desc_week">
-        <item>توصيات الأحد</item>
-        <item>توصيات الاثنين</item>
-        <item>توصيات الثلاثاء</item>
-        <item>توصيات الأربعاء</item>
-        <item>توصيات الخميس</item>
-        <item>توصيات الجمعة</item>
-        <item>توصيات السبت</item>
+        <item>ميكس الأحد</item>
+        <item>ميكس الاثنين</item>
+        <item>ميكس الثلاثاء</item>
+        <item>ميكس الأربعاء</item>
+        <item>ميكس الخميس</item>
+        <item>ميكس الجمعة</item>
+        <item>ميكس السبت</item>
     </string-array>
 </resources>

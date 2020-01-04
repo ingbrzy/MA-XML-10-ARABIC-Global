@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">عرض %d رد</item>
+        <item quantity="zero">عرض %d رد</item>
+        <item quantity="one">عرض %d رد</item>
+        <item quantity="two">عرض %d ردود</item>
+        <item quantity="few">عرض %d ردود</item>
+        <item quantity="many">عرض %d رد</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
         <item quantity="zero">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
@@ -39,6 +47,14 @@
         <item quantity="two">%d فيديوهات</item>
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
+        <item quantity="zero">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
+        <item quantity="one">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
+        <item quantity="two">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s أيام حتى تاريخ %3$d.</item>
+        <item quantity="few">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s أيام حتى تاريخ %3$d.</item>
+        <item quantity="many">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d فيديو</item>

@@ -51,6 +51,10 @@
         <item>الرسالة القديمة</item>
         <item>البريد الوارد</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>الكل</item>
+        <item>المرسلون فقط</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>العنوان:</item>
         <item>هاتف:</item>

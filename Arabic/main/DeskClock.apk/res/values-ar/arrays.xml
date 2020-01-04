@@ -52,6 +52,17 @@
         <item>٢٥ دقيقة</item>
         <item>٣٠ دقيقة</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type">
+        <item>من الاثنين إلى الجمعة</item>
+        <item>كل يوم</item>
+        <item>أيام العمل</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>كل يوم</item>
+        <item>من الاثنين إلى الجمعة</item>
+        <item>أيام العمل</item>
+        <item>تخصيص</item>
+    </string-array>
     <string-array name="cities_names_miui">
         <item>أبيدجان</item>
         <item>أكرا</item>
@@ -633,6 +644,22 @@
         <item>سورينام</item>
         <item>الإكوادور</item>
     </string-array>
+    <string-array name="days_of_week">
+        <item>الأحد</item>
+        <item>الإثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>في الوقت المحدد</item>
+        <item>قبل ١٥ دقيقة</item>
+        <item>قبل ٣٠ دقيقة</item>
+        <item>قبل ساعة</item>
+        <item>بدون</item>
+    </string-array>
     <string-array name="snooze_duration_entries">
         <item>١ دقيقة</item>
         <item>٥ دقائق</item>
@@ -641,6 +668,15 @@
         <item>٢٠ دقيقة</item>
         <item>٢٥ دقيقة</item>
         <item>٣٠ دقيقة</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
     </string-array>
     <string-array name="time">
         <item>%1$s</item>
@@ -664,5 +700,10 @@
         <item>لا شيء</item>
         <item>غفوة</item>
         <item>تجاهل</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

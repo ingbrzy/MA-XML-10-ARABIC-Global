@@ -64,6 +64,38 @@
         <item quantity="few">%d ثواني</item>
         <item quantity="many">%d ثانية</item>
     </plurals>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s ساعة</item>
+        <item quantity="zero">%1$s ساعة</item>
+        <item quantity="one">%1$s ساعة</item>
+        <item quantity="two">%1$s ساعات</item>
+        <item quantity="few">%1$s ساعات</item>
+        <item quantity="many">%1$s ساعة</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s س</item>
+        <item quantity="zero">%1$s س</item>
+        <item quantity="one">%1$s س</item>
+        <item quantity="two">%1$s س</item>
+        <item quantity="few">%1$s س</item>
+        <item quantity="many">%1$s س</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s دقيقة</item>
+        <item quantity="zero">%1$s دقيقة</item>
+        <item quantity="one">%1$s دقيقة</item>
+        <item quantity="two">%1$s دقائق</item>
+        <item quantity="few">%1$s دقائق</item>
+        <item quantity="many">%1$s دقيقة</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s دق</item>
+        <item quantity="zero">%1$s دق</item>
+        <item quantity="one">%1$s دق</item>
+        <item quantity="two">%1$s دق</item>
+        <item quantity="few">%1$s دق</item>
+        <item quantity="many">%1$s دق</item>
+    </plurals>
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">تم تغيير مدة الغفوة إلى %d دقيقة</item>
         <item quantity="zero">تم تغيير مدة الغفوة إلى %d دقيقة</item>
