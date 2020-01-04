@@ -209,12 +209,12 @@
         <item quantity="many">%1$d جهة اتصال بمعلومات متطابقة جزئيًا</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">تم الدمج من %1$d مصدر</item>
-        <item quantity="zero">تم الدمج من %1$d مصدر</item>
+        <item quantity="other">تم الدمج من %0$d مصدر</item>
+        <item quantity="zero">تم الدمج من %0$d مصدر</item>
         <item quantity="one">لم يتم الدمج</item>
-        <item quantity="two">تم الدمج من %1$d مصادر</item>
-        <item quantity="few">تم الدمج من %1$d مصادر</item>
-        <item quantity="many">تم الدمج من %1$d مصدر</item>
+        <item quantity="two">تم الدمج من %0$d مصادر</item>
+        <item quantity="few">تم الدمج من %0$d مصادر</item>
+        <item quantity="many">تم الدمج من %0$d مصدر</item>
     </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d رسالة بريد صوتي</item>
@@ -241,12 +241,12 @@
         <item quantity="many">%1$d شخص من %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%1$d مجموعة</item>
-        <item quantity="zero">%1$d مجموعة</item>
+        <item quantity="other">%0$d مجموعة</item>
+        <item quantity="zero">%0$d مجموعة</item>
         <item quantity="one">١ مجموعة</item>
-        <item quantity="two">%1$d مجموعات</item>
-        <item quantity="few">%1$d مجموعات</item>
-        <item quantity="many">%1$d مجموعة</item>
+        <item quantity="two">%0$d مجموعات</item>
+        <item quantity="few">%0$d مجموعات</item>
+        <item quantity="many">%0$d مجموعة</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">%1$d عنصر متبقي</item>

@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">تحذير</string>
     <string name="aqi_quality_index_moderate">معتدل</string>
     <string name="aqi_quality_index_unhealthy">غير صحي</string>
-    <string name="auto_add_app_shortcut">新安装应用添加到桌面</string>
     <string name="auto_delete_category_dialog_content">ستتم إزالة التطبيقات الحالية من هذه الفئة وحذف الفئة. حذف هذه الفئة الآن؟</string>
     <string name="auto_delete_category_dialog_title">حذف الفئة</string>
     <string name="backup_fail">تعذر النسخ الاحتياطي للمشغل</string>
@@ -403,6 +402,7 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_downloaded">تم تنزيلها</string>
     <string name="status_downloading">جارٍ التنزيل</string>
     <string name="status_installing">تثبيت</string>
