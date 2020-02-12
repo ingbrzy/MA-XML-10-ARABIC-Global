@@ -2,5 +2,4 @@
 <resources>
     <string name="mi_wallpaper_loading">جارٍ تحميل خلفية شاشة -Mi...</string>
     <string name="mi_wallpaper_title">خلفية شاشة Mi</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

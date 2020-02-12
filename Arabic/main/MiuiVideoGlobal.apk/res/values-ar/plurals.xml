@@ -48,14 +48,6 @@
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
     </plurals>
-    <plurals name="notice_user_banned">
-        <item quantity="other">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
-        <item quantity="zero">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
-        <item quantity="one">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
-        <item quantity="two">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s أيام حتى تاريخ %3$d.</item>
-        <item quantity="few">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s أيام حتى تاريخ %3$d.</item>
-        <item quantity="many">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
-    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d فيديو</item>
         <item quantity="zero">%d فيديو</item>

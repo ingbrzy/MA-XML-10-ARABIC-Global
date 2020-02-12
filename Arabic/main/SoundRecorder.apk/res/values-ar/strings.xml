@@ -152,6 +152,10 @@
     <string name="preference_status_bar_indicator_prompt">عرض اختصار شريط الحالة أثناء التسجيل</string>
     <string name="preference_tip_rename">تسمية التسجيلات يدوياً</string>
     <string name="privacy_policy_title">سياسة الخصوصية</string>
+    <string name="recognition_button_add_to_queue">إضافة إلى قائمة الانتظار</string>
+    <string name="recognition_button_cancel">ليس الآن</string>
+    <string name="recognition_button_start">التحويل إلى نص</string>
+    <string name="recognition_confirm_dialog_body">قد يستغرق التحويل إلى نص بعض الوقت. ستتلقى إشعارًا عند اكتمال هذه المهمة. هل تريد التحويل إلى نص الآن؟</string>
     <string name="recognition_error_cancel">تم الإلغاء</string>
     <string name="recognition_error_code">رمز الخطأ: %d</string>
     <string name="recognition_error_download_cancel">لاحقاً</string>
@@ -167,6 +171,11 @@
     <string name="recognition_error_internal">خطأ داخلي</string>
     <string name="recognition_error_stopped">توقف التحويل إلى نصوص</string>
     <string name="recognition_error_unknown">حدث خطأ غير معروف. قم بالإبلاغ عليه وحاول مجدداً.</string>
+    <string name="recognition_interrupt_current_dialog_body">قد يستغرق التحويل إلى نص بعض الوقت. ستتلقى إشعارًا عند اكتمال هذه المهمة. يتم الآن تحويل \"%s\". هل تريد إضافة هذه المهمة إلى قائمة الانتظار؟</string>
+    <string name="recognition_notification_channel">التحويل إلى نص</string>
+    <string name="recognition_notification_complete_success">تم تحويل \"%s\" إلى نص بنجاح. انقر للعرض.</string>
+    <string name="recognition_notification_error">تعذر تحويل \"%s\" إلى نص</string>
+    <string name="recognition_notification_running">جارٍ تحويل \"%s\" إلى نص…</string>
     <string name="recognition_process_dialog_body">يتم الآن تحويل التسجيلات الأخرى إلى نصوص (%s). إيقاف المهام الحالية والبدء من جديد؟</string>
     <string name="recognition_process_dialog_cancel">قائمة الانتظار</string>
     <string name="recognition_process_dialog_confirm">بدء الإيقاف الإجباري</string>
@@ -174,6 +183,7 @@
     <string name="recognition_status_downloaded">تم تنزيل محرك التحويل إلى النصوص بنجاح</string>
     <string name="recognition_status_downloading">"جار التنزيل "</string>
     <string name="recognition_status_init">"جارٍالتجهيز "</string>
+    <string name="recognition_stop_current">إيقاف المهام الحالية</string>
     <string name="recognize_choose_dialog_offline">التحويل إلى نصوص مجانا</string>
     <string name="recognize_choose_dialog_offline_desp">تحويل التسجيلات إلى نصوص دون الاتصال بالإنترنت</string>
     <string name="recognize_choose_dialog_online">التحويل إلى نصوص في Cloud</string>

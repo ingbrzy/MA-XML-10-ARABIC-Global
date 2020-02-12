@@ -54,8 +54,6 @@ FQDN: %2$s
     <string name="wifi_installer_fail_title">يتعذر التثبيت</string>
     <string name="wifi_installing_label">جارٍ التثبيت</string>
     <string name="wifi_no_config">بدون</string>
-    <string name="wifi_sim_config_text">"SIM: %s
-"</string>
     <string name="wifi_title">‏الملف الشخصي لاتصال Wi-Fi</string>
     <string name="wifi_tls_config_text">"‏شهادة العميل:
 %1$s

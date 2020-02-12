@@ -83,7 +83,7 @@ to add cards"</string>
     <string name="delete_menstruation_record_confirm">حذف هذا التسجيل؟</string>
     <string name="dialog_abandon">تجاهل</string>
     <string name="dialog_abandon_sleep_edit">تجاهل التغييرات؟</string>
-    <string name="dialog_account_perm_desc">For accessing your Mi Account</string>
+    <string name="dialog_account_perm_desc">للوصول والتسجيل في حساب النظام</string>
     <string name="dialog_agree_and_continue">أوافق</string>
     <string name="dialog_auto_start_detail">"اسمح لتطبيق Mi Health بالتشغيل التلقائي حتى تتمكن من تلقي الإشعارات.
 سيعلمك Mi Health فقط بالأشياء المهمة."</string>
@@ -114,7 +114,7 @@ to add cards"</string>
     <string name="dialog_permission_loading_msg">جارٍ التحقق…</string>
     <string name="dialog_privacy_policy_statement">بيان سياسة الخصوصية</string>
     <string name="dialog_privacy_title">الأحكام والشروط</string>
-    <string name="dialog_read_phone_perm_desc">For identifying your device</string>
+    <string name="dialog_read_phone_perm_desc">لتحديد ميزات الجهاز بإستخدام OAID أو Android ID</string>
     <string name="dialog_sleep_goal_setting">Set sleep duration goal</string>
     <string name="dialog_sleep_goal_subtitle">Get 7–9 hours of sleep every day</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>

@@ -34,12 +34,10 @@
     <string name="pairing_peripheral_failed">تعذر إقران %1$s</string>
     <string name="pay_with">الدفع بواسطة</string>
     <string name="prompt_connect_to_network">هل تريد الاتصال بالشبكة %1$s؟</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unable_to_connect">تعذر الاتصال بالشبكة</string>
     <string name="status_wifi_connected">تم الاتصال</string>
     <string name="tap_again_to_complete">انقر مرة أخرى للإكمال باستخدام %1$s</string>
     <string name="tap_again_to_pay">انقر مرة أخرى للدفع باستخدام %1$s</string>
-    <string name="tap_to_beam">Tap to beam</string>
     <string name="title_connect_to_network">الاتصال بالشبكة</string>
     <string name="transaction_failure">تعذر إكمال هذه المعاملة باستخدام %1$s.</string>
     <string name="wifi_connect">اتصال</string>
