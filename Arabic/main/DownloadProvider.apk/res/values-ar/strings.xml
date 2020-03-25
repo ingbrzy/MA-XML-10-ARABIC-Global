@@ -10,7 +10,6 @@
     <string name="download_queued">في قائمة الانتظار</string>
     <string name="download_remaining">%s متبقية</string>
     <string name="download_running">جارٍ التنزيل</string>
-    <string name="download_running_percent">جارٍ التنزيل %s</string>
     <string name="download_unknown_title">&lt;بدون عنوان></string>
     <string name="notif_title_file_size">إجمالي %1$d</string>
     <string name="notif_title_single_downloading">جارٍ تنزيل %1$s</string>

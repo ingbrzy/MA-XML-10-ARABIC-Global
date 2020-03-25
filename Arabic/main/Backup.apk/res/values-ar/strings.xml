@@ -132,7 +132,6 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_backup_password_change_machine_tips">لا يمكنك نقل النُسخ الاحتياطية المحمية بكلمة مرور. قم بتعطيل كلمة المرور قبل استخدام ناقل Mi.</string>
     <string name="dialog_backup_password_restore_tips">لا يمكن استرداد العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
     <string name="dialog_backup_password_to_settings">الإعدادات</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">غير مشفر</string>
     <string name="disable_encrypt_title">إيقاف التشفير</string>
@@ -226,7 +225,6 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 ٢\u0009.اذهب إلى إعدادات Mi Talk واختر \"نسخ جهات الاتصال احتياطيًا إلى حساب Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">إذا كان لديك نسخة احتياطية مسبقة. المس التالي.</string>
     <string name="import_from_xiaomi_account_hint_title">استخدم Mi Talk لنسخ جهات الاتصال احتياطيًا عبر الأجهزة.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
     <string name="lack_perm_msg">يحتاج ناقل Mi الأذونات التالية: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">يتطلب أذونات</string>
@@ -647,11 +645,8 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 لا تغلق الصفحة قبل إنشاء الاتصال."</string>
     <string name="waiting">لحظة من فضلك…</string>
     <string name="wifi_title">إعدادات Wi-Fi</string>
-    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
-    <string name="xiaomi_megabytes_unit">%1$sميغابايت</string>
     <string name="xiaomi_router">جهاز توجيه Mi</string>
     <string name="xiaomi_router_location">جهاز توجيه Mi%s</string>
     <string name="xiaomi_update_dialog_message">"تقديم حجم النسخة: %1$s
