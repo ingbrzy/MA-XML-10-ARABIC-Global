@@ -242,6 +242,14 @@
         <item quantity="few">%d أغاني</item>
         <item quantity="many">%d أغنية</item>
     </plurals>
+    <plurals name="sound_fade_duration_in_seconds">
+        <item quantity="other">الفاصل الزمني بين مزج الأغاني: %d ثانية</item>
+        <item quantity="zero">الفاصل الزمني بين مزج الأغاني: %d ثانية</item>
+        <item quantity="one">الفاصل الزمني بين مزج الأغاني: %d ثانية</item>
+        <item quantity="two">الفاصل الزمني بين مزج الأغاني: %d ثواني</item>
+        <item quantity="few">الفاصل الزمني بين مزج الأغاني: %d ثواني</item>
+        <item quantity="many">الفاصل الزمني بين مزج الأغاني: %d ثانية</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">فيديو</item>
         <item quantity="zero">فيديو</item>

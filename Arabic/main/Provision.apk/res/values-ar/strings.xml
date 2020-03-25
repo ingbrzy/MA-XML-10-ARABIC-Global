@@ -35,6 +35,7 @@
     <string name="content_description_start">بدء</string>
     <string name="content_introduction">يجمع مركز المحتوى الخدمات والمحتويات من قنوات متعددة. يمكنك هنا قراءة المقالات ومشاهدة مقاطع الفيديو وعرض العناصر المميزة يوميًا وتلقي توصيات المحتوى.</string>
     <string name="continue_to_enable_accessibility">استمر بالضغط باستمرار على إصبعين لتفعيل إمكانية الوصول.</string>
+    <string name="data_traffic_enable_dialog_title">إذا لم تكن متصلاً بشبكة Wi-Fi الآن، فسيستخدم جهازك بيانات الجوال. قد يؤدي استخدام بيانات الجوال إلى فرض رسوم إضافية.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">استخدم بصمة الاصبع لإلغاء قفل الجهاز أو التحقق من عمليات دفع Mi او لتسجيل الدخول الى التطبيقات والخدمات.</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">حجم النص الافتراضي</string>
     <string name="font_hint_normal">زيادة حجم النص</string>
     <string name="framework_introduction">يسمح لك إطار عمل خدمات Mi بإستخدام حساب Mi و Mi Push وإحصائيات Mi و MIUI BI.</string>
-    <string name="framwork_base_service">لتزويدك بهذه الخدمات، يحتاج إطار عمل خدمات Mi (حساب Mi، Mi Push، إحصائيات Mi، MIUI BI) الاتصال بالانترنت، والوصول إلى رقم هاتفك و IMEI و IMSI، والسماح للجهاز باستلام إشعارات الدفع</string>
+    <string name="framwork_base_service">لتزويدك بهذه الخدمات، يحتاج إطار عمل خدمات Mi (حساب Mi، Mi Push، إحصائيات Mi، MIUI BI) الاتصال بالانترنت والصول إلى موقعك والوصول إلى رقم هاتفك و IMEI و IMSI والسماح للجهاز باستلام إشعارات الدفع</string>
     <string name="game_introduction">يسمح لك مكون الألعاب الأضافي بتسجيل الدخول وإنشاء طلبات وأتمام الدفع واستخدام الكوبونات والمشاركة في الأحداث التروجية.</string>
     <string name="google_service_introduction">لتتمكن من العمل بشكل صحيح، يحتاج متجر Play الاتصال بالانترنت، والوصول إلى موقعك، والتمكن من تسجيل الصوت، وإجراء المكالمات، والوصول إلى أحداث التقويم وسجل المكالمات وأجهزة الاستشعار والتخزين والكاميرا ومعلومات الجهاز والحسابات.</string>
     <string name="ime_privacy_policy">سياسة الخصوصية للوحة المفاتيح المحددة</string>
@@ -146,6 +147,8 @@
     <string name="permission_virusscan_introduction">لفحص الفيروسات وتحسين جهازك</string>
     <string name="permission_xunlei_introduction">لتسجيل الدخول أو إدارة حسابات النظام لتوفير خدمات Xunlei</string>
     <string name="poco_agree_terms_other">(يشمل ذلك سياسة الخصوصية واتفاقية المستخدم لمشغل POCO)</string>
+    <string name="poco_launcher_privacy_policy">سياسة خصوصية POCO launcher</string>
+    <string name="poco_launcher_user_agreement">اتفاقية المستخدم لـ POCO launcher</string>
     <string name="pref_title_data_slot">بطاقة SIM المفضلة للبيانات</string>
     <string name="pref_title_voice_slot">بطاقة SIM المفضلة للمكالمات</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
@@ -214,11 +217,11 @@
     <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
     <string name="terms_of_use_label_updater">والمحدث</string>
     <string name="terms_of_use_lable_apps">خدمات Mi وخدمات تفعيل Mi SIM و Xiaomi Cloud والعثور على الجهاز والشاشة الرئيسية ومركز الألعاب ومكونات نظام MIUI Daemon و MSA وخدمات الترجمة والتطبيقات السريعة ومنصة التطبيقات والإحصائيات ورابط Mi</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 يجب عليك الموافقة على سياسة خصوصية Facemoji قبل استخدام هذه الميزة."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 يجب عليك الموافقة على سياسة خصوصية Kika قبل استخدام هذه الميزة."</string>
     <string name="terms_of_use_lable_gms">وخدمات متجر Play</string>
     <string name="terms_of_use_lable_smart_cards">والبطاقات الذكية</string>
@@ -227,7 +230,7 @@ r
     <string name="terms_privacy_policy_input_method_kika">سياسة خصوصية Kika</string>
     <string name="title_fingerprint">تعيين كلمة مرور</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
-    <string name="user_agreement_declare">قبل استخدامك MIUI، يجب عليك قراءة والموافقة على اتفاقية المستخدم وسياسة الخصوصية لدينا. أثناء تفعيل جهازك، سيقوم كلا من خدمات تفعيل Mi SIM، والشاشة الرئيسية، والعبارات المتكررة، وخدمة الترجمة، ونظام MIUI Daemon، والمحدث بالاتصال بالشبكة. سيتصل MSA بالشبكة والوصول إلى موقعك.</string>
+    <string name="user_agreement_declare">قبل استخدامك MIUI، يجب عليك قراءة والموافقة على اتفاقية المستخدم وسياسة الخصوصية لدينا. أثناء تفعيل جهازك، سيقوم كلا من خدمات تفعيل Mi SIM، و Xiaomi Cloud، والعثور على الجهاز، والشاشة الرئيسية، والعبارات المتكررة، وخدمة الترجمة، ونظام MIUI Daemon، و HTML Viewer، مساعد AL، والبطارية والأداء، وكشف البطارية،و Joyose، وإعداد OS AI، والمحدث بالاتصال بالشبكة. ستتصل الخدمات الذكية بالشبكة وتتصل بموقعك.</string>
     <string name="voice_assist_advice">يسمح لك Mi AI باستخدام التحكم الصوتي، ولكنه يستهلك المزيد من الطاقة (+١% كل ساعة).</string>
     <string name="voice_assist_condition">"يمكنك استخدام Mi AI في الحالات التاليةr
 : ١. عندما تكون الشاشة قيد التشغيل.r

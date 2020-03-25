@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -127,11 +145,11 @@
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>غير مفعل</item>
+        <item>معطل</item>
         <item>التصفية مفعلة</item>
-        <item>تصفية التسمية مفعلة</item>
-        <item>تصفية Pkts للوسائط مفعلة</item>
         <item>مفعل</item>
+        <item>تصفية التسمية مفعلة</item>
+        <item>تصفية حزم الوسائط مفعلة</item>
     </string-array>
     <string-array name="clock_options">
         <item>عرض الساعة والدقائق والثواني</item>

@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">الكاميرا</string>
     <string name="accessibility_carrier_network_change_mode">تغيير شبكة الاتصالات.</string>
     <string name="accessibility_cast_name">متصل بشبكة %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">توقف بث الشاشة.</string>
     <string name="accessibility_cell_data">بيانات الجوال</string>
     <string name="accessibility_cell_data_off">بيانات الجوال متوقفة</string>
@@ -249,13 +250,14 @@
     <string name="accessibility_status_bar_headphones">سماعات الرأس متصلة</string>
     <string name="accessibility_status_bar_headset">تم توصيل السماعة</string>
     <string name="accessibility_status_bar_hotspot">نقطة اتصال</string>
+    <string name="accessibility_status_bar_micphone">الميكروفون متصل</string>
     <string name="accessibility_three_bars">ثلاثة أشرطة.</string>
     <string name="accessibility_tty_enabled">تم تمكين المبرقة الكاتبة.</string>
     <string name="accessibility_two_bars">شريطان.</string>
     <string name="accessibility_unlock_button">إلغاء القفل</string>
     <string name="accessibility_unlock_without_fingerprint">إلغاء القفل بدون إستخدام بصمة الاصبع</string>
     <string name="accessibility_voice_assist_button">المساعد الصوتي</string>
-    <string name="accessibility_volume_collapse">تصغير</string>
+    <string name="accessibility_volume_collapse">تقليص</string>
     <string name="accessibility_volume_expand">توسيع</string>
     <string name="accessibility_vpn_on">VPN مشغل.</string>
     <string name="accessibility_waiting_for_fingerprint">في انتظار بصمة الاصبع</string>
@@ -816,6 +818,8 @@
     <string name="how_to_use_drawer_summary">مرّر من اليمين في الجزء العلوي من الشاشة</string>
     <string name="how_to_use_fsg">يمكنك تنفيذ الإجراءات التالية بإستخدام الإيماءات:</string>
     <string name="ime_security_warning">يمكن لأسلوب الإدخال هذا جمع كل النصوص التي تكتبها، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقات الائتمان. تم الحصول على هذا الأسلوب من تطبيق %1$s. استخدام أسلوب الإدخال هذه؟</string>
+    <string name="ime_security_warning_global">يمكن لأسلوب الإدخال هذا جمع كل النصوص التي تكتبها، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقات الائتمان. هل ترغب في استخدام %1$s؟</string>
+    <string name="ime_security_warning_title_global">تشغيل لوحة المفاتيح</string>
     <string name="immediately_destroy_activities">عدم الاحتفاظ بالأنشطة</string>
     <string name="immediately_destroy_activities_summary">محو كل نشاط فور مغادرة المستخدم له</string>
     <string name="important_desc">ستظهر جميع الإشعارات الهامة مباشرة في مركز الإشعارات.</string>
@@ -912,6 +916,10 @@
     <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
+    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
+    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
@@ -939,6 +947,7 @@
     <string name="keyguard_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. الرجاء إدراج بطاقة SIM.</string>
     <string name="keyguard_missing_sim_message">لا توجد بطاقة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكه مقفله</string>
     <string name="keyguard_password_enter_password_code">أدخل كلمة المرور لإلغاء القفل</string>
     <string name="keyguard_password_enter_pin_code">أدخل رمز PIN</string>
@@ -1022,6 +1031,7 @@
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">"، "</string>
     <string name="loading_injected_setting_summary">جارٍ التحميل…</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة مرور النسخ الاحتياطية الكاملة للشاشة الرئيسية أو إزالتها</string>
     <string name="local_backup_password_summary_none">النُسخ الاحتياطية الكاملة للشاشة الرئيسية غير محمية في الوقت الحالي</string>
@@ -1097,6 +1107,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">سيستمر تشغيل أصوات الوسائط (الموسيقى والفيديوهات وما إلى ذلك) في وضع السكون. يمكنك تغيير هذا في الإعدادات.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
     <string name="miui_ringer_count_down">العد التنازلي</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">صامت</string>
     <string name="miui_ringer_standard_description">كتم نغمات الرنين للمكالمات الواردة والإشعارات</string>
     <string name="miui_ringer_total">عدم الازعاج</string>
@@ -1124,12 +1135,14 @@ d MMMM"</string>
 
 لمزيد من المعلومات، اتصل بمسؤول النظام."</string>
     <string name="monitoring_description_ca_cert_settings">فتح الشهادات الموثوقة</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">يتم تثبيت مرجع مصدق على هذا الجهاز. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يقوم المشرف بمراقبة وإدارة الإعدادات والتطبيقات والوصول إلى موارد الشركة والبيانات المتعلقة بجهازك ومعلومات الموقع.</string>
     <string name="monitoring_description_do_body_vpn">انت متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك البريد الإلكتروني والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك من قِبل %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s تستخدم %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">معرفة المزيد</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">قامت مؤسستك بتثبيت مرجع مصدق في ملف العمل الشخصي. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">ملف العمل الشخصي متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"تتم إدارة جهازك من قِبل مؤسستك.
@@ -1161,6 +1174,7 @@ d MMMM"</string>
 
  انت أيضًا متصل بشبكة VPN، حيث يمكن مراقبة نشاط هذه الشبكة."</string>
     <string name="monitoring_description_vpn_settings">فتح إعدادات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل الشبكة</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1199,6 +1213,7 @@ d MMMM"</string>
     <string name="nav_guide_message">استخدم الإيماءات لإخفاء أو إظهار أزرار التنقل.</string>
     <string name="nav_guide_ok">إعداد</string>
     <string name="nav_guide_title">إخفاء أزرار التنقل</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا يوجد</string>
     <string name="no_multi_window_app">لا توجد تطبيقات تدعم وضع تقسيم الشاشة</string>
     <string name="no_notification_tips">لا توجد إشعارات</string>
@@ -1371,6 +1386,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">اسم مضيف مزوّد نظام أسماء النطاقات الخاص</string>
     <string name="private_dns_mode_provider_failure">تعذر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">أدخل اسم مضيف مزوّد نظام أسماء النطاقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل Android</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
@@ -1913,8 +1929,8 @@ d MMM"</string>
     <string name="voice_assist_label">فتح المساعد الصوتي</string>
     <string name="voice_hint">اسحب الأيقونة لفتح المساعد الصوتي</string>
     <string name="volume_and_do_not_disturb">عدم الإزعاج</string>
-    <string name="volume_dialog_accessibility_dismissed_message">تم إخفاء عناصر التحكم في مستوى الصوت</string>
-    <string name="volume_dialog_accessibility_shown_message">‏تم عرض %s عنصر تحكم في مستوى الصوت. يمكنك التمرير سريعًا لأعلى للتجاهل.</string>
+    <string name="volume_dialog_accessibility_dismissed_message">تم إخفاء عناصر التحكم في الصوت</string>
+    <string name="volume_dialog_accessibility_shown_message">يتم عرض %s التحكم في مستوى الصوت. مرّر لأعلى لأخفائة.</string>
     <string name="volume_dnd_silent">اختصار أزرار الصوت</string>
     <string name="volume_stream_content_description_mute">%1$s. انقر لكتم الصوت. قد يتم كتم صوت خدمات إمكانية الوصول.</string>
     <string name="volume_stream_content_description_mute_a11y">%1$s. انقر لكتم الصوت.</string>
@@ -1958,6 +1974,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">سداسي عشري</string>
     <string name="wapi_yes">نعم</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطة الوصول ممتلئة مؤقتًا</string>
     <string name="wifi_auto_sel_wapi_cert">التحديد تلقائياً</string>

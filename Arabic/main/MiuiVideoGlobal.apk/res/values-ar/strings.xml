@@ -12,6 +12,15 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -102,9 +111,11 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
     <string name="cast_notification_connecting_message">جارٍ الاتصال بـ %1$s</string>
+    <string name="cast_notification_default_channel_name">Cast</string>
     <string name="cast_notification_disconnect">إلغاء الربط</string>
     <string name="cast_pause">إيقاف مؤقت</string>
     <string name="cast_play">تشغيل</string>
@@ -132,6 +143,9 @@
     <string name="choose_to_signup">لا، سأقوم بإنشاء واحد</string>
     <string name="click_to_reload_more">انقر لتحميل المزيد</string>
     <string name="click_to_retry">حاول مجدداً</string>
+    <string name="cloud_online_switch">توصيات مخصصة</string>
+    <string name="cloud_online_switch_close_time">يمكنك تشغيل توصيات المحتوى المخصصة من %s</string>
+    <string name="cloud_online_switch_open_time">عرض توصيات المحتوى الشخصي</string>
     <string name="collect_diagnosis_log">جمع السجلات</string>
     <string name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
     <string name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
@@ -161,6 +175,7 @@
     <string name="comment_model_add_comment">إضافة تعليق</string>
     <string name="comment_model_bg_add_comment">قم بمشاركة أفكارك مع مجتمعنا</string>
     <string name="comment_model_bg_deleted_comment">تم حذف هذا التعليق</string>
+    <string name="comment_model_close">التعليق غير متوفر حاليا. ابق على اطلاع!</string>
     <string name="comment_model_comment">التعليقات</string>
     <string name="comment_model_confirm_delete">حذف التعليق الآن؟</string>
     <string name="comment_model_copy">نسخ</string>
@@ -243,6 +258,7 @@
     <string name="exo_item_list">%1$s، %2$s</string>
     <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -288,14 +304,22 @@
     <string name="fw_reload_sub_title">انقر على الشاشة لإعادة المحاولة</string>
     <string name="fw_reload_title">تعذر الإتصال بالشبكة.</string>
     <string name="gallery_fold_tags">إخفاء العلامات</string>
+    <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">الكاميرا</string>
     <string name="gallery_folder_alias_download">التنزيلات</string>
     <string name="gallery_folder_alias_mivideo">فيديو Mi</string>
     <string name="gallery_folder_alias_mobileqq">كاميرا QQ</string>
     <string name="gallery_folder_alias_mobileqq_file">ملفات QQ</string>
+    <string name="gallery_folder_alias_pdd">Pinduoduo</string>
+    <string name="gallery_folder_alias_qq">QQ</string>
     <string name="gallery_folder_alias_qqeditpic">محرر QQ</string>
+    <string name="gallery_folder_alias_qtt">Qutoutiao</string>
     <string name="gallery_folder_alias_screen_recorder">تسجيلات الشاشة</string>
+    <string name="gallery_folder_alias_sina">Sina</string>
     <string name="gallery_folder_alias_tencent_video">فيديو Tencent</string>
+    <string name="gallery_folder_alias_toutiao">Toutiao</string>
+    <string name="gallery_folder_alias_wechat">WeChat</string>
+    <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">الكل</string>
     <string name="gallery_tab_videos">الفيديوهات</string>
     <string name="gallery_video_adjust_hint">فقط يدعم فيديوهات ٩٦٠ إطار/ث</string>
@@ -339,6 +363,7 @@
     <string name="language_setting_tips">اختر اللغة المفضلة لتلقي محتويات مخصصة ذات صلة. يمكنك تغيير تفضيلات اللغة من الملف الشخصي> اللغة.</string>
     <string name="language_setting_tips_dialog">يمكنك اختيار اللغة المفضلة للمحتوى من الحساب واللغة.</string>
     <string name="later">لاحقا</string>
+    <string name="live_tv_title">TV مباشر</string>
     <string name="loading">لحضة من فضلك…</string>
     <string name="local_push_title">الاكثر شهرة اليوم</string>
     <string name="login">تسجيل الدخول</string>
@@ -469,7 +494,11 @@
     <string name="moment_tab_all">الكل</string>
     <string name="moment_tab_facebook">فيسبوك</string>
     <string name="moment_tab_image">الصور</string>
+    <string name="moment_tab_instagram">Instagram</string>
+    <string name="moment_tab_qq">QQ</string>
+    <string name="moment_tab_sina_weibo">Weibo</string>
     <string name="moment_tab_video">المسجل</string>
+    <string name="moment_tab_wechat">WeChat</string>
     <string name="moment_tab_whatsapp">واتساب</string>
     <string name="moment_title_my_videos">فيديوهاتي</string>
     <string name="monday">الإثنين</string>
@@ -509,6 +538,7 @@
     <string name="no_recommend_data">لا يوجد فيديو موصى به الآن</string>
     <string name="no_subscriptions">لا توجد عناصر هنا</string>
     <string name="not_show">لا تظهر مرة اخرى</string>
+    <string name="not_support_share">لا يمكن مشاركة هذا العنصر حاليا</string>
     <string name="notice_comment_action">قام %s بالتعليق على منشورك</string>
     <string name="notice_comment_action_deleted">تم حذف هذا التعليق</string>
     <string name="notice_feedback_content">هناك تحديث على تعليقك. انقر للعرض.</string>
@@ -517,6 +547,7 @@
     <string name="notice_title">الرسائل</string>
     <string name="notify_apk_installed">تم التحميل بنجاح</string>
     <string name="ok">موافق</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">الاشتركات الاخيرة</string>
     <string name="order_recently_updated">محدث مؤخرا</string>
     <string name="ovp_alert_dialog_download_install_task">جارٍ تنزيل المكون الإضافي…</string>
@@ -729,6 +760,7 @@
     <string name="plus_gallery_mediatype_changtu">صور طويلة</string>
     <string name="plus_gallery_mediatype_fangtu">صور مربعة</string>
     <string name="plus_gallery_mediatype_fastslowvideo">لقطات متتابعة وبطيئة</string>
+    <string name="plus_gallery_mediatype_gif">GIFs</string>
     <string name="plus_gallery_mediatype_hidded">العناصر المخفية</string>
     <string name="plus_gallery_mediatype_longvideo">فيديوهات طويلة</string>
     <string name="plus_gallery_mediatype_quanjing">بانوراما</string>
@@ -754,6 +786,7 @@
     <string name="plus_player_detail_file_path">"المسار: "</string>
     <string name="plus_player_detail_file_time">"الطابع الزمني: "</string>
     <string name="plus_player_hide">إخفاء</string>
+    <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">PiP غير مدعوم في إصدار النظام هذا.</string>
     <string name="plus_player_play_mode_auto">تشغيل تلقائي</string>
     <string name="plus_player_play_mode_list">إعادة الكل</string>
@@ -821,7 +854,11 @@
     <string name="plus_search_barhint">بحث عن فيديوهات محلية</string>
     <string name="plus_search_guide">بحث عن فيديوهات</string>
     <string name="plus_search_result_empty">تعذر إيجاد نتائج</string>
+    <string name="plus_share_channel_qq">QQ</string>
+    <string name="plus_share_channel_qzone">Qzone</string>
+    <string name="plus_share_channel_wechat">WeChat</string>
     <string name="plus_share_channel_wechat_moments">لحظات WeChat</string>
+    <string name="plus_share_channel_weibo">Weibo</string>
     <string name="plus_shortcut">الفيديوهات المحلية</string>
     <string name="plus_shortcut_created_succ">تم إنشاء الاختصار في الشاشة الرئيسية بنجاح</string>
     <string name="plus_shortcut_existed">هذا الاختصار موجود مسبقاً</string>
@@ -883,6 +920,10 @@
     <string name="save_cancel_toast">انقر \"رجوع\" مجددا لإلغاء حفظ الفيديو</string>
     <string name="screenrecord_cancel">مشاكل في التوافق</string>
     <string name="screenrecord_nosupport_record">لا يتوفر تطبيق مسجل الشاشة حالياً على هذا الجهاز.</string>
+    <string name="screenshot_8k">لقطة شاشة 8K</string>
+    <string name="screenshot_8k_save_toast">تم حفظ لقطة الشاشة 8K إلى %s</string>
+    <string name="screenshot_8k_saving">جارٍ حفظ لقطة الشاشة 8K…</string>
+    <string name="screenshot_8k_share">إرسال الملف إلى</string>
     <string name="search">بحث</string>
     <string name="search_choose_language">اختر اللغة</string>
     <string name="search_choose_voice_language">حدد اللغة المستخدمة للبحث الصوتي</string>
@@ -910,6 +951,7 @@
     <string name="sns_bind_limit">محاولات كثيرة جداً. حاول استخدام طريقة أخرى لتسجيل الدخول.</string>
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
     <string name="source">"المصدر: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">بطاقة SD</string>
     <string name="storage_internal_sdcard">التخزين الداخلي</string>
     <string name="submit">ارسال</string>
@@ -924,6 +966,7 @@
     <string name="sunday">الأحد</string>
     <string name="sure_to_logout">تسجيل الخروج الان؟</string>
     <string name="switch_ratio_pause">سرعة التشغيل غير مستقرة. التبديل إلى السرعة الأفتراصية.</string>
+    <string name="symbol_rmb">¥</string>
     <string name="sync_favorites_limit">يوجد أكثر من ٥٠٠ فيديو في المفضلة. يجب عليك حذف بعض الفيديوهات القديمة لمتابعة المزامنة.</string>
     <string name="sync_favorites_message">مزامنة المفضلة من هذا الجهاز إلى حسابك؟ سيتم إزالة العناصر التي لم تعد متوفرة.</string>
     <string name="sync_favorites_title">مزامنة المفضلة</string>
@@ -998,6 +1041,7 @@
     <string name="v_selectall">اختيار الكل</string>
     <string name="v_selectnull">الغاء تحديد الكل</string>
     <string name="v_set_password">تعيين كلمة المرور</string>
+    <string name="v_symbol_rmb">¥</string>
     <string name="v_txt_login">سجل الدخول لمزامنة المفضلة</string>
     <string name="v_update">تحديث</string>
     <string name="video_offline">لم يعد هذه العنصر متوفر</string>

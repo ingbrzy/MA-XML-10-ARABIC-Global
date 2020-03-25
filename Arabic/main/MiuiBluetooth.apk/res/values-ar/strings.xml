@@ -8,8 +8,15 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -51,8 +58,8 @@
     <string name="fast_connect_device_headset_reset">اضغط مع الاستمرار على الزر الموجود في المربع</string>
     <string name="fast_connect_device_title_connect_fail">تعذر اتصال %1$s</string>
     <string name="fast_connect_device_title_connecting">جارٍ الاتصال…</string>
-    <string name="fast_connect_device_title_find_headset">العثور على سماعة الرأس %1$s</string>
-    <string name="fast_connect_device_title_find_headset_others">العثور على سماعة الرأس %1$s الأخرى</string>
+    <string name="fast_connect_device_title_find_headset">العثور على %1$s</string>
+    <string name="fast_connect_device_title_find_headset_others">يبدو أن هذا الجهاز ليس لك: %1$s</string>
     <string name="goto_package">فتح %1$s</string>
     <string name="install_package">تثبيت %1$s للمزيد من الوظائف</string>
     <string name="mi_band_vibrate_alarm">الاهتزاز عند رنين المنبه</string>
@@ -80,6 +87,7 @@
     <string name="reset_function_msg">قد تمنع إعادة تعيين هذه الميزة %1$s من العمل بشكل طبيعي.</string>
     <string name="search_menu_title">البحث</string>
     <string name="some_app_taking">(%1$s يستخدم هذه الميزة مسبقاً)</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="unbind_device_alert_cancel">إلغاء</string>
     <string name="unbind_device_alert_content">فقد الإتصال بـ %1$s. للحفاظ على البطارية، ألغي اقتران هذا الجهاز الآن.</string>

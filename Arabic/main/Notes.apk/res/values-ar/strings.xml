@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="action_folder_description">عرض مجلدات</string>
     <string name="action_mode_switcher_grid_description">عرض شبكة</string>
     <string name="action_mode_switcher_list_description">عرض قائمة</string>
@@ -36,11 +63,14 @@
     <string name="cloud_trash_bin_title">الملاحظات المحذوفة من Cloud</string>
     <string name="confirm_cancel">لا أوافق</string>
     <string name="confirm_ok">أوافق</string>
+    <string name="copy">نسخ</string>
     <string name="cta_confirm_cancel">عدم السماح</string>
     <string name="cta_confirm_ok">السماح</string>
     <string name="cta_dialog_message">يحتاج تطبيق الملاحظات إلى الأذونات للوصول للإنترنت وتسجيل الصوت والوصول إلى جهات اتصالك للعمل بشكل طبيعي. السماج؟</string>
     <string name="cta_dialog_title">يتطلب أذونات</string>
     <string name="cta_reminder">يحتاج تطبيق الملاحظات إلى الأذونات للوصول للإنترنت وتسجيل الصوت والوصول إلى جهات اتصالك للعمل بشكل طبيعي. السماج؟</string>
+    <string name="data_empty_note">No notes here yet</string>
+    <string name="data_empty_todo">No tasks here yet</string>
     <string name="date_calculate_today">٠ يوم</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -90,6 +120,7 @@
     <string name="error_unsupport_content">هذه الملاحظه تحتوي على محتوى غير مدعوم، المس هنا للتحديث</string>
     <string name="error_widget_exist_for_send_to_desktop">هذه الملاحظة موجودة مسبقا على الشاشة الرئيسية</string>
     <string name="exceed_todo_text_limitation">وصف المهمة طويل جدا.</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="first_enter_custom_folder_hint">يمكنك إعادة تسمية أو حذف المجلدات هنا</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
@@ -137,6 +168,7 @@
     <string name="new_audio_create_guide_tip">اضغط مع الاستمرار لإنشاء ملاحظة صوتية</string>
     <string name="new_audio_create_talkback_des">انقر لإنشاء ملاحظة نصية. اضغط مع الاستمرار لإنشاء ملاحظة صوتية. أفلت الزر لإيقاف التسجيل وإنشاء الملاحظة أو مرِّر لأعلى للإلغاء.</string>
     <string name="not_now">ليس الآن</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="note_description_content">تطبيق الملاحظات هو أداة رائعة لتسجيل أفكارك. يحتوي على تذكيرات افتراضية ومزامنة للعناصر الخاصة بك إلى Cloud لتتمكن من الوصول إليها في أي مكان وفي أي وقت. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل حذف التطبيق.</string>
     <string name="note_description_title">حول الملاحظات</string>
     <string name="note_link_email">إنشاء بريد إلكتروني</string>
@@ -147,6 +179,8 @@
     <string name="note_sort_way">طريقة ترتيب الملاحظات</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
+    <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>
     <string name="notify_alarm_title">تذكير</string>
     <string name="permdesc_accessNote">قد تستخدم التطبيقات الخبيثة هذا للوصول لبياناتك الشخصية.</string>
     <string name="permission_get_account_desc">مزامنة الملاحظات مع Cloud</string>
@@ -171,6 +205,7 @@
     <string name="pref_title_skip_confirm_for_quick_delete">الحذف بإستخدام إيماءة</string>
     <string name="pref_title_todo_float_mode">استخدم شريط أدوات المهام</string>
     <string name="pref_title_todo_shorcut">شريط الأدوات</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_note_content_empty">لا توجد عناصر هنا.</string>
     <string name="recover_notes_hint">حدث خطأ ما، اذهب إلى i.mi.com لإسترداد الملاحظات.</string>
     <string name="redo">إعادة</string>
@@ -211,6 +246,7 @@
     <string name="search_hint">البحث عن ملاحظات</string>
     <string name="search_keyword_notes">الملاحظات;المذكرة</string>
     <string name="search_label">جارٍ البحث…</string>
+    <string name="search_menu_title">البحث</string>
     <string name="search_path_notes">تطبيقات النظام/الملاحظات</string>
     <string name="search_setting_description">بحث عن نص في ملاحظاتك</string>
     <string name="select_account_prompt">مزامنة الملاحظات</string>
@@ -235,6 +271,8 @@
     <string name="sns_title_send">ارسال رسالة</string>
     <string name="sns_toast_empty">لا يمكن ارسال رسالة فارغة</string>
     <string name="sns_toast_over_limit">إرسال صورة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sync_tips">انقر لمزامنة الملاحظات مع Cloud.</string>
     <string name="theme_blue_description">أزرق</string>
     <string name="theme_green_description">أخضر</string>
@@ -345,6 +383,8 @@
     <string name="unclassfied_folder_name">غير مصنف</string>
     <string name="undo">تراجع</string>
     <string name="unknown_source">مصدر غير معروف</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
     <string name="widget_content_loading">لحظة من فضلك…</string>
     <string name="widget_havenot_content">انقر لإنشاء ملاحظة. اضغط مع الاستمرار على الأداة لتغيير الحجم.</string>
 </resources>

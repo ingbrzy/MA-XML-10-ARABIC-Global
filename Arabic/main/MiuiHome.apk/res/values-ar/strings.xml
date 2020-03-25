@@ -24,11 +24,12 @@
     <string name="all_apps_search_app">البحث عن تطبيقات</string>
     <string name="all_apps_search_market_message">البحث على الانترنت</string>
     <string name="all_apps_setting_desktop_desc">عرض جميع التطبيقات المثبتة على الشاشة الرئيسية. اضغط مع الاستمرار على أيقونة التطبيق لعرض الاختصارات المتاحة أو إدارة التطبيق أو إلغاء تثبيته.</string>
-    <string name="all_apps_setting_desktop_title">عادي</string>
+    <string name="all_apps_setting_desktop_title">عادية</string>
     <string name="all_apps_setting_drawer_desc">ضع جميع التطبيقات المثبتة في \"درج التطبيقات\" الذي يمكن فتحه عن طريق التمرير للأعلى على الشاشة الرئيسية. لا يزال بإمكانك العثور على التطبيقات التي نقلتها إلى الشاشة الرئيسية في \"درج التطبيقات\".</string>
     <string name="all_apps_setting_drawer_tips_desc">يفُتح \"درج التطبيقات\" عن طريق التمرير للأعلى على الشاشة الرئيسية. يؤدي التبديل إلى وضع الشاشة الرئيسية باستخدام \"درج التطبيقات\" إلى جعل \"مركز المحتوى\" غير متاح. التبديل على أي حال؟</string>
     <string name="all_apps_setting_drawer_tips_title">استخدام درج التطبيقات</string>
     <string name="all_apps_setting_drawer_title">مع درج التطبيقات</string>
+    <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">التنسيق الأصلي</string>
     <string name="all_apps_setting_scroll_bar">شريط التمرير</string>
     <string name="all_apps_setting_title">الشاشة الرئيسية</string>
@@ -65,6 +66,7 @@
     <string name="announce_for_show_uninstall_dialog">يظهر مربع حوار إلغاء التثبيت. إلغاء أو تأكيد.</string>
     <string name="announce_for_unchecked">%1$s، غير محددة</string>
     <string name="announce_for_widget_span">العرض %1$d، الارتفاع %2$d</string>
+    <string name="announce_for_xiaoai">Mi AI</string>
     <string name="app_already_exist">التطبيق موجود مسبقا</string>
     <string name="app_being_backup_message">يتم نسخ التطبيق احتياطيا</string>
     <string name="app_being_restored_message">يتم استعادة التطبيق</string>
@@ -98,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">تحذير</string>
     <string name="aqi_quality_index_moderate">معتدل</string>
     <string name="aqi_quality_index_unhealthy">غير صحي</string>
-    <string name="auto_add_app_shortcut">ضع التطبيقات الجديدة على الشاشة الرئيسية</string>
     <string name="auto_delete_category_dialog_content">ستتم إزالة التطبيقات الحالية من هذه الفئة وحذف الفئة. حذف هذه الفئة الآن؟</string>
     <string name="auto_delete_category_dialog_title">حذف الفئة</string>
     <string name="backup_fail">تعذر النسخ الاحتياطي للمشغل</string>
@@ -115,9 +116,6 @@
     <string name="category_cannot_empty">أدخل فئة أولاً</string>
     <string name="category_choose_no_app_select_tip">يجب أن تحتوي كل فئة على تطبيق واحد على الأقل.</string>
     <string name="category_drawer_name_hint">ادخل اسم الفئة</string>
-    <string name="category_edit_back_confirm_dialog_content">حفظ التغييرات الآن؟</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">عدم الحفظ</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">حفظ</string>
     <string name="category_group">تصنيف التطبيقات</string>
     <string name="category_group_summary">تصنيف التطبيقات في درج التطبيقات</string>
     <string name="category_not_selected">التطبيقات المتاحة</string>
@@ -137,14 +135,18 @@
     <string name="current_wallpaper">الحالي</string>
     <string name="custom_wallpaper_picker">تصفح</string>
     <string name="defalut_launcher_title">المشغل الافتراضي</string>
+    <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">ألعاب</string>
     <string name="default_folder_title_meitu">تطبيقات Meitu</string>
+    <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">تطبيقات أخرى</string>
     <string name="default_folder_title_recommend">المزيد من التطبيقات</string>
     <string name="default_folder_title_security">النظام</string>
     <string name="default_folder_title_services">خدمات</string>
+    <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">أدوات</string>
     <string name="default_screen_preview_title">تعيين الشاشة الإفتراضية</string>
+    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">حذف</string>
     <string name="delete_category_dialog_content">لن تتمكن من استعادة هذه الفئة بعد حذفها. حذف على أي حال؟</string>
     <string name="delete_category_dialog_title">حذف هذه الفئة؟</string>
@@ -153,6 +155,8 @@
     <string name="deselect_all">الغاء تحديد الكل</string>
     <string name="disable_wallpaper_scroll">إيقاف التمرير الجانبي</string>
     <string name="download_action">تنزيل</string>
+    <string name="drag_multiple_item_name" />
+    <string name="drag_single_item_name" />
     <string name="drawer_background">الخلفيات</string>
     <string name="drawer_background_dark">داكن</string>
     <string name="drawer_background_light">فاتح</string>
@@ -257,9 +261,6 @@
     <string name="is_system_wallpaper_message">لا يمكن حذف موارد النظام</string>
     <string name="launcher_not_exist">حدث خطأ ما، ارجع إلى الشاشة الرئيسية ثم حاول مجددا.</string>
     <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
-    <string name="launcher_search_bar_title">شريط البحث على الشاشة الرئيسية</string>
-    <string name="launcher_search_bar_value_disable">متوقف</string>
-    <string name="launcher_search_bar_value_enable">مشغل</string>
     <string name="launcher_slide_up_title">مرّر لأعلى على الشاشة الرئيسية</string>
     <string name="launcher_sliding_up_gesture">مرّر لأعلى على الشاشة الرئيسية لفتح البحث</string>
     <string name="launcher_title">الشاشة الرئيسية والمستخدمة مؤخراً</string>
@@ -376,7 +377,7 @@
     <string name="screen_cells_config_title">تنسيق الشاشة الرئيسية</string>
     <string name="screen_locked_toast">تنسيق الشاشة الرئيسية مقفل.</string>
     <string name="screen_number">شاشة %d</string>
-    <string name="search_in_apps_store">البحث عن \"%1$s في %2$s</string>
+    <string name="search_in_apps_store">البحث عن \"%1$s\" في %2$s</string>
     <string name="search_no_result">تعذر إيجاد أية نتائج</string>
     <string name="select_all">تحديد الكل</string>
     <string name="select_frame">إطار</string>
@@ -400,6 +401,7 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="status_downloaded">تم تنزيلها</string>
     <string name="status_downloading">جارٍ التنزيل</string>
     <string name="status_installing">تثبيت</string>

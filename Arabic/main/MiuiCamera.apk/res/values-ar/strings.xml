@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">تم بدء تسجيل الفيديو</string>
     <string name="accessibility_camera_record_stop">تم إيقاف تسجيل الفيديو</string>
     <string name="accessibility_camera_shutter_finish">تم أخذ صورة بنجاح</string>
+    <string name="accessibility_camera_switch_capture_recording">التبديل بين وضع الصورة والفيديو</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">وضع الجسم الكامل متوقف</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">وضع الجسم الكامل مشغل</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">تم إيقاف تسجيل الفيديو مؤقتًا</string>
     <string name="accessibility_video_resume_button">تم استئناف تسجيل الفيديو</string>
     <string name="accessibility_zoom_button">وضع التكبير</string>
-    <string name="ai_scene_mode_use_hint_text">"تقوم كاميرا AI باكتشاف المشاهد تلقائيًا
-وتحسن الصور استنادًا إلى هذه البيانات"</string>
+    <string name="ai_scene_mode_use_hint_text">"التعرف على المشاهد بإستخدام AI
+ وضبط التفضيلات تلقائيًا"</string>
     <string name="ai_scene_top_moon_off">وضع الضوء ضعيف</string>
     <string name="ai_scene_top_tip">وضع القمر</string>
     <string name="audio_focus_exit_button_text">إيقاف تشغيل التركيز الصوتي</string>
     <string name="autozoom_click_hint">انقر على جسم ما للتركيز عليه أثناء تحركه. ابق على بعد ٣ أمتار على الأقل للحصول على أفضل تأثير.</string>
     <string name="autozoom_disabled_hint">تم التوقف عن تتبع الجسم المتحرك</string>
     <string name="autozoom_hint">تتبع الجسم المتحرك</string>
+    <string name="auxiliary_close_status">التأثيرات الإضافية متوقفة</string>
+    <string name="auxiliary_exposure_feedback_status">التحقق من التعرض مشغل</string>
+    <string name="auxiliary_focus_peak_status">ذروة التركيز البؤري مشغل</string>
     <string name="back_bokeh_use_hint">إبقي العنصر ضمن مسافة ١.٥ متر للحصول على تأثير أفضل</string>
     <string name="beauty_body">الشكل</string>
     <string name="beauty_body_body">نحيف</string>
@@ -112,6 +116,7 @@
     <string name="camera_liveshot_on_tip">لقطات ديناميكية</string>
     <string name="camera_mode_options">خيارات</string>
     <string name="camera_setting">الكاميرا</string>
+    <string name="camera_settings_category_development">الميزات التجريبية</string>
     <string name="camera_settings_label">الكاميرا</string>
     <string name="camera_snap_mode_title">وضع الالتقاط السريع</string>
     <string name="camera_snap_mode_title_detail">انقر لعرض التفاصيل</string>
@@ -159,7 +164,7 @@
     <string name="confirm_install_scanner_message">يسمح لك الماسح الضوئي بمسح رموز QR، الباركود، والمزيد. لا يتطلب الاتصال بالإنترنت لتثبيته.</string>
     <string name="confirm_install_scanner_title">تثبيت الماسح الضوئي</string>
     <string name="confirm_location_alert">تذكر مواقع الصور</string>
-    <string name="confirm_location_message">ضع علامة على صورك وفيديوهاتك مع معلومات حول موقع إلتقاطها. ستكون هذه المعلومات متاحة للتطبيقات الأخرى بالإضافة إلى صورك المحفوظة.</string>
+    <string name="confirm_location_message">&lt;Data>مرحبًا بك في الكاميرا! يساعد تحديد مكان التقاط الصور أو مقاطع الفيديو الخاصة بك على تنظيم المعرض والعثور على العناصر بشكل أسرع. قد لا تتوفر بعض الميزات إلا إذا قمت بتمكين ميزة إضافة معلومات الموقع. &lt;br/> &lt;br/> نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;/Data></string>
     <string name="confirm_location_title">هل تريد تذكر مواقع الصور؟</string>
     <string name="confirm_recording_fail_calling_alert">لا يمكن التسجيل أثناء المكالمة.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">قد يكون هناك تطبيق آخر يستخدم مسبقا ميكروفون الجهاز للتسجيل.</string>
@@ -298,9 +303,11 @@
     <string name="live_sticker_fragment_tab_name">تأثيرات TikTok</string>
     <string name="live_sticker_network_error_hint">خطأ بالشبكة</string>
     <string name="live_sticker_updating">جارٍ التحديث…</string>
+    <string name="location_access_allow">السماح</string>
     <string name="location_permission_des">تذكر موقع الصور والفيديوهات</string>
     <string name="location_permission_not_ask_again">اسمح للكاميرا بالوصول إلى موقعك من الإعدادات.</string>
     <string name="location_permission_not_ask_again_go_to_settings">السماح</string>
+    <string name="log_format">LOG</string>
     <string name="lying_direct_hint">التوجيه الحالي</string>
     <string name="macro_mode">ماكرو</string>
     <string name="macro_mode_tip">يجب ألا تتجاوز المسافة بين العدسة والجسم ١٠سم</string>
@@ -381,6 +388,7 @@
     <string name="module_name_professional">إحترافي</string>
     <string name="module_name_square">مربع</string>
     <string name="module_name_video">فيديو</string>
+    <string name="moive_frame">إطار الفيلم</string>
     <string name="multi_window_mode_not_supported">لا تعمل الكاميرا في وضع تقسيم الشاشة</string>
     <string name="network_access_user_notice_agree">أوافق</string>
     <string name="network_access_user_notice_message_live_video">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير التأثيرات والموسيقى والميزات الأخرى لمقاطع الفيديو القصيرة.&lt;br/>&lt;br/>بالنقر على أوافق أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح للكاميرا بالاتصال بالإنترنت.&lt;/Data></string>
@@ -395,8 +403,47 @@
     <string name="pano_how_to_use_prompt_slow_down">إبطاء الحركة…</string>
     <string name="pano_how_to_use_prompt_start">انقر على السهم لتبديل الاتجاه و ابدأ بالتحريك ببطئ.</string>
     <string name="pano_how_to_use_prompt_to_move">بدأ التحريك ببطء</string>
+    <string name="parameter_description_pro_capture_title">ميزات برو لإلتقاط الصور</string>
+    <string name="parameter_description_pro_video_title">ميزات برو لتسجيل الفيديوهات</string>
+    <string name="parameter_description_sub_title">تحكم بالصور والفيديوهات بشكل أكثر إبداعًا</string>
+    <string name="parameter_ef_split_description">يمكنك سحب حلقة التعرض بعيدا عن حلقة التركيز البؤري وتعديل المعايير لكلا منها بشكل منفصل.</string>
+    <string name="parameter_ef_split_title">فصل قياس التركيز البؤري والتعرض</string>
+    <string name="parameter_et_description">تحدد سرعة الغالق التلقائية بواسطة قياس إضاءة الكاميرا. عند تحديد سرعة الغالق يدويًا، تذكر أنه كلما كان غالق الكاميرا مفتوحًا، كلما ازداد مقدار الضوء في المستشعر، مما يجعل صورتك أكثر إشراقًا.</string>
+    <string name="parameter_exposure_description">تتيح لك هذه الميزة تعويض التعرض عندما تريد أن تكون صورتك أكثر إشراقًا أو أظلم عن قيم القياس المقترحة.</string>
+    <string name="parameter_exposure_feecback_description">قم بتمييز المناطق الأقل تعرضًا باللون الأزرق والمساحات الأكثر تعرض باللون الأحمر لتتمكن من ضبط التعرض بشكل صحيح.</string>
+    <string name="parameter_exposure_feecback_title">التحقق من التعرض</string>
+    <string name="parameter_exposure_title">شدة التعرض للضوء</string>
+    <string name="parameter_focus_description">يمكنك القيام بالتركيز البؤري يدويا وتلقائيا. كلما زادت قيمة التركيز البؤري التي تحددها على شريط تمرير القيمة، كلما زاد التركيز البؤري على المسافات البعيدة عن العدسة.</string>
+    <string name="parameter_focus_title">التركيز البؤري</string>
+    <string name="parameter_histogram_description">المدرج التكراري عبارة عن رسم بياني يمثل وقت التعرض الحقيقي، حيث يشير على اليسار إلى الأجزاء المظلمة للمشهد الخاص بك ويمر إلى الأجزاء المشرقة على اليمين. يمثل الجزء الأفقي من المقياس مقدار سطوع وظلام المشهد.</string>
+    <string name="parameter_histogram_title">المدرج التكراري</string>
+    <string name="parameter_iso_description">يمكن تحديد قيم ISO تلقائيًا بواسطة قياس الضوء. يمكنك أيضًا تغيير القيمة يدويًا. تذكر أن ارتفاع قيمة ISO يجعل الكاميرا أكثر حساسية للضوء، ولكن يجلب المزيد من الضوضاء الرقمية في صورتك.</string>
+    <string name="parameter_lens_description">يمكنك التبديل بين العدسات المتعددة المتاحة:</string>
+    <string name="parameter_lens_marco">، MACRO (عدسة ماكرو)</string>
+    <string name="parameter_lens_st">، S-TELE (عدسة تكبير/تصغير)</string>
+    <string name="parameter_lens_t">، TELE (عدسة مقربة)</string>
+    <string name="parameter_lens_tele_2x">، TELE-2X (عدسة مقربة)</string>
+    <string name="parameter_lens_tele_5x">، TELE-5X (عدسة مقربة)</string>
+    <string name="parameter_lens_title">العدسات</string>
+    <string name="parameter_lens_uw">، UW (عدسة زاوية واسعة فائقة)</string>
+    <string name="parameter_lens_w">WIDE (عدسة واسعة الزاوية)</string>
+    <string name="parameter_log_format_description">يسجل هذا التنسيق الفيديو باستخدام وظيفة لوغاريتمية تطبق على منحنى التعرض للحصول على مزيد من التفاصيل في النقاط المميزة والظلال، حيث يتيح لك المزيد من الخيارات في مرحلة ما بعد المعالجة.</string>
+    <string name="parameter_log_format_title">صيغة LOG</string>
+    <string name="parameter_metering_description">يأخذ متوسط القياس جميع مساحات الصورة، ويعمل بشكل أفضل للمشاهد المضاءة بشكل متساوي. يركز القياس الموزون في المنتصف على المنطقة المركزية للإطار ويعمل على سطوع المنطقة المحيطة، هذا القياس مناسب لموضوعات التصوير في وسط الإطار. يركز قياس التركيز لمنطقة واحدة على بقعة واحدة فقط، مما يتيح لك التحكم الدقيق في التعرض.</string>
+    <string name="parameter_metering_title">وضع القياس</string>
+    <string name="parameter_peak_focus_description">عندما تقوم بالتركيز يدويًا، استخدم ذروة التركيز البؤري لوضع إطار احمر حول المنطقة المحددة داخل التركيز البؤري.</string>
+    <string name="parameter_peak_focus_title">ذروة التركيز البؤري</string>
+    <string name="parameter_peak_raw_description">يلتقط تنسيق الصورة هذا جميع بيانات الصورة المسجلة بواسطة المستشعر عند التقاط صورة. تمنحك البيانات غير المضغوطة المزيد من الخيارات في مرحلة ما بعد المعالجة.</string>
+    <string name="parameter_peak_raw_title">صيغة RAW</string>
+    <string name="parameter_wb_description">إلى جانب الإعدادات المسبقة لتوازن اللون الأبيض (ساطع، ضوء النهار، مستشع، غائم)، يمكنك أيضًا ضبط توازن اللون الأبيض على قيمة مخصصة ضمن نطاق كيلفين ٢٠٠٠-٨٠٠٠.</string>
+    <string name="parameter_wb_title">توازن اللون الابيض</string>
+    <string name="parameter_zoom_slider_description">اسحب شريط التكبير/التصغير لأعلى أو أسفل لتغيير لقطة تصويرك من لقطة بغيدة إلى قريبة.</string>
+    <string name="parameter_zoom_slider_title">التكبير/التصغير</string>
     <string name="path_settings">تطبيقات النظام/الكاميرا/الإعدادات</string>
     <string name="photo_assistance_tips_title">نصائح مباشرة</string>
+    <string name="pic_flaw_blink_more">يبدو أن شخص ما في الصورة قام بإغلاق عينه</string>
+    <string name="pic_flaw_blink_one">يبدو أن الشخص في الصورة قام بإغلاق عينه</string>
+    <string name="pic_flaw_cover">يبدو أن العدسة مغطاة جزئيًا</string>
     <string name="popup_tip_3d_beauty_intro_text">تجميل 3D</string>
     <string name="portait_effect_entry_blackwhite">أبيض وأسود</string>
     <string name="portait_effect_entry_cool">نعناع</string>
@@ -418,6 +465,17 @@
  الخلفية في الصور"</string>
     <string name="portrait_bokeh_text">وضع البورتريه</string>
     <string name="portrait_bokeh_tips">ضع الهدف في حدود ١.٥ متر</string>
+    <string name="portrait_india_effect_entry_memory">ذكرى</string>
+    <string name="portrait_india_effect_entry_mono">مونو</string>
+    <string name="portrait_india_effect_entry_pink">وردي</string>
+    <string name="portrait_india_effect_entry_portrait">بورتريه</string>
+    <string name="portrait_india_effect_entry_retro">ريترو</string>
+    <string name="portrait_india_effect_entry_romantic">رومانسي</string>
+    <string name="portrait_india_effect_entry_strong">مكثف</string>
+    <string name="portrait_india_effect_entry_sunny">مشمس</string>
+    <string name="portrait_india_effect_entry_sweet">كراميل</string>
+    <string name="portrait_india_effect_entry_warm">دافئ</string>
+    <string name="portrait_india_effect_entry_young">شبابي</string>
     <string name="portrait_mode_depth_effect_success_hint">تأثير العمق</string>
     <string name="portrait_mode_lowlight_hint">هذا مظلم جدا</string>
     <string name="portrait_mode_too_close_hint">تحرك لمسافة أبعد من الجسم</string>
@@ -427,7 +485,6 @@
     <string name="portrait_mode_use_hint_for_bokeh">"جرب وضع البورتريه.
 اجعل الشخص أو الشيء واضح أثناء تموية الخلفية."</string>
     <string name="pref_960_watermark_title">علامة مائية ٩٦٠ إطار/ث</string>
-    <string name="pref_advance_settings">الإعدادات الإضافية</string>
     <string name="pref_ai_detect">اكتشاف AI</string>
     <string name="pref_audio_focus_entry_front">الأمامية</string>
     <string name="pref_audio_focus_entry_general">طبيعي</string>
@@ -452,6 +509,10 @@
     <string name="pref_camera_autoexposure_entry_frameaverage">متوسط الإطار</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">مقياس اللقطة</string>
     <string name="pref_camera_autoexposure_title">إعدادات التعرض التلقائي</string>
+    <string name="pref_camera_auxiliary_close">متوقف</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">التحقق من التعرض</string>
+    <string name="pref_camera_auxiliary_focus_peak">ذروة التركيز البؤري</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -476,6 +537,7 @@
     <string name="pref_camera_coloreffect_entry_vsco_a4">تناظري</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">مطفي</string>
     <string name="pref_camera_coloreffect_title">فلاتر</string>
+    <string name="pref_camera_common_settings">الإعدادات العامة</string>
     <string name="pref_camera_contrast_title">التباين</string>
     <string name="pref_camera_delay_capture_entry_10s">تأخير ١٠ ثواني</string>
     <string name="pref_camera_delay_capture_entry_3s">تأخير ٣ ثواني</string>
@@ -484,12 +546,10 @@
     <string name="pref_camera_delay_capture_title">المؤقت</string>
     <string name="pref_camera_device_watermark_title">علامة مائية للجهاز</string>
     <string name="pref_camera_exposuretime_entry_0_5">۲ ثواني</string>
-    <string name="pref_camera_exposuretime_entry_1">ثانية</string>
     <string name="pref_camera_exposuretime_entry_1000">١٠٠٠/١ ثانية</string>
     <string name="pref_camera_exposuretime_entry_125">١٢٥/١ ثانية</string>
     <string name="pref_camera_exposuretime_entry_15">١٥/١ ثانية</string>
     <string name="pref_camera_exposuretime_entry_16s">١٦ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_2">٢/١ ثانية</string>
     <string name="pref_camera_exposuretime_entry_250">١٢٥/١ ثانية</string>
     <string name="pref_camera_exposuretime_entry_30">٣٠/١ ثانية</string>
     <string name="pref_camera_exposuretime_entry_32s">٣٢ ثانية</string>
@@ -526,6 +586,8 @@
     <string name="pref_camera_hdr_entry_live">مباشر</string>
     <string name="pref_camera_hdr_entry_normal">احترافي</string>
     <string name="pref_camera_hdr_entry_off">متوقف</string>
+    <string name="pref_camera_heic_image_format_description">تشغل الصور ذات صيغة ملف صور عالي الكفاءة مساحة تخزين أقل، ولكن بعض التطبيقات لا تدعم هذا النوع من الصيغة</string>
+    <string name="pref_camera_heic_image_format_title">صيغة HEIF</string>
     <string name="pref_camera_hfr_entry_2x">٦٠</string>
     <string name="pref_camera_hfr_entry_3x">٩٠</string>
     <string name="pref_camera_hfr_entry_4x">١٢٠</string>
@@ -548,6 +610,7 @@
     <string name="pref_camera_lying_summary">الإعلام بالاتجاه الحالي عندما يكون الهاتف موازيا للأرض</string>
     <string name="pref_camera_lying_title">الإعلام بالإتجاة</string>
     <string name="pref_camera_magic_mirror_title">مرآة سحرية</string>
+    <string name="pref_camera_manual_description_title">حول ميزة برو</string>
     <string name="pref_camera_manual_mode_title">يدوي</string>
     <string name="pref_camera_movie_solid_title">استقرار الصورة</string>
     <string name="pref_camera_multilevel_entry_high">عالي</string>
@@ -571,6 +634,7 @@
     <string name="pref_camera_portrait_mode_title">وضع بورتريه</string>
     <string name="pref_camera_proximity_lock_summary">قفل إيماءات اللمس أثناء وضع الجهاز في الجيب</string>
     <string name="pref_camera_proximity_lock_title">وضع الجيب</string>
+    <string name="pref_camera_quick_settings">الإعدادات السريعة</string>
     <string name="pref_camera_recordlocation_entry_off">متوقف</string>
     <string name="pref_camera_recordlocation_entry_on">مشغل</string>
     <string name="pref_camera_recordlocation_title">حفظ معلومات الموقع</string>
@@ -675,6 +739,9 @@
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_photo_assistance_tips_off">متوقف</string>
     <string name="pref_photo_assistance_tips_on">مشغل</string>
+    <string name="pref_pic_flaw_tip_summary">احصل على إشعارات الوقت الفعلي عند أغلاق الأشخاص الموجودون في الإطار أعينهم أو تغطية العدسة جزئيًا أثناء التصوير</string>
+    <string name="pref_pic_flaw_tip_title">معرفة عيوب الصورة</string>
+    <string name="pref_popup_camera_title">الكاميرا المنزلقة</string>
     <string name="pref_priority_storage_title">حفظ إلى بطاقة SD</string>
     <string name="pref_privacy_title">سياسة الخصوصية</string>
     <string name="pref_qc_focus_position_title">التركيز</string>
@@ -814,7 +881,7 @@
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_reach_size_limit">لقد وصلت الحد الاقصي.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">عرض سياسة الخصوصية</string>
     <string name="vv_duartion_hint">%1$s | مقطع %2$d |%3$sث</string>
     <string name="vv_hint">يمكنك تصوير فلوج (Vlog) فقط في وضع الأفقي</string>

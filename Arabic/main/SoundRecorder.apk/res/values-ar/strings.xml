@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="alert_message_clear_records">حذف التسجيلات المحددة؟</string>
     <string name="alert_message_delete_local_record">حذف هذا التسجيل؟</string>
     <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Xiaomi Cloud. حذف الآن؟</string>
@@ -246,6 +273,7 @@
     <string name="search_hint">بحث</string>
     <string name="search_led_indicator">إشعارات شاشة القفل</string>
     <string name="search_led_indicator_prompt">أثناء التسجيل، قم بعرض اختصار شريط الحالة ووميض ضوء الإشعارات في شاشة القفل</string>
+    <string name="search_menu_title">البحث</string>
     <string name="search_quliaty_title">جودة التسجيل</string>
     <string name="search_scenes">نوع التسجيل</string>
     <string name="search_silent_mode">كتم الرنين أثناء التسجيل</string>
@@ -261,6 +289,7 @@
     <string name="speech_recognition_running_tip">"جارٍ المعالجة "</string>
     <string name="start">استئناف</string>
     <string name="status_bar_back">انقر للعودة إلى المسجل</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">جارٍ التسجيل …</string>
     <string name="status_bar_recording_pause">تم إيقاف المسجل مؤقتاً</string>
     <string name="text_btn_backward_3_seconds">تأخير ٣ ثواني</string>

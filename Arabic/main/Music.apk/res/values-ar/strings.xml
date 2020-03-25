@@ -21,8 +21,15 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
@@ -105,6 +112,7 @@
     <string name="artist_name">الفنان</string>
     <string name="audio_picker_title">اختر أغنية</string>
     <string name="auto_recommend">تلقائي (موصى به)</string>
+    <string name="auto_sound_quality">تلقائي</string>
     <string name="auto_update">التحديث تلقائياً</string>
     <string name="auto_update_tip">يمكنك تحديث تطبيقات النظام بإستخدام بيانات الجوال. ويمكن أن يؤدي ذلك إلى فرض رسوم بيانات إضافية.</string>
     <string name="available_playlist_name_format">قائمة تشغيل جديدة %d</string>
@@ -132,6 +140,7 @@
     <string name="click_to_add_album_cover_and_lyric">انقر لإضافة غلاف الألبوم والكلمات</string>
     <string name="click_to_shuffle">انقر للتشغيل العشوائي</string>
     <string name="close_music_time">"الوقت المتبقي: "</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">تفعيل</string>
     <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
     <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
@@ -261,7 +270,9 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_queued">في قائمة الاستماع</string>
@@ -315,6 +326,7 @@
     <string name="eq_flat">الافتراضية</string>
     <string name="eq_hiphop">هيب هوب</string>
     <string name="eq_jazz">جاز</string>
+    <string name="eq_metal">Metal</string>
     <string name="eq_pop">بوب</string>
     <string name="eq_preset_format">إعدادات المستخدم %d</string>
     <string name="eq_preset_hint">إسم التأثير</string>
@@ -341,7 +353,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -639,6 +653,7 @@
     <string name="play_mode_play_all">تشغيل الكل</string>
     <string name="play_mode_shuffle_all">عشوائي</string>
     <string name="play_next">تشغيل التالي</string>
+    <string name="play_setting">تشغيل</string>
     <string name="play_video_with_traffic">متابعة</string>
     <string name="play_video_with_traffic_toast">انت تستخدم بيانات الجوال الآن.</string>
     <string name="playlist_empty">لم يتم العثور على قوائم التشغيل.</string>
@@ -648,6 +663,7 @@
     <string name="playlist_type_album">الألبومات</string>
     <string name="playlist_type_artist">فنان</string>
     <string name="playlist_type_billboard">القوائم</string>
+    <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_my">قوائم التشغيل</string>
     <string name="playlist_type_recommend">قوائم التشغيل المميزة</string>
     <string name="please_download_first">تحتاج لتحميل هذة الأغنية قبل تعيينها كنغمة رنين</string>
@@ -658,6 +674,7 @@
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامية)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
@@ -782,9 +799,11 @@
     <string name="songgroup_pick_playlist">قوائم التشغيل</string>
     <string name="sort_by_name">الاسم</string>
     <string name="sort_by_time">التاريخ</string>
+    <string name="sound_fade_in_and_out_when_change_song_automatically">جرب مزج الأغاني أثناء التشغيل</string>
     <string name="start_to_check_new_version">جار التحقق من وجود تحديثات…</string>
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
@@ -861,6 +880,7 @@
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="version_info">الإصدار</string>

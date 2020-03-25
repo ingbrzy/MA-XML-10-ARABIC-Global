@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">للإغلاق، المس المنطقة الداكنة</string>
     <string name="handy_mode_title">وضع اليد الواحدة</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">ضع اصبعك على زر الرئيسية</string>
+    <string name="input_method_clipboard_tips">سيتم حذف العناصر المنسوخة من الحافظة بعد ٤٨ ساعة</string>
     <string name="input_method_edit_phrase_text">تعديل العبارات المتكررة</string>
     <string name="input_method_no_content_text">لا توجد عناصر هنا</string>
     <string name="input_method_switch_settings_text">إعدادات لوحة المفاتيح</string>

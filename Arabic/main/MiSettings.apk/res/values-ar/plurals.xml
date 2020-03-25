@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>
+        <item quantity="zero">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>
+        <item quantity="one">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>
+        <item quantity="two">مدة استخدام الجهاز اليوم تساوي متوسط %d-أيام</item>
+        <item quantity="few">مدة استخدام الجهاز اليوم تساوي متوسط %d-أيام</item>
+        <item quantity="many">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">مدة استخدام الجهاز اليوم %2$s أقل من متوسط %1$d-يوم</item>
+        <item quantity="zero">مدة استخدام الجهاز اليوم %2$s أقل من متوسط %1$d-يوم</item>
+        <item quantity="one">مدة استخدام الجهاز اليوم %2$s أقل من متوسط %1$d-يوم</item>
+        <item quantity="two">مدة استخدام الجهاز اليوم %2$s أقل من متوسط %1$d-أيام</item>
+        <item quantity="few">مدة استخدام الجهاز اليوم %2$s أقل من متوسط %1$d-أيام</item>
+        <item quantity="many">مدة استخدام الجهاز اليوم %2$s أقل من متوسط %1$d-يوم</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">مدة استخدام الجهاز اليوم %2$s أكثر من متوسط %1$d-يوم</item>
+        <item quantity="zero">مدة استخدام الجهاز اليوم %2$s أكثر من متوسط %1$d-يوم</item>
+        <item quantity="one">مدة استخدام الجهاز اليوم %2$s أكثر من متوسط %1$d-يوم</item>
+        <item quantity="two">مدة استخدام الجهاز اليوم %2$s أكثر من متوسط %1$d-أيام</item>
+        <item quantity="few">مدة استخدام الجهاز اليوم %2$s أكثر من متوسط %1$d-أيام</item>
+        <item quantity="many">مدة استخدام الجهاز اليوم %2$s أكثر من متوسط %1$d-يوم</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f مرة</item>
+        <item quantity="zero">%.2f مرة</item>
+        <item quantity="one">%.2f مرة</item>
+        <item quantity="two">%.2f مرات</item>
+        <item quantity="few">%.2f مرات</item>
+        <item quantity="many">%.2f مرة</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d يوم</item>
+        <item quantity="zero">%d يوم</item>
+        <item quantity="one">%d يوم</item>
+        <item quantity="two">%d أيام</item>
+        <item quantity="few">%d أيام</item>
+        <item quantity="many">%d يوم</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">تم إلغاء القفل %d مرة</item>
         <item quantity="zero">تم إلغاء القفل %d مرة</item>
@@ -31,6 +79,14 @@
         <item quantity="two">%d إشعارات مستلمة</item>
         <item quantity="few">%d إشعارات مستلمة</item>
         <item quantity="many">%d إشعار مستلم</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d دقيقة هي خطوة كبيرة نحو اليقظة والتركيز.</item>
+        <item quantity="zero">%d دقيقة هي خطوة كبيرة نحو اليقظة والتركيز.</item>
+        <item quantity="one">%d دقيقة هي خطوة كبيرة نحو اليقظة والتركيز.</item>
+        <item quantity="two">%d دقائق هي خطوة كبيرة نحو اليقظة والتركيز.</item>
+        <item quantity="few">%d دقائق هي خطوة كبيرة نحو اليقظة والتركيز.</item>
+        <item quantity="many">%d دقيقة هي خطوة كبيرة نحو اليقظة والتركيز.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%dس</item>

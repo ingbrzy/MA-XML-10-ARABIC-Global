@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="above_image">أعلى</string>
     <string name="accessibility_battery_level">البطارية %d في المئة.</string>
     <string name="accessibility_battery_level_charging">يتم شحن البطارية، %d في المئة.</string>
     <string name="align_type">المحاذاة</string>
@@ -42,19 +44,22 @@
     <string name="aod_mode_summary">عرض الوقت والتاريخ والإشعارات وصور الخلفية عند إيقاف تشغيل الشاشة</string>
     <string name="aod_mode_time_summary">جدولة الوقت لتشغيل/إيقاف وضع \"شاشة العرض قيد التشغيل دائماً\"</string>
     <string name="aod_mode_time_title">الجدول</string>
-    <string name="aod_mode_title">وضع \"الشاشة نشطة دائمًا\"</string>
+    <string name="aod_mode_title">العرض على الشاشة</string>
+    <string name="aod_show_date_and_time">عرض التاريخ والوقت</string>
     <string name="aod_show_style_title">عرض العناصر</string>
     <string name="aod_style">سمة</string>
     <string name="aod_to_close">إيقاف التشغيل</string>
     <string name="apply">تعيين</string>
     <string name="apply_succeed">تم التعيين بنجاح</string>
     <string name="background_icon">الخلفية</string>
+    <string name="below_image">أسفل</string>
     <string name="cancel">إلغاء</string>
     <string name="choose_aod_style">اختر سمة</string>
     <string name="chosen_picture">حدد خلفية</string>
     <string name="clock_panel_icon">وجه الساعة</string>
     <string name="color_change_with_time_description">تغيير لون النص تلقائيا مع مرور الوقت</string>
     <string name="color_change_with_time_title">تغيير اللون تلقائيا</string>
+    <string name="custom_image">تخصيص الصورة</string>
     <string name="deep_space_planet">الفضاء الخارجي</string>
     <string name="deep_space_planet_des">تعكس هذه السمة التغيرات في الإضاءة التي تحدث خلال اليوم. تتم مزامنة شروق الشمس وغروبها ايضا في هذا السمة مع موقعك.</string>
     <string name="digital_clock">رقمي</string>
@@ -84,18 +89,20 @@
     <string name="show_battery_status">عرض حالة البطارية</string>
     <string name="show_notification">عرض الإشعارات</string>
     <string name="show_notificaton">عرض الإشعارات</string>
+    <string name="shownone_arround_image">بدون</string>
     <string name="signature">التوقيع</string>
     <string name="signature_default_content">"دائماً اعتقد ان شيئاً
 رائعا على وشك الحدوث"</string>
     <string name="standard_clock_panel">قياسي</string>
     <string name="standard_style">قياسية</string>
-    <string name="summary">"لتقليل استهلاك الطاقة، لن يتم عرض العناصر في المواقف التالية:
-١. عندما يكون جهازك في الظلام لفترة طويلة.
-٢. عند تشغيل وضع عدم الإزعاج."</string>
+    <string name="summary">لتقليل استهلاك الطاقة، لن يتم عرض العناصر عندما يكون جهازك في الظلام لفترة طويلة.</string>
     <string name="temporary_style">لمدة ١٠ ثواني بعد نقر الشاشة</string>
     <string name="text_color">لون النص</string>
     <string name="text_length_exceed_limit_alert">*النص طويل جدا</string>
     <string name="text_size">حجم النص</string>
+    <string name="time_location">موضع الساعة</string>
     <string name="time_style">أسلوب</string>
     <string name="time_style_layout">تنسيق</string>
+    <string name="disable_aod_in_power_save_mode">أوقف التشغيل عندما يكون موفر البطارية مشغل</string>
+    <string name="disable_aod_in_power_save_mode_summary">عدم عرض العناصر لتوفير الطاقة</string>
 </resources>
