@@ -56,7 +56,7 @@
     <string name="s7">إعلان تجريبي</string>
     <string name="select_all">تحديد الكل</string>
     <string name="selected_count">تم تحديد %1$d من %2$d</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="DOWNLOAD_UNIT_BIT">بايت</string>
     <string name="DOWNLOAD_UNIT_GB">غيغابايت</string>
     <string name="DOWNLOAD_UNIT_KB">كيلوبايت</string>
@@ -127,13 +127,13 @@
     <string name="downloading">جارِ التنزيل…</string>
     <string name="downloading_empty">فارغ</string>
     <string name="downloads_operating">جارٍ التنفيذ…</string>
-    <string name="durationDayHour">%1$d يوم %2$d ساعة</string>
-    <string name="durationDayHours">%1$d يوم %2$d ساعات</string>
-    <string name="durationHourMinute">%1$d س %2$d دق</string>
-    <string name="durationHourMinutes">%1$d س %2$d دق</string>
+    <string name="durationDayHour">%1$d يوم و %2$d س</string>
+    <string name="durationDayHours">%1$d يوم و %2$d س</string>
+    <string name="durationHourMinute">%1$d س و %2$d دق</string>
+    <string name="durationHourMinutes">%1$d س و %2$d دق</string>
     <string name="durationMinute">%1$d دق</string>
     <string name="durationMinuteSecond">%1$d دق %2$d ث</string>
-    <string name="durationMinuteSeconds">%1$d دق %2$d ثا</string>
+    <string name="durationMinuteSeconds">%1$d دق و %2$d ث</string>
     <string name="durationMinutes">%1$d دق</string>
     <string name="durationSecond">%1$d ثانية</string>
     <string name="durationSeconds">%1$d ثانية</string>
@@ -205,7 +205,7 @@
     <string name="pref_download_settings_title">حد حجم التنزيل</string>
     <string name="pref_summary_any_bytes_popup">انتظر اتصال شبكة Wi-Fi دائما لتنزيل الملفات</string>
     <string name="pref_summary_enable_max_bytes_popup">عرض الإشعارات المنبثقة عند استعمال اتصال بيانات الجوال لتنزيل المحتوى</string>
-    <string name="pref_summary_max_bytes_limit_format">انتظار خدمة الـ Wi-Fi إذا تجاوز حجم الملف %s</string>
+    <string name="pref_summary_max_bytes_limit_format">انتظار الاتصال بشبكة Wi-Fi إذا تجاوز حجم الملف %s</string>
     <string name="pref_summary_no_limit_popup">غير محدود</string>
     <string name="pref_title_enable_max_bytes_popup">عرض طلب استخدام البيانات</string>
     <string name="preferences_title">الإعدادات</string>
@@ -249,4 +249,5 @@
     <string name="toast_only_wifi_download">قم بالاتصال بالـ Wi-Fi لتنزيل هذا العنصر</string>
     <string name="total_speedup">زيادة السرعة (الإجمالي)</string>
     <string name="version">الإصدار %s</string>
+    <string name="security_ui_title">Security ads</string>
 </resources>

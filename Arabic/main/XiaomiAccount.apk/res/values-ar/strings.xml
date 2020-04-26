@@ -120,6 +120,7 @@
     <string name="passport_change_phone_number">تبديل الأرقام</string>
     <string name="passport_forget_password"><u>نسيت كلمة المرور</u></string>
     <string name="passport_forget_password_no_underline">نسيت كلمة المرور</string>
+    <string name="passport_can_not_receive_verification_code">لم اتمكن من استلام رمز التحقق؟</string>
     <string name="passport_reg_type_email">عنوان البريد الإلكتروني</string>
     <string name="passport_register_by_email"><u>إنشاء حساب باستخدام عنوان البريد الإلكتروني</u></string>
     <string name="passport_international_register_by_email">إنشاء حساب باستخدام عنوان البريد الإلكتروني</string>
@@ -506,7 +507,9 @@
     <string name="input_new_pwd">ادخل كلمة المرور</string>
     <string name="confirm_new_pwd">تأكيد كلمة المرور الجديدة</string>
     <string name="inconsistent_pwd">كلمة المرور غير متطابقة</string>
-    <string name="same_new_and_old_pwd">لا يمكن أن تكون نفس كلمة المرور الحالية</string>
+    <string name="same_new_and_old_pwd">يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور القديمة</string>
+    <string name="pwd_width_phone_number_or_mail_num">لا يمكن أن تحتوي كلمة المرور على رقم هاتفك أو بريدك الإلكتروني أو معرف حساب Mi</string>
+    <string name="risky_pwd_not_allow">كلمة المرور هذه غير آمنة. استخدم كلمة مرور أخرى.</string>
     <string name="account_security_info_pref_title">معلومات الحماية</string>
     <string name="account_bind_settings">الحسابات</string>
     <string name="account_bind_devices">الأجهزة</string>

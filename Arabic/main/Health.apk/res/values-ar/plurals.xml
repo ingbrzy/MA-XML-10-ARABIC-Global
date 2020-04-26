@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d times</item>
+        <item quantity="zero">%1$d-%2$d times</item>
+        <item quantity="one">%1$d-%2$d time</item>
+        <item quantity="two">%1$d-%2$d times</item>
+        <item quantity="few">%1$d-%2$d times</item>
+        <item quantity="many">%1$d-%2$d times</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
         <item quantity="zero">Walk at least %1$d steps every day</item>
@@ -31,6 +39,30 @@
         <item quantity="two">Delete %1$d records?</item>
         <item quantity="few">Delete %1$d records?</item>
         <item quantity="many">Delete %1$d records?</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="zero">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+        <item quantity="two">%1$.1f km</item>
+        <item quantity="few">%1$.1f km</item>
+        <item quantity="many">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d تسجيل</item>
+        <item quantity="zero">%1$d تسجيل</item>
+        <item quantity="one">%1$d تسجيل</item>
+        <item quantity="two">%1$d تسجيلات</item>
+        <item quantity="few">%1$d تسجيلات</item>
+        <item quantity="many">%1$d تسجيل</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">recordings</item>
+        <item quantity="zero">recordings</item>
+        <item quantity="one">recording</item>
+        <item quantity="two">recordings</item>
+        <item quantity="few">recordings</item>
+        <item quantity="many">recordings</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">الهدف: %1$d خطوة</item>
@@ -104,6 +136,14 @@
         <item quantity="few">%1$d mins</item>
         <item quantity="many">%1$d mins</item>
     </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d mins ago</item>
+        <item quantity="zero">%1$d mins ago</item>
+        <item quantity="one">%1$d min ago</item>
+        <item quantity="two">%1$d mins ago</item>
+        <item quantity="few">%1$d mins ago</item>
+        <item quantity="many">%1$d mins ago</item>
+    </plurals>
     <plurals name="sleep_goal_by_hour">
         <item quantity="other">Goal: %1$d hours</item>
         <item quantity="zero">Goal: %1$d hours</item>
@@ -168,6 +208,62 @@
         <item quantity="few">%1$d أيام لموعد الدورة</item>
         <item quantity="many">%1$d يوم لموعد الدورة</item>
     </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minutes</item>
+        <item quantity="zero">≤%1$d minutes</item>
+        <item quantity="one">≤%1$d minute</item>
+        <item quantity="two">≤%1$d minutes</item>
+        <item quantity="few">≤%1$d minutes</item>
+        <item quantity="many">≤%1$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f hrs</item>
+        <item quantity="zero">%1$.2f hrs</item>
+        <item quantity="one">%1$.2f hr</item>
+        <item quantity="two">%1$.2f hrs</item>
+        <item quantity="few">%1$.2f hrs</item>
+        <item quantity="many">%1$.2f hrs</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d hrs</item>
+        <item quantity="zero">%d hrs</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="two">%d hrs</item>
+        <item quantity="few">%d hrs</item>
+        <item quantity="many">%d hrs</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f hours</item>
+        <item quantity="zero">%1$.1f-%2$.1f hours</item>
+        <item quantity="one">%1$.1f-%2$.1f hour</item>
+        <item quantity="two">%1$.1f-%2$.1f hours</item>
+        <item quantity="few">%1$.1f-%2$.1f hours</item>
+        <item quantity="many">%1$.1f-%2$.1f hours</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minutes</item>
+        <item quantity="zero">%1$d minutes</item>
+        <item quantity="one">%1$d minute</item>
+        <item quantity="two">%1$d minutes</item>
+        <item quantity="few">%1$d minutes</item>
+        <item quantity="many">%1$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minutes</item>
+        <item quantity="zero">%1$d-%2$d minutes</item>
+        <item quantity="one">%1$d-%2$d minute</item>
+        <item quantity="two">%1$d-%2$d minutes</item>
+        <item quantity="few">%1$d-%2$d minutes</item>
+        <item quantity="many">%1$d-%2$d minutes</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d times</item>
+        <item quantity="zero">%1$d times</item>
+        <item quantity="one">%1$d time</item>
+        <item quantity="two">%1$d times</item>
+        <item quantity="few">%1$d times</item>
+        <item quantity="many">%1$d times</item>
+    </plurals>
     <plurals name="times_format">
         <item quantity="other">%1$d مرة</item>
         <item quantity="zero">%1$d مرة</item>
@@ -215,6 +311,14 @@
         <item quantity="two">"  أيام"</item>
         <item quantity="few">"  أيام"</item>
         <item quantity="many">"  يوم"</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" times"</item>
+        <item quantity="zero">" times"</item>
+        <item quantity="one">" time"</item>
+        <item quantity="two">" times"</item>
+        <item quantity="few">" times"</item>
+        <item quantity="many">" times"</item>
     </plurals>
     <plurals name="user_age_display_format_year">
         <item quantity="other">%1$d سنة</item>

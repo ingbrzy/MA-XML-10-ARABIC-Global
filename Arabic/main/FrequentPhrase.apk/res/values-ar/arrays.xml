@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>عنوان الفاتورة: شركة ***</item>
+        <item>العنوان: الشارع، شقة، المدينة، البلد/المنطقة، المقاطعة، الرمز البريدي</item>
+        <item>من فضلك اترك البريد بجانب الباب. شكرا!</item>
+        <item>انتظر قليلا، أنا في الطريق أليك.</item>
+        <item>أنا في أجتماع. من فضلك أرسل رساله نصية.</item>
+        <item>لا يمكنني التحدث الآن. سأتصل بك في أقرب وقت ممكن.</item>
+        <item>شكرا!</item>
+    </string-array>
+</resources>

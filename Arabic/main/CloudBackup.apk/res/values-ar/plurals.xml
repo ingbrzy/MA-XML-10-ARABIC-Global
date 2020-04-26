@@ -25,20 +25,20 @@
         <item quantity="many">استعادة %d ملف</item>
     </plurals>
     <plurals name="restore_app_order_prior">
-        <item quantity="other">أولوية عالية: %d عنصر</item>
-        <item quantity="zero">أولوية عالية: %d عنصر</item>
-        <item quantity="one">أولوية عالية: %d عنصر</item>
-        <item quantity="two">أولوية عالية: %d عناصر</item>
-        <item quantity="few">أولوية عالية: %d عناصر</item>
-        <item quantity="many">أولوية عالية: %d عنصر</item>
+        <item quantity="other">أولوية عالية: %d تطبيق</item>
+        <item quantity="zero">أولوية عالية: %d تطبيق</item>
+        <item quantity="one">أولوية عالية: %d تطبيق</item>
+        <item quantity="two">أولوية عالية: %d تطبيقات</item>
+        <item quantity="few">أولوية عالية: %d تطبيقات</item>
+        <item quantity="many">أولوية عالية: %d تطبيق</item>
     </plurals>
     <plurals name="restore_app_order_normal">
-        <item quantity="other">أولوية عادية: %d عنصر</item>
-        <item quantity="zero">أولوية عادية: %d عنصر</item>
-        <item quantity="one">أولوية عادية: %d عنصر</item>
-        <item quantity="two">أولوية عادية: %d عناصر</item>
-        <item quantity="few">أولوية عادية: %d عناصر</item>
-        <item quantity="many">أولوية عادية: %d عنصر</item>
+        <item quantity="other">أولوية عادية: %d تطبيق</item>
+        <item quantity="zero">أولوية عادية: %d تطبيق</item>
+        <item quantity="one">أولوية عادية: %d تطبيق</item>
+        <item quantity="two">أولوية عادية: %d تطبيقات</item>
+        <item quantity="few">أولوية عادية: %d تطبيقات</item>
+        <item quantity="many">أولوية عادية: %d تطبيق</item>
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d تطبيق على هذا الجهاز</item>

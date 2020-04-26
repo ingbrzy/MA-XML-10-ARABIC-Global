@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="aqi_detail_title">
-        <item>جيد</item>
-        <item>معتدل</item>
-        <item>غير صحي للفئات الحساسة</item>
-        <item>غير صحي</item>
-        <item>خطير</item>
-        <item>خطير جدا</item>
+        <item>(جيد)</item>
+        <item>(معتدل)</item>
+        <item>(غير صحي للفئات الحساسة)</item>
+        <item>(غير صحي)</item>
+        <item>(خطير)</item>
+        <item>(خطير جدا)</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -25,12 +25,12 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-        <item>جودة الهواء %1$s</item>
-        <item>جودة الهواء %1$s</item>
-        <item>جودة الهواء %1$s</item>
-        <item>جودة الهواء %1$s</item>
-        <item>جودة الهواء %1$s</item>
-        <item>جودة الهواء %1$s</item>
+        <item>جودة الهواء: %1$s</item>
+        <item>جودة الهواء: %1$s</item>
+        <item>جودة الهواء: %1$s</item>
+        <item>جودة الهواء: %1$s</item>
+        <item>جودة الهواء: %1$s</item>
+        <item>جودة الهواء: %1$s</item>
     </string-array>
     <string-array name="aqi_value">
         <item>جيد</item>
@@ -153,7 +153,7 @@
     <string-array name="wind_unit_detail">
         <item>مقياس بوفورت</item>
         <item>كيلومتر في الساعة (كم/س)</item>
-        <item>أمتار في الثانية (م/ث)</item>
+        <item>متر في الثانية (م/ث)</item>
         <item>ميل في الساعة (ميل/ساعة)</item>
         <item>عقدة (kn)</item>
     </string-array>

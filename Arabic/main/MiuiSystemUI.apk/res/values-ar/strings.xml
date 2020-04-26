@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">الكاميرا</string>
     <string name="accessibility_carrier_network_change_mode">تغيير شبكة الاتصالات.</string>
     <string name="accessibility_cast_name">متصل بشبكة %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">توقف بث الشاشة.</string>
     <string name="accessibility_cell_data">بيانات الجوال</string>
     <string name="accessibility_cell_data_off">بيانات الجوال متوقفة</string>
@@ -312,6 +313,8 @@
     <string name="available_via_carrier">متوفر عبر %1$s</string>
     <string name="available_via_passpoint">متوفر عبر %1$s</string>
     <string name="back">رجوع</string>
+    <string name="band_24G">"  (نطاق ٢.٤ هرتز)"</string>
+    <string name="band_5G">"  (نطاق ٥ هرتز)"</string>
     <string name="battery">البطارية</string>
     <string name="battery_can_use_time">تبقى %s تقريباً</string>
     <string name="battery_detail_charging_summary">لا يمكن تشغيل موفر البطارية أثناء الشحن</string>
@@ -360,7 +363,7 @@
     <string name="bluetooth_connected_no_headset_battery_level">"متصل (لا يوجد هاتف)  |   شحن البطارية %1$s%2$s"</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">%1$s متصل (دون هاتف أو وسائط)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">"متصل (لا يوجد هاتف أو وسائط)  |   شحن البطارية %1$s%2$s"</string>
-    <string name="bluetooth_connected_no_map">%1$s متصل (لا يوجد وصول للرسائل)</string>
+    <string name="bluetooth_connected_no_map">%1$s متصل (دون وصول للرسائل)</string>
     <string name="bluetooth_connecting">جارٍ الاتصال…</string>
     <string name="bluetooth_disable_absolute_volume">تعطيل مستوى الصوت المطلق</string>
     <string name="bluetooth_disable_absolute_volume_summary">لإيقاف ميزة مستوى الصوت المطلق للبلوتوث في حال حدوث مشاكل متعلقة بمستوى الصوت في الأجهزة البعيدة، مثل مستوى صوت عالٍ بشكل غير مقبول أو عدم إمكانية التحكّم في الصوت.</string>
@@ -773,26 +776,6 @@
     <string name="gxzw_area">ماسح بصمة الإصبع</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">اضغط بقوه قليلاََ</string>
-    <string name="gxzw_quick_open_add_event">إضافة حدث</string>
-    <string name="gxzw_quick_open_add_event_sub">التقويم</string>
-    <string name="gxzw_quick_open_alipay_pay">رمز الدفع</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
-    <string name="gxzw_quick_open_alipay_scan">الماسح</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
-    <string name="gxzw_quick_open_qr_code">رمز QR</string>
-    <string name="gxzw_quick_open_qr_code_sub">الماسح</string>
-    <string name="gxzw_quick_open_search">البحث</string>
-    <string name="gxzw_quick_open_search_sub">المتصفح</string>
-    <string name="gxzw_quick_open_skip_teach">تخطي الدليل التوجيهي</string>
-    <string name="gxzw_quick_open_wechat_pay">رمز الدفع</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">الماسح</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
-    <string name="gxzw_quick_open_xiaoai_title1">قل اسم التطبيق الذي تريد فتحه</string>
-    <string name="gxzw_quick_open_xiaoai_title2">قل اسم الميزة الذي تريد استخدامها</string>
-    <string name="gxzw_quick_tip_press">استمر بالضغط…</string>
-    <string name="gxzw_quick_tip_slide">لا ترفع إصبعك. مرّر للتحديد.</string>
     <string name="gxzw_try_again">حاول مجددا</string>
     <string name="gxzw_try_more_again">حاول مجددا</string>
     <string name="gxzw_use_password">استخدم كلمة المرور لإلغاء القفل</string>
@@ -915,6 +898,10 @@
     <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
+    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
+    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
@@ -942,6 +929,7 @@
     <string name="keyguard_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. الرجاء إدراج بطاقة SIM.</string>
     <string name="keyguard_missing_sim_message">لا توجد بطاقة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكه مقفله</string>
     <string name="keyguard_password_enter_password_code">أدخل كلمة المرور لإلغاء القفل</string>
     <string name="keyguard_password_enter_pin_code">أدخل رمز PIN</string>
@@ -1025,6 +1013,7 @@
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">"، "</string>
     <string name="loading_injected_setting_summary">جارٍ التحميل…</string>
     <string name="local_backup_password_summary_change">انقر لتغيير كلمة مرور النسخ الاحتياطية الكاملة للشاشة الرئيسية أو إزالتها</string>
     <string name="local_backup_password_summary_none">النُسخ الاحتياطية الكاملة للشاشة الرئيسية غير محمية في الوقت الحالي</string>
@@ -1100,6 +1089,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">سيستمر تشغيل أصوات الوسائط (الموسيقى والفيديوهات وما إلى ذلك) في وضع السكون. يمكنك تغيير هذا في الإعدادات.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
     <string name="miui_ringer_count_down">العد التنازلي</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">صامت</string>
     <string name="miui_ringer_standard_description">كتم نغمات الرنين للمكالمات الواردة والإشعارات</string>
     <string name="miui_ringer_total">عدم الازعاج</string>
@@ -1127,12 +1117,14 @@ d MMMM"</string>
 
 لمزيد من المعلومات، اتصل بمسؤول النظام."</string>
     <string name="monitoring_description_ca_cert_settings">فتح الشهادات الموثوقة</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">يتم تثبيت مرجع مصدق على هذا الجهاز. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يقوم المشرف بمراقبة وإدارة الإعدادات والتطبيقات والوصول إلى موارد الشركة والبيانات المتعلقة بجهازك ومعلومات الموقع.</string>
     <string name="monitoring_description_do_body_vpn">انت متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك البريد الإلكتروني والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك من قِبل %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s تستخدم %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">معرفة المزيد</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">قامت مؤسستك بتثبيت مرجع مصدق في ملف العمل الشخصي. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">ملف العمل الشخصي متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"تتم إدارة جهازك من قِبل مؤسستك.
@@ -1164,6 +1156,7 @@ d MMMM"</string>
 
  انت أيضًا متصل بشبكة VPN، حيث يمكن مراقبة نشاط هذه الشبكة."</string>
     <string name="monitoring_description_vpn_settings">فتح إعدادات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل الشبكة</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1202,6 +1195,7 @@ d MMMM"</string>
     <string name="nav_guide_message">استخدم الإيماءات لإخفاء أو إظهار أزرار التنقل.</string>
     <string name="nav_guide_ok">إعداد</string>
     <string name="nav_guide_title">إخفاء أزرار التنقل</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا يوجد</string>
     <string name="no_multi_window_app">لا توجد تطبيقات تدعم وضع تقسيم الشاشة</string>
     <string name="no_notification_tips">لا توجد إشعارات</string>
@@ -1354,7 +1348,7 @@ d MMMM"</string>
     <string name="power_remaining_charging_duration_only">تبقى %1$s حتى يكتمل الشحن</string>
     <string name="power_remaining_duration_only">تبقى تقريباً %1$s</string>
     <string name="power_remaining_duration_only_enhanced">تبقى تقريبًا %1$s بناءً على استخدامك</string>
-    <string name="power_remaining_duration_only_short">الوقت المتبقي: %1$s</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">قد يتم إيقاف تشغيل الهاتف بعد قليل</string>
     <string name="power_remaining_duration_shutdown_imminent">قد يتم إيقاف تشغيل الهاتف بعد قليل (%1$s)</string>
     <string name="power_remaining_less_than_duration">تبقى أقل من %1$s - (%2$s)</string>
@@ -1374,6 +1368,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">اسم مضيف مزوّد نظام أسماء النطاقات الخاص</string>
     <string name="private_dns_mode_provider_failure">تعذر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">أدخل اسم مضيف مزوّد نظام أسماء النطاقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل Android</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
     <string name="prompt_danger">خطر</string>
     <string name="prompt_detecting">يتم الكشف</string>
@@ -1490,6 +1485,7 @@ d MMMM"</string>
     <string name="quick_settings_wifi_not_connected">غير متصل</string>
     <string name="quick_settings_wifi_off_label">شبكة Wi-Fi متوقفة</string>
     <string name="quick_settings_wifi_on_label">شبكة Wi-Fi مشغلة</string>
+    <string name="quick_settings_wireless_label">الشحن اللاسلكي العكسي</string>
     <string name="quick_settings_work_mode_label">وضع العمل</string>
     <string name="rapid_charge_mode_tip">شحن سريع</string>
     <string name="recent_cannot_dock">لا يمكن استخدام تقسيم الشاشة في الواجهة الثانية</string>
@@ -1575,7 +1571,9 @@ d MMMM"</string>
     <string name="screenshot_edit">تعديل</string>
     <string name="screenshot_failed_title">تعذر إلتقاط لقطة الشاشة.</string>
     <string name="screenshot_failed_to_capture_text">لا يسمح للتطبيق أو لمؤسستك بإلتقاط لقطات شاشة</string>
+    <string name="screenshot_failed_to_capture_title">التطبيق لا يسمح بأخذ لقطات شاشة</string>
     <string name="screenshot_failed_to_save_text">لا يمكن حفظ لقطة الشاشة وذلك لعدم توفر مساحة للتخزين.</string>
+    <string name="screenshot_failed_to_save_title">لا يوجد مساحة تخزين كافية للقطات شاشة جديدة</string>
     <string name="screenshot_failed_to_save_unknown_text">حدث خطأ ما أثناء حفظ لقطة الشاشة.</string>
     <string name="screenshot_feedback_txt">التعليقات</string>
     <string name="screenshot_insert_failed">تعذر تحميل لقطة الشاشة. إلتقط لقطة جديدة أو عرض الصورة في المعرض.</string>
@@ -1592,7 +1590,7 @@ d MMMM"</string>
     <string name="select_application">تحديد تطبيق</string>
     <string name="select_logd_size_dialog_title">حدد أحجام أكبر لكل ذاكرة تخزين مؤقت للتسجيل</string>
     <string name="select_logd_size_title">أحجام سجل المخزن المؤقت</string>
-    <string name="select_logpersist_dialog_title">حدد مخازن السجلات المؤقتة المراد تخزينها باستمرار على الجهاز</string>
+    <string name="select_logpersist_dialog_title">حدد سجلات التخزين المؤقت المراد تخزينها باستمرار على الجهاز</string>
     <string name="select_logpersist_title">تخزين بيانات المسجل باستمرار على الجهاز</string>
     <string name="select_private_dns_configuration_dialog_title">اختر وضع نظام أسماء النطاقات الخاص</string>
     <string name="select_private_dns_configuration_title">نظام أسماء النطاقات الخاص</string>
@@ -1961,6 +1959,7 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">سداسي عشري</string>
     <string name="wapi_yes">نعم</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطة الوصول ممتلئة مؤقتًا</string>
     <string name="wifi_auto_sel_wapi_cert">التحديد تلقائياً</string>
@@ -2024,6 +2023,15 @@ d MMM"</string>
     <string name="wireless_charge_reset_device">الشحن بطيء. أعد تثبيت جهازك.</string>
     <string name="wireless_charge_reset_device_detail">تأكد من وضع الجهاز بشكل صحيح على قاعدة الشحن</string>
     <string name="wireless_charge_stop">توقف الشحن اللاسلكي</string>
+    <string name="wireless_charging_connected_message">لا يمكن استخدام الشحن اللاسلكي العكسي عندما يكون جهازك يشحن لاسلكيًا.</string>
+    <string name="wireless_charging_low_battery_level_message">لا يمكن استخدام الشحن اللاسلكي العكسي عندما يكون شحن البطارية أقل من ٣٠%.</string>
+    <string name="wireless_charging_ok">فهمت</string>
+    <string name="wireless_charging_saver_cancel">إيقاف</string>
+    <string name="wireless_charging_saver_message">موفر البطارية قيد التشغيل. الاستمرار في تشغيل الشحن اللاسلكي العكسي؟</string>
+    <string name="wireless_charging_saver_ok">نعم</string>
+    <string name="wireless_charging_tips_disable">لا تظهر مرة اخرى</string>
+    <string name="wireless_charging_tips_message">ضع الأجهزة التي تدعم الشحن اللاسلكي Qi (الهواتف، الملحقات، إلخ) على الجزء الخلفي من هذا الجهاز.</string>
+    <string name="wireless_charging_tips_title">الشحن اللاسلكي العكسي</string>
     <string name="wrong_password">كلمة المرور غير صحيحة</string>
     <string name="zen_alarm_warning">لن تسمع المنبه القادم %1$s</string>
     <string name="zen_alarm_warning_indef">لن تسمع المنبه القادم %1$s إلا إذا اوقفت هذا قبل الموعد</string>

@@ -97,7 +97,7 @@
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">رفض ولا تسأل مجددا</string>
     <string name="location_settings">إعدادات الموقع</string>
     <string name="location_warning">%1$s هو مزود خدمات الموقع لهذا الجهاز. يمكن تعديل \"الوصول للموقع\" من إعدادات الموقع.</string>
-    <string name="never_ask_again">لا تسأل مجدداً</string>
+    <string name="never_ask_again">لا تسأل مجددا بعد التقييد</string>
     <string name="ok">موافق</string>
     <string name="permdesc_camera">أخذ صور وتسجيل فيديوهات</string>
     <string name="permdesc_in_calls">مراقبة المكالمات الواردة</string>

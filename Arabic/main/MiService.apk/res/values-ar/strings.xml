@@ -30,8 +30,12 @@
     <string name="mi_service_app_name">الخدمات والتعليقات</string>
     <string name="miservice_channel_update_notification_info">يطلب \"الخدمات والتعليقات\" البيانات عبر الإنترنت…</string>
     <string name="miservice_notification_boot_content">تعرف على المزيد حول ما يمكن MIUI القيام به</string>
+    <string name="miservice_notification_huanji_content">انقلهم بإستخدام ناقل Mi</string>
+    <string name="miservice_notification_huanji_title">هل لديك عناصر مهمة على جهازك القديم؟</string>
     <string name="miservice_notification_open_feedback_content">تم نقل ميزات تطبيق \"التعليقات\" إلى التطبيق الجديد</string>
     <string name="miservice_notification_open_feedback_title">تقديم \"الخدمات والتعليقات\"</string>
+    <string name="miservice_notification_scan_content">استخدم الماسح لترجمة الكلمات والجمل</string>
+    <string name="miservice_notification_scan_title">ترجمة فورية</string>
     <string name="miui_feedback_answer_detail_community">يمكنك العتور على إجابات لأسئلتك في مجتمع تواصل Mi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">نعم</string>
     <string name="miui_feedback_answer_detail_feedback_result">شكراً لملاحظاتك!</string>
@@ -46,6 +50,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">إذا كانت المشكلة التي تبلغ عنها مرتبطة بجودة صورة الكاميرا، أضف عينة من الصورة (بدون اقتصاص) لمساعدتنا في العثور عليها. أضافة صورة الآن؟</string>
     <string name="miui_feedback_edit_choose_module">تحديد عنصر</string>
     <string name="miui_feedback_edit_choose_module_hint">مطلوب</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">الوقت</string>
     <string name="miui_feedback_edit_choose_reproductivity">تكرار المشكلة</string>
     <string name="miui_feedback_edit_choose_third_app_name">حدد اسم التطبيق</string>
     <string name="miui_feedback_edit_contact_info_hint">رقم الهاتف/البريد الإلكتروني</string>
@@ -58,6 +63,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">تجاهل المسودة؟</string>
     <string name="miui_feedback_edit_hint">قم بالإبلاغ عن المشاكل في كل مرة تواجهك لمساعدتنا في حلها بشكل أسرع</string>
     <string name="miui_feedback_edit_hint_gone">رسالة مغلقة</string>
+    <string name="miui_feedback_edit_hint_optional">حدد</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">انتظر شبكة Wi-Fi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">رفع</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">يبدو أنك متصل بشبكة مدفوعة. قد يؤدي تحميل السجلات إلى فرض رسوم إضافية.</string>
@@ -92,6 +98,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">لا تظهر مرة اخرى</string>
     <string name="miui_feedback_edit_submit_dialog_title">ارسال تقرير</string>
     <string name="miui_feedback_edit_submit_directly">إرسال</string>
+    <string name="miui_feedback_edit_title_occurrence_time">حدد الوقت</string>
     <string name="miui_feedback_edit_title_reproductivity">حدد مرات تكرار المشكلة</string>
     <string name="miui_feedback_edit_toast_description_required">تحتاج إلى كتابة وصف</string>
     <string name="miui_feedback_edit_toast_module_required">تحديد عنصر</string>

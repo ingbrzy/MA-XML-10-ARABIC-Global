@@ -202,7 +202,7 @@
     <string name="usage_state_friday">الجمعة</string>
     <string name="usage_state_go_more">المزيد من التطبيقات</string>
     <string name="usage_state_hour_minute">%1$dس و %2$dدق</string>
-    <string name="usage_state_less_one_minute">&lt; 1 minute</string>
+    <string name="usage_state_less_one_minute">&lt; ١ دقيقة</string>
     <string name="usage_state_monday">الإثنين</string>
     <string name="usage_state_mourth_day">مدة استخدام الجهاز في %s</string>
     <string name="usage_state_noti_mourth_day">الإشعارات في %s</string>

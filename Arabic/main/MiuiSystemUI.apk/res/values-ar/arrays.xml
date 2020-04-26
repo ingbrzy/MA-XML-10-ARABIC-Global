@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -93,6 +111,9 @@
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
         <item>صوت Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
@@ -105,6 +126,9 @@
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
         <item>صوت Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>تمكين برامج الترميز الإختيارية</item>
         <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
@@ -130,8 +154,8 @@
         <item>معطل</item>
         <item>التصفية مفعلة</item>
         <item>مفعل</item>
-        <item>تصفية التسمية مفعلة</item>
-        <item>تصفية حزم الوسائط مفعلة</item>
+        <item>\"تصفية التسمية\" مفعلة</item>
+        <item>\"تصفية حزم الوسائط\" مفعلة</item>
     </string-array>
     <string-array name="clock_options">
         <item>عرض الساعة والدقائق والثواني</item>
@@ -213,11 +237,11 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>متوقف</item>
-        <item>٦٤ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>٢٥٦ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>١ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>٤ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
-        <item>١٦ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٦٤ كيلوبايت لكل سجل تخزين مؤقت</item>
+        <item>٢٥٦ كيلوبايت لكل سجل تخزين مؤقت</item>
+        <item>١ ميغابايت لكل سجل تخزين مؤقت</item>
+        <item>٤ ميغابايت لكل سجل تخزين مؤقت</item>
+        <item>١٦ ميغابايت لكل سجل تخزين مؤقت</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>متوقف</item>
@@ -230,13 +254,13 @@
     <string-array name="select_logpersist_summaries">
         <item>متوقف</item>
         <item>كل المخازن المؤقتة للسجلات</item>
-        <item>كل المخازن المؤقتة باستثناء مخازن سجلات اللاسلكي</item>
+        <item>كل شئ عدا سجلات التخزين المؤقت للراديو</item>
         <item>‏التخزين المؤقت لسجل kernel فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>متوقف</item>
         <item>الكل</item>
-        <item>الكل دون اللاسلكي</item>
+        <item>الكل دون راديو</item>
         <item>‏kernel فقط</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">

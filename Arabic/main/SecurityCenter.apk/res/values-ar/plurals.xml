@@ -56,6 +56,14 @@
         <item quantity="few">استخدم منذ %d سنوات</item>
         <item quantity="many">استخدم منذ %d سنة</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">يمكنك حماية مايصل إلى %s تطبيق</item>
+        <item quantity="zero">يمكنك حماية مايصل إلى %s تطبيق</item>
+        <item quantity="one">يمكنك حماية مايصل إلى %s تطبيق</item>
+        <item quantity="two">يمكنك حماية مايصل إلى %s تطبيقات</item>
+        <item quantity="few">يمكنك حماية مايصل إلى %s تطبيقات</item>
+        <item quantity="many">يمكنك حماية مايصل إلى %s تطبيق</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">يمكن %d تطبيق الاتصال بالشبكة في الخلفية</item>
         <item quantity="zero">يمكن %d تطبيق الاتصال بالشبكة في الخلفية</item>
@@ -203,6 +211,14 @@
         <item quantity="two">يلعب %1$d أشخاص</item>
         <item quantity="few">يلعب %1$d شخص</item>
         <item quantity="many">يلعب %1$d أشخاص</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d ثانية</item>
+        <item quantity="zero">%d ثانية</item>
+        <item quantity="one">%d ثانية</item>
+        <item quantity="two">%d ثواني</item>
+        <item quantity="few">%d ثواني</item>
+        <item quantity="many">%d ثانية</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">تم تسجيل الدخول %d يوم متتالي</item>
@@ -915,6 +931,14 @@
         <item quantity="two">لم تتم إضافة %d ألعاب</item>
         <item quantity="few">لم تتم إضافة %d ألعاب</item>
         <item quantity="many">لم تتم إضافة %d لعبة</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d تطبيق</item>
+        <item quantity="zero">%d تطبيق</item>
+        <item quantity="one">%d تطبيق</item>
+        <item quantity="two">%d تطبيقات</item>
+        <item quantity="few">%d تطبيقات</item>
+        <item quantity="many">%d تطبيق</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d مشاهدة</item>

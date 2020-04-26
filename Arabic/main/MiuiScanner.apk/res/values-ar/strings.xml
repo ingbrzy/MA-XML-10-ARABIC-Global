@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">لالتقاط الصور وتسجيل الفيديو</string>
     <string name="agree_storage_permission">للوصول إلى الصور والملفات المخزنة على جهازك</string>
     <string name="always">دائمًا</string>
-    <string name="amazon_assistant_shopping_title">البحث في Amazon</string>
     <string name="app_description_content">يمكنك الماسح الضوئي بمسح رموز QR، بطاقات العمل، والوثائق والمزيد. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل حذف التطبيق.</string>
     <string name="app_description_title">حول الماسح</string>
     <string name="app_details">التطبيق:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">تحديد تطبيق</string>
     <string name="choose_pay_title">تحديد طريقه الدفع</string>
     <string name="choose_picture">تحديد صورة رمز QR</string>
+    <string name="choosed_title">محدد</string>
     <string name="classesNameNull_toast">لا يمكن ترك اسم المادة فارغًا</string>
     <string name="classes_canfirmTitle">تأكيد النتائج وبدء الاستيراد</string>
     <string name="classes_company">استيراد</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">نسخ النص</string>
     <string name="copy_text_success">تم نسخ النص</string>
     <string name="copy_tracknum">نسخ رمز التتبع</string>
+    <string name="create">إنشاء رمز QR</string>
+    <string name="createFail">تعذر إنشاء رمز QR. رسالتك طويلة جدًا.</string>
+    <string name="createQRCode_hint">أدخل نص</string>
+    <string name="createQRCode_save">حفظ</string>
+    <string name="create_again">تحديث</string>
     <string name="crop_cancel_description">إلغاء</string>
     <string name="crop_done_description">تم</string>
     <string name="crop_title_study">قص الصورة</string>
     <string name="crop_title_translation">حدد نص للترجمة</string>
+    <string name="delete">حذف</string>
     <string name="document_color_picture">ملون</string>
     <string name="document_color_picture_tip">جارٍ التحويل إلى ملون…</string>
     <string name="document_crop_title">قص المستند</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">السعرات الحرارية</string>
     <string name="got_it">فهمت</string>
     <string name="gps">الملاحة</string>
+    <string name="history">السجل</string>
+    <string name="importFailed">تعذر الاستيراد</string>
     <string name="import_contact">استيراد جهة اتصال</string>
     <string name="impunity_declaration_content">يحتاج الماسح إلى الوصول إلى الكاميرا لمعالجة الصور التي تم إنشاؤها باستخدام التطبيق. لا تستخدم الماسح لالتقاط صور تحتوي على بياناتك الشخصية. بالنقر على \"أوافق\" ، فإنك تقبل &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"> سياسة الخصوصية &lt;/a>&lt;/font> لدينا، وتسمح للماسح بالاتصال بالإنترنت.</string>
     <string name="impunity_declaration_negative_text">خروج</string>
@@ -228,6 +236,11 @@
     <string name="recognize">مسح</string>
     <string name="recognize_fail">تعذر قراءة الرمز</string>
     <string name="request_server_failed">تعذر الاتصال بالخادم</string>
+    <string name="saveDone">تم الحفظ بنجاح</string>
+    <string name="scanHistory">سجل الماسح</string>
+    <string name="scanHistory_close">إيقاف</string>
+    <string name="scanHistory_isOpen">بدء تتبع سجل المسح الآن؟</string>
+    <string name="scanHistory_open">تشغيل</string>
     <string name="scan_result">النتيجة</string>
     <string name="scan_support_type">WeChat، Alipay، رموز QR، رموز شريطية</string>
     <string name="sdk_not_ready">يتم تجهيز حزمة SDK. أعد المحاولة لاحقا.</string>

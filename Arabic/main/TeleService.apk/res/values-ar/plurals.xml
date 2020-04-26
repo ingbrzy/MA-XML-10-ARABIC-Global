@@ -17,12 +17,12 @@
         <item quantity="many">الإجراء المحدد لا يتوفر أثناء التواجد في وضع الرد على مكالمة الطوارئ. وسيكون الهاتف في هذا الوضع لمدة %s دقيقة. فهل ترغب في الخروج الآن؟</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">تأخير: %s ثانية</item>
-        <item quantity="zero">تأخير: %s ثانية</item>
-        <item quantity="one">تأخير: %s ثانية</item>
-        <item quantity="two">تأخير: %s ثواني</item>
-        <item quantity="few">تأخير: %s ثواني</item>
-        <item quantity="many">تأخير: %s ثانية</item>
+        <item quantity="other">تأخير: %d ثانية</item>
+        <item quantity="zero">تأخير: %d ثانية</item>
+        <item quantity="one">تأخير: %d ثانية</item>
+        <item quantity="two">تأخير: %d ثواني</item>
+        <item quantity="few">تأخير: %d ثواني</item>
+        <item quantity="many">تأخير: %d ثانية</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">يمكنك إضافة ما يصل إلى %s شخص، قم بالتحديد مجددا.</item>

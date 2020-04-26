@@ -22,12 +22,13 @@
     <string name="find_device_error_access_denied">تم رفض الدخول.</string>
     <string name="find_device_error_account_sys_timeout">"تعذر الاتصال بحساب Mi. "</string>
     <string name="find_device_error_account_unknown_error">خطأ في حساب Mi (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">خطأ في الشبكة.</string>
     <string name="find_device_error_password_changed">كلمة المروور تم تغييرها مؤخراً.</string>
     <string name="find_device_error_server">خطأ في الخادم (%s).</string>
     <string name="find_device_error_unknown">خطأ غير معروف (%s).</string>
     <string name="find_device_noise_title">منبه العثور على الجهاز</string>
-    <string name="find_device_notice">انتقل إلى &lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />للعثور على جهازك أو قفله أو استعادته.</string>
+    <string name="find_device_notice">انتقل إلى &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b>للعثور على جهازك أو قفله أو استعادته.</string>
     <string name="find_device_notice_sms_alert">إذا قمت بتبديل بطاقات SIM، فسيتم إرسال رسالة SMS أخرى تلقائياً لتفعيل هذة الميزة.</string>
     <string name="find_device_stop_noise">انقر موافق لكتم الصوت</string>
     <string name="find_device_storage_corrupted">تخزين \"العثور على الجهاز\" متلف. جهازك غير آمن الآن.</string>

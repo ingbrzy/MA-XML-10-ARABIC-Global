@@ -58,6 +58,7 @@
     <string name="additional_gsm_call_settings_with_label">الإعدادات الإضافية (%s)</string>
     <string name="administrative_disable">الإدارية لا تعمل</string>
     <string name="administrative_enable">الإدارية تعمل</string>
+    <string name="advanced_mobile_settings">الإعدادات المتقدمة</string>
     <string name="advanced_options_title">متقدم</string>
     <string name="advanced_settings">إعدادات اختيارية</string>
     <string name="advanced_settings_hide">▽ المس لإخفاء الكل</string>
@@ -98,9 +99,9 @@
     <string name="audio_mode_wired_headset">سماعات الرأس السلكية</string>
     <string name="auth_username_summary">اسم المستخدم المُستخدم للمصادقة</string>
     <string name="auth_username_title">اسم مستخدم المصادقة</string>
-    <string name="auto_answer_delay_entries_delay_10s">١٠ ثواني</string>
-    <string name="auto_answer_delay_entries_delay_3s">٣ ثواني</string>
-    <string name="auto_answer_delay_entries_delay_5s">٥ ثواني</string>
+    <string name="auto_answer_delay_entries_delay_10s">%d ثواني</string>
+    <string name="auto_answer_delay_entries_delay_3s">%d ثواني</string>
+    <string name="auto_answer_delay_entries_delay_5s">%d ثواني</string>
     <string name="auto_answer_delay_entries_immediately">بدون تأخير</string>
     <string name="auto_answer_delay_title">تأخير الرد التلقائي</string>
     <string name="auto_answer_pref_summary">الرد تلقائياً على المكالمات الواردة</string>
@@ -117,7 +118,23 @@
     <string name="auto_redial_pref_title">معاودة الاتصال تلقائياً</string>
     <string name="auto_retry_mode_summary">تشغيل وضع \"إعادة المحاولة تلقائيًا\"</string>
     <string name="auto_retry_mode_title">إعادة المحاولة تلقائيًا</string>
+    <string name="autoip">طلب IP تلقائي</string>
+    <string name="autoip_add_zero_prefix">إضافة بادئة ٠ للهاتف الجوال</string>
+    <string name="autoip_areacode_required">رمز المنطقة مطلوب</string>
+    <string name="autoip_areacode_required_accept">موافق</string>
     <string name="autoip_areacode_required_for_emergency_number">رمز المنطقة المحلي مطلوب لمكالمات الطوارئ</string>
+    <string name="autoip_autoip_current_areacode_summary">رمز المنطقة الحالي هو %s</string>
+    <string name="autoip_current_areacode">رمز المنطقة الحالية</string>
+    <string name="autoip_current_areacode_summary">رمز المنطقة للموقع الحالي</string>
+    <string name="autoip_exception">الأرقام التي لا تحتاج إلى بادئة IP</string>
+    <string name="autoip_exception_summary">الإجمالي: %d</string>
+    <string name="autoip_exception_summary_more">، الإجمالي %d</string>
+    <string name="autoip_no_exceptions">إضافة أرقام لا تتطلب بادئة IP</string>
+    <string name="autoip_prefix">بادئة IP</string>
+    <string name="autoip_prefix_summary">بادئة IP شركة الاتصالات هي %s</string>
+    <string name="autoip_setting">إعدادات IP التلقائية</string>
+    <string name="autoip_summary">إضافة بادئة IP للأرقام الدولية</string>
+    <string name="autoip_support_local_numbers">استخدام بادئة IP دائمًا</string>
     <string name="available_via_carrier">‏متوفرة عبر %1$s</string>
     <string name="available_via_passpoint">‏متوفرة عبر %1$s</string>
     <string name="back">رجوع</string>
@@ -391,13 +408,13 @@
     <string name="cfb_title">إعادة التوجيه عندما يكون مشغولا</string>
     <string name="cfnrc_title">إعادة التوجيه عندما يكون غير متاح</string>
     <string name="cfnrc_title_cta">إعادة التوجيه عندما يكون غير متاح</string>
-    <string name="cfnry_time_fifteen_sec">١٥ ثانية</string>
-    <string name="cfnry_time_five_sec">٥ ثواني</string>
+    <string name="cfnry_time_fifteen_sec">%d ثانية</string>
+    <string name="cfnry_time_five_sec">%d ثواني</string>
     <string name="cfnry_time_setting_title">تعيين وقت الإنتظار</string>
-    <string name="cfnry_time_ten_sec">١٠ ثواني</string>
-    <string name="cfnry_time_thirty_sec">٣٠ ثانية</string>
-    <string name="cfnry_time_twenty_five_sec">٢٥ ثانية</string>
-    <string name="cfnry_time_twenty_sec">٢٠ ثانية</string>
+    <string name="cfnry_time_ten_sec">%d ثواني</string>
+    <string name="cfnry_time_thirty_sec">%d ثانية</string>
+    <string name="cfnry_time_twenty_five_sec">%d ثانية</string>
+    <string name="cfnry_time_twenty_sec">%d ثانية</string>
     <string name="cfnry_title">إعادة التوجيه عند عدم الرد</string>
     <string name="cfu_title">إعادة توجيه المكالمات دائمًا</string>
     <string name="change_data_preference_4g_only_prompt">يبدو أن لديك بطاقة SIM تدعم 4G فقط. للتأكد من أنها تعمل بشكل طبيعي، قم بتعيينها كبطاقة أفتراضية لبيانات الجوال. التعيين الآن؟</string>
@@ -421,7 +438,7 @@
     <string name="change_pin_system_error">لا يمكن تعيين PIN</string>
     <string name="change_pin_title">تغيير رمز PIN البريد الصوتي</string>
     <string name="charge_length_format">قبل %1$s</string>
-    <string name="china_mobile_palm_category">Carrier services</string>
+    <string name="china_mobile_palm_category">خدمات شركة الاتصالات</string>
     <string name="china_mobile_palm_title">CMCC Online Service Hall</string>
     <string name="choose_network_title">اختيار شبكة</string>
     <string name="choose_profile">اختيار ملف شخصي</string>
@@ -609,16 +626,16 @@
     <string name="dialog_cancel">إلغاء</string>
     <string name="dialog_network_priority_title">شبكة ذات أولوية</string>
     <string name="dialog_report">إبلاغ</string>
-    <string name="dialpad_eight">٨</string>
-    <string name="dialpad_five">٥</string>
-    <string name="dialpad_four">٤</string>
-    <string name="dialpad_nine">۹</string>
-    <string name="dialpad_one">١</string>
-    <string name="dialpad_seven">٧</string>
-    <string name="dialpad_six">٦</string>
-    <string name="dialpad_three">۳</string>
-    <string name="dialpad_two">٢</string>
-    <string name="dialpad_zero">٠</string>
+    <string name="dialpad_eight">%d</string>
+    <string name="dialpad_five">%d</string>
+    <string name="dialpad_four">%d</string>
+    <string name="dialpad_nine">%d</string>
+    <string name="dialpad_one">%d</string>
+    <string name="dialpad_seven">%d</string>
+    <string name="dialpad_six">%d</string>
+    <string name="dialpad_three">%d</string>
+    <string name="dialpad_two">%d</string>
+    <string name="dialpad_zero">%d</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة: بعد إعادة التشغيل، يتعذر بدء هذا التطبيق إلى أن تلغي قفل هاتفك.</string>
     <string name="disable">إيقاف التشغيل</string>
     <string name="disable_all_cf">إيقاف تشغيل كل ميزات إعادة توجيه المكالمة</string>
@@ -715,7 +732,7 @@
     <string name="enhanced_4g_lte_mode_summary">استخدم خدمات LTE لتحسين الصوت و ادوات الإتصال الاخرى (ينصح به)</string>
     <string name="enhanced_4g_lte_mode_summary_o2">‏استخدام خدمات 4G لتحسين الصوت والاتصالات الأخرى (مُستحسَن)</string>
     <string name="enhanced_4g_lte_mode_title">وضع 4G LTE المحسَّن</string>
-    <string name="enter_callbarring_password">أدخل كلمة مرور حظر المكالمات (٤ أرقام)</string>
+    <string name="enter_callbarring_password">أدخل كلمة مرور حظر المكالمات (%d أرقام)</string>
     <string name="enter_input" formatted="false">رسالة USSD يجب ان تكون بين %d و%d احرف. الرجاء المحاولة مرة اخرى.</string>
     <string name="enter_pin2_text">رمز PIN2</string>
     <string name="enter_pin_text">رمز PIN بطاقة SIM:</string>
@@ -746,6 +763,10 @@
     <string name="fdn_summary">تقييد المكالمات الصادرة على FDNs المدرجة أو على أرقام ذات ببادئات محددة</string>
     <string name="fdn_with_label">أرقام الطلب الثابتة (%s)</string>
     <string name="fire_type_description">حريق</string>
+    <string name="fiveg_sa_switch_open_dialog_content">قد يكون اتصال 5G غير مستقر في الوضع المستقل، مما قد يؤثر على خدمات الاتصال الهاتفي. تشغيله على أي حال؟</string>
+    <string name="fiveg_sa_switch_open_dialog_title">تنبيه</string>
+    <string name="fiveg_sa_switch_summary">السماح بالاتصال بشبكات 5G في الوضع المستقل</string>
+    <string name="fiveg_sa_switch_title">الوضع المستقل</string>
     <string name="fiveg_switch_title">شبكه 5G</string>
     <string name="flash_when_ring_summary">استخدم ضوء الفلاش للإشعار عن المكالمات الواردة</string>
     <string name="flash_when_ring_title">وميض ضوئي عند الرنين</string>
@@ -801,6 +822,7 @@
     <string name="incall_error_no_phone_number_supplied">لأجراء مكالمة، أدخل رقم صحيح.</string>
     <string name="incall_error_out_of_service">شبكة الجوال غير متاحة.</string>
     <string name="incall_error_out_of_service_wfc">شبكة الجوال غير متاحة. اتصل بشبكة لاسلكية لإجراء مكالمة.</string>
+    <string name="incall_error_outgoing_call_failed">تعذر إجراء المكالمة</string>
     <string name="incall_error_power_off">قم بإيقاف تشغيل وضع الطيران لإجراء مكالمة.</string>
     <string name="incall_error_power_off_wfc">قم بإيقاف تشغيل وضع الطيران أو قم بالإتصال بشكبة لاسلكية لإجراء اتصال.</string>
     <string name="incall_error_promote_wfc">‏تشغيل اتصال Wi-Fi لإجراء مكالمة.</string>
@@ -823,11 +845,11 @@
     <string name="invalidPin">أدخل رمز PIN مكون من ٤ إلى ٨ أرقام.</string>
     <string name="invalidPin2">أدخل رمز PIN2 مكون من ٤ إلى ٨ أرقام.</string>
     <string name="invalidPuk2">أدخل رمز PUK2 مكون من ٨ أرقام.</string>
-    <string name="invalid_password">أدخل كلمة مرور طولها ٤ أرقام</string>
-    <string name="invalid_pin">أدخل رمز PIN مكون من ٤ إلى ٨ أرقام.</string>
-    <string name="invalid_pin2">أدخل رمز PIN2 مكون من ٤ إلى ٨ أرقام.</string>
-    <string name="invalid_puk">أدخل رمز PUK مكون من ٤ إلى ٨ أرقام.</string>
-    <string name="invalid_puk2">أدخل رمز PUK2 مكون من ٨ أرقام.</string>
+    <string name="invalid_password">أدخل كلمة مرور مكونة من %d أرقام</string>
+    <string name="invalid_pin">أدخل رمز PIN مكون من %1$d إلى %2$d أرقام.</string>
+    <string name="invalid_pin2">أدخل رمز PIN2 مكون من %1$d إلى %2$d أرقام.</string>
+    <string name="invalid_puk">أدخل رمز PUK مكون من %1$d إلى %2$d أرقام.</string>
+    <string name="invalid_puk2">أدخل رمز PUK2 مكون من %d أرقام.</string>
     <string name="ivr_mo_area_code_settings">رمز المنطقة الحالي</string>
     <string name="ivr_mo_area_code_settings_hint">أدخل رقم المنطقة الحالي</string>
     <string name="ivr_parameter_settings">إعدادات معايير IVR</string>
@@ -875,6 +897,8 @@
     <string name="lable_network_not_supported">الشبكة غير مدعومة</string>
     <string name="lafs_disable">جداول رحلات المطار المحلي متوقف</string>
     <string name="lafs_enable">جداول رحلات المطار المحلي مشغل</string>
+    <string name="last_sim_callback_summary">عند إجراء مكالمات من سجل المكالمات، استخدم بطاقة SIM التي تم استخدامها أثناء المكالمة السابقة مع جهة الاتصال هذه</string>
+    <string name="last_sim_callback_title">تذكر تفضيلات بطاقة SIM</string>
     <string name="launch_defaults_none">لم يتم تعيين إعدادات تلقائية</string>
     <string name="launch_defaults_some">تم تعيين بعض الإعدادات التلقائية</string>
     <string name="list_language_dtitle">اللغات</string>
@@ -895,6 +919,7 @@
     <string name="location">المنطقة</string>
     <string name="lodgings_disable">أماكن الإقامة لا تعمل</string>
     <string name="lodgings_enable">أماكن الإقامة تعمل</string>
+    <string name="main_netcheck_summary">اختبار الاتصال لمشاكل الشبكة</string>
     <string name="maintenance_disable">الصيانة لا تعمل</string>
     <string name="maintenance_enable">الصيانة تعمل</string>
     <string name="make_and_receive_calls">إجراء المكالمات وتلقيها</string>
@@ -923,19 +948,22 @@
     <string name="mismatch_password">كلمات المرور التي أدخلتها غير متطابقة</string>
     <string name="mismatch_pin">رموز PIN غير متطابقة.</string>
     <string name="mismatch_pin2">رموز PIN2 غير متطابقة. حاول مرة أخرى.</string>
-    <string name="missed_call_notify_five_times">٥ مرات</string>
+    <string name="missed_call_notify_five_times">%d مرات</string>
     <string name="missed_call_notify_none">بدون تذكير</string>
-    <string name="missed_call_notify_once">١ مرة</string>
-    <string name="missed_call_notify_ten_times">١٠ مرات</string>
-    <string name="missed_call_notify_thrice">٣ مرات</string>
-    <string name="missed_call_notify_times_summary">عدد رسائل التذكير بفاصل زمني قدره ٥ دقائق</string>
+    <string name="missed_call_notify_once">%d مرة</string>
+    <string name="missed_call_notify_ten_times">%d مرات</string>
+    <string name="missed_call_notify_thrice">%d مرات</string>
+    <string name="missed_call_notify_times_summary">يتم فصل التذكيرات بفواصل زمنية مدتها %d دقائق</string>
     <string name="missed_call_notify_times_title">رسائل التذكير بالمكالمة الفائتة</string>
-    <string name="missed_call_notify_twice">٢ مرات</string>
+    <string name="missed_call_notify_twice">%d مرات</string>
     <string name="miui_network_selection_reset_text">إعادة تعيين</string>
     <string name="miui_notification_network_selection_title">SIM: لا توجد خدمة</string>
     <string name="miui_notification_network_selection_title_by_sim">SIM %s: لا توجد خدمة</string>
     <string name="mmiCancelled">تم إلغاء رمز MMi</string>
     <string name="mmiStarted">تم تشغيل رمز MMI</string>
+    <string name="mobile_advanced_dns_server_title">عنوان خادم DNS</string>
+    <string name="mobile_advanced_ip_address_title">عنوان Ip</string>
+    <string name="mobile_connection_management">إدارة اتصال شبكات الجوال</string>
     <string name="mobile_data_activate_button">إضافة البيانات</string>
     <string name="mobile_data_activate_cancel_button">إلغاء</string>
     <string name="mobile_data_activate_diag_message">قد تحتاج إلى إضافة البيانات عبر %s</string>
@@ -956,6 +984,7 @@
     <string name="mobile_data_status_roaming_without_plan_subtext">يتم التجوال الآن، تحتاج إلى خطة البيانات</string>
     <string name="mobile_network_settings_not_available">اعدادات شبكة الهاتف الجوال غير متوفرة لهذا المستخدم</string>
     <string name="mobile_networks">إعدادات شبكة الجوال</string>
+    <string name="mobile_property">خصائض شبكات الجوال</string>
     <string name="mock_location_app">اختيار تطبيق الموقع الزائف</string>
     <string name="mock_location_app_not_set">لم يتم تعيين تطبيق موقع زائف</string>
     <string name="mock_location_app_set">تطبيق الموقع الزائف: %1$s</string>
@@ -1022,6 +1051,7 @@
     <string name="name">الاسم</string>
     <string name="national_disable">الأخبار الوطنية متوقفة</string>
     <string name="national_enable">الأخبار الوطنية مشغلة</string>
+    <string name="netcheck_title">تشخيص شبكات الجوال</string>
     <string name="network_4G">4G (موصى به)</string>
     <string name="network_connected">متصل</string>
     <string name="network_connecting">جارٍ الاتصال…</string>
@@ -1057,7 +1087,7 @@
     <string name="networks_title">شبكات الجوال</string>
     <string name="newPin2Label">PIN2 جديد</string>
     <string name="newPinLabel">رمز PIN الجديد</string>
-    <string name="new_password_label">كلمة المرور الجديدة المكونة من ٤ أرقام</string>
+    <string name="new_password_label">كلمة المرور الجديدة مكونة من %d أرقام</string>
     <string name="new_pin2_label">PIN2 جديد</string>
     <string name="new_pin_label">رمز PIN الجديد</string>
     <string name="no_application">لا شيء</string>
@@ -1072,7 +1102,7 @@
     <string name="not_allowed">بطاقة SIM الخاصة بك لا تسمح بالاتصال بهذه الشبكة.</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="not_voice_capable">المكالمات الصوتية غير مدعومة</string>
-    <string name="notification_network_selection_text">الشبكة المختارة (%s) غير متاحة</string>
+    <string name="notification_network_selection_text">شبكة %s المختارة غير متاحة</string>
     <string name="notification_network_selection_title">لا توجد خدمة</string>
     <string name="notification_voicemail_no_vm_number">رقم البريد الصوتي غير معروف</string>
     <string name="notification_voicemail_text_format">طلب %s</string>
@@ -1086,7 +1116,7 @@
     <string name="okay">موافق</string>
     <string name="oldPin2Label">رمز PIN2 قديم</string>
     <string name="oldPinLabel">رمز PIN القديم</string>
-    <string name="old_password_label">كلمة المرور الحالية المكونة من ٤ أرقام</string>
+    <string name="old_password_label">كلمة المرور الحالية مكونة من %d أرقام</string>
     <string name="old_pin2_label">رمز PIN2</string>
     <string name="old_pin_label">رمز PIN القديم</string>
     <string name="onHold">معلقة</string>
@@ -1308,7 +1338,6 @@
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">WCDMA فقط</string>
     <string name="preferred_network_type_title">نوع الشبكة المفضل</string>
     <string name="preferred_phone_account">حساب الاتصال المفضل</string>
-    <string name="preferred_wificall_roaming_title">تفضيلات التجوال</string>
     <string name="preferred_wificall_title">تفضيلات الشبكة</string>
     <string name="privacy_policy_title">سياسة الخصوصية</string>
     <string name="private_dns_mode_off">غير مفعّل</string>
@@ -1317,6 +1346,7 @@
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">يُرجى إدخال اسم مضيف \"مزوّد نظام أسماء النطاقات\"</string>
     <string name="private_num">رقم خاص</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="progress_dialog_exiting_ecm">الخروج من وضع معاودة الاتصال بالطوارئ</string>
     <string name="prompt_to_turnoff_volte_when_failed">خدمات VoLTE غير متوفرة حاليا. قم بإيقاف تشغيل VoLTE لإجراء مكالمة.</string>
     <string name="prompt_to_turnoff_volte_when_supp_service">الخدمة غير متاحة. قم بإيقاف VoLTE في الإعدادات.</string>
@@ -1409,10 +1439,41 @@
     <string name="screen_zoom_summary_large">كبير</string>
     <string name="screen_zoom_summary_small">صغير</string>
     <string name="screen_zoom_summary_very_large">أكبر</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">قائمة الحظر</string>
     <string name="search_app_name">الهاتف;تسجيل المكالمة;إعادة توجيه المكالمات;إعادة توجيه;إنتظار المكالمة;قائمة الحظر;رمز البلد;رمز المنطقة;رموز البلدان;رموز المنطقة;تسجيل المكالمات;تسجيل المكالمة;لوحة الاتصال;مكالمة;مكالمات;الهاتفية;VoIP;VoLTE;مكالمة فائتة;المكالمات الفائتة;SIP;T9;IP هاتفي;FDN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
     <string name="search_menu">البحث في الإعدادات</string>
     <string name="search_menu_title">البحث</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_sip_settings">@string/sip_settings</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="selectContact">تحديد جهة اتصال</string>
     <string name="select_application">تحديد تطبيق</string>
     <string name="select_automatically">تحديد الشبكة تلقائياً</string>
@@ -1502,6 +1563,7 @@
     <string name="smart_divert_title">التحويل الذكي</string>
     <string name="smart_forwarding_settings_menu">إعادة توجيه ذكية</string>
     <string name="smart_forwarding_settings_menu_summary">عندما يتعذر الوصول إلى أحد الأرقام، تتم إعادة توجيه المكالمات دومًا إلى رقمك الآخر</string>
+    <string name="sms_messages_title">رسالة قصيرة</string>
     <string name="smsc_dialog_message">تأكد من أن الرقم الذي أدخلته صحيح. وإلا فلن تتمكن من أرسال أو استلام الرسائل القصيرة. اتصل بشركة الاتصالات الخاصة بك لتأكيد رقم SMSC.</string>
     <string name="speed_label_fast">سريعة</string>
     <string name="speed_label_medium">متوسطة</string>
@@ -1638,6 +1700,7 @@
     <string name="time_end_minute">الدقيقة الاخيرة</string>
     <string name="time_formate_am">صباحا</string>
     <string name="time_formate_pm">مساء</string>
+    <string name="time_interval_char">:</string>
     <string name="time_next_day">" اليوم التالي "</string>
     <string name="time_start">" من "</string>
     <string name="time_start_hour">ساعة وقت البداية</string>
@@ -1680,6 +1743,7 @@
     <string name="tty_mode_entries_hco">TTY HCO</string>
     <string name="tty_mode_entries_off">إيقاف تشغيل TTY</string>
     <string name="tty_mode_entries_vco">TTY VCO</string>
+    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">لا يمكن تغيير وضع TTY أثناء إجراء مكالمة فيديو</string>
     <string name="tty_mode_option_summary">تعيين وضع TTY</string>
     <string name="tty_mode_option_title">وضع TTY</string>
@@ -1746,6 +1810,7 @@
     <string name="voicemail">البريد الصوتي</string>
     <string name="voicemail_abbreviated">البريد الصوتي:</string>
     <string name="voicemail_change_pin_dialog_title">تغيير PIN</string>
+    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">شركة الاتصالات الخاصة بك</string>
     <string name="voicemail_notification_vibrate_when_title">الاهتزاز</string>
     <string name="voicemail_notifications_preference_title">الإشعارات</string>
@@ -1758,6 +1823,7 @@
     <string name="voicemail_settings_number_label">رقم البريد الصوتي</string>
     <string name="voicemail_settings_number_title">رقم البريد الصوتي</string>
     <string name="voicemail_settings_with_label">البريد الصوتي (%s)</string>
+    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">البريد الصوتي المرئي</string>
     <string name="voip_setting">إعدادات VoIP</string>
     <string name="volte_provision_notification_activate">تفعيل</string>
@@ -1770,7 +1836,6 @@
     <string name="volte_switch_title">استخدام VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">يتم توفير خدمات الاتصالات الصينية (VoLTE) في مناطق ذات تغطية VoLTE فقط. يتم توفير خدمات VoLTE من قبل المشغل.</string>
-    <string name="vowifi_emergency_notification_channel">WiFi Calling emergency warning</string>
     <string name="vowifi_emergency_notification_content">تتوفر مكالمات الطوارئ في المناطق ذات تغطية للشبكة الخلوية فقط</string>
     <string name="vowifi_emergency_notification_title">مكالمة WiFi ڤودافون</string>
     <string name="vowifi_emergency_warning_check">لا تظهر مرة اخرى.</string>
@@ -1790,16 +1855,30 @@
     <string name="wfcmode_wifi_only">شبكة Wi-Fi فقط</string>
     <string name="wfcmode_wifi_preferred">تفضيل شبكة Wi-Fi</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطة الدخول ممتلئة مؤقتًا</string>
-    <string name="wifi_call_accept">موافق</string>
+    <string name="wifi_call_accept">تخطي</string>
     <string name="wifi_call_available_message">يمكنك إجراء مكالمات بإستخدام Wi-Fi الآن. إذا كنت متصلاً بشبكة Wi-Fi، فستتمكن من إجراء مكالمة حتى عندما تكون في المناطق دون تغطية لشبكة الجوال.</string>
     <string name="wifi_call_available_title">تشغيل مكالمة Wi-Fi</string>
-    <string name="wifi_call_cancel">إلغاء</string>
+    <string name="wifi_call_cancel">المزيد من المعلومات</string>
     <string name="wifi_call_help">المساعدة</string>
-    <string name="wifi_call_help_message">إذا اخترت تفضيل شبكات الجوال، فسيتم استخدام شبكات الجوال للمكالمات افتراضيًا. وفي حالة عدم وجود إشارة لشبكة الجوال أو كانت سيئة للغاية، فسيتم استخدام شبكة Wi-Fi بدلاً من ذلك.</string>
+    <string name="wifi_call_help_message_1">"مكالمات Wi-Fi هي خدمة تقدمها شركة Orange والتي تتيح لك إجراء مكالمات صوتية وكذلك الرد عليها عبر شبكة Wi-Fi. يمكن استخدام هذه الميزة في الأماكن ذات التغطية الضعيفة لشبكة الهاتف المحمول.
+
+لاستخدام مكالمات Wi-Fi، انتقل إلى الإعدادات > مكالمات Wi-Fi.
+
+لتنشيط الخدمة، سترسل لك Orange رسالة تأكيد بمجرد توفر الخدمة. بعد ذلك، ستكون قادرًا على الاتصال بشبكة Wi-Fi وإجراء مكالمات صوتية.
+
+سيتم دفع تكلفة المكالمات عبر Wi-Fi وفقًا لخطة التعرفة لمزود خدمة الإنترنت.
+
+أينما تتوفر هذه الميزة، سيتم عرض الأيقونة المقابلة في الأعلى على الشاشة."</string>
+    <string name="wifi_call_help_message_2">"إذا اخترت تفضيل شبكات Wi-Fi، فسيتم استخدامها افتراضيًا لإجراء مكالمات هاتفية. إذا لم تكن متصلاً بشبكة Wi-Fi أو إذا كانت الإشارة ضعيفة، فسيتم استخدام شبكات الهاتف المحمول لإجراء مكالمات.
+
+إذا قمت بتحديد تفضيل شبكات الهاتف المحمول، فسيتم استخدامها افتراضيًا لإجراء مكالمات هاتفية. إذا لم يكن هناك تغطية للشبكة أو كانت الإشارة ضعيفة، فسيتم استخدام شبكات Wi-Fi."</string>
     <string name="wifi_call_help_title">المساعدة لمكالمات Wi-Fi</string>
     <string name="wifi_call_notification_message">هذه الخدمة مقدمة من Orange. قد يستغرق تفعيل الخدمة عدة ساعات. ستتلقى رسالة قصيرة عند توفر الخدمة.</string>
+    <string name="wifi_call_preferred_summary">إذا اخترت تفضيل شبكات الجوال، فسيتم استخدام شبكات الجوال للمكالمات افتراضيًا. وفي حالة عدم وجود إشارة لشبكة الجوال أو كانت سيئة للغاية، فسيتم استخدام شبكة Wi-Fi بدلاً من ذلك.</string>
     <string name="wifi_call_setting">مكالمات Wi-Fi</string>
+    <string name="wifi_call_welcome_settings">مكالمات Wi-Fi</string>
     <string name="wifi_calling">مكالمات Wi-Fi</string>
+    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">مكالمات Wi-Fi</string>
     <string name="wifi_cant_connect">تعذَّر الاتصال</string>
     <string name="wifi_cant_connect_to_ap">"تعذَّر الاتصال بـ '%1$s'"</string>

@@ -95,6 +95,7 @@
     <string name="other_settings_auto_update">التحديثات التلقائية للنظام</string>
     <string name="other_settings_auto_update_summary">سيختار MIUI الوقت المناسب لتنزيل وتثبيت التحديثات. سيقوم جهازك بإعادة التشغيل تلقائيا لتعيين التغييرات.</string>
     <string name="other_settings_enhanced_lockscreen">خلفية كاروسيل</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Glance عن Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">سياسة الخصوصية</string>
     <string name="other_settings_enhanced_lockscreen_summary">احصل على صور وقصص رائعة يوميا على شاشة القفل. %1$s و %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">اتفاقية ترخيص المستخدم النهائي</string>
@@ -160,7 +161,7 @@
     <string name="require_authority_statement">للسماح لنا بتزويدك بالخدمات الأساسية، تحتاج إلى منح الأذونات التالية حتى نتمكن من جمع معلوماتك الشخصية:</string>
     <string name="require_network_authority_statement">للسماح لنا بتزويدك بالخدمات الأساسية، تحتاج إلى الاتصال بالانترنت ومنح الأذونات التالية حتى نتمكن من جمع معلوماتك الشخصية:</string>
     <string name="screen_recording_introduction">يسمح لك هذا التطبيق بتسجيل كل مايحدث على الشاشة.</string>
-    <string name="security_introduction">يمكنك استخدام هذا التطبيق لتنظيف المهملات على جهازك، والعثور على فيروسات وتحييدها، وتحسين أداء الألعاب، وحفظ البطارية، وإدارة التطبيقات والمزيد.</string>
+    <string name="security_introduction">يمكنك استخدام هذا التطبيق لتنظيف المهملات على جهازك، والعثور على فيروسات وتحييدها، وتحسين أداء الألعاب، وتوفير البطارية، وإدارة التطبيقات والأذونات، والمزيد.</string>
     <string name="security_mobile_account_introduction">لتسجيل الدخول أو إدارة حسابات النظام</string>
     <string name="service_agreement">لقد قرأت ووافقت على الشروط والأحكام.</string>
     <string name="service_name_album">المعرض</string>
@@ -206,7 +207,7 @@
     <string name="summary_not_set">غير معين</string>
     <string name="system_navigation_mode">وضع التنقل في النظام</string>
     <string name="terms_of_use">الأحكام والشروط</string>
-    <string name="terms_of_use_ble_htmlViewer">، Fused Location Provider، HTMLViewer</string>
+    <string name="terms_of_use_ble_htmlViewer">، Fused Location Provider، HTML Viewer</string>
     <string name="terms_of_use_label">"يرجى قراءة اتفاقية المستخدم وسياسة الخصوصية لفهم ماهي المعلومات التي نجمعها، وكيف نستخدمها والخيارات المتاحة لك.
 يجب أن توافق على اتفاقية المستخدم وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI.
 ستتصل %s وحساب Mi بالإنترنت وتحصل على موقعك."</string>

@@ -46,6 +46,7 @@
     <string name="device_picker">إعدادات جهاز البلوتوث</string>
     <string name="disconnect">إلغاء الإقتران</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
+    <string name="fast_connect_device_battery">البطارية</string>
     <string name="fast_connect_device_box">مربع</string>
     <string name="fast_connect_device_box_name">%1$s مربع</string>
     <string name="fast_connect_device_connect_cancel">إلغاء</string>

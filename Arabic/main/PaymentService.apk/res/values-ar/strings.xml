@@ -23,7 +23,7 @@
     <string name="passport_account_hint_text">عنوان البريد الإلكتروني، رقم الهاتف أو هوية حساب Mi</string>
     <string name="passport_account_identity_title">التحقق من هويتك</string>
     <string name="passport_account_label">حساب Mi</string>
-    <string name="passport_account_name">الحساب: %1$s</string>
+    <string name="passport_account_name">"الحساب: %1$s "</string>
     <string name="passport_account_not_activated">لم يتم تفعيل الحساب</string>
     <string name="passport_account_not_actived">لم يتم تفعيل حسابك</string>
     <string name="passport_account_set_password">تعيين كلمة مرور</string>
@@ -214,4 +214,5 @@
     <string name="passport_wrong_phone_number_format">تنسيق رقم الهاتف الذي أدخلته غير صالح</string>
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
     <string name="passport_yes">نعم</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
 </resources>

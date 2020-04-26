@@ -91,7 +91,6 @@
     <string name="description_image_button_four">أربعة</string>
     <string name="description_image_button_hangup">إنهاء</string>
     <string name="description_image_button_message_enter">الرد برسالة</string>
-    <string name="description_image_button_message_exit">إخفاء الرسائل</string>
     <string name="description_image_button_nine">تسعة</string>
     <string name="description_image_button_one">واحد</string>
     <string name="description_image_button_pound">مربع</string>
@@ -207,4 +206,5 @@
     <string name="wait_prompt_str">"إرسال نغمات الرنين التالية؟
 "</string>
     <string name="waiting_close_airplane_mode">لحظة من فضلك…</string>
+    <string name="wifi_call">مكالمات VoWifi</string>
 </resources>

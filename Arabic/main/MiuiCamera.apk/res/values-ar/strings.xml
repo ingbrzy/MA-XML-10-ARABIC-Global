@@ -34,7 +34,7 @@
     <string name="accessibility_filter_open_panel">تم فتح قائمة الفلتر</string>
     <string name="accessibility_filter_pad_close">تم إغلاق قائمة الفلتر</string>
     <string name="accessibility_flash_auto">الفلاش التلقائي مشغل</string>
-    <string name="accessibility_flash_back_soft_light">Flash is working in the Soft light mode</string>
+    <string name="accessibility_flash_back_soft_light">يعمل الفلاش في وضع الإضاءة الخافتة</string>
     <string name="accessibility_flash_off">الفلاش متوقف</string>
     <string name="accessibility_flash_on">الفلاش مشغل</string>
     <string name="accessibility_flash_torch">الفلاش مشغل على وضع المصباح</string>
@@ -62,7 +62,7 @@
     <string name="accessibility_selected">تم تحديد العناصر</string>
     <string name="accessibility_setting">الإعدادات</string>
     <string name="accessibility_shutter_button">زر التصوير</string>
-    <string name="accessibility_stereo_button">ضبط التركيز</string>
+    <string name="accessibility_stereo_button">ضبط التركيز البؤري</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD متوقف</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD مشغل</string>
     <string name="accessibility_ultra_wide_off">تم إيقاف تشغيل وضع \"زاوية واسعة فائقة\"</string>
@@ -76,6 +76,7 @@
  وضبط التفضيلات تلقائيًا"</string>
     <string name="ai_scene_top_moon_off">وضع الضوء ضعيف</string>
     <string name="ai_scene_top_tip">وضع القمر</string>
+    <string name="ai_watermark_title">علامة مائية AI</string>
     <string name="audio_focus_exit_button_text">إيقاف تشغيل التركيز الصوتي</string>
     <string name="autozoom_click_hint">انقر على جسم ما للتركيز عليه أثناء تحركه. ابق على بعد ٣ أمتار على الأقل للحصول على أفضل تأثير.</string>
     <string name="autozoom_disabled_hint">تم التوقف عن تتبع الجسم المتحرك</string>
@@ -109,6 +110,7 @@
     <string name="button_fisheye_camera_title">عين السمكة</string>
     <string name="button_front_camera_title">اخذ سيلفي</string>
     <string name="button_normal_video_title">تسجيل فيديو</string>
+    <string name="camcorder_tip_8k_max_video_duration">يمكنك تسجيل مايصل إلى ٦ دقائق في جودة 8K</string>
     <string name="camera_disabled">تم تعطيل الكاميرا</string>
     <string name="camera_error_title">خطأ في الكاميرا</string>
     <string name="camera_label">الكاميرا</string>
@@ -122,9 +124,10 @@
     <string name="camera_snap_mode_title_detail">انقر لعرض التفاصيل</string>
     <string name="cannot_connect_camera_once">لا يمكن الاتصال بالكاميرا</string>
     <string name="cannot_connect_camera_twice">لا يزال يتعذر الاتصال بالكاميرا. حاول إعادة تشغيل جهازك.</string>
-    <string name="cannot_connect_camera_volte_call">مكالمة فيديو جارية، يرجى أعادة المحاولة لاحقا.</string>
     <string name="cannot_move_warning_message">جارٍ أخذ الصورة، إبقي الجهاز ثابتاً</string>
     <string name="capture_back_pressed_hint">انقر مرة اخرى للخروج</string>
+    <string name="ccc_temperature_warning_msg">الجهاز ساخن. سيتم إغلاق الكاميرا بعد %d ثواني وسيتم حفظ الصور والفيديوهات تلقائيًا.</string>
+    <string name="ccc_temperature_warning_title">الجهاز ساخن</string>
     <string name="close_back_flash_toast">الجهاز ساخن. لا يمكنك استخدام المصباح حاليا.</string>
     <string name="close_front_flash_toast">الجهاز ساخن. لا يمكنك استخدام المصباح حاليا.</string>
     <string name="color_effect_entry_berry">توتي</string>
@@ -150,6 +153,7 @@
     <string name="color_effect_live_none">طبيعي</string>
     <string name="color_effect_live_solar">أزرق سماوي</string>
     <string name="color_effect_live_years">بني داكن</string>
+    <string name="color_enhance_mode">ألوان محسنة</string>
     <string name="config_name_group">سيلفي لمجموعة</string>
     <string name="config_name_hht">HHT</string>
     <string name="config_name_magic">سحر</string>
@@ -181,8 +185,14 @@
     <string name="dialog_google_lens_option_0">Google Lens (موصى به)</string>
     <string name="dialog_ok">موافق</string>
     <string name="dialog_ok_time">موافق (%dث)</string>
-    <string name="dirty_tip_toast">العدسات متسخة. يرجى مسحها وتنظيفها.</string>
+    <string name="dirty_tip_toast">العدسة متسخة. يرجى مسحها وتنظيفها.</string>
     <string name="do_not_remind_me">عدم الإظهار مرة أخرى</string>
+    <string name="document_blackwhite">أبيض وأسود</string>
+    <string name="document_mode_use_hint_text_body">"ترتيب وتحسين
+المسح الضوئي تلقائيا"</string>
+    <string name="document_mode_use_hint_text_title">مسح ضوئي للمستندات</string>
+    <string name="document_origin">الأصلي</string>
+    <string name="document_strengthen">مُحسن</string>
     <string name="dual_camera_lens_covered_toast">العدسة مغطاة.</string>
     <string name="dual_camera_lowlight_toast">يبدو أنه مظلم جداً.</string>
     <string name="dual_camera_too_close_toast">الكاميرا قريبة جدا من الشيء.</string>
@@ -193,6 +203,7 @@
     <string name="edit_eyebrow_dye">الحاجبين</string>
     <string name="edit_face_ruddy">متورد</string>
     <string name="edit_face_slender">نحيف</string>
+    <string name="edit_hairline">خط دقيق</string>
     <string name="edit_jelly_lips">ملمع شفاه</string>
     <string name="edit_lips">شفاه</string>
     <string name="edit_neck">رقبة</string>
@@ -238,6 +249,7 @@
     <string name="face_beauty_smart">ذكي</string>
     <string name="face_score_info">النتيجة: %.1f</string>
     <string name="fps960_toast">يبدأ التقاط الحركة البطيئة في الربع الأخير من التسجيل</string>
+    <string name="fragment_tab_name_bokeh">بوكيه</string>
     <string name="front_camera_hint_text_place">"سيكون أخذ سيلفي أسهل
 إذا قمت بتدوير الهاتف"</string>
     <string name="front_camera_hint_text_rotate">قم بتدوير الهاتف</string>
@@ -246,7 +258,7 @@
     <string name="hibernate_hint">انقر على الشاشة لتشغيل الكاميرا</string>
     <string name="hine_hht">"في الإضاءة الخافتة،ستقوم الكاميرا بإلتقاط صورة متعددة
  ومن ثم إنشاء لقطة ذات حد أدنى من الضوضاء."</string>
-    <string name="hint_ae_af_lock">تم قفل التركيز التلقائي والتعرض التلقائي.</string>
+    <string name="hint_ae_af_lock">تم قفل التركيز التلقائي البؤري والتعرض التلقائي.</string>
     <string name="hint_ae_lock">التعرض التلقائي مقفل</string>
     <string name="hint_device_water_mark">سيتم إضافة العلامة المائية تلقائيا.</string>
     <string name="hint_eye_light">تعمل تأثيرات لمعان العين بشكل أفضل عند تشغيل الفلاش</string>
@@ -256,8 +268,16 @@
     <string name="hint_groupshot_beauty">لا يمكن استخدام التجميل في اللقطة الجماعية</string>
     <string name="hint_mimovie">التقط الصور في الوضع الأفقي للحصول على أفضل تأثير</string>
     <string name="hint_slow_motion">سيتم تشغيل الفيديو الذي قمت بتصويره ببطئ.</string>
+    <string name="hint_subtitle">إملاء الترجمات أثناء أثناء تسجيل الفيديو</string>
+    <string name="hint_subtitle_prompt">يمكنك البدء في الترجمات الآن</string>
     <string name="hunt_dual_water_mark">سيتم إضافة العلامة المائية للكاميرا المزدوجة تلقائيا.</string>
+    <string name="id_card_mode_hint_back">امسح الجانب الخلفي من هويتك الشخصية</string>
+    <string name="id_card_mode_hint_front">امسح الجانب الأمامي من بطاقة هويتك</string>
+    <string name="id_card_mode_use_hint_text_body">"ضع الجانب الأمامي والخلفي لبطاقة الهوية في صورة واحدة.
+ثم اطبع النسخة لاسلكيا على ورقة A4."</string>
+    <string name="id_card_mode_use_hint_text_title">مسح بطاقة الهوية</string>
     <string name="install_confirmed">تثبيت</string>
+    <string name="kaleidoscope_fragment_tab_name">المشكال</string>
     <string name="lens_dirty_detected_content">"يبدو أن عدسة الكاميرا غير نظيفة.
 قم بتنظيف العدسة لصور أفضل."</string>
     <string name="lens_dirty_detected_title_back">عدسة الكاميرا الخلفية متسخة</string>
@@ -391,9 +411,10 @@
     <string name="moive_frame">إطار الفيلم</string>
     <string name="multi_window_mode_not_supported">لا تعمل الكاميرا في وضع تقسيم الشاشة</string>
     <string name="network_access_user_notice_agree">أوافق</string>
-    <string name="network_access_user_notice_message_live_video">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير التأثيرات والموسيقى والميزات الأخرى لمقاطع الفيديو القصيرة.&lt;br/>&lt;br/>بالنقر على أوافق أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح للكاميرا بالاتصال بالإنترنت.&lt;/Data></string>
-    <string name="network_access_user_notice_message_sticker">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير ملصقات لهذه الميزة.&lt;br/>&lt;br/>بالنقر على أوافق أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح للكاميرا بالاتصال بالإنترنت.&lt;/Data></string>
-    <string name="network_access_user_notice_message_voice_caption">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير وظيفة إخراج الكلام إلى النص.&lt;br/>&lt;br/>بالنقر على أوافق أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح ايضا للكاميرا بالاتصال بالإنترنت&lt;/Data></string>
+    <string name="network_access_user_notice_message_live_video">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير التأثيرات والموسيقى والميزات الأخرى لمقاطع الفيديو القصيرة.&lt;br/>&lt;br/>بالنقر على \"أوافق\" أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح للكاميرا بالاتصال بالإنترنت.&lt;/Data></string>
+    <string name="network_access_user_notice_message_mi_live_video">&lt;Data>مرحبًا بك في الفيديوهات القصيرة! تحتاج خدمتنا إلى الاتصال بالشبكة لتزويدك بالموسيقى والميزات الأخرى.&lt;br/>&lt;br/>يجب عليك قراءة والموافقة على&lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href =%2$s>سياسة الخصوصية&lt;/a>لدينا، وكذلك السماح للتطبيق بالاتصال بالإنترنت.&lt;/Data></string>
+    <string name="network_access_user_notice_message_sticker">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير ملصقات لهذه الميزة.&lt;br/>&lt;br/>بالنقر على \"أوافق\" أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح للكاميرا بالاتصال بالإنترنت.&lt;/Data></string>
+    <string name="network_access_user_notice_message_voice_caption">&lt;Data>تحتاج الكاميرا إلى الاتصال بالإنترنت لتوفير وظيفة إخراج الكلام إلى النص.&lt;br/>&lt;br/>بالنقر على \"أوافق\" أدناه، فأنت توافق على &lt;a href =%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href =%2$s>سياسة الخصوصية&lt;/a>، والسماح ايضا للكاميرا بالاتصال بالإنترنت&lt;/Data></string>
     <string name="network_access_user_notice_title">الاتصال بالإنترنت</string>
     <string name="no_storage">أدخل بطاقة SD قبل استخدام بالكاميرا</string>
     <string name="not_enough_space">بطاقة الذاكرة SD ممتلئة</string>
@@ -409,6 +430,7 @@
     <string name="parameter_ef_split_description">يمكنك سحب حلقة التعرض بعيدا عن حلقة التركيز البؤري وتعديل المعايير لكلا منها بشكل منفصل.</string>
     <string name="parameter_ef_split_title">فصل قياس التركيز البؤري والتعرض</string>
     <string name="parameter_et_description">تحدد سرعة الغالق التلقائية بواسطة قياس إضاءة الكاميرا. عند تحديد سرعة الغالق يدويًا، تذكر أنه كلما كان غالق الكاميرا مفتوحًا، كلما ازداد مقدار الضوء في المستشعر، مما يجعل صورتك أكثر إشراقًا.</string>
+    <string name="parameter_et_title">سرعة الغالق</string>
     <string name="parameter_exposure_description">تتيح لك هذه الميزة تعويض التعرض عندما تريد أن تكون صورتك أكثر إشراقًا أو أظلم عن قيم القياس المقترحة.</string>
     <string name="parameter_exposure_feecback_description">قم بتمييز المناطق الأقل تعرضًا باللون الأزرق والمساحات الأكثر تعرض باللون الأحمر لتتمكن من ضبط التعرض بشكل صحيح.</string>
     <string name="parameter_exposure_feecback_title">التحقق من التعرض</string>
@@ -418,7 +440,8 @@
     <string name="parameter_histogram_description">المدرج التكراري عبارة عن رسم بياني يمثل وقت التعرض الحقيقي، حيث يشير على اليسار إلى الأجزاء المظلمة للمشهد الخاص بك ويمر إلى الأجزاء المشرقة على اليمين. يمثل الجزء الأفقي من المقياس مقدار سطوع وظلام المشهد.</string>
     <string name="parameter_histogram_title">المدرج التكراري</string>
     <string name="parameter_iso_description">يمكن تحديد قيم ISO تلقائيًا بواسطة قياس الضوء. يمكنك أيضًا تغيير القيمة يدويًا. تذكر أن ارتفاع قيمة ISO يجعل الكاميرا أكثر حساسية للضوء، ولكن يجلب المزيد من الضوضاء الرقمية في صورتك.</string>
-    <string name="parameter_lens_description">يمكنك التبديل بين العدسات المتعددة المتاحة:</string>
+    <string name="parameter_iso_title">حساسية ISO</string>
+    <string name="parameter_lens_description">"يمكنك التبديل بين العدسات المتعددة المتاحة: "</string>
     <string name="parameter_lens_marco">، MACRO (عدسة ماكرو)</string>
     <string name="parameter_lens_st">، S-TELE (عدسة تكبير/تصغير)</string>
     <string name="parameter_lens_t">، TELE (عدسة مقربة)</string>
@@ -512,6 +535,7 @@
     <string name="pref_camera_auxiliary_close">متوقف</string>
     <string name="pref_camera_auxiliary_exposure_feedback">التحقق من التعرض</string>
     <string name="pref_camera_auxiliary_focus_peak">ذروة التركيز البؤري</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -544,36 +568,22 @@
     <string name="pref_camera_delay_capture_entry_audio">الصوت</string>
     <string name="pref_camera_delay_capture_title">المؤقت</string>
     <string name="pref_camera_device_watermark_title">علامة مائية للجهاز</string>
-    <string name="pref_camera_exposuretime_entry_0_5">۲ ثواني</string>
-    <string name="pref_camera_exposuretime_entry_1000">١٠٠٠/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_125">١٢٥/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_15">١٥/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_16s">١٦ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_250">١٢٥/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_30">٣٠/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_32s">٣٢ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_4">٤/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_4s">٤ ثواني</string>
-    <string name="pref_camera_exposuretime_entry_500">٥٠٠/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_60">٣٠/١ ثانية</string>
-    <string name="pref_camera_exposuretime_entry_8">1/8s</string>
-    <string name="pref_camera_exposuretime_entry_8s">٨ ثواني</string>
-    <string name="pref_camera_exposuretime_entry_auto">تلقائي</string>
     <string name="pref_camera_face_info_watermark_title">إضافة طابع عمري في الصورة</string>
+    <string name="pref_camera_first_tag_tips">تمت وضع علامة بنجاح</string>
     <string name="pref_camera_flashmode_entry_auto">تلقائي</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">إضاءة خافتة</string>
     <string name="pref_camera_flashmode_entry_off">متوقف</string>
     <string name="pref_camera_flashmode_entry_on">تشغيل</string>
     <string name="pref_camera_flashmode_entry_torch">فلاش</string>
     <string name="pref_camera_flashmode_title">وضع الفلاش</string>
-    <string name="pref_camera_focus_shoot_summary">انقر للتركيز، ثم انقر مجددا لإلتقاط صورة.</string>
-    <string name="pref_camera_focus_shoot_title">التركيز والالتقاط</string>
+    <string name="pref_camera_focus_shoot_summary">انقر للتركيز البؤري، ثم انقر مجددا لإلتقاط صورة.</string>
+    <string name="pref_camera_focus_shoot_title">التركيز البؤري والالتقاط</string>
     <string name="pref_camera_focusmode_entry_auto">تلقائي</string>
     <string name="pref_camera_focusmode_entry_infinity">لا نهائي</string>
     <string name="pref_camera_focusmode_entry_macro">ماكرو</string>
     <string name="pref_camera_focusmode_entry_manual">يدوي</string>
     <string name="pref_camera_focusmode_entry_normal">عادي</string>
-    <string name="pref_camera_focusmode_title">وضع التركيز</string>
+    <string name="pref_camera_focusmode_title">وضع التركيز البؤري</string>
     <string name="pref_camera_front_ai_scene_entry_off">كاميرا AI متوقفة</string>
     <string name="pref_camera_front_ai_scene_entry_on">كاميرا AI</string>
     <string name="pref_camera_front_bokeh_entry_off">متوقف</string>
@@ -602,7 +612,7 @@
     <string name="pref_camera_long_press_shutter_feature_title">الضغط مطولا على زر التصوير</string>
     <string name="pref_camera_long_press_viewfinder_title">إعدادات محدد المنظر</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">لقطات متتالية</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">تركيز</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_focus">التركيز البؤري</string>
     <string name="pref_camera_long_pressing_shutter_title">إضغط لمدة طويلة على زر التصوير لقفل AE/AF/AWB</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">قفل AE/AF</string>
@@ -625,7 +635,7 @@
     <string name="pref_camera_panoramamode_title">بانوراما</string>
     <string name="pref_camera_peak_entry_off">متوقف</string>
     <string name="pref_camera_peak_entry_on">مشغل</string>
-    <string name="pref_camera_peak_title">أقصى تركيز</string>
+    <string name="pref_camera_peak_title">ذروة التركيز البؤري</string>
     <string name="pref_camera_picturesize_entry_standard">قياسي ٤:٣</string>
     <string name="pref_camera_picturesize_title_simple_mode">إطار الكاميرا</string>
     <string name="pref_camera_portrait_mode_entry_off">وضع بورتريه متوقف</string>
@@ -673,14 +683,14 @@
     <string name="pref_camera_snap_label_take_picture">صورة</string>
     <string name="pref_camera_sound_title">صوت الكاميرا</string>
     <string name="pref_camera_square_mode_title">مربع</string>
-    <string name="pref_camera_stereo_mode_title">ضبط التركيز</string>
+    <string name="pref_camera_stereo_mode_title">ضبط التركيز البؤري</string>
     <string name="pref_camera_super_resolution_title">تشغيل SR</string>
     <string name="pref_camera_tilt_shift_entry_circle">دائرة</string>
     <string name="pref_camera_tilt_shift_entry_parallel">متوازي</string>
     <string name="pref_camera_tilt_shift_title">تغيير الإمالة</string>
     <string name="pref_camera_touchafaec_entry_off">متوقف</string>
     <string name="pref_camera_touchafaec_entry_on">مشغل</string>
-    <string name="pref_camera_ubifocus_title">إعادة التركيز</string>
+    <string name="pref_camera_ubifocus_title">إعادة التركيز البؤري</string>
     <string name="pref_camera_ultra_wide_ldc_description">تصحيح الأجسام المشوهه تلقائيا</string>
     <string name="pref_camera_ultra_wide_ldc_title">تصحيح التشويه في اللقطات الواسعة جداً</string>
     <string name="pref_camera_ultra_wide_mode_title">وضع \"زاوية واسعة فائقة\"</string>
@@ -690,6 +700,8 @@
     <string name="pref_camera_video_duration_entry_120">بلا حدود</string>
     <string name="pref_camera_video_duration_entry_30">٣٠ دقيقة</string>
     <string name="pref_camera_video_duration_entry_mms">٣٠ ثانية (MMS)</string>
+    <string name="pref_camera_video_tag">السماح بوضع علامة في الفيدوهات</string>
+    <string name="pref_camera_video_tag_description">انقر على \"علامة\" أثناء تصوير الفيديو لتتمكن من الرجوع إلى اللحظات المميزة أثناء تشغيل الفيديو</string>
     <string name="pref_camera_volumekey_function_entry_shutter">التصوير</string>
     <string name="pref_camera_volumekey_function_entry_timer">العد التنازلي للقطة الكاميرا</string>
     <string name="pref_camera_volumekey_function_entry_volume">مستوى الصوت</string>
@@ -708,8 +720,8 @@
     <string name="pref_camera_zoom_mode_entry_macro">ماكرو</string>
     <string name="pref_camera_zoom_mode_entry_standard">عادي</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">Tele 2X</string>
-    <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
+    <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">واسعة جدًا</string>
     <string name="pref_camera_zoom_mode_entry_wide">تكبير</string>
     <string name="pref_camera_zoom_mode_title">العدسة</string>
@@ -717,6 +729,7 @@
     <string name="pref_camera_zsl_entry_off">متوقف</string>
     <string name="pref_camera_zsl_entry_on">مشغل</string>
     <string name="pref_capture_settings">الكاميرا</string>
+    <string name="pref_document_mode">مستندات</string>
     <string name="pref_face_beauty_title">تجميل</string>
     <string name="pref_fingerprint_capture_title">التصوير بمستشعر بصمة الإصبع</string>
     <string name="pref_front_mirror_entry_auto">عند اكتشاف الوجه</string>
@@ -728,8 +741,8 @@
     <string name="pref_google_lens_summary">قم بتوجيه الكاميرا إلى معلومات جهات الاتصال وعناوين URL ورموز QR لعرض الخيارات المتاحة</string>
     <string name="pref_google_lens_title">إقتراحات Lens</string>
     <string name="pref_groupshot_with_primitive_title">حفظ الصور الأصلية</string>
-    <string name="pref_lens_dirty_detect_summary">تلقي إشعار عند اتساخ العدسات</string>
-    <string name="pref_lens_dirty_detect_title">إعلامي عند اتساخ العدسات</string>
+    <string name="pref_lens_dirty_detect_summary">تلقي إشعار عند اتساخ العدسة</string>
+    <string name="pref_lens_dirty_detect_title">إعلامي عند اتساخ العدسة</string>
     <string name="pref_manual_exposure_title">S</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">يمكنك فقط تسجيل فيديوهات 720p بإستخدام 240fps</string>
@@ -762,7 +775,7 @@
     <string name="pref_video_encoder_title">ترميز الفيديو</string>
     <string name="pref_video_focusmode_entry_auto">النقر</string>
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
-    <string name="pref_video_focusmode_title">وضع التركيز</string>
+    <string name="pref_video_focusmode_title">وضع التركيز البؤري</string>
     <string name="pref_video_hfr_title">فيديو HFR</string>
     <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
     <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
@@ -778,13 +791,14 @@
     <string name="pref_video_speed_entry_slow">بطيئة</string>
     <string name="pref_video_speed_fast_title">التقطع الزمني</string>
     <string name="pref_video_speed_slow_title">الحركة البطيئة</string>
+    <string name="pref_video_subtitle">الترجمات</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (ﻓﺎﺻل زﻣﻧﻲ ٠.٣ ﺛﺎﻧﯾﺔ)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (ﻓﺎﺻل زﻣﻧﻲ ٤ ﺛواني)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (ﻓﺎﺻل زﻣﻧﻲ ٥ ﺛواني)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (ﻓﺎﺻل زﻣﻧﻲ ٦٠ ﺛانية)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (ﻓﺎﺻل زﻣﻧﻲ ٠.٠٦ ﺛﺎﻧﯾﺔ)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_240">240X (ﻓﺎﺻل زﻣﻧﻲ ٨ ﺛواني)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (١ ثانية)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (ﻓﺎﺻل زﻣﻧﻲ ١ثانية)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_300">300X (ﻓﺎﺻل زﻣﻧﻲ ١٠ ﺛواني)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (ﻓﺎﺻل زﻣﻧﻲ ٠.١٢ ﺛﺎﻧﯾﺔ)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_450">450X (ﻓﺎﺻل زﻣﻧﻲ ١٥ ﺛواني)</string>
@@ -796,6 +810,7 @@
     <string name="pref_watermark_on">مشغل</string>
     <string name="pref_watermark_title">العلامة المائية</string>
     <string name="preparing_sd">جار التحقق من بطاقة SD…</string>
+    <string name="pro_color_mode">لون برو</string>
     <string name="recommend_macro_mode">جرب وضع ماكرو</string>
     <string name="recommend_portrait">جرب وضع بورتريه</string>
     <string name="recommend_soft_light_tip">تشغيل الفلاش</string>
@@ -823,9 +838,9 @@
     <string name="simple_mode_button_text_scene">إيقاف تشغيل وضع المشهد</string>
     <string name="simple_mode_button_text_slow_video">إيقاف التقطع الزمني</string>
     <string name="simple_mode_button_text_square">إيقاف تشغيل المربع</string>
-    <string name="simple_mode_button_text_stereo_mode">إيقاف ضبط التركيز</string>
+    <string name="simple_mode_button_text_stereo_mode">إيقاف ضبط التركيز البؤري</string>
     <string name="simple_mode_button_text_tilt_shift">إيقاف تشغيل تغيير الإمالة</string>
-    <string name="simple_mode_button_text_ubifocus">إيقاف تشغيل إعادة التركيز</string>
+    <string name="simple_mode_button_text_ubifocus">إيقاف تشغيل إعادة التركيز البؤري</string>
     <string name="snap_cancel">إلغاء</string>
     <string name="snap_confirmed">استبدل</string>
     <string name="spaceIsLow_content_external_storage_priority">بطاقة الذاكرة SD على وشك النفاد</string>
@@ -834,9 +849,13 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sticker_tab1">لطيف</string>
     <string name="sticker_tab2">مضحك</string>
+    <string name="subtitle_network_exception_tips">تعذر الاتصال بالشبكة. لا يمكن أن النسخ الآن.</string>
+    <string name="super_eis">ثبات فائق</string>
+    <string name="super_eis_disabled_hint">الاستقرار الفائق متوقف</string>
+    <string name="super_night_hint">جارٍ تحسين الصورة… حافظ على استقرار جهازك.</string>
     <string name="super_night_toast">ابقي الهاتف ثابت أثناء التصوير</string>
     <string name="tap_to_exposure">انقر لضبط التعرض يدويا</string>
-    <string name="tap_to_focus">انقر للتركيز</string>
+    <string name="tap_to_focus">انقر للتركيز البؤري</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
     <string name="time_lapse_error">لا يمكن استخدام حجم الفيديو هذا لتسجيل التقطع الزمني</string>
@@ -846,13 +865,17 @@
     <string name="toast_start_audio_capture">اصدار صوت لالتقاط صورة</string>
     <string name="ubi_focus_capture_fail">تعذر أخذ صورة</string>
     <string name="ubifocus_capture_warning_message">للحصول على أفضل نتيجة، يجب أن تحتوي الصورة على أهداف قريبة (أقل من ١ متر من العدسة) وبعيدة</string>
+    <string name="ultra_pixel_108mp">١٠٨ م.ب</string>
     <string name="ultra_pixel_32mp">٣٢ ميغابكسل</string>
     <string name="ultra_pixel_48mp">٤٨ ميغابكسل</string>
     <string name="ultra_pixel_64mp">٤٦ ميغابكسل</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD متوقف</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD مشغل</string>
-    <string name="ultra_pixel_portrait_hint">HD portrait</string>
+    <string name="ultra_pixel_portrait_hint">بورتريه في الإضاءة الخافتة</string>
     <string name="ultra_pixel_zoom_no_support_tip">لاتعمل ميزة التصغير/التكبير في وضع %s Ultra</string>
+    <string name="ultra_tele_use_hint_text_body">"استخدم التكبير بمعدل 50X لالتقاط العناصر البعيدة
+لمزيد من التفاصيل الدقيقة"</string>
+    <string name="ultra_tele_use_hint_text_title">تكبير 50X</string>
     <string name="ultra_wide_bokeh_close_tip">وضع الجسم الكامل متوقف</string>
     <string name="ultra_wide_bokeh_open_tip">وضع الجسم الكامل</string>
     <string name="ultra_wide_close_tip">وضع \"زاوية واسعة فائقة\" متوقف</string>
@@ -871,14 +894,27 @@
     <string name="user_notice_identify_summary_format">قبل إستخدام الكاميرا، يجب عليك أن تقرأ وتوافق على <a href="http://www.miui.com/res/doc/eula.html?lang=ar_EG">اتفاقية المستخدم</a> وسياسة الخصوصية<a href="http://www.miui.com/res/doc/privacy.html?lang=ar_EG"> لدينا</a>. تحتاج الكاميرا ايضا الاتصال بالإنترنت للعمل بشكل طبيعي. موافق؟</string>
     <string name="user_notice_title">الأحكام والشروط</string>
     <string name="video_beauty_tip">تجميل للفيديو</string>
+    <string name="video_beauty_tip_beautification">التجميل</string>
+    <string name="video_beauty_tip_filter">فلاتر</string>
+    <string name="video_beauty_tip_portrait_bokeh">بوكيه</string>
     <string name="video_camera_label">كاميرا الفيديو</string>
     <string name="video_effect_entry_blackwhite">أبيض وأسود</string>
     <string name="video_effect_entry_bygone">عتيق</string>
+    <string name="video_effect_entry_central">مركزي</string>
+    <string name="video_effect_entry_color_retention">لون منبثق</string>
+    <string name="video_effect_entry_fantasy">خيالي</string>
     <string name="video_effect_entry_film">فيلم</string>
     <string name="video_effect_entry_forest">Grove</string>
     <string name="video_effect_entry_holiday">انعكاسات</string>
+    <string name="video_effect_entry_lost">ضائع</string>
+    <string name="video_effect_entry_meet">مواجهة</string>
+    <string name="video_effect_entry_northern_europe">نوردك</string>
     <string name="video_effect_entry_polaroid">Polaroid</string>
+    <string name="video_effect_entry_rome">روما</string>
+    <string name="video_effect_entry_summer_day">صيف</string>
+    <string name="video_effect_entry_wind_sing">نسيم</string>
     <string name="video_reach_size_limit">لقد وصلت الحد الاقصي.</string>
+    <string name="video_tag_flag_title">علامة</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">عرض سياسة الخصوصية</string>
@@ -890,6 +926,11 @@
 بتسجيل وتعديل الفيديوهات مباشرة"</string>
     <string name="vv_use_hint_text_title">فلوج (Vlog)</string>
     <string name="wait">لحظة من فضلك…</string>
+    <string name="watermark_tab_city">مدينة</string>
+    <string name="watermark_tab_festival">عطلة</string>
+    <string name="watermark_tab_general">عام</string>
+    <string name="watermark_tab_scene">مشهد</string>
+    <string name="watermark_tab_spots">موقع</string>
     <string name="wideselfie_press_shoot_key_to_start">انقر زر التصوير</string>
     <string name="wideselfie_result_image_lossless">تعذر إنشاء لقطة بانورامية</string>
     <string name="wideselfie_rotate_slowly">قم بتدوير الهاتف</string>

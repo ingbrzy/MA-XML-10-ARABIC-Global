@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">كتابة وحذف سجل المكالمات</string>
+    <string name="HIPS_Perm_Call_Desc">الاتصال المباشر بأرقام الهاتف</string>
+    <string name="HIPS_Perm_Contact_Desc">تعديل وحذف جهات الاتصال</string>
+    <string name="HIPS_Perm_PhoneID_Desc">الوصول لرقم الهاتف و IMEI و IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">الوصول لرقم الهاتف وحالة الجهاز</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">قراءة سجل المكالمات</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">قراءة جهات الاتصال</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">قراءة رسائلك النصية القصيرة</string>
+    <string name="HIPS_Perm_SendSMS_Desc">إرسال رسائل قصيرة مباشرة</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">اضافة نظام الرسائل الصوتية</string>
+    <string name="HIPS_Perm_get_accounts_Desc">الوصول الى جميع حساباتك المخزنة على الجهاز</string>
+    <string name="HIPS_Perm_use_sip_Desc">استخدم بروتوكول بدء الجلسة لبث الفيديو</string>
     <string name="Phonepass">السماح بالمكالمات</string>
     <string name="SMS_and_MMS">الرسائل النصية القصيرة ورسائل الوسائط المتعددة</string>
     <string name="SMSpass">السماح بالرسائل القصيرة</string>
@@ -13,16 +25,20 @@
     <string name="ac_enter_applock">ادخل قفل التطبيقات</string>
     <string name="ac_firstUseApplock_subTitle">استخدم أدوات حماية النظام على مستوى أفضل</string>
     <string name="ac_firstUseApplock_title">قم بتعيين كلمة مرور لحماية تطبيقاتك</string>
-    <string name="ac_mask_all_apps">إخفاء لجميع التطبيقات</string>
+    <string name="ac_mask_all_apps">إخفاء للكل</string>
     <string name="ac_notification_contentText">انقر للتشغيل</string>
     <string name="ac_notification_contentTitle">حماية التطبيقات باستخدام قفل التطبيقات</string>
     <string name="ac_post_notification_contentText">الحصول على الحماية على مستوى النظام</string>
     <string name="ac_post_notification_contentTitle">قم بتشغيل قفل التطبيقات</string>
     <string name="ac_pre_notification_contentText">حماية معلوماتك الشخصية</string>
     <string name="ac_pre_notification_contentTitle">جرب قفل التطبيقات</string>
+    <string name="ac_recommend_guide_dialog_app_content">استخدم قفل التطبيقات مع هذا التطبيق لحماية معلوماتك الشخصيى وتجنب تسرب البيانات.</string>
+    <string name="ac_recommend_guide_dialog_content">يمكنك حماية معلوماتك الشخصية وتجنب تسرب البيانات بإستخدام قفل التطبيقات.</string>
+    <string name="ac_recommend_guide_dialog_ignore">لا تظهر مرة اخرى</string>
+    <string name="ac_recommend_guide_dialog_open">تشغيل</string>
     <string name="ac_summaryOff">تم الإيقاف، لا تحتاج كلمة مرور لفتح التطبيقات</string>
     <string name="ac_summaryOn">ادخل كلمة المرور لفتح التطبيقات المحمية</string>
-    <string name="ac_unmask_all_apps">إظهار جميع التطبيقات</string>
+    <string name="ac_unmask_all_apps">إظهار للكل</string>
     <string name="access_control_app_is_launching">التطبيق قيد التشغيل</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">أدخل كلمة المرور قبل استخدام بصمة الإصبع الجديدة</string>
     <string name="access_control_fingerprint_not_identified_msg">تعذر قراءة البصمة.</string>
@@ -126,8 +142,10 @@
     <string name="antivirus_update_btn_contiue">متابعة</string>
     <string name="antivirus_update_btn_open">السماح</string>
     <string name="antivirus_update_btn_update">تحديث</string>
+    <string name="apn_exception_modify_summary">لا يتم استخدام نقطة الوصول الافتراضية لشركة الاتصالات أو تعديلها</string>
     <string name="apn_exception_summary">اختبار اعدادات اسم نقطة الوصول مشغّل شبكة الجوال</string>
     <string name="apn_exception_title">فحص اعدادات APN</string>
+    <string name="apn_exception_wap_summary">WAP غير مستقر الآن. التبديل إلى NET.</string>
     <string name="app_bg_restrict_dialog_message">قد يؤدي تقييد اتصال الشبكة في الخلفية إلى منع التطبيق من العمل بشكل طبيعي. على سبيل المثال، لن يكون قادرا على استقبال الرسائل أو تحديث المحتوى.</string>
     <string name="app_check_no_issue">يبدو أنه لا يوجد مشاكل في البطارية. رائع!</string>
     <string name="app_detail">التفاصيل</string>
@@ -288,6 +306,7 @@
     <string name="applock_add_account">إضافة</string>
     <string name="applock_add_account_info">قم بإضافة حساب Mi الخاص بك لتتمكن من إعادة تعيين كلمة المرور في حال نسيانها.</string>
     <string name="applock_add_account_setting">الحساب والخصوصية</string>
+    <string name="applock_app_recommend_lock_title">يمكنك قفل التطبيقات التالية</string>
     <string name="applock_bind_account_title">نسيت كلمة المرور</string>
     <string name="applock_close_dialog_summary">سيتم إلغاء إخفاء جميع التطبيقات المخفية، وسيتم استعادة اختصاراتها على الشاشة الرئيسية، وسيتم حذف كلمة مرور قفل التطبيق. إيقاف قفل التطبيق؟</string>
     <string name="applock_close_dialog_title">إيقاف تشغيل قفل التطبيقات؟</string>
@@ -296,11 +315,29 @@
     <string name="applock_face_unlock_title">التعرف على الوجه</string>
     <string name="applock_function_base_settings">قفل التطبيقات</string>
     <string name="applock_function_pwd_settings">كلمة المرور</string>
+    <string name="applock_go_to">الإعدادات</string>
+    <string name="applock_guide_open_applock">تشغيل</string>
+    <string name="applock_guide_tip1">تتوفر خيارات مختلفة لنوع كلمة المرور. إلغي قفل التطبيقات بإستخدام بصمة الاصبع أو الوجه أو أدخال كلمة المرور.</string>
+    <string name="applock_guide_tip1_global">إلغي قفل التطبيقات بإستخدام بصمة الاصبع أو أدخال كلمة المرور.</string>
+    <string name="applock_guide_tip1_global_without_face">إلغي قفل التطبيقات بإستخدام بصمة الاصبع أو أدخال كلمة المرور.</string>
+    <string name="applock_guide_tip1_global_without_finger">إلغي قفل التطبيقات بإستخدام التعرف على الوجه أو أدخال كلمة المرور.</string>
+    <string name="applock_guide_tip1_global_without_finger_face">تتوفر خيارات مختلفة لنوع كلمة المرور.</string>
+    <string name="applock_guide_tip1_without_face">تتوفر خيارات مختلفة لنوع كلمة المرور. إلغي قفل التطبيقات بإستخدام بصمة الاصبع أو أدخال كلمة المرور.</string>
+    <string name="applock_guide_tip1_without_finger">تتوفر خيارات مختلفة لنوع كلمة المرور. إلغي قفل التطبيقات بإستخدام التعرف على الوجه أو أدخال كلمة المرور.</string>
+    <string name="applock_guide_tip1_without_finger_face">تتوفر خيارات مختلفة لنوع كلمة المرور.</string>
+    <string name="applock_guide_tip2">قم بإضافة حساب Mi لتتمكن من إعادة تعيين كلمة المرور.</string>
+    <string name="applock_guide_tip3">اخفي محتويات الإشعارات.</string>
+    <string name="applock_guide_tip3_global">اخفي محتويات الإشعارات.</string>
+    <string name="applock_guide_title">احمي خصوصيتك بقفل التطبيقات</string>
     <string name="applock_header_text_less_than_half">صغير جدا. اسحب قليلا.</string>
+    <string name="applock_lock_all">قفل الكل</string>
     <string name="applock_login_and_add_account">تسجيل الدخول وإضافة</string>
     <string name="applock_not_add_account"><u>ليس الآن</u></string>
     <string name="applock_not_login_account">لم تقم بتسجيل الدخول</string>
+    <string name="applock_set_password_title">تغيير نوع كلمة المرور</string>
+    <string name="applock_settings_unlock_all_toast">إلغاء قفل جميع التطبيقات</string>
     <string name="applock_toast_tip">تم التحقق من قفل التطبيقات بنجاح</string>
+    <string name="applock_unlock_all">إلغاء قفل الكل</string>
     <string name="apps_item_sign_dialog_content">توقيع %s يختلف عن النسخة الموجودة في متجر التطبيقات. هل تريد حذف هذا التطبيق وتثبيت الإصدار الرسمي؟ ملاحظة: تثبيت التطبيق مع توقيع متضارب قد يؤدي إلى فقدان بيانات التطبيق.</string>
     <string name="apps_item_sign_dialog_title">تثبيت التطبيق الرسمي</string>
     <string name="apps_item_sign_install_button_text">إستبدال</string>
@@ -557,6 +594,7 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">إنشاء</string>
     <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
     <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
@@ -596,7 +634,7 @@
     <string name="create_shortcut">إنشاء إختصار على الشاشة الرئيسية لمسرع الألعاب</string>
     <string name="cta_HIPS_Perm_Location_Desc">الحصول على الموقع الدقيق (القائم على الشبكة وGPS)</string>
     <string name="cta_close_dialog_cancel">إلغاء</string>
-    <string name="cta_close_dialog_content">إذا قمت بتقييد وصول تطبيق الحماية إلى الإنترنت و معلومات موقعك، فلن تتمكن من تلقي تحذيرات الزلازل، وتحديث تعريفات الفيروسات، ومعلومات قائمة الحظر. سيصبح جهازك أقل أمانًا. تقييد على أي حال؟</string>
+    <string name="cta_close_dialog_content">إذا قمت بتقييد وصول تطبيق \"الحماية\" إلى الإنترنت و معلومات موقعك، فلن تتمكن من تلقي تحذيرات الزلازل، وتحديث تعريفات الفيروسات، ومعلومات قائمة الحظر. سيصبح جهازك أقل أمانًا. تقييد على أي حال؟</string>
     <string name="cta_close_dialog_ok">تقييد</string>
     <string name="cta_close_dialog_title">تقييد الوصول</string>
     <string name="cta_dialog_negative">خروج</string>
@@ -749,6 +787,7 @@
     <string name="doze_optimization_title">تحسين التحكم باللمس</string>
     <string name="dual_setting_simcard1">1 SIM</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty_app">لا توجد تطبيقات</string>
     <string name="empty_title_auto_start_list">لا توجد تطبيقات تستطيع التشغيل تلقائيا.</string>
@@ -798,7 +837,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -1249,6 +1290,7 @@
     <string name="load_only_under_wlan">تحميل بإستخدام Wi-Fi فقط</string>
     <string name="loading">لحظة من فضلك…</string>
     <string name="local_ip_exception_summary">تعذر الحصول على عنوان IP محلي. لإبلاغ MIUI بهذه المشكلة، اذهب إلى تطبيق \"التعليقات\" وأرسل تقريرا من جهازك.</string>
+    <string name="lock_all_title">قفل جميع التطبيقات</string>
     <string name="lock_mode_title">إعدادات القفل</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s مستخدم في شاشة قفل</string>
     <string name="lock_screen_traffic_guide_notification_title">انقر لإدارة استخدام البيانات.</string>
@@ -1425,9 +1467,11 @@
     <string name="menu_text_antispam">قائمة الحظر</string>
     <string name="menu_text_antivirus">فحص الحماية</string>
     <string name="menu_text_garbage_cleanup">المنظف</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
@@ -1435,6 +1479,7 @@
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية والأداء</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_service_app_detail">تفاصيل استخدام البيانات</string>
@@ -1457,6 +1502,11 @@
     <string name="more_lock">المزيد</string>
     <string name="more_settings">المزيد</string>
     <string name="name">الإسم</string>
+    <string name="nd_result_button_optimize">تحسين</string>
+    <string name="nd_result_summary_optimize">حاول تحسين اتصال الشبكة عندما يكون غير مستقر</string>
+    <string name="nd_result_title_auxiliary">تكوين الشبكة</string>
+    <string name="nd_result_title_network">اتصال الشبكة</string>
+    <string name="nd_result_title_optimize">تحسين الشبكة</string>
     <string name="net_booster">زيادة سرعة الشبكة</string>
     <string name="net_booster_expire_notification">جلسة زيادة سرعة الشبكة على وشك الانتهاء</string>
     <string name="net_booster_overdue_notification">جلسة زيادة سرعة الشبكة على وشك الانتهاء</string>
@@ -1537,8 +1587,8 @@
     <string name="notification_garbage_cleanup_title">تنظيف ملفات المهملات</string>
     <string name="notification_mask_summary">لاتعرض محتويات الإشعارات للتطبيقات المحمية</string>
     <string name="notification_mask_title">إخفاء محتويات الإشعارات</string>
-    <string name="notification_masked_item">إخفاء الإشعارات</string>
-    <string name="notification_masked_subtitle">إخفاء الإشعارات من التطبيقات المحمية بقفل التطبيقات</string>
+    <string name="notification_masked_item">كيفية إخفاء محتويات الإشعارات؟</string>
+    <string name="notification_masked_subtitle">إستخدام قفل التطبيقات لإخفاء محتويات الإشعارات للتطبيقات المحددة</string>
     <string name="notification_summary_cmcc_app_check">المس لعرض التفاصيل.</string>
     <string name="notify_channel_mipush">رسائل push الحماية</string>
     <string name="notify_channel_name_security">حماية النظام</string>
@@ -1600,7 +1650,7 @@
     <string name="operator_number_unicom">١٠٠١٠</string>
     <string name="optimize_manage_title">زيادة السرعة</string>
     <string name="optimize_result_available_memory_info">الذاكرة المتاحة</string>
-    <string name="optimize_result_button_cloudspace">إضافة تخزين Cloud</string>
+    <string name="optimize_result_button_cloudspace">احصل على المزيد من مساحة تخزين Cloud</string>
     <string name="optimize_result_button_consume_power_analysis">فحص البطارية</string>
     <string name="optimize_result_button_cooldown_now">تقليل حرارة الجهاز</string>
     <string name="optimize_result_button_correct_now">ضبط</string>
@@ -1695,6 +1745,8 @@
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">تجنب ارتفاع درجة الحرارة ومشاكل معدات الجهاز</string>
     <string name="perfermance_optimization_title">تحسين الأداء</string>
+    <string name="permdesc_in_calls">Monitor incoming calls</string>
+    <string name="permdesc_out_calls">Monitor outgoing calls</string>
     <string name="permgroupdesc_calendar">الوصول إلى أحداث التقويم</string>
     <string name="permgroupdesc_calllog">الوصول وحفظ العناصر إلى سجل المكالمات</string>
     <string name="permgroupdesc_camera">أخذ صور وتسجيل فيديوهات</string>
@@ -1748,11 +1800,11 @@
     <string name="power_bluetooth">البلوتوث</string>
     <string name="power_btn_analyze">تحليل إستخدام البطارية</string>
     <string name="power_cell">استعداد الخلية</string>
-    <string name="power_center_5g_save_close_detail">5G battery saver increases battery life without affecting 5G connectivity. Turn off anyway?</string>
-    <string name="power_center_5g_save_close_later">"Don't turn off"</string>
-    <string name="power_center_5g_save_close_title">Turning off 5G battery saver</string>
-    <string name="power_center_5g_save_summary_text">Make 5G connectivity less power consuming in certain scenarios</string>
-    <string name="power_center_5g_save_title_text">5G battery saver</string>
+    <string name="power_center_5g_save_close_detail">يزيد موفر البطارية 5G عمر البطارية دون التأثير على اتصال 5G. إيقاف التشغيل على أي حال؟</string>
+    <string name="power_center_5g_save_close_later">لا تقم بإيقاف التشغيل</string>
+    <string name="power_center_5g_save_close_title">جارٍ إيقاف موفر البطارية 5G</string>
+    <string name="power_center_5g_save_summary_text">اجعل اتصال 5G أقل استهلاك للطاقة في بعض السيناريوهات</string>
+    <string name="power_center_5g_save_title_text">موفر البطارية 5G</string>
     <string name="power_center_auto_shutdown">جدولة التشغيل / الإيقاف</string>
     <string name="power_center_back">رجوع</string>
     <string name="power_center_battery_last">%s متبقي</string>
@@ -1761,6 +1813,11 @@
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيقوم MIUI بالتحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -1773,6 +1830,7 @@
     <string name="power_center_power_save_summary_text">زيادة الوقت المتبقي إلى %1$dس %2$dدق</string>
     <string name="power_center_power_save_title_text">موفر البطارية</string>
     <string name="power_center_repeat">تكرار</string>
+    <string name="power_center_scan_item_title_5g">اتصال 5G</string>
     <string name="power_center_scan_item_title_GPS">ضبط دقة GPS</string>
     <string name="power_center_scan_item_title_abnormal">مشاكل البطارية</string>
     <string name="power_center_scan_item_title_abnormal_apps">التطبيقات التي تستنزف البطارية</string>
@@ -1803,6 +1861,7 @@
     <string name="power_dialog_cancel">إلغاء</string>
     <string name="power_dialog_ok">موافق</string>
     <string name="power_dialog_super_save_msg">يعمل موفر البطارية الأقصى على تقييد معظم الميزات التي تستهلك الطاقة وتقلل من أداء جهازك وذلك لترك الوظائف الأساسية تعمل (مثل المكالمات والرسائل النصية واتصال الشبكة) لأطول فترة ممكنة. تشغيله؟</string>
+    <string name="power_dialog_super_save_msg_5g">يعمل موفر البطارية الأقصى على تقييد معظم الميزات التي تستهلك الطاقة (مثل اتصال 5G) ويقلل من أداء جهازك. فقط المكالمات والرسائل النصية واتصال الشبكة الأساسية لن تتأثر. تشغيله؟</string>
     <string name="power_dialog_super_save_title">موفر البطارية الأقصى</string>
     <string name="power_idle">سكون الهاتف</string>
     <string name="power_main_battery_last_day_hour">تبقى %1$s يوم و %2$s ساعة للاستخدام</string>
@@ -1814,6 +1873,7 @@
     <string name="power_optimize_btn_text_fixed">محسّن</string>
     <string name="power_optimize_catagory_fixed_title">محسّن</string>
     <string name="power_optimize_close_app">إغلاق التطبيقات التي تستهلك طاقة مفرطة</string>
+    <string name="power_optimize_disable_5g">تقييد اتصال 5G</string>
     <string name="power_optimize_disable_app_autostart">منع التطبيقات من الفتح تلقائيا</string>
     <string name="power_optimize_disable_gps">إيقاف تشغيل GPS</string>
     <string name="power_optimize_disable_start_other_app">منع التطبيقات من فتح تطبيقات أخرى</string>
@@ -1835,7 +1895,8 @@
     <string name="power_save_on_time_end_time_summary_na">إلى</string>
     <string name="power_save_on_time_start_time_summary_na">من</string>
     <string name="power_save_ps_clean">تنظيف ذاكرة التخزين المؤقت كلما تم قفل الجهاز</string>
-    <string name="power_save_ps_close_setting">قم بإيقاف تشغيل خدمات الخلفية (المزامنة،GPS) لحفظ البطارية</string>
+    <string name="power_save_ps_close_setting">قم بإيقاف تشغيل الخدمات والميزات ذات استهلاك عالي للطاقة (المزامنة، GPS، نظام اللمس، \"رفع الجهاز لإيقاظه\"، \"النقر مرتين لإيقاظ أو أطفاء الشاشة\"، \"عرض أيقونة بصمة الاصبع عندما تكون الشاشة متوقفة\") لتوفير البطارية</string>
+    <string name="power_save_ps_close_setting_5g">قم بإيقاف تشغيل الخدمات والميزات ذات استهلاك عالي للطاقة (المزامنة، GPS، اتصال شبكة 5G، نظام اللمس، \"رفع الجهاز لإيقاظه\"، \"النقر مرتين لإيقاظ أو أطفاء الشاشة\"، \"عرض أيقونة بصمة الاصبع عندما تكون الشاشة متوقفة\") لتوفير البطارية</string>
     <string name="power_save_ps_freeze">تجميد التطبيقات في الخلفية</string>
     <string name="power_save_ps_limit">تقييد نشاط تطبيقات النظام</string>
     <string name="power_save_settings">إعدادات البطارية</string>
@@ -1907,6 +1968,7 @@
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -1975,6 +2037,9 @@
 
 خلال المعايرة، سوف ترسل MIUI رسالة نصية إلى شركة الاتصالات الخاص بك لتلقي قالب المعايرة."</string>
     <string name="privacy_prompt_upload">تحميل</string>
+    <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
+    <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="promotion">اعلان</string>
     <string name="prompt_all">اسأل للجميع</string>
@@ -2108,6 +2173,8 @@
     <string name="shield_keyboard_detail">انقر مرتين على الأزرار لتشغيلهم مرة أخرى</string>
     <string name="shield_keyboard_summary">تقييد الأزرار وإيماءات ملء الشاشة أثناء الألعاب</string>
     <string name="shield_keyboard_title">تقييد الأزرار والإيماءات</string>
+    <string name="shortcut_title_scan">فحص</string>
+    <string name="shortcut_title_whatsapp_clean">منظف الواتساب</string>
     <string name="show_system_app">إظهار تطبيقات النظام</string>
     <string name="show_traffic_dialog_message">سيتم عرض معلومات استخدام بياناتك في مركز الإشعارات. يمكنك تشغيل أو إيقاف هذه الميزة في أي وقت في استخدام البيانات > الإعدادات.</string>
     <string name="show_traffic_dialog_title">عرض الاستخدام في مركز الإشعارات</string>
@@ -2115,6 +2182,8 @@
     <string name="shutdown_cancel_reminder">لم يتم إيقاف التشغيل</string>
     <string name="shutdown_cancel_reminder_detail">لم يتم إيقاف التشغيل لأنك كنت بصدد إجراء مكالمة</string>
     <string name="shutdown_cancel_reminder_detail2">يبدو أنك تلعب لعبة الآن. تم إلغاء جدولة ايقاف التشغيل.</string>
+    <string name="signal_exception_4g_bad_rsrq">استقبال الإشارة الحالية ضعيف. قد تكون سرعة الاتصال منخفضة.</string>
+    <string name="signal_exception_none_4g_5g_network">أنت تستخدم شبكات الجوال 2G/3G. قد تكون سرعة الاتصال منخفضة.</string>
     <string name="signal_exception_summary">تعذر الاتصال بالشبكة في هذه المنطقة.</string>
     <string name="signal_exception_title">اختبار قوة الإشارة</string>
     <string name="signed_rule">القواعد</string>
@@ -2305,7 +2374,7 @@
     <string name="still_retain_btn">إبقاء</string>
     <string name="stop_milink_connect">توقف البث</string>
     <string name="suggest_app_tolock">اقتراحات</string>
-    <string name="suggest_app_tolock_masked">مخفية</string>
+    <string name="suggest_app_tolock_masked">المحتويات مخفية</string>
     <string name="suggest_app_tolock_unmasked">الإشعارات المرئية</string>
     <string name="suggest_scan_again">أكمل الفحص لتجنب المخاطر الأمنية.</string>
     <string name="summary_app_lock_disable">حماية البيانات بإستخدام قفل التطبيقات</string>
@@ -2397,8 +2466,8 @@
     <string name="system_permission_declare_no_say_no">إذا قررت عدم منح الأذونات اللازمة أو عدم السماح لنا بجمع بياناتك واستخدامها، فلن يعمل هذا التطبيق بشكل صحيح.</string>
     <string name="system_permission_declare_no_say_no_analytics">إذا كنت لا ترغب في منح هذه الأذونات، فيمكنك إلغاء التسجيل من الإعدادات > الإعدادات الإضافية > الخصوصية > برنامج تجربة المستخدم.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">إذا قررت عدم منح الأذونات اللازمة أو عدم السماح لنا بجمع بياناتك واستخدامها، فلن يعمل هذا التطبيق بشكل صحيح.</string>
-    <string name="system_permission_declare_privacy_declare">نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. لاحظ أن الحماية تحتاج إلى الاتصال بالإنترنت ومنحها الأذونات التالية لجمع معلوماتك الشخصية:</string>
-    <string name="system_permission_declare_privacy_no_permission">لاحظ أن الحماية تحتاج إلى الاتصال بالإنترنت وجمع المعلومات الشخصية اللازمة لتزويدك بالخدمات. نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.</string>
+    <string name="system_permission_declare_privacy_declare">نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. لاحظ أن هذا التطبيق يحتاج إلى الاتصال بالإنترنت ومنحه الأذونات التالية لجمع معلوماتك الشخصية:</string>
+    <string name="system_permission_declare_privacy_no_permission">لاحظ أن هذا التطبيق يحتاج إلى الاتصال بالإنترنت وجمع المعلومات الشخصية اللازمة لتزويدك بالخدمات. نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام هذه الميزة.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">يمكنك الخروج من هذا التطبيق.</string>
     <string name="system_permission_declare_revoke_uninstallable">يمكنك تسجيل الخروج، أو إلغاء تثبيت هذا التطبيق، أو إلغاء التراخيص من الحماية > إدارة التطبيقات > الأذونات> الأذونات.</string>
@@ -2406,6 +2475,7 @@
     <string name="system_permission_declare_use_network_no_permission">الإتصال بالشبكة</string>
     <string name="system_permission_declare_user_agreement">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> لدينا قبل استخدام هذه الميزة.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">إجراء مكالمات</string>
+    <string name="system_permission_perm_optional">" (اختياري)"</string>
     <string name="system_permission_perm_read_mms">قراءة رسائل وسائط متعددة</string>
     <string name="system_permission_perm_read_numbers">قراءة أرقام الهاتف</string>
     <string name="system_permission_perm_send_mms">إرسال رسائل وسائط متعددة</string>

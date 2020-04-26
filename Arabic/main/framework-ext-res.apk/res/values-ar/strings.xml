@@ -47,6 +47,7 @@
     <string name="content_description_web_url">تصفح</string>
     <string name="copy">نسخ</string>
     <string name="cut">قص</string>
+    <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="default_device_name">جهاز غير معروف</string>
     <string name="default_name">الافتراضي</string>
     <string name="description_title">الوضع الصامت</string>
@@ -71,7 +72,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">ليس الآن</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">تشغيل</string>
     <string name="fp_nav_center_action_choose_dlg_title">تشغيل النقر السريعة</string>
-    <string name="frequent_email">Frequent email</string>
+    <string name="frequent_email">البريد الإلكتروني مستخدم دائما</string>
     <string name="frequent_phrases">العبارات المتكررة</string>
     <string name="functions_are_being_developed">ستتوفر هذه الميزة قريبا. ابق على اطلاع!</string>
     <string name="global_actions_airplane_mode">وضع الطائرة</string>
@@ -202,6 +203,7 @@
     <string name="sim_added_reboot_title">سيتم تفعيل بطاقة SIM بعد إعادة تشغيل جهازك.</string>
     <string name="sim_lock_non_ais_msg">بطاقة SIM الخاصة بك غير متوافقة تمامًا مع هذا الهاتف لأنها لا تفي بأحكام وشروط اشتراكك. إذا كانت لديك أي أسئلة أو كنت بحاجة إلى معلومات إضافية حول هذه المشكلة، فاتصل بمركز خدمة Xiaomi أو بالمتجر الذي اشتريت منه.</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
+    <string name="slatoast">Using mobile data to boost speed, may consume mobile data</string>
     <string name="slavewifi">نطاق Wi-Fi المزدوج</string>
     <string name="slavewifi_disconnect">قطع الاتصال</string>
     <string name="slavewifi_notification_title">استخدام نطاق Wi-Fi المزدوج</string>
