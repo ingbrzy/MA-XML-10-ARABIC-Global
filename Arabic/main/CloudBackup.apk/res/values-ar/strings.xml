@@ -184,8 +184,6 @@
     <string name="open_wifi_setting">إعدادات Wi-Fi</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>

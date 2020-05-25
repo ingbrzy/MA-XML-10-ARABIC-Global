@@ -937,7 +937,6 @@
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">يُرجى إدخال اسم مضيف \"مزوّد نظام أسماء النطاقات\"</string>
     <string name="private_num">رقم خاص</string>
-    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="progress_dialog_exiting_ecm">الخروج من وضع معاودة الاتصال بالطوارئ</string>
     <string name="proxy_address_title">عنوان وكيل المكالمات الصادرة</string>
     <string name="pstn_connection_service_label">بطاقات SIM الافتراضية</string>
@@ -1173,7 +1172,6 @@
     <string name="time_end_minute">الدقيقة الاخيرة</string>
     <string name="time_formate_am">صباحا</string>
     <string name="time_formate_pm">مساء</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">" اليوم التالي "</string>
     <string name="time_start">" من "</string>
     <string name="time_start_hour">ساعة وقت البداية</string>
@@ -1211,7 +1209,6 @@
     <string name="tts_status_ok">%1$s متوافقة تمامًا</string>
     <string name="tts_status_requires_network">%1$s تتطلب اتصالاً بالشبكة</string>
     <string name="tts_status_title">حالة اللغة التلقائية</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">لا يمكن تغيير وضع TTY أثناء إجراء مكالمة فيديو</string>
     <string name="tty_mode_option_summary">تعيين وضع TTY</string>
     <string name="tty_mode_option_title">وضع TTY</string>
@@ -1251,7 +1248,6 @@
     <string name="voicemail">البريد الصوتي</string>
     <string name="voicemail_abbreviated">البريد الصوتي:</string>
     <string name="voicemail_change_pin_dialog_title">تغيير PIN</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">شركة الاتصالات الخاصة بك</string>
     <string name="voicemail_notifications_preference_title">الإشعارات</string>
     <string name="voicemail_number_not_set">>غير معين&lt;</string>
@@ -1260,7 +1256,6 @@
     <string name="voicemail_settings">الإعداد</string>
     <string name="voicemail_settings_number_label">رقم البريد الصوتي</string>
     <string name="voicemail_settings_with_label">البريد الصوتي (%s)</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">البريد الصوتي المرئي</string>
     <string name="vpn_settings_not_available">‏لا تتوفر إعدادات VPN لهذا المستخدم</string>
     <string name="vvm_unsupported_message_format">نوع رسالة غير مدعوم، اتصل بـ %s للاستماع.</string>
@@ -1270,7 +1265,6 @@
 "</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطة الدخول ممتلئة مؤقتًا</string>
     <string name="wifi_calling">مكالمات Wi-Fi</string>
-    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">مكالمات Wi-Fi</string>
     <string name="wifi_cant_connect">تعذَّر الاتصال</string>
     <string name="wifi_cant_connect_to_ap">"تعذَّر الاتصال بـ '%1$s'"</string>
