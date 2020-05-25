@@ -56,6 +56,14 @@
         <item quantity="few">%d دقائق</item>
         <item quantity="many">%d دقيقة</item>
     </plurals>
+    <plurals name="minute_text">
+        <item quantity="other">"  دق"</item>
+        <item quantity="zero">"  دق"</item>
+        <item quantity="one">"  دق"</item>
+        <item quantity="two">"  دق"</item>
+        <item quantity="few">"  دق"</item>
+        <item quantity="many">"  دق"</item>
+    </plurals>
     <plurals name="second">
         <item quantity="other">%d ثانية</item>
         <item quantity="zero">%d ثانية</item>
@@ -144,6 +152,22 @@
         <item quantity="few">غفوة لمدة %d دقائق</item>
         <item quantity="many">غفوة لمدة %d دقيقة</item>
     </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">تم تشغيل ساعة الإيقاف لمدة %s يوم. انقر للعرض.</item>
+        <item quantity="zero">تم تشغيل ساعة الإيقاف لمدة %s يوم. انقر للعرض.</item>
+        <item quantity="one">تم تشغيل ساعة الإيقاف لمدة %s يوم. انقر للعرض.</item>
+        <item quantity="two">تم تشغيل ساعة الإيقاف لمدة %s أيام. انقر للعرض.</item>
+        <item quantity="few">تم تشغيل ساعة الإيقاف لمدة %s أيام. انقر للعرض.</item>
+        <item quantity="many">تم تشغيل ساعة الإيقاف لمدة %s يوم. انقر للعرض.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">تم تشغيل ساعة الإيقاف لمدة %s ساعة. انقر للعرض.</item>
+        <item quantity="zero">تم تشغيل ساعة الإيقاف لمدة %s ساعة. انقر للعرض.</item>
+        <item quantity="one">تم تشغيل ساعة الإيقاف لمدة %s ساعة. انقر للعرض.</item>
+        <item quantity="two">تم تشغيل ساعة الإيقاف لمدة %s ساعات. انقر للعرض.</item>
+        <item quantity="few">تم تشغيل ساعة الإيقاف لمدة %s ساعات. انقر للعرض.</item>
+        <item quantity="many">تم تشغيل ساعة الإيقاف لمدة %s ساعة. انقر للعرض.</item>
+    </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ساعة "</item>
         <item quantity="zero">"%1$d ساعة "</item>
@@ -167,5 +191,21 @@
         <item quantity="two">%1$d ثواني</item>
         <item quantity="few">%1$d ثواني</item>
         <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">+ %s ساعة</item>
+        <item quantity="zero">+ %s ساعة</item>
+        <item quantity="one">+ %s ساعة</item>
+        <item quantity="two">+ %s ساعات</item>
+        <item quantity="few">+ %s ساعات</item>
+        <item quantity="many">+ %s ساعة</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">- %s ساعة</item>
+        <item quantity="zero">- %s ساعة</item>
+        <item quantity="one">- %s ساعة</item>
+        <item quantity="two">- %s ساعات</item>
+        <item quantity="few">- %s ساعات</item>
+        <item quantity="many">- %s ساعة</item>
     </plurals>
 </resources>

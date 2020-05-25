@@ -16,6 +16,14 @@
         <item quantity="few">تم فتحها حديثا، التطبيقات المتاحة: %d. مرّر لأعلى للحذف، اسحب لأسفل للقفل.</item>
         <item quantity="many">تم فتحها حديثا، التطبيقات المتاحة: %d. مرّر لأعلى للحذف، اسحب لأسفل للقفل.</item>
     </plurals>
+    <plurals name="auto_disconnect_timer_tip">
+        <item quantity="other">إنهاء المكالمة بعد %1$d ثانية</item>
+        <item quantity="zero">إنهاء المكالمة بعد %1$d ثانية</item>
+        <item quantity="one">إنهاء المكالمة بعد %1$d ثانية</item>
+        <item quantity="two">إنهاء المكالمة بعد %1$d ثواني</item>
+        <item quantity="few">إنهاء المكالمة بعد %1$d ثواني</item>
+        <item quantity="many">إنهاء المكالمة بعد %1$d ثانية</item>
+    </plurals>
     <plurals name="fold_tips_title">
         <item quantity="other">%d إشعار غير مهم</item>
         <item quantity="zero">%d إشعار غير مهم</item>

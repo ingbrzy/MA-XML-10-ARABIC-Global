@@ -4,25 +4,38 @@
         <item>مرة</item>
         <item>كل يوم</item>
         <item>أيام العمل القانونية</item>
-        <item>أيام الأسبوع</item>
+        <item>ايام الاسبوع</item>
         <item>مخصص</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>مرة</item>
         <item>كل يوم</item>
         <item>أيام الأسبوع</item>
-        <item>مخصص</item>
+        <item>تخصيص</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>كل السجلات</item>
+        <item>بدء تلقائي</item>
+        <item>بدء السلسلة</item>
+        <item>استخدام الأذونات</item>
+        <item>الإجراءات الحساسة</item>
     </string-array>
     <string-array name="applock_password_types">
         <item>نقش</item>
         <item>رمز PIN</item>
         <item>كلمة المرور</item>
     </string-array>
+    <string-array name="daily_brand">
+        <item>تخصيص</item>
+        <item>بطاقة محبي Mi</item>
+        <item>بطاقة Xiao Tiansheng</item>
+        <item>بطاقة Tencent King</item>
+    </string-array>
     <string-array name="date_of_app_all">
-        <item>"أمس (بيانات الجوال) "</item>
-        <item>"اليوم (بيانات الجوال) "</item>
-        <item>"الشهر السابق (بيانات الجوال) "</item>
-        <item>"هذا الشهر (بيانات الجوال) "</item>
+        <item>"أمس (بيانات الهاتف) "</item>
+        <item>"اليوم (بيانات الهاتف) "</item>
+        <item>"الشهر السابق (بيانات الهاتف) "</item>
+        <item>"هذا الشهر (بيانات الهاتف) "</item>
         <item>"أمس (Wi-Fi) "</item>
         <item>"اليوم (Wi-Fi) "</item>
         <item>"الشهر السابق (Wi-Fi) "</item>
@@ -50,6 +63,18 @@
         <item>"اليوم: "</item>
         <item>"هذا الشهر: "</item>
     </string-array>
+    <string-array name="debug_open_intercept">
+        <item>يمكن الوصول وتعديل الملفات الموجودة على جهازك بإستخدام جهاز الكمبيوتر.</item>
+        <item>سيسمح بتثبيت التطبيقات على جهازك دون موافقتك الصريحة.</item>
+        <item>ستتمكن من مراقبة وتسجيل محتوى الشاشة عن بُعد.</item>
+        <item>ستتمكن من الحصول على معلومات تفصيلية حول جهازك.</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>عندما يكون الجهاز مقفل</item>
         <item>عندما يكون الجهاز مقفل او بعد الخروج من تطبيق</item>
@@ -61,12 +86,40 @@
         <item>٢</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
-        <item>"استخدام بيانات الجوال "</item>
+        <item>"استخدام بيانات الهاتف "</item>
         <item>"استخدام Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>تنبية هام: قد تتوقف بعض التطبيقات عن العمل بشكل صحيح.</item>
+        <item>قد لا يتم عرض تخطيط النص والحسابات والمحتوى بشكل صحيح.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>إظهار تحذير</item>
-        <item>تنبية وإيقاف تشغيل بيانات الجوال</item>
+        <item>تنبية وإيقاف تشغيل بيانات الهاتف</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>الافتراضية</item>
@@ -75,6 +128,24 @@
     <string-array name="pc_settings_thermal_summaries">
         <item>استخدام وضع التحكم في درجة الحرارة الافتراضي</item>
         <item>أولوية الأداء</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>الوصول إلى جميع الإشعارات بما في ذلك محتوى رسائلك النصية والعناصر الأخرى التي قد تحتوي على معلومات شخصية</item>
+        <item>تقييد إشعارات الأذونات لبعض التطبيقات</item>
+        <item>محاكاة إشعارات النقر وفتح التطبيقات</item>
+        <item>تشغيل وضع عدم الإزعاج أو إيقافة</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>احصل على بيانات حول اهتماماتك وسلوكياتك من خلال معرفة التطبيقات التي تستخدمها وعدد مرات استخدامها</item>
+        <item>الوصول إلى الإعدادات المتعلقة بالمشغل ولغة الجهاز وتفاصيل المزيد</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>يمكن أن تتسبب تطبيقات الجهات الخارجية التي لم يتم التحقق منها بواسطة GetApps في حدوث سلوك غير طبيعي في الجهاز وتقليل استقرار النظام.</item>
+        <item>قد تحتوي بعض تطبيقات الجهات الخارجية على برامج ضارة تسبب في تسرب معلوماتك الشخصية.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>التخزين الداخلي</item>
+        <item>التخزين الخارجي</item>
     </string-array>
     <string-array name="roaming_network_type">
         <item>دائمًا</item>
@@ -115,7 +186,7 @@
         <item>خطة بيانات غير محدودة</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>"استخدام بيانات الجوال "</item>
+        <item>"استخدام بيانات الهاتف "</item>
         <item>"استخدام Wi-Fi "</item>
     </string-array>
 </resources>

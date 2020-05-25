@@ -6,6 +6,33 @@
  لن تظهر الرسائل في الواجهة الثانية."</string>
     <string name="PrivacyContactDes2">"إذا قمت بإستخدام الرسائل الخاصة في الواجهة الاولى،
  هذا الميزة سيتم إضافتها تلقائياً في الواجهة الثانية."</string>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="about_ent_mode">حول وضع المؤسسة</string>
     <string name="activate_ent_mode">تفعيل وضع المؤسسة</string>
     <string name="add_finger_print">إضافة بصمة الاصبع</string>
@@ -61,6 +88,7 @@
  لتتمكن من عرضهم في إي وقت"</string>
     <string name="contact_us">اتصل بنا</string>
     <string name="continueButton">متابعة</string>
+    <string name="copy">نسخ</string>
     <string name="createANewSpace">قم بإنشاء واجهة منفصلة على هاتفك.</string>
     <string name="createUserFail">تعذر الإنشاء</string>
     <string name="create_app_icon_failed">تعذر إنشاء الأيقونة</string>
@@ -149,6 +177,7 @@
     <string name="err_unknown">خطأ غير معروف</string>
     <string name="err_volume_not_enough">لا توجد مساحة تخزين كافية</string>
     <string name="exit_private_space">تبديل</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="experience_more_features">اضف جهاز لعرض جميع الميزات</string>
     <string name="facebook_login">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="facebook_send">مشاركة إلى الفيسبوك</string>
@@ -223,6 +252,7 @@
     <string name="master_clear_apply_step_2">تأكد من تخزين كافة العناصر المهمة على جهاز الكمبيوتر الخاص بك. بعد النقر على \"موافق\"، سيتم إعادة ضبط بيانات المصنع لجهازك مع إزالة جميع الملفات والبيانات، بما في ذلك الحسابات وجهات الاتصال والصور والتطبيقات.</string>
     <string name="master_clear_apply_title">تنبيه</string>
     <string name="master_clear_not_available">إعادة ضبط المصنع مقيد من قِبل شركتك.</string>
+    <string name="master_clear_not_available_ep">لا يسمح لك بإعادة ضبط إعدادات المصنع أو إلغاء الترخيص الآن. تواصل بمشرفك.</string>
     <string name="menu_item_about_privacy_title">سياسة الخصوصية</string>
     <string name="messageData">الرسائل</string>
     <string name="more_settings">المزيد</string>
@@ -240,6 +270,7 @@
     <string name="next_setp">التالي</string>
     <string name="no_match_repate_scanner">تعذر العثور على بصمات اصبع مطابقة، افحص مرة اخرى</string>
     <string name="normal_app">الواجهة الاولى</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="not_support_air_space">هذه الميزة غير مدعومة على هاتفك</string>
     <string name="not_support_multiple_users">الواجهات المتعددة غير مدعومة</string>
     <string name="notificationSetPassword">تعيين كلمة المرور</string>
@@ -262,6 +293,7 @@
     <string name="passwordProtect">كلمة السر</string>
     <string name="please_diff_finger_print">"تاكد من استخدام بصمات اصبع مختلفة في الواجهة الاولى والواجهة الثانية.
 وإلا فإنك لن تكون قادرا على الدخول الى الواجهة الثانية من شاشة القفل."</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacyContactsSummary">عرض العناصر الخاصة في الواجهة الثانية</string>
     <string name="privacyContactsTitle">رسائل خاصة و جهات الاتصال</string>
     <string name="privacy_password_fingerprint_dialog_message">ضع إصبعك على المستشعر</string>
@@ -312,6 +344,7 @@
 إذا لم تقم بالتحديث، فقد لا تعمل التطبيقات المزدوجة بشكل صحيح."</string>
     <string name="sdcradfs_dialog_in_sec_title">تحديث مهم</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">البحث</string>
     <string name="search_result_text">تعذر العثور على أية تطبيقات</string>
     <string name="secondSpace">الواجهة الثانية</string>
     <string name="second_owner_finger_print">بصمة اصبع الواجهة الثانية</string>
@@ -392,6 +425,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">هل تريد حذف جميع التطبيقات المزدوجة مع حساباتها وبيانات التطبيق؟ سيتم إعادة تشغيل جهازك لتعيين هذا التغيير.</string>
     <string name="stop_xspace_alert_title">حذف حسابات التطبيقات المزدوجة</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_switch_apps_settings">تحديد التطبيقات المستخدمة في الواجهة الحالية</string>
     <string name="support_desc">خدمات الحماية مقدمة من طرف Spaces Mobile</string>
     <string name="sure_to_use">تأكيد</string>
@@ -441,6 +475,8 @@
     <string name="undo_success">تم إلغاء الترخيص بنجاح</string>
     <string name="use_google_open">إيقاظ بإستخدام مساعد Google</string>
     <string name="use_xiaoai_open">إيقاظ بإستخدام Mi AI</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
     <string name="wating">لحظة من فضلك…</string>
     <string name="weibo_send">الإرسال إلى Weibo</string>
     <string name="weixin_pay">دفع WeChat</string>
@@ -460,6 +496,8 @@
     <string name="xspace_description">"التطبيقات المزدوجة عبارة عن نسخ لتطبيقات يمكن استخدامها بشكل منفصل مع حساب مختلف.
 
 تتطلب من بعض التطبيقات المزدوجة دعم إطار عمل خدمات Google. في مثل هذه الحالات، يتم إنشاء إطار خدمات Google المزدوج."</string>
+    <string name="xspace_disable">لم يتم الإنشاء</string>
+    <string name="xspace_enable">تم الانشاء</string>
     <string name="xspace_facebook_title">فيسبوك</string>
     <string name="xspace_guide_des">استخدم ٢ حسابات دون تبديل</string>
     <string name="xspace_guide_title">إنشاء تطبيق مزدوج</string>
@@ -472,9 +510,12 @@
     <string name="xspace_introduce">موصى به</string>
     <string name="xspace_label">التطبيقات المزدوجة</string>
     <string name="xspace_loading_msg">جارٍ تحميل التطبيقات…</string>
+    <string name="xspace_notification">إشعارات التطبيقات المزدوجة</string>
+    <string name="xspace_notification_error">سجل الدخول المزدوج إلى WeChat وحاول مجددا</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">حذف حسابات التطبيقات المزدوجة</string>
     <string name="xspace_setting_label">إعدادات التطبيق المزدوج</string>
+    <string name="xspace_settins">تعيين</string>
     <string name="xspace_uninstall_completed">تم إلغاء تثبيت التطبيق المزدوج بنجاح</string>
     <string name="xspace_uninstall_dialog_content">إلغاء تثبيت التطبيقات المزدوجة سيزيل كل بيانات التطبيق.</string>
     <string name="xspace_uninstall_dialog_title">إلغاء تثبيت التطبيق المزدوج</string>

@@ -58,9 +58,9 @@
     <string name="selected_count">تم تحديد %1$d من %2$d</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="DOWNLOAD_UNIT_BIT">بايت</string>
-    <string name="DOWNLOAD_UNIT_GB">غيغابايت</string>
+    <string name="DOWNLOAD_UNIT_GB">جيجابايت</string>
     <string name="DOWNLOAD_UNIT_KB">كيلوبايت</string>
-    <string name="DOWNLOAD_UNIT_MB">ميغابايت</string>
+    <string name="DOWNLOAD_UNIT_MB">ميجابايت</string>
     <string name="DOWNLOAD_UNIT_TB">تيرابايت</string>
     <string name="about">حول</string>
     <string name="action_settings">الإعدادات</string>
@@ -204,8 +204,8 @@
     <string name="petabyteShort_per_seconds">ب.ب/ث</string>
     <string name="pref_download_settings_title">حد حجم التنزيل</string>
     <string name="pref_summary_any_bytes_popup">انتظر اتصال شبكة Wi-Fi دائما لتنزيل الملفات</string>
-    <string name="pref_summary_enable_max_bytes_popup">عرض الإشعارات المنبثقة عند استعمال اتصال بيانات الجوال لتنزيل المحتوى</string>
-    <string name="pref_summary_max_bytes_limit_format">انتظار الاتصال بشبكة Wi-Fi إذا تجاوز حجم الملف %s</string>
+    <string name="pref_summary_enable_max_bytes_popup">عرض الإشعارات المنبثقة عند استعمال اتصال بيانات الهاتف لتنزيل المحتوى</string>
+    <string name="pref_summary_max_bytes_limit_format">انتظار خدمة Wi-Fi إذا تجاوز حجم الملف %s</string>
     <string name="pref_summary_no_limit_popup">غير محدود</string>
     <string name="pref_title_enable_max_bytes_popup">عرض طلب استخدام البيانات</string>
     <string name="preferences_title">الإعدادات</string>
@@ -237,7 +237,7 @@
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة ذاكرة SD</string>
     <string name="storage_usb">وحدة تخزين USB</string>
-    <string name="subbt_downloading">جار التنزيل …</string>
+    <string name="subbt_downloading">جارٍ التنزيل…</string>
     <string name="subbt_fail">فشل</string>
     <string name="subbt_pause">إيقاف مؤقت</string>
     <string name="subbt_wait">جارٍ الإنتظار…</string>
@@ -249,5 +249,5 @@
     <string name="toast_only_wifi_download">قم بالاتصال بالـ Wi-Fi لتنزيل هذا العنصر</string>
     <string name="total_speedup">زيادة السرعة (الإجمالي)</string>
     <string name="version">الإصدار %s</string>
-    <string name="security_ui_title">Security ads</string>
+    <string name="security_ui_title">اعلانات الحماية</string>
 </resources>

@@ -181,9 +181,6 @@
     <string name="bugreport_in_power">اختصار تقرير الأخطاء</string>
     <string name="bugreport_in_power_summary">عرض زر في قائمة خيارات التشغيل لإعداد تقرير بالأخطاء</string>
     <string name="button_convert_fbe">مسح وتحويل…</string>
-    <string name="callFailed_simError">خطأ في بطاقة SIM</string>
-    <string name="can_not_dial_vt_while_voice_prompt">لا يمكن إجراء مكالمة فيديو أثناء إجراء اتصال صوتي</string>
-    <string name="can_not_dial_while_vt_prompt">لا يمكن الاتصال في حين مكالمة فيديو قيد التشغيل</string>
     <string name="cancel">إلغاء</string>
     <string name="cant_call_due_to_no_supported_service">يتعذَّر إجراء المكالمة بسبب عدم وجود حسابات اتصال يمكن استخدامها مع المكالمات من هذا النوع.</string>
     <string name="cant_call_due_to_ongoing_call">لا يمكن إجراء مكالمة. هناك مكالمة أخرى %1$s جاريه.</string>
@@ -203,7 +200,6 @@
     <string name="charge_length_format">قبل %1$s</string>
     <string name="choose_profile">اختيار ملف شخصي</string>
     <string name="clear_adb_keys">‏إلغاء عمليات تفويض تصحيح أخطاء USB</string>
-    <string name="close">إيقاف التشغيل</string>
     <string name="confirm_enable_oem_unlock_text">تحذير: لن تعمل ميزات الحماية على هذا الجهاز أثناء تشغيل هذا الإعداد.</string>
     <string name="confirm_enable_oem_unlock_title">هل تريد السماح بإلغاء قفل المصنّع الأصلي للجهاز؟</string>
     <string name="connected_via_app">تم الاتصال عبر %1$s.</string>
@@ -254,8 +250,6 @@
     <string name="development_settings_not_available">لا تتوفر خيارات مطوّر البرامج لهذا المستخدم</string>
     <string name="development_settings_summary">تعيين خيارات تطوير التطبيق</string>
     <string name="development_settings_title">خيارات مطور البرامج</string>
-    <string name="dial_conference_fail_prompt">لا يمكن طلب مكالمة جماعية وذلك لأن الشبكة الحالية لا تدعم VoLTE.</string>
-    <string name="dial_vt_fail_prompt">الشبكة الحالية لا تدعم VoLTE. التبديل إلى مكالمة صوتية عادية؟</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة: بعد إعادة التشغيل، يتعذر بدء هذا التطبيق إلى أن تلغي قفل هاتفك.</string>
     <string name="disable_overlays">إيقاف تراكبات الأجهزة</string>
     <string name="disable_overlays_summary">استخدام وحدة معالجة الرسومات دائمًا لتركيب الشاشة</string>
@@ -300,9 +294,6 @@
     <string name="inactive_app_active_summary">نشط، انقر للتبديل.</string>
     <string name="inactive_app_inactive_summary">غير نشط، انقر للتبديل.</string>
     <string name="inactive_apps_title">تطبيقات وضع الاستعداد</string>
-    <string name="incall_error_call_failed">تعذر إجراء المكالمة.</string>
-    <string name="incall_error_power_off">قم بإيقاف تشغيل وضع الطيران لإجراء مكالمة.</string>
-    <string name="incall_error_supp_service_unknown">هذه الخدمة غير مدعومة.</string>
     <string name="install_other_apps">تثبيت التطبيقات غير المعروفة</string>
     <string name="keep_screen_on">البقاء في الوضع النشط</string>
     <string name="keep_screen_on_summary">لا يتم مطلقًا دخول الشاشة في وضع السكون أثناء الشحن</string>
@@ -318,7 +309,6 @@
     <string name="managed_user_title">كل تطبيقات العمل</string>
     <string name="media_category">الوسائط</string>
     <string name="media_transfer_this_device_name">هذا الجهاز</string>
-    <string name="missedcall_notification_public_version_title">الهاتف</string>
     <string name="mobile_data_always_on">بيانات الجوّال نشطة دائمًا</string>
     <string name="mobile_data_always_on_summary">‏اجعل بيانات الجوّال نشطة دائمًا، حتى عندما يكون اتصال Wi‑Fi نشطًا (لتبديل الشبكة بسرعة).</string>
     <string name="mock_location_app">اختيار تطبيق الموقع الزائف</string>
@@ -353,7 +343,6 @@
     <string name="no_vm_number_msg">لا يوجد رقم بريد صوتي مخزن على بطاقة SIM.</string>
     <string name="non_primary_user">يمكن فقط لمالك الجهاز عرض وإدارة الأرقام المحظورة.</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
-    <string name="notification_AllMissedCallTitle">كل المكالمات الفائتة</string>
     <string name="notification_channel_call_blocking">حظر المكالمات</string>
     <string name="notification_channel_incoming_call">المكالمات الواردة</string>
     <string name="notification_channel_missed_call">المكالمات الفائتة</string>
@@ -362,7 +351,6 @@
     <string name="notification_missedCallTicker">مكالمات فائتة من %s</string>
     <string name="notification_missedCallTitle">مكالمة فائتة</string>
     <string name="notification_missedCall_call_back">إعادة المكالمة</string>
-    <string name="notification_missedCall_call_back_miui">اتصال</string>
     <string name="notification_missedCall_message">رسالة</string>
     <string name="notification_missedCallsMsg">%s مكالمات فائتة</string>
     <string name="notification_missedCallsTitle">المكالمات الفائتة</string>
@@ -419,6 +407,7 @@
     <string name="private_dns_mode_provider">اسم مضيف مزوّد \"نظام أسماء النطاقات الخاص\"</string>
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">يُرجى إدخال اسم مضيف \"مزوّد نظام أسماء النطاقات\"</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="remaining_length_format">يتبقى %1$s</string>
     <string name="respond_via_sms_canned_response_1">لا يمكنني التحدث الآن. ماذا هناك؟</string>
     <string name="respond_via_sms_canned_response_2">سأرد الاتصال بك فورا.</string>
@@ -546,9 +535,6 @@
     <string name="v7_preference_on">تفعيل</string>
     <string name="verify_apps_over_usb_summary">‏التحقق من التطبيقات المثبتة عبر ADB/ADT لكشف السلوك الضار</string>
     <string name="verify_apps_over_usb_title">‏التحقق من التطبيقات عبر USB</string>
-    <string name="voice_dial_out">مكالمة صوتية</string>
-    <string name="voice_report_incoming_call">مكالمة واردة</string>
-    <string name="voice_report_unknown_num">رقم غير معروف</string>
     <string name="vpn_settings_not_available">‏لا تتوفر إعدادات VPN لهذا المستخدم</string>
     <string name="wait_for_debugger">انتظار برنامج التصحيح</string>
     <string name="wait_for_debugger_summary">ينتظر التطبيق قيد التصحيح انضمام برنامج التصحيح قبل التنفيذ</string>

@@ -16,21 +16,13 @@
         <item quantity="few">%1$s نسخ احتياطية (%2$s)</item>
         <item quantity="many">%1$s نسخة احتياطية (%2$s)</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">استعادة %d ملف</item>
-        <item quantity="zero">استعادة %d ملف</item>
-        <item quantity="one">استعادة %d ملف</item>
-        <item quantity="two">استعادة %d ملفات</item>
-        <item quantity="few">استعادة %d ملفات</item>
-        <item quantity="many">استعادة %d ملف</item>
-    </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">أولوية عالية: %d تطبيق</item>
-        <item quantity="zero">أولوية عالية: %d تطبيق</item>
-        <item quantity="one">أولوية عالية: %d تطبيق</item>
-        <item quantity="two">أولوية عالية: %d تطبيقات</item>
-        <item quantity="few">أولوية عالية: %d تطبيقات</item>
-        <item quantity="many">أولوية عالية: %d تطبيق</item>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d تطبيق على هذا الجهاز</item>
+        <item quantity="zero">%d تطبيق على هذا الجهاز</item>
+        <item quantity="one">%d تطبيق على هذا الجهاز</item>
+        <item quantity="two">%d تطبيقات على هذا الجهاز</item>
+        <item quantity="few">%d تطبيقات على هذا الجهاز</item>
+        <item quantity="many">%d تطبيق على هذا الجهاز</item>
     </plurals>
     <plurals name="restore_app_order_normal">
         <item quantity="other">أولوية عادية: %d تطبيق</item>
@@ -40,12 +32,20 @@
         <item quantity="few">أولوية عادية: %d تطبيقات</item>
         <item quantity="many">أولوية عادية: %d تطبيق</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d تطبيق على هذا الجهاز</item>
-        <item quantity="zero">%d تطبيق على هذا الجهاز</item>
-        <item quantity="one">%d تطبيق على هذا الجهاز</item>
-        <item quantity="two">%d تطبيقات على هذا الجهاز</item>
-        <item quantity="few">%d تطبيقات على هذا الجهاز</item>
-        <item quantity="many">%d تطبيق على هذا الجهاز</item>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">أولوية عالية: %d تطبيق</item>
+        <item quantity="zero">أولوية عالية: %d تطبيق</item>
+        <item quantity="one">أولوية عالية: %d تطبيق</item>
+        <item quantity="two">أولوية عالية: %d تطبيقات</item>
+        <item quantity="few">أولوية عالية: %d تطبيقات</item>
+        <item quantity="many">أولوية عالية: %d تطبيق</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">استعادة %d ملف</item>
+        <item quantity="zero">استعادة %d ملف</item>
+        <item quantity="one">استعادة %d ملف</item>
+        <item quantity="two">استعادة %d ملفات</item>
+        <item quantity="few">استعادة %d ملفات</item>
+        <item quantity="many">استعادة %d ملف</item>
     </plurals>
 </resources>

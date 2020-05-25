@@ -17,6 +17,7 @@
     <string name="dialog_connect_verify_perssion_fail">لم يتمكن بث شاشة الجهاز على التلفزيون. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="dialog_connected">متصل</string>
     <string name="dialog_connecting">جارٍ الاتصال…</string>
+    <string name="dialog_nfc_cast_wifi_off">قم بتشغيل شبكة Wi-Fi للبث بإستخدام NFC. تشغيلها الآن؟</string>
     <string name="dialog_ok">موافق</string>
     <string name="dialog_only_suport_content">بث الصور والفيديوهات والموسيقى</string>
     <string name="dialog_open_wifi_bt">تشغيل</string>
@@ -41,6 +42,11 @@
     <string name="help_page_text_05">الخطوة ١: تحقق من الأجهزة وبيئة الشبكة</string>
     <string name="help_page_text_06">"١. لا تحتاج إلى الاتصال بالانترنت إذا كنت تريد بث شيء ما من هاتف Mi إلى تلفزيون Mi.
 ٢. إذا لم تتمكن من إنشاء اتصال بين الجهازين، فحاول توصيل كل منهما بنفس شبكة Wi-Fi."</string>
+    <string name="help_page_text_06_global">"١. أجهزة تلفزيون Mi و أجهزة Mi Boxes وأجهزة برجوكتور Mi:
+قم بتوصيل كل من هاتفك والشاشة الخارجية بنفس شبكة Wi-Fi للحصول على أفضل تأثير. إذا كانت متصلة بشبكات مختلفة، فقد يستغرق الأمر المزيد من الوقت للعثور على الشاشة الخارجية والاتصال.
+ملاحظة: قد لا تدعم أجهزة تلفزيون Mi القديمة أجهزة البث عبر شبكات مختلفة.
+٢. إذا كنت تستخدم أجهزة تلفزيون أو أجهزة فك التشفير أو أجهزة بروجكتور من علامات تجارية أخرى، فقم بتوصيل كل من هاتفك وشاشة العرض الخارجية بشبكة Wi-Fi نفسها.
+إذا تعذر توصيل الجهازين بنفس الشبكة، فقم بتشغيل Miracast على الشاشة الخارجية. قد تختلف تسمية وظيفة Miracast."</string>
     <string name="help_page_text_08">الخطوة ٢: شغل بث الشاشة</string>
     <string name="help_page_text_09">انقر على مفتاح \"بث الشاشة\" في مركز إشعارات هاتفك لتشغيلة. ثم قم بتشغيل كلاً من Wi-Fi والبلوتوث للحصول على اتصال أكثر استقرارًا.</string>
     <string name="help_page_text_10">إذا اردت بث عناصر من المعرض أو فيديو Mi، فيمكنك استخدام ميزات البث المدمجة في هذه التطبيقات.</string>
@@ -87,7 +93,7 @@
     <string name="help_page_text_40">أولاً، تأكد من أن وظيفة Miracast مدعومة على جهازك. في بعض الطرزات، يمكنك تحديد التطبيقات> انعكاس الشاشة.</string>
     <string name="help_page_text_41">دعم عملاء Panasonic: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">أولاً، تأكد من أن وظيفة Miracast مدعومة على جهازك. في بعض الطرزات، يمكنك تحديد النظام > أدوات النظام > شاشات متعددة > انعكاس الشاشة.</string>
+    <string name="help_page_text_43">تحقق من إعدادات جهاز التلفزيون للتأكد من أن الشاشة الخارجية تدعم وظيفة Miracast.</string>
     <string name="help_page_text_44">دعم عملاء Changhong: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">أولاً، تأكد من أن وظيفة Miracast مدعومة على جهازك. في بعض الطرزات، يمكنك تحديد التطبيقات > عرض لاسلكي.</string>
@@ -102,6 +108,7 @@
 ٤. إذا واجهتك أي مشاكل، فيمكنك الإبلاغ عنها باستخدام تطبيق \"الخدمات والتعليقات\"."</string>
     <string name="help_page_text_55_global">إذا لم تتمكن من الاتصال بالشبكة، فتأكد من أن الشاشة الخارجية تدعم وظيفة Miracast وأنها قيد التشغيل. في بعض الأجهزة، تسمى هذه الميزة \"العرض اللاسلكي\" أو \"انعكاس الشاشة\" أو \"شاشات متعددة\". إذا واجهتك أي مشاكل، فيمكنك الإبلاغ عنها باستخدام تطبيق \"الخدمات والتعليقات\".</string>
     <string name="help_page_text_end">إذا لم تكن ماركة جهازك مدرجة هنا، فاتصل بالشركة المصنعة لمعرفة المزيد عن وظيفة بث الشاشة.</string>
+    <string name="nfc_connect_failed_toast">لا يمكن البث. حاول مجددا.</string>
     <string name="notification_rc_title">مساعد تلفزيون Xiaomi</string>
     <string name="notification_show_more">انقر لعرض المزيد من الميزات</string>
     <string name="privacy_agree">أوافق</string>
@@ -120,13 +127,15 @@
     <string name="san_wait_msg_3">يسهل العثور على الأجهزة الخارجية عندما تكون متصله بنفس الشبكة التى على هاتفك</string>
     <string name="san_wait_msg_4">عرض \"المساعدة\" إذا لم تتمكن من العثور على الأجهزة</string>
     <string name="small_window">تصغير النافذة</string>
+    <string name="small_window_not_supported">لا يمكن تصغير هذا التطبيق أثناء البث</string>
     <string name="status_bar_in_casting">جارٍ البث…</string>
     <string name="status_bar_in_casting_long">انقر لعرض المزيد من ميزات بث الشاشة</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="tile_label">بث الشاشة</string>
     <string name="toast_guide_show_more">معرفة المزيد</string>
     <string name="toast_guide_title">استكشف ميزاتنا الجديدة هنا</string>
     <string name="toast_msg_for_multi_window">لا يمكن استخدام هذه الميزة مع تقسيم الشاشة</string>
     <string name="toast_msg_for_small_window">يمكنك تصغير نافذة البث لتتمكن من إستخدام الميزات الأخرى على الجهاز دون مقاطعة عملية البث.</string>
+    <string name="toast_nfc_dont_move">لا تحرك هاتفك بعيدا</string>
     <string name="toast_title_for_small_window">اختر \"تصغير النافذة\" في التطبيق</string>
+    <string name="toast_turn_off_hotspot_before_cast">أوقف تشغيل نقطة الاتصال المحمولة قبل البث</string>
 </resources>

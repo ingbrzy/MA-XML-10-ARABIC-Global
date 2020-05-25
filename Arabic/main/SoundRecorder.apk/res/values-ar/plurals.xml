@@ -56,6 +56,22 @@
         <item quantity="few">تم تنزيل %d تسجيلات</item>
         <item quantity="many">تم تنزيل %d تسجيل</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">البحث في %d تسجيل</item>
+        <item quantity="zero">البحث في %d تسجيل</item>
+        <item quantity="one">البحث في %d تسجيل</item>
+        <item quantity="two">البحث في %d تسجيلات</item>
+        <item quantity="few">البحث في %d تسجيلات</item>
+        <item quantity="many">البحث في %d تسجيل</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">البحث في %d تسجيل مكالمة</item>
+        <item quantity="zero">البحث في %d تسجيل مكالمة</item>
+        <item quantity="one">البحث في %d تسجيل مكالمة</item>
+        <item quantity="two">البحث في %d تسجيلات مكالمات</item>
+        <item quantity="few">البحث في %d تسجيلات مكالمات</item>
+        <item quantity="many">البحث في %d تسجيل مكالمة</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">تم العثور على %d تسجيل</item>
         <item quantity="zero">تم العثور على %d تسجيل</item>

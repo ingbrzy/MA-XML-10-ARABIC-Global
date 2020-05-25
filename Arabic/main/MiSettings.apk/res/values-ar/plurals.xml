@@ -8,6 +8,22 @@
         <item quantity="few">%d أيام</item>
         <item quantity="many">%d يوم</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">لقد استخدمت الجهاز لمدة %d دقيقة دون توقف</item>
+        <item quantity="zero">لقد استخدمت الجهاز لمدة %d دقيقة دون توقف</item>
+        <item quantity="one">لقد استخدمت الجهاز لمدة %d دقيقة دون توقف</item>
+        <item quantity="two">لقد استخدمت الجهاز لمدة %d دقائق دون توقف</item>
+        <item quantity="few">لقد استخدمت الجهاز لمدة %d دقائق دون توقف</item>
+        <item quantity="many">لقد استخدمت الجهاز لمدة %d دقيقة دون توقف</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d دق</item>
+        <item quantity="zero">%d دق</item>
+        <item quantity="one">%d دق</item>
+        <item quantity="two">%d دق</item>
+        <item quantity="few">%d دق</item>
+        <item quantity="many">%d دق</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>
         <item quantity="zero">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>
@@ -48,6 +64,46 @@
         <item quantity="few">%d أيام</item>
         <item quantity="many">%d يوم</item>
     </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">متوسط فتح قفل الجهاز: %.2f مرة</item>
+        <item quantity="zero">متوسط فتح قفل الجهاز: %.2f مرة</item>
+        <item quantity="one">متوسط فتح قفل الجهاز: %.2f مرة</item>
+        <item quantity="two">متوسط فتح قفل الجهاز: %.2f مرات</item>
+        <item quantity="few">متوسط فتح قفل الجهاز: %.2f مرات</item>
+        <item quantity="many">متوسط فتح قفل الجهاز: %.2f مرة</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">تم فتح القفل %d مرة</item>
+        <item quantity="zero">تم فتح القفل %d مرة</item>
+        <item quantity="one">تم فتح القفل %d مرة</item>
+        <item quantity="two">تم فتح القفل %d مرات</item>
+        <item quantity="few">تم فتح القفل %d مرات</item>
+        <item quantity="many">تم فتح القفل %d مرة</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">تم فتح القفل %d مرة</item>
+        <item quantity="zero">تم فتح القفل %d مرة</item>
+        <item quantity="one">تم فتح القفل %d مرة</item>
+        <item quantity="two">تم فتح القفل %d مرات</item>
+        <item quantity="few">تم فتح القفل %d مرات</item>
+        <item quantity="many">تم فتح القفل %d مرة</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s س</item>
+        <item quantity="zero">≈%s س</item>
+        <item quantity="one">≈%s س</item>
+        <item quantity="two">≈%s س</item>
+        <item quantity="few">≈%s س</item>
+        <item quantity="many">≈%s س</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s دق</item>
+        <item quantity="zero">≈%s دق</item>
+        <item quantity="one">≈%s دق</item>
+        <item quantity="two">≈%s دق</item>
+        <item quantity="few">≈%s دق</item>
+        <item quantity="many">≈%s دق</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">تم إلغاء القفل %d مرة</item>
         <item quantity="zero">تم إلغاء القفل %d مرة</item>
@@ -57,12 +113,12 @@
         <item quantity="many">تم إلغاء القفل %d مرة</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">تم إلغاء القفل %d مرة</item>
-        <item quantity="zero">تم إلغاء القفل %d مرة</item>
-        <item quantity="one">تم إلغاء القفل %d مرة</item>
-        <item quantity="two">تم إلغاء القفل %d مرات</item>
-        <item quantity="few">تم إلغاء القفل %d مرات</item>
-        <item quantity="many">تم إلغاء القفل %d مرة</item>
+        <item quantity="other">تم فتح القفل %d مرة</item>
+        <item quantity="zero">تم فتح القفل %d مرة</item>
+        <item quantity="one">تم فتح القفل %d مرة</item>
+        <item quantity="two">تم فتح القفل %d مرات</item>
+        <item quantity="few">تم فتح القفل %d مرات</item>
+        <item quantity="many">تم فتح القفل %d مرة</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
         <item quantity="other">%d إشعار مستلم</item>
@@ -175,6 +231,22 @@
         <item quantity="two">أيام الأسبوع: %d دقائق</item>
         <item quantity="few">أيام الأسبوع: %d دقائق</item>
         <item quantity="many">أيام الأسبوع: %d دقيقة</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s س</item>
+        <item quantity="zero">%s س</item>
+        <item quantity="one">%s س</item>
+        <item quantity="two">%s س</item>
+        <item quantity="few">%s س</item>
+        <item quantity="many">%s س</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s دق</item>
+        <item quantity="zero">%s دق</item>
+        <item quantity="one">%s دق</item>
+        <item quantity="two">%s دق</item>
+        <item quantity="few">%s دق</item>
+        <item quantity="many">%s دق</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" س"</item>

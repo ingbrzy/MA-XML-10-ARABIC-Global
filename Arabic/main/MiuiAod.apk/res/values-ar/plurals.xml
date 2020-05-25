@@ -8,4 +8,12 @@
         <item quantity="few">" %1$sساعات %2$s"</item>
         <item quantity="many">" %1$sساعة %2$s"</item>
     </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
 </resources>

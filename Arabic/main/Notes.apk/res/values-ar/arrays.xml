@@ -42,7 +42,7 @@
         <item>حسب تاريخ التعديل</item>
     </string-array>
     <string-array name="second_guide_contents">
-        <item>الملاحظات الصوتية</item>
+        <item>ملاحظات صوتية</item>
         <item>قم بإنشاء الملاحظات باستخدام محرك الكلام إلى النص المدمج مع إرفاق التسجيلات الأصلية لصوتك إلى الملاحظات.</item>
     </string-array>
     <string-array name="second_guide_contents_pad_or_inter">

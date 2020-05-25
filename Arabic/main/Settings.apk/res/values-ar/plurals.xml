@@ -176,6 +176,14 @@
         <item quantity="few">‏تتبقى %d أيام</item>
         <item quantity="many">‏يتبقى %d يومًا</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d جهاز متاح</item>
+        <item quantity="zero">%d جهاز متاح</item>
+        <item quantity="one">%d جهاز متاح</item>
+        <item quantity="two">%d أجهزة متاحة</item>
+        <item quantity="few">%d أجهزة متاحة</item>
+        <item quantity="many">%d جهاز متاح</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d جهاز</item>
         <item quantity="zero">%d جهاز</item>
@@ -607,6 +615,14 @@
         <item quantity="two">تم منح %1$d من %2$d من الأذونات</item>
         <item quantity="few">تم منح %1$d من %2$d من الأذونات</item>
         <item quantity="many">تم منح %1$d من %2$d من الأذونات</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s ثانية</item>

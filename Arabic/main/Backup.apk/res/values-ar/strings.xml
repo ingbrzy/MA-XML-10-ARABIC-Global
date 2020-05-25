@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="abort_backup_confirm">لم يتم الانتهاء من النسخ الاحتياطي. التوقف على أية حال؟</string>
     <string name="abort_restore_confirm">لم يتم الانتهاء من الاستعادة. التوقف على أية حال؟</string>
     <string name="account_contact_backup_info">حساب Google، حساب Mi، و بيانات جهات الاتصال</string>
@@ -109,6 +136,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="connect_wifi">الإتصال بشبكة Wi-Fi</string>
     <string name="connect_wifi_tip">تعذر الاتصال بالشبكة. اتصل بشبكة Wi-Fi للاستيراد من iCloud.</string>
     <string name="contact_title">جهات الاتصال</string>
+    <string name="copy">نسخ</string>
     <string name="current_account">مرحباً %s</string>
     <string name="current_pad_location">Pad</string>
     <string name="current_phone_location">الهاتف</string>
@@ -132,6 +160,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_backup_password_change_machine_tips">لا يمكنك نقل النُسخ الاحتياطية المحمية بكلمة مرور. قم بتعطيل كلمة المرور قبل استخدام ناقل Mi.</string>
     <string name="dialog_backup_password_restore_tips">لا يمكن استرداد العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
     <string name="dialog_backup_password_to_settings">الإعدادات</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">غير مشفر</string>
     <string name="disable_encrypt_title">إيقاف التشفير</string>
@@ -161,6 +190,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="error_permissions">لا يمتلك هذا التطبيق الأذونات المطلوبة للوصول إلى التقويم. انتقل إلى الإعدادات وتحقق من الأذونات للمتابعة.</string>
     <string name="every_day">كل يوم</string>
     <string name="exchange_account">تبديل الحسابات</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="fail">فشل</string>
     <string name="failed_description">فشل</string>
     <string name="feature_title_account">حساب Mi</string>
@@ -225,15 +255,45 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 ٢\u0009.اذهب إلى إعدادات Mi Talk واختر \"نسخ جهات الاتصال احتياطيًا إلى حساب Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">إذا كان لديك نسخة احتياطية مسبقة. المس التالي.</string>
     <string name="import_from_xiaomi_account_hint_title">استخدم Mi Talk لنسخ جهات الاتصال احتياطيًا عبر الأجهزة.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
     <string name="lack_perm_msg">يحتاج ناقل Mi الأذونات التالية: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">يتطلب أذونات</string>
     <string name="list_footer_tip_title">نصائح:</string>
     <string name="loading_data">تحميل البيانات</string>
     <string name="local_app_name">النسخ الاحتياطي</string>
+    <string name="local_back_up_detail_description">"ملاحظة:
+١. لتجنب فقدان البيانات، انسخ النُسخ الاحتياطية المحلية إلى جهاز الكمبيوتر الخاص بك.
+٢. قم دائمًا بنسخ النُسخ الاحتياطية المحلية إلى جهاز الكمبيوتر الخاص بك قبل إجراء إعادة ضبط المصنع وإلا سيتم فقدان النُسخ الاحتياطية المحلية.
+
+٣. أين يتم تخزين النُسخ الاحتياطية المحلية؟ %1$s"</string>
+    <string name="local_backup_select_activity">إنشاء نسخة احتياطية</string>
     <string name="local_backup_window_title">بيانات النسخ الاحتياطي المحلية</string>
+    <string name="local_button_backup_data">نسخ احتياطي</string>
+    <string name="local_button_backup_now">نسخ احتياطي</string>
+    <string name="local_button_restore_data">استعادة إلى هذا الجهاز</string>
+    <string name="local_button_restore_now">استعادة</string>
+    <string name="local_click_to_jump">انقر للعرض</string>
+    <string name="local_config_off">متوقف</string>
+    <string name="local_config_on">مشغل</string>
     <string name="local_home_title">عمل نسخة احتياطية محليا</string>
+    <string name="local_main_auto_backup_title">النسخ الاحتياطي التلقائي</string>
+    <string name="local_main_backup">نسخ احتياطي محلي</string>
+    <string name="local_main_backup_and_restore">على هذا الجهاز</string>
+    <string name="local_main_backup_detail_title">إعدادات النظام والحسابات وبيانات التطبيقات</string>
+    <string name="local_main_backup_manage_null">%s</string>
+    <string name="local_main_backup_manager">إدارة النُسخ الاحتياطية المحلية</string>
+    <string name="local_main_backup_manager_title">إدارة النُسخ الاحتياطية</string>
+    <string name="local_main_backup_settings">إعدادات النسخ الاحتياطي</string>
+    <string name="local_main_backup_time">"اخر نسخ احتياطي:  %1$s"</string>
+    <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+    <string name="local_main_encrypt_backup_summary">تشفير العناصر التي تم نسخها احتياطيا بإستخدام حساب Mi</string>
+    <string name="local_main_encrypt_backup_title">تشفير النُسخ الاحتياطية</string>
+    <string name="local_main_latest_backup_time_loading">لحظة من فضلك…</string>
     <string name="local_no_backup">لاتوجد نسخ احتياطية.</string>
+    <string name="local_no_backup_data">لا توجد نُسخ احتياطية هنا</string>
+    <string name="local_restore_select_activity">إدارة النُسخ الاحتياطية</string>
+    <string name="local_restore_select_data_activity">استعادة من نسخة احتياطية</string>
     <string name="local_restore_window_title">الاستعادة محلياً</string>
     <string name="local_select_account_contact">الحسابات وجهات الاتصال</string>
     <string name="local_select_audio">ملفات صوتية</string>
@@ -246,7 +306,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="login">تسجيل الدخول</string>
     <string name="login_failed">تعذر تسجيل الدخول، حاول مجددا.</string>
     <string name="logining">جارٍ تسجيل الدخول…</string>
-    <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Xiaomi Cloud، سمات MIUI وغيرها من خدمات Mi من أي مكان.</string>
+    <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Xiaomi Cloud، ثيمات MIUI وغيرها من خدمات Mi من أي مكان.</string>
     <string name="miliao_account_login">تسجيل الدخول مع Mi Talk</string>
     <string name="mms_title">رسائل الوسائط المتعددة</string>
     <string name="multi_select_title">%1$s محدد</string>
@@ -256,8 +316,57 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="name_password_not_consistent">اسم المستخدم او كلمة المرور غير صحيحة</string>
     <string name="never">أبداً</string>
     <string name="new_backup">نسخ احتياطي</string>
+    <string name="new_britem_audio">الصوت</string>
+    <string name="new_britem_doc">الملفات</string>
+    <string name="new_britem_other">أخرى</string>
+    <string name="new_britem_pic">الصور</string>
+    <string name="new_britem_video">الفيديوهات</string>
+    <string name="new_confirm_enable_encrypt_content">يربط MIUI النُسخ الاحتياطية المشفرة بحساب Xiaomi. ولذلك عليك تسجيل الدخول إلى حساب Mi الخاص بك لاستعادة العناصر من النُسخ الاحتياطية هذه.</string>
+    <string name="new_confirm_enable_encrypt_title">تشفير</string>
+    <string name="new_local_button_backup">نسخ احتياطي</string>
+    <string name="new_local_button_restore">استعادة</string>
+    <string name="new_local_click_to_jump">انقر لعرض خطوات النسخ الاحتياطي</string>
+    <string name="new_local_detail_description">"ملاحظة:
+%1$d.انسخ النسخ الاحتياطية إلى الكمبيوتر لضمان عدم فقدان البيانات.%2$s.
+%3$d. سيتم حفظ النُسخ الاحتياطية في MIUI-Backup-AllBackup."</string>
+    <string name="new_local_tab_backup">النسخ الاحتياطي للهاتف</string>
+    <string name="new_local_tab_restore">استعادة من الهاتف</string>
+    <string name="new_low_storage_title">لا توجد مساحة تخزين كافية</string>
+    <string name="new_more_settings_label">الإعدادات الإضافية</string>
+    <string name="new_pc_backup_content1">%1$d. فتح \"%2$s\".</string>
+    <string name="new_pc_backup_content2">%d. انتظر حتى يكتمل نسخ جميع العناصر احتياطيًا.</string>
+    <string name="new_pc_backup_content3">%d. انتقل إلى MIUI-Backup-AllBackup للعثور على ملف النسخ الاحتياطي.</string>
+    <string name="new_pc_backup_content4">%d. انسخ الملف إلى الكمبيوتر.</string>
+    <string name="new_pc_backup_restore_link">الجهاز المحمول</string>
+    <string name="new_pc_backup_summary1">حدد عناصر وانقر \"نسخ احتياطي\"</string>
+    <string name="new_pc_backup_summary2">قم بتوصيل الهاتف والكمبيوتر باستخدام كابل USB</string>
+    <string name="new_pc_backup_summary4">ملاحظة: يمكنك أيضا نسخ الصور والفيديوهات من MIUI-DCIM.</string>
+    <string name="new_pc_restore_content1">%d. قم بتوصيل الهاتف والكمبيوتر باستخدام كابل USB.</string>
+    <string name="new_pc_restore_content2">%d. انسخ ملف النسخ الاحتياطي من الكمبيوتر إلى MIUI-Backup-AllBackup.</string>
+    <string name="new_pc_restore_content3">%1$d. افتح \"%2$s\" وحدد العناصر التي تحتاج إلى استعادتها.</string>
+    <string name="new_pc_title">نسخ النُسخ الاحتياطية</string>
+    <string name="new_select_file">الصوت والفيديوهات والملفات</string>
+    <string name="new_select_message">الرسائل القصير وجهات الاتصال وسجل المكالمات</string>
+    <string name="new_select_pic">الصور</string>
+    <string name="new_select_system">بيانات تطبيق النظام الأخرى</string>
+    <string name="new_select_tencent">QQ و WeChat</string>
+    <string name="new_select_third">تطبيقات الجهات الخارجية وبياناتهم</string>
+    <string name="new_select_third_apk">التطبيقات الخارجية</string>
+    <string name="new_select_third_data">بيانات تطبيقات الجهات الخارجية</string>
+    <string name="new_tab_pc_backup">النسخ الاحتياطي إلى الكمبيوتر</string>
+    <string name="new_tab_pc_restore">استعادة من الكمبيوتر</string>
+    <string name="new_task_finished">تم</string>
+    <string name="new_usb_detail_description">"ملاحظة:
+%1$d تسمح هذه الطريقة بنسخ تطبيقات الجهات الخارجية احتياطيًا مع بياناتهم.
+%2$d. يرجى التأكد من وجود مساحة كافية على محرك أقراص USB عند النسخ الاحتياطي."</string>
+    <string name="new_usb_disconnect_dialog_message">قم بتوصيل محرك أقراص USB أولاً</string>
+    <string name="new_usb_disconnect_dialog_title">لم يتم العثور على محرك أقراص USB</string>
+    <string name="new_usb_select_data_no_space">فقط %s من مساحة التخزين متوفرة على محرك أقراص USB. قم بتفريغ بعض المساحة.</string>
+    <string name="new_usb_tab_backup">النسخ الاحتياطي لمحرك أقراص USB</string>
+    <string name="new_usb_tab_restore">استرداد من محرك أقراص USB</string>
     <string name="no_encrypt_password">لا توجد كلمة مرور</string>
     <string name="no_network">لا يمكن الاتصال بالشبكة</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="note_title">ملاحظات</string>
     <string name="nothing_searched">لا توجد نتائج.</string>
     <string name="notif_backup_complete_title">تم الاحتفاظ بنسخة احتياطية بنجاح</string>
@@ -307,6 +416,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="platform_chooser_item_android_others">ماركات أخرى</string>
     <string name="platform_chooser_item_ios">استيراد من جهاز iOS</string>
     <string name="platform_chooser_title">اختيار جهاز قديم</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="progress_backup_hint">جارٍ النسخ الاحتياطي…</string>
     <string name="progress_restore_hint">جارٍ الاستعادة…</string>
     <string name="prompt_reading">جار القراءة…</string>
@@ -356,6 +466,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="sdcard_no_enough_space">لا توجد مساحة كافية</string>
     <string name="sdcard_no_enough_space_message">لا توجد مساحة تخزين كافية على بطاقة الذاكرة SD.</string>
     <string name="sdcard_unmounted">ادخال بطاقة الذاكرة SD الآن</string>
+    <string name="search_menu_title">البحث</string>
     <string name="see_backup_files_on_router">عرض النسخ الاحتياطية على جهاز توجيه Mi%s</string>
     <string name="select_all">تحديد الكل</string>
     <string name="select_backup_item">اختيار عناصر</string>
@@ -371,9 +482,9 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="service_stoped">توقفت الخدمة</string>
     <string name="settings_summary">إعدادات الهاتف والرسائل</string>
     <string name="size_byte">بايت</string>
-    <string name="size_giga_byte">غيغابايت</string>
+    <string name="size_giga_byte">جيجابايت</string>
     <string name="size_kilo_byte">كيلوبايت</string>
-    <string name="size_mega_byte">ميغابايت</string>
+    <string name="size_mega_byte">ميجابايت</string>
     <string name="sms_title">الرسائل</string>
     <string name="soft_ap_create_failed">تعذر إنشاء نقطة اتصال</string>
     <string name="soft_ap_creating">جارٍ إنشاء نقطة اتصال…</string>
@@ -387,6 +498,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="storage_usb">محرك أقراص USB</string>
     <string name="succ_description">تم بنجاح</string>
     <string name="succeed">اكتمل</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_err_backup_encrypting">تسجيل الدخول لحساب Mi.</string>
     <string name="summary_err_backup_no_network">تعذر الاتصال بالشبكة</string>
     <string name="summary_err_restore_encrypting">تعذرت الاستعادة. تأكد من إجراء هذه النسخة الاحتياطية باستخدام حساب Mi.</string>
@@ -490,8 +602,8 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="trans_intro_desc_10">انقر \"الاتصال عبر رمز QR\" في الجهاز الجديد و امسح رمز QR لإنشاء الاتصال.</string>
     <string name="trans_intro_desc_3">قم بإلغاء النقل و الخروج من ناقل Mi، ثم ابدأ من جديد. سيتم استبدال الملفات المكررة أثناء عملية النقل الجديدة.</string>
     <string name="trans_intro_desc_4">يستخدم ناقل Mi الـ Wi-Fi لنقل الملفات. و لهذا السبب لا يمكنك الاتصال بالإنترنت بإستخدام الـ Wi-Fi على أي من الجهازين أثناء النقل. ولكن لدى بعض الأجهزة الجديدة(مثل Mi 6) القدرة على الاتصال بالإنترنت عبر الـ Wi-Fi أثناء عمليات النقل.</string>
-    <string name="trans_intro_desc_4_market">يستخدم ناقل Mi شبكة Wi-Fi لنقل الملفات. ولهذا السبب لا يمكنك الاتصال بالإنترنت عبر Wi-Fi أثناء النقل إلى أو من الجهاز الآخر. يمكنك استخدام بيانات الجوال بدلاً من ذلك.</string>
-    <string name="trans_intro_desc_5">يتم استخدام مساحة التخزين على الأجهزة القديمة لإنشاء حزم النقل. تأكد من أن لديك على الأقل ٥٠٠ ميغابايت - ١ غيغابايت من السعة التخزينية المتاحة على الهاتف القديم قبل بدء النقل.</string>
+    <string name="trans_intro_desc_4_market">يستخدم ناقل Mi شبكة Wi-Fi لنقل الملفات. ولهذا السبب لا يمكنك الاتصال بالإنترنت عبر Wi-Fi أثناء النقل إلى أو من الجهاز الآخر. يمكنك استخدام بيانات الهاتف بدلاً من ذلك.</string>
+    <string name="trans_intro_desc_5">يتم استخدام مساحة التخزين على الأجهزة القديمة لإنشاء حزم النقل. تأكد من أن لديك على الأقل ٥٠٠ ميجابايت - ١ جيجابايت من السعة التخزينية المتاحة على الهاتف القديم قبل بدء النقل.</string>
     <string name="trans_intro_desc_6">هناك عدة أسباب لحدوث ذلك: مشكلات توافق إصدار النظام و التطبيق، مشكلات الشبكة، مشكلات التوافق الخاصة بجهاز معين، إلخ.</string>
     <string name="trans_intro_desc_7">ترتبط بعض التطبيقات (الخدمات البنكية الإلكترونية، أو التمويل، إلخ) مع جهاز معين لأسباب أمنية. جرب محو بيانات التطبيق أو إعادة تثبيت التطبيق على جهاز جديد.</string>
     <string name="trans_intro_desc_8">قد لا يتم نقل بيانات وسجل دردشة تطبيق WeChat بشكل كامل عبر ناقل Mi. انتقل إلى إعدادات WeChat و قم بتسجيل الخروج من حسابك للحصول على المزيد من فرص النقل بنجاح.</string>
@@ -639,14 +751,19 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="user_notice_declaration_ignore">عدم الإظهار مرة أخرى</string>
     <string name="user_notice_message">بعض الميزات تتطلب الإتصال بالإنترنت لتعمل بشكل طبيعي.</string>
     <string name="user_notice_title">تنبيه</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
     <string name="view_password_description">إظهار كلمة المرور</string>
     <string name="wait_link">"افتح ناقل Mi على الجهاز القديم،
 انقر على \"أنا المرسل\" وحدد نقطة اتصال. 
 لا تغلق الصفحة قبل إنشاء الاتصال."</string>
     <string name="waiting">لحظة من فضلك…</string>
     <string name="wifi_title">إعدادات Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميجابايت</string>
     <string name="xiaomi_router">جهاز توجيه Mi</string>
     <string name="xiaomi_router_location">جهاز توجيه Mi%s</string>
     <string name="xiaomi_update_dialog_message">"تقديم حجم النسخة: %1$s

@@ -15,7 +15,7 @@
         <item>التخزبن</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray">
-        <item>مزامنة جهات الاتصال، والرسائل، والملاحظات، والتقويم، والمزيد</item>
+        <item>مزامنة جهات الاتصال والرسائل والملاحظات والتقويم والمزيد</item>
         <item>النسخ الاحتياطي للتطبيقات وتنسيق الشاشة الرئيسية وخلفية الشاشة</item>
         <item>نسخ الإعدادات الهامة احتياطياََ، بما في ذلك إعدادات Wi-Fi والشاشة</item>
         <item>قفل الجهاز عن بعد إذا فقدتة</item>
@@ -56,7 +56,7 @@
     <string-array name="settings_search_calendar">
         <item>مزامنة التقويم مع Xiaomi Cloud</item>
         <item>تشغيل المزامنة</item>
-        <item>تقويم;Cloud;مزامنة;خدمات Xiaomi Cloud;cloud</item>
+        <item>تقويم;Cloud;مزامنة;خدمات Xiaomi Cloud;Cloud</item>
     </string-array>
     <string-array name="settings_search_contacts">
         <item>مزامنة جهات الاتصال مع Xiaomi Cloud</item>
@@ -111,7 +111,7 @@
     <string-array name="settings_search_restore_device">
         <item>استعادة عناصر من Xiaomi Cloud</item>
         <item>قم بتنزيل النسخ الاحتياطية على جهازك</item>
-        <item>cloud;نسخ احتياطي;نسخة احتياطية;خدمات Cloud;Xiaomi Cloud</item>
+        <item>Cloud;نسخ احتياطي;نسخة احتياطية;خدمات Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
         <item>مزامنة الحماية مع Xiaomi Cloud</item>
@@ -136,7 +136,7 @@
     <string-array name="settings_search_wlan">
         <item>مزامنة إعدادات Wi-Fi مع Xiaomi Cloud</item>
         <item>تشغيل المزامنة</item>
-        <item>WLAN;wifi;Wi-Fi;cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>عرض العناصر المتزامنة</item>

@@ -75,7 +75,7 @@
     <string name="low_battery">اشحن الهاتف الخاص بك قبل بدء التسجيل</string>
     <string name="low_battery_title">البطارية منخفضة</string>
     <string name="low_battery_warning">البطارية منخفضة جداً. توقف عن تسجيل وحفظ الفيديو.</string>
-    <string name="low_memory">لديك أقل من ١ميغابايت من المساحة المتاحة. يمكنك تسجيل ما يصل إلى ٢٠ دقيقة الآن.</string>
+    <string name="low_memory">لديك أقل من ١ميجابايت من المساحة المتاحة. يمكنك تسجيل ما يصل إلى ٢٠ دقيقة الآن.</string>
     <string name="low_memory_title">لا توجد مساحة تخزين كافية</string>
     <string name="low_momery_warning">لا يوجد مساحة تخزين كافية. توقف عن تسجيل وحفظ الفيديو.</string>
     <string name="memory_not_allowed">لا توجد مساحة تخزين متاحة. قم بتفريغ بعض المساحة للتسجيل.</string>

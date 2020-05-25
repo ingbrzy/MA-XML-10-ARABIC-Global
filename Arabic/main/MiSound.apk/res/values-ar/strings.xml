@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="add_sound">إضافة إعداد مخصص</string>
     <string name="app_name">سماعات أذن</string>
     <string name="apply_sound">تعيين</string>
@@ -7,6 +34,7 @@
     <string name="complete_dialog_button">فهمت</string>
     <string name="complete_dialog_message">لقد أكملت الاختبار بنجاح.</string>
     <string name="complete_dialog_title">نتائج الاختبار</string>
+    <string name="copy">نسخ</string>
     <string name="customization_complete">تم</string>
     <string name="customization_continue">متابعة</string>
     <string name="customization_pause_tip">إيقاف الاختبار؟ قم بتوصيل سماعات الأذن للمتابعة.</string>
@@ -34,6 +62,7 @@
     <string name="eq_return">رجوع</string>
     <string name="eq_rock">روك</string>
     <string name="equalizer">المعادل</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="first_note">اختبر الإدراك السمعي للتحكم في مستوى الصوت.</string>
     <string name="four_note">سيستغرق الاختبار حوالي ٣ دقائق.</string>
     <string name="heard_no">لا</string>
@@ -125,16 +154,22 @@
     <string name="music_unsupport_effect_summary">سماعات USB غير مدعومة</string>
     <string name="music_upper_sixty_years">فوق ٦٠ سنة</string>
     <string name="name">الاسم</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="now_here">والآن؟</string>
     <string name="original_sound">تشغيل الصوت الأصلي</string>
     <string name="personal_sound">التشغيل بإستخدام إعدادات مسبقة</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="retry_test">البدء من جديد</string>
     <string name="save_and_apply">حفظ وتعيين</string>
+    <string name="search_menu_title">البحث</string>
     <string name="second_note">ضع سماعاتك.</string>
     <string name="sound_test_title">اختبار الإدراك السمعي</string>
     <string name="start_test_sound">بدء الاختبار</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sure_give_up_test">سيتعين عليك البدء مرة أخرى إذا أوقفت الاختبار. إيقاف الاختبار؟</string>
     <string name="sure_to_back">تجاهل التغييرات الآن؟</string>
     <string name="third_note">العثور على مكان هادئ.</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
 </resources>

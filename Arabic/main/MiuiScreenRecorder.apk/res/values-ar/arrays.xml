@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="screenrecorder_settings_bit_rate">
-        <item>٢٠٠ ميغابايت في الثانية</item>
-        <item>١٠٠ ميغابايت في الثانية</item>
-        <item>٥٠ ميغابايت في الثانية</item>
-        <item>٣٢ ميغابايت في الثانية</item>
-        <item>٢٤ ميغابايت في الثانية</item>
-        <item>١٦ ميغابايت في الثانية</item>
-        <item>٨ ميغابايت في الثانية</item>
-        <item>٤ ميغابايت في الثانية</item>
-        <item>١ ميغابايت في الثانية</item>
+        <item>٢٠٠ ميجابايت في الثانية</item>
+        <item>١٠٠ ميجابايت في الثانية</item>
+        <item>٥٠ ميجابايت في الثانية</item>
+        <item>٣٢ ميجابايت في الثانية</item>
+        <item>٢٤ ميجابايت في الثانية</item>
+        <item>١٦ ميجابايت في الثانية</item>
+        <item>٨ ميجابايت في الثانية</item>
+        <item>٤ ميجابايت في الثانية</item>
+        <item>١ ميجابايت في الثانية</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames">
         <item>٢٤ إطار/ث</item>

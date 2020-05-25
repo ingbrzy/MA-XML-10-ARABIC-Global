@@ -10,6 +10,7 @@
     <string name="download_queued">في قائمة الانتظار</string>
     <string name="download_remaining">%s متبقية</string>
     <string name="download_running">جارٍ التنزيل</string>
+    <string name="download_running_percent">جارٍ التنزيل %s</string>
     <string name="download_unknown_title">&lt;بدون عنوان></string>
     <string name="notif_title_file_size">إجمالي %1$d</string>
     <string name="notif_title_single_downloading">جارٍ تنزيل %1$s</string>
@@ -34,12 +35,12 @@
     <string name="permlab_downloadWithoutNotification">تنزيل الملفات بدون أي إشعارات</string>
     <string name="permlab_seeAllExternal">مشاهدة كل التنزيلات إلى وحدة تخزين USB</string>
     <string name="root_downloads">التنزيلات</string>
-    <string name="wifi_recommended_body" formatted="false">"قد يؤدي بدء هذا %s التنزيل الآن إلى التقليل من عمر البطارية و/أو يؤدي إلى الاستخدام المفرط لاتصال بيانات الجوال مما قد يسبب إلى تحمل رسوم إضافية من شركة الاتصالات طبقا لخطة بياناتك.
+    <string name="wifi_recommended_body" formatted="false">"قد يؤدي بدء هذا %s التنزيل الآن إلى التقليل من عمر البطارية و/أو يؤدي إلى الاستخدام المفرط لاتصال بيانات الهاتف مما قد يسبب إلى تحمل رسوم إضافية من شركة الاتصالات طبقا لخطة بياناتك.
 
 انقر على %s لبدء هذا التنزيل في المرة التالية التي تتصل فيها بشبكة Wi-Fi."</string>
     <string name="wifi_recommended_title">الانتظار للتنزيل لاحقا؟</string>
     <string name="wifi_required_body" formatted="false">"اتصل بشبكة Wi-Fi لإكمال تنزيل %s. 
 
 انقر على %s لبدء هذا التنزيل في المرة القادمة عند اتصالك بشبكة Wi-Fi."</string>
-    <string name="wifi_required_title">الملف كبير جدا للتنزيل بإستخدام بيانات الجوال</string>
+    <string name="wifi_required_title">الملف كبير جدا للتنزيل بإستخدام بيانات الهاتف</string>
 </resources>

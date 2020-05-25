@@ -8,6 +8,14 @@
         <item quantity="few">%1$d-%2$d times</item>
         <item quantity="many">%1$d-%2$d times</item>
     </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="zero">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+        <item quantity="two">%1$d Cal</item>
+        <item quantity="few">%1$d Cal</item>
+        <item quantity="many">%1$d Cal</item>
+    </plurals>
     <plurals name="daily_suggestions_steps">
         <item quantity="other">Walk at least %1$d steps every day</item>
         <item quantity="zero">Walk at least %1$d steps every day</item>
@@ -57,12 +65,36 @@
         <item quantity="many">%1$d تسجيل</item>
     </plurals>
     <plurals name="dream_talk_segment_unit">
-        <item quantity="other">recordings</item>
-        <item quantity="zero">recordings</item>
-        <item quantity="one">recording</item>
-        <item quantity="two">recordings</item>
-        <item quantity="few">recordings</item>
-        <item quantity="many">recordings</item>
+        <item quantity="other">" instances"</item>
+        <item quantity="zero">" instances"</item>
+        <item quantity="one">" instance"</item>
+        <item quantity="two">" instances"</item>
+        <item quantity="few">" instances"</item>
+        <item quantity="many">" instances"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="zero">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+        <item quantity="two">%1$d hrs</item>
+        <item quantity="few">%1$d hrs</item>
+        <item quantity="many">%1$d hrs</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d mins</item>
+        <item quantity="zero">%1$d mins</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="two">%1$d mins</item>
+        <item quantity="few">%1$d mins</item>
+        <item quantity="many">%1$d mins</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d secs</item>
+        <item quantity="zero">%1$d secs</item>
+        <item quantity="one">%1$d sec</item>
+        <item quantity="two">%1$d secs</item>
+        <item quantity="few">%1$d secs</item>
+        <item quantity="many">%1$d secs</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">الهدف: %1$d خطوة</item>
@@ -95,6 +127,14 @@
         <item quantity="two">%1$d hrs</item>
         <item quantity="few">%1$d hrs</item>
         <item quantity="many">%1$d hrs</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d meters</item>
+        <item quantity="zero">%1$d meters</item>
+        <item quantity="one">%1$d meter</item>
+        <item quantity="two">%1$d meters</item>
+        <item quantity="few">%1$d meters</item>
+        <item quantity="many">%1$d meters</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d يوم للدورة الشهرية</item>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">المكالمات الذكية</string>
+    <string name="ai_assistant_not_installed">قم بتثبيت مساعد مكالمات AI أولاً</string>
     <string name="antispam_local_marked">معلّم محليا</string>
     <string name="antispam_notification_title">رقم غير معروف</string>
     <string name="antispam_provider">محدد بواسطة %s</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">لا يمكن الاستخدام</string>
     <string name="cancel">إلغاء</string>
     <string name="card_title_answering">الرد على المكالمة</string>
-    <string name="card_title_answering_time_out">تعذر الرد على المكالمة، إعادة المحاولة.</string>
     <string name="card_title_call_ended">"تم إنهاء المكالمة "</string>
     <string name="card_title_conf_call">مكالمة جماعية</string>
     <string name="card_title_dialing">جارٍالاتصال</string>
     <string name="card_title_hanging_up">"إنهاء المكالمة "</string>
-    <string name="card_title_hanging_up_fail">تعذر إنهاء المكالمة، حاول مرة أخرى.</string>
-    <string name="card_title_hanging_up_restart">لا يمكن إنهاء المكالمة. إعادة تشغيل الجهاز.</string>
-    <string name="card_title_hanging_up_weak_signal">إشارة شبكة الجوال ضعيفة. جارٍ إنهاء المكالمة…</string>
     <string name="card_title_in_call">قيد الاتصال</string>
     <string name="card_title_in_call_short">قيد الاتصال</string>
     <string name="card_title_in_video">فيديو</string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">٠</string>
     <string name="do_not_support_video_calls_by_remote">مكالمات الفيديو غير مدعومة على الجهاز الآخر</string>
     <string name="emergency_call_dialog_number_for_display">رقم الطوارئ</string>
+    <string name="enter_ai_assistant">استخدام</string>
+    <string name="enter_ai_assistant_tip">إذا كنت لا تستطيع التحدث في الوقت الحالي، يمكنك استخدام مساعد مكالمات AI لتحويل رسائلك إلى كلام أثناء المكالمة. هل تريد استخدام مساعد مكالمات AI؟</string>
     <string name="inCallLabel">الهاتف</string>
     <string name="incall_bubble_hangup_click_hint">اضغط مرة أخرى للعودة إلى الاتصال</string>
     <string name="incall_call_type_label_sip">مكالمة عبر الإنترنت</string>

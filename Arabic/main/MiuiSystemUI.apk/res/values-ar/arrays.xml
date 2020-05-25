@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -215,23 +233,23 @@
         <item>متوقف</item>
         <item>٦٤ كيلوبايت</item>
         <item>٢٥٦ كيلوبايت</item>
-        <item>١ ميغابايت</item>
+        <item>١ ميجابايت</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>متوقف</item>
         <item>٦٤ كيلوبايت لكل سجل تخزين مؤقت</item>
         <item>٢٥٦ كيلوبايت لكل سجل تخزين مؤقت</item>
-        <item>١ ميغابايت لكل سجل تخزين مؤقت</item>
-        <item>٤ ميغابايت لكل سجل تخزين مؤقت</item>
-        <item>١٦ ميغابايت لكل سجل تخزين مؤقت</item>
+        <item>١ ميجابايت لكل سجل تخزين مؤقت</item>
+        <item>٤ ميجابايت لكل سجل تخزين مؤقت</item>
+        <item>١٦ ميجابايت لكل سجل تخزين مؤقت</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>متوقف</item>
         <item>٦٤ كيلوبايت</item>
         <item>٢٥٦ كيلوبايت</item>
-        <item>١ ميغابايت</item>
-        <item>٤ ميغابايت</item>
-        <item>١٦ ميغابايت</item>
+        <item>١ ميجابايت</item>
+        <item>٤ ميجابايت</item>
+        <item>١٦ ميجابايت</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>متوقف</item>

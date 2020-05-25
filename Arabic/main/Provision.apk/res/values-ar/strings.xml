@@ -21,21 +21,21 @@
     <string name="back">رجوع</string>
     <string name="calculator_introduction">يمكنك استخدام هذا التطبيق للحسابات، وتحويل الوحدات والعملات، وتقدير مدفوعات الرهن العقاري الخاص بك.</string>
     <string name="camera_introduction">يمكنك استخدام الكاميرا لألتقاط الصور وتسجيل فيديوهات قصيرة.</string>
-    <string name="carrier_introduction">لتزويدك بخدمات أفضل، قد يرسل جهازك بشكل دوري معلومات إصدار الجهاز وبيانات تعريف الجهاز (بما في ذلك IMEI/IMSI/MSISDN/عنوان MAC/MEID/ICCID)، ومعلومات الموقع التقريبية (بما في ذلك معرف المحطة الأساسية) إلى الناقل عبر Wi-Fi أو شبكة بيانات الجوال أو الرسائل القصيرة المجانية. تتعهد شركة الاتصالات بتحليل المعلومات ذات الصلة فقط لتحسين جودة الخدمات أو لتوفير خدمات أو تقنيات مخصصة، ولن تكشف عن المعلومات ذات الصلة لأطراف ثالثة بأي شكل يحدد هويتك شخصيًا. يجب أن يسود بيان الناقل المحدد. استشر شركة الاتصالات الخاصة بك بشأن تكلفة استخدام هذه الخدمة.</string>
+    <string name="carrier_introduction">لتزويدك بخدمات أفضل، قد يرسل جهازك بشكل دوري معلومات إصدار الجهاز وبيانات تعريف الجهاز (بما في ذلك IMEI/IMSI/MSISDN/عنوان MAC/MEID/ICCID)، ومعلومات الموقع التقريبية (بما في ذلك معرف المحطة الأساسية) إلى الناقل عبر Wi-Fi أو شبكة بيانات الهاتف أو الرسائل القصيرة المجانية. تتعهد شركة الاتصالات بتحليل المعلومات ذات الصلة فقط لتحسين جودة الخدمات أو لتوفير خدمات أو تقنيات مخصصة، ولن تكشف عن المعلومات ذات الصلة لأطراف ثالثة بأي شكل يحدد هويتك شخصيًا. يجب أن يسود بيان الناقل المحدد. استشر شركة الاتصالات الخاصة بك بشأن تكلفة استخدام هذه الخدمة.</string>
     <string name="clock_introduction">يمكنك استخدام هذا التطبيق لعرض الوقت، وكذلك استخدام المؤقت والساعة العالمية وساعة الايقاف وتعيين التنبيهات واكثر من ذلك.</string>
     <string name="close_location_service_setting">يمكنك إيقاف تشغيل الوصول إلى الموقع من الإعدادات > الإعدادات الإضافية > الخصوصية أو تقييد الأذونات للتطبيقات الفردية في الحماية.</string>
-    <string name="cm_terms_content">من أجل تحسين الخدمات المقدمة لك، قد يقوم مشغل شبكة الهاتف الجوال المختار من قبلك بتحميل بياناتك الشخصية والمعلومات حول هذا الجهاز إلى خوادمه باستخدام شبكات Wi-Fi أو اتصال بيانات الجوال. سيتم استخدام هذه المعلومات فقط لأغراض إحصائية من أجل تحسين جودة الخدمات وتقديم محتوى أكثر تخصيصا. لن يتم استخدام هذه المعلومات لتحديد هويتك شخصيا، ولن يتم الكشف عنها إلى أطراف ثالثة.</string>
-    <string name="cm_terms_title">اتفاقية مشغل شبكة الهاتف الجوال</string>
+    <string name="cm_terms_content">من أجل تحسين الخدمات المقدمة لك، قد يقوم مشغل شبكة الهاتف الهاتف المختار من قبلك بتحميل بياناتك الشخصية والمعلومات حول هذا الجهاز إلى خوادمه باستخدام شبكات Wi-Fi أو اتصال بيانات الهاتف. سيتم استخدام هذه المعلومات فقط لأغراض إحصائية من أجل تحسين جودة الخدمات وتقديم محتوى أكثر تخصيصا. لن يتم استخدام هذه المعلومات لتحديد هويتك شخصيا، ولن يتم الكشف عنها إلى أطراف ثالثة.</string>
+    <string name="cm_terms_title">اتفاقية مشغل شبكة الهاتف الهاتف</string>
     <string name="compass_introduction">يمكنك استخدام هذا التطبيق للملاحة وعرض الإحداثيات والضغط الجوي والارتفاع.</string>
     <string name="congratulation_label">أنت جاهز للانطلاق!</string>
     <string name="congratulation_swipe">مرّر لأعلى لدخول إلى النظام</string>
     <string name="congratulation_title">اكتمل التثبيت</string>
     <string name="content_description_complete">اكتمل</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">بدء</string>
     <string name="content_introduction">يجمع مركز المحتوى الخدمات والمحتويات من قنوات متعددة. يمكنك هنا قراءة المقالات ومشاهدة مقاطع الفيديو وعرض العناصر المميزة يوميًا وتلقي توصيات المحتوى.</string>
     <string name="continue_to_enable_accessibility">استمر بالضغط باستمرار على إصبعين لتفعيل إمكانية الوصول.</string>
-    <string name="data_traffic_enable_dialog_title">إذا لم تكن متصلاً بشبكة Wi-Fi الآن، فسيستخدم جهازك بيانات الجوال. قد يؤدي استخدام بيانات الجوال إلى فرض رسوم إضافية.</string>
+    <string name="data_traffic_enable_dialog_title">إذا لم تكن متصلاً بشبكة Wi-Fi الآن، فسيستخدم جهازك بيانات الهاتف. قد يؤدي استخدام بيانات الهاتف إلى فرض رسوم إضافية.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">استخدم بصمة الاصبع لإلغاء قفل الجهاز أو التحقق من عمليات دفع Mi او لتسجيل الدخول الى التطبيقات والخدمات.</string>
@@ -51,7 +51,7 @@
     <string name="disagreement_function">إذا كنت لا توافق على منح هذه الأذونات أو مشاركة ورفع معلوماتك الشخصية، فلن تتمكن من استخدام هذه الخدمة. يمكنك اختيار عدم استخدام هذه الميزة في مثل هذه الحالات.</string>
     <string name="disagreement_location_service">إذا كنت لا توافق على منح هذه الأذونات أو مشاركة ورفع معلوماتك الشخصية، فلن تتمكن من استخدام هذه الخدمة.</string>
     <string name="disagreement_terminate_service">إذا كنت لا توافق على منح هذه الأذونات أو مشاركة ورفع معلوماتك الشخصية، فلن تتمكن من استخدام هذا التطبيق. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.</string>
-    <string name="download_introduction">يقوم هذا التطبيق بإدارة جميع التنزيلات، بما في ذلك التنزيلات التي تتم في GetApps وفيديو Mi والمحدث والسمات والمتصفح.</string>
+    <string name="download_introduction">يقوم هذا التطبيق بإدارة جميع التنزيلات، بما في ذلك التنزيلات التي تتم في GetApps وفيديو Mi والمحدث والثيمات والمتصفح.</string>
     <string name="enable_accessibility_canceled">تم إلغاء إمكانية الوصول.</string>
     <string name="enable_accessibility_dialog_message">لقد قمت بتشغيل TalkBack من خلال الضغط على الشاشة بـ ۲ أصابع لأكثر من ۱۰ ثواني. توفر ميزة TalkBack ردود فعل صوتية لأشخاص يعانون من إعاقات بصرية. إذا قمت بتشغيلة عن طريق الصدفة، اضغط على زر إلغاء الأمر، ومن ثم نقر مزدوج على الشاشة.</string>
     <string name="enable_accessibility_dialog_negative_btn">إلغاء</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">اختر المنطقة</string>
     <string name="location_introduction">تقوم ميزة \"خدمات تعتمد على الموقع\" بالعثور على المنتجات والخدمات القريبه منك.</string>
     <string name="lockscreen_introduction">تسمح لك خلفيات الكاروسيل بالحصول على صور جديدة يتم عرضها مباشرة على شاشة القفل مباشرة.</string>
+    <string name="mint_keyboard_oobe_checkbox">لقد قرأت ووافقت على سياسة خصوصية لوحة مفاتيح Mint</string>
+    <string name="mint_keyboard_oobe_terms">سياسة خصوصية لوحة مفاتيح Mint</string>
     <string name="miui_privacy_policy_no_network">ليس لديك اتصال بالإنترنت. راجع سياسة الخصوصية في %s.</string>
     <string name="miui_terms_no_network">ليس لديك اتصال إنترنت. راجع اتفاقية المستخدم على %s.</string>
     <string name="multisim_settings_category">إعدادات بطاقة SIM</string>
@@ -190,7 +192,7 @@
     <string name="shut_down">إيقاف تشغيل</string>
     <string name="sim_card_detecting">التحقق من وجود بطاقة SIM…</string>
     <string name="sim_card_detecting_check">لم يتم العثور على بطاقة SIM. تأكد من تثبيت بطاقة SIM بشكل صحيح، ولديك رصيد كافي.</string>
-    <string name="sim_card_detecting_confirm_turn_on_network">السماح بالاتصال بشبكات بيانات الجوال؟ إذا قمت بذلك، فأنه سيتم استخدام بطاقة SIM التي ادخلتها في الاتصال بشبكات بيانات الجوال.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">السماح بالاتصال بشبكات بيانات الهاتف؟ إذا قمت بذلك، فأنه سيتم استخدام بطاقة SIM التي ادخلتها في الاتصال بشبكات بيانات الهاتف.</string>
     <string name="sim_card_detecting_title">تحقق من شريحة SIM</string>
     <string name="sim_card_detection">قم بتركيب شريحة SIM</string>
     <string name="sim_card_detection_info">لتركيب شريحة SIM ، قم بقراءة الإرشادات المرفقة مع جهازك.</string>
@@ -203,7 +205,7 @@
     <string name="skip_gesture_guide_dialog_positive_btn">موافق</string>
     <string name="skip_gesture_guide_dialog_title">إيماءات ملء الشاشة</string>
     <string name="skip_underline">تخطي هذه الخطوة</string>
-    <string name="start_up_slogan">الحياة أكثر بساطة</string>
+    <string name="start_up_slogan">لك وحدك</string>
     <string name="summary_not_set">غير معين</string>
     <string name="system_navigation_mode">وضع التنقل في النظام</string>
     <string name="terms_of_use">الأحكام والشروط</string>
@@ -211,11 +213,11 @@
     <string name="terms_of_use_label">"يرجى قراءة اتفاقية المستخدم وسياسة الخصوصية لفهم ماهي المعلومات التي نجمعها، وكيف نستخدمها والخيارات المتاحة لك.
 يجب أن توافق على اتفاقية المستخدم وسياسة الخصوصية الخاصة بنا قبل أن تتمكن من استخدام MIUI.
 ستتصل %s وحساب Mi بالإنترنت وتحصل على موقعك."</string>
-    <string name="terms_of_use_label_Mistore">, مكون النظام الإضافي لمتجر Mi</string>
-    <string name="terms_of_use_label_mab">, MAB</string>
-    <string name="terms_of_use_label_package">، مثبت الحزمة</string>
-    <string name="terms_of_use_label_phrase">, العبارات المتكررة</string>
-    <string name="terms_of_use_label_systemhelper">، خدمة التسجيل الذاتي</string>
+    <string name="terms_of_use_label_Mistore">ومكون النظام الإضافي لمتجر Mi</string>
+    <string name="terms_of_use_label_mab">و MAB</string>
+    <string name="terms_of_use_label_package">ومثبت الحزمة</string>
+    <string name="terms_of_use_label_phrase">والعبارات المتكررة</string>
+    <string name="terms_of_use_label_systemhelper">وخدمة التسجيل الذاتي</string>
     <string name="terms_of_use_label_updater">والمحدث</string>
     <string name="terms_of_use_lable_apps">خدمات Mi وخدمات تفعيل Mi SIM و Xiaomi Cloud والعثور على الجهاز والشاشة الرئيسية ومركز الألعاب ومكونات نظام MIUI Daemon و MSA وخدمات الترجمة والتطبيقات السريعة ومنصة التطبيقات والإحصائيات ورابط Mi</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
@@ -224,6 +226,9 @@
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 يجب عليك الموافقة على سياسة خصوصية Kika قبل استخدام هذه الميزة."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+يجب عليك الموافقة على سياسة خصوصية لوحة مفاتيح Mint قبل استخدام هذه الميزة."</string>
     <string name="terms_of_use_lable_gms">وخدمات متجر Play</string>
     <string name="terms_of_use_lable_smart_cards">والبطاقات الذكية</string>
     <string name="terms_of_use_lable_vsimcore">، MConnService</string>
@@ -231,7 +236,7 @@
     <string name="terms_privacy_policy_input_method_kika">سياسة خصوصية Kika</string>
     <string name="title_fingerprint">تعيين كلمة مرور</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
-    <string name="user_agreement_declare">قبل استخدامك MIUI، يجب عليك قراءة والموافقة على اتفاقية المستخدم وسياسة الخصوصية لدينا. أثناء تفعيل جهازك، سيقوم كلا من خدمات تفعيل Mi SIM، و Xiaomi Cloud، والعثور على الجهاز، والشاشة الرئيسية، والعبارات المتكررة، وخدمة الترجمة، ونظام MIUI Daemon، و HTML Viewer، مساعد AL، والبطارية والأداء، وكشف البطارية،و Joyose، وإعداد OS AI، والمحدث بالاتصال بالشبكة. ستتصل الخدمات الذكية بالشبكة وتتصل بموقعك.</string>
+    <string name="user_agreement_declare">قبل استخدامك MIUI، يجب عليك قراءة والموافقة على اتفاقية المستخدم وسياسة الخصوصية لدينا. أثناء تفعيل جهازك، سيقوم كلا من خدمات تفعيل Mi SIM، و Xiaomi Cloud، والعثور على الجهاز، والشاشة الرئيسية، والعبارات المتكررة، وخدمة الترجمة، ونظام MIUI Daemon، و HTML Viewer، مساعد AL، والبطارية والأداء، وكشف البطارية،و Joyose، وإعداد OS AI، ومدير الأذونات، والمحدث بالاتصال بالشبكة. ستتصل الخدمات الذكية بالشبكة وتتصل بموقعك.</string>
     <string name="voice_assist_advice">يسمح لك Mi AI باستخدام التحكم الصوتي، ولكنه يستهلك المزيد من الطاقة (+١% كل ساعة).</string>
     <string name="voice_assist_condition">"يمكنك استخدام Mi AI في الحالات التاليةr
 : ١. عندما تكون الشاشة قيد التشغيل.r

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">لا يمكن الحفظ</string>
     <string name="extra_photo_common_saving">جارٍ الحفظ…</string>
-    <string name="motion_photo_re_pick_title">حدّد أفضل صورة</string>
+    <string name="motion_photo_cancel">إلغاء</string>
+    <string name="motion_photo_re_pick_title">صورة حية</string>
+    <string name="motion_photo_save_fail">تعذر الحفظ</string>
+    <string name="motion_photo_save_gif">حفظ كصورة GIF</string>
+    <string name="motion_photo_save_gif_ing">جار الحفظ كصورة GIF…</string>
+    <string name="motion_photo_save_image">حفظ احسن صورة</string>
+    <string name="motion_photo_save_image_ing">جارٍ حفظ احسن صورة…</string>
+    <string name="motion_photo_save_video">حفظ كفيديو</string>
+    <string name="motion_photo_save_video_ing">جارٍ حفظ الفيديو…</string>
     <string name="motion_photo_toast_default">الافتراضية</string>
+    <string name="motion_photo_toast_long_press_play">اضغط مع الاستمرار على الصورة للتشغيل</string>
     <string name="motion_photo_toast_suggest">موصى بها</string>
     <string name="refocus_discard_confirm_message">حفظ التغييرات؟</string>
     <string name="refocus_discard_negative_btn">تجاهل الرسالة</string>

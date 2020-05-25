@@ -27,9 +27,9 @@
         <item>منخفض</item>
     </string-array>
     <string-array name="record_quality_summaries">
-        <item>MP3، ~١٩٢ كيلوبايت/ثانية، ~٩٠ ميغابايت/ساعة</item>
-        <item>MP3، ~١٠٠ كيلوبايت/ثانية، ~٤٥ ميغابايت/ساعة</item>
-        <item>MP3، ~75 كيلوبايت/ثانية، ~32ميغابايت/ساعة</item>
+        <item>MP3، ~١٩٢ كيلوبايت/ثانية، ~٩٠ ميجابايت/ساعة</item>
+        <item>MP3، ~١٠٠ كيلوبايت/ثانية، ~٤٥ ميجابايت/ساعة</item>
+        <item>MP3، ~75 كيلوبايت/ثانية، ~32ميجابايت/ساعة</item>
     </string-array>
     <string-array name="record_scenes_entries">
         <item>موسيقى</item>

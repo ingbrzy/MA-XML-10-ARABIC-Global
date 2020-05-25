@@ -18,6 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="search_menu_title">البحث</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="ad_downloading">تنزيل…</string>
     <string name="app_name">ملحق خدمة النظام</string>
     <string name="app_select_title">إضافة تطبيقات مستخدمة بشكل متكرر</string>
@@ -36,6 +37,7 @@
     <string name="dialog_market_score_title_step2">شكرا لملاحظاتك!</string>
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
+    <string name="empty">" "</string>
     <string name="ew_detail_earthquake_center_title">Epicenter</string>
     <string name="ew_detail_earthquake_feel_little">Slight shaking</string>
     <string name="ew_detail_earthquake_feel_max">Very strong</string>
@@ -78,7 +80,7 @@
     <string name="gamebox_no_network_btn">إعادة التحميل</string>
     <string name="gb_alipays_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="gb_weixinpay_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
-    <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الجوال، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
+    <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الهاتف، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
     <string name="lucky_result_title">ظروف حمراء</string>
     <string name="main_toolbar_purchase">شحن الرصيد</string>
     <string name="miuishare_title_more">مزيد</string>

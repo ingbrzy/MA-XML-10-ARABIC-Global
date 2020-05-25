@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="access_denied">الوصول مرفوض</string>
     <string name="account_related">جهازك مرتبط بحساب Mi مسبق (%s). اتصل بالشبكة للتحقق من الجهاز.</string>
     <string name="activate_find_device_success">تم تفعيل العثور على الجهاز.</string>
@@ -8,7 +35,7 @@
     <string name="add_short_cut">إضافة</string>
     <string name="added_successfully">تمت الاضافة بنجاح</string>
     <string name="antispam_sync">إعدادات عدم الإزعاج</string>
-    <string name="app_name">Cloud</string>
+    <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">حساب أو كلمة المرور غير صحيحة</string>
     <string name="btn_return">رجوع</string>
     <string name="button_cancel">إلغاء</string>
@@ -24,30 +51,33 @@
     <string name="cloud_storage_default_title">تخزين Cloud</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">عائلة</string>
     <string name="cloud_storage_info_type_others">أخرى</string>
     <string name="cloud_storage_info_type_pdc">إعدادات النظام</string>
     <string name="cloud_storage_loading_data">لحظة من فضلك…</string>
     <string name="cloud_storage_manage_title">إدارة المساحة</string>
-    <string name="cloud_storage_no_data">لا توجد عناصر في cloud بعد</string>
+    <string name="cloud_storage_no_data">لا توجد عناصر في Cloud بعد</string>
     <string name="cloudservice_new_sync">مزامنة %s مع Xiaomi Cloud</string>
     <string name="confirm_delete">حذف</string>
     <string name="confirm_save">إبقاء</string>
     <string name="connect_network">إتصل بشبكة Wi-Fi او قم بتركيب بطاقة SIM</string>
     <string name="connect_wlan">الإتصال بشبكة Wi-Fi</string>
+    <string name="copy">نسخ</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">يُستخدم هذا الحساب أيضًا على جهاز آخر. هل ترغب في دمج العناصر من تطبيقات متعددة (يتضمن ذلك %1$s و%2$s) مع العناصر الموجودة على هذا الجهاز؟</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">يُستخدم هذا الحساب أيضًا على جهاز آخر. هل ترغب في دمج العناصر من %s مع العناصر الموجودة على هذا الجهاز؟</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">يُستخدم هذا الحساب أيضًا على جهاز آخر. هل ترغب في دمج العناصر من %1$s و%2$s مع العناصر الموجودة على هذا الجهاز؟</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">سيتم دمج العناصر من تطبيقات متعددة (يتضمن ذلك %1$s و%2$s) على هذا الجهاز مع العناصر الموجودة في Cloud. هل تريد دمج العناصر الآن؟</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">سيتم دمج العناصر من تطبيقات متعددة (يتضمن ذلك %1$s و%2$s) على هذا الجهاز مع العناصر الموجودة في Cloud. هل تريد دمج العناصر الآن؟</string>
-    <string name="data_merge_dialog_alert_msg_one">سيتم دمج العناصر من %s على هذا الجهاز مع العناصر الموجودة في Cloud. هل تريد دمج العناصر الآن؟</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">سيتم دمج العناصر من %s على هذا الجهاز مع العناصر الموجودة في Cloud. هل تريد دمج العناصر الآن؟</string>
-    <string name="data_merge_dialog_alert_msg_two">سيتم دمج العناصر من %1$s و%2$s على هذا الجهاز مع العناصر الموجودة في Cloud. هل تريد دمج العناصر الآن؟</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">سيتم دمج العناصر من %1$s و%2$s على هذا الجهاز مع العناصر الموجودة في Cloud. هل تريد دمج العناصر الآن؟</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">سيتم تخزين العناصر من مصادر متعددة بما في ذلك %1$s و%2$s على Xiaomi Cloud. هل تريد مزامنتها ودمجها مع العناصر الموجودة على هذا الجهاز؟</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">سيتم تخزين العناصر من مصادر متعددة بما في ذلك %1$s و%2$s على Xiaomi Cloud. هل تريد مزامنتها ودمجها مع العناصر الموجودة على هذا الجهاز؟</string>
+    <string name="data_merge_dialog_alert_msg_one">سيتم تخزين العناصر الموجودة في %s على Xiaomi Cloud. هل تريد مزامنتها ودمجها مع العناصر الموجودة على الجهاز؟</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">سيتم تخزين العناصر الموجودة في %s على Xiaomi Cloud. هل تريد مزامنتها ودمجها مع العناصر الموجودة على الجهاز؟</string>
+    <string name="data_merge_dialog_alert_msg_two">سيتم تخزين العناصر الموجودة في %1$s و%2$s على Xiaomi Cloud. هل تريد مزامنتها ودمجها مع العناصر الموجودة على هذا الجهاز؟</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">سيتم تخزين العناصر الموجودة في %1$s و%2$s على Xiaomi Cloud. هل تريد مزامنتها ودمجها مع العناصر الموجودة على هذا الجهاز؟</string>
     <string name="data_merge_dialog_loading">جارٍ التحقق من البيانات…</string>
+    <string name="data_merge_dialog_title">دمج العناصر</string>
     <string name="data_protection_title">حماية البيانات</string>
     <string name="detect_sim_card">البحث عن بطاقة SIM</string>
     <string name="disable_find_device_error">\"يتعذر إيقاف تشغيل العثور على الجهاز.\"%1$s</string>
-    <string name="do_not_merge">لا تدمج</string>
+    <string name="do_not_merge">إلغاء</string>
     <string name="enable_find_device_error">\"يتعذر تشغيل العثور على الجهاز.\"%1$s</string>
     <string name="enable_find_device_success">العثور على الجهاز يعمل.</string>
     <string name="enable_micloud">تسجيل الدخول باستخدام Xiaomi Cloud</string>
@@ -57,8 +87,12 @@
     <string name="error_network">لا يمكن الاتصال بالشبكة</string>
     <string name="error_server">خطأ في الخادم</string>
     <string name="error_unknown">لا يمكن تسجيل الدخول</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
+    <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">تحقق من اتصال البيانات ثم حاول مرة أخرى.</string>
     <string name="find_device_error_server">خطأ في الخادم</string>
     <string name="find_device_gdpr_prompt">بتمكين ميزة البحث عن الأجهزة، فإنك توافق على <a href="app://com.miui.cloudservice.gdpr.license"><u>سياسة الخصوصية</u></a>. لإلغاء الترخيص، قم بتعطيل هذه الميزة.</string>
@@ -115,6 +149,9 @@
     <string name="menu_add_feedback">التعليقات</string>
     <string name="menu_add_short_cut">إنشاء اختصار في الشاشة الرئيسية</string>
     <string name="merge">دمج</string>
+    <string name="mi_drive_not_publish_toast">سيتوفر Mi Drive قريبًا</string>
+    <string name="mi_drive_summary">احصل على جميع مستنداتك من Xiaomi Cloud على جميع أجهزتك</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">موافق</string>
     <string name="micloud_all_sub_1_intl_sms">سيتم أرسال رسالة نصية دولية قصيرة لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
     <string name="micloud_all_sub_1_sms">سيتم أرسال رسالة نصية قصيرة عادية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
@@ -124,7 +161,7 @@
     <string name="micloud_all_sub_resend_sms">عند تشغيل \"العثور على الجهاز\"، قد يتم ارسال رسالة نصية قصيرة للتفعيل بعد قيامك بتبديل بطاقات SIM.</string>
     <string name="micloud_battery_low_notification_message">قم بتوصيل الشاحن للمزامنة</string>
     <string name="micloud_battery_low_notification_title">البطارية منخفضة</string>
-    <string name="micloud_buy_member_safe">احصل على المزيد من مساحة cloud</string>
+    <string name="micloud_buy_member_safe">احصل على المزيد من مساحة Cloud</string>
     <string name="micloud_check_sim_notify_text">"يبدو أنك قمت بتغيير بطاقات SIM. سجل الدخول
 إلى حساب Mi الخاص بك لتفعيل Xiaomi Cloud."</string>
     <string name="micloud_check_sim_notify_title">تفعيل Xiaomi Cloud</string>
@@ -164,7 +201,7 @@
     <string name="micloud_detail_query_error">لا يمكن الحصول على حالة المزامنة</string>
     <string name="micloud_dspt">"مزامنة جهات الاتصال وسجل المكالمات والعناصر الأخرى الخاصة بك عبر جميع الأجهزة.
 تحديد موقع جهازك وقفلة في حالة فقده."</string>
-    <string name="micloud_dspt_provision">استخدم Xiaomi Cloud لمزامنة البيانات، تحديد موقع جهازك، ومشاركة الأشياء مع الأصدقاء.</string>
+    <string name="micloud_dspt_provision">استخدم Xiaomi Cloud لمزامنة البيانات والعثور على الجهاز ومشاركة الأشياء مع الأصدقاء.</string>
     <string name="micloud_dspt_provision_xms">استخدم Xiaomi Cloud لمزامنة البيانات.</string>
     <string name="micloud_find_device_close_alert_content">بعد إيقاف تشغيل \"العثور على الجهاز\"، لن تتمكن من العثور على هاتفك باستخدام هذه الميزة. إذا كان هاتفك يدعم ميزات NFC، فستتم إزالة جميع البطاقات المصرفية والبطاقات الأساسية من دفع Mi.</string>
     <string name="micloud_find_device_close_alert_negtive">إيقاف التشغيل</string>
@@ -195,15 +232,18 @@
     <string name="micloud_find_device_open_fail">تعذر تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_opened">العثور على الجهاز يعمل</string>
     <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">سيتم إرسال رسالة SMS لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم على هذه الرسالة. عند استبدالك بطاقة SIM، سيتم إرسال رسالة تلقائيا لإعادة تفعيل هذه الميزة.</string>
     <string name="micloud_find_device_verify_button">إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_close">إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_fail">تعذر إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_progress">جارٍ إعادة تفعيل العثور على الجهاز…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">تم إلغاء المزامنة. إعد المحاولة.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخ الشاشة الرئيسية احتياطياََ</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">تنسيق الشاشة الرئيسية والتطبيقات وإعدادات النظام</string>
-    <string name="micloud_main_head_menu_finddevice_summary">تحديد وقفل الجهاز عند فقدانه</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">إعدادات النظام وتنسيق الشاشة الرئيسية</string>
+    <string name="micloud_main_head_menu_finddevice_summary">ابحث عن جهازك وأقفله</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">\"العثور على الجهاز\" غير متوفر في الواجهة الثانية، يمكنك استخدام هذه الميزة في الواجهة الاولى.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">استعادة العناصر المحذوفة</string>
     <string name="micloud_main_head_menu_recycle_bin_title">العناصر المحذوفة</string>
@@ -220,7 +260,7 @@
     <string name="micloud_main_wait_wlan">في إنتظار الـ Wi-Fi</string>
     <string name="micloud_main_wait_wlan_charge">اتصل بشبكة Wi-Fi وقم بشحن الجهاز بالكامل لإستئناف المزامنة.</string>
     <string name="micloud_main_wait_wlan_charge_sleep">اتصل بشبكة Wi-Fi، قم بإيقاف الشاشة وشحن الجهاز بالكامل لإستئناف المزامنة.</string>
-    <string name="micloud_manage_space_data">إدارة بيانات cloud</string>
+    <string name="micloud_manage_space_data">إدارة بيانات Cloud</string>
     <string name="micloud_manaul_sync_success_button_text">عرض التفاصيل</string>
     <string name="micloud_manaul_sync_success_time_prefix">آخر مزامنة: %s</string>
     <string name="micloud_manaul_sync_success_title">مزامن</string>
@@ -233,7 +273,7 @@
     <string name="micloud_manual_cloud_storage_full_summary">لا يمكن مزامنة الصور وجهات الاتصال والعناصر الأخرى. قم بترقية خطتك أو تفريغ مساحة.</string>
     <string name="micloud_manual_cloud_storage_full_title">لا يمكن المزامنة. لا توجد مساحة تخزين كافية على Xiaomi Cloud.</string>
     <string name="micloud_manual_cloud_storage_low_button_text">الحصول على مساحة اضافية</string>
-    <string name="micloud_manual_cloud_storage_low_summary">مساحة تخزين cloud على وشك النفاذ</string>
+    <string name="micloud_manual_cloud_storage_low_summary">مساحة تخزين Cloud على وشك النفاذ</string>
     <string name="micloud_manual_cloud_storage_low_title">تمت المزامنة</string>
     <string name="micloud_manual_grant_permission">السماح</string>
     <string name="micloud_manual_local_storage_low_button_text">تنظيف</string>
@@ -266,7 +306,7 @@
     <string name="micloud_notif_content_sync_with_off">انقر للمزامنة جهازك الآن.</string>
     <string name="micloud_notif_title_battery_low">لا يمكن المزامنة مع Xiaomi Cloud</string>
     <string name="micloud_notif_title_dirty_data">لديك عناصر لم تتم مزامنتها</string>
-    <string name="micloud_notif_title_master_depend_wifi">المزامنة متوقفة أثناء استخدام بيانات الجوال</string>
+    <string name="micloud_notif_title_master_depend_wifi">المزامنة متوقفة أثناء استخدام بيانات الهاتف</string>
     <string name="micloud_notif_title_memory_low">لا يمكن المزامنة مع Xiaomi Cloud</string>
     <string name="micloud_notif_title_multi_user_error">لا يمكن المزامنة مع Xiaomi Cloud</string>
     <string name="micloud_notif_title_privacy_reopen_failed">تعذر تشغيل خدمات Xiaomi Cloud</string>
@@ -312,8 +352,8 @@
     <string name="micloud_storage_expires_soon_title">ستنتهي صلاحية تخزين Xiaomi Cloud قريبًا</string>
     <string name="micloud_storage_expires_very_soon_title">ستنتهي صلاحية تخزين Xiaomi Cloud قريبًا</string>
     <string name="micloud_storage_full">Mi Cloud ممتلئ</string>
-    <string name="micloud_storage_unit_gb">%s غيغابايت</string>
-    <string name="micloud_storage_unit_mb">%s ميغابايت</string>
+    <string name="micloud_storage_unit_gb">%s جيجابايت</string>
+    <string name="micloud_storage_unit_mb">%s ميجابايت</string>
     <string name="micloud_sync_alert_dialog_message">قم بمزامنة صورك، جهات الاتصال، الملاحظات والمزيد عبر جميع أجهزتك.</string>
     <string name="micloud_sync_alert_dialog_negative">إلغاء</string>
     <string name="micloud_sync_alert_dialog_positive">موافق</string>
@@ -341,7 +381,7 @@
     <string name="micloud_warn_low_sum">Xiaomi Cloud ممتلئ بنسبة ٩٠%.</string>
     <string name="micloud_warn_low_title">المساحة على وشك النفاذ</string>
     <string name="micloud_web_discription_place_holder">قم بزيارة %1$s على الكمبيوتر لإدارة بياناتك.</string>
-    <string name="micloud_wipe_data_confirm_label">حذف البيانات من cloud</string>
+    <string name="micloud_wipe_data_confirm_label">حذف البيانات من Cloud</string>
     <string name="micloud_wipe_data_confirm_title">حذف العناصر المتزامنة مع Xiaomi Cloud من الهاتف بعد تسجيلك الخروج؟</string>
     <string name="micloud_wipe_data_remove">حذف</string>
     <string name="micloud_wipe_data_retain">إبقاء</string>
@@ -364,6 +404,7 @@
     <string name="mx_sub_dspt_provision_with_voip">مكالمات الإنترنت</string>
     <string name="mx_voip_dspt">صوت Mi</string>
     <string name="no_sim">تعذر العثور على بطاقة SIM</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="pay_info_dialog_confirm_to_pay">دفع %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">استخدام رصيد Mi المتبقي: %s</string>
     <string name="pay_info_dialog_title">تحديد طريقه الدفع</string>
@@ -373,6 +414,7 @@
     <string name="pref_summary_sync_display_photo_on_wifi_only">مزامنة صور الملف الشخصي لجهات الاتصال فقط عند الاتصال بشبكة Wi-Fi</string>
     <string name="pref_title_sync_contacts_title">مزامنة جهات الاتصال</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">استخدام Wi-Fi فقط لمزامنة الصور</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_and_agreement">الأحكام والشروط</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">مرحبًا بك في \"العثور على الجهاز\"! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">مرحبًا بك في \"العثور على الجهاز\"! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته.</string>
@@ -394,6 +436,7 @@
     <string name="search_finddevice_pref_desc">تشغيل/إيقاف العثور على الجهاز</string>
     <string name="search_finddevice_pref_key_words">العثور على الجهاز، العثور على الجهاز</string>
     <string name="search_finddevice_pref_path">حساب Mi/Xiaomi Cloud/العثور على الجهاز</string>
+    <string name="search_menu_title">البحث</string>
     <string name="share_cancel">تم إلغاء المشاركة</string>
     <string name="share_failed">تعذرت المشاركة</string>
     <string name="share_miliao_not_installed">Mi Talk غير مثبت.</string>
@@ -402,18 +445,23 @@
     <string name="share_weixin_not_installed">WeChat غير مثبت.</string>
     <string name="short_cut_desc">إضافة أيقونة Xiaomi Cloud للشاشة الرئيسية؟</string>
     <string name="soundrecorder_sync_only_in_wifi">استخدام شبكة Wi-Fi فقط للمزامنة</string>
-    <string name="soundrecorder_sync_only_in_wifi_summary">لن يستخدم المسجل بيانات الجوال لتنزيل أو تحميل التسجيلات</string>
+    <string name="soundrecorder_sync_only_in_wifi_summary">لن يستخدم المسجل بيانات الهاتف لتنزيل أو تحميل التسجيلات</string>
     <string name="soundrecorder_sync_records">المزامنة مع Xiaomi Cloud</string>
+    <string name="special_func_title">الميزات الخاصة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">الحصول على المزيد</string>
-    <string name="storage_manage_list_title">بيانات cloud</string>
+    <string name="storage_manage_list_title">بيانات Cloud</string>
     <string name="storage_manage_list_title_action">عرض المزيد</string>
     <string name="storage_manage_renewal">تجديد</string>
     <string name="storage_manage_title">تغيير خطة تخزين Cloud</string>
     <string name="storage_manage_upgrade">ترقية</string>
+    <string name="storage_upgrade_card_summary">احصل على مساحة تخزين أكبر على Cloud</string>
+    <string name="storage_upgrade_card_title">ترقية خطتك</string>
     <string name="sub_alert_notif_content">تشغيل Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">المزامنة مع Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">مزامنة الرسائل التي تحتوي فقط على صور، صوت، أو وسائط أخرى عند الاتصال بشبكة Wi-Fi</string>
     <string name="sub_sync_item_sms_title_wifi_only">فقط استخدام Wi-Fi لمزامنة رسائل وسائط متعددة (MMS)</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sync_detail_summary_master_sync_off">المزامنة متوقفة</string>
     <string name="sync_detail_summary_off">المزامنة متوقفة</string>
     <string name="sync_detail_text">تفاصيل المزامنة</string>
@@ -422,10 +470,12 @@
     <string name="sync_dspt_entrance_provision_confirm_close">لا تستخدم</string>
     <string name="sync_dspt_entrance_provision_confirm_content">تحتاج تطبيقات نظام MIUI إلى Xiaomi Cloud لإجراء نسخ احتياطي للصور والرسائل والملاحظات والمزيد. Xiaomi Cloud مجاني وجاهز للإستخدام على الفور.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">استخدام Xiaomi Cloud</string>
-    <string name="sync_dspt_entrance_provision_confirm_title">عدم استخدام Xiaomi Cloud؟</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">هل ترغب في استخدام Xiaomi Cloud؟</string>
     <string name="sync_dspt_entrance_provision_network">يحتاج هذا التطبيق للاتصال بالإنترنت للعمل بشكل طبيعي. قد تتطلب مزامنة البيانات الاتصال بشبكة البيانات وفتح WiFi.</string>
     <string name="sync_dspt_entrance_provision_skip">تخطي هذه الخطوة</string>
     <string name="sync_dspt_provision">"مزامنة الصور, جهات الاتصال, الملاحظات والمزيد على جميع أجهزتك أو الوصول إليها على "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.
 "</string>
     <string name="sync_item_calllog_summary">مزامنة تسجيلات المكالمات التي تم إجراؤها واستقبالها على هذا الهاتف</string>
@@ -455,6 +505,8 @@
 "</string>
     <string name="user_agreement_title">شروط وأحكام Xiaomi Cloud</string>
     <string name="user_storage_info_available_text_prefix">%s متوفر</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
     <string name="waiting_for_sync">جارٍ الانتظار…</string>
     <string name="warning_bar_action_add_short_cut">إضافة</string>
     <string name="warning_bar_action_close">إغلاق</string>
@@ -462,8 +514,8 @@
     <string name="warning_bar_action_turn_on_sync">تشغيل</string>
     <string name="warning_bar_action_upgrade_vip">ترقية</string>
     <string name="warning_bar_add_short_cut_success">تمت الإضافة بنجاح</string>
-    <string name="warning_bar_title_cloud_space_already_full">مساحة cloud منخفضة. قد لا يتم مزامنة صورك.</string>
-    <string name="warning_bar_title_cloud_space_full">مساحة cloud ممتلئة. لايمكن مزامنة الصور وسجل المكالمات وعناصر أخرى.</string>
+    <string name="warning_bar_title_cloud_space_already_full">مساحة Cloud منخفضة. قد لا يتم مزامنة صورك.</string>
+    <string name="warning_bar_title_cloud_space_full">مساحة Cloud ممتلئة. لايمكن مزامنة الصور وسجل المكالمات وعناصر أخرى.</string>
     <string name="warning_bar_title_master_sync_off">المزامنة التلقائية متوقفة</string>
     <string name="warning_bar_title_network_unconnected">تعذر الاتصال بالشبكة</string>
     <string name="warning_bar_title_short_cut">إضافة إختصار Xiaomi Cloud في الشاشة الرئيسية؟</string>
@@ -475,6 +527,6 @@
     <string name="wipe_data_dialog_title">لم يتم مزامنة العناصر</string>
     <string name="wipe_data_query_progress_title">جارٍ التحقق…</string>
     <string name="wipe_secret_photo_dialog_title">لم يتم مزامنة الصور المخفية</string>
-    <string name="xiaomi_cloud_service">Cloud</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">كل شيء مهم في مكان واحد</string>
 </resources>

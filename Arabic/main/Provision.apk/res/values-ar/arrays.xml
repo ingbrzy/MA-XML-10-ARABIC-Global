@@ -29,7 +29,7 @@
         <item>mx</item>
     </string-array>
     <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi وبيانات الجوال</item>
+        <item>Wi-Fi وبيانات الهاتف</item>
         <item>Wi-Fi فقط</item>
         <item>إيقاف</item>
     </string-array>

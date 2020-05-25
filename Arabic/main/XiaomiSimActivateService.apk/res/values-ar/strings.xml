@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">التحقق من حساب Mi</string>
     <string name="activate_feature_voip">رسالة Mi VoIP</string>
     <string name="activate_history_canceled_overview">تم إلغاء بطاقة SIM. يتم تشغيل التفعيل بواسطة \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">تم إلغاء بطاقة SIM %2$d. يتم تشغيل التفعيل بواسطة %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">تم تفعيل بطاقة SIM %2$d بنجاح. يتم تشغيل التفعيل بواسطة %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">تم إلغاء بطاقة SIM %2$d. يتم تشغيل التفعيل بواسطة \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">تم تفعيل بطاقة SIM %2$d بنجاح. يتم تشغيل التفعيل بواسطة \"%1$s\".</string>
     <string name="activate_history_sms">لقد تم ارسال رسالة SMS خلال التفعيل.</string>
     <string name="activate_history_success_overview">تم تفعيل بطاقة SIM بنجاح. يتم تشغيل التفعيل بواسطة \"%1$s\".</string>
     <string name="activate_history_title">تفعيل بطاقة SIM</string>

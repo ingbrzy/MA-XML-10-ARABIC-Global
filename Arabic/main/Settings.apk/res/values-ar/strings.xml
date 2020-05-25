@@ -239,6 +239,7 @@
     <string name="account_sync_summary_all_on">تم تفعيل المزامنة لكل العناصر</string>
     <string name="account_sync_summary_some_on">تم تفعيل المزامنة لـ %1$d من إجمالي %2$d عناصر</string>
     <string name="account_sync_title">مزامنة الحساب</string>
+    <string name="acount_data">الحسابات</string>
     <string name="action_drag_label_move_bottom">نقل إلى الأسفل</string>
     <string name="action_drag_label_move_down">نقل لأسفل</string>
     <string name="action_drag_label_move_top">نقل إلى الأعلى</string>
@@ -312,10 +313,11 @@
     <string name="advanced_security_title">إعدادات متقدمة</string>
     <string name="advanced_settings">الإعدادات الإضافية</string>
     <string name="advanced_settings_summary">تفعيل المزيد من خيارات الإعدادات.</string>
+    <string name="aggregate_title">قواعد الإشعارات الجماعية</string>
     <string name="agps_roaming">A-GPS عند التجوال</string>
-    <string name="agps_roaming_dia">قد يؤدي استخدام A-GPS عند التجوال إلى زيادة استخدام بيانات شبكة الجوال. في حال تجاوز حد استخدام البيانات للمعدل المسموح به، قد تفرض عليك شركة الاتصالات رسوماً إضافية.</string>
+    <string name="agps_roaming_dia">قد يؤدي استخدام A-GPS عند التجوال إلى زيادة استخدام بيانات شبكة الهاتف. في حال تجاوز حد استخدام البيانات للمعدل المسموح به، قد تفرض عليك شركة الاتصالات رسوماً إضافية.</string>
     <string name="agps_roaming_dia_title">استخدام A-GPS عند التجوال</string>
-    <string name="agps_roaming_summary">استخدام بيانات شبكة الجوال لمساعدة GPS أثناء التجوال</string>
+    <string name="agps_roaming_summary">استخدام بيانات شبكة الهاتف لمساعدة GPS أثناء التجوال</string>
     <string name="ai_button_title">زر Mi AI</string>
     <string name="ai_button_title_global">زر AI</string>
     <string name="ai_settings_click_title">اضغط</string>
@@ -350,7 +352,8 @@
     <string name="allow_lights_title">السماح بإستخدام ضوء LED</string>
     <string name="allow_mock_location">السماح بمواقع وهمية</string>
     <string name="allow_mock_location_summary">السماح بمواقع وهمية</string>
-    <string name="allow_oaid_used">السماح بإستخدام معرف الجهاز</string>
+    <string name="allow_oaid_used">禁止应用获取任何身份ID</string>
+    <string name="allow_oaid_used_desc">开启后，除您手动允许的情况外，系统将不再向应用提供任何身份ID，部分应用的推荐类功能可能受到影响</string>
     <string name="allow_overlay_description">السماح بعرض واجهة هذا التطبيق فوق تطبيقات أخرى تستخدمها. وقد يتداخل التطبيق مع استخدامك لهذه التطبيقات أو يغيِّر طريقة ظهورها أو عملها.</string>
     <string name="allow_sound_title">السماح للصوت</string>
     <string name="allow_vibrate_title">السماح للاهتزاز</string>
@@ -465,7 +468,7 @@
     <string name="app_list_memory_use">استخدام التطبيق</string>
     <string name="app_list_preference_none">عدم الملء التلقائي</string>
     <string name="app_memory_use">استخدام الذاكرة</string>
-    <string name="app_mobile">بيانات الجوال</string>
+    <string name="app_mobile">بيانات الهاتف</string>
     <string name="app_name_label">التطبيق</string>
     <string name="app_name_na">استخدام البيانات</string>
     <string name="app_names_concatenation_template_2">%1$s، %2$s</string>
@@ -503,6 +506,7 @@
     <string name="app_usage_preference">تفضيلات استخدام التطبيقات</string>
     <string name="app_version">الإصدار</string>
     <string name="app_wifi">Wi-Fi</string>
+    <string name="application_data">التطبيقات</string>
     <string name="application_forbid_auto_startup">إيقاف %s من البدء في الخلفية</string>
     <string name="application_info_label">معلومات عن التطبيقات</string>
     <string name="application_item_already_permission">تم السماح</string>
@@ -519,6 +523,7 @@
     <string name="applications_settings_summary">إدارة التطبيقات، إعداد اختصارات التشغيل السريع</string>
     <string name="applications_settings_title">التطبيقات</string>
     <string name="apply">تطبيق</string>
+    <string name="apply_fingerprint_to">استخدام بصمات الإصبع لـ</string>
     <string name="apply_fingerprint_to_category_title">تعيين بصمة الإصبع إلى…</string>
     <string name="apply_now_button_text">تحديث</string>
     <string name="apply_password_to_category_title">يتطلب إلغاء القفل</string>
@@ -665,17 +670,30 @@
     <string name="background_restrict_app_dialog_message">قد يؤدي تقييد وصول الشبكة الخلفية لهذا التطبيق إلى عمل التطبيق بشكل غير طبيعي في استلام الرسائل، وتنزيل محتوى والخ. التقييد على إية حال؟</string>
     <string name="background_traffic">الخلفي %s</string>
     <string name="backtouch_enable_title">ضبط مستوى الصوت على الجهة الخلفية</string>
+    <string name="backup_at_once">نسخ احتياطي</string>
     <string name="backup_configure_account_default_summary">ليس هناك حساب يخزن حاليًا بيانات تم نسخها احتياطيًا.</string>
     <string name="backup_configure_account_title">الحساب الاحتياطي</string>
+    <string name="backup_data">النُسخ الاحتياطية</string>
     <string name="backup_data_management_title">إدارة الحساب الاحتياطي</string>
     <string name="backup_data_summary">نسخ احتياطي لبيانات إي تطبيق، كلمات مرور شبكات Wi-Fi ، وغيرها من الإعدادات الأخرى إلى خوادم Google</string>
     <string name="backup_data_title">احتفاظ بنسخة لبياناتي</string>
+    <string name="backup_difference_content">"النُسخ الاحتياطية المحلية:
+يمكن أن تتضمن النُسخ الاحتياطية المحلية بيانات التطبيقات وعادةً ما تحتوي على المزيد من العناصر. يتم تخزين ملفات النُسخ الاحتياطي في MIUI-backup-AllBackup، ثم ستحتاج إلى نسخها إلى الكمبيوتر بمجرد اكتمال عملية النسخ.
+
+النُسخ الاحتياطية Cloud:
+ يتم تخزين النُسخ الاحتياطية في Xiaomi Cloud ويمكن الوصول إليها لاسلكيًا. هذه الطريقة أسرع وأسهل من النسخ الاحتياطي المحلي، ولكنك لن تتمكن من نسخ بيانات التطبيقات إلى Xiaomi Cloud.
+"</string>
+    <string name="backup_difference_title">كيف تختلف النُسخ الاحتياطية المحلية ونُسخ Cloud؟</string>
     <string name="backup_disabled">تم إيقاف الاحتفاظ بنسخة احتياطية</string>
     <string name="backup_erase_dialog_message">إيقاف النسخ الأحتياطي لكلمات مرور شبكات Wi-Fi والإشارات المرجعية والإعدادات الأخرى وبيانات إي تطبيق ومسح جميع النسخ الموجودة على خوادم Google؟</string>
     <string name="backup_erase_dialog_title" />
     <string name="backup_inactive_title">خدمة الاحتفاظ بنسخة احتياطية غير نشطة</string>
+    <string name="backup_more_settings">الإعدادات</string>
     <string name="backup_pw_cancel_button_text">إلغاء</string>
     <string name="backup_pw_set_button_text">تعيين كلمة مرور النسخة الاحتياطية</string>
+    <string name="backup_restore_data_content">"يمكن أن تحتوي النسخ الاحتياطية على جهات الاتصال والرسائل (الرسائل القصيرة والوسائط) وسجل المكالمات وأحداث التقويم والصور وملفات الصوت ومقاطع الفيديو والمستندات والتطبيقات وبيانات التطبيقات وتنسيق الشاشة الرئيسية.
+"</string>
+    <string name="backup_restore_data_title">ما العناصر التي يمكنني نسخها احتياطيًا أو استعادتها؟</string>
     <string name="backup_section_title">النسخ الاحتياطي والاستعادة</string>
     <string name="backup_set_clear_success">تم إيقاف كلمة المرور الاحتياطية بنجاح</string>
     <string name="backup_set_clear_title">إيقاف كلمة المرور الاحتياطية</string>
@@ -957,6 +975,7 @@
     <string name="bluetooth_device_misc_title">الأجهزة المستخدمة نادرا</string>
     <string name="bluetooth_device_name">الإسم:</string>
     <string name="bluetooth_device_name_summary">يظهر باسم \"^1\" للأجهزة الأخرى</string>
+    <string name="bluetooth_device_nearby_title">الأجهزة القريبة</string>
     <string name="bluetooth_device_searchable">قابل للاكتشاف</string>
     <string name="bluetooth_devices">أجهزة بلوتوث</string>
     <string name="bluetooth_disable_a2dp_hw_offload">‏إيقاف نقل بيانات أجهزة بلوتوث A2DP</string>
@@ -1007,6 +1026,14 @@
     <string name="bluetooth_hid_profile_summary_connected">متصل بجهاز الإدخال</string>
     <string name="bluetooth_hid_profile_summary_use_for">استخدام للإدخال</string>
     <string name="bluetooth_incoming_pairing_msg">‏من:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>الاقتران مع هذا الجهاز؟</string>
+    <string name="bluetooth_inform_messgae">"تعذر الاتصال بـ %1$s.
+.
+
+إليك مايمكن أن يكون خطأ:
+١. البلوتوث متوقف في هذا الجهاز أو أنه خارج النطاق.
+٢. هذا الجهاز ليس في وضع الاكتشاف.
+٣. الجهاز متصل بأجهزة أخرى. قم بقطع الاتصال وحاول مرة أخرى."</string>
+    <string name="bluetooth_inform_messgae_title">تعذر الاتصال</string>
     <string name="bluetooth_is_disconnect_question">هل تريد فصل %1$s؟</string>
     <string name="bluetooth_is_discoverable">مرئي لجميع أجهزة بلوتوث القريبة (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">جعل هذا الجهاز مرئي لكل أجهزة البلوتوث القريبة</string>
@@ -1055,9 +1082,9 @@
     <string name="bluetooth_pairing_request">هل تريد الإقران مع %1$s؟</string>
     <string name="bluetooth_pairing_shares_phonebook">السماح بالوصول إلى جهات الاتصال وسجلّ المكالمات</string>
     <string name="bluetooth_pairing_will_share_phonebook">يتيح الاقتران الدخول إلى جهات الاتصال وسجل المكالمات عند الاتصال.</string>
-    <string name="bluetooth_pan_nap_profile_summary_connected">مشاركة اتصال الإنترنت المحلي مع الجهاز</string>
+    <string name="bluetooth_pan_nap_profile_summary_connected">تتم مشاركة اتصال الإنترنت المحلي مع الجهاز</string>
     <string name="bluetooth_pan_profile_summary_use_for">الاستخدام للاتصال بالإنترنت</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">متصل بالجهاز للاتصال بالإنترنت</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">متصل بالجهاز للدخول إلى الإنترنت</string>
     <string name="bluetooth_pb_acceptance_dialog_text">يريد %1$s الوصول إلى جهات الاتصال وسجل المكالمات. هل تريد منحه إمكانية الوصول %2$s؟</string>
     <string name="bluetooth_pb_remember_choice">لا تسألني مرة أخرى</string>
     <string name="bluetooth_phonebook_request">طلب الدخول إلى دفتر الهاتف</string>
@@ -1199,7 +1226,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="bootloader_device_bind_fail">تعذر التحقق. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى</string>
     <string name="bootloader_device_bind_msg">جارٍ الإعداد لإضافة الحساب و الجهاز…</string>
     <string name="bootloader_device_bind_no_account">قم بتسجيل الدخول لحساب Mi أولاً</string>
-    <string name="bootloader_device_bind_no_data_network">قم إيقاف شبكة WiFi و أضف حسابك و جهازك بإستخدام بيانات الجوال.</string>
+    <string name="bootloader_device_bind_no_data_network">قم إيقاف شبكة WiFi و أضف حسابك و جهازك بإستخدام بيانات الهاتف.</string>
     <string name="bootloader_device_bind_no_network">قم بالاتصال بالإنترنت ثم حاول مجدداً</string>
     <string name="bootloader_device_bind_no_sim">ادخل بطاقة SIM وحاول مجدداً.</string>
     <string name="bootloader_device_bind_server_code">تعذر الإضافة. رمز الخطأ:</string>
@@ -1209,7 +1236,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="bootloader_locked_answer_1">نقوم بقفل الأجهزة للتأكد من أنها آمنة وأن معلوماتك الشخصية لا يتم الكشف عنها لأطراف ثالثة. إذا كنت بحاجة إلى الدخول في وضع Fastboot وفلاش جهازك، يجب عليك إلغاء القفل اولاً.</string>
     <string name="bootloader_locked_answer_1_warning">تذكر: لا يمكنك استخدام \"العثور على الجهاز\" بعد إلغاء قفل الهاتف.</string>
     <string name="bootloader_locked_answer_2">"١. تأكد من أنك قمت بإدخال بطاقة SIM مسبقا في جهازك.
-٢. إيقاف تشغيل Wi-Fi وتشغيل بيانات الجوال. تأكد من اتصال جهازك بالإنترنت بإستحدام بيانات الجوال.
+٢. إيقاف تشغيل Wi-Fi وتشغيل بيانات الهاتف. تأكد من اتصال جهازك بالإنترنت بإستحدام بيانات الهاتف.
 ٣. انقر على \"إضافة حساب\" أدناه قبل ربط حساب Mi الخاص بك بهذا الجهاز.
 ٤. قم بتنزيل أداة إلغاء القفل من موقعنا. يرجى الملاحظة أنه يمكنك إلغاء قفل الأجهزة على جهاز كمبيوتر فقط. التحميل من هنا:"</string>
     <string name="bootloader_locked_answer_2_no_sim">"١. انقر على \"إضافة حساب\" أدناه قبل ربط حساب Mi بهذا الجهاز.
@@ -1235,6 +1262,8 @@ aptX التكيفي: وضع الترميز"</string>
 إذا قمت بالفعل بأي مما سبق، فأضف حساب Mi مرة أخرى؛ وإلا فلن تكون قادرًا على إلغاء قفل جهازك."</string>
     <string name="bootloader_tips_ok">فهمت</string>
     <string name="bootloader_tips_warning">لا تنفصل عن الشبكة، ولا تسجل الخروج من حساب Mi، ولا تعيد ضبط المصنع أو حذف بيانات النظام.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
+    <string name="bottom_function_settings">الوظائف الإضافية للأزرار</string>
     <string name="breathing_light_color_menu_title">لون الإضاءة</string>
     <string name="breathing_light_color_summary">لون الإضاءة عند استلام إشعار جديد</string>
     <string name="breathing_light_freq_summary">وميض عند استلام إشعارات جديدة</string>
@@ -1256,8 +1285,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="bt_hci_snoop_log">سجل بلوتوث HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">التقاط جميع حزم بلوتوث HCI في ملف</string>
     <string name="bt_ldac_declaration">إذا كان جهاز البلوتوث يدعم LDAC، فسيتم تشغيله افتراضيًا. يوفر LDAC جودة صوت عالية، ولكنه يؤدي أيضًا إلى زيادة استهلاك الطاقة. قد تحدث مشاكل أثناء التشغيل نتيجة لقيود أجهزة البلوتوث.</string>
-    <string name="bt_ldac_dialog_summary">"يوفر LDAC تجربة صوتية عالية الجودة ويجلب أيضًا استهلاكًا أعلى للطاقة
-يمكن إيقاف هذه الميزة في [Settings]"</string>
+    <string name="bt_ldac_dialog_summary">يوفر LDAC تجربة صوتية عالية الجودة ولكنه يؤدي أيضًا إلى زيادة استهلاك الطاقة. يمكن إيقاف هذه الميزة من الإعدادات.</string>
     <string name="bt_ldac_dialog_title">يدعم الجهاز الحالي LDAC، التي تم توصيلها بشكل افتراضي:</string>
     <string name="bt_ldac_open_dialog_summary">يوفر LDAC جودة صوت عالية، ولكنه يؤدي أيضًا إلى زيادة استهلاك الطاقة. قد تحدث مشاكل أثناء التشغيل نتيجة لقيود أجهزة البلوتوث.</string>
     <string name="bt_ldac_open_dialog_title">تشغيل LDAC؟</string>
@@ -1310,6 +1338,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="calendar_sound_dialog_title">اختيار صوت التقويم</string>
     <string name="calendar_sound_title">صوت التقويم</string>
     <string name="call_category">الاتصال</string>
+    <string name="call_example_name">الاسم</string>
     <string name="call_manager_enable_summary">السماح لهذه الخدمة بإدارة كيفية إجراء المكالمات.</string>
     <string name="call_manager_enable_title">تفعيل مدير المكالمات</string>
     <string name="call_manager_title">مدير المكالمات</string>
@@ -1405,6 +1434,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="cellular_data_title">بيانات الجوّال</string>
     <string name="cellular_data_usage">استخدام بيانات الجوّال</string>
     <string name="change">تغيير</string>
+    <string name="change_lock_screen_password_title">تغيير قفل الشاشة</string>
     <string name="change_password">تغيير قفل الشاشة</string>
     <string name="change_security_lock">تجربة طرق أخرى لإلغاء القفل</string>
     <string name="change_storage">تغيير مساحة التخزين</string>
@@ -1437,12 +1467,15 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="clear_activities">محو الإعدادات التلقائية</string>
     <string name="clear_activities_summary">استخدام هذا التطبيق لإجراء بعض العمليات افتراضياً</string>
     <string name="clear_adb_keys">‏إلغاء ترخيص تصحيح أخطاء USB</string>
+    <string name="clear_all_data">مسح جميع البيانات</string>
     <string name="clear_cache_btn_text">محو ذاكرة التخزين المؤقت</string>
+    <string name="clear_data_alert_info">سيتم حذف جميع النُسخ الاحتياطية المخزنة على هذا الجهاز نهائيًا. قبل المتابعة، احتفظ بنسخة احتياطية من جميع العناصر المهمة على جهاز الكمبيوتر أو Xiaomi Cloud.</string>
     <string name="clear_data_dlg_text">سيتم حذف جميع بيانات هذا التطبيق نهائيًا. ويشمل ذلك جميع الملفات والإعدادات والحسابات وقواعد البيانات وما إلى ذلك.</string>
     <string name="clear_data_dlg_title">هل تريد حذف بيانات التطبيق؟</string>
     <string name="clear_failed_dlg_text">تعذّر مسح مساحة تخزين للتطبيق.</string>
     <string name="clear_instant_app_confirmation">هل تريد إزالة هذا التطبيق الفوري؟</string>
     <string name="clear_instant_app_data">مسح التطبيق</string>
+    <string name="clear_phone_data_category">مسح العناصر التالية</string>
     <string name="clear_uri_btn_text">محو إمكانية الدخول</string>
     <string name="clear_user_data_text">مسح مساحة التخزين</string>
     <string name="close_aod">هذه الميزة غير متوافقة مع وضع \"شاشة العرض قيد التشغيل دائماً\". قم بإيقاف هذه الميزة أولاً.</string>
@@ -1458,8 +1491,11 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="close_slave_wifi_hint">اقطع الاتصال بشبكات Wi-Fi المساعدة قبل البث</string>
     <string name="cloud_backup_section_title">نسخ Xiaomi Cloud الإحتياطي</string>
     <string name="cloud_backup_settings_section_title">إعدادات النسخ الاحتياطي</string>
+    <string name="cloud_category_text">Cloud</string>
     <string name="cloud_restore_section_summary">إعدادات استعادة النظام وتنسيق الشاشة الرئيسية والتطبيقات</string>
+    <string name="cloud_restore_section_summary_new">نسخ احتياطي لتنسيق الشاشة الرئيسية والتطبيقات وإعدادات النظام واكثر من ذلك</string>
     <string name="cloud_restore_section_title">استعادة من Xiaomi Cloud</string>
+    <string name="cloud_restore_section_title_new">على Xiaomi Cloud</string>
     <string name="cmcc_hardware_version">إصدار معدات الجهاز</string>
     <string name="codec_low_latency_summary">تقليل زمن الانتقال أثناء مزامنة الصوت والفيديو</string>
     <string name="codec_low_latency_title">زمن انتقالي قصير</string>
@@ -1517,9 +1553,12 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="color_unspecified">التلقائية</string>
     <string name="color_white">أبيض</string>
     <string name="color_yellow">أصفر</string>
+    <string name="common_issue">الأسئلة الشائعة</string>
     <string name="common_settings">الإعدادات السريعة</string>
     <string name="complete_parameters">جميع المواصفات</string>
     <string name="complete_settings">الإعدادات العامة</string>
+    <string name="computer_backup_summary">النسخ الاحتياطي واسترداد العناصر باستخدام جهاز كمبيوتر</string>
+    <string name="computer_backup_title">الكمبيوتر</string>
     <string name="computing_size">جارٍ الحساب...</string>
     <string name="condition_airplane_summary">الشبكات غير متوفرة</string>
     <string name="condition_airplane_title">وضع الطائرة قيد التشغيل</string>
@@ -1602,6 +1641,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="connected_wifi">متصل</string>
     <string name="connecting_to_vpn">يتم الاتصال بالـVPN</string>
     <string name="connection_and_sharing">الاتصال والمشاركة</string>
+    <string name="contact_data">جهات الاتصال</string>
     <string name="content_capture">محتوى التطبيق</string>
     <string name="content_capture_summary">‏يمكنك السماح للتطبيقات بإرسال المحتوى إلى نظام Android.</string>
     <string name="content_description_menu_button">القائمة</string>
@@ -1612,6 +1652,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="contextual_card_feedback_send">إرسال تعليقات</string>
     <string name="contextual_card_removed_message">تمت إزالة الاقتراح.</string>
     <string name="contextual_card_undo_dismissal_text">تراجع</string>
+    <string name="continue_reset_factory">إعادة ضبط المصنع</string>
     <string name="contributors_title">المساهمون</string>
     <string name="controls_label">عناصر التحكم</string>
     <string name="controls_subtitle">ضبط استخدام الطاقة</string>
@@ -1635,7 +1676,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="credential_storage_type">نوع وحدة التخزين</string>
     <string name="credential_storage_type_hardware">وحدة تخزين صلبة</string>
     <string name="credential_storage_type_software">وحدة تخزين برمجية فقط</string>
-    <string name="credentials_configure_lock_screen_hint">تحتاج إلى تعيين رمز PIN لشاشة القفل أو كلمة مرور قبل أن يمكنك استخدام سعة التخزين المعتمدة.</string>
+    <string name="credentials_configure_lock_screen_hint">تحتاج إلى تعيين رمز PIN لشاشة القفل أو كلمة مرور قبل أن تتمكن من استخدام سعة التخزين المعتمدة.</string>
     <string name="credentials_erased">تم مسح تخزين بيانات الاعتماد.</string>
     <string name="credentials_install">التثبيت من وحدة تخزين</string>
     <string name="credentials_install_summary">تثبيت الشهادات من وحدة تخزين</string>
@@ -1694,6 +1735,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="cryptkeeper_wrong_pin">رقم تعريف شخصي خاطئ</string>
     <string name="current_backup_pw_prompt">اكتب كلمة المرور الحالية للنسخة الاحتياطية الكاملة هنا</string>
     <string name="current_input_method">لوحة المفاتيح الحالية</string>
+    <string name="current_password">قفل الشاشة الحالي</string>
     <string name="current_screen_lock">قفل الشاشة الحالي</string>
     <string name="current_use_ese">يتم استخدام العنصر الآمن المضمن</string>
     <string name="current_use_ese_wallet">أنت تستخدم محفظة Mi. هذه المحفظة تسمح لك باستخدام دفع Mi وبطاقة مواصلات NFC.</string>
@@ -1702,6 +1744,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="current_use_uicc_wallet">أنت تستخدم محفظة SIM%1$s</string>
     <string name="current_zone">(الحالي)</string>
     <string name="custom_carrier_title">تعديل اسم شركة الاتصالات</string>
+    <string name="custom_color">تخصيص</string>
     <string name="custom_wifi_name_title">تعديل اسم Wi-Fi</string>
     <string name="cutout_mode_always">إظهار النتوء دائما</string>
     <string name="cutout_mode_default">تلقائي</string>
@@ -1723,13 +1766,16 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dark_color_mode">وضع الظلام</string>
     <string name="dark_color_summary_lcd">إستخدم الألوان الداكنة لخلفيات النظام والتطبيقات المتوافقة. يمكن أن يساعدك وضع الظلام في تخفيف إجهاد العين عند استخدام جهازك في الظلام.</string>
     <string name="dark_color_summary_oled">إستخدم الألوان الداكنة لخلفيات النظام والتطبيقات المتوافقة. يقلل وضع الظلام من استهلاك الطاقة ويساعد على تخفيف إجهاد العين.</string>
+    <string name="dark_mode_contrast">تعديل التباين تلقائيا</string>
+    <string name="dark_mode_contrast_hint">اضبط الألوان تلقائيًا وقلل التباين عند تقليل السطوع</string>
     <string name="dark_ui_mode">مظهر داكن</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_off">مفعّل مؤقتًا نتيجة تفعيل وضع \"توفير شحن البطارية\"</string>
     <string name="dark_ui_mode_disabled_summary_dark_theme_on">مفعّل / تم إيقاف التبديل مؤقتًا بسبب تفعيل وضع \"توفير شحن البطارية\".</string>
-    <string name="dark_ui_mode_title">تعيين سمة</string>
+    <string name="dark_ui_mode_title">تعيين ثيم</string>
     <string name="dark_ui_settings_dark_summary">سيتم تبديل التطبيقات المتوافقة أيضًا إلى التصميم الداكن</string>
     <string name="dark_ui_settings_dialog_acknowledge">حسنًا</string>
     <string name="dark_ui_settings_light_summary">تنطبق هذه الإعدادات أيضًا على التطبيقات</string>
+    <string name="dark_wallpaper_mode">تعيين وضع الظلام لخلفية الشاشة</string>
     <string name="dashboard_title">الإعدادات</string>
     <string name="data_during_calls_summary">‏السماح باستخدام بيانات الجوّال من شريحة SIM هذه أثناء المكالمات فقط</string>
     <string name="data_during_calls_title">البيانات أثناء المكالمات</string>
@@ -1816,8 +1862,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="data_usage_other_apps">التطبيقات الأخرى المضمّنة في الاستخدام</string>
     <string name="data_usage_pick_cycle_day">يوم من الشهر لإعادة تعيين دورة استخدام البيانات:</string>
     <string name="data_usage_received_sent">تم استلام %1$s، تم إرسال %2$s</string>
-    <string name="data_usage_restrict_background">إذا قمت بتقييد بيانات الجوال في الخلفية، قد لا تعمل بعض التطبيقات والخدمات ما لم تتصل بشبكة Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">إذا قمت بتقييد بيانات الجوال في الخلفية، قد لا تعمل بعض التطبيقات والخدمات على النحو الملائم ما لم تتصل بشبكة Wi-Fi.</string>
+    <string name="data_usage_restrict_background">إذا قمت بتقييد بيانات الهاتف في الخلفية، قد لا تعمل بعض التطبيقات والخدمات ما لم تتصل بشبكة Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">إذا قمت بتقييد بيانات الهاتف في الخلفية، قد لا تعمل بعض التطبيقات والخدمات على النحو الملائم ما لم تتصل بشبكة Wi-Fi.</string>
     <string name="data_usage_restrict_background_title">هل تريد تقييد بيانات الخلفية؟</string>
     <string name="data_usage_restrict_denied_dialog">تقييد بيانات الخلفية ممكن فقط إذا عيّنت حدًا أقصى لبيانات الجوال.</string>
     <string name="data_usage_summary_format">تم استخدام %1$s من البيانات</string>
@@ -1835,8 +1881,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="data_usage_title">البيانات الأساسية</string>
     <string name="data_usage_total_during_range">%2$s: تم استخدام %1$s تقريبًا.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: تم استخدام %1$s تقريبًا، وفقًا لحساب الهاتف. قد يختلف حساب استخدام البيانات لدى مشغل شبكة الجوال.</string>
-    <string name="data_usage_uninstalled_apps">التطبيقات المحذوفة</string>
-    <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمين الذين تمت إزالتهم</string>
+    <string name="data_usage_uninstalled_apps">التطبيقات المزالة</string>
+    <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمون الذين تمت إزالتهم</string>
     <string name="data_usage_warning_editor_title">ضبط تحذيرات استخدام البيانات</string>
     <string name="data_usage_wifi_format">‏تم استخدام ^1 على Wi‑Fi</string>
     <string name="data_usage_wifi_title">‏بيانات Wi‑Fi</string>
@@ -1845,6 +1891,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="data_used_template">%1$s مستخدَمة</string>
     <string name="data_warning">تحذيرات البيانات</string>
     <string name="data_warning_footnote">يتم قياس التحذيرات والحد الأقصى للبيانات من خلال جهازك. وقد يختلف هذا القياس عن بيانات مشغِّل شبكة الجوّال.</string>
+    <string name="datasize_decrease_content">"سيتم ضغط بيانات النظام وجهات الاتصال والرسائل أثناء نسخها احتياطيا؛ سيساعد ذلك على تقليل حجم الملفات.
+"</string>
+    <string name="datasize_decrease_title">لماذا بعض النُسخ الاحتياطية أصغر من حجم العناصر الأصلية؟</string>
     <string name="date_and_time">التاريخ والوقت</string>
     <string name="date_and_time_settings_summary">تعيين التاريخ والوقت والمنطقة الزمنية والتنسيقات</string>
     <string name="date_and_time_settings_title">التاريخ والوقت</string>
@@ -1863,10 +1912,10 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="date_time_set_timezone_title">المنطقة الزمنية</string>
     <string name="date_time_settings">التاريخ والوقت</string>
     <string name="day_of_week">يوم في الأسبوع</string>
-    <string name="dc_light_dialog_summary">قد تتأثر جودة الصورة عند تشغيل وضع إزالة الوميض. التشغيل على أية حال؟</string>
+    <string name="dc_light_dialog_summary">قد تتأثر جودة الصورة عند تشغيل وضع منع الوميض. التشغيل على أية حال؟</string>
     <string name="dc_light_summary">تعيين تعتيم DC لتقليل إجهاد العين</string>
     <string name="dc_light_summary_new">يمنع تعتيم DC الوميض المفرط ويقلل إجهاد العين في ظروف الإضاءة المنخفضة. ومع ذلك، قد تتأثر جودة الصورة عند تشغيل هذه الميزة.</string>
-    <string name="dc_light_title">وضع إزالة الوميض</string>
+    <string name="dc_light_title">وضع منع الوميض</string>
     <string name="debug_app">تحديد تطبيق للتصحيح</string>
     <string name="debug_app_not_set">لم يتم تعيين تطبيق للتصحيح</string>
     <string name="debug_app_set">تطبيق التصحيح: %1$s</string>
@@ -1881,7 +1930,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="debug_layout_summary">عرض حدود المقطع والهوامش وما إلى ذلك.</string>
     <string name="debug_monitoring_category">المراقبة</string>
     <string name="debug_networking_category">الشبكات</string>
-    <string name="debug_view_attributes">تفعيل فحص سمة العرض</string>
+    <string name="debug_view_attributes">تفعيل فحص ثيم العرض</string>
     <string name="decline_remote_bugreport_action">رفض</string>
     <string name="decryption_settings_summary">الهاتف ليس مشفّرًا.</string>
     <string name="defalut_launcher_title">الشاشة الرئيسية الإفتراضية</string>
@@ -1900,6 +1949,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="default_for_sms">‏الشريحة التلقائية للرسائل القصيرة SMS</string>
     <string name="default_for_work">التطبيقات التلقائية للعمل</string>
     <string name="default_input_method">اختر لوحة المفاتيح الافتراضية</string>
+    <string name="default_keyboard">الافتراضية</string>
     <string name="default_keyboard_layout">تلقائي</string>
     <string name="default_launcher_set_jeejen_message">اضغط على زر \"الصفحة الرئيسية\" لإعداد Jeejen</string>
     <string name="default_launcher_set_system_message">اضغط على زر \"الصفحة الرئيسية\" لإستعادة المشغل الإفتراضي</string>
@@ -1915,6 +1965,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="default_usb_mode">توصيل USB</string>
     <string name="delete">حذف</string>
     <string name="delete_fingerprint_confirm_msg">حذف بصمة الإصبع؟</string>
+    <string name="delete_fingerprint_confirm_title">تنبيه</string>
     <string name="delete_fingerprint_text">حذف البصمة</string>
     <string name="delete_legacy_fingerprint">حذف</string>
     <string name="delete_or_keep_legacy_passwords_confirm_msg">حذف بصمة الإصبع هذه؟</string>
@@ -1929,6 +1980,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="demo_mode_summary">عرض أيقونة الوضع التجريبي في شريط الحالة</string>
     <string name="deny">رفض</string>
     <string name="detail_app_button">معلومات التطبيق</string>
+    <string name="detail_question">التفاصيل</string>
     <string name="details_subtitle">استخدام التفاصيل</string>
     <string name="dev_logpersist_clear_warning_message">عندما نتوقف عن رصد أي أخطاء باستخدام المسجل الدائم مرة أخرى، يتعين علينا محو بيانات المسجل الموجودة على جهازك.</string>
     <string name="dev_logpersist_clear_warning_title">مسح تخزين السجل الدائم؟</string>
@@ -1973,13 +2025,16 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="device_miui_version">إصدار MIUI</string>
     <string name="device_miui_version_for_POCO">إصدار MIUI (لـ POCO)</string>
     <string name="device_miui_version_parameters">إصدار MIUI</string>
-    <string name="device_miui_version_update">تحديث MIUI متاح</string>
+    <string name="device_miui_version_update">تحديث</string>
     <string name="device_name">اسم الجهاز</string>
     <string name="device_name_input_error">تعذر حفظ اسم الجهاز</string>
     <string name="device_name_input_hint">ادخل اسم</string>
     <string name="device_name_input_overlength">لقد تجاوزت حد الأحرف</string>
     <string name="device_name_usage_point">تستطيع الأجهزة القريبة مشاهدة هذا الاسم.</string>
-    <string name="device_oaid">معرف الجهاز</string>
+    <string name="device_oaid">撤回个人信息</string>
+    <string name="device_oaid_desc">MIUI将向三方应用提供虚拟的身份ID(OAID)代替您的真实身份识别，防止应用对您的行为及喜好记录进行追踪，保护您的个人隐私信息</string>
+    <string name="device_oaid_title">虚拟身份ID</string>
+    <string name="device_of_someone">%1$s من %2$s</string>
     <string name="device_picker">اختيار جهاز البلوتوث</string>
     <string name="device_rear_camera">الكاميرا الرئيسية</string>
     <string name="device_screen_resolution">دقة الشاشة</string>
@@ -2001,6 +2056,7 @@ aptX التكيفي: وضع الترميز"</string>
 لمحاولة حل هذه المشكلة، يمكنك إيقاف %1$s ومنع تشغيله في الخلفية."</string>
     <string name="dialog_background_check_ok">إيقاف</string>
     <string name="dialog_background_check_title">هل تريد إيقاف الاستخدام في الخلفية وإيقاف التطبيق؟</string>
+    <string name="dialog_backup_title">هل تريد تحديث النُسخ الاحتياطية قبل إعادة ضبط إعدادات المصنع؟</string>
     <string name="dialog_chose_item">قم بتحديد عنصر لعرضة</string>
     <string name="dialog_content_login">تسجيل الدخول إلى حساب Mi للتحديث؟</string>
     <string name="dialog_location_message">"لا يستطيع هاتفك إدارة البطارية بشكل طبيعي لأن %1$s يطلب باستمرار معرفة موقعك أثناء عدم استخدامك له.
@@ -2009,8 +2065,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dialog_location_ok">إيقاف</string>
     <string name="dialog_location_title">هل تريد إيقاف تحديد الموقع؟</string>
     <string name="dialog_no">لا</string>
-    <string name="dialog_restrict_all_mobile_summary">سيتم تقييد اتصال بيانات الجوال لبطاقة %s لجميع التطبيقات بعد ذلك.</string>
-    <string name="dialog_restrict_all_mobile_title">تقييد اتصال بيانات الجوال لـ %s</string>
+    <string name="dialog_restrict_all_mobile_summary">سيتم تقييد اتصال بيانات الهاتف لبطاقة %s لجميع التطبيقات بعد ذلك.</string>
+    <string name="dialog_restrict_all_mobile_title">تقييد اتصال بيانات الهاتف لـ %s</string>
     <string name="dialog_restrict_all_wlan_summary">سيتم تقييد اتصال Wi-Fi لجميع التطبيقات بعد ذلك.</string>
     <string name="dialog_restrict_all_wlan_title">تقييد اتصال Wi-Fi</string>
     <string name="dialog_restrict_negative">تقييد</string>
@@ -2034,6 +2090,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dialog_title_hdmi_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="dialog_title_login">تسجيل الدخول إلى حساب Mi</string>
     <string name="dialog_yes">نعم</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة. ستتمكن من استخدام لوحة المفاتيح هذه بعد إعادة التشغيل فقط في حالة إلغاء قفل جهازك</string>
     <string name="disable_overlays">إيقاف تراكبات الأجهزة</string>
     <string name="disable_overlays_summary">استخدام GPU دائمًا لتركيب الشاشة</string>
@@ -2107,6 +2164,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dndm_auto_button_title">تكرار وقت عدم الإزعاج</string>
     <string name="dndm_auto_setting_group">مجدول</string>
     <string name="dndm_auto_time_setting">ضبط الوقت</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">إلى</string>
     <string name="dndm_auto_time_turn_off_title">إيقاف تلقائي لعدم الإزعاج</string>
     <string name="dndm_auto_time_turn_on">من</string>
@@ -2193,7 +2251,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dual_cdma_sim_warning_notification_summary">قد يحد استخدام %1$s من أداء بعض الوظائف. انقر لمعرفة المزيد من المعلومات.</string>
     <string name="dual_clock">الساعة المزدوجة</string>
     <string name="dual_clock_aod_open_message">سيتم عرض الساعة المزدوجة على شاشة القفل والشاشة الرئيسية وشاشة التوقف.</string>
-    <string name="dual_clock_hint">تحتاج الساعة المزدوجة إلى إستخدام تطبيق الساعة المصغر للنظام والسمة الافتراضية</string>
+    <string name="dual_clock_hint">تحتاج الساعة المزدوجة إلى إستخدام تطبيق الساعة المصغر للنظام والثيم الافتراضي</string>
     <string name="dual_clock_ok">فهمت</string>
     <string name="dual_clock_open_message">سيتم عرض الساعة المزدوجة على شاشة القفل والشاشة الرئيسية.</string>
     <string name="dual_setting_simcard1">1 SIM</string>
@@ -2261,7 +2319,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="enable_gpu_debug_layers_summary">السماح بتحميل طبقات تصحيح GPU لتطبيقات التصحيح</string>
     <string name="enable_mms_notification_channel_title">رسالة وسائط متعددة</string>
     <string name="enable_mms_notification_summary">انقر للسماح بالمراسلة باستخدام رسائل الوسائط المتعددة على %1$s عند إيقاف تشغيل بيانات الجوّال.</string>
-    <string name="enable_mobile_data_when_opening_hotspot">تشغيل اتصال بيانات شبكة الجوال أيضاً؟</string>
+    <string name="enable_mobile_data_when_opening_hotspot">تشغيل اتصال بيانات شبكة الهاتف أيضاً؟</string>
     <string name="enable_opengl_traces_title">‏تفعيل عمليات تتبع OpenGL</string>
     <string name="enable_quick_setting">إظهار في الإعدادات السريعة</string>
     <string name="enable_receiving_mms_notification_title">رسالة وسائط متعددة واردة</string>
@@ -2326,6 +2384,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="enhanced_4g_lte_mode_title">VoLTE</string>
     <string name="enhanced_4g_lte_mode_title_4g_calling">‏الاتصال في وضع 4G</string>
     <string name="enhanced_4g_lte_mode_title_advanced_calling">اتصال متقدِّم</string>
+    <string name="enrol_fingerprint_data">إضافة بصمة الإصبع</string>
     <string name="enter_password">‏لبدء تشغيل Android، أدخل كلمة المرور</string>
     <string name="enter_pattern">‏لبدء تشغيل Android، ارسم النقش</string>
     <string name="enter_pin">‏لبدء تشغيل Android، أدخل رقم التعريف الشخصي</string>
@@ -2365,29 +2424,6 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="enterprise_privacy_settings_summary_with_name">تتولى %s إدارة التغييرات والإعدادات.</string>
     <string name="enterprise_privacy_usage_stats">مقدار الوقت المنقضي والبيانات المستخدمة في كل تطبيق</string>
     <string name="enterprise_privacy_wipe_device">يمكن للمشرف حذف جميع بيانات الجهاز</string>
-    <string name="eq_auto">تخصيص</string>
-    <string name="eq_blues">إيقاع</string>
-    <string name="eq_cancel">إلغاء</string>
-    <string name="eq_classical">كلاسيك</string>
-    <string name="eq_country">الريف</string>
-    <string name="eq_dance">رقص</string>
-    <string name="eq_delete">إزالة</string>
-    <string name="eq_delete_success">تم</string>
-    <string name="eq_electronic">الكتروني</string>
-    <string name="eq_flat">الافتراضي</string>
-    <string name="eq_hiphop">هيب هوب</string>
-    <string name="eq_jazz">جاز</string>
-    <string name="eq_metal">معدن</string>
-    <string name="eq_ok">موافق</string>
-    <string name="eq_pop">بوب</string>
-    <string name="eq_preset_create">إنشاء</string>
-    <string name="eq_preset_format">إعدادات المستخدم %d</string>
-    <string name="eq_preset_hint">اسم التأثير</string>
-    <string name="eq_preset_rename">إعادة تسمية</string>
-    <string name="eq_preset_select">اختر إعداد</string>
-    <string name="eq_return">رجوع</string>
-    <string name="eq_rock">روك</string>
-    <string name="equalizer">المعادل</string>
     <string name="erase_application">مسح التطبيقات</string>
     <string name="erase_application_description">مسح التطبيقات المنزلة</string>
     <string name="erase_data">مسح</string>
@@ -2427,15 +2463,69 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="extreme_threats_summary">تلقي إشعارات بشأن التهديدات القصوى للحياة والممتلكات</string>
     <string name="extreme_threats_title">التهديدات القصوى</string>
     <string name="face_add_max">يمكنك إضافة ما يصل إلى %d وجه.</string>
+    <string name="face_data_apply_for_category_title">فتح القفل عن طريق بيانات الوجه</string>
+    <string name="face_data_apply_for_keyguard_title">شاشة القفل</string>
+    <string name="face_data_input_camera_fail">لا يمكن فتح الكاميرا</string>
+    <string name="face_data_input_camera_ok">جارٍ فتح الكاميرا…</string>
+    <string name="face_data_input_cancel_msg">لا يمكن إضافة بيانات الوجه</string>
+    <string name="face_data_input_ok">تم</string>
+    <string name="face_data_input_ok_title">تمت الإضافة بنجاح</string>
+    <string name="face_data_input_structure_title">بيانات الوجه 3D</string>
+    <string name="face_data_input_title">إضافة بيانات الوجه</string>
+    <string name="face_data_introduction_msg">يمكن استخدام بيانات الوجه لإلغاء قفل جهازك أو التحقق من هويتك. قم بإضافة كلمة مرور شاشة القفل قبل إضافة بيانات وجهك.</string>
+    <string name="face_data_introduction_next">التالي</string>
+    <string name="face_data_introduction_title">التعرف على الوجه</string>
+    <string name="face_data_manage_delete">حذف بيانات الوجه؟</string>
+    <string name="face_data_manage_delete_msg">حذف بيانات الوجه</string>
+    <string name="face_data_manage_delete_sure">لن تتمكن من إلغاء قفل الجهاز باستخدام بيانات الوجه بعد حذفه.</string>
+    <string name="face_data_manage_unlock_liftcamera_msg">بعد تشغيل الشاشة، اسحب لأعلى لإلغاء قفل الجهاز باستخدام بيانات الوجه.</string>
+    <string name="face_data_manage_unlock_msg">إلغاء قفل الجهاز بإستخدام بيانات الوجه</string>
+    <string name="face_data_manage_unlock_slide_msg">إستبدال اختصارات شريط التمرير بخاصية التعرف على الوجه</string>
+    <string name="face_data_manage_unlock_title">فتح القفل بإستخدام بيانات الوجه</string>
+    <string name="face_data_siggesstion_next">التالي</string>
+    <string name="face_data_siggesstion_next_time">التالي (%dث)</string>
+    <string name="face_data_suggesstion_first">تحذير: استخدام التعرف على الوجه هو أقل أمنا من استخدام رمز PIN أو كلمة مرور أو نقش. قد يتم إلغاء القفل عن طريق صورك أو أشخاص مشابهيين لك.</string>
+    <string name="face_data_suggesstion_second">تأكد من أن جميع أجزاء وجهك مرئية بوضوح وغير مغطاة بأشياء. يجب أن يكون وجهك مضاء جيدا كذلك.</string>
     <string name="face_intro_error_max">لقد أضفت الحد الأقصى لعدد الأوجه</string>
     <string name="face_intro_error_unknown">لا يمكن إضافة مزيد من الأوجه</string>
     <string name="face_lock_screen_setup_skip_dialog_text">يمكنك حماية هاتفك بتفعيل خيار قفل الشاشة حتى لا يتمكَّن أي شخص من استخدامه في حال فقدانه أو سرقته. وتحتاج أيضًا إلى خيار قفل الشاشة لإعداد المصادقة بالوجه. انقر على \"إلغاء\" ثُم حدِّد رقم تعريف شخصيًا أو نقشًا أو كلمة مرور.</string>
+    <string name="face_unlock">التعرف على الوجه</string>
+    <string name="face_unlock_be_on_the_screen">أمسك الجهاز أمام وجهك</string>
+    <string name="face_unlock_by_notification_screen_on_msg">يمكنك إلغاء قفل الجهاز باستخدام بيانات الوجه كلما تضيء الشاشة للإشعارات الواردة. قد يستنزف هذا طاقة البطارية بشكل أسرع.</string>
+    <string name="face_unlock_by_notification_screen_on_title">السماح بالتعرف على الوجه عند وميض الشاشة</string>
+    <string name="face_unlock_category_title">خيارات شاشة القفل</string>
+    <string name="face_unlock_check_failed">لا يمكن التعرف عليك</string>
+    <string name="face_unlock_close_screen">أقترب أكثر من الشاشة</string>
     <string name="face_unlock_disable">التعرف على الوجه متوقف</string>
+    <string name="face_unlock_down">إرفع رأسك</string>
     <string name="face_unlock_enable">التعرف على الوجه يعمل</string>
+    <string name="face_unlock_not_found">لا يمكن التعرف عليك</string>
+    <string name="face_unlock_offset_bottom">أخفض هاتفك قليلا</string>
+    <string name="face_unlock_offset_left">انتقل إلى اليمين</string>
+    <string name="face_unlock_offset_right">انتقل إلى اليسار</string>
+    <string name="face_unlock_offset_top">ارفع هاتفك قليلا</string>
+    <string name="face_unlock_open_eye">افتح عينيك أكثر قليلا</string>
+    <string name="face_unlock_quality">لا يمكن رؤية وجهك بوضوح</string>
+    <string name="face_unlock_reveal_eye">اجعل عينيك مرئية</string>
+    <string name="face_unlock_reveal_mouth">اجعل شفتيك مرئية</string>
+    <string name="face_unlock_rise">أخفض رأسك</string>
+    <string name="face_unlock_rotated_left">أدر رأسك إلى اليمين</string>
+    <string name="face_unlock_rotated_right">أدر رأسك إلى اليسار</string>
+    <string name="face_unlock_sc_status">إسحب الشاشة للأسفل لفتح الكاميرا</string>
     <string name="face_unlock_set_unlock_password">مصادقة الوجه + كلمة المرور</string>
     <string name="face_unlock_set_unlock_pattern">مصادقة الوجه + نمط</string>
     <string name="face_unlock_set_unlock_pin">مصادقة الوجه + رقم التعريف الشخصي</string>
     <string name="face_unlock_skip_face">المتابعة بدون مصادقة الوجه</string>
+    <string name="face_unlock_stay_away_screen">إبقى بعيدا عن الشاشة مسافة ٢٥ إلى ٤٠ سم</string>
+    <string name="face_unlock_success_show_message_dialog_msg">اسمح لإشعارات شاشة القفل لتتمكن من عرضها في شاشة القفل.</string>
+    <string name="face_unlock_success_show_message_dialog_negative_btn">لا شكراً</string>
+    <string name="face_unlock_success_show_message_dialog_positive_btn">السماح</string>
+    <string name="face_unlock_success_show_message_dialog_title">إشعارات شاشة القفل</string>
+    <string name="face_unlock_success_show_message_msg">عرض مصدر الإشعارات فقط عند قفل الجهاز وإضافة التفاصيل بعد التحقق من بيانات الوجه</string>
+    <string name="face_unlock_success_show_message_title">عرض تفاصيل الإشعارات بعد التحقق من بيانات الوجه</string>
+    <string name="face_unlock_success_show_message_toast">سيتم عرض الإشعارات على شاشة القفل</string>
+    <string name="face_unlock_success_stay_screen_msg">البقاء في شاشة القفل بعد التحقق من بصمة الوجة. مرر لأعلى لفتح الشاشة الرئيسية.</string>
+    <string name="face_unlock_success_stay_screen_title">البقاء في شاشة القفل بعد فتح الجهاز</string>
     <string name="face_unlock_title">يمكنك إلغاء قفل هاتفك باستخدام وجهك. ولأغراض أمنية، يتطلب هذا الخيار استخدام قفل شاشة احتياطي.</string>
     <string name="factory_reset_summary">مسح جميع البيانات من سعة التخزين الداخلية للهاتف</string>
     <string name="failed_to_check_find_device_status_content">تعذر التحقق من حالة العثور على الجهاز. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
@@ -2449,6 +2539,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="fcc_equipment_id">معرّف الجهاز</string>
     <string name="feature_flags_dashboard_title">عناصر التحكّم في الميزات</string>
     <string name="feedback">التعليقات</string>
+    <string name="feedback_btn_text">إرسال تعليق</string>
     <string name="feedback_settings">الخدمات والتعليقات</string>
     <string name="file_privacy_password_role_instruction">سيتم تخزين الملفات الخاصة بك هنا.</string>
     <string name="filter">تصفية</string>
@@ -2526,20 +2617,20 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="finish_application">إيقاف إجباري</string>
     <string name="finish_button">إنهاء</string>
     <string name="firewall_allow_all">السماح لجميع التطبيقات بالاتصال باستخدام الطريقة التالية</string>
-    <string name="firewall_allow_data">السماح بإستخدام بيانات الجوال</string>
+    <string name="firewall_allow_data">السماح بإستخدام بيانات الهاتف</string>
     <string name="firewall_allow_network">السماح</string>
     <string name="firewall_allow_wlan">السماح بإستخدام اتصال Wi-Fi</string>
     <string name="firewall_applist">التطبيقات</string>
-    <string name="firewall_mobile">بيانات الجوال</string>
+    <string name="firewall_mobile">بيانات الهاتف</string>
     <string name="firewall_network_allow">تم السماح لـ %1$s استخدام اتصال %2$s</string>
     <string name="firewall_network_restrict_notify_message">انقر لتغيير الإعدادات.</string>
-    <string name="firewall_network_restrict_notify_mobile">بيانات الجوال</string>
+    <string name="firewall_network_restrict_notify_mobile">بيانات الهاتف</string>
     <string name="firewall_partial">السماح لبعض التطبيقات بالاتصال باستخدام الطريقة التالية</string>
     <string name="firewall_permission">أذونات الاتصال</string>
     <string name="firewall_restrict_all">تقييد الاتصال لجميع التطبيقات باستخدام الطريقة التالية</string>
-    <string name="firewall_restrict_android_dialog_content">للتأكد من ان جهازك يعمل بشكل طبيعي، سيظل عدد قليل من تطبيقات نظام Android على اتصال بالإنترنت. هذه التطبيقات ستستخدم اتصال بيانات الجوال ويمكن أن تفرض رسوم بسيطة من شركة الاتصالات الخاصة بك.</string>
+    <string name="firewall_restrict_android_dialog_content">للتأكد من ان جهازك يعمل بشكل طبيعي، سيظل عدد قليل من تطبيقات نظام Android على اتصال بالإنترنت. هذه التطبيقات ستستخدم اتصال بيانات الهاتف ويمكن أن تفرض رسوم بسيطة من شركة الاتصالات الخاصة بك.</string>
     <string name="firewall_restrict_android_dialog_title">تنبيه</string>
-    <string name="firewall_restrict_data">تقييد استخدام بيانات الجوال</string>
+    <string name="firewall_restrict_data">تقييد استخدام بيانات الهاتف</string>
     <string name="firewall_restrict_notify_title">لا يمكن لـ %s إستخدام الشبكة</string>
     <string name="firewall_restrict_wlan">تقييد إستخدام اتصال Wi-Fi</string>
     <string name="firewall_set_bg_firewall_default_dialog_summary">إذا قمت بتقييد اتصال الخلفية، فلن تتمكن التطبيقات الجديدة من الاتصال بالإنترنت في الخلفية بعد تثبيتها. وقد لا تتمكن ايضاً من استلام الرسائل أو تحديث المحتوى بعد ذلك. التقييد على أي حال؟</string>
@@ -2548,7 +2639,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="firewall_wifi">شبكة Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">لن يتمكن التطبيق المثبت الاتصال بالإنترنت باستخدام الـ Wi-Fi عند توقف هذا التبديل.</string>
     <string name="firmware_version">إصدار Android</string>
-    <string name="flash_drive_backup_restore">النسخ الاحتياطي أو الاستعادة باستخدام USB</string>
+    <string name="flash_drive_backup_disable">قم بتوصيل محرك أقراص USB أولاً</string>
+    <string name="flash_drive_backup_enable">استخدم محرك أقراص USB لعمل نسخة احتياطية للعناصر أو استعادتها</string>
+    <string name="flash_drive_backup_restore">محرك أقراص USB</string>
     <string name="flash_drive_backup_restore_summary">قم بتوصيل الـUSB</string>
     <string name="floating_window_switch_label">تشغيل النوافذ المنبثقة</string>
     <string name="floating_window_switch_label_disable">إيقاف تشغيل النوافذ المنبثقة</string>
@@ -2636,6 +2729,19 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="free_wifi_user_agreement_title">تحذير الخصوصية</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">انقر للاتصال بـ%1$s.</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_summary">اضغط مطولا ومن ثم اسحب لأسفل شريط إجراءات النافذة المنبثقة</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">عرض النوافذ المنبثقة في وضع ملء الشاشة</string>
+    <string name="freeform_guide_move_summary">اضغط مطولا على شريط إجراءات إشعارات النافذة المنبثقة للسحب</string>
+    <string name="freeform_guide_move_title">تحريك النوافذ المنبثقة</string>
+    <string name="freeform_guide_move_to_small_freeform_window_summary">اسحب النافذة المنبثقة إلى زاوية الشاشة</string>
+    <string name="freeform_guide_move_to_small_freeform_window_title">تصغير النوافذ المنبثقة</string>
+    <string name="freeform_guide_notification_drop_down_summary">اضعط مطولا ثم اسحب لإسفل شريط إجراءات الإشعار</string>
+    <string name="freeform_guide_notification_drop_down_title">فتح النوافذ المنبثقة</string>
+    <string name="freeform_guide_settings">النوافذ المنبثقة</string>
+    <string name="freeform_guide_slide_up_to_close_summary">اسحب لأعلى من شريط إجراءات النافذة المنبثقة</string>
+    <string name="freeform_guide_slide_up_to_close_title">إغلاق النوافذ المنبثقة</string>
+    <string name="freeform_vedio_description">"اضغط مطولاً على الإشعار ثم اسحبه لأسفل لفتحه في نافذة منبثقة.
+.انقر على \"النوافذ المنبثقة\" في شاشة \"التطبيقات الأخيرة\" لاختيار تطبيقات."</string>
     <string name="frequently_fragment_delete">إزالة</string>
     <string name="frequently_fragment_tempty">سيتم إدراج العناصر المستخدمة بشكل متكرر هنا</string>
     <string name="fsg_mistake_touch_summary">في بعض الحالات، مثل: الألعاب والفيديوهات في وضع ملء الشاشة ، يجب التمرير مرتين لتعمل الإيماءات</string>
@@ -2685,8 +2791,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="gesture_setting_off">غير مفعّل</string>
     <string name="gesture_setting_on">مفعّل</string>
     <string name="gesture_wakeup_summary">يمكنك النقر مرتين لإطفاء الشاشة عند تعيين السمة الافتراضية أو الكلاسيكية</string>
-    <string name="gesture_wakeup_title">انقر مرتين على الشاشة لإيقاظها</string>
-    <string name="giga_hertz">غيغاهرتز</string>
+    <string name="gesture_wakeup_title">النقر مرتين لإيقاظ أو أطفاء الشاشة</string>
+    <string name="giga_hertz">جيجاهرتز</string>
     <string name="gigabyteShort">غ.ب</string>
     <string name="global_change_warning">يؤثر هذا الإعداد على جميع المستخدمين في هذا الهاتف.</string>
     <string name="global_locale_change_title">تغيير اللغة</string>
@@ -2716,6 +2822,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="gxzw_add_fingerprint_put_finger_message">اضغط الشاشة وارفع إصبعك عند الشعور بالاهتزاز. كرر ذلك عده مرات.</string>
     <string name="gxzw_add_fingerprint_put_finger_title">اضغط وارفع إصبعك بعد الاهتزاز</string>
     <string name="gxzw_add_fingerprint_title">اضف بصمة إصبعك</string>
+    <string name="gxzw_anim_aurora">أضواء قطبية</string>
     <string name="gxzw_anim_light">نيون</string>
     <string name="gxzw_anim_pulse">نبض</string>
     <string name="gxzw_anim_rhythm">إيقاع</string>
@@ -2728,7 +2835,13 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="gxzw_dialog_ok">فهمت</string>
     <string name="gxzw_dialog_title">حول مستشعر بصمة الإصبع على الشاشة</string>
     <string name="gxzw_enroll_again">ارفع اصبعك واضغط على ماسح بصمة الاصبع مرة أخرى</string>
-    <string name="gxzw_quick_open_title" />
+    <string name="gxzw_quick_open_enable_summary">استخدم اختصارات الإيماءات لفتح التطبيقات أو استخدام ميزات التطبيق عند إلغاء قفل جهازك</string>
+    <string name="gxzw_quick_open_enable_title">إختصارات بصمه الإصبع</string>
+    <string name="gxzw_quick_open_fast_summary">مرّر لاستخدام الاختصار بمجرد إلغاء قفل الجهاز.</string>
+    <string name="gxzw_quick_open_fast_title">تمرير سريع (متقدم)</string>
+    <string name="gxzw_quick_open_slow_summary">اضغط مع الاستمرار على رمز بصمة الإصبع لفتح القائمة المختصرة. مرّر لاستخدام الاختصار.</string>
+    <string name="gxzw_quick_open_slow_title">اضغط مع الاستمرار</string>
+    <string name="gxzw_quick_open_title">الاختصارات</string>
     <string name="handy_mode">وضع اليد الواحدة</string>
     <string name="handy_mode_enable">وضع اليد الواحدة</string>
     <string name="handy_mode_size">حجم الشاشة</string>
@@ -2765,6 +2878,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="header_data_and_synchronization">البيانات والمزامنة</string>
     <string name="headset_settings_title">مؤثرات صوتية</string>
     <string name="heavy_weight_stop_description">لا يمكن إيقاف هذا التطبيق بشكل آمن. في حالة إيقافه، ربما تفقد بعض عملك الحالي.</string>
+    <string name="help_and_feedback_title">المساعدة والتعليقات</string>
     <string name="help_feedback_label">المساعدة والتعليقات</string>
     <string name="help_label">المساعدة والتعليقات</string>
     <string name="hide_extra_apps">عرض استخدام التطبيق</string>
@@ -2793,6 +2907,41 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="homepage_all_settings">جميع الإعدادات</string>
     <string name="homepage_condition_footer_content_description">تصغير</string>
     <string name="homepage_personal_settings">اقتراحات</string>
+    <string name="how_backup_content">"يمكنك نسخ العناصر احتياطيًا محليًا (على جهازك) أو إلى Cloud. يمكن تخزين النُسخ الاحتياطية المحلية على جهازك المحمول أو الكمبيوتر أو محرك أقراص USB.
+
+الهاتف المحمول
+يمكنك حفظ إعدادات النظام والحسابات وبيانات التطبيق والعناصر الأخرى في ملف منفصل على جهازك (MIUI-backup-AllBackup). ملاحظة: عند إعادة ضبط إعدادات المصنع للجهاز، سيتم حذف النسخ الاحتياطية هذه نهائيًا. ولذلك تأكد من نسخ النُسخ الاحتياطية إلى الكمبيوتر قبل الاستعادة.
+
+ الكمبيوتر
+أنشئ نسخة احتياطية على هذا الجهاز وانتقل إلى MIUI-backup-AllBackup، ثم انسخ النُسخ الاحتياطية إلى الكمبيوتر باستخدام كابل USB.
+
+محرك أقراص USB
+يمكنك حفظ إعدادات النظام والحسابات وبيانات التطبيقات والمزيد.
+
+Xiaomi Cloud
+يمكنك مزامنة جهات الاتصال والصور ومقاطع الفيديو وقائمة التطبيقات وإعدادات النظام وتخطيطات الشاشة الرئيسية مع Xiaomi Cloud."</string>
+    <string name="how_backup_title">كيف أقوم بعمل نسخة احتياطية للعناصر؟</string>
+    <string name="how_encrypt_content">"التشفير متاح فقط للنُسخ الاحتياطية المحلية. إليك بعض طريقتين للقيام بذلك:
+a)انتقل إلى الإعدادات > الإعدادات الإضافية وانقر على \"نسخ احتياطي أو استعادة أو إعادة ضبط\". انقر على أيقونة الإعدادت الموجودة في أعلى اليسار من الشاشة وشغل \"تشفير النُسخ الاحتياطية\" ومن ثم سجل الدخول إلى حساب Mi. سيتم تشفير النُسخ الاحتياطية تلقائيًا بعد ذلك. تذكر أنك ستحتاج إلى تسجيل الدخول إلى حساب Mi الخاص بك لاستعادة العناصر من النُسخ الاحتياطية المشفرة.
+b) إذا كنت تستخدم Mi PC Suite لإجراء نسخ احتياطي للعناصر، فيمكنك استخدام خيارات التشفير هناك.
+
+ملاحظة:
+تذكر كلمة المرور التي قمت بتعيينها للنُسخ الاحتياطية المشفرة! لن تتمكن من فك تشفير النُسخ الاحتياطية إذا نسيتها."</string>
+    <string name="how_encrypt_title">كيف أقوم بتشفير ملفات النُسخ الاحتياطية؟</string>
+    <string name="how_restore_backup_content">"إليك كيفية استعادة العناصر التي تم نسخها احتياطيًا باستخدام طرق مختلفة:
+
+الجهاز المحمول
+ انقر فوق \"الجهاز المحمول\" وابحث عن خيار استرداد العناصر ثم حدد الملف الذي تم نسخه احتياطيًا.
+
+الكمبيوتر
+انسخ ملف النسخه الاحتياطية من الكمبيوتر إلى MIUI-backup-AllBackup عبر كابل USB واسترد العناصر من جهازك المحمول.
+
+محرك أقراص USB
+انسخ ملف النسخة الاحتياطية من محرك أقراص USB إلى MIUI-backup-AllBackup واختر استرداد العناصر من محرك أقراص USB
+
+Xiaomi Cloud
+افتح Xiaomi Cloud لاستعادة العناصر من هناك."</string>
+    <string name="how_restore_backup_title">كيف يمكنني استعادة العناصر التي تم نسخها احتياطيًا؟</string>
     <string name="http_invoke_app">تطبيقات الويب</string>
     <string name="http_invoke_app_summary">افتح التطبيقات بشكل اسرع بدون تثبيتها</string>
     <string name="hwui_force_dark_summary">لإلغاء ميزة فرض تعتيم الشاشة بحيث يتم تفعيلها دائمًا</string>
@@ -2832,21 +2981,28 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="information_dialog_button_text">فهمت</string>
     <string name="information_label">معلومات</string>
     <string name="input_assistance">الأدوات</string>
-    <string name="input_hint_prefix">أدخل %1$s</string>
     <string name="input_method">لوحة المفاتيح</string>
     <string name="input_method_bottom_close">متوقف</string>
     <string name="input_method_bottom_open">مشغل</string>
-    <string name="input_method_function_clipboard">الحافظة والعبارات المتكررة</string>
-    <string name="input_method_function_clipboard_des">انقر لعرض محتويات الحافظة والعبارات المتكررة</string>
-    <string name="input_method_function_no_function">لا شيء</string>
-    <string name="input_method_function_no_function_des">لا تعرض أي إختصارات</string>
-    <string name="input_method_function_switch">التبديل بين لوحة المفاتيح</string>
-    <string name="input_method_function_switch_des">انقر لتبديل إلى لوحة مفاتيح مختلفة</string>
-    <string name="input_method_function_voice">إدخال الصوت</string>
-    <string name="input_method_function_voice_des">انقر لإستخدام إدخال الصوت</string>
-    <string name="input_method_function_xiaoai">إدخال الصوت Mi AI</string>
-    <string name="input_method_function_xiaoai_des">انقر لإستخدام إدخال الصوت Mi AI</string>
+    <string name="input_method_clipboard_settings">إعدادات الحافظة</string>
+    <string name="input_method_cloud_data_title">حافظة Cloud</string>
+    <string name="input_method_cloud_paste_mode_bubble_des">سترى فقاعة منبثقة عند نسخ محتوى جديد على حافظة Cloud. انقر على الفقاعة لفتح الحافظة.</string>
+    <string name="input_method_cloud_paste_mode_bubble_title">فقاعة</string>
+    <string name="input_method_cloud_paste_mode_no_des">لن تظهر إشعارات عند نسخ محتوى جديد على حافظة Cloud. ومع ذلك، سيظل بإمكانك استخدام الحافظة بالنقر على الإيقونة.</string>
+    <string name="input_method_cloud_paste_mode_no_title">لا شيء</string>
+    <string name="input_method_cloud_paste_mode_red_point_des">سترى نقطة حمراء في أسفل لوحة المفاتيح عند نسخ محتوى جديد على حافظة Cloud. انقر على الأيقونة لفتح الحافظة واستخدام محتوياتها.</string>
+    <string name="input_method_cloud_paste_mode_red_point_title">نقطة حمراء</string>
     <string name="input_method_manage">إدارة لوحة المفاتيح</string>
+    <string name="input_method_quick_access">الوصول السريع</string>
+    <string name="input_method_quick_cloud_mode_title">إشعارات محتويات الحافظة الجديدة</string>
+    <string name="input_method_quick_cloud_summary">نسخ العناصر على أجهزة الكمبيوتر المتوافقة ولصقها على جهازك</string>
+    <string name="input_method_quick_cloud_title">حافظة Cloud</string>
+    <string name="input_method_quick_paste_summary">عرض العناصر المنسوخة بالنقر على أيقونة الحافظة</string>
+    <string name="input_method_quick_paste_title">اللصق السريع</string>
+    <string name="input_method_quick_taobao_summary">فتح روابط التاوبو المنسوخة بالنقر على أيقونة الحافظة</string>
+    <string name="input_method_quick_taobao_title">روابط التاوبو</string>
+    <string name="input_method_quick_url_summary">فتح عناوين URLs بالنقر على أيقونة الحافظة</string>
+    <string name="input_method_quick_url_title">مواقع الويب</string>
     <string name="input_method_selector">محدد طريقة الإدخال</string>
     <string name="input_method_selector_always_hide_title">إخفاء دومًا</string>
     <string name="input_method_selector_always_show_title">عرض دومًا</string>
@@ -2910,7 +3066,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="key_position_cat">أوضاع الزر</string>
     <string name="key_settings">اختصارات الزر والإيماءة</string>
     <string name="key_settings_title">اختصارات الزر والإيماءة</string>
-    <string name="key_shortcut_settings_title">إختصارات الزر</string>
+    <string name="key_shortcut_settings_title">إختصارات الأزرار</string>
     <string name="key_system_control">التحكم في النظام</string>
     <string name="keyboard_and_input_methods_category">لوحة المفاتيح</string>
     <string name="keyboard_assistance_category">مساعدة لوحة المفاتيح</string>
@@ -2954,7 +3110,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="keywords_color_temperature">‏درجة حرارة الألوان، D65، ‏D73، أبيض، أصفر، أزرق، دافئ، بارد</string>
     <string name="keywords_content_capture">تسجيل المحتوى، محتوى التطبيق</string>
     <string name="keywords_dark_ui_mode">تصميم، مضيء، معتم، وضع</string>
-    <string name="keywords_data">3G;4G;البيانات;بيانات الجوال;البيانات الخلوية;الحركة;إنترنت الجوال</string>
+    <string name="keywords_data">3G;4G;البيانات;بيانات الهاتف;البيانات الخلوية;الحركة;إنترنت الهاتف</string>
     <string name="keywords_date_and_time">ساعة، عسكرية</string>
     <string name="keywords_default_apps">تطبيقات، تلقائي</string>
     <string name="keywords_default_payment_app">دفع، تلقائي</string>
@@ -3055,7 +3211,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="launch_voice_assistant">تشغيل المساعد الصوتي</string>
     <string name="launch_wifi_text">عرض التفاصيل</string>
     <string name="launcher_icon">أيقونات</string>
-    <string name="launcher_title">الشاشة الرئيسية والمستخدمة مؤخراً</string>
+    <string name="launcher_title">الشاشة الرئيسية والتطبيقات الأخيرة</string>
     <string name="launching_cit">جارٍ بدء تشغيل CIT</string>
     <string name="launching_pho">بدء تشغيل معلومات الهاتف…</string>
     <string name="launching_rep">جارٍ الإبلاغ…</string>
@@ -3064,6 +3220,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="layout_exhuge_font_tips_reg">إمكانية الوصول > حجم الشاشة</string>
     <string name="layout_size_exhuge">ضخم</string>
     <string name="layout_size_exhuge_text">ضخم</string>
+    <string name="layout_size_extral_small">صغير جداً</string>
     <string name="layout_size_huge">كبير جداً</string>
     <string name="layout_size_huge_text">كبير جداً</string>
     <string name="layout_size_large">كبير</string>
@@ -3078,7 +3235,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="led_colors_summary">الإشعارات</string>
     <string name="led_frequence_summary">تعيين فاصل زمني للوميض</string>
     <string name="led_pulse_summary">وميض ضوء الإشعارات عند استلام إشعار جديد</string>
-    <string name="led_settings">ضوء الإشعار</string>
+    <string name="led_settings">ضوء الإشعارات</string>
     <string name="left_function_key">إختصار اليسار</string>
     <string name="legacy_navigation_summary">يمكنك الرجوع والانتقال إلى \"الشاشة الرئيسية\" والتبديل بين التطبيقات باستخدام الأزرار في أسفل الشاشة.</string>
     <string name="legacy_navigation_title">التنقل باستخدام ثلاثة أزرار</string>
@@ -3092,7 +3249,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="lights_title">ضوء LED</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
-    <string name="link_turbo_prompt">الإحصاءات الموجودة في هذه الصفحة تعرض فقط مقدار البيانات المستخدمة لزيادة اتصال Wi-Fi. لا تعكس هذه الإحصائيات الاستخدام الفعلي لبيانات الجوال.</string>
+    <string name="link_turbo_prompt">الإحصاءات الموجودة في هذه الصفحة تعرض فقط مقدار البيانات المستخدمة لزيادة اتصال Wi-Fi. لا تعكس هذه الإحصائيات الاستخدام الفعلي لبيانات الهاتف.</string>
     <string name="link_turbo_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="link_turbo_settings_all_app_reach_max">يمكنك تحديد مايصل إلى ١٥ تطبيق</string>
     <string name="link_turbo_usage_state_month">هذا الشهر</string>
@@ -3117,7 +3274,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="local_backup_password_toast_success">تم تعيين كلمة مرور احتياطية جديدة</string>
     <string name="local_backup_password_toast_validation_failure">تعذّر تعيين كلمة مرور احتياطية</string>
     <string name="local_backup_section_summary">النسخ الاحتياطي لإعدادات النظام، معلومات الحساب، والتطبيقات</string>
+    <string name="local_backup_section_summary_new">نسخ احتياطي للحسابات وبيانات التطبيقات وإعدادات النظام واكثر من ذلك</string>
     <string name="local_backup_section_title">نسخ احتياطي محلي</string>
+    <string name="local_backup_section_title_new">على هذا الجهاز</string>
     <string name="locale_default">تلقائي</string>
     <string name="locale_not_translated">يمكن أن تكون اللغة غير متوفرة في بعض التطبيقات.</string>
     <string name="locale_remove_menu">إزالة</string>
@@ -3153,17 +3312,17 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="location_gps">‏الأقمار الصناعية لنظام GPS</string>
     <string name="location_high_battery_use">استخدام عالٍ للبطارية</string>
     <string name="location_low_battery_use">استخدام منخفض للبطارية</string>
-    <string name="location_mode_battery_saving_description">استخدام Wi-Fi وشبكات الجوال لتحديد الموقع</string>
+    <string name="location_mode_battery_saving_description">استخدام Wi-Fi وشبكات الهاتف لتحديد الموقع</string>
     <string name="location_mode_battery_saving_title">توفير البطارية</string>
-    <string name="location_mode_high_accuracy_description">استخدام GPS ، Wi-Fi، وشبكات الجوال لتحديد الموقع</string>
+    <string name="location_mode_high_accuracy_description">استخدام GPS ، Wi-Fi، وشبكات الهاتف لتحديد الموقع</string>
     <string name="location_mode_high_accuracy_title">دقة عالية</string>
     <string name="location_mode_location_off_title">الموقع متوقف</string>
     <string name="location_mode_screen_title">وضع الموقع</string>
     <string name="location_mode_sensors_only_description">استخدام GPS لتحديد الموقع</string>
     <string name="location_mode_sensors_only_title">الجهاز فقط</string>
-    <string name="location_neighborhood_level">السماح للتطبيقات بإستخدام البيانات من شبكات Wi-Fi وشبكات الجوال لتحديد موقعك</string>
+    <string name="location_neighborhood_level">السماح للتطبيقات بإستخدام البيانات من شبكات Wi-Fi وشبكات الهاتف لتحديد موقعك</string>
     <string name="location_neighborhood_level_wifi">تحديد الموقع من قبل شبكة Wi-Fi</string>
-    <string name="location_network_based">Wi-Fiو شبكة الجوال</string>
+    <string name="location_network_based">Wi-Fiو شبكة الهاتف</string>
     <string name="location_no_recent_accesses">لم يصل أي تطبيق إلى بيانات الموقع الجغرافي مؤخرًا.</string>
     <string name="location_no_recent_apps">لم تطلب أي تطبيقات الوصول إلى الموقع مؤخرًا</string>
     <string name="location_recent_location_access_view_details">عرض التفاصيل</string>
@@ -3265,8 +3424,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="lockpassword_choose_your_password_header_for_face">لاستخدام المصادقة بالوجه، اضبط كلمة المرور</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">لاستخدام بصمة الإصبع، يُرجى إعداد كلمة مرور</string>
     <string name="lockpassword_choose_your_password_message">لتعزيز أمان الجهاز، يجب تحديد كلمة مرور</string>
-    <string name="lockpassword_choose_your_password_second_space">"تعيين كلمة مرور 
- للواجهة الثانية"</string>
+    <string name="lockpassword_choose_your_password_second_space">"تعيين رمز PIN للواجهة الثانية.
+يجب أن يحتوي رمز PIN على العديد من الأرقام،
+كما في الواجهة الاولى."</string>
     <string name="lockpassword_choose_your_pattern_header">تعيين النقش الخاصة بك</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">لاستخدام المصادقة بالوجه، اضبط النمط</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">لاستخدام بصمة الإصبع، يُرجى رسم نقش من ابتكارك</string>
@@ -3283,19 +3443,19 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="lockpassword_confirm_for_second_user">قم بتأكيد كلمة مرور الواجهة الثانية</string>
     <string name="lockpassword_confirm_label">تأكيد</string>
     <string name="lockpassword_confirm_passwords_dont_match">كلمات المرور غير متطابقة</string>
-    <string name="lockpassword_confirm_pins_dont_match">رمز PIN غير متطابق</string>
+    <string name="lockpassword_confirm_pins_dont_match">رموز PIN غير متطابقة</string>
     <string name="lockpassword_confirm_workspace_password">التحقق من كلمة مرور واجهة العمل</string>
     <string name="lockpassword_confirm_your_lock_password_header">تأكيد كلمة المرور</string>
     <string name="lockpassword_confirm_your_lock_pattern_header">تأكيد النقش</string>
     <string name="lockpassword_confirm_your_password_details_frp">تم إعادة تعيين هاتفك على إعدادات المصنع. لاستخدام هذا الهاتف، أدخل كلمة المرور السابقة.</string>
     <string name="lockpassword_confirm_your_password_generic">ادخل كلمة المرور الخاص بجهازك للمتابعة.</string>
     <string name="lockpassword_confirm_your_password_generic_profile">ادخل كلمة المرور الخاص بالعمل للمتابعة</string>
-    <string name="lockpassword_confirm_your_password_header">قم بتأكيد كلمة المرور</string>
+    <string name="lockpassword_confirm_your_password_header">تأكيد كلمة المرور</string>
     <string name="lockpassword_confirm_your_password_header_frp">التحقق من كلمة المرور</string>
     <string name="lockpassword_confirm_your_pattern_details_frp">تم إعادة تعيين هاتفك على إعدادات المصنع. لاستخدام هذا الهاتف، أدخل النقش السابق.</string>
     <string name="lockpassword_confirm_your_pattern_generic">استخدم النقش الخاص بك للمتابعة.</string>
     <string name="lockpassword_confirm_your_pattern_generic_profile">استخدم نقش ملفك الشخصي للعمل للمتابعة.</string>
-    <string name="lockpassword_confirm_your_pattern_header">قم بتأكيد النقش</string>
+    <string name="lockpassword_confirm_your_pattern_header">تأكيد النقش</string>
     <string name="lockpassword_confirm_your_pattern_header_frp">التحقق من النقش</string>
     <string name="lockpassword_confirm_your_pin_details_frp">تم إعادة تعيين هاتفك على إعدادات المصنع. لاستخدام هذا الهاتف، أدخل رقم التعريف الشخصي السابق.</string>
     <string name="lockpassword_confirm_your_pin_generic">ادخل رمز PIN الخاص بجهازك للمتابعة.</string>
@@ -3373,7 +3533,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="lockscreen_glogin_submit_button">تسجيل الدخول</string>
     <string name="lockscreen_label">شاشة القفل</string>
     <string name="lockscreen_magazine">خلفية كاروسيل</string>
-    <string name="lockscreen_magazine_summary">خلفية كاروسيل عالية الجودة</string>
+    <string name="lockscreen_magazine_india">Glance عن Mi</string>
+    <string name="lockscreen_magazine_summary">صور مذهلة وقصص مثيرة يتم ارسالها لك يوميًا</string>
     <string name="lockscreen_magazine_title">خلفية كاروسيل</string>
     <string name="lockscreen_remote_input">أثناء قفل الجهاز، منع كتابة ردود أو نصوص أخرى في الإشعارات</string>
     <string name="lockscreen_settings_title">عرض شاشة التأمين</string>
@@ -3431,7 +3592,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="managed_profile_location_switch_title">موقع ملف العمل الشخصي</string>
     <string name="managed_profile_not_available_label">لا يتوفر الملف الشخصي للعمل حتى الآن</string>
     <string name="managed_profile_settings_title">إعدادات الملف الشخصي للعمل</string>
-    <string name="managed_user_title">كل التطبيقات المشغلة</string>
+    <string name="managed_user_title">جميع التطبيقات المشغلة</string>
     <string name="managing_admin">يديرها %s</string>
     <string name="manual">الكتيب</string>
     <string name="manual_mode_disallowed_summary">عدم التوفُّر عند الربط بمشغّل شبكة الجوّال %1$s</string>
@@ -3441,7 +3602,7 @@ aptX التكيفي: وضع الترميز"</string>
 الحسابات المسجَّل الدخول إليها حاليًا:
 "</string>
     <string name="master_clear_all">مسح جميع البيانات من سعة التخزين الداخلية للهاتف؟ لا يمكن التراجع عن هذا الإجراء!</string>
-    <string name="master_clear_apply_step_1"><b>سوف يمحو إعادة ضبط بيانات المصنع كافة البيانات الموجودة على الهاتف الخاص بك</b>، بما في ذلك الصور والأغاني والملاحظات وغيرها من البيانات الشخصية. كن متاكدا من عمل نسخة إحتياطية لجميع العناصر الهامة على جهاز الكمبيوتر الخاص بك.</string>
+    <string name="master_clear_apply_step_1"><b>سوف يمحو \"إعادة ضبط بيانات المصنع\" كافة البيانات الموجودة على الهاتف الخاص بك</b>، بما في ذلك الصور والأغاني والملاحظات وغيرها من البيانات الشخصية. كن متاكدا من عمل نسخة إحتياطية لجميع العناصر الهامة على جهاز الكمبيوتر الخاص بك.</string>
     <string name="master_clear_apply_step_2">كن متاكدا من قيامك بنسخ إحتياطي لجميع العناصر المهمة في جهاز الكمبيوتر الخاص بك. سوف يتم مسح جميع البيانات الموجودة على هذا الجهاز أثناء إعادة التعيين.<b>لن تكون قادرا على استعادة العناصر التي لم تقم بعمل نسخة إحتياطية لها.</b></string>
     <string name="master_clear_apply_title">تنبيه</string>
     <string name="master_clear_button_text">محو جميع البيانات</string>
@@ -3478,6 +3639,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="master_clear_progress_title">جارٍ محو البيانات</string>
     <string name="master_clear_short_title">محو جميع البيانات (إعادة الضبط على الإعدادات الأصلية)</string>
     <string name="master_clear_title">مسح كافة البيانات (إعادة ضبط المصنع)</string>
+    <string name="master_clear_title_new">إعادة ضبط إعدادات المصنع</string>
     <string name="max_aspect_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="max_cpu10_info">"عشاري النواة ماكس "</string>
     <string name="max_cpu2_info">ثنائي النواة ماكس</string>
@@ -3485,6 +3647,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="max_cpu6_info">"سداسي النواة ماكس "</string>
     <string name="max_cpu8_info">"ثماني النواة أقصى "</string>
     <string name="max_fingerprint_number_reached">لا يمكن إضافة اكثر من ٥ بصمات، لإضافة بصمة إصبع جديدة، قم اولاً بحذف بصمة الإصبع الموجودة مسبقاً.</string>
+    <string name="max_fingerprint_reached_toast">يمكنك إضافة ما يصل إلى ٥ بصمات للإصابع</string>
     <string name="maximum_memory_use">الاستخدام الأقصى للذاكرة</string>
     <string name="media_button">زر الوسائط</string>
     <string name="media_category">الوسائط</string>
@@ -3534,6 +3697,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="memory_title">متوفر: %1$s\u0009\u0009إجمالي: %2$s</string>
     <string name="memory_usage">استخدام الذاكرة</string>
     <string name="memory_usage_apps">الذاكرة المستخدمة بواسطة التطبيقات</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">متوسط الذاكرة المستخدمة خلال آخر ٣ ساعات: %1$s</string>
     <string name="menu_cancel">إلغاء</string>
     <string name="menu_check">خبرة</string>
@@ -3568,22 +3732,28 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="mi_shopping_mall">متجر Mi</string>
     <string name="mi_transfer">ناقل Mi</string>
     <string name="mi_upi_settings">حساب دفع Mi</string>
+    <string name="micloud_service_summary">قائمة التطبيقات المتزامنة وإعدادات النسخ الاحتياطي للنظام وتخطيط الشاشة الرئيسية</string>
+    <string name="micloud_service_title">Xiaomi Cloud</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">ملفات متنوعة</string>
     <string name="misc_files_selected_count">تم تحديد %1$d من إجمالي %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s من إجمالي %2$s</string>
+    <string name="miui_accessibility_asr_summary">نسخ الصوت وحفظ النص</string>
+    <string name="miui_accessibility_asr_title">Mi Ditto</string>
     <string name="miui_allow_alarm">التنبيهات</string>
-    <string name="miui_allow_light">ضوء الاشعار</string>
+    <string name="miui_allow_light">ضوء الإشعارات</string>
     <string name="miui_allow_music">وسائط</string>
     <string name="miui_allow_vibrate">الاهتزازات</string>
-    <string name="miui_data_usage_menu_metered">نقاط اتصال الهاتف الجوال</string>
+    <string name="miui_data_usage_menu_metered">نقاط اتصال الهاتف الهاتف</string>
     <string name="miui_experience_optimization">تشغيل تحسين MIUI</string>
+    <string name="miui_face_enroll_success">"يمكنك الآن فتح جهازك باستخدام وجهك.
+تابع للمزيد من الإعدادات الإضافية"</string>
     <string name="miui_input_method_settings">إعدادات طريقة الادخال</string>
     <string name="miui_lab_ai_cloud_closed">التحميل المسبق AI غير متوفر حالياً.</string>
     <string name="miui_lab_ai_preload_desc">يزيد التحميل المسبق AI من سرعة بدء تشغيل التطبيق</string>
     <string name="miui_lab_ai_preload_title">التحميل المسبق AI</string>
     <string name="miui_lab_aiasst_call_screen_desc">تحويل الصوت والنص للرد على المكالمات بصمت</string>
-    <string name="miui_lab_aiasst_call_screen_title">مساعد المكالمات AI</string>
+    <string name="miui_lab_aiasst_call_screen_title">مساعد مكالمات AI</string>
     <string name="miui_lab_drive_mode_desc">استخدم التحكم الصوتي واستمع إلى رسائل WeChat</string>
     <string name="miui_lab_drive_mode_title">وضع القيادة</string>
     <string name="miui_lab_feature_applied">تم التعيين</string>
@@ -3631,7 +3801,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="miui_sos_green_guard_title">الرقابة الأبوية</string>
     <string name="miui_sos_launch_error">تعذر تفعيل طوارئ SOS</string>
     <string name="miui_sos_launch_error_confirm">فهمت</string>
-    <string name="miui_sos_launch_error_message">لا يمكن الاتصال بشبكة الجوال. لا يمكن استخدام طوارئ SOS.</string>
+    <string name="miui_sos_launch_error_message">لا يمكن الاتصال بشبكة الهاتف. لا يمكن استخدام طوارئ SOS.</string>
     <string name="miui_sos_launching_summary">تفعيل طوارئ SOS بعد %d ثانية</string>
     <string name="miui_sos_launching_title">SOS</string>
     <string name="miui_sos_menu_add">إضافة</string>
@@ -3661,8 +3831,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="mms_privacy_password_role_instruction">سيتم تخزين المحادثات الخاصة بك مع جهات الاتصال الخاصة هنا.</string>
     <string name="mobile_connect_to_internet">يُرجى الاتصال بالإنترنت</string>
     <string name="mobile_data_active">بيانات الجوّال مفعّلة</string>
-    <string name="mobile_data_always_on">بيانات الجوال نشطة دائما</string>
-    <string name="mobile_data_always_on_summary">‏ابقاء بيانات الجوال نشطة دائما، حتى عندما يكون اتصال الـ Wi‑Fi نشطًا (لتبديل سريع للشبكة).</string>
+    <string name="mobile_data_always_on">بيانات الهاتف نشطة دائما</string>
+    <string name="mobile_data_always_on_summary">‏ابقاء بيانات الهاتف نشطة دائما، حتى عندما يكون اتصال الـ Wi‑Fi نشطًا (لتبديل سريع للشبكة).</string>
     <string name="mobile_data_ap_mode_disabled">غير متاح أثناء وضع الطائرة</string>
     <string name="mobile_data_off">بيانات الجوّال غير مفعّلة</string>
     <string name="mobile_data_settings_summary">الوصول إلى البيانات باستخدام شبكة الجوّال</string>
@@ -3782,70 +3952,25 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="msd_pc_system_install_summary_xp">1. تشغيل setup.exe للتثبيت</string>
     <string name="msg_wlan_signal_found">اتصال بـ %s؟</string>
     <string name="msim_sim_radio_off">متوقّف</string>
+    <string name="mtp_connection_failed">لا يمكن نقل الملفات إلى الكمبيوتر المتصل. جرب استكشاف الأخطاء وإصلاحها.</string>
+    <string name="mtp_connection_failed_title">توصيل USB</string>
+    <string name="mtp_connection_not_remind">لا تظهر مرة اخرى</string>
     <string name="mtp_ptp_mode_summary">‏وظيفة MTP أو PTP نشطة</string>
+    <string name="mtp_solution_button_cancel">فهمت</string>
+    <string name="mtp_solution_button_ok">استكشاف الأخطاء وإصلاحها</string>
+    <string name="multi_face_delete_message">تنبيه</string>
+    <string name="multi_face_delete_show_message">حذف بيانات الوجه الآن؟</string>
+    <string name="multi_face_input">إضافة بيانات الوجه</string>
+    <string name="multi_face_input_reach_upper_limit">تعذر إضافة بيانات الوجه. انتظر دقيقة أو اثنتين وحاول مرة أخرى.</string>
+    <string name="multi_face_input_success_name_title">الاسم</string>
+    <string name="multi_face_list">بيانات الوجه</string>
+    <string name="multi_face_name_prefix">"الوجه "</string>
+    <string name="multi_face_number_reach_limit">لا يمكن إضافة بيانات لأكثر من وجهين</string>
     <string name="multi_network_acceleration_app_settings">تسريع الشبكة للتطبيقات</string>
     <string name="multi_touch_points_category_title">نقاط متعددة اللمس</string>
     <string name="multi_touch_points_preference">سيتم تفعيل هذا الإعداد بعد إعادة تشغيل جهازك</string>
-    <string name="music_app_unavailable">تأكد من توفر تطبيق موسيقى Mi.</string>
-    <string name="music_audio_effect_optimize">إعدادات الصوت</string>
-    <string name="music_audio_effect_optimize_summary">Dirac، سماعات الرأس وإعدادات صوت أخرى</string>
-    <string name="music_audio_effect_optimize_summary_with_hd">Dirac، Hi-Fi، سماعات الرأس وإعدادات الصوت الأخرى</string>
-    <string name="music_audio_effect_optimize_summary_with_hifi">Dirac، Hi-Fi، سماعات الرأس وإعدادات الصوت الأخرى</string>
-    <string name="music_audio_effect_settings">إعدادات التأثيرت</string>
-    <string name="music_dirac_control">تحسين جودة الصوت</string>
-    <string name="music_dirac_mode_cancelling">Mi Noise Cancelling 3.5mm</string>
-    <string name="music_dirac_mode_capsule">Mi Capsule</string>
-    <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
-    <string name="music_dirac_mode_general">General</string>
-    <string name="music_dirac_mode_general_earbuds">General</string>
-    <string name="music_dirac_mode_general_inear">General In-Ear</string>
-    <string name="music_dirac_mode_half_in_ear">Mi Half In-Ear</string>
-    <string name="music_dirac_mode_headset">سماعات رأس Mi</string>
-    <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
-    <string name="music_dirac_mode_in_ear">Mi In-Ear</string>
-    <string name="music_dirac_mode_in_ear2">Mi In-Ear 2</string>
-    <string name="music_dirac_mode_in_ear_2013">(Mi In-Ear (2013</string>
-    <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
-    <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
-    <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
-    <string name="music_dirac_mode_off">Dirac متوقف</string>
-    <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
-    <string name="music_dirac_mode_piston_100">Mi Piston</string>
-    <string name="music_dirac_mode_piston_2">Mi Piston-2</string>
-    <string name="music_dirac_mode_piston_basic">الإصدار الرئيسي</string>
-    <string name="music_dirac_mode_piston_color">الإصدار الملون</string>
-    <string name="music_dirac_mode_piston_standard">الإصدار القياسي</string>
-    <string name="music_dirac_mode_piston_youth">الإصدار الشبابي</string>
-    <string name="music_dirac_mode_reduction_noise">Mi Noise Cancelling Type-C</string>
-    <string name="music_dolby_mode_movie">فيديو</string>
-    <string name="music_dolby_mode_music">الموسيقى</string>
-    <string name="music_dolby_mode_off">إيقاف</string>
+    <string name="multifunction_keyboard">متعددة الوظائف</string>
     <string name="music_equalizer">معادل</string>
-    <string name="music_equalizer_summary">تعديل المستويات الفردية لأنواع مختلفة من الموسيقى</string>
-    <string name="music_hd_title">صوت HD</string>
-    <string name="music_headphone_settings">اختيار نوع سماعة الرأس</string>
-    <string name="music_headset_button_settings">أزرار الإسناد</string>
-    <string name="music_headset_calibrate">أزرار الإسناد</string>
-    <string name="music_headset_calibrate_apply">استخدام</string>
-    <string name="music_headset_calibrate_confirm">تطبيق هذه الإعدادات؟</string>
-    <string name="music_headset_calibrate_hint">اضغط على الزر العلوي</string>
-    <string name="music_headset_calibrate_next_track">المسار التالي</string>
-    <string name="music_headset_calibrate_prev_track">المسار السابق</string>
-    <string name="music_headset_calibrate_success">تم تطبيق الإعدادات</string>
-    <string name="music_headset_calibrate_volume_down">خفض مستوى الصوت</string>
-    <string name="music_headset_calibrate_volume_up">زيادة مستوى الصوت</string>
-    <string name="music_headset_calibrate_wrong_key">هذا هو الزر الخطأ</string>
-    <string name="music_headset_mode_music">التحكم في تشغيل الموسيقى</string>
-    <string name="music_headset_mode_settings">أزرار تحكم سماعات الرأس عن بعد</string>
-    <string name="music_headset_mode_volume">" التحكم في مستوى الصوت"</string>
-    <string name="music_headset_no_contected">لم يتم اكتشاف سماعات رأس</string>
-    <string name="music_headset_settings">سماعات الرأس ومؤثرات الصوت</string>
-    <string name="music_hifi_summary">تقليل الضوضاء والتشويش وزيادة جودة الصوت</string>
-    <string name="music_hifi_title">صوت Hi-Fi</string>
-    <string name="music_mi_effect_summary">استخدام محسن صوت Mi عند استخدام مكبرات الصوت</string>
-    <string name="music_mi_effect_title">محسن صوت Mi</string>
-    <string name="music_title_dolby_control">تقنية Dolby digital plus</string>
-    <string name="music_unsupport_effect_summary">سماعات USB غير مدعومة</string>
     <string name="musicfx_title">تأثيرات موسيقية</string>
     <string name="mute_music_stream">كتم صوت الموسيقى</string>
     <string name="mute_voiceassist_stream">كتم المساعد الصوتي</string>
@@ -3857,6 +3982,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="my_device_info_device_name_preference_title">اسم الجهاز</string>
     <string name="n_cacrts">‏%d شهادات CA</string>
     <string name="nature_color">الافتراضية</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">اسحب لأعلى من أسفل الشاشة، ثم مرّر يمين أو يسار</string>
+    <string name="navigation_guide_app_quick_switch_summary">مرّر من يمين أو يسار مؤشر ملء الشاشة أو من أسفل الشاشة</string>
+    <string name="navigation_guide_app_quick_switch_title">التبديل بين التطبيقات</string>
     <string name="navigation_guide_app_summary">مرّر من يمين أو يسار حافة الشاشة في الجزء العلوي</string>
     <string name="navigation_guide_app_title">وظيفة مشغل التطبيق</string>
     <string name="navigation_guide_appswitch_anim_summary">اسحب إلى اليسار أو اليمين من حافة الشاشة للعودة إلى التطبيق السابق</string>
@@ -3870,7 +3998,11 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="navigation_guide_dialog_ok">متابعة</string>
     <string name="navigation_guide_dialog_skip">ليس الآن</string>
     <string name="navigation_guide_dialog_summary">تعرف على الإيماءات التي يمكنك استخدامها للتنقل في النظام.</string>
-    <string name="navigation_guide_dialog_title">تعلم استخدام الإيماءات</string>
+    <string name="navigation_guide_dialog_title">تعلم كيفية استخدام الإيماءات</string>
+    <string name="navigation_guide_gesture_line_dialog_summary">سيتم استخدام إيماءة جديدة للتبديل بين التطبيقات بعد إخفاء مؤشر ملء الشاشة. تعلم هذه الإيماءة الآن؟</string>
+    <string name="navigation_guide_gesture_line_dialog_title">تعلم كيفية استخدام إيماءة جديدة</string>
+    <string name="navigation_guide_hide_gesture_line_summary">لا تظهر مؤشر ملء الشاشة عند استخدام إيماءات ملء الشاشة</string>
+    <string name="navigation_guide_hide_gesture_line_title">إخفاء مؤشر الشاشة الرئيسية</string>
     <string name="navigation_guide_home_summary">مرّر لأعلى من أسفل الشاشة</string>
     <string name="navigation_guide_home_title">الانتقال إلى الشاشة الرئيسية</string>
     <string name="navigation_guide_recent_summary">مرّر لأعلى من أسفل الشاشة وتوقف</string>
@@ -3888,7 +4020,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="network_alarm_summary_reg">عرض التطبيقات المدعومة</string>
     <string name="network_alarm_support_apps">التطبيقات المدعومة</string>
     <string name="network_assistant">استخدام البيانات</string>
-    <string name="network_changed_noti_summary">استخدام بيانات الجوال</string>
+    <string name="network_changed_noti_summary">استخدام بيانات الهاتف</string>
     <string name="network_changed_noti_title">تم قطع اتصال Wi-Fi</string>
     <string name="network_connected">متّصلة</string>
     <string name="network_connecting">جارٍ الاتصال…</string>
@@ -3921,7 +4053,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="network_scorer_picker_none_preference">لا أحد</string>
     <string name="network_scorer_picker_title">مقدّم خدمة تقييم الشبكة</string>
     <string name="network_select_title">الشبكة</string>
-    <string name="network_settings_title">شبكات الهاتف الجوال</string>
+    <string name="network_settings_title">شبكات الهاتف الهاتف</string>
     <string name="network_speed_for_apps_close">إيقاف إجباري</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">إيقاف إجباري لهذا التطبيق؟</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">لا يمكن إيقاف تطبيقات النظام إجبارياً.</string>
@@ -3929,7 +4061,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="network_speed_for_apps_title">الاتصال</string>
     <string name="network_speed_for_apps_total">سرعة الاتصال</string>
     <string name="networks">تحديد المشغل</string>
-    <string name="networks_title">شبكات الجوال</string>
+    <string name="networks_title">شبكات الهاتف</string>
     <string name="never">أبدا</string>
     <string name="new_backup_pw_prompt">اكتب كلمة مرور جديدة للنسخ الاحتياطية الكاملة هنا</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">اضف بصمة الإصبع الخاصة بك لإلغاء قفل جهازك.</string>
@@ -3946,6 +4078,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="nfc_how_it_works_got_it">حسنًا</string>
     <string name="nfc_how_it_works_title">الدفع عند الجهاز الطرفي</string>
     <string name="nfc_more_title">المزيد...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_default">التطبيق التلقائي للدفع</string>
     <string name="nfc_payment_default_not_set">لم يتم التعيين</string>
     <string name="nfc_payment_favor_default">استخدم دائماً التطبيق الإفتراضي</string>
@@ -3960,6 +4093,24 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="nfc_payment_use_default">استخدام التلقائي</string>
     <string name="nfc_quick_toggle_summary">السماح بتبادل البيانات عند ملامسة الهاتف لجهاز آخر</string>
     <string name="nfc_quick_toggle_title">‏الاتصالات قصيرة المدى (NFC)</string>
+    <string name="nfc_repair_action_btn">استرداد</string>
+    <string name="nfc_repair_action_desc">انقر فوق \"<b>استرداد</b>\" لإصلاح المشكلات التي تسببت في عطل NFC. لا تترك هذه الصفحة عند استعادة NFC. أعد تشغيل الجهاز عند اكتمال الاستعادة.</string>
+    <string name="nfc_repair_btn_no">لا</string>
+    <string name="nfc_repair_btn_reboot">إعادة التشغيل</string>
+    <string name="nfc_repair_btn_reboot_later">لاحقاََ</string>
+    <string name="nfc_repair_btn_retry">إعادة المحاولة</string>
+    <string name="nfc_repair_btn_yes">نعم</string>
+    <string name="nfc_repair_confirm_desc" formatted="false">"هل واجهت أي من المشكلات التالية؟
+%d.فشل في إضافة أو إعادة شحن بطاقة NFC.
+%d.بطاقة NFC لا تعمل.
+%d. لم يتم تحميل وظائف NFC الأخرى."</string>
+    <string name="nfc_repair_fail_desc">حدث خطأ منع استرداد وظيفة NFC. يرجى المحاولة مرة أخرى.</string>
+    <string name="nfc_repair_fail_title">لا يمكن الاسترداد</string>
+    <string name="nfc_repair_ongoing">جارٍ الاسترداد… لا تغادر هذه الصفحة.</string>
+    <string name="nfc_repair_pass_desc">أعد تشغيل الجهاز لتطبيق التغييرات.</string>
+    <string name="nfc_repair_pass_title">تم الاسترداد بنجاح</string>
+    <string name="nfc_repair_summary">إصلاح المشاكل التي منعتك من استخدام NFC</string>
+    <string name="nfc_repair_title">استعادة أداء NFC</string>
     <string name="nfc_se_route_title">وضع العنصر الآمن</string>
     <string name="nfc_se_wallet_title">المحفظة الافتراضية</string>
     <string name="nfc_secure_settings_title">‏تأمين الاتصال بالحقل القريب (NFC)</string>
@@ -3995,7 +4146,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="night_light_brightness">سطوع الوضع الليلي</string>
     <string name="night_light_color">لون درجة حرارة الوضع الليلي</string>
     <string name="night_light_color_tip">سيتم تعيين التغييرات عند إيقاف تشغيل وضع القراءة</string>
-    <string name="night_light_summary">لتشغيل الوضع الليلي، قم بخفض سطوع الشاشة في حالة الضوء ضعيف.</string>
+    <string name="night_light_summary">لتشغيل الوضع الليلي، قم بتقليل سطوع الشاشة في حالة الضوء ضعيف.</string>
     <string name="night_light_tip">سيتم تعيين التغييرات عند تشغيل الوضع الليلي</string>
     <string name="no">لا</string>
     <string name="no_application">لا يوجد</string>
@@ -4029,9 +4180,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="no_vr_listeners">لم تطلب أي تطبيقات مثبَّتة أن يتم تشغيلها كخدمات مساعد واقع افتراضي.</string>
     <string name="noise_suppression">تقليل الضوضاء المحيطة</string>
     <string name="none">لا شيء</string>
-    <string name="normal">اعتيادي</string>
-    <string name="normal_bottom_height_of_keyboard">عادي</string>
-    <string name="normal_info">ستعمل جميع الأصوات بشكل طبيعي</string>
+    <string name="normal">عادي</string>
+    <string name="normal_info">جميع الأصوات ستعمل بشكل طبيعي</string>
     <string name="normal_smartcover_title">غطاء أمامي غير شفاف</string>
     <string name="not_allowed">‏لا تسمح شريحة SIM بالاتصال بهذه الشبكة.</string>
     <string name="not_battery_optimizing">عدم استخدام تحسين البطارية</string>
@@ -4186,6 +4336,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="notifications_title">الإشعارات</string>
     <string name="now">إعادة التشغيل الآن</string>
     <string name="number_of_device_admins_none">لا تتوفر تطبيقات نشطة</string>
+    <string name="oaid_string">"您当前的虚拟身份ID为：
+%1s"</string>
     <string name="oem_lock_info_message">يُرجى إعادة تشغيل الجهاز لتمكين ميزة حماية الجهاز.</string>
     <string name="oem_radio_info_label">‏المعلومات/الإعدادات الخاصة بـ OEM</string>
     <string name="oem_unlock_enable">إلغاء قفل OEM</string>
@@ -4224,6 +4376,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="open_wifi_connect_summary">انقرلعرض التفاصيل.</string>
     <string name="open_wifi_connect_title">متصل بشبكة %1$s</string>
     <string name="opening_paragraph_delete_profile_unknown_company">تتم إدارة الملف الشخصي للعمل هذا بواسطة:</string>
+    <string name="operation_guide_title">الدليل التوجيهي</string>
     <string name="operator_warning">قد تختلف طريقة احتساب بيانات مشغِّل شبكة الجوّال عن طريقة الاحتساب على الجهاز.</string>
     <string name="optimization_cancel">إلغاء</string>
     <string name="osu_completing_sign_up">جارٍ إكمال التسجيل…</string>
@@ -4242,8 +4395,10 @@ aptX التكيفي: وضع الترميز"</string>
  يتم إيقاف التشغيل التلقائي بعد ١٠ دقائق من عدم النشاط."</string>
     <string name="other">أخرى</string>
     <string name="other_advanced_settings">الإعدادات الإضافية</string>
+    <string name="other_data">عناصر أخرى على هذا الجهاز</string>
     <string name="other_device_info">أخرى</string>
     <string name="other_input_settings">إعدادات لوحة المفاتيح الإضافية</string>
+    <string name="other_password">كلمات مرور أخرى</string>
     <string name="other_personal_settings">الإعدادات الشخصية</string>
     <string name="other_relative">أخرى</string>
     <string name="other_settings_sync_settings">مزامنة</string>
@@ -4255,6 +4410,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="overlay_settings">إظهار فوق التطبيقات الأخرى</string>
     <string name="overlay_toast_failed_to_apply">تعذّر تطبيق الطبقة المتراكبة.</string>
     <string name="owner_info_settings_edit_text_hint">‏جهاز Android الخاص بهاني مثلاً</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">بدون</string>
     <string name="owner_info_settings_title">توقيع شاشة القفل</string>
     <string name="owner_space">الواجهة الاولى</string>
@@ -4289,7 +4445,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="page_layout_6">التطبيقات</string>
     <string name="page_layout_7">الألعاب</string>
     <string name="page_layout_8">حياة Mi</string>
-    <string name="page_layout_9">السمات</string>
+    <string name="page_layout_9">الثيمات</string>
     <string name="page_layout_confirm_message">يحتاج الجهاز إلى إعادة تشغيل لتطبيق التغييرات. سيستغرق دقيقة تقريبًا.</string>
     <string name="page_layout_confirm_message_enlarge">سيتم تكبير النص والصور والأيقونات. قد تتغير بعض أماكن الأيقونات.</string>
     <string name="page_layout_confirm_message_narrow">سيتم تصغير النص والصور والأيقونات. قد تتغير بعض أماكن الأيقونات.</string>
@@ -4332,6 +4488,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="passpoint_content">بيانات اعتماد %1$s</string>
     <string name="passpoint_label">تم الحفظ عبر</string>
     <string name="passwordIncorrect">كلمة المرور التي أدخلتها غير صحيحة</string>
+    <string name="password_and_security">كلمات المرور والحماية</string>
     <string name="password_entrance_title">تعيين قفل الشاشة</string>
     <string name="password_guard">كلمة المرور</string>
     <string name="password_security_settings_title">كلمات المرور والحماية</string>
@@ -4359,15 +4516,18 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="permit_running_network">بيانات الخلفية</string>
     <string name="permit_usage_access">السماح بالدخول إلى الاستخدام</string>
     <string name="permit_write_settings">السماح بتعديل إعدادات النظام</string>
-    <string name="person_hotpot">نقاط اتصال الهاتف الجوال</string>
+    <string name="person_hotpot">نقاط اتصال الهاتف الهاتف</string>
     <string name="personal_data_section_title">البيانات الشخصية</string>
     <string name="personal_device_admin_title">شخصي</string>
     <string name="personal_section_title">التخصيص</string>
+    <string name="phone_backup_summary">النسخ الاحتياطي لاستعادة العناصر على هذا الجهاز</string>
+    <string name="phone_backup_title">الجهاز المحمول</string>
     <string name="phone_call_noise_suppression">تقليل الضوضاء أثناء المكالمات</string>
     <string name="phone_index_label">اختيار فهرس الهاتف</string>
     <string name="phone_info_label">معلومات الهاتف</string>
     <string name="phone_language">اللغات</string>
     <string name="phone_language_summary" />
+    <string name="photo_data">الصور والفيديوهات</string>
     <string name="physical_keyboard_title">لوحة المفاتيح الفعلية</string>
     <string name="pick_up_gesture_wakeup_title">رفع الجهاز لإيقاظه</string>
     <string name="picture_color_mode">نمط لون الصورة</string>
@@ -4417,7 +4577,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="power_discharge_by_only_enhanced">يٌقدر أن تستمر البطارية %1$s حسب استخدامك</string>
     <string name="power_discharge_by_only_short">حتى الساعة %1$s</string>
     <string name="power_flashlight">الفلاش</string>
-    <string name="power_hide_mode_summary">توفيرالبطارية عن طريق تقييد العمليات الخلفية للتطبيقات الفردية وشبكة Wi-Fi واتصالات بيانات الجوال و استخدام GPS</string>
+    <string name="power_hide_mode_summary">توفيرالبطارية عن طريق تقييد العمليات الخلفية للتطبيقات الفردية وشبكة Wi-Fi واتصالات بيانات الهاتف و استخدام GPS</string>
     <string name="power_hide_mode_title">إدارة استخدام التطبيقات للبطارية</string>
     <string name="power_idle">الهاتف في وضع الخمول</string>
     <string name="power_key_how_power_force_off">كيفية إعادة تشغيل جهازك إجبارياْ</string>
@@ -4445,6 +4605,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="power_remaining_less_than_duration_only">تبقى أقل %1$s</string>
     <string name="power_remaining_more_than_subtext">تبقى أكثر من %1$s - (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">تبقى أكثر من %1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">شاشة العرض</string>
     <string name="power_settings_title">أداء النظام</string>
     <string name="power_suggestion_extend_battery">إطالة عمر البطارية حتى %1$s</string>
@@ -4527,7 +4688,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="preferred_network_type_title">نوع الشبكة المفضل</string>
     <string name="preferred_sms_settings">سيتم تعيين هذا التطبيق كـ تطبيق افتراضي لقراءة وكتابة رسائل نصية.</string>
     <string name="preferred_sms_title">تطبيق الرسائل الافتراضي</string>
-    <string name="preferred_sms_warning_message">قد يؤدي أستخدامك \"%1$s\" كتطبيق افتراضي للرسائل إلى زيادة استخدام بيانات الجوال أو يعرض بياناتك شخصية إلى خطر.</string>
+    <string name="preferred_sms_warning_message">قد يؤدي أستخدامك \"%1$s\" كتطبيق افتراضي للرسائل إلى زيادة استخدام بيانات الهاتف أو يعرض بياناتك شخصية إلى خطر.</string>
     <string name="preferred_sms_warning_use_system">عدم الاستخدام</string>
     <string name="premium_sms_access">‏إمكانية إرسال رسائل قصيرة SMS مميزة</string>
     <string name="premium_sms_none">‏لم تطلب أي تطبيقات مثبَّتة إمكانية إرسال رسائل قصيرة SMS مميزة.</string>
@@ -4601,6 +4762,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="privacy_factory_reset_dlg_button_text">إعادة تعيين</string>
     <string name="privacy_factory_reset_dlg_message">إذا نسيت كلمة المرور، فسيتعين عليك إجراء إعادة ضبط إعدادات المصنع لتعيين كلمة مرور جديدة.</string>
     <string name="privacy_factory_reset_dlg_title">النسخ الاحتياطي للبيانات</string>
+    <string name="privacy_failed_need_to_unlock_nofingerprint">أدخل كلمة المرور قبل استخدام بصمة الإصبع الجديدة</string>
     <string name="privacy_file">الملفات</string>
     <string name="privacy_gallery">الصور</string>
     <string name="privacy_header_text_less_than_half">صغير جدا. اسحب قليلا.</string>
@@ -4646,9 +4808,11 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="privacy_password_use_finger_success">تم التشغيل</string>
     <string name="privacy_password_visible_pattern">عرض النقش</string>
     <string name="privacy_protect_title">حماية الخصوصية</string>
+    <string name="privacy_protection">حماية الخصوصية</string>
     <string name="privacy_protection_title">الخصوصية</string>
     <string name="privacy_relative">خصوصية</string>
     <string name="privacy_settings">النسخ الاحتياطي وإعادة التعيين</string>
+    <string name="privacy_settings_new">النسخ الاحتياطي والاستعادة</string>
     <string name="privacy_settings_title">الاحتفاظ بنسخة احتياطية</string>
     <string name="privacy_thumbnail_blur_progress_message">لحظة من فضلك…</string>
     <string name="privacy_thumbnail_blur_title">تمويه معاينات التطبيقات</string>
@@ -4665,6 +4829,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة:</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -4743,7 +4909,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="radioInfo_service_off">تم إيقاف اللاسلكي</string>
     <string name="radioInfo_service_out">خارج نطاق الخدمة</string>
     <string name="radioInfo_unknown">غير معروف</string>
-    <string name="radio_controls_summary">إدارة الـWi-Fi، البلوتوث، وضع الطائرة، شبكات الجوال، والشبكات الظاهرية الخاصة (VPN)</string>
+    <string name="radio_controls_summary">إدارة الـWi-Fi، البلوتوث، وضع الطائرة، شبكات الهاتف، والشبكات الظاهرية الخاصة (VPN)</string>
     <string name="radio_controls_title">المزيد</string>
     <string name="radio_info_asdiv_switch_label">حالة ASDiv:</string>
     <string name="radio_info_band_mode_label">تحديد النطاق اللاسلكي</string>
@@ -4791,9 +4957,6 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="radio_info_toggle_dns_check_label">تبديل فحص نظام أسماء النطاقات</string>
     <string name="radio_info_ul_kbps">‏معدّل نقل بيانات UL (كيلوبت في الثانية):</string>
     <string name="radio_info_voice_network_type_label">نوع الشبكة الصوتية:</string>
-    <string name="raise_bottom_height_of_keyboard">مُحسن</string>
-    <string name="raise_bottom_height_of_keyboard_sub_title">ستظهر لوحة بها اختصارات قابلة للتخصيص أسفل لوحة المفاتيح عند التبديل إلى وضع التحسين</string>
-    <string name="raise_bottom_height_of_keyboard_title">ضبط لوحة المفاتيح لعرض ملء الشاشة</string>
     <string name="rank_title">التصنيف</string>
     <string name="rarely_running">نادرًا ما يعمل (%s)</string>
     <string name="reading_data">جار الحصول على المعلومات…</string>
@@ -4815,6 +4978,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="recommend_item_title">التوصيات</string>
     <string name="recommend_tip">تحتاج الإعدادات الأخرى؟</string>
     <string name="recompute_size">جارٍ إعادة حساب الحجم...</string>
+    <string name="regional_screen_shot">لقطة شاشة جزئية</string>
     <string name="register_automatically">التسجيل التلقائي…</string>
     <string name="register_on_network">جارٍ التسجيل على %s…</string>
     <string name="registration_done">مُسجَّلة على الشبكة.</string>
@@ -4860,7 +5024,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="reset_network_category">سيتم إعادة تعيين جميع إعدادات الشبكة، بما في ذلك:</string>
     <string name="reset_network_complete_toast">تمت إعادة تعيين إعدادات الشبكة</string>
     <string name="reset_network_confirm_title">هل تريد إعادة الضبط؟</string>
-    <string name="reset_network_data">بيانات الجوال</string>
+    <string name="reset_network_data">بيانات الهاتف</string>
     <string name="reset_network_desc">"‏سيؤدي هذا إلى إعادة ضبط كل إعدادات الشبكة، بما فيها:
 
 "<li>شبكة Wi‑Fi</li>"
@@ -4877,6 +5041,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="reset_second_space_passwd_detail">أدخل كلمة مرور حساب Mi المستخدمة في الواجهة الاولى</string>
     <string name="reset_shortcut_manager_throttling">‏إعادة ضبط تقييد المعدّل في ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">‏تمت إعادة ضبط تقييد المعدّل في ShortcutManager.</string>
+    <string name="reset_title">إعادة تعيين</string>
     <string name="resetting_second_space_passwd">إعادة تعيين كلمة مرور الواجهة الثانية</string>
     <string name="resident_timezone_summary">الساعة الثانية</string>
     <string name="resolver_settings_label">تصنيف</string>
@@ -4887,9 +5052,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="restore_dialog_content">سيؤدي إعادة تعيين معرف الجهاز الحالي أيضًا إلى إعادة تعيين التوصيات المخصصة. إعادة التعيين الآن؟</string>
     <string name="restore_dialog_positive">إعادة تعيين</string>
     <string name="restore_dialog_title">تنبيه</string>
-    <string name="restore_oaid_content">سيؤدي إعادة تعيين معرف الجهاز الحالي إلى إنشاء معرف جديد. إعادة تعيين الآن؟</string>
-    <string name="restore_oaid_positive">إعادة تعيين</string>
-    <string name="restore_oaid_title">إعادة تعيين معرف الجهاز</string>
+    <string name="restore_oaid_content">重置后，将提供给三方应用新的虚拟身份ID，让您的行为信息焕然一新</string>
+    <string name="restore_oaid_positive">重置</string>
+    <string name="restore_oaid_title">重置虚拟身份ID</string>
     <string name="restr_pin_enter_admin_pin">إدخال رقم التعريف الشخصي للمشرف</string>
     <string name="restrict_background_blacklisted">تم إيقاف بيانات الخلفية.</string>
     <string name="restrict_bg_app">تقييد</string>
@@ -4909,12 +5074,13 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="restriction_nfc_enable_summary_config">‏السماح بتبادل البيانات عندما يلمس جهاز %1$s هذا جهاز NFC آخر</string>
     <string name="restriction_nfc_enable_title">‏الاتصالات قصيرة المدى (NFC)</string>
     <string name="restriction_settings_title">القيود</string>
-    <string name="restriction_wifi_config_summary">السماح بتغيرر إعدادات Wi-Fi وشبكة الجوال</string>
-    <string name="restriction_wifi_config_title">الشبكات Wi-Fi والجوال</string>
+    <string name="restriction_wifi_config_summary">السماح بتغيرر إعدادات Wi-Fi وشبكة الهاتف</string>
+    <string name="restriction_wifi_config_title">الشبكات Wi-Fi والهاتف</string>
     <string name="retail_demo_reset_message">أدخل كلمة المرور لإعادة ضبط المصنع في الوضع التجريبي</string>
     <string name="retail_demo_reset_next">التالي</string>
     <string name="retail_demo_reset_title">يتطلب كلمة المرور</string>
     <string name="retry">حاول مرة أخرى</string>
+    <string name="rgb_face_data_manage_delete_msg">حذف بيانات الوجه 2D</string>
     <string name="rgb_manage_facerecoginition_text">إدارة بيانات الوجه 2D</string>
     <string name="right_function_key">إختصار اليمين</string>
     <string name="ring_to_you">تخصيص نغمة الرنين</string>
@@ -4988,6 +5154,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="screen_confirm">تشغيل</string>
     <string name="screen_dark_mode_advanced_title">متقدم</string>
     <string name="screen_dark_mode_select_time_error_summary">لا يمكن أن يكون وقت البدء نفس وقت الانتهاء</string>
+    <string name="screen_dark_mode_smart_dark_3rd_apps_list">التطبيقات الخارجية</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_summary">قد لا تظهر بعض التطبيقات بشكل غير صحيح في وضع الظلام. يمكنك تقييد استخدام وضع الظلام لبعض التطبيقات الفردية من هنا.</string>
+    <string name="screen_dark_mode_smart_dark_apps_setting_title">التطبيقات الفردية</string>
     <string name="screen_dark_mode_smart_dark_summary">تعيين وضع الظلام على تطبيقات الطرف الثالث أيضاً. قد يتم عرض بعض التطبيقات بشكل غير صحيح.</string>
     <string name="screen_dark_mode_smart_dark_title">وضع الظلام الكامل</string>
     <string name="screen_dark_mode_time_title">الجدولة</string>
@@ -5061,13 +5230,13 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="screen_pinning_unlock_password">المطالبة بكلمة المرور قبل إزالة التثبيت</string>
     <string name="screen_pinning_unlock_pattern">طلب إدخال النقش الخاص بإلغاء القفل قبل إزالة التثبيت</string>
     <string name="screen_pinning_unlock_pin">طلب إدخال رقم التعريف الشخصي قبل إزالة التثبيت</string>
-    <string name="screen_projection">بث</string>
+    <string name="screen_projection">البث</string>
     <string name="screen_projection_characteristics">الميزات الخاصة</string>
     <string name="screen_projection_characteristics_off_screen_summary">يمكنك الاستمرار في البث عند إيقاف شاشة الجهاز. هذه الميزة تقلل من استهلاك الطاقة.</string>
     <string name="screen_projection_characteristics_off_screen_title">البث مع إيقاف شاشة الجهاز</string>
-    <string name="screen_projection_characteristics_privacy_protect_summary">لا تعرض الإشعارات المنبثقة والمكالمات الواردة و العناصر الأخرى الخاصة على أجهزة العرض الخارجية.</string>
+    <string name="screen_projection_characteristics_privacy_protect_summary">عدم عرض الإشعارات المنبثقة والمكالمات الواردة و العناصر الأخرى الخاصة على أجهزة العرض الخارجية.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">إخفاء العناصر الخاصة</string>
-    <string name="screen_projection_characteristics_small_window_summary">تصغير نافذة البث لإستخدام الميزات الأخرى على الجهاز.</string>
+    <string name="screen_projection_characteristics_small_window_summary">يمكنك تصغير نافذة البث لإستخدام الميزات الأخرى على الجهاز.</string>
     <string name="screen_projection_characteristics_small_window_title">تصغير النافذة</string>
     <string name="screen_projection_example_document_summary">عرض العروض التقديمية على جهاز العرض الخارجي أثناء استخدامك للهاتف للتبديل بين الشرائح أو عرض الملاحظات. انتقل إلى مدير الملفات > المستندات لتجربة هذه الميزة.</string>
     <string name="screen_projection_example_document_title">المستندات</string>
@@ -5077,8 +5246,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="screen_projection_example_game_title">الألعاب</string>
     <string name="screen_projection_help">المساعدة</string>
     <string name="screen_projection_sample_summary">بث المستندات والألعاب والصور والفيديوهات</string>
-    <string name="screen_projection_sample_title">عروض توضيحية</string>
-    <string name="screen_projection_title">بث</string>
+    <string name="screen_projection_sample_title">العروض التوضيحية</string>
+    <string name="screen_projection_title">البث</string>
     <string name="screen_reader_category_title">أجهزة قارئ الشاشة</string>
     <string name="screen_resolution_dialog_title">تبديل الدقة</string>
     <string name="screen_resolution_high_format">عالي (%1$s)</string>
@@ -5136,6 +5305,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="screenshot_three_gesture">إسحب لأسفل بثلاث أصابع لأخذ لقطة شاشة</string>
     <string name="screenshot_three_gesture_summary">سيتم إيقاف تشغيل إيماءات الثلاث أصابع الأخرى</string>
     <string name="sd_card_settings_label">‏وحدة تخزين USB</string>
+    <string name="sd_data">بيانات بطاقة SD</string>
     <string name="sd_eject">إلغاء تركيب وحدة التخزين المشتركة</string>
     <string name="sd_eject_summary">‏إلغاء تركيب وحدة تخزين USB الداخلية</string>
     <string name="sd_ejecting_summary">إلغاء التحميل قيد التقدم</string>
@@ -5258,7 +5428,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="search_music_headset_settings">سماعات الرأس ومؤثرات الصوت؛سماعات الرأس ومؤثرات الصوت؛سماعات الرأس؛سماعات؛تأثيرات الصوت</string>
     <string name="search_music_mi_effect_title">محسن صوت Mi;تحسين الصوت</string>
     <string name="search_my_device">حول الهاتف;حول جهاز;حول الجهاز;معلومات عن الجهاز;هاتفي;الهاتف الخاص بي;جهازي;جهاز الخاص بي;الهاتف;هاتف;جهاز;الجهاز</string>
-    <string name="search_networks_title">شبكات الجوال;شركة الاتصالات;شركة اتصالات الجوال</string>
+    <string name="search_networks_title">شبكات الهاتف;شركة الاتصالات;شركة اتصالات الهاتف</string>
     <string name="search_nfc_quick_toggle_title">NFC</string>
     <string name="search_nfc_se_route_title">وضع العنصر الآمن</string>
     <string name="search_notification_sound_title">صوت الإشعار الافتراضي;صوت الإشعار;أصوات الإشعار</string>
@@ -5300,7 +5470,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="search_security_settings">إعدادات الخصوصية;الحماية;الخصوصية</string>
     <string name="search_settings">بحث</string>
     <string name="search_silent_mode_title">الوضع الصامت;الصمت;صامت;كتم الصوت</string>
-    <string name="search_sim_management_title">شبكات الجوال;بيانات الهاتف الجوال;بيانات الخلوي;البيانات;تجوال دولي;التجوال;استلام رسائل وسائط متعددة;شبكات الخلوي;</string>
+    <string name="search_sim_management_title">شبكات الهاتف;بيانات الهاتف الهاتف;بيانات الخلوي;البيانات;تجوال دولي;التجوال;استلام رسائل وسائط متعددة;شبكات الخلوي;</string>
     <string name="search_sim_status_title">حالة بطاقة SIM؛SIM</string>
     <string name="search_slot_status_title">معلومات IMEI؛IMEI</string>
     <string name="search_sms_delivered_sound_title">تسليم رسالة;تسليم رسالة;صوت رسالة;تقرير التسليم</string>
@@ -5321,7 +5491,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="search_storage_settings">التخزين;الذاكرة</string>
     <string name="search_sync_settings">مزامنة؛تلقائي؛فقط Wi-Fi</string>
     <string name="search_system_app_settings">تطبيقات النظام</string>
-    <string name="search_theme_settings_title">السمات;سمة;التخصيص;تخصيص</string>
+    <string name="search_theme_settings_title">الثيمات;ثيم;التخصيص;تخصيص</string>
     <string name="search_touch_assistant">كرة الاختصارات;مساعد المس</string>
     <string name="search_touch_sensitive_title">وضع القفاز;قفازات;قفاز</string>
     <string name="search_trusted_credentials">أوراق اعتماد موثوق بها;توقيع التطبيق;توقيعات التطبيق;أوراق اعتماد;التوقيع</string>
@@ -5334,7 +5504,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="search_vibrate_in_silent_title">اهتزاز عندما يكون صامتا;اهتز;اهتزاز</string>
     <string name="search_vibrate_on_touch_title">تشغيل اهتزاز عند اللمس؛اهتزاز عند اللمس؛اهتزاز؛الإهتزاز</string>
     <string name="search_vibrate_when_ringing_title">الاهتزاز عند المكالمات ايضا;اهتز;اهتزاز</string>
-    <string name="search_virtual_sim">بيانات الجوال الدولية;بيانات التجوال;بيانات الجوال للتجوال</string>
+    <string name="search_virtual_sim">بيانات الهاتف الدولية;بيانات التجوال;بيانات الهاتف للتجوال</string>
     <string name="search_vpn_enable">تشغيل VPN;VPN</string>
     <string name="search_vpn_settings_password">كلمة المرور VPN;حماية VPN</string>
     <string name="search_vpn_settings_title">VPN;إضافة VPN;تشغيل VPN</string>
@@ -5379,6 +5549,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="security_encryption_attention_3">سيتوجب عليك تعيين كلمة مرور جديدة لشاشة القفل.</string>
     <string name="security_encryption_attention_4">تأكد من أنك تتذكر كلمة مرور شاشة القفل، وإلا سيتوجب عليك إكمال إعادة تعيين كاملة لمحو كافة البيانات الموجودة على الجهاز.</string>
     <string name="security_encryption_attention_info">يمكنك تشفير حساباتك، الإعدادات، التطبيقات المحمّلة وبياناتها، الوسائط، وملفات أخرى.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">اختيار عدم تشفير الجهاز باستخدام كلمة مرور قفل الشاشة قد يجعل بعض خدمات Google غير متاحة.</string>
     <string name="security_encryption_close_dialog_title">الرجوع الى حماية كلمة المرور الافتراضية</string>
@@ -5387,7 +5558,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="security_encryption_progress_dialog_close">فك التشفيرu2026</string>
     <string name="security_encryption_progress_dialog_open">تشفيرu2026</string>
     <string name="security_encryption_rejected_via_home_manager">هذه الميزة غير معتمدة في الإصدار التجريبي.</string>
-    <string name="security_encryption_title">تشفير الجهاز باستخدام كلمة مرور شاشة القفل</string>
+    <string name="security_encryption_title">تشفير الجهاز بإستخدام كلمة مرور شاشة القفل</string>
     <string name="security_input">لوحة مفاتيح آمنة</string>
     <string name="security_input_hint">استخدم لوحة مفاتيح آمنة لإدخال كلمات المرور</string>
     <string name="security_keyguard_category_name">شاشة القفل</string>
@@ -5679,8 +5850,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="sim_lock_settings_summary_off">تم الإيقاف</string>
     <string name="sim_lock_settings_summary_on">تم القفل</string>
     <string name="sim_lock_settings_title">قفل SIM</string>
-    <string name="sim_management_title">شبكات الجوال وبطاقات SIM</string>
-    <string name="sim_management_title_singlesim">بطاقة SIM وشبكات الجوال</string>
+    <string name="sim_management_title">شبكات الهاتف وبطاقات SIM</string>
+    <string name="sim_management_title_singlesim">بطاقة SIM وشبكات الهاتف</string>
     <string name="sim_multi_sims_summary">‏اختر شريحة SIM المفضلة لبيانات الجوّال.</string>
     <string name="sim_multi_sims_title">‏تم العثور على بطاقات SIM متعددة</string>
     <string name="sim_name_hint">‏إدخال اسم SIM</string>
@@ -5702,6 +5873,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="sim_select_card">‏تحديد شريحة SIM</string>
     <string name="sim_selection_channel_title">‏اختيار شريحة SIM</string>
     <string name="sim_selection_required_pref">يلزم التحديد</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">‏بطاقات SIM</string>
     <string name="sim_setup_wizard_title">‏بطاقات SIM</string>
     <string name="sim_signal_strength">%1$d ديسبل ميلي واط %2$d وحدة إشارة واحدة</string>
@@ -5713,10 +5885,11 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="single_key_use_summary">إستخدم زر الشاشة الرئيسية للمهام التي يقوم بها الزرين الأخرين</string>
     <string name="single_press_AI_button">اضغط على زر AI</string>
     <string name="size_byte">بايت</string>
-    <string name="size_giga_byte">غيغابايت</string>
+    <string name="size_giga_byte">جيجابايت</string>
     <string name="size_kilo_byte">كيلوبايت</string>
-    <string name="size_mega_byte">ميغابايت</string>
+    <string name="size_mega_byte">ميجابايت</string>
     <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip_anyway_button_label">التخطّي</string>
     <string name="skip_label">التخطي</string>
@@ -5789,12 +5962,36 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="sort_order_frequent_notification">الأكثر تكرارًا</string>
     <string name="sort_order_recent_notification">الأحدث</string>
     <string name="sort_order_size">ترتيب حسب الحجم</string>
+    <string name="sos_phone_call_privacy_dialog_message">"To call your emergency contacts and play SOS recording, this app needs the following permissions:
+• Making calls
+For making calls to your emergency contacts
+• Monitoring device status
+For playing SOS recording when your emergency contacts pick up
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
+    <string name="sos_phone_call_privacy_dialog_message_confirm">Allow</string>
+    <string name="sos_phone_log_privacy_dialog_message">"This app needs permission to access your call history to be able to share it with your emergency contacts.
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
     <string name="sos_privacy_and_content_policy">اتفاقية المستخدم وسياسة الخصوصية</string>
     <string name="sos_privacy_dialog_button_cancel">إلغاء</string>
     <string name="sos_privacy_dialog_button_ok">موافق</string>
     <string name="sos_privacy_dialog_message">"يرجى قراءة والموافقة على %s لدينا قبل استخدام هذه الميزة.
-تتطلب هذه الميزة أذونات الوصول إلى موقعك واستخدام شبكات الجوال وقراءة جهات الاتصال الخاصة بك. موافق؟"</string>
+تتطلب هذه الميزة أذونات الوصول إلى موقعك واستخدام شبكات الهاتف وقراءة جهات الاتصال الخاصة بك. موافق؟"</string>
+    <string name="sos_privacy_dialog_message_new_version">"Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
+We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
+Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:
+• Accessing storage
+For saving emergency contacts
+• Accessing contacts
+For marking contacts as emergency contacts
+• Sending SMS
+For sending text messages to emergency contacts
+• Accessing location
+For sharing your location with emergency contacts
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to turn off or not use Emergency SOS in such cases.
+Before using our services, read and agree to our %s."</string>
     <string name="sos_privacy_dialog_title">الأحكام والشروط</string>
+    <string name="sound_assist_summary">تخصيص إعدادات الصوت الخاصة بك</string>
+    <string name="sound_assist_title">مساعد الصوت</string>
     <string name="sound_category_call_ringtone_vibrate_title">نغمة الرنين واصوات الإشعار</string>
     <string name="sound_category_system_title">النظام</string>
     <string name="sound_dashboard_summary">مستوى الصوت والاهتزاز ووضع\"عدم الإزعاج\"</string>
@@ -5845,8 +6042,10 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="status_bar_app_enable_keyguard">قفل الشاشة</string>
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">الإشعارات وشريط الحالة</string>
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_manage_notification">إشعارات التطبيقات</string>
     <string name="status_bar_settings_notification_bar">مركز الإشعارات</string>
     <string name="status_bar_settings_status_bar">شريط الحالة</string>
@@ -5972,6 +6171,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="storage_unmount_success">تم إخراج %1$s بشكل آمن</string>
     <string name="storage_usb">وحدة تخزين USB</string>
     <string name="storage_usb_settings">التخزين</string>
+    <string name="storage_use_title">مستخدم</string>
     <string name="storage_used">مساحة التخزين المستخدمة</string>
     <string name="storage_volume_summary">تم استخدام %1$s من %2$s</string>
     <string name="storage_volume_total">مساحة التخزين المستخدمة من أصل %1$s</string>
@@ -6070,11 +6270,52 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="storageuse_settings_title">استخدام وحدة التخزين</string>
     <string name="strict_mode">تفعيل الوضع المشدد</string>
     <string name="strict_mode_summary">وميض الشاشة عند إجراء التطبيقات عمليات طويلة في سلسلة المحادثات الرئيسية</string>
-    <string name="strong_suppression_summary">لن يستجيب جهازك للمس عرضي، وقد لا تعمل بعض عناصر التحكم بالإيماءات بالقرب من الحواف</string>
+    <string name="strong_suppression_summary">سيستجيب جهازك للمكالمات العرضية بشكل أقل، وقد لا تعمل بعض عناصر التحكم بالإيماءات بالقرب من الحواف</string>
     <string name="strong_suppression_title">مساحة كبيرة</string>
     <string name="structure_add_facerecoginition_text">إضافة بيانات الوجه 3D</string>
+    <string name="structure_face_data_delete_fail">تعذر حذف بيانات الوجه 3D. إعد المحاولة.</string>
+    <string name="structure_face_data_input_down">أخفض رأسك</string>
+    <string name="structure_face_data_input_error_away_screen">أبعد الهاتف عن وجهك</string>
+    <string name="structure_face_data_input_error_expose_features">لا يمكن رؤية بعض أجزاء وجهك</string>
+    <string name="structure_face_data_input_error_keep_inface">إبقي وجهك داخل الإطار</string>
+    <string name="structure_face_data_input_error_overly_light">إضاءة الخلفية قوية جدا الآن</string>
+    <string name="structure_face_data_input_left">أدر رأسك إلى اليسار</string>
+    <string name="structure_face_data_input_right">أدر رأسك إلى اليمين</string>
+    <string name="structure_face_data_input_timeout_msg">تعذر التسجيل، حاول مجددا.</string>
+    <string name="structure_face_data_input_timeout_title">حاول مجددا</string>
+    <string name="structure_face_data_input_up">انظر لأعلى</string>
+    <string name="structure_face_data_introduction_back">رجوع</string>
+    <string name="structure_face_data_introduction_msg">تسمح لك بيانات الوجه ثلاثية الأبعاد 3D بإلغاء قفل جهازك والتحقق من هويتك. تحتاج إلى تعيين كلمة المرور قفل أستخدام هذه الميزة.</string>
+    <string name="structure_face_data_introduction_title">إضافة بيانات وجه 3D</string>
+    <string name="structure_face_data_ir_input_face">قم بتحريك وجهك قليلا</string>
+    <string name="structure_face_data_manage_delete_msg">حذف بيانات الوجه 3D</string>
+    <string name="structure_face_data_suggestion_text">تأكد من أن جميع أجزاء الوجه مرئية بوضوح. لا ترتدي القبعات أو النظارات الشمسية أو غيرها من الملحقات التي يمكن أن تغطي وجهك أثناء تسجيل البيانات. يجب أن يكون وجهك مضاءًا جيدًا.</string>
+    <string name="structure_face_data_suggestion_warning_text">ملاحظة: يعد استخدام بيانات الوجه ثلاثي الأبعاد أقل أمانًا من استخدام كلمة المرور. قد يتمكن الأشخاص أو الكائنات التي تشبهك كثيرًا من إلغاء قفل جهازك.</string>
+    <string name="structure_face_delete_data_dialog_msg">تعذر تشغيل الكاميرا و الحصول على المعاينة. إعد المحاولة.</string>
+    <string name="structure_face_delete_data_dialog_msg_retry">حاول مجددا</string>
+    <string name="structure_face_delete_data_dialog_title">لا يمكن تشغيل الكاميرا</string>
     <string name="structure_face_enroll_not_able_low_electric_itle">لا يمكن إستخدام هذه الميزة بسبب ضعف البطارية</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">يجب أن يكون شحن البطارية ٥% على الأقل لبدء التسجيل.</string>
+    <string name="structure_face_hardware_abnormal_btn">حسنا</string>
+    <string name="structure_face_hardware_abnormal_msg">حدث خطأ ما في معدات الجهاز. قم بإعادة تشغيل الجهاز. إذا لم يساعد ذلك، اتصل بالرقم 400–100–5678 للحصول على المساعدة.</string>
+    <string name="structure_face_hardware_abnormal_title">خطأ في معدات الجهاز</string>
+    <string name="structure_face_modules_abnormal_btn">إعادة التشغيل</string>
+    <string name="structure_face_modules_abnormal_msg">لا يمكنك تسجيل بيانات الوجه بسبب خطأ في الوحدة البصرية. الرجاء إعادة تشغيل الجهاز والمحاولة مجددا.</string>
+    <string name="structure_face_modules_abnormal_title">خطأ في الوحدة البصرية</string>
+    <string name="structure_face_unlock_model2d_dialog_msg">سيتم إيقاف تشغيل ميزة تعرف 3D. وحذف بيانات الوجه 3D الخاصة بك. سيكون عليك أيضًا إضافة بيانات الوجه 2D الخاصة بك. هل تريد تشغيل تعرف 3D؟</string>
+    <string name="structure_face_unlock_model2d_dialog_title">تشغيل تعرف 2D</string>
+    <string name="structure_face_unlock_model3d_dialog_msg">سيتم إيقاف تشغيل ميزة تعرف 2D. وحذف بيانات الوجه 2D الخاصة بك. سيكون عليك أيضًا إضافة بيانات الوجه 3D الخاصة بك. تشغيل تعرف 3D؟</string>
+    <string name="structure_face_unlock_model3d_dialog_title">تشغيل تعرف 3D</string>
+    <string name="structure_face_unlock_model_dialog_enable">تشغيل</string>
+    <string name="structure_face_unlock_model_dialog_notenable">لا شكراً</string>
+    <string name="structure_face_unlock_model_other">أخرى</string>
+    <string name="structure_face_unlock_model_other_msg_2d">تعرف 2D</string>
+    <string name="structure_face_unlock_model_other_msg_3d">تعرف 3D</string>
+    <string name="structure_face_unlock_model_other_suggestion_2d">يعتبر التعرف على الوجه ثنائي الأبعاد أقل أمانًا من النقش أو كلمة المرور. عند تشغيل هذه الميزة، قد يتم إلغاء قفل الجهاز عن طريق صورتك، أو الأشخاص أو الكائنات التي تشبهك.</string>
+    <string name="structure_face_unlock_model_other_suggestion_3d">أن ميزة التعرف على الوجه ثلاثية الأبعاد آمنه نسبيًا. ومن المستبعد جدًا أن يتم إلغاء قفل الجهاز بإستخدام صورتك عند تشغيل هذه الميزة. ومع ذلك، يمكن أن يتم إلغاء القفل من قبل أشخاص أو كائنات تشبهك.</string>
+    <string name="structure_face_unlock_model_other_title">التعرف على الوجه</string>
+    <string name="structure_face_unlock_not_same_person">يجب عليك اتباع جميع الخطوات بنفسك. لا تغير الأماكن مع أي شخص.</string>
+    <string name="structure_face_unlock_tof_covered">تعذر اضافة بيانات الوجة. ابعد قليلا من الشاشة.</string>
     <string name="structure_manage_facerecoginition_text">إدارة البيانات الوجه 3D</string>
     <string name="style_and_wallpaper_settings_title">الأنماط والخلفيات</string>
     <string name="style_suggestion_summary">يمكنك تجربة أنماط أو خلفيات أو ساعات مختلفة، والمزيد</string>
@@ -6097,6 +6338,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="sum_carrier_select">اختيار مشغل شبكة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s إلى %2$s</string>
     <string name="sunlight_mode">وضع ضوء الشمس</string>
     <string name="sunlight_mode_summary">ضبط السطوع لتعزيز الإضاءة المحيطة عندما يكون السطوع التلقائي متوقف</string>
@@ -6152,6 +6394,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="system_app_settings">إعدادات تطبيقات النظام</string>
     <string name="system_apps_updater">محدث تطبيقات النظام</string>
     <string name="system_backup_section_title">النسخ الاحتياطي</string>
+    <string name="system_backup_section_title_new">محلي</string>
     <string name="system_dashboard_summary">اللغات والإيماءات والوقت والنسخ الاحتياطي</string>
     <string name="system_default_app">(الإعداد التلقائي للنظام)</string>
     <string name="system_haptic_feedback">نظام اللمس</string>
@@ -6179,12 +6422,12 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="tether_and_hotspot_title">الربط ونقطة الاتصال المحمولة</string>
     <string name="tether_auto_disable_summary">إيقاف نقطة الاتصال تلقائيا عند عدم اتصال أي أجهزة</string>
     <string name="tether_auto_disable_title">إيقاف نقطة الاتصال تلقائيا</string>
-    <string name="tether_custom_dialog_title">حد بيانات الجوال</string>
+    <string name="tether_custom_dialog_title">حد بيانات الهاتف</string>
     <string name="tether_data_usage_limit">حد البيانات لمرة واحدة</string>
     <string name="tether_data_usage_limit_summary">سيتم تطبيق حد البيانات في المرة القادمة التي يتم فيها تشغيل نقطة الاتصال</string>
     <string name="tether_devices_management_title">إدارة الأجهزة</string>
     <string name="tether_devices_max_number">حد الأجهزة المتصلة</string>
-    <string name="tether_limit_dialog_title">حد بيانات الجوال</string>
+    <string name="tether_limit_dialog_title">حد بيانات الهاتف</string>
     <string name="tether_limit_value_custom">تخصيص</string>
     <string name="tether_over_limit_dialog_cancle_btn">إعادة تعيين نقطة الاتصال</string>
     <string name="tether_over_limit_dialog_message">لقد وصلت إلى الحد الأقصى لبيانات نقطة الاتصال المحمولة.</string>
@@ -6197,11 +6440,13 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">تم تفعيل نقطة الاتصال</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">تم تفعيل نقطة الاتصال وإعداد التوصيل</string>
     <string name="tether_settings_title_all">الربط ونقطة الاتصال المحمولة</string>
-    <string name="tether_settings_title_bluetooth">ربط البلوتوث</string>
-    <string name="tether_settings_title_usb">ربط USB</string>
+    <string name="tether_settings_title_bluetooth">التوصيل عبر البلوتوث</string>
+    <string name="tether_settings_title_usb">‏التوصيل عبر USB</string>
     <string name="tether_settings_title_usb_bluetooth">ربط</string>
     <string name="tether_settings_title_wifi">نقطة اتصال محمولة</string>
     <string name="tether_share_qrcode_title">مشاركة رمز QR</string>
+    <string name="tether_use_wifi6_summary">قد لا تتوافق بعض الأجهزة مع معيار 802.11ax. قم بإيقاف تشغيل هذه الميزة إذا واجهت مشاكل.</string>
+    <string name="tether_use_wifi6_title">يدعم معيار الجيل السادس</string>
     <string name="tethering_footer_info">يمكنك استخدام نقطة الاتصال والتوصيل لتوفير اتصال بالإنترنت للأجهزة الأخرى من خلال اتصال بيانات الجوّال، كما يمكن للتطبيقات إنشاء نقطة اتصال لمشاركة المحتوى مع الأجهزة المجاورة.</string>
     <string name="tethering_hardware_offload">ربط مقياس تسارع الأجهزة</string>
     <string name="tethering_hardware_offload_summary">استخدام إعداد تسريع الأجهزة للتوصيل إن كان متاحًا</string>
@@ -6213,15 +6458,17 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="theme_customization_device_default">الإعداد التلقائي للجهاز</string>
     <string name="theme_customization_font_title">خط العنوان / النص</string>
     <string name="theme_customization_icon_shape_title">شكل الرمز</string>
-    <string name="theme_settings_title">السمات</string>
-    <string name="thememanager_not_found">تعذر فتح السمات. تأكد من تثبيت التطبيق.</string>
+    <string name="theme_settings_title">الثيمات</string>
+    <string name="thememanager_not_found">تعذر فتح الثيمات. تأكد من تثبيت التطبيق.</string>
     <string name="three_gesture_down">إسحب لأسفل بثلاث أصابع</string>
+    <string name="three_gesture_long_press">الضغط مطولاً بإستخدام %d أصابع</string>
     <string name="time_format_category_title">تنسيق الوقت</string>
     <string name="time_picker_title">الوقت</string>
     <string name="time_spent_in_app_pref_title">وقت الشاشة</string>
     <string name="time_unit_just_now">حالياً</string>
     <string name="timed_titlei">مؤقت %d</string>
     <string name="timezone_settings">المنطقة الزمنية</string>
+    <string name="tip_remove_data">سيقوم إعادة ضبط المصنع بمسح هذه العناصر من جهازك</string>
     <string name="title_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="title_convert_fbe">التحويل إلى تشفير على الملف</string>
     <string name="title_font">الخط</string>
@@ -6291,7 +6538,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="tts_engine_section_title">المحرك</string>
     <string name="tts_engine_security_warning">يمكن لمحرك توليف الكلام جمع كل النص الذي سيتم نطقه، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقة الائتمان. يتم إحضاره من محرك %s. تمكين استخدام محرك توليف الكلام هذا؟</string>
     <string name="tts_engine_settings_button">إعدادات محرك التشغيل</string>
-    <string name="tts_engine_settings_title">إعدادات %s</string>
+    <string name="tts_engine_settings_title">إعدادات المحرك</string>
     <string name="tts_general_section_title">عام</string>
     <string name="tts_install_data_summary">تثبيت البيانات الصوتية المطلوبة لتحويل النص إلى كلام</string>
     <string name="tts_install_data_title">تثبيت البيانات الصوتية</string>
@@ -6322,6 +6569,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="turn_off_common_password_confirm_msg">قفل الشاشة سيتم الغاؤه كذلك.</string>
     <string name="turn_off_keyguard_password_alert_title">إيقاف التشغيل</string>
     <string name="turn_off_keyguard_password_confirm_msg">بعض ميزات الحماية لن تعمل بدون كلمة المرور الخاصة بك.</string>
+    <string name="turn_off_keyguard_password_title">إيقاف تشغيل قفل الشاشة</string>
     <string name="turn_off_keyguard_password_wait_dialog">جارٍ إيقاف كلمة المرور…</string>
     <string name="turn_off_keyguard_password_with_face_confirm_msg">بعد إيقاف تشغيل كلمة مرور قفل الشاشة، سيتم حذف بيانات الوجه المسجلة. لن تتمكن من إلغاء قفل الجهاز باستخدام وجهك.</string>
     <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">لن تتمكن من إلغاء قفل جهازك بإستخدام بصمة الأصبع بعد إلغاء كلمة المرور.</string>
@@ -6395,8 +6643,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="unlock_disable_frp_warning_ok">نعم، إزالة</string>
     <string name="unlock_disable_frp_warning_title">هل تريد إزالة حماية الجهاز؟</string>
     <string name="unlock_disable_frp_warning_title_profile">هل تريد حذف حماية البيانات الشخصية؟</string>
-    <string name="unlock_disable_lock_pin_summary">إيقاف التشغيل رمز PIN</string>
+    <string name="unlock_disable_lock_pin_summary">إيقاف تشغيل رمز PIN</string>
     <string name="unlock_disable_lock_title">إيقاف تأمين الشاشة</string>
+    <string name="unlock_failed">خطأ داخلي</string>
     <string name="unlock_footer_high_complexity_requested">يوصي تطبيق %1$s باستخدام قفل شاشة برقم تعريف شخصي قوي أو كلمة مرور قوية، وقد لا يعمل على النحو المتوقع بدونه.</string>
     <string name="unlock_footer_low_complexity_requested">يوصي تطبيق %1$s باستخدام قفل شاشة جديد بنقش أو رقم تعريف شخصي أو كلمة مرور، وقد لا يعمل على النحو المتوقع بدونه.</string>
     <string name="unlock_footer_medium_complexity_requested">يوصي تطبيق %1$s باستخدام قفل شاشة جديد برقم تعريف شخصي أو كلمة مرور، وقد لا يعمل على النحو المتوقع بدونه.</string>
@@ -6619,17 +6868,18 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="usb_use_photo_transfers_desc">‏نقل الصور أو الملفات إذا لم يكن بروتوكول نقل الوسائط MTP متوفرًا (PTP)</string>
     <string name="usb_use_power_only">شحن الجهاز المتصل</string>
     <string name="usb_use_tethering">‏التوصيل عبر USB</string>
+    <string name="use_control_panel">استخدام مركز التحكم</string>
     <string name="use_location_summary">‏السماح لـ Google باستخدام الموقع لتحسين نتائج البحث والخدمات الأخرى</string>
     <string name="use_location_title">‏الموقع وبحث Google</string>
     <string name="use_open_wifi_automatically_summary">الاتصال تلقائيًا بالشبكات العامة العالية الجودة</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">لاستخدام الميزة، اختر مقدِّم خدمة تقييم شبكة متوافق</string>
     <string name="use_open_wifi_automatically_summary_scoring_disabled">لاستخدام الميزة، اختر مقدِّم خدمة تقييم شبكة</string>
     <string name="use_open_wifi_automatically_title">الاتّصال بالشبكات المفتوحة</string>
-    <string name="use_otg_charge_only">Reverse charging</string>
-    <string name="use_otg_charge_only_summary">Faster 1A charging</string>
-    <string name="use_otg_file_transfers">Reverse charging &amp; transferring files</string>
-    <string name="use_otg_file_transfers_summary">Slower 500mA charging and file transfers</string>
-    <string name="use_otg_title">USB On-The-Go</string>
+    <string name="use_otg_charge_only">عكس الشحن</string>
+    <string name="use_otg_charge_only_summary">شحن ١.٨ أمبير سريع</string>
+    <string name="use_otg_file_transfers">عكس الشحن ونقل الملفات</string>
+    <string name="use_otg_file_transfers_summary">شحن ٥٠٠ ميلي أمبير بطيء ونقل الملفات</string>
+    <string name="use_otg_title">USB OTG</string>
     <string name="use_personalized_ad_service">توصيات إعلانية مخصصة</string>
     <string name="use_personalized_ad_service_summary">عند إيقاف تشغيل ميزة التوصيات، سيظل بإمكانك مشاهدة نفس كمية الإعلانات عندما تكون قيد التشغيل، ولكن لن تستند إلى بيانات نشاطك أو معلوماتك الشخصية.</string>
     <string name="use_privacy_password_immediate">استخدم</string>
@@ -6761,7 +7011,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="virtual_sim_description">خدمة تجوال دولي موثوقة</string>
     <string name="virtual_sim_global_category_title">بطاقة Mi SIM</string>
     <string name="virtual_sim_global_description">الاتصال ببيانات الشبكة بدون بطاقة SIM</string>
-    <string name="virtual_sim_global_title">خدمة بيانات الجوال</string>
+    <string name="virtual_sim_global_title">خدمة بيانات الهاتف</string>
     <string name="virtual_sim_title">شبكة بيانات التجوال</string>
     <string name="virus_scan">فحص الفيروس</string>
     <string name="virus_scan_app_continue">متابعة الفحص</string>
@@ -6914,7 +7164,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="vt_provisioned_switch_string">مكالمات الفيديو متوفِّرة</string>
     <string name="wait_for_debugger">انتظار برنامج التصحيح</string>
     <string name="wait_for_debugger_summary">ينتظر التطبيق قيد التصحيح انضمام برنامج التصحيح قبل التنفيذ</string>
-    <string name="wake_suppression_summary">قد يستجيب جهازك للمس عرضي، وقد يستجيب أيضا لعناصر التحكم بالإيماءات بالقرب من الحواف</string>
+    <string name="wake_suppression_summary">سيستجيب جهازك اكثر للمكالمات العرضية، وايضا لعناصر التحكم بالإيماءات بالقرب من الحواف</string>
     <string name="wake_suppression_title">مساحة صغيرة</string>
     <string name="wakeup_and_sleep_settings_category_name">إعدادات شاشة القفل</string>
     <string name="wakeup_for_keyguard_notification_title">إيقاظ شاشة القفل للإشعارات</string>
@@ -7026,16 +7276,16 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_ask_enable">‏يريد %s تشغيل Wi-Fi</string>
     <string name="wifi_assist">مساعد Wi-Fi</string>
     <string name="wifi_assistant">تحديد أفضل شبكة تلقائياً</string>
-    <string name="wifi_assistant_auto_confirm_data_message">لا يمكن لشبكة Wi-Fi الحالية الاتصال بالإنترنت، حيث سيتم استخدام بيانات الجوال بدلاً عن ذلك. يمكنك إيقاف تشغيل مساعد Wi-Fi من الإعدادات</string>
+    <string name="wifi_assistant_auto_confirm_data_message">لا يمكن لشبكة Wi-Fi الحالية الاتصال بالإنترنت، حيث سيتم استخدام بيانات الهاتف بدلاً عن ذلك. يمكنك إيقاف تشغيل مساعد Wi-Fi من الإعدادات</string>
     <string name="wifi_assistant_confirm_always">لا مزيد من التلميحات في المرة القادمة</string>
     <string name="wifi_assistant_confirm_connection_title">تأكيد الاتصال</string>
     <string name="wifi_assistant_data_prompt">تمكين المطالبة</string>
-    <string name="wifi_assistant_data_prompt_summary">عرض تحذير استخدام البيانات عند التبديل إلى بيانات الجوال</string>
+    <string name="wifi_assistant_data_prompt_summary">عرض تحذير استخدام البيانات عند التبديل إلى بيانات الهاتف</string>
     <string name="wifi_assistant_description">"بعد تشغيل هذه الوظيفة:
 ١.عندما يكون اتصال Wi-Fi ضعيف، سيحاول النظام الاتصال بشبكة Wi-Fi أخرى متاحة تلقائيًا
-٢.عندما تكون كل اتصالات Wi-Fi الحالية ضعيفة وتم تفعيل بيانات الجوال، فإن النظام سيختار أفضل اتصال للشبكة"</string>
+٢.عندما تكون كل اتصالات Wi-Fi الحالية ضعيفة وتم تفعيل بيانات الهاتف، فإن النظام سيختار أفضل اتصال للشبكة"</string>
     <string name="wifi_assistant_disconnect">قطع الاتصال</string>
-    <string name="wifi_assistant_explicitly_confirm_data_message">لا يمكن لشبكة Wi-Fi الحالية الاتصال بالإنترنت، هل تريد التبديل إلى بيانات الجوال؟</string>
+    <string name="wifi_assistant_explicitly_confirm_data_message">لا يمكن لشبكة Wi-Fi الحالية الاتصال بالإنترنت، هل تريد التبديل إلى بيانات الهاتف؟</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">لا يمكن لشبكة Wi-Fi الحالية الاتصال بالإنترنت، هل تريد إلغاء الاتصال؟</string>
     <string name="wifi_assistant_explicitly_confirm_wifi_message">لا يمكن لشبكة Wi-Fi الحالية الاتصال بالإنترنت وهناك شبكات Wi-Fi أخرى يمكنها الاتصال بشكل طبيعي، هل تريد التبديل؟</string>
     <string name="wifi_assistant_keep_connection">إبقاء</string>
@@ -7043,8 +7293,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_assistant_ok">موافق</string>
     <string name="wifi_assistant_on">مشغل</string>
     <string name="wifi_assistant_setup_wifi_assistant">إعداد</string>
-    <string name="wifi_assistant_summary">اختر بشكل ذكي شبكة Wi-Fi أو بيانات الجوال عندما يكون اتصال Wi-Fi ضعيف</string>
-    <string name="wifi_assistant_switch_data">استخدام بيانات الجوال</string>
+    <string name="wifi_assistant_summary">اختر بشكل ذكي شبكة Wi-Fi أو بيانات الهاتف عندما يكون اتصال Wi-Fi ضعيف</string>
+    <string name="wifi_assistant_switch_data">استخدام بيانات الهاتف</string>
     <string name="wifi_assistant_switch_wifi">تبديل الشبكة</string>
     <string name="wifi_auto_connect">اتصال تلقائي</string>
     <string name="wifi_auto_sel_wapi_cert">التحديد تلقائياً</string>
@@ -7087,7 +7337,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_connect">اتصال</string>
     <string name="wifi_connect_cmcc_dialog_cancel">إلغاء</string>
     <string name="wifi_connect_cmcc_dialog_confirm">موافق</string>
-    <string name="wifi_connect_cmcc_dialog_content">تم الاتصال بشبكة بيانات الجوال. اذا قمت بتجاوز القيد المفروض على خطة استخدام البيانات، فستفرض عليك شركة الاتصالات الخاصة بك رسوماً أضافبة.</string>
+    <string name="wifi_connect_cmcc_dialog_content">تم الاتصال بشبكة بيانات الهاتف. اذا قمت بتجاوز القيد المفروض على خطة استخدام البيانات، فستفرض عليك شركة الاتصالات الخاصة بك رسوماً أضافبة.</string>
     <string name="wifi_connect_cmcc_dialog_not_remind">عدم الإظهار مرة أخرى</string>
     <string name="wifi_connect_cmcc_dialog_title">CMCC متصل</string>
     <string name="wifi_connect_failed_message">تعذر الاتصال بشبكة Wi-Fi</string>
@@ -7108,7 +7358,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_details_ipv6_address_header">‏عناوين IPv6</string>
     <string name="wifi_details_subnet_mask">قناع الشبكة الفرعية</string>
     <string name="wifi_details_title">تفاصيل الشبكة</string>
-    <string name="wifi_dialog_remind_type_title">شبكة بيانات الجوال</string>
+    <string name="wifi_dialog_remind_type_title">شبكة بيانات الهاتف</string>
     <string name="wifi_direct_close_hotspot_hint">أوقف تشغيل نقطة الاتصال المحمولة قبل اتصال Wi-Fi مباشر</string>
     <string name="wifi_direct_close_slave_wifi_hint">قم بفصل اتصال Wi-Fi الإضافي قبل استخدام اتصال Wi-Fi مباشر</string>
     <string name="wifi_disabled_by_recommendation_provider">الاتصال غير ممكن بسبب ضعف جودة الشبكة</string>
@@ -7241,7 +7491,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_ip_settings_menu_save">حفظ</string>
     <string name="wifi_limit_optimizations_summary">‏تقييد طاقة البطارية لاتصال Wi‑Fi</string>
     <string name="wifi_limited_connection">اتصال محدود</string>
-    <string name="wifi_link_turbo">استخدام بيانات الجوال لزيادة السرعة</string>
+    <string name="wifi_link_turbo">استخدام بيانات الهاتف لزيادة السرعة</string>
     <string name="wifi_link_turbo_app_settings_summary">حدد التطبيقات التي ستستخدم هذه الميزة</string>
     <string name="wifi_link_turbo_app_settings_title">حدد التطبيقات</string>
     <string name="wifi_link_turbo_customize">تطبيقات مخصصة</string>
@@ -7252,7 +7502,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_link_turbo_on">مشغل</string>
     <string name="wifi_link_turbo_recommendation">تطبيقات موصى بها</string>
     <string name="wifi_link_turbo_recommendation_summary">تلقي اقتراحات وتوصيات بحسب احصائيات استخدام البيانات</string>
-    <string name="wifi_link_turbo_summary">زيادة سرعة الاتصال للتطبيقات المحددة بإستخدام بيانات الجوال عندما يكون اتصال WiFi ضعيف</string>
+    <string name="wifi_link_turbo_summary">زيادة سرعة الاتصال للتطبيقات المحددة بإستخدام بيانات الهاتف عندما يكون اتصال WiFi ضعيف</string>
     <string name="wifi_menu_advanced">إعدادات متقدمة</string>
     <string name="wifi_menu_configure">تهيئة</string>
     <string name="wifi_menu_connect">اتصال بالشبكة</string>
@@ -7325,7 +7575,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_quick_toggle_title">شبكة Wi-Fi</string>
     <string name="wifi_remembered">تم الحفظ</string>
     <string name="wifi_remembered_disabled_auto_connect">تم الحفظ، الاتصال التلقائي غير مفعل</string>
-    <string name="wifi_required_info_text">لاستكمال الإعداد، يحتاج الجهاز إلى الوصول إلى شبكة Wi-Fi. بعد الإعداد، يمكنك التبديل بين شبكة بيانات الجوال وشبكة Wi-Fi.</string>
+    <string name="wifi_required_info_text">لاستكمال الإعداد، يحتاج الجهاز إلى الوصول إلى شبكة Wi-Fi. بعد الإعداد، يمكنك التبديل بين شبكة بيانات الهاتف وشبكة Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">لا يتوفر التردد ٥ غيغاهرتز في هذا البلد</string>
     <string name="wifi_save">حفظ</string>
     <string name="wifi_saved_access_points_label">الشبكات المحفوظة</string>
@@ -7438,7 +7688,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="wifi_suspend_optimizations">تحسين Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">تقليل استخدام البطارية عند تشغيل شبكة Wi-Fi</string>
     <string name="wifi_switch_away_when_unvalidated">‏التبديل إلى بيانات الجوّال في حالة انقطاع اتصال شبكة Wi‑Fi بالإنترنت.</string>
-    <string name="wifi_switch_to_gsm_message">فقدت الاتصال بالـWi-Fi. هل تريد استخدام اتصال بيانات الجوال بدلاً من ذلك؟</string>
+    <string name="wifi_switch_to_gsm_message">فقدت الاتصال بالـWi-Fi. هل تريد استخدام اتصال بيانات الهاتف بدلاً من ذلك؟</string>
     <string name="wifi_switch_to_gsm_title">استخدام GSM؟</string>
     <string name="wifi_tap_to_sign_in">انقر هنا لتسجيل الدخول إلى الشبكة.</string>
     <string name="wifi_tether_checkbox_text">نقطة اتصال محمولة</string>
@@ -7533,7 +7783,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="work_ringtone_title">نغمة رنين هاتف العمل</string>
     <string name="work_sim_title">‏شريحة SIM للعمل</string>
     <string name="work_sound_permission_dialog_button_text_known">فهمت</string>
-    <string name="work_sound_permission_dialog_message">لا يمكنك استخدام السمات في وضع المؤسسة. تواصل مع مشرفك للحصول على الأذن.</string>
+    <string name="work_sound_permission_dialog_message">لا يمكنك استخدام الثيمات في وضع المؤسسة. تواصل مع مشرفك للحصول على الأذن.</string>
     <string name="work_sound_permission_dialog_title">قيود وضع المؤسسة</string>
     <string name="work_sound_same_as_personal">مثل الملف الشخصي</string>
     <string name="work_space_delete">حذف واجهة العمل</string>
@@ -7654,7 +7904,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="zen_mode_delete_rule_button">حذف</string>
     <string name="zen_mode_delete_rule_confirmation">هل تريد حذف قاعدة \"%1$s\"؟</string>
     <string name="zen_mode_duration_always_prompt_title">اسأل في كل مرة</string>
-    <string name="zen_mode_duration_settings_title">المدة</string>
+    <string name="zen_mode_duration_settings_title">المدة التلقائية</string>
     <string name="zen_mode_duration_summary_always_prompt">الطلب في كل مرة</string>
     <string name="zen_mode_duration_summary_forever">إلى أن يتم إيقاف الوضع</string>
     <string name="zen_mode_duration_summary_time_minutes">%d دقيقة</string>
@@ -7749,9 +7999,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="zen_mode_settings_dnd_custom_settings_footer_link"><annotation id="link"> عرض الإعدادات المُخصَّصة</annotation></string>
     <string name="zen_mode_settings_dnd_manual_end_time">وضع \"الرجاء عدم الإزعاج\" مفعَّل حتى %s</string>
     <string name="zen_mode_settings_dnd_manual_indefinite">سيظل وضع \"عدم الإزعاج\" مفعَّلاً إلى أن توقفه.</string>
-    <string name="zen_mode_settings_summary_off">أبداً</string>
+    <string name="zen_mode_settings_summary_off">مطلقًا</string>
     <string name="zen_mode_settings_title">عدم الإزعاج</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">تشغيل وضع عدم الإزعاج</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">تشغيل وضع \"الرجاء عدم الإزعاج\"</string>
     <string name="zen_mode_slice_subtitle">الحد من المقاطعات</string>
     <string name="zen_mode_sound_summary_off">غير مفعّل</string>
     <string name="zen_mode_sound_summary_off_with_info">غير مفعّل / %1$s</string>
@@ -7800,8 +8050,10 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="zone_auto_summaryOn">استخدام الوقت الذي توفره شركة الاتصالات لديك</string>
     <string name="zone_auto_title">استخدام المنطقة الزمنية للشبكة</string>
     <string name="zone_change_to_from_dst">يبدأ %1$s بحلول %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">تستخدم %1$s. ويبدأ %2$s في %3$s.</string>
     <string name="zone_info_footer_no_dst">تستخدم %1$s. وليس هناك توقيت صيفي.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">ترتيب أبجدي</string>
     <string name="zone_list_menu_sort_by_timezone">ترتيب حسب المنطقة الزمنية</string>
     <string name="zone_menu_by_offset">‏الاختيار حسب فارق الوقت عن UTC</string>

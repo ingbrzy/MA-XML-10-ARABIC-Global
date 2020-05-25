@@ -83,6 +83,7 @@
 أسباب أخرى
 سجل الدخول إلى i.mi.com وجرب إلغاء قفل جهازك من هناك."</string>
     <string name="unlock_help_title">مساعدة \"إلغاء قفل\":</string>
+    <string name="unlock_number">رمز إلغاء القفل: %s</string>
     <string name="unlock_wrong_captcha">الرمز الذي أدخلته غير صحيح</string>
     <string name="unlocking">جارٍ التفعيل…</string>
     <string name="verifing_account">جارٍ التحقق من كلمة المرور…</string>

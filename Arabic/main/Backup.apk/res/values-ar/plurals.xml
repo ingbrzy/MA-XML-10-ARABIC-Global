@@ -32,6 +32,38 @@
         <item quantity="few">%d عناصر</item>
         <item quantity="many">%d عنصر</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d عنصر</item>
+        <item quantity="zero">%1$d/%2$d عنصر</item>
+        <item quantity="one">%1$d/%2$d عنصر</item>
+        <item quantity="two">%1$d/%2$d عناصر</item>
+        <item quantity="few">%1$d/%2$d عناصر</item>
+        <item quantity="many">%1$d/%2$d عنصر</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s نسخة احتياطية (%2$s)</item>
+        <item quantity="zero">%1$s نسخة احتياطية (%2$s)</item>
+        <item quantity="one">%1$s نسخة احتياطية (%2$s)</item>
+        <item quantity="two">%1$s نُسخ احتياطية (%2$s)</item>
+        <item quantity="few">%1$s نُسخ احتياطية (%2$s)</item>
+        <item quantity="many">%1$s نسخة احتياطية (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">اكتمل النسخ الاحتياطي. تعذر نسخ %d عنصر.</item>
+        <item quantity="zero">اكتمل النسخ الاحتياطي. تعذر نسخ %d عنصر.</item>
+        <item quantity="one">اكتمل النسخ الاحتياطي. تعذر نسخ %d عنصر.</item>
+        <item quantity="two">اكتمل النسخ الاحتياطي. تعذر نسخ %d عناصر.</item>
+        <item quantity="few">اكتمل النسخ الاحتياطي. تعذر نسخ %d عناصر.</item>
+        <item quantity="many">اكتمل النسخ الاحتياطي. تعذر نسخ %d عنصر.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">اكتمل النسخ الاحتياطي. تعذر استعادة %d عنصر.</item>
+        <item quantity="zero">اكتمل النسخ الاحتياطي. تعذر استعادة %d عنصر.</item>
+        <item quantity="one">اكتمل النسخ الاحتياطي. تعذر استعادة %d عنصر.</item>
+        <item quantity="two">اكتمل النسخ الاحتياطي. تعذر استعادة %d عناصر.</item>
+        <item quantity="few">اكتمل النسخ الاحتياطي. تعذر استعادة %d عناصر.</item>
+        <item quantity="many">اكتمل النسخ الاحتياطي. تعذر استعادة %d عنصر.</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">"تم استيراد %d عنصر. "</item>
         <item quantity="zero">"تم استيراد %d عناصر. "</item>
