@@ -64,6 +64,14 @@
         <item quantity="few">البحث في %d تسجيلات</item>
         <item quantity="many">البحث في %d تسجيل</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Search among %d recordings</item>
+        <item quantity="zero">Search among %d recordings</item>
+        <item quantity="one">Search among %d recording</item>
+        <item quantity="two">Search among %d recordings</item>
+        <item quantity="few">Search among %d recordings</item>
+        <item quantity="many">Search among %d recordings</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">البحث في %d تسجيل مكالمة</item>
         <item quantity="zero">البحث في %d تسجيل مكالمة</item>

@@ -140,8 +140,11 @@
     <string name="first_enter_custom_folder_hint">يمكنك إعادة تسمية أو حذف المجلدات هنا</string>
     <string name="float_todo_guide_cancel">إلغاء</string>
     <string name="float_todo_guide_message">يسمح لك اختصار الشاشة الرئيسية بالتمرير من حافة الشاشة لعرض المهام وإنشائها. هل تريد إنشاء الاختصار الآن؟</string>
+    <string name="float_todo_guide_message_v2">يمكنك استخدام اختصار الإيماءة لعرض المهام وإنشائها عن طريق السحب من حافة الشاشة. يمكنك تشغيل هذه الميزة أو إيقافها في أي وقت من الإعدادات.</string>
     <string name="float_todo_guide_ok">إنشاء</string>
+    <string name="float_todo_guide_ok_v2">تشغيل</string>
     <string name="float_todo_guide_title">اختصار الشاشة الرئيسية</string>
+    <string name="float_todo_guide_title_v2">اختصار الإيماءة</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -294,6 +297,7 @@
     <string name="note_sort_way">طريقة ترتيب الملاحظات</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>
     <string name="notify_alarm_title">تذكير</string>
     <string name="permdesc_accessNote">قد تستخدم التطبيقات الخبيثة هذا للوصول لبياناتك الشخصية.</string>
@@ -313,7 +317,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">اسحب بإصبعين لأعلى لحذف الملاحظات دون تأكيد</string>
     <string name="pref_desc_todo_float_mode">اسحب من حافة الشاشة لفتح شريط الأدوات</string>
     <string name="pref_remind_type_summary">تشغيل صوت تذكير في الوضع الصامت</string>
+    <string name="pref_remind_type_summary_new">تجاهل الوضع الصامت والاستمرار في تشغيل صوت التذكير حتى يتم إيقافه</string>
     <string name="pref_remind_type_title">تجاهل الوضع الصامت</string>
+    <string name="pref_remind_type_title_new">تذكيرات مهمة</string>
     <string name="pref_title_cloud_trash_bin">الملاحظات المحذوفة من Cloud</string>
     <string name="pref_title_common">إعدادات إضافية</string>
     <string name="pref_title_font_size">حجم الخط</string>
@@ -473,6 +479,7 @@
     <string name="toast_reach_text_limit_truncate">هذه الملاحظة طويلة جداً. بعض من النص تم قصه من النهاية.</string>
     <string name="toast_refuse_to_record_when_in_call">لا يمكن استخدام هذه الميزة أثناء إجراء المكالمات</string>
     <string name="toast_refuse_to_record_when_in_multi_window">لا يمكن استخدام هذه الميزة مع تقسيم الشاشة</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">لا يمكن استخدام هذه الميزة في تقسيم الشاشة والنوافذ المنبثقة</string>
     <string name="toast_refuse_to_use_contact">"أذونات جهات الاتصال مقيدة.
 اسمح للملاحظات بقراءة جهات الاتصال والعثور على حسابات على الجهاز."</string>
     <string name="toast_refuse_to_use_external_storage">"أذونات التخزين مقيدة.
@@ -556,6 +563,7 @@
     <string name="toolbar_voice_description">صوت</string>
     <string name="trash_folder_name">المهملات</string>
     <string name="trash_folder_reminder">سيتم حذف الملاحظات التي قمت بحذفها بشكل دائم في غضون ٣٠ يوما.</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>

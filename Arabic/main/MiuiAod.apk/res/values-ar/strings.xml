@@ -118,6 +118,7 @@ dd/MM"</string>
 رائعا على وشك الحدوث"</string>
     <string name="standard_clock_panel">قياسي</string>
     <string name="standard_style">قياسية</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary">لتقليل استهلاك الطاقة، لن يتم عرض العناصر عندما يكون جهازك في الظلام لفترة طويلة.</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="temporary_style">لمدة ١٠ ثواني بعد نقر الشاشة</string>

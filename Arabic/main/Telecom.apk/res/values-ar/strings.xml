@@ -407,6 +407,7 @@
     <string name="private_dns_mode_provider">اسم مضيف مزوّد \"نظام أسماء النطاقات الخاص\"</string>
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">يُرجى إدخال اسم مضيف \"مزوّد نظام أسماء النطاقات\"</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="remaining_length_format">يتبقى %1$s</string>
     <string name="respond_via_sms_canned_response_1">لا يمكنني التحدث الآن. ماذا هناك؟</string>
     <string name="respond_via_sms_canned_response_2">سأرد الاتصال بك فورا.</string>

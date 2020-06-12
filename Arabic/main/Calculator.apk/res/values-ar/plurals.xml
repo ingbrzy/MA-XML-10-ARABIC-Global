@@ -64,4 +64,12 @@
         <item quantity="few">%d أشهر</item>
         <item quantity="many">%d شهر</item>
     </plurals>
+    <plurals name="tenure_years">
+        <item quantity="other">%d سنة</item>
+        <item quantity="zero">%d سنة</item>
+        <item quantity="one">%d سنة</item>
+        <item quantity="two">%d سنوات</item>
+        <item quantity="few">%d سنوات</item>
+        <item quantity="many">%d سنة</item>
+    </plurals>
 </resources>

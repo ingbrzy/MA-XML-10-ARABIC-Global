@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">لا يدعم هذا التطبيق النوافذ المنبثقة</string>
+    <string name="accessibility_menu_item_smallwindow_enable">يدعم هذا التطبيق النوافذ المنبثقة</string>
     <string name="accessibility_menu_item_split_disable">التطبيق لا يدعم وضع تقسيم الشاشة.</string>
     <string name="accessibility_menu_item_split_enable">يدعم التطبيق تقسيم الشاشة</string>
     <string name="accessibility_recent_task_enter">تم فتح التطبيقات الأخيرة</string>
@@ -60,6 +67,7 @@
     <string name="all_apps_no_search_results">تعذر إيجاد نتائج</string>
     <string name="all_apps_search_app">البحث عن تطبيقات</string>
     <string name="all_apps_search_market_message">البحث على الانترنت</string>
+    <string name="all_apps_setting_classic_title">كلاسيكي</string>
     <string name="all_apps_setting_desktop_desc">عرض جميع التطبيقات المثبتة على الشاشة الرئيسية. اضغط مع الاستمرار على أيقونة التطبيق لعرض الاختصارات المتاحة أو إدارة التطبيق أو إلغاء تثبيته.</string>
     <string name="all_apps_setting_desktop_title">عادية</string>
     <string name="all_apps_setting_drawer_desc">ضع جميع التطبيقات المثبتة في \"درج التطبيقات\" الذي يمكن فتحه عن طريق التمرير للأعلى على الشاشة الرئيسية. لا يزال بإمكانك العثور على التطبيقات التي نقلتها إلى الشاشة الرئيسية في \"درج التطبيقات\".</string>
@@ -141,6 +149,7 @@
     <string name="auto_add_app_shortcut">ضع التطبيقات الجديدة على الشاشة الرئيسية</string>
     <string name="auto_delete_category_dialog_content">ستتم إزالة التطبيقات الحالية من هذه الفئة وحذف الفئة. حذف هذه الفئة الآن؟</string>
     <string name="auto_delete_category_dialog_title">حذف الفئة</string>
+    <string name="back">Back</string>
     <string name="backup_fail">تعذر النسخ الاحتياطي للمشغل</string>
     <string name="bad_wallpaper_source_prompt">لا يمكن تحميل الخلفية</string>
     <string name="buffering">تخزين مؤقت…</string>
@@ -165,6 +174,10 @@
     <string name="choose_wallpaper">اختر خلفية شاشة</string>
     <string name="chooser_wallpaper">اختيار خلفية شاشة جديدة</string>
     <string name="cloud_app_restore_title">قيد الانتظار</string>
+    <string name="common_home_search_delete">حذف شريط بحث الشاشة الرئيسية</string>
+    <string name="common_home_search_delete_cancle">إلغاء</string>
+    <string name="common_home_search_delete_confirm">حذف</string>
+    <string name="common_home_search_delete_content">لن تتمكن من البحث عن العناصر بإستخدام شريط بحث الشاشة الرئيسية بعد حذفة. المتابعة؟</string>
     <string name="configure_wallpaper">الإعدادات</string>
     <string name="confirm_btn_label">موافق</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">سيتم إلغاء تثبيت التطبيقات المزدوجة معاً مع هذه.</string>
@@ -313,7 +326,7 @@
     <string name="launcher_search_bar_value_enable">مشغل</string>
     <string name="launcher_slide_up_title">مرّر لأعلى على الشاشة الرئيسية</string>
     <string name="launcher_sliding_up_gesture">مرّر لأعلى على الشاشة الرئيسية لفتح البحث</string>
-    <string name="launcher_title">الشاشة الرئيسية والمستخدمة مؤخراً</string>
+    <string name="launcher_title">الشاشة الرئيسية والتطبيقات الحديثة</string>
     <string name="like">إضافة إلى المفضلة</string>
     <string name="liked">تمت الإضافة إلى المفضلة</string>
     <string name="loading_desktop">لحظة من فضلك…</string>
@@ -408,7 +421,7 @@
     <string name="preferences_general_title">الإعدادات الإضافية</string>
     <string name="preferences_title">إعدادات المشغل</string>
     <string name="preferred_app_settings_not_selected">غير محددة</string>
-    <string name="privacy_thumbnail_blur_summary">تمويه معاينات التطبيق في شاشة المستخدم مؤخراً</string>
+    <string name="privacy_thumbnail_blur_summary">تمويه معاينات التطبيق في شاشة التطبيقات الحديثة</string>
     <string name="privacy_thumbnail_blur_title">تمويه معاينات التطبيقات</string>
     <string name="quick_app">التطبيقات السريعة</string>
     <string name="recent_apps">الحديثة</string>
@@ -490,8 +503,11 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
-    <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_recent_memory_giga">%1$s جيجابايت</string>
+    <string name="status_bar_recent_memory_info1">%1$s من %2$s متاح</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s ميجابايت</string>
     <string name="status_downloaded">تم تنزيلها</string>
     <string name="status_downloading">جارٍ التنزيل</string>
     <string name="status_installing">تثبيت</string>

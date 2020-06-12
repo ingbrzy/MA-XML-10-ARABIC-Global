@@ -33,6 +33,8 @@
     <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Xiaomi Cloud. حذف الآن؟</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="app_name">المسجل</string>
+    <string name="app_record">App recordings</string>
+    <string name="app_record_preference_title">App recordings</string>
     <string name="back">رجوع</string>
     <string name="button_queue_for_wifi">انتظر</string>
     <string name="button_start_now">تنزيل</string>
@@ -237,6 +239,7 @@
     <string name="record_downloading_notification_count">%d جاري التنزيل</string>
     <string name="record_format_preference_title">صيغة التسجيل</string>
     <string name="record_list">التسجيلات</string>
+    <string name="record_list_app">App recordings</string>
     <string name="record_list_call">المكالمات المسجلة</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">التسجيلات المتزامنة</string>

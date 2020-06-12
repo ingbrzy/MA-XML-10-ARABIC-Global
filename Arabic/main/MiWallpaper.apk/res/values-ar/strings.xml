@@ -29,14 +29,20 @@
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="actionbar_button_up_description">رجوع</string>
     <string name="afternoon">بعد الظهر</string>
+    <string name="already_newest_version">الإصدار الحالي هو الأحدث</string>
     <string name="am">ص</string>
+    <string name="cancel_download">تم إلغاء التنزيل</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="copy">نسخ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="download_failed">لا يمكن التنزيل</string>
     <string name="early_morning">فجر</string>
+    <string name="earth_summary">الأرض هي مهد الحضارة الإنسانية</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">الأرض</string>
     <string name="empty" />
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
@@ -81,6 +87,24 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="install_failed">لا يمكن التثبيت</string>
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"منطقة Nilosyrtis
+Mensae"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">لطالما سحرت صحراء المريخ الشاسعة البشرية</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">الكوكب الأحمر</string>
     <string name="midnight">الليل</string>
     <string name="miuix_appcompat_cloud_state_disabled">المزامنة مع Cloud متوقفة</string>
     <string name="miuix_appcompat_cloud_state_finished">تمت المزامنة مع Cloud بنجاح</string>
@@ -127,6 +151,8 @@
     <string name="more">المزيد</string>
     <string name="morning">الصباح</string>
     <string name="night">المساء</string>
+    <string name="no_cta_agreed">لا يمتلك GetApps أذونات CTA</string>
+    <string name="no_install_permission">لا تمتلك الأذونات اللازمة لتثبيت هذا العنصر</string>
     <string name="noon">الظهر</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="pm">م</string>
@@ -134,12 +160,22 @@
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
+    <string name="saturn_summary">حلقات زحل هي أكثر المشاهد المذهلة في النظام الشمسي</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">حلقات زحل</string>
     <string name="search_menu_title">البحث</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="super_wallpaper_list_label">خلفيات سوبر</string>
+    <string name="super_wallpaper_setting_apply_success_toast">تم التعيين بنجاح</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">تعيين</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">حدد الموقع</string>
+    <string name="super_wallpaper_setting_coordinate_title">الإحداثيات</string>
+    <string name="super_wallpaper_setting_view_height_title">الارتفاع</string>
+    <string name="task_already_exist">هذه المهمة موجودة مسبقًا</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
     <string name="the_arbor_day">يوم الشجرة</string>
@@ -191,8 +227,19 @@
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>
+    <string name="update">تحديث</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">الشاشة الدائمة</string>
+    <string name="wallpaper_setting_find_more_text">مزيد من الخلفيات اونلاين</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">الشاشة الرئيسية</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">شاشة القفل</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">خلفيات اونلاين</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">اكتشف خلفيات</string>
+    <string name="wallpaper_setting_online_wallpaper_title">خلفيات اونلاين</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">خلفيات سوبر</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">المزيد</string>
+    <string name="wallpaper_setting_title">خلفيات الشاشة</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
