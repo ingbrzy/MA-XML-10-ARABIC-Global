@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_convert_pdf_alert_message">يتم توفير تحويل الملف بواسطة WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">جارٍ تحويل الملف قبل الطباعة…</string>
+    <string name="activity_jump_market_alert_install_message">قم بتثبيت WPS Office لتحويل هذا الملف وإعداده قبل الطباعة. ستحتاج إلى بدء الطباعة مرة أخرى بعد اكتمال التثبيت. هل تريد التثبيت الآن؟</string>
+    <string name="activity_jump_market_alert_install_positive_button">تثبيت</string>
+    <string name="activity_jump_market_alert_title">تنبيه</string>
+    <string name="activity_jump_market_alert_update_message">قم بتحديث WPS Office لتحويل هذا الملف وإعداده قبل الطباعة. ستحتاج إلى بدء الطباعة مرة أخرى بعد تثبيت الإصدار الجديد. تحديث الآن؟</string>
+    <string name="activity_jump_market_alert_update_positive_button">تحديث</string>
     <string name="add_print_service_label">إضافة خدمة</string>
     <string name="all_printers">جميع الطابعات…</string>
     <string name="all_printers_label">جميع الطابعات</string>
@@ -16,12 +23,15 @@
     <string name="collapse_handle">مقبض التصغير</string>
     <string name="connectio_delay_content">قد تحتاج إلى تأكيد الاتصال على الطابعة.</string>
     <string name="connectio_help_title">الاتصال بالطابعة</string>
+    <string name="copies_decrease">حذف نسخة واحدة</string>
+    <string name="copies_increase">إضافة نسخة واحدة</string>
     <string name="could_not_create_file">تعذَّر إنشاء الملف</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">حذف الطابعات المحددة الآن؟</string>
     <string name="destination_default_text">اختر طابعة</string>
     <string name="disabled_services_title">الخدمات غير المفعّلة</string>
     <string name="enable_print_service">حدد للتمكين</string>
-    <string name="enabled_services_title">الخدمات الممكنة</string>
+    <string name="enabled_services_title">الخدمات المفعّلة</string>
     <string name="expand_handle">مقبض التوسيع</string>
     <string name="failed_notification_title_template">خطا في الطابعة %1$s</string>
     <string name="favorite_printer">الطابعات المستخدمة مؤخرا</string>
@@ -45,7 +55,7 @@
     <string name="open_print_service">تمكين الطباعة</string>
     <string name="open_print_service_tips">لتتمكن من استخدام هذه الميزة، قم بتفعيل الطابعة من الإعدادات أولاً.</string>
     <string name="open_wlan">تشغيل Wi-Fi</string>
-    <string name="open_wlan_tips">قم بتشغيل Wi-Fi للعثور على الطابعات أسرع.</string>
+    <string name="open_wlan_tips">قم بتشغيل Wi-Fi للعثور على طابعات</string>
     <string name="other_printer">طابعات أخرى</string>
     <string name="page_description_template">الصفحة %1$d من %2$d</string>
     <string name="pages_range_example">مثلاً، ١—٥،‏٨،‏١١—١٣</string>
@@ -62,7 +72,7 @@
     <string name="print_fail_network_error">تعذر الطبع، تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
     <string name="print_forget_printer">تجاهل الطابعة</string>
     <string name="print_help_label">المساعدة</string>
-    <string name="print_help_tip">تأكد من أن الطابعة والهاتف متصلة بشبكة Wi-Fi وأن اتصال Wi-Fi مباشر قيد التشغيل. %1$s.</string>
+    <string name="print_help_tip">تأكد من اتصال الطابعة وهاتفك بنفس شبكة Wi-Fi وأن اتصال Wi-Fi مباشر قيد التشغيل. %1$s.</string>
     <string name="print_help_tip_reg">عرض \"المساعدة\"</string>
     <string name="print_no_print_services">لم يتم تفعيل أي خدمات طباعة</string>
     <string name="print_no_printers">لم يتم العثور على طابعات</string>
@@ -85,6 +95,7 @@
     <string name="printer_busy">الطابعة مشغولة</string>
     <string name="printer_error">خطأ في الطابعة</string>
     <string name="printer_error_msg">خطأ في الطابعة: %1$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">مزيد من المعلومات حول هذه الطابعة</string>
     <string name="printer_notification_error_title">تعذرت الطباعة %1$s</string>
     <string name="printer_unavailable">الطابعة غير متاحة</string>
@@ -109,4 +120,6 @@
     <string name="template_all_pages">جميع الصفحات وعددها %1$s</string>
     <string name="template_page_range">النطاق %1$s</string>
     <string name="wifi_direct">اتصال Wi-Fi مباشر</string>
+    <string name="wps_convert_error_toast_text">فشل تحويل الملف بسبب خطأ في التنسيق</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">قد يستغرق التحويل وقتًا أطول قليلاً بسبب حجم الملف. جارٍ التحويل…</string>
 </resources>

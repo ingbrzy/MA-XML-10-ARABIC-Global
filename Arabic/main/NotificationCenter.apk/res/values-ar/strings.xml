@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="app_name">الإشعارات</string>
+    <string name="back">رجوع</string>
     <string name="cancel">إلغاء</string>
     <string name="category_other">أخرى</string>
     <string name="confirm">موافق</string>
@@ -46,6 +47,7 @@
     <string name="feedback_tip_msg">لتجميع الإشعارات بشكل أكثر دقة، سنحتاج إلى جمع اسم التطبيق وعنوان الإشعار ووصفه ووقت إرسال الإشعار. المتابعة؟</string>
     <string name="feedback_tip_title">مشكله في فئات الإشعارات</string>
     <string name="float_notifications">الإشعارات المنبثقة</string>
+    <string name="float_notifications_short">منبثقة</string>
     <string name="function_description">حول هذه الميزة</string>
     <string name="hint_search_all">البحث عن تطبيقات</string>
     <string name="hint_search_in_disabled_apps">البحث عن التطبيقات التي لا يمكن أن تعرض الإشعارات</string>
@@ -56,20 +58,14 @@
     <string name="lock_screen_display_rules">تهيئة</string>
     <string name="lock_screen_tip_toast">السماح بالإشعارات على شاشة القفل في \"التنسيق\"</string>
     <string name="lockscreen_notifications">إشعارات قفل الشاشة</string>
-    <string name="menu_setting_recommend_to_minus">عرض إشعارات أقل</string>
-    <string name="menu_setting_recommend_to_normal">لا تقلل الإشعارات</string>
+    <string name="lockscreen_notifications_short">شاشة القفل</string>
     <string name="menu_setting_show_in_home">لا تجمع</string>
-    <string name="menu_setting_tip_recommend_minus">ستشاهد إشعارات أقل من %s</string>
-    <string name="menu_setting_tip_recommend_normal">لن يتم تقليل إشعارات %s</string>
     <string name="menu_setting_tip_show_in_home">لن يتم تجميع إشعارات %s</string>
     <string name="menu_setting_tip_unfold">ستعتبر جميع إشعارات هذا التطبيق مهمة</string>
-    <string name="menu_setting_toast_recommend_minus">ستشاهد إشعارات أقل من %s</string>
-    <string name="menu_setting_toast_recommend_normal">لن يتم تقليل إشعارات %s</string>
-    <string name="menu_setting_toast_show_in_home">لن يتم تجميع إشعارات %s</string>
     <string name="menu_setting_unfold">مهمة</string>
     <string name="not_sent_recently">ليس مؤخراً</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
-    <string name="notch_and_status_bar_setting">النتوء وشريط الحالة</string>
+    <string name="notch_and_status_bar_setting">مركز التحكم وشريط الحالة</string>
     <string name="notification_aggregate_description1">يقوم MIUI بمساعدتك في تجميع الإشعارات التسويقية والمنبثقة تلقائيًا، لجعل مركز الإشعارات أكثر تنظيمًا</string>
     <string name="notification_aggregate_description2">تقوم خوارزميتنا بتحليل محتوى الإشعارات وتقييمها. ولا يتم استخدام هذه الخوارزمية للتنببيهات والإشعارات المهمة من تطبيقات المراسلة الفورية. إذا وجدت أنه تم تجميع الإشعارات المهمة عن طريق الخطأ، فأبلغ عن المشكلة التي واجهتها باستخدام ميزة \"التعليقات\".</string>
     <string name="notification_aggregate_summary">السماح لنظام MIUI بتجميع الإشعارات تلقائيًا</string>
@@ -80,8 +76,6 @@
     <string name="notification_fold_summary">تجميع الإشعارات غير المهمة تلقائيًا</string>
     <string name="notification_fold_title">تجميع الإشعارات</string>
     <string name="notification_manager">إشعارات التطبيقات</string>
-    <string name="notification_setting_menu_feedback_text">"لا يجب أن يكون هذا الإشعار هنا؟
-الإبلاغ عن هذه المشكلة >"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">متوقف</string>
@@ -90,6 +84,8 @@
     <string name="search_menu_title">البحث</string>
     <string name="settings_guide_title">تحتاج إلى إعدادات أخرى؟</string>
     <string name="show_badge_notifications">شارات الإشعارات</string>
+    <string name="show_badge_notifications_short">الشارات</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">شريط الحالة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_disable_float_notification">الإشعارات العائمة غير مسموح بها</string>
@@ -102,8 +98,6 @@
     <string name="summary_lock_screen_enable_notification_first">السماح بالإشعارات لتتمكن من تشغيل إشعارات قفل الشاشة</string>
     <string name="summary_show_badge_enable_notification_first">السماح بالإشعارات لتتمكن من تشغيل شارات الإشعارات</string>
     <string name="swipe_to_delete">مرّر لليمين أو اليسار للحذف</string>
-    <string name="tip_feedback_success">تم الإبلاغ عن المشكله بنجاح</string>
-    <string name="tip_select_category">حدد فئة الإشعار</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
 </resources>

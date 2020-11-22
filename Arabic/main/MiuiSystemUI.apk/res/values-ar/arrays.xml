@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>٠%</item>
         <item>٥٠%</item>
@@ -37,55 +55,55 @@
         <item>لا تظهر هذا الأيقونة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>استخدام اختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>۱٦ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>۱٦ بت/عينة</item>
         <item>۲٤ بت/عينة</item>
         <item>٣٢ بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>أستخدام اختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>أحادي</item>
         <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>استخدام اختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>أحادي</item>
         <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>تحسين جودة الصوت</item>
         <item>توازن الصوت وجودة الاتصال</item>
-        <item>تحسين جودة الاتصال</item>
-        <item>أفضل جهد (معدل سرعة المعلومات التكيفي)</item>
+        <item>تحسين جودة الإتصال</item>
+        <item>أفضل جهد (معدل البت التلقائي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>تحسين جودة الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
-        <item>توازن الصوت وجودة الاتصال (٦٦٠ك.بت/ث / ٦٠٦ك.بت/ث)</item>
-        <item>تحسين جودة الاتصال (۳۳۰ك.بت/ث / ۳۰۳ك.بت/ث)</item>
-        <item>أفضل جهد (معدل سرعة المعلومات التكيفي)</item>
+        <item>تحسن جوده الصوت (۹۰۹ك.بت/ث / ۹۹۰ك.بت/ث)</item>
+        <item>توازن الصوت وجودة الاتصال (٦۰٦ك.بت/ث / ٦٦۰ك.بت/ث)</item>
+        <item>محسن سرعة الاتصال (۳۰۳ك.بت/ث / ۳۳۰ك.بت/ث)</item>
+        <item>أفضل جهد (معدل البت التلقائي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
         <item>۰. ۹٦ كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استخدام اختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>۱.٤٤ كيلوهرتز</item>
         <item>۰.٤۸ كيلوهرتز</item>
         <item>۸۸.۲ كيلوهرتز</item>
         <item>۰. ۹٦ كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>صوت Qualcomm® aptX™</item>
@@ -96,11 +114,9 @@
         <item>LHDC V3</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
-        <item>تمكين برامج الترميز الإختيارية</item>
-        <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
+        <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>صوت Qualcomm® aptX™</item>
@@ -132,12 +148,22 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (الافتراضي)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>معطل</item>
-        <item>التصفية مفعلة</item>
+        <item>تصفية</item>
         <item>مفعل</item>
-        <item>\"تصفية التسمية\" مفعلة</item>
-        <item>\"تصفية حزم الوسائط\" مفعلة</item>
+        <item>تصفية العناوين</item>
+        <item>تصفية حزم الوسائط</item>
     </string-array>
     <string-array name="clock_options">
         <item>عرض الساعة والدقائق والثواني</item>
@@ -198,11 +224,11 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>لا شيء</item>
-        <item>480p</item>
+        <item>٤٨٠ بكسل</item>
         <item>(آمن) 480p</item>
-        <item>720p</item>
+        <item>٧٢٠ بكسل</item>
         <item>720p (آمن)</item>
-        <item>1080p</item>
+        <item>١٠٨٠ بكسل</item>
         <item>1080p (آمن)</item>
         <item>4K</item>
         <item>4K (آمن)</item>
@@ -213,31 +239,31 @@
     <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>متوقف</item>
-        <item>٦٤ كيلوبايت</item>
-        <item>٢٥٦ كيلوبايت</item>
-        <item>١ ميجابايت</item>
+        <item>٦٤ ك.ب</item>
+        <item>٢٥٦ ك.ب</item>
+        <item>١ م.ب</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>متوقف</item>
-        <item>٦٤ كيلوبايت لكل سجل تخزين مؤقت</item>
-        <item>٢٥٦ كيلوبايت لكل سجل تخزين مؤقت</item>
-        <item>١ ميجابايت لكل سجل تخزين مؤقت</item>
-        <item>٤ ميجابايت لكل سجل تخزين مؤقت</item>
-        <item>١٦ ميجابايت لكل سجل تخزين مؤقت</item>
+        <item>٦٤ ك.ب لكل سجل تخزين مؤقت</item>
+        <item>٢٥٦ ك.ب لكل سجل تخزين مؤقت</item>
+        <item>١ م.ب لكل سجل تخزين مؤقت</item>
+        <item>٤ م.ب لكل سجل تخزين مؤقت</item>
+        <item>١٦ م.ب لكل سجل تخزين مؤقت</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>متوقف</item>
-        <item>٦٤ كيلوبايت</item>
-        <item>٢٥٦ كيلوبايت</item>
-        <item>١ ميجابايت</item>
-        <item>٤ ميجابايت</item>
-        <item>١٦ ميجابايت</item>
+        <item>٦٤ ك.ب</item>
+        <item>٢٥٦ ك.ب</item>
+        <item>١ م.ب</item>
+        <item>٤ م.ب</item>
+        <item>١٦ م.ب</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>متوقف</item>
         <item>كل المخازن المؤقتة للسجلات</item>
         <item>كل شئ عدا سجلات التخزين المؤقت للراديو</item>
-        <item>‏التخزين المؤقت لسجل kernel فقط</item>
+        <item>تخزين تسجيل kernel المؤقت فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>متوقف</item>
@@ -317,7 +343,7 @@
         <item>عاصفة رملية</item>
         <item>رمل</item>
         <item>رياح عاصفة</item>
-        <item>برد</item>
+        <item>حبات برد</item>
         <item>غبار</item>
         <item>ضباب</item>
         <item>امطار متجمدة</item>

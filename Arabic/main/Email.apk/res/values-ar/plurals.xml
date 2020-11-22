@@ -49,12 +49,12 @@
         <item quantity="many">حذف %1$d مسودة؟</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">تم تحديد %d</item>
-        <item quantity="zero">تم تحديد %d</item>
-        <item quantity="one">تم تحديد %d</item>
-        <item quantity="two">تم تحديد %d</item>
-        <item quantity="few">تم تحديد %d</item>
-        <item quantity="many">تم تحديد %d</item>
+        <item quantity="other">تمت إضافة %d جهة اتصال</item>
+        <item quantity="zero">تمت إضافة %d جهة اتصال</item>
+        <item quantity="one">تمت إضافة %d جهة اتصال</item>
+        <item quantity="two">تمت إضافة %d جهات اتصال</item>
+        <item quantity="few">تمت إضافة %d جهات اتصال</item>
+        <item quantity="many">تمت إضافة %d جهة اتصال</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
@@ -231,6 +231,86 @@
         <item quantity="two">تم تحديد %d</item>
         <item quantity="few">تم تحديد %d</item>
         <item quantity="many">تم تحديد %d</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">بعد %1$d يوم</item>
+        <item quantity="zero">بعد %1$d يوم</item>
+        <item quantity="one">بعد %1$d يوم</item>
+        <item quantity="two">بعد %1$d أيام</item>
+        <item quantity="few">بعد %1$d أيام</item>
+        <item quantity="many">بعد %1$d يوم</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">قبل %1$d يوم</item>
+        <item quantity="zero">قبل %1$d يوم</item>
+        <item quantity="one">قبل %1$d يوم</item>
+        <item quantity="two">قبل %1$d أيام</item>
+        <item quantity="few">قبل %1$d أيام</item>
+        <item quantity="many">قبل %1$d يوم</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">بعد %1$d ساعة</item>
+        <item quantity="zero">بعد %1$d ساعة</item>
+        <item quantity="one">بعد %1$d ساعة</item>
+        <item quantity="two">بعد %1$d ساعات</item>
+        <item quantity="few">بعد %1$d ساعات</item>
+        <item quantity="many">بعد %1$d ساعة</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">قبل %1$d ساعة</item>
+        <item quantity="zero">قبل %1$d ساعة</item>
+        <item quantity="one">قبل %1$d ساعة</item>
+        <item quantity="two">قبل %1$d ساعات</item>
+        <item quantity="few">قبل %1$d ساعات</item>
+        <item quantity="many">قبل %1$d ساعة</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">بعد %1$d دقيقة</item>
+        <item quantity="zero">بعد %1$d دقيقة</item>
+        <item quantity="one">بعد %1$d دقيقة</item>
+        <item quantity="two">بعد %1$d دقائق</item>
+        <item quantity="few">بعد %1$d دقائق</item>
+        <item quantity="many">بعد %1$d دقيقة</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">قبل %1$d دقيقة</item>
+        <item quantity="zero">قبل %1$d دقيقة</item>
+        <item quantity="one">قبل %1$d دقيقة</item>
+        <item quantity="two">قبل %1$d دقائق</item>
+        <item quantity="few">قبل %1$d دقائق</item>
+        <item quantity="many">قبل %1$d دقيقة</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">بعد %1$d ثانية</item>
+        <item quantity="zero">بعد %1$d ثانية</item>
+        <item quantity="one">بعد %1$d ثانية</item>
+        <item quantity="two">بعد %1$d ثواني</item>
+        <item quantity="few">بعد %1$d ثواني</item>
+        <item quantity="many">بعد %1$d ثانية</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">قبل %1$d ثانية</item>
+        <item quantity="zero">قبل %1$d ثانية</item>
+        <item quantity="one">قبل %1$d ثانية</item>
+        <item quantity="two">قبل %1$d ثواني</item>
+        <item quantity="few">قبل %1$d ثواني</item>
+        <item quantity="many">قبل %1$d ثانية</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">بعد %1$d أسبوع</item>
+        <item quantity="zero">بعد %1$d أسبوع</item>
+        <item quantity="one">بعد %1$d أسبوع</item>
+        <item quantity="two">بعد %1$d أسابيع</item>
+        <item quantity="few">بعد %1$d أسابيع</item>
+        <item quantity="many">بعد %1$d أسبوع</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">قبل %1$d أسبوع</item>
+        <item quantity="zero">قبل %1$d أسبوع</item>
+        <item quantity="one">قبل %1$d أسبوع</item>
+        <item quantity="two">قبل %1$d أسابيع</item>
+        <item quantity="few">قبل %1$d أسابيع</item>
+        <item quantity="many">قبل %1$d أسبوع</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">الرد على %1$d شخص</item>

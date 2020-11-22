@@ -33,8 +33,8 @@
     <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Xiaomi Cloud. حذف الآن؟</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="app_name">المسجل</string>
-    <string name="app_record">App recordings</string>
-    <string name="app_record_preference_title">App recordings</string>
+    <string name="app_record">تسجيلات التطبيق</string>
+    <string name="app_record_preference_title">تسجيلات التطبيق</string>
     <string name="back">رجوع</string>
     <string name="button_queue_for_wifi">انتظر</string>
     <string name="button_start_now">تنزيل</string>
@@ -127,6 +127,7 @@
     <string name="network_unavailable_tip">قم بالاتصال بالإنترنت ثم حاول مجددا.</string>
     <string name="new_record_name">تسجيل جديد</string>
     <string name="no_file">فارغ</string>
+    <string name="no_network">"Couldn't connect to the network"</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notification_message_all_paused">جارٍ انتظار الاتصال بشبكة Wi-Fi.</string>
     <string name="notification_playback">جارٍ التشغيل…</string>
@@ -239,7 +240,7 @@
     <string name="record_downloading_notification_count">%d جاري التنزيل</string>
     <string name="record_format_preference_title">صيغة التسجيل</string>
     <string name="record_list">التسجيلات</string>
-    <string name="record_list_app">App recordings</string>
+    <string name="record_list_app">تسجيلات التطبيق</string>
     <string name="record_list_call">المكالمات المسجلة</string>
     <string name="record_list_category_title_format">MMMM yyyy</string>
     <string name="record_list_cloud">التسجيلات المتزامنة</string>
@@ -257,6 +258,9 @@
     <string name="recording_quality_low">جودة منخفضة</string>
     <string name="recording_quality_standard">جودة عادية</string>
     <string name="recording_stopped">توقف التسجيل</string>
+    <string name="recovery">استعادة</string>
+    <string name="recovery_failed_dialog_button">حسنا</string>
+    <string name="recovery_failed_dialog_title">تنبيه</string>
     <string name="reg_error_audio_exist">هذا الملف موجود مسبقاً.</string>
     <string name="reg_error_audio_large">لا يمكن أن يتجاوز حجم الملف الصوتي ٥٠٠ ميجابايت.</string>
     <string name="reg_error_audio_short">الملف الصوتي صغير جداً.</string>
@@ -275,6 +279,7 @@
     <string name="rename_no_more_tip">عدم الإظهار مرة أخرى</string>
     <string name="retry">إعادة المحاولة</string>
     <string name="runtime_permission_ungranted">لا يمكن استخدام المسجل بسبب أذونات غير ممنوحة</string>
+    <string name="save_record_dialog_title">حفظ التسجيل</string>
     <string name="search_app">المسجل</string>
     <string name="search_empty">تعذر العثور على نتائج</string>
     <string name="search_enable_earpiece_title">استخدام جهاز الاستقبال لتشغيل الصوت</string>
@@ -318,11 +323,14 @@
     <string name="text_play_speed_1_5">1.5X سرعة التشغيل</string>
     <string name="text_play_speed_2_0">2X سرعة التشغيل</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
     <string name="title_activity_recinbox_sdk_browser">RecinboxSdkBrowser</string>
     <string name="toast_max_record_time">يمكن ل%1$s تسجيل حوالي %2$s</string>
     <string name="toast_uninstall_fileexplorer">مدير الملفات غير مثبت</string>
+    <string name="trash_box">العناصر المحذوفة مؤخرا</string>
+    <string name="trash_box_close_tip">أغلاق التذكير</string>
+    <string name="trash_box_delete_all">هل تريد حذف جميع العناصر من المهملات نهائيًا؟</string>
     <string name="usage_description">نسخ الصوت ومزامنة العناصر مع Cloud</string>
+    <string name="user_feedback">التعليقات</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="webview_check_network">إعدادات الشبكة</string>

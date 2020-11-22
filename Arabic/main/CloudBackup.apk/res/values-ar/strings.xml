@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">جارٍ النسخ الإحتياطي…</string>
     <string name="back_up_task_unfinished">تعذر النسخ الإحتياطي</string>
     <string name="backing_up_to_micloud">جارٍ النسخ الاحتياطي…</string>
-    <string name="backup_fail_wifi_needed">تعذر النسخ الاحتياطي، يتطلب Wi-Fi.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">لا توجد مساحة كافية في Xiaomi Cloud. قم بترقية خطتك أو فرغ مساحة.</string>
     <string name="backup_failed_reason_disk_space_not_enough">لا توجد مساحة تخزين كافية. قم بتفريغ مساحة أولاً.</string>
     <string name="backup_failed_reason_network_error">خطا فى الشبكة. يرجى الانتظار لمدة دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">إستئناف</string>
     <string name="btn_restore_retry">إعادة المحاولة</string>
     <string name="btn_restore_wait">انتظر شبكة الـWi-Fi</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">تحقق مرة اخرى</string>
     <string name="btn_skip">تخطي هذه الخطوة</string>
     <string name="button_cancel">إلغاء</string>
@@ -87,10 +87,15 @@
 *  إعدادات الإشعارات. 
 *  إعدادات النظام وMIUI. 
 ملاحظة: لن يتم إنشاء نسخة احتياطية في Xiaomi Cloud لبيانات التطبيقات التي قمت بتثبيتها."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">جدولة النسخ الاحتياطي</string>
     <string name="cloud_back_up_frequence_long">كل ٧ أيام</string>
     <string name="cloud_back_up_frequence_short">كل يوم</string>
-    <string name="cloud_back_up_no_network_warn">لا يمكن الاتصال بشبكة Wi-Fi</string>
     <string name="cloud_back_up_ok_btn">موافق</string>
     <string name="cloud_back_up_opening">لحظة من فضلك…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">ترقية</string>
@@ -103,6 +108,7 @@
     <string name="cloud_backup_detail_manage">إدارة النُسخ الاحتياطية</string>
     <string name="cloud_backup_detail_state">النسخ الاحتياطي تلقائيا</string>
     <string name="cloud_backup_detail_state_summary">إنشاء نُسخ Cloud احتياطية تلقائياً عند الاتصال بشبكة Wi-Fi.</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">اخر نسخ احتياطي: %1$s</string>
     <string name="cloud_backup_detail_title">الشاشة الرئيسية والتطبيقات والإعدادات.</string>
     <string name="cloud_backup_have_data">تم إيجاد نسخة احتياطية في Xiaomi Cloud</string>
@@ -138,7 +144,9 @@
     <string name="dialog_cancel_backup_title">إلغاء النسخ الاحتياطي الجاري؟</string>
     <string name="dialog_msg_overwrite_backup">تختلف النسخة الاحتياطية المحلية عن النسخة في Xiaomi Cloud. إذا قمت بالمتابعة، فإن النسخة الحالية ستحل محل النسخة السابقة.</string>
     <string name="dialog_msg_restore_require_wlan">يتطلب استعادة النسخ الاحتياطية الاتصال بشبكة Wi-Fi.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">الإتصال بشبكة Wi-Fi</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">جارٍ حساب الحجم…</string>
     <string name="doing_restore_home">جارٍ استعادة الشاشة الرئيسية والإعدادات…</string>
@@ -153,6 +161,7 @@
     <string name="error_unknown">حدث خطأ ما</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="get_device_id_error">تعذر الحصول على معرف الجهاز</string>
+    <string name="help_and_feedback">المساعدة والتعليقات</string>
     <string name="hint_restore_cross_space">قد لا يتم عرض تنسيق الشاشة الرئيسية بشكل صحيح إذا قمت بنقل العناصر بين المسافات.</string>
     <string name="home_hint_global_launcher">مشغل POCO</string>
     <string name="home_hint_other_launcher">مشغل أخر</string>
@@ -179,11 +188,10 @@
     <string name="notification_channel_remind">تذكير</string>
     <string name="notification_channel_service">الخدمة</string>
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
-    <string name="open_wifi">تشغيل Wi-Fi الآن</string>
-    <string name="open_wifi_description">الاتصال بشبكة Wi-Fi لاستعادة التطبيق</string>
-    <string name="open_wifi_setting">إعدادات Wi-Fi</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>
@@ -211,7 +219,6 @@
     <string name="restore_app_order_search_prior">تطبيقات عالية الأولوية</string>
     <string name="restore_app_order_title">أولوية الاسترداد للعناصر</string>
     <string name="restore_cloud_backup_to_phone">استعادة عناصر من Cloud</string>
-    <string name="restore_data_summary">هذه الميزة تتطلب إتصال بالانترنت.</string>
     <string name="restore_data_title">استعادة البيانات</string>
     <string name="restore_detail_category_apps">تنسيق الشاشة الرئيسية والتطبيقات</string>
     <string name="restore_detail_category_settings">الإعدادات</string>

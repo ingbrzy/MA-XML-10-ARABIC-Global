@@ -46,8 +46,8 @@
     <string name="passport_trust_device">الوثوق بهذا الجهاز</string>
     <string name="passport_vcode_prompt_long">أدخل رمز التحقق</string>
     <string name="passport_verify">تحقق</string>
-    <string name="password">كلمة المرور</string>
-    <string name="phone_locked">قد يكون هذا الجهاز مرتبط بحساب Mi مسبق (%s). قم بتسجيل الدخول لتفعيل هذا الجهاز.</string>
+    <string name="password">ادخل كلمة المرور</string>
+    <string name="phone_locked">هذا الجهاز مرتبط بحساب Mi (%s). يرجى ادخال كلمة المرور لتفعيل الجهاز.</string>
     <string name="phone_locked_account_email">، البريد الإلكتروني المرتبط: %s</string>
     <string name="phone_locked_account_phone">، رقم الهاتف المرتبط: %s</string>
     <string name="return_to_call">الرجوع إلى المكالمة</string>
@@ -74,14 +74,14 @@
     <string name="unlock_error_unknown">لا يمكن تسجيل الدخول</string>
     <string name="unlock_error_user_name">اسم مستخدم غير صالح</string>
     <string name="unlock_error_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
-    <string name="unlock_help">"ابقَ على اتصال بالشبكة.
- تأكد من تثبيت بطاقة SIM مفعلة (إذا كان جهازك يدعم ذلك)، وكان جهازك متصلاً بشبكة Wi-Fi صالحة.
+    <string name="unlock_help">"ابق على اتصال بالشبكة
+تأكد بأنك قمت بثبيت بطاقة SIM مفعلة، وأن جهازك متصل بشبكة Wi-Fi صالحة
 
 نسيت كلمة المرور؟
-انتقل إلى id.mi.com لإعادة تعيين كلمة المرور.
+انتقل إلى id.mi.com واختر \"نسيت كلمة المرور؟\" ثم اتبع التعليمات.
 
-أسباب أخرى
-سجل الدخول إلى i.mi.com وجرب إلغاء قفل جهازك من هناك."</string>
+لا يمكنك تفعيل الجهاز؟
+انتقل إلى i.mi.com/ss وأرسل طلب لإلغاء قفل الجهاز."</string>
     <string name="unlock_help_title">مساعدة \"إلغاء قفل\":</string>
     <string name="unlock_number">رمز إلغاء القفل: %s</string>
     <string name="unlock_wrong_captcha">الرمز الذي أدخلته غير صحيح</string>

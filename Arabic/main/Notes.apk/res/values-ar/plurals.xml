@@ -240,6 +240,14 @@
         <item quantity="few">في %1$d أيام</item>
         <item quantity="many">في %1$d يوم</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s مهمة</item>
+        <item quantity="zero">%1$s مهمة</item>
+        <item quantity="one">%1$s مهمة</item>
+        <item quantity="two">%1$s مهام</item>
+        <item quantity="few">%1$s مهام</item>
+        <item quantity="many">%1$s مهمة</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d حرف</item>
         <item quantity="zero">%d حرف</item>

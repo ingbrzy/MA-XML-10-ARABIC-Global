@@ -56,6 +56,14 @@
         <item quantity="few">تم تنزيل %d تسجيلات</item>
         <item quantity="many">تم تنزيل %d تسجيل</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">تعذر إنشاء %d مجلد بسبب خطأ غير معروف.</item>
+        <item quantity="zero">تعذر إنشاء %d مجلد بسبب خطأ غير معروف.</item>
+        <item quantity="one">تعذر إنشاء %d مجلد بسبب خطأ غير معروف.</item>
+        <item quantity="two">تعذر إنشاء %d مجلدات بسبب خطأ غير معروف.</item>
+        <item quantity="few">تعذر إنشاء %d مجلدات بسبب خطأ غير معروف.</item>
+        <item quantity="many">تعذر إنشاء %d مجلد بسبب خطأ غير معروف.</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">البحث في %d تسجيل</item>
         <item quantity="zero">البحث في %d تسجيل</item>
@@ -65,12 +73,12 @@
         <item quantity="many">البحث في %d تسجيل</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Search among %d recordings</item>
-        <item quantity="zero">Search among %d recordings</item>
-        <item quantity="one">Search among %d recording</item>
-        <item quantity="two">Search among %d recordings</item>
-        <item quantity="few">Search among %d recordings</item>
-        <item quantity="many">Search among %d recordings</item>
+        <item quantity="other">البحث في %d تسجيل</item>
+        <item quantity="zero">البحث في %d تسجيل</item>
+        <item quantity="one">البحث في %d تسجيل</item>
+        <item quantity="two">البحث في %d تسجيلات</item>
+        <item quantity="few">البحث في %d تسجيلات</item>
+        <item quantity="many">البحث في %d تسجيل</item>
     </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">البحث في %d تسجيل مكالمة</item>
@@ -87,6 +95,30 @@
         <item quantity="two">تم العثور على %d تسجيلات</item>
         <item quantity="few">حذف %d تسجيلات</item>
         <item quantity="many">تم العثور على %d تسجيل</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">تبقى %d يوم</item>
+        <item quantity="zero">تبقى %d يوم</item>
+        <item quantity="one">تبقى %d يوم</item>
+        <item quantity="two">تبقى %d أيام</item>
+        <item quantity="few">تبقى %d أيام</item>
+        <item quantity="many">تبقى %d يوم</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">هل تريد حذف %d تسجيل محدد نهائيًا؟</item>
+        <item quantity="zero">هل تريد حذف %d تسجيل محدد نهائيًا؟</item>
+        <item quantity="one">هل تريد حذف %d تسجيل محدد نهائيًا؟</item>
+        <item quantity="two">هل تريد حذف %d تسجيلات محددة نهائيًا؟</item>
+        <item quantity="few">هل تريد حذف %d تسجيلات محددة نهائيًا؟</item>
+        <item quantity="many">هل تريد حذف %d تسجيل محدد نهائيًا؟</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">يمكن تخزين العناصر المحذوفة في المهملات لمدة %d يوم</item>
+        <item quantity="zero">يمكن تخزين العناصر المحذوفة في المهملات لمدة %d يوم</item>
+        <item quantity="one">يمكن تخزين العناصر المحذوفة في المهملات لمدة %d يوم</item>
+        <item quantity="two">يمكن تخزين العناصر المحذوفة في المهملات لمدة %d أيام</item>
+        <item quantity="few">يمكن تخزين العناصر المحذوفة في المهملات لمدة %d أيام</item>
+        <item quantity="many">يمكن تخزين العناصر المحذوفة في المهملات لمدة %d يوم</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">لم تتم مزامنة %d</item>

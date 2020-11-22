@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">اسحب للتعديل</string>
+    <string name="doc_photo_cancel">إلغاء</string>
+    <string name="doc_photo_confirm">خروج</string>
+    <string name="doc_photo_doc_photo_title">تعديل المستند</string>
+    <string name="doc_photo_enhance_bin">أبيض وأسود</string>
+    <string name="doc_photo_enhance_color">تحسين</string>
+    <string name="doc_photo_enhance_none">الأصلية</string>
+    <string name="doc_photo_idcard_alert_msg">تجاهل كافة التغييرات والخروج من المحرر؟</string>
+    <string name="doc_photo_idcard_emblem">جهة خلفية</string>
+    <string name="doc_photo_idcard_mode_title">البطاقة الشخصية</string>
+    <string name="doc_photo_idcard_portrait">جهة أمامية</string>
+    <string name="doc_photo_not_support">لا يمكن تعديل هذه الصورة كمستند</string>
+    <string name="doc_photo_view_effect">معاينة</string>
     <string name="extra_photo_common_save_fail">لا يمكن الحفظ</string>
     <string name="extra_photo_common_saving">جارٍ الحفظ…</string>
     <string name="motion_photo_cancel">إلغاء</string>
@@ -25,6 +38,7 @@
     <string name="refocus_save_to_video">حفظ كفيديو</string>
     <string name="refocus_saving">جارٍ الحفظ…</string>
     <string name="refocus_title">ضبابي</string>
+    <string name="refocus_type_movie_relighting">سينمائي</string>
     <string name="refocus_type_relighting">إضاءة استوديو</string>
     <string name="refocus_type_relighting_no_face">تعذر العثور على وجه</string>
     <string name="refocus_type_relighting_small_face">تعمل إضاءة الاستوديو في صور يوجد فيها أشخاص أكثر من هنا.</string>

@@ -79,6 +79,7 @@
     <string name="location_enabled">يمكنك إيقاف خدمات الموقع من الإعدادات أي وقت.</string>
     <string name="location_north">الشمال</string>
     <string name="location_not_enabled_summary">تحتاج البوصلة الوصول إلى موقعك من أجل عرض الإحداثيات والارتفاع.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">تحتاج البوصلة الوصول إلى موقعك لعرض إحداثياتك الحالية.</string>
     <string name="location_not_enabled_title">خدمات الموقع</string>
     <string name="location_south">الجنوب</string>
     <string name="location_west">الغرب</string>

@@ -30,13 +30,13 @@
     <string name="advanced_mode">الإعدادات المتقدمة</string>
     <string name="anti_flicker_mode">منع الوميض</string>
     <string name="anti_flicker_mode_categroy">الأوضاع</string>
-    <string name="anti_flicker_mode_summary">منع الوميض في الإضاءة المنخفضة لتخفيف إجهاد العين. بعض العناصر قد لا يتم عرضها بشكل صحيح.</string>
+    <string name="anti_flicker_mode_summary">تجنب الوميض المفرط ونقليل إجهاد العين في ظروف الإضاءة المنخفضة</string>
     <string name="anti_flicker_title">وضع منع الوميض</string>
     <string name="app_name">الإعدادات</string>
     <string name="application_sound">إشعارات التطبيقات</string>
     <string name="back">رجوع</string>
     <string name="calendar_sound">تذكيرات الأحداث</string>
-    <string name="calendar_tip">تستخدم أصوات تذكير الأحداث في تذكيرات التقويم والملاحظات والمهام</string>
+    <string name="calendar_tip">تٌستخدم أصوات تذكير الأحداث في تذكيرات التقويم والملاحظات والمهام</string>
     <string name="category_other">أخرى</string>
     <string name="color_gamut">نطاق الألوان</string>
     <string name="contact_description">انقر على اختصارات الشاشة الرئيسية لإجراء مكالمات</string>
@@ -51,6 +51,10 @@
     <string name="created">تم الإنشاء</string>
     <string name="created_successfully">تم الإنشاء بنجاح</string>
     <string name="cu_confirm">ضبط</string>
+    <string name="dc_light_hint_enable_title">تنبيه</string>
+    <string name="dc_light_hint_normal">قد تؤثر وظيفة تعتيم التيار المستمر على عرض بعض العناصر.</string>
+    <string name="dc_light_hint_other">قد تؤثر وظيفة تعتيم التيار المستمر على معدل التحديث وعرض بعض العناصر.</string>
+    <string name="dc_lignt_enable_hint">سيكون معدل التحديث في وضع منع الوميض ٦٠ هرتز. هل تريد التبديل إلى هذا الوضع؟</string>
     <string name="display_description">أيقونات أكبر ونص أكبر لرؤية بصرية أفضل</string>
     <string name="display_title">عناصر أكبر</string>
     <string name="exit_easymode">إيقاف الوضع البسيط</string>
@@ -66,6 +70,7 @@
     <string name="follow_sim1">تعيين إعدادات SIM 1</string>
     <string name="gamma">جاما</string>
     <string name="healthy_use_phone">إدارة مدة استخدام الجهاز</string>
+    <string name="high_fps_description">معدل تحديث الشاشة عالي. استهلاك أعلى للطاقة.</string>
     <string name="hsv_space_color">مساحة اللون HSV</string>
     <string name="hsv_space_color_hue">تدرج اللون</string>
     <string name="hsv_space_color_saturation">صفاء اللون</string>
@@ -74,6 +79,7 @@
     <string name="intelligent_recognition_item_title">تحديد الخدمات</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">حماية معلوماتك الشخصية</string>
+    <string name="low_fps_description">معدل تحديث الشاشة منخفض. استهلاك أقل للطاقة.</string>
     <string name="low_light_preview">معاينة في الإضاءة المنخفضة</string>
     <string name="mms">الرسائل</string>
     <string name="more_ringtone">كل النغمات</string>
@@ -119,6 +125,7 @@
     <string name="search_menu_title">البحث</string>
     <string name="several_days_use_time">مدة استخدام الجهاز: %2$s</string>
     <string name="shortcut_created">هذا الاختصار موجود مسبقاً</string>
+    <string name="silent_ringtone_hint">تم كتم الصوت الآن. ارفع مستوى الصوت وحاول مرة أخرى.</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
     <string name="sms_delivered_sound_title">الرسائل المستلمة</string>
@@ -158,7 +165,9 @@
     <string name="usage_app_limit_alter_title">تحقق من حدود التطبيق</string>
     <string name="usage_app_limit_prelong">تمديد الوقت</string>
     <string name="usage_app_limit_reach_summay">متبقي %s</string>
+    <string name="usage_app_limit_reach_summay_new">انقر لإضافة %d دقيقة</string>
     <string name="usage_app_limit_reach_title">يقترب %s من الحد الأقصى للاستخدام</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">مدة استخدام %1s المتبقية: %2s</string>
     <string name="usage_app_limit_summary">لن تكون التطبيقات المحددة متاحة عند الوصول إلى الحد الأقصى</string>
     <string name="usage_app_limit_title">حدود التطبيق</string>
     <string name="usage_app_other_settings">الإعدادات الإضافية</string>
@@ -210,8 +219,12 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. إذا لم توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية وتحميلها، فلن تتمكن من استخدام هذا التطبيق. يمكنك إلغاء الترخيص بالانتقال إلى مدة استخدام الجهاز > الإعدادات > إيقاف تشغيل مدة استخدام الجهاز.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>قبل استخدام هذا التطبيق، يجب أن تقرأ وتوافق على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و&lt;a href='%2s'>سياسة الخصوصية&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. إذا لم توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية وتحميلها، فلن تتمكن من استخدام هذا التطبيق. يمكنك إلغاء الترخيص بالانتقال إلى مدة استخدام الجهاز > الإعدادات > إيقاف تشغيل مدة استخدام الجهاز. إذا كان لديك المزيد من الأسئلة حول الخصوصية، يمكنك التواصل معنا عبر privacy@xiaomi.com.</string>
+    <string name="usage_new_home_app_limit_summary">تعيين حد زمني يومي لاستخدام هذا التطبيق</string>
+    <string name="usage_new_home_app_limit_title">حدود استخدام التطبيق</string>
     <string name="usage_new_home_average">"المتوسط "</string>
+    <string name="usage_new_home_avg_usage_day">المتوسط اليومي: %s</string>
     <string name="usage_new_home_category">الفئة</string>
+    <string name="usage_new_home_classify_manage">إدارة فئات التطبيق</string>
     <string name="usage_new_home_compare_text1">- زيادة بنسبة %.2f عن اليوم السابق</string>
     <string name="usage_new_home_compare_text2">- أقل بنسبة %.2f عن اليوم السابق</string>
     <string name="usage_new_home_compare_text3">نفس اليوم السابق</string>
@@ -219,15 +232,19 @@
     <string name="usage_new_home_dashboard">لوحة التحليل</string>
     <string name="usage_new_home_date_day_title">فترة الاستخدام |%s</string>
     <string name="usage_new_home_day_category_title">مدة استخدام التطبيقات</string>
+    <string name="usage_new_home_day_category_title_new">مدة استخدام التطبيقات في %s</string>
     <string name="usage_new_home_day_title">يومي</string>
     <string name="usage_new_home_day_usage_title">التطبيقات الفردية</string>
+    <string name="usage_new_home_day_usage_title_new">مدة استخدام الجهاز في %s</string>
     <string name="usage_new_home_first_unlock">تم فتح القفل أول مرة في %s</string>
     <string name="usage_new_home_name">الاسم</string>
     <string name="usage_new_home_show_more_data_summary">يمكنك أيضًا تحديد مدة التطبيقات الفردية</string>
     <string name="usage_new_home_show_more_data_title">عرض مزيد من الإحصائيات</string>
+    <string name="usage_new_home_sys_no_limit_summary">لا يمكن تعيين حد زمني معين لاستخدام تطبيقات النظام</string>
     <string name="usage_new_home_unlock_equals_text">نفس اليوم السابق</string>
     <string name="usage_new_home_unused">غير مستخدم</string>
     <string name="usage_new_home_update">تغيير</string>
+    <string name="usage_new_home_usage_detail">تفاصيل الاستخدام</string>
     <string name="usage_new_home_week_category_title">مدة استخدام التطبيقات</string>
     <string name="usage_new_home_week_compare_text1">- زيادة بنسبة %.2f عن الاسبوع السابق</string>
     <string name="usage_new_home_week_compare_text2">- أقل بنسبة %.2f عن الاسبوع السابق</string>
@@ -240,7 +257,7 @@
     <string name="usage_optional_summary">تحتاج هذه الأذونات عند استخدامك ميزات إضافية.</string>
     <string name="usage_optional_title">الأذونات الاختيارية</string>
     <string name="usage_permisison_agree_desc_o">لتزويدك بإحصائيات مدة استخدام الجهاز ووضع التركيز، يحتاج هذا التطبيق لجمع المعلومات التالية: عدد المرات التي تقوم فيها فتح قفل جهازك وأسماء التطبيقات مع مدة استخدامها وعدد مرات إضاءة الشاشة و إعدادات وضع التركيز.</string>
-    <string name="usage_permisison_agree_desc_p">لتزويدك بإحصائيات مدة استخدام الجهاز ووضع التركيز، يحتاج هذا التطبيق لجمع المعلومات التالية: عدد المرات التي تقوم فيها فتح قفل جهازك وأسماء التطبيقات مع مدة استخدامها وعدد مرات إضاءة الشاشة و إعدادات وضع التركيز.</string>
+    <string name="usage_permisison_agree_desc_p">لتزويدك بإحصائيات مدة استخدام الجهاز ووضع التركيز، يحتاج هذا التطبيق لجمع المعلومات التالية: عدد المرات التي تقوم فيها فتح قفل جهازك وأسماء التطبيقات مع مدة استخدامها وعدد مرات إضاءة الشاشة وإعدادات وضع التركيز.</string>
     <string name="usage_permission_double_link" formatted="false">"&lt;Data>يحتاج هذا التطبيق إلى الاتصال بالإنترنت وجمع البيانات الشخصية ليعمل بشكل طبيعي. لمعرفة أيضا حقوقك كمستخدم وطرق استخدامنا لبياناتك، يجب عليك قراءة والموافقة على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و &lt;a href='%2s'>سياسة الخصوصية&lt;/a>.لدينا&lt;/Data>"</string>
     <string name="usage_permission_main_desc">"مرحبًا بك في مدة استخدام الجهاز!
 يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذونات التاليه ليعمل بشكل طبيعي:"</string>
@@ -248,8 +265,8 @@
     <string name="usage_reach_device_limit">الوقت انتهى! لقد وصلت للحد الأقصى.</string>
     <string name="usage_reach_device_limit_warning_text">لقد وصلت للحد الأقصى اليومي لمدة استخدام الجهاز</string>
     <string name="usage_refresh">حاول مجددا</string>
-    <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_about_hour_miunte">تقريبًا %1$s و %2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s و %2$s</string>
     <string name="usage_request_error_summary">حدث خطأ غير معروف</string>
     <string name="usage_request_timeout_summary">انتهت مهلة الطلب</string>
     <string name="usage_runtime_per_des_summary">لحفظ إحصائيات مدة استخدام الجهاز</string>
@@ -363,6 +380,8 @@
     <string name="usage_stats_week_day">نهاية الأسبوع</string>
     <string name="usage_total_days">مجموع الأيام</string>
     <string name="usage_total_times">إجمالي الجلسات</string>
+    <string name="usage_week_avg_usage_title">متوسط ​​الاستخدام هذا الأسبوع</string>
+    <string name="usage_week_avg_usage_title2">متوسط ​​الاستخدام</string>
     <string name="usage_weekly_report_summary">تعرف على كيفية قضاء وقتك على الجهاز</string>
     <string name="usage_weekly_report_title">التقرير الأسبوعي</string>
     <string name="usagestats_app_category_miui_education">تعليم</string>

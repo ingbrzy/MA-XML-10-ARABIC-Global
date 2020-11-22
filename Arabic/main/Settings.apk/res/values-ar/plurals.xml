@@ -32,45 +32,45 @@
         <item quantity="few">يحظى %1$d تطبيقات بوصول كامل إلى جهازك.</item>
         <item quantity="many">يحظى %1$d تطبيقًا بوصول كامل إلى جهازك.</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
-        <item quantity="zero">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
-        <item quantity="one">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
-        <item quantity="two">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
-        <item quantity="few">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
-        <item quantity="many">مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s ثانية</item>
+        <item quantity="zero">%1$s ثانية</item>
+        <item quantity="one">ثانية واحدة (%1$s)</item>
+        <item quantity="two">ثانيتان (%1$s)</item>
+        <item quantity="few">%1$s ثوانٍ</item>
+        <item quantity="many">%1$s ثانية</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">مهلة طويلة (%1$d مللي ثانية)</item>
-        <item quantity="zero">مهلة طويلة (%1$d مللي ثانية)</item>
-        <item quantity="one">مهلة طويلة (%1$d مللي ثانية)</item>
-        <item quantity="two">مهلة طويلة (%1$d مللي ثانية)</item>
-        <item quantity="few">مهلة طويلة (%1$d مللي ثانية)</item>
-        <item quantity="many">مهلة طويلة (%1$d مللي ثانية)</item>
+        <item quantity="other">طويلة (%1$s ثانية)</item>
+        <item quantity="zero">طويلة (%1$s ثانية)</item>
+        <item quantity="one">طويلة (ثانية واحدة (%1$s))</item>
+        <item quantity="two">طويلة (ثانيتان (%1$s))</item>
+        <item quantity="few">طويلة (%1$s ثوانٍ)</item>
+        <item quantity="many">طويلة (%1$s ثانية)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">متوسطة (%1$s ثانية)</item>
+        <item quantity="zero">متوسطة (%1$s ثانية)</item>
+        <item quantity="one">متوسطة (ثانية واحدة (%1$s))</item>
+        <item quantity="two">متوسطة (ثانيتان (%1$s))</item>
+        <item quantity="few">متوسطة (%1$s ثونٍ)</item>
+        <item quantity="many">متوسطة (%1$s ثانية)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">مهلة قصيرة (%1$d مللي ثانية)</item>
-        <item quantity="zero">مهلة قصيرة (%1$d مللي ثانية)</item>
-        <item quantity="one">مهلة قصيرة (%1$d مللي ثانية)</item>
-        <item quantity="two">مهلة قصيرة (%1$d مللي ثانية)</item>
-        <item quantity="few">مهلة قصيرة (%1$d مللي ثانية)</item>
-        <item quantity="many">مهلة قصيرة (%1$d مللي ثانية)</item>
+        <item quantity="other">قصير (%1$s ثانية)</item>
+        <item quantity="zero">قصير (%1$s ثانية)</item>
+        <item quantity="one">قصير (ثانية واحدة (%1$s))</item>
+        <item quantity="two">قصير (ثانيتان (%1$s))</item>
+        <item quantity="few">قصير (%1$s ثوانٍ)</item>
+        <item quantity="many">قصير (%1$s ثانية)</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="zero">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="one">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="two">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="few">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="many">مهلة طويلة جدًا (%1$d مللي ثانية)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="zero">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="one">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="two">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="few">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
-        <item quantity="many">مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">يطلب التطبيق معالجة %d رابط.</item>
+        <item quantity="zero">يطلب التطبيق معالجة %d رابط.</item>
+        <item quantity="one">يطلب التطبيق معالجة رابط واحد (%d).</item>
+        <item quantity="two">يطلب التطبيق معالجة رابطين (%d).</item>
+        <item quantity="few">يطلب التطبيق معالجة %d روابط.</item>
+        <item quantity="many">يطلب التطبيق معالجة %d رابطًا.</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">إيقاف الإشعارات في %d تطبيق</item>
@@ -81,20 +81,20 @@
         <item quantity="many">إيقاف الإشعارات في %d تطبيقًا</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">عدم التعطيل ابدا لـ%d تطبيق</item>
-        <item quantity="zero">عدم التعطيل ابدا لـ%d تطبيق</item>
-        <item quantity="one">عدم التعطيل ابدا لتطبيق واحد</item>
-        <item quantity="two">عدم التعطيل ابدا لـ%d تطبيقات</item>
-        <item quantity="few">عدم التعطيل ابدا لـ%d تطبيقات</item>
-        <item quantity="many">عدم التعطيل ابدا لـ%d تطبيق</item>
+        <item quantity="other">عدم التعطيل ابدا لـ %d تطبيق</item>
+        <item quantity="zero">عدم التعطيل ابدا لـ %d تطبيق</item>
+        <item quantity="one">عدم التعطيل ابدا لـ %d تطبيق</item>
+        <item quantity="two">عدم التعطيل ابدا لـ %d تطبيقات</item>
+        <item quantity="few">عدم التعطيل ابدا لـ %d تطبيقات</item>
+        <item quantity="many">عدم التعطيل ابدا لـ %d تطبيق</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
-        <item quantity="other">التعطيل دائما لـ%d تطبيق</item>
-        <item quantity="zero">التعطيل دائما لـ%d تطبيق</item>
-        <item quantity="one">التعطيل دائما لتطبيق واحد</item>
-        <item quantity="two">التعطيل دائما لـ%d تطبيقات</item>
-        <item quantity="few">التعطيل دائما لـ%d تطبيقات</item>
-        <item quantity="many">التعطيل دائما لـ%d تطبيق</item>
+        <item quantity="other">التعطيل دائما لـ %d تطبيق</item>
+        <item quantity="zero">التعطيل دائما لـ %d تطبيق</item>
+        <item quantity="one">التعطيل دائما لـ %d تطبيق</item>
+        <item quantity="two">التعطيل دائما لـ %d تطبيقات</item>
+        <item quantity="few">التعطيل دائما لـ %d تطبيقات</item>
+        <item quantity="many">التعطيل دائما لـ %d تطبيق</item>
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d تطبيق مسموح له بالبدء التلقائي</item>
@@ -139,18 +139,18 @@
     <plurals name="battery_tip_restrict_summary">
         <item quantity="other">‏هناك %2$d تطبيق يستخدم البطارية في الخلفية بدرجة عالية</item>
         <item quantity="zero">‏هناك %2$d تطبيق يستخدم البطارية في الخلفية بدرجة عالية</item>
-        <item quantity="one">‏يستخدم تطبيق %1$s البطارية في الخلفية بدرجة عالية</item>
+        <item quantity="one">‏يستخدم تطبيق \"%1$s\" البطارية في الخلفية بدرجة عالية</item>
         <item quantity="two">‏هناك تطبيقان (%2$d) يستخدمان البطارية في الخلفية بدرجة عالية</item>
         <item quantity="few">‏هناك %2$d تطبيقات تستخدم البطارية في الخلفية بدرجة عالية</item>
         <item quantity="many">‏هناك %2$d تطبيقًا يستخدم البطارية في الخلفية بدرجة عالية</item>
     </plurals>
     <plurals name="battery_tip_restrict_title">
-        <item quantity="other">‏تقييد %1$d تطبيق</item>
-        <item quantity="zero">‏تقييد %1$d تطبيق</item>
-        <item quantity="one">‏تقييد %1$d تطبيق</item>
-        <item quantity="two">تقييد تطبيقين</item>
-        <item quantity="few">‏تقييد %1$d تطبيقات</item>
-        <item quantity="many">‏تقييد %1$d تطبيقًا</item>
+        <item quantity="other">‏حظر %1$d تطبيق</item>
+        <item quantity="zero">‏حظر %1$d تطبيق</item>
+        <item quantity="one">‏حظر تطبيق واحد (%1$d)</item>
+        <item quantity="two">‏حظر تطبيقين (%1$d)</item>
+        <item quantity="few">‏حظر %1$d تطبيقات</item>
+        <item quantity="many">‏حظر %1$d تطبيقًا</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">يمكن لـ %d تطبيقات الاتصال بالشبكة</item>
@@ -196,7 +196,7 @@
         <item quantity="other">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
         <item quantity="zero">هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
         <item quantity="one">هناك تطبيق واحد مسموح له باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
-        <item quantity="two">هناك تطبيقان (%1$d) مسموح لهما باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item quantity="two">هناك تطبيقان (%1$d) مسموح لهما باستخدام البيانات بدون قيود عند تفعيل توفير البيانات</item>
         <item quantity="few">هناك %1$d تطبيقات مسموح لها باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
         <item quantity="many">هناك %1$d تطبيقًا مسموح لها باستخدام البيانات بدون قيود عند تفعيل ميزة \"توفير البيانات\"</item>
     </plurals>
@@ -304,6 +304,14 @@
         <item quantity="few">%s ساعات</item>
         <item quantity="many">%s ساعة</item>
     </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">تم ربط %d تطبيق.</item>
+        <item quantity="zero">تم ربط %d تطبيق.</item>
+        <item quantity="one">تم ربط تطبيق واحد (%d).</item>
+        <item quantity="two">تم ربط تطبيقين (%d).</item>
+        <item quantity="few">تم ربط %d تطبيقات.</item>
+        <item quantity="many">تم ربط %d تطبيقًا.</item>
+    </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">يمتلك %1$d تطبيق من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
         <item quantity="zero">يمتلك %1$d تطبيق من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
@@ -343,6 +351,14 @@
         <item quantity="two">يجب أن تحتوي كلمة المرور على حرفين (%d) ليسا من الأحرف الأبجدية على الأقل</item>
         <item quantity="few">يجب أن تحتوي كلمة المرور على %d أحرف ليست من الأحرف الأبجدية على الأقل</item>
         <item quantity="many">يجب أن تحتوي كلمة المرور على %d حرفًا ليس من الأحرف الأبجدية على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">يجب أن تحتوي كلمة المرور على %d حرف أبجدي على الأقل.</item>
+        <item quantity="zero">يجب أن تحتوي كلمة المرور على %d حرف أبجدي على الأقل.</item>
+        <item quantity="one">يجب أن تحتوي كلمة المرور على حرف أبجدي واحد على الأقل.</item>
+        <item quantity="two">يجب أن تحتوي كلمة المرور على حرفين (%d) أبجديين على الأقل.</item>
+        <item quantity="few">يجب أن تحتوي كلمة المرور على %d أحرف أبجدية على الأقل.</item>
+        <item quantity="many">يجب أن تحتوي كلمة المرور على %d حرفًا أبجديًا على الأقل.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">يجب أن تحتوي كلمة المرور على %d رقم عددي على الأقل</item>
@@ -488,14 +504,6 @@
         <item quantity="few">%1$d قيود</item>
         <item quantity="many">%1$d قيدًا</item>
     </plurals>
-    <plurals name="notification_few_channel_count_summary">
-        <item quantity="other">%1$d قناة للإشعارات.</item>
-        <item quantity="zero">%1$d قناة للإشعارات.</item>
-        <item quantity="one">%1$d قناة للإشعارات.</item>
-        <item quantity="two">قناتان (%1$d) للإشعارات.</item>
-        <item quantity="few">%1$d قنوات للإشعارات.</item>
-        <item quantity="many">%1$d قناة للإشعارات.</item>
-    </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d فئة</item>
         <item quantity="zero">%d فئة</item>
@@ -503,6 +511,14 @@
         <item quantity="two">فئتان (%d)</item>
         <item quantity="few">%d فئات</item>
         <item quantity="many">%d فئة</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d إشعار</item>
+        <item quantity="zero">%d إشعار</item>
+        <item quantity="one">إشعار واحد (%d)</item>
+        <item quantity="two">إشعاران (%d)</item>
+        <item quantity="few">%d إشعارات</item>
+        <item quantity="many">%d إشعارًا</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">إيقاف الإشعارات في %d تطبيق</item>
@@ -539,7 +555,7 @@
     <plurals name="number_of_device_admins">
         <item quantity="other">%d تطبيق نشط</item>
         <item quantity="zero">%d تطبيق نشط</item>
-        <item quantity="one">%d تطبيق نشط</item>
+        <item quantity="one">تطبيق نشط واحد (%d)</item>
         <item quantity="two">تطبيقان نشطان (%d)</item>
         <item quantity="few">%d تطبيقات نشطة</item>
         <item quantity="many">%d تطبيقًا نشطًا</item>
@@ -592,6 +608,14 @@
         <item quantity="few">تم تفعيل %1$d خدمات طباعة</item>
         <item quantity="many">تم تفعيل %1$d خدمة طباعة</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d محادثة ذات أولوية</item>
+        <item quantity="zero">%d محادثة ذات أولوية</item>
+        <item quantity="one">محادثة واحدة (%d) ذات أولوية</item>
+        <item quantity="two">محادثتان (%d) ذواتا أولوية</item>
+        <item quantity="few">%d محادثات ذات أولوية</item>
+        <item quantity="many">%d محادثة ذات أولوية</item>
+    </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">‏تحديد مدى استخدام البطارية لـ %1$d تطبيق</item>
         <item quantity="zero">‏تحديد مدى استخدام البطارية لـ %1$d تطبيق</item>
@@ -640,6 +664,14 @@
         <item quantity="few">تم إعداد %1$d بصمات إصبع</item>
         <item quantity="many">تم إعداد %1$d بصمة إصبع</item>
     </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">‏عرض كل الـ %1$d تطبيق</item>
+        <item quantity="zero">‏عرض كل الـ %1$d تطبيق</item>
+        <item quantity="one">عرض كل التطبيقات</item>
+        <item quantity="two">‏عرض كلا التطبيقين (%1$d)</item>
+        <item quantity="few">‏عرض كل الـ %1$d تطبيقات</item>
+        <item quantity="many">‏عرض كل الـ %1$d تطبيقًا</item>
+    </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">‏عرض %d عنصر مخفي</item>
         <item quantity="zero">‏عرض %d عنصر مخفي</item>
@@ -647,14 +679,6 @@
         <item quantity="two">‏عرض عنصرين (%d) مخفيين</item>
         <item quantity="few">‏عرض %d عناصر مخفية</item>
         <item quantity="many">‏عرض %d عنصرًا مخفيًّا</item>
-    </plurals>
-    <plurals name="show_bluetooth_devices">
-        <item quantity="other">تم توصيل %1$d جهاز.</item>
-        <item quantity="zero">تم توصيل %1$d جهاز.</item>
-        <item quantity="one">تم توصيل جهاز واحد (%1$d).</item>
-        <item quantity="two">تم توصيل جهازين (%1$d).</item>
-        <item quantity="few">تم توصيل %1$d أجهزة.</item>
-        <item quantity="many">تم توصيل %1$d جهازًا.</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من إدخال CIT.</item>
@@ -665,8 +689,8 @@
         <item quantity="many">أنت على بعد %1$d خطوة من إدخال CIT.</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
-        <item quantity="zero">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج أي خطوة (%1$d).</item>
+        <item quantity="other">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوة.</item>
+        <item quantity="zero">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوة.</item>
         <item quantity="one">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوة واحدة (%1$d).</item>
         <item quantity="two">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوتين (%1$d).</item>
         <item quantity="few">لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوات.</item>
@@ -681,12 +705,12 @@
         <item quantity="many">تم حفظ %1$d سماعة أذن طبية</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">أنت على بعد %1$d خطوة من إدخال معلومات الهاتف.</item>
-        <item quantity="zero">أنت على بعد %1$d خطوة من إدخال معلومات الهاتف.</item>
-        <item quantity="one">أنت على بعد %1$d خطوة من إدخال معلومات الهاتف.</item>
-        <item quantity="two">أنت على بعد %1$d خطوات من إدخال معلومات الهاتف.</item>
-        <item quantity="few">أنت على بعد %1$d خطوات من إدخال معلومات الهاتف.</item>
-        <item quantity="many">أنت على بعد %1$d خطوة من إدخال معلومات الهاتف.</item>
+        <item quantity="other">أنت على بعد %1$d خطوة من فتح معلومات الجهاز.</item>
+        <item quantity="zero">أنت على بعد %1$d خطوة من فتح معلومات الجهاز.</item>
+        <item quantity="one">أنت على بعد %1$d خطوة من فتح معلومات الجهاز.</item>
+        <item quantity="two">أنت على بعد %1$d خطوات من فتح معلومات الجهاز.</item>
+        <item quantity="few">أنت على بعد %1$d خطوات من فتح معلومات الجهاز.</item>
+        <item quantity="many">أنت على بعد %1$d خطوة من فتح معلومات الجهاز.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">أنت على بعد %1$d خطوة من الإبلاغ عن خطأ.</item>
@@ -697,12 +721,12 @@
         <item quantity="many">أنت على بعد %1$d خطوة من الإبلاغ عن خطأ.</item>
     </plurals>
     <plurals name="special_access_summary">
-        <item quantity="other">يمكن لـ %d تطبيق استخدام البيانات غير المقيّدة</item>
-        <item quantity="zero">لا يمكن لأي (%d) تطبيق استخدام البيانات غير المقيّدة</item>
-        <item quantity="one">يمكن لتطبيق واحد استخدام البيانات غير المقيّدة</item>
-        <item quantity="two">يمكن لتطبيقين (%d) استخدام البيانات غير المقيّدة</item>
-        <item quantity="few">يمكن لـ %d تطبيقات استخدام البيانات غير المقيّدة</item>
-        <item quantity="many">يمكن لـ %d تطبيقًا استخدام البيانات غير المقيّدة</item>
+        <item quantity="other">يمكن لـ %d تطبيق استخدام البيانات بدون قيود</item>
+        <item quantity="zero">لا يمكن لأي (%d) تطبيق استخدام البيانات بدون قيود</item>
+        <item quantity="one">يمكن لتطبيق واحد استخدام البيانات بدون قيود</item>
+        <item quantity="two">يمكن لتطبيقين (%d) استخدام البيانات بدون قيود</item>
+        <item quantity="few">يمكن لـ %d تطبيقات استخدام البيانات بدون قيود</item>
+        <item quantity="many">يمكن لـ %d تطبيقًا استخدام البيانات بدون قيود</item>
     </plurals>
     <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">الثقة أو إزالة الشهادات</item>
@@ -993,12 +1017,28 @@
         <item quantity="many">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولة.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">يمكن للإشعارات من %1$d تطبيق تخطي وضع \"عدم الإزعاج\".</item>
-        <item quantity="zero">لا يمكن لأي تطبيق تخطي وضع \"عدم الإزعاج\".</item>
-        <item quantity="one">يمكن للإشعارات من تطبيق واحد تخطي وضع \"عدم الإزعاج\".</item>
-        <item quantity="two">يمكن للإشعارات من تطبيقين (%1$d) تخطي وضع \"عدم الإزعاج\".</item>
-        <item quantity="few">يمكن للإشعارات من %1$d تطبيقات تخطي وضع \"عدم الإزعاج\".</item>
-        <item quantity="many">يمكن للإشعارات من %1$d تطبيقًا تخطي وضع \"عدم الإزعاج\".</item>
+        <item quantity="other">السماح لتطبيقات %s بمقاطعة عمل الميزة</item>
+        <item quantity="zero">السماح لتطبيقات %s بمقاطعة عمل الميزة</item>
+        <item quantity="one">السماح لتطبيق %s بمقاطعة عمل الميزة</item>
+        <item quantity="two">السماح لتطبيقَي %s بمقاطعة عمل الميزة</item>
+        <item quantity="few">السماح لتطبيقات %s بمقاطعة عمل الميزة</item>
+        <item quantity="many">السماح لتطبيقات %s بمقاطعة عمل الميزة</item>
+    </plurals>
+    <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d جهة اتصال</item>
+        <item quantity="zero">%d جهة اتصال</item>
+        <item quantity="one">جهة اتصال واحدة</item>
+        <item quantity="two">جهتا اتصال (%d)</item>
+        <item quantity="few">%d جهات اتصال</item>
+        <item quantity="many">%d جهة اتصال</item>
+    </plurals>
+    <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d محادثة</item>
+        <item quantity="zero">%d محادثة</item>
+        <item quantity="one">محادثة واحدة</item>
+        <item quantity="two">محادثتان (%d)</item>
+        <item quantity="few">%d محادثات</item>
+        <item quantity="many">%d محادثة</item>
     </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d ساعة</item>
@@ -1008,13 +1048,21 @@
         <item quantity="few">%d ساعات</item>
         <item quantity="many">%d ساعة</item>
     </plurals>
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">السماح لأصوات %s بمقاطعة عمل الميزة</item>
+        <item quantity="zero">السماح لأصوات %s بمقاطعة عمل الميزة</item>
+        <item quantity="one">السماح لصوت %s بمقاطعة عمل الميزة</item>
+        <item quantity="two">السماح لصوتَي %s بمقاطعة عمل الميزة</item>
+        <item quantity="few">السماح لأصوات %s بمقاطعة عمل الميزة</item>
+        <item quantity="many">السماح لأصوات %s بمقاطعة عمل الميزة</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">تم تفعيل %d قاعدة.</item>
-        <item quantity="zero">تم تفعيل %d قاعدة.</item>
-        <item quantity="one">تم تفعيل قاعدة واحدة.</item>
-        <item quantity="two">تم تفعيل قاعدتين (%d).</item>
-        <item quantity="few">تم تفعيل %d قواعد.</item>
-        <item quantity="many">تم تفعيل %d قاعدة.</item>
+        <item quantity="other">تم ضبط %d جدول زمني.</item>
+        <item quantity="zero">تم ضبط %d جدول زمني.</item>
+        <item quantity="one">تم ضبط جدول زمني واحد.</item>
+        <item quantity="two">تم ضبط جدولين زمنيين (%d).</item>
+        <item quantity="few">تم ضبط %d جداول زمنية.</item>
+        <item quantity="many">تم ضبط %d جدولاً زمنيًا.</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
         <item quantity="other">يمكن تفعيل %d جدول زمني تلقائيًا.</item>

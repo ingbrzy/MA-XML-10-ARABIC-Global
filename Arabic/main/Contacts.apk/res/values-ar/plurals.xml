@@ -96,6 +96,22 @@
         <item quantity="few">رنين %1$d مرات</item>
         <item quantity="many">رنين %1$d مرة</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d رقم هاتف</item>
+        <item quantity="zero">%d رقم هاتف</item>
+        <item quantity="one">%d رقم هاتف</item>
+        <item quantity="two">%d أرقام هاتف</item>
+        <item quantity="few">%d أرقام هاتف</item>
+        <item quantity="many">%d رقم هاتف</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">هل ترغب في حذف %d رقم هاتف؟</item>
+        <item quantity="zero">هل ترغب في حذف %d رقم هاتف؟</item>
+        <item quantity="one">هل ترغب في حذف %d رقم هاتف؟</item>
+        <item quantity="two">هل ترغب في حذف %d أرقام هواتف؟</item>
+        <item quantity="few">هل ترغب في حذف %d أرقام هواتف؟</item>
+        <item quantity="many">هل ترغب في حذف %d رقم هاتف؟</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d جهة اتصال أو صورة لم تتم مزامنتها</item>
         <item quantity="zero">%1$d جهة اتصال أو صورة لم تتم مزامنتها</item>
@@ -200,14 +216,6 @@
         <item quantity="few">منذ نصف ساعة</item>
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">تم إيجاد %1$d عنصر</item>
-        <item quantity="zero">تم إيجاد %1$d عنصر</item>
-        <item quantity="one">تم إيجاد %1$d عنصر</item>
-        <item quantity="two">تم إيجاد %1$d عناصر</item>
-        <item quantity="few">تم إيجاد %1$d عناصر</item>
-        <item quantity="many">تم إيجاد %1$d عنصر</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d جهة اتصال</item>
         <item quantity="zero">%1$d جهة اتصال</item>
@@ -296,14 +304,6 @@
         <item quantity="few">%1$d جهات اتصال بمعلومات متطابقة جزئيًا</item>
         <item quantity="many">%1$d جهة اتصال بمعلومات متطابقة جزئيًا</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">تم الدمج من %0$d مصدر</item>
-        <item quantity="zero">تم الدمج من %0$d مصدر</item>
-        <item quantity="one">لم يتم الدمج</item>
-        <item quantity="two">تم الدمج من %0$d مصادر</item>
-        <item quantity="few">تم الدمج من %0$d مصادر</item>
-        <item quantity="many">تم الدمج من %0$d مصدر</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">تم تحديد %1$d</item>
         <item quantity="zero">تم تحديد %1$d</item>
@@ -320,14 +320,6 @@
         <item quantity="few">%1$d اشخاص من %2$s</item>
         <item quantity="many">%1$d شخص من %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d مجموعة</item>
-        <item quantity="zero">%d مجموعة</item>
-        <item quantity="one">%d مجموعة</item>
-        <item quantity="two">%d مجموعات</item>
-        <item quantity="few">%d مجموعات</item>
-        <item quantity="many">%d مجموعة</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>
         <item quantity="zero">منذ %d دق</item>
@@ -335,14 +327,6 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d عنصر متبقي</item>
-        <item quantity="zero">%1$d عنصر متبقي</item>
-        <item quantity="one">%1$d عنصر متبقي</item>
-        <item quantity="two">%1$d عناصر متبقية</item>
-        <item quantity="few">%1$d عناصر متبقية</item>
-        <item quantity="many">%1$d عنصر متبقي</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">تم تحديد %1$d</item>
@@ -391,6 +375,14 @@
         <item quantity="two">تم إيجاد %d</item>
         <item quantity="few">تم إيجاد %d</item>
         <item quantity="many">تم إيجاد %d</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s نتيجة</item>
+        <item quantity="zero">%s نتيجة</item>
+        <item quantity="one">%s نتيجة</item>
+        <item quantity="two">%s نتائج</item>
+        <item quantity="few">%s نتائج</item>
+        <item quantity="many">%s نتيجة</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">حدد ما لا يزيد عن %1$d، لا يمكن تحدد الكل</item>

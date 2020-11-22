@@ -16,6 +16,14 @@
         <item quantity="few">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثواني…</item>
         <item quantity="many">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
     </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d متابع</item>
+        <item quantity="zero">%d متابع</item>
+        <item quantity="one">%d متابع</item>
+        <item quantity="two">%d متابعين</item>
+        <item quantity="few">%d متابعين</item>
+        <item quantity="many">%d متابع</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">سيتم عرض الترجمات قبل %.1f ثانية</item>
         <item quantity="zero">سيتم عرض الترجمات قبل %.1f ثانية</item>
@@ -47,6 +55,14 @@
         <item quantity="two">%d فيديوهات</item>
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">تبقى %s ثانية</item>
+        <item quantity="zero">تبقى %s ثانية</item>
+        <item quantity="one">تبقى %s ثانية</item>
+        <item quantity="two">تبقى %s ثواني</item>
+        <item quantity="few">تبقى %s ثواني</item>
+        <item quantity="many">تبقى %s ثانية</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
@@ -127,6 +143,30 @@
         <item quantity="two">%d فيديوهات</item>
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">انقر مرتين للرجوع %d دقيقة</item>
+        <item quantity="zero">انقر مرتين للرجوع %d دقيقة</item>
+        <item quantity="one">انقر مرتين للرجوع %d دقيقة</item>
+        <item quantity="two">انقر مرتين للرجوع %d دقائق</item>
+        <item quantity="few">انقر مرتين للرجوع %d دقائق</item>
+        <item quantity="many">انقر مرتين للرجوع %d دقيقة</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="zero">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="one">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="two">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
+        <item quantity="few">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
+        <item quantity="many">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s ثانية</item>
+        <item quantity="zero">%1$s ثانية</item>
+        <item quantity="one">%1$s ثانية</item>
+        <item quantity="two">%1$s ثواني</item>
+        <item quantity="few">%1$s ثواني</item>
+        <item quantity="many">%1$s ثانية</item>
     </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s مشترك</item>

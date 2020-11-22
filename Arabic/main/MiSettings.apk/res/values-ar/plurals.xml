@@ -80,6 +80,14 @@
         <item quantity="few">تم فتح القفل %d مرات</item>
         <item quantity="many">تم فتح القفل %d مرة</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">فُتح القفل %1$d مرة في %2$s</item>
+        <item quantity="zero">فُتح القفل %1$d مرة في %2$s</item>
+        <item quantity="one">فُتح القفل %1$d مرة في %2$s</item>
+        <item quantity="two">فُتح القفل %1$d مرات في %2$s</item>
+        <item quantity="few">فُتح القفل %1$d مرات في %2$s</item>
+        <item quantity="many">فُتح القفل %1$d مرة في %2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">تم فتح القفل %d مرة</item>
         <item quantity="zero">تم فتح القفل %d مرة</item>

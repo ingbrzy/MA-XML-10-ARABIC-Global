@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">احصل على المهام</string>
     <string name="HIPS_Perm_install_shortcut">إختصارات الشاشة الرئيسية</string>
     <string name="HIPS_Perm_install_shortcut_Desc">إضافة إختصارات الى الشاشة الرئيسية</string>
+    <string name="HIPS_Perm_mediaVolume">ضبط مستوى صوت الوسائط</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">السماح لتطبيق بضبط مستوى صوت الوسائط</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">الوصول إلى الأجهزة قرب حقل الاتصالات (NFC)</string>
     <string name="HIPS_Perm_process_outgoing_calls">الوصول الى تطبيق الهاتف</string>
@@ -117,6 +119,10 @@
     <string name="location_warning">%1$s هو مزود خدمات الموقع لهذا الجهاز. يمكن تعديل \"الوصول للموقع\" من إعدادات الموقع.</string>
     <string name="never_ask_again">لا تسأل مجددا بعد التقييد</string>
     <string name="ok">موافق</string>
+    <string name="perm_action_allow">موافق</string>
+    <string name="perm_action_deny">غير موافق</string>
+    <string name="perm_modem_location">الوصول إلى معلومات موقعك</string>
+    <string name="perm_modem_location_desc">تحاول شركة اتصالاتك الحصول على معلومات موقعك، هل توافق على مشاركة معلومات موقعك؟</string>
     <string name="permdesc_camera">أخذ صور وتسجيل فيديوهات</string>
     <string name="permdesc_in_calls">مراقبة المكالمات الواردة</string>
     <string name="permdesc_location">الوصول إلى معلومات الموقع</string>

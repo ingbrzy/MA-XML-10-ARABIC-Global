@@ -10,6 +10,14 @@
 اذهب إلى %s على جهاز آخر متصل."</string>
     <string name="loading">لحظة من فضلك…</string>
     <string name="mibi_license">اتفاقية المستخدم لرصيد Mi</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">حرر للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">لحظة من فضلك…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">تعذر تحميل العناصر</string>
     <string name="open_wifi_connect_and_use_data_summary">سوف تستمر في استخدام بيانات الهاتف. انقر للتبديل إلى شبكة Wi-Fi.</string>
     <string name="open_wifi_connect_summary">انقر لعرض تفاصيل.</string>
     <string name="open_wifi_connect_title">متصل بشبكة %1$s</string>

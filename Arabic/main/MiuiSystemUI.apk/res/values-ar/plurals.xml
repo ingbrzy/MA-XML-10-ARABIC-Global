@@ -249,12 +249,12 @@
         <item quantity="many">حاول مجددا بعد %d ثانية</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d مفتاح أعلى هذا الشرط مفعل</item>
-        <item quantity="zero">%1$d مفتاح أعلى هذا الشرط مفعل</item>
-        <item quantity="one">%1$d مفتاح أعلى هذا الشرط مفعل</item>
-        <item quantity="two">%1$d مفاتيح أعلى هذا الشرط مفعلة</item>
-        <item quantity="few">%1$d مفاتيح أعلى هذا الشرط مفعلة</item>
-        <item quantity="many">%1$d مفتاح أعلى هذا الشرط مفعل</item>
+        <item quantity="other">%1$d عنصر تحكم أعلى هذا الشرط مفعل</item>
+        <item quantity="zero">%1$d عنصر تحكم أعلى هذا الشرط مفعل</item>
+        <item quantity="one">%1$d عنصر تحكم أعلى هذا الشرط مفعل</item>
+        <item quantity="two">%1$d عناصر تحكم أعلى هذا الشرط مفعلة</item>
+        <item quantity="few">%1$d عناصر تحكم أعلى هذا الشرط مفعلة</item>
+        <item quantity="many">%1$d عنصر تحكم أعلى هذا الشرط مفعل</item>
     </plurals>
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d صفحة في النظرة العامة</item>

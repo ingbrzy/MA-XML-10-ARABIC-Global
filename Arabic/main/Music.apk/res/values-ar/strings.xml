@@ -61,7 +61,7 @@
     <string name="action_settings">الإعدادات</string>
     <string name="ad_close">إغلاق</string>
     <string name="ad_data_exception">خطأ في بيانات الإعلان</string>
-    <string name="ad_recommend">تلقي اقتراحات مخصصة لك</string>
+    <string name="ad_recommend">إظهار الإعلانات</string>
     <string name="ad_setting">الإعدادات الإضافية</string>
     <string name="add_music">إضافة اغاني</string>
     <string name="add_to_last_of_playlist">إضافة الى اخر قائمة التشغيل</string>
@@ -110,6 +110,8 @@
     <string name="artist_home_search_hint">البحث عن فنانين</string>
     <string name="artist_is_empty">لا يمكن أن يكون اسم الفنان فارغاً.</string>
     <string name="artist_name">الفنان</string>
+    <string name="audio_ad_countdown">يمكن تخطي الإعلان بعد %sث</string>
+    <string name="audio_ad_pass">تخطي الإعلان</string>
     <string name="audio_picker_title">اختر أغنية</string>
     <string name="auto_recommend">تلقائي (موصى به)</string>
     <string name="auto_sound_quality">تلقائي</string>
@@ -216,9 +218,14 @@
     <string name="dialog_renew_positive_text">نعم ، أرغب في الاستماع كمحترف</string>
     <string name="dialog_renew_success">شكرا لتأكيدك</string>
     <string name="dialog_score_btn_good">تقييم</string>
+    <string name="dialog_score_msg_score_explorer">هل أعجبك موسيقى Mi؟</string>
+    <string name="dialog_score_msg_score_not_good">هل يمكنك ترك تعليق أيضا؟</string>
+    <string name="dialog_score_msg_score_perfect">رائع! هل يمكنك أيضاً تقييم تطبيقنا في متجر Play؟</string>
     <string name="dialog_score_prompt_bad">شكرا لك على ملاحظاتك! سنعمل مافي وسعنا لتحسين التطبيق وخدماتنا.</string>
     <string name="dialog_score_prompt_good">شكرا لدعمك! هل يمكنك تقييم التطبيق في متجر Play؟</string>
     <string name="dialog_score_title">تقييم التطبيق</string>
+    <string name="dialog_score_toast_rate">قم بتقييم تطبيقنا أولاً</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">مرر لأسفل لتقييم التطبيق</string>
     <string name="dialog_song_sort_type">ترتيب الاغاني</string>
     <string name="dialog_song_sort_type_name">حسب الاسم</string>
     <string name="dialog_song_sort_type_playing_times">حسب عدد مرات التشغيل</string>
@@ -235,6 +242,7 @@
     <string name="dialog_title_queued_body">الملف غير متاح حتى الآن</string>
     <string name="dialog_title_remove_tracks">حذف</string>
     <string name="disallow_add_to_fm">لا يمكن إضافة الاغاني لراديو FM</string>
+    <string name="discover_more_music">اكتشف المزيد من الأغاني</string>
     <string name="do_not_remind_this_version">لا تذكرني بهذا الإصدار</string>
     <string name="do_not_support_google_voice_search">لا يتم دعم جهازك بحث Google الصوتي.</string>
     <string name="download">تحميل</string>
@@ -272,7 +280,9 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_queued">في قائمة الاستماع</string>
@@ -336,6 +346,7 @@
     <string name="error_not_support">غير مدعوم</string>
     <string name="exo_controls_fastforward_description">تقديم سريع</string>
     <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
+    <string name="exo_controls_hide">إخفاء عناصر التحكم بالمشغّل</string>
     <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
     <string name="exo_controls_pause_description">إيقاف مؤقت</string>
     <string name="exo_controls_play_description">تشغيل</string>
@@ -344,8 +355,11 @@
     <string name="exo_controls_repeat_off_description">عدم التكرار</string>
     <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
     <string name="exo_controls_rewind_description">إرجاع</string>
-    <string name="exo_controls_shuffle_description">ترتيب عشوائي</string>
+    <string name="exo_controls_show">عرض عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_shuffle_off_description">إيقاف الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_on_description">تفعيل الترتيب العشوائي</string>
     <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_controls_vr_description">وضع VR</string>
     <string name="exo_download_completed">اكتمل التنزيل</string>
     <string name="exo_download_description">تنزيل</string>
     <string name="exo_download_downloading">جارٍ التنزيل.</string>
@@ -353,7 +367,16 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
+    <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
+    <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">بديل</string>
+    <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
+    <string name="exo_track_role_commentary">التعليقات</string>
+    <string name="exo_track_role_supplementary">تكميلي</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -451,6 +474,8 @@
     <string name="individuation_cart_login_title">هل تريد المزيد من اقتراحات للأغاني؟</string>
     <string name="individuation_recommend_switch_message">سيؤدي إيقاف تشغيل هذه الميزة إلى التأثير على خدمات موسيقى Mi المخصصة. إيقاف التشغيل على أية حال؟</string>
     <string name="individuation_recommend_title">التوصيات</string>
+    <string name="individuation_setting_summary">تلقي توصيات بناء على اهتماتك</string>
+    <string name="individuation_setting_title">توصيات مخصصة</string>
     <string name="input_hint_prefix">أدخل %1$s</string>
     <string name="installing_apk">جارٍ التثبيت…</string>
     <string name="insufficient_space">لا توجد مساحة كافية على الذاكرة الداخلية بجهارك</string>
@@ -584,6 +609,7 @@
     <string name="my_playlist_create_self_playlist">أنشئ قوائم تشغيل للأغاني المفضلة لديك</string>
     <string name="my_playlist_set_to_private">خاص</string>
     <string name="my_playlist_set_to_public">عام</string>
+    <string name="network_disable">لا يمكن الاتصال بالشبكة</string>
     <string name="network_error_and_retry">تعذر الاتصال، انقر للمحاولة مجدداً</string>
     <string name="network_request_error">لا يمكن الاتصال بالشبكة</string>
     <string name="network_settings_error">لا يمكن الاتصال بالشبكة</string>
@@ -712,8 +738,22 @@
     <string name="preset_music_playlist">قائمة تشغيل موسيقى Mi</string>
     <string name="priority_storage">استخدام بطاقة ذاكرة SD خارجية</string>
     <string name="priority_storage_summary">تنزيل تلقائي لبطاقة الذاكرة SD الخارجية عند توفرها</string>
+    <string name="privacy_authorize_network_error">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
+    <string name="privacy_authorize_revoke_failed">تعذر إلغاء الترخيص</string>
+    <string name="privacy_authorize_revoke_success">تم إلغاء الترخيص بنجاح</string>
+    <string name="privacy_authorize_revoking">جارٍ إلغاء الترخيص…</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامية)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
+    <string name="privacy_request_desc">"&lt;Data>يحتاج موسيقى Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بخدمات البث عبر الإنترنت. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية لموسيقى Mi في أي وقت من الإعدادات.
+يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام موسيقى Mi.
+أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data>"</string>
+    <string name="privacy_request_subtitle">"مرحبا بك في موسيقى Mi! يقدم لك هذا التطبيق الخدمات التالية:
+
+- مشغل للملفات الصوتية المحلية
+
+- خدمات البث عبر الإنترنت"</string>
+    <string name="privacy_request_title">الأحكام والشروط</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
@@ -729,15 +769,20 @@
     <string name="recommended_no_file_size_download_in_mobile">استخدام اتصال بيانات الهاتف لتنزيل هذا الملف؟</string>
     <string name="remove">حذف</string>
     <string name="remove_download">حذف</string>
+    <string name="remove_user_privacy_dialog_message">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية موسيقى Mi، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن الخدمات الأساسية التي يقدمها موسيقى Mi تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بالخدمات التي تعمل على أساس جمع البيانات.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية موسيقى Mi، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن خدمات البث عبر الإنترنت التي يقدمها موسيقى Mi تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بمثل هذه الخدمات التي تعمل على أساس جمع البيانات.</string>
+    <string name="remove_user_privacy_dialog_title">سحب الموافقة</string>
     <string name="repeat_all_notif">تكرار جميع الاغاني.</string>
     <string name="repeat_current_notif">تكرار الأغنية الحالية.</string>
     <string name="request_overlay_permission_desc">اسمح لموسيقى Mi في إظهار النوافذ المنبثقة لتتمكن من استخدام هذه الخدمة.</string>
+    <string name="request_privacy_permission_title">يجب عليك قراءة وقبول الأحكام والشروط أدناه للوصول إلى جميع الخدمات.</string>
     <string name="request_share_info">لحظة من فضلك…</string>
     <string name="request_subscription_status">لحظة من فضلك…</string>
     <string name="restart_immediate">إعادة تشغيل</string>
     <string name="retry">حاول مجددا</string>
     <string name="retry_after_network_available">لا يمكن الاتصال بالشبكة. تحقق من الاتصال ثم حاول مرة أخرى.</string>
     <string name="retry_download">حاول مجدداً</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">لن تتم مزامنة الأغاني عبر الإنترنت إلى Hungama</string>
     <string name="ringtone_editing">محرر نغمة الرنين</string>
     <string name="ringtone_not_support">تنسيق الأغنية غير مدعوم</string>
     <string name="ringtone_selected">محدد</string>
@@ -815,10 +860,12 @@
     <string name="shuffle_music">تشغيل عشوائي</string>
     <string name="shuffle_off_notif">الوضع العشوائي متوقف.</string>
     <string name="shuffle_on_notif">الوضع العشوائي قيد التشغيل.</string>
+    <string name="shuffle_play_toast_text">جارٍ تشغيل الأغاني عشوائي…</string>
     <string name="similar_albums">البومات ذات صلة</string>
     <string name="similar_playlists">قوائم ذات صلة</string>
     <string name="similar_songs">أغاني مماثلة</string>
     <string name="similar_videos">فيديوهات مشابهة</string>
+    <string name="skip">تخطي</string>
     <string name="sleep_mode">مؤقت السكون</string>
     <string name="sleep_mode_canceled">تم إيقاف وضع السكون</string>
     <string name="sleep_mode_summary">إيقاف المشغل بعد وقت معين</string>
@@ -842,6 +889,8 @@
     <string name="start_to_check_new_version">جار التحقق من وجود تحديثات…</string>
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
+    <string name="start_update">جارٍ تثبيت اصدار جديد…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
@@ -890,6 +939,7 @@
     <string name="title_online_recommend">قوائم تشغيل مميزة</string>
     <string name="title_search_history">سجل البحث</string>
     <string name="title_search_hot">الاكثر شهرة</string>
+    <string name="toast_cant_commit_without_title">أدخل عنوان الأغنية</string>
     <string name="toast_download_error_by_count_limit">لقد قمت باستخدام حصص التحميل الخاصة بك لهذا الشهر.</string>
     <string name="toast_download_error_by_not_login">قم بتسجيل الدخول الى حساب Mi ثم حاول مجددا.</string>
     <string name="toast_download_error_by_vip_required">احصل على حزمة الأغاني المميزة لتنزيل هذه الأغنية.</string>
@@ -904,8 +954,13 @@
     <string name="toast_normal_songs_for_download">تم تعيين جودة التحميل إلى عادية</string>
     <string name="toast_normal_songs_for_stream">تم تعيين جودة التشغيل إلى عادية</string>
     <string name="toast_not_pro">تتوفر هذه الميزة فقط لأعضاء PRO.</string>
+    <string name="toast_playmode_loop_playback">تكرار قائمة التشغيل مشغل</string>
+    <string name="toast_playmode_shuffle_play">التشغيل العشوائي مشغل</string>
+    <string name="toast_playmode_single_cycle">تكرار الأغنية مشغل</string>
     <string name="toast_uhd_songs_for_download">تم تعيين جودة التحميل إلى عالية</string>
     <string name="toast_uhd_songs_for_stream">تم تعييين جودة التشغيل إلى عالية</string>
+    <string name="toast_will_play_list_when_ad_pause">سيتم تشغيل قائمة التشغيل بعد الإعلان</string>
+    <string name="toast_will_play_song_when_ad_pause">سيتم تشغيل هذه الأغنية بعد الإعلان</string>
     <string name="today">اليوم</string>
     <string name="top_chart_title">القوائم</string>
     <string name="track_play_history_after_login">سجل الدخول لعرض سجل الأغاني</string>
@@ -918,7 +973,20 @@
     <string name="upgrade_music">تحديث الموسيقى</string>
     <string name="upgrade_music_message">التحديثات جاهزة. قم بإعادة التشغيل للتحديث.</string>
     <string name="upgrading_in_backstage">جارٍ التحديث في الخلفية…</string>
+    <string name="upload_favorite_dialog_title">قم بمزامنة موسيقاك إلى Cloud واستمع لها من أي جهاز. يمكنك إيقاف تشغيل هذه الميزة من الإعدادات.</string>
+    <string name="upload_favorite_setting_summary">ستؤدي إضافة الأغاني عبر الإنترنت إلى المفضلة إلى تحميلها على Cloud وستتمكن من الوصول إليها على الأجهزة الأخرى</string>
+    <string name="upload_favorite_setting_title">مزامنة الأغاني</string>
+    <string name="upload_playlist_to_hungama_negative_text">لا تزامن</string>
+    <string name="upload_playlist_to_hungama_positive_text">مزامنة</string>
+    <string name="upload_playlist_to_hungama_title">مزامنة الأغاني عبر الإنترنت إلى Hungama والوصول إليها من أي جهاز قمت بتسجيل الدخول منه إلى حساب Mi.</string>
+    <string name="upload_playlist_to_hungama_toast">سيتم مزامنة الأغاني عبر الإنترنت إلى Hungama</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
+    <string name="user_privacy_dialog_negative_text">إلغاء</string>
+    <string name="user_privacy_dialog_positive_count_down_text">سحب (%s ث)</string>
+    <string name="user_privacy_dialog_positive_text">سحب</string>
+    <string name="user_privacy_setting_group_title">سحب الموافقة</string>
+    <string name="user_privacy_setting_title">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية موسيقى Mi.</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="version_info">الإصدار</string>

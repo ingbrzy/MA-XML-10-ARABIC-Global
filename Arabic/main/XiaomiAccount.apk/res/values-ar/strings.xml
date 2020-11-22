@@ -158,6 +158,7 @@
     <string name="confirm_unbundled_phone_dialog_message">رقم الهاتف %1$s مرتبط بحساب Mi %2$s. اذا قمت بالمتابعة لن يكون مرتبط مع حساب Mi %3$s. متابعة؟</string>
     <string name="continue_action">متابعة</string>
     <string name="copy">نسخ</string>
+    <string name="copy_to_clipboard_successful">تم النسخ بنجاح</string>
     <string name="delete_action">حذف</string>
     <string name="delete_bank_card_message">سيتم حذف بطاقة بنك دفع Mi وبطاقة NFC بعد تسجيل الخروج.</string>
     <string name="delete_bank_card_title">تنبيه</string>
@@ -358,6 +359,10 @@
     <string name="passport_get_verify_code">الحصول على رمز</string>
     <string name="passport_getting_activator_phone">جار الحصول على معلومات SIM…</string>
     <string name="passport_getting_verify_code">جارٍ الحصول</string>
+    <string name="passport_google_login">تسجيل الدخول بحساب Google المستخدم سابقًا؟</string>
+    <string name="passport_google_login_agree">حساب Google</string>
+    <string name="passport_google_login_disagree">حساب Mi</string>
+    <string name="passport_google_login_failed">لا يمكن تسجيل الدخول بحساب Google. سجل الدخول مباشرة باستخدام حساب Xiaomi.</string>
     <string name="passport_i_know">متابعة</string>
     <string name="passport_identification_expired">انتهت صلاحية رمز التحقق، ابدأ من جديد</string>
     <string name="passport_imei_permission_denied_message">نحن نطلب الإذن للحصول على رمز IMEI جهازك. حساب Mi يستخدم رمز IMEI للتعرف على الجهاز الذي قمت بتسجيل الدخول او التسجيل فيه، ايضا للمساعدة على إبقاء حساب Mi الخاص بك آمنا.</string>
@@ -480,7 +485,7 @@
     <string name="passport_uplink_slot1_reg">استخدام SIM 1</string>
     <string name="passport_uplink_slot2_reg">استخدام SIM 2</string>
     <string name="passport_use_generated_pwd_message">تأكد من أنك تتذكر كلمة المرور الخاصة بك. يمكنك استخدامه لتسجيل الدخول إلى خدمات Mi أخرى.</string>
-    <string name="passport_use_generated_pwd_title">تذكر كلمة المرور الخاصة بك!</string>
+    <string name="passport_use_generated_pwd_title">لا تنسى كلمة المرور!</string>
     <string name="passport_user_agreement">شروط الخدمة</string>
     <string name="passport_user_agreement_link">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href=%2$s>سياسة الخصوصية&lt;/a> لـ Xiaomi.&lt;/Data></string>
     <string name="passport_user_agreement_required">اتفاقية المستخدم (إلزامي)</string>

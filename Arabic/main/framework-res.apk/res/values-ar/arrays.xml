@@ -2,7 +2,7 @@
 <resources>
     <string-array name="emailAddressTypes">
         <item>المنزل</item>
-        <item>عمل</item>
+        <item>العمل</item>
         <item>آخر</item>
         <item>مخصص</item>
     </string-array>
@@ -55,7 +55,7 @@
         <item>‏شبكة افتراضية خاصة (VPN)</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>‏لإجراء مكالمات وإرسال رسائل عبر Wi-Fi، اطلب من مشغّل شبكة الجوّال أولاً إعداد هذه الخدمة، ثم شغّل الاتصال عبر Wi-Fi مرة أخرى من خلال الإعدادات. (رمز الخطأ: %1$s)</item>
+        <item>‏لإجراء مكالمات وإرسال رسائل عبر Wi-Fi، اطلب من مفعِّل شبكة الجوّال أولاً إعداد هذه الخدمة، ثم فعِّل الاتصال عبر Wi-Fi مرة أخرى من خلال الإعدادات. (رمز الخطأ: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>‏حدثت مشكلة أثناء تسجيل الاتصال عبر Wi‑Fi باستخدام مشغِّل شبكة الجوّال: %1$s</item>

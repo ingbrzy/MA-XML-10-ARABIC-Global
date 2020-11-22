@@ -644,6 +644,14 @@
         <item quantity="few">%d تطبيقات مقفلة</item>
         <item quantity="many">%d تطبيق مقفل</item>
     </plurals>
+    <plurals name="om_running_apps_num">
+        <item quantity="other">%d تطبيق</item>
+        <item quantity="zero">%d تطبيق</item>
+        <item quantity="one">%d تطبيق</item>
+        <item quantity="two">%d تطبيقات</item>
+        <item quantity="few">%d تطبيقات</item>
+        <item quantity="many">%d تطبيق</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="zero">+%d</item>

@@ -126,13 +126,6 @@
     <string name="dual_animation">تشغيل الرسوم المتحركة</string>
     <string name="dual_animation_description">عرض الرسوم المتحركة عند تشغيل التطبيقات المزدوجة</string>
     <string name="enable">تشغيل</string>
-    <string name="encrypt_space_delete_dialog_click_message">* إذا لم تكن بحاجة إلى نقل البيانات، %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">حذف وإنشاء الواجهة الثانية الآن.</string>
-    <string name="encrypt_space_delete_dialog_message">أنت على وشك تحديث النظام. بعد التحديث، ستصبح بيانات الواجهة الثانية غير متوافقة. لتجنب ذلك، انقل جميع البيانات إلى الواجهة الأولى، واحذف الواجهة الثانية وأنشئها مرة أخرى.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">نقل البيانات</string>
-    <string name="encrypt_space_delete_dialog_title">تنبيه</string>
-    <string name="encrypt_space_delete_notification_message">لتحديث الجهاز بنجاح، احذف المساحة الثانية وأنشئها مرة أخرى.</string>
-    <string name="encrypt_space_delete_notification_title">الواجهة الثانية</string>
     <string name="ent_activating">جارٍ التفعيل…</string>
     <string name="ent_activation">تفعيل</string>
     <string name="ent_activation_hint">أدخل رمز المؤسسة مع رمز الترخيص لتفعيل وضع المؤسسة. بعد ذلك، سيتم تفعيل خدمات الشركات المخصصة بعد ذلك.</string>
@@ -217,7 +210,6 @@
     <string name="guide_pwd_detail_title">"احمي بياناتك
 ادخل الواجهة الثانية من شاشة القفل"</string>
     <string name="guide_setting_guide_title">إدارة الواجهة الثانية</string>
-    <string name="guide_start_ads_text">مستوى حماية جديد كليا</string>
     <string name="guide_start_text">واجهتين. جهاز واحد.</string>
     <string name="has_created_second_space">"يمكنك فتح الواجهة الثانية الآن.
 واجهتين. جهاز واحد."</string>
@@ -255,6 +247,14 @@
     <string name="master_clear_not_available_ep">لا يسمح لك بإعادة ضبط إعدادات المصنع أو إلغاء الترخيص الآن. تواصل بمشرفك.</string>
     <string name="menu_item_about_privacy_title">سياسة الخصوصية</string>
     <string name="messageData">الرسائل</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">حرر للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">لحظة من فضلك…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">تعذر تحميل العناصر</string>
     <string name="more_settings">المزيد</string>
     <string name="msg_switch_file">حذف هذه الملفات من الواجهة الاولى بعد نقلها؟</string>
     <string name="msg_switch_file_second">حذف هذه الملفات من الواجهة الثانية بعد نقلها؟</string>
@@ -286,7 +286,6 @@
     <string name="openPasswordGuard">تعيين كلمة مرور الواجهة الثانية</string>
     <string name="openSuccess">تم التشغيل</string>
     <string name="opened">مشغّل</string>
-    <string name="optimize_now">تحسين</string>
     <string name="other">أخرى</string>
     <string name="otherSettings">إعدادات أخرى</string>
     <string name="passWordGuardSummary">الدخول إلى الواجهة الثانية من قفل الشاشة باستخدام كلمة المرور</string>
@@ -310,8 +309,6 @@
     <string name="remove_button">حذف</string>
     <string name="remove_button_time">حذف (%dث)</string>
     <string name="remove_second_space_msg">ستفقد جميع بيانات تطبيقات الواجهة الثانية بعد حذف الواجهة الثانية. حذف الواجهة الثانية الآن؟</string>
-    <string name="remove_user_click_message">* إذا لم يكن لديك أي عناصر مهمة في الواجهة الثانية، %s</string>
-    <string name="remove_user_click_message_action">يمكنك حذف الواجهة الثانية وإعادة تشغيل الجهاز الآن.</string>
     <string name="removingSpace">جارٍ الحذف…</string>
     <string name="repeat_scanner_fingerprint">إضافة مرة أخرى</string>
     <string name="reset_passwd_success">تم إعادة تعيين كلمة المرور بنجاح</string>
@@ -335,14 +332,6 @@
     <string name="scanner_fingerprint_tips_desc">اختر بصمة اصبع موجودة للدخول إلى الواجهة الثانية. لن تتمكن من استخدامها في الواجهة الاولى.</string>
     <string name="scanner_fingerprint_tips_title">الدخول إلى الواجهة الثانية بإستخدام بصمة اصبع موجود مسبقا</string>
     <string name="scanner_second_space_fingerprint">مسح بصمة اصبع الواجهة الثانية</string>
-    <string name="sdcardfs_dialog_message">يتضمن هذا التحديث ملف نظام جديد وقد تكون البيانات القديمة غير متوافقة معه. لحل هذه المشكلة، اتبع الخطوات لتثبيت التحديث. سيتم إعادة تشغيل جهازك مرتين أثناء التحديث.</string>
-    <string name="sdcardfs_dialog_title">تحديث مهم</string>
-    <string name="sdcradfs_dialog_in_owner_message">"يتضمن هذا التحديث ملف نظام جديد وقد تكون البيانات القديمة غير متوافقة معه. للتحديث، قم بنقل العناصر من الواجهة الثانية، ثم إعد تشغيل الجهاز ومن ثم إنشىء الواجهة الثانية مرة أخرى.
-إذا لم تقم بالتحديث، قد لا تعمل التطبيقات المزدوجة بشكل صحيح."</string>
-    <string name="sdcradfs_dialog_in_owner_title">الواجهة الثانية</string>
-    <string name="sdcradfs_dialog_in_sec_message">"للتحديث، يجب عليك حذف الواجهة الثانية وإنشاءها مرة أخرى. قم بنقل البيانات من الواجهة الثانية إلى الواجهة الأولى ومن ثم إعد تشغيل الجهاز لإكمال التحديث.
-إذا لم تقم بالتحديث، فقد لا تعمل التطبيقات المزدوجة بشكل صحيح."</string>
-    <string name="sdcradfs_dialog_in_sec_title">تحديث مهم</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">البحث</string>
     <string name="search_result_text">تعذر العثور على أية تطبيقات</string>
@@ -353,6 +342,8 @@
     <string name="second_space_desktop_tips_dialog_title">تحديث مهم</string>
     <string name="second_space_finger_printf_desc">إضافة بصمة اصبع خاصة للدخول إلى الواجهة الثانية</string>
     <string name="second_space_finger_printf_title">بصمة اصبع الواجهة الثانية</string>
+    <string name="secondspace_homepage">"قم بتعيين قفل شاشة مخصص للواجهة الثانية.
+افصل بياناتك وقم بتأمينها."</string>
     <string name="select_existed_fingerprint">تحديد بصمة اصبع</string>
     <string name="serNameSummary">الواجهة الثانية</string>
     <string name="setSecondSpacePassword">تعيين كلمة مرور الواجهة الثانية</string>
@@ -410,7 +401,6 @@
     <string name="space_create_guide_title_1">حماية خصوصيتك</string>
     <string name="space_create_guide_title_2">إنشاء في أي وقت</string>
     <string name="space_create_guide_title_3">خالية تماما من المخاطر</string>
-    <string name="space_created_success">تم إنشاء الواجهة الثانية بنجاح</string>
     <string name="space_deleted">لقد تم حذف هذه الواجهة</string>
     <string name="space_des_default">واجهة منعزلة مع بيانات مشفرة</string>
     <string name="space_finger_sub_text">تعيين بصمة إصبع للواجهة الثانية للتبديل أسرع</string>
@@ -427,7 +417,6 @@
     <string name="stop_xspace_alert_title">حذف حسابات التطبيقات المزدوجة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_switch_apps_settings">تحديد التطبيقات المستخدمة في الواجهة الحالية</string>
-    <string name="support_desc">خدمات الحماية مقدمة من طرف Spaces Mobile</string>
     <string name="sure_to_use">تأكيد</string>
     <string name="switchDataSummary">نقل عناصر بين الواجهتين</string>
     <string name="switch_apps_settings">إعدادات التطبيق</string>

@@ -20,6 +20,12 @@
         <item>نسخ الإعدادات الهامة احتياطياََ، بما في ذلك إعدادات Wi-Fi والشاشة</item>
         <item>قفل الجهاز عن بعد إذا فقدتة</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>مزامنة بيانات التطبيق</item>
         <item>نسخ تنسيق الشاشة الرئيسية احتياطياً</item>
@@ -98,6 +104,11 @@
         <item>تشغيل المزامنة</item>
         <item>منصة التطبيقات;بطاقات;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>مزامنة الردود السريعة</item>
+        <item>تشغيل المزامنه</item>
+        <item>الردود السريعة;ردود;محرر;حافظه;حافظة;Cloud;خدمات Cloud;كلاود;شاومي;خدمات شاومي;الردود السريعه</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>مزامنة التسجيلات مع Xiaomi Cloud</item>
         <item>تشغيل/إعداد المزامنة</item>
@@ -114,9 +125,9 @@
         <item>Cloud;نسخ احتياطي;نسخة احتياطية;خدمات Cloud;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>مزامنة الحماية مع Xiaomi Cloud</item>
+        <item>مزامنة Cloud للحماية</item>
         <item>تشغيل المزامنة</item>
-        <item>أمان;امان;حماية;الحماية;المسجل;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
+        <item>أمان;امان;حماية;الحماية;المسجل;Cloud;مزامنة;خدمات Cloud;كلاود;شاومي;خدمات شاومي;حماية</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>مزامنة الرسائل مع Xiaomi Cloud</item>
@@ -135,6 +146,11 @@
     </string-array>
     <string-array name="settings_search_wlan">
         <item>مزامنة إعدادات Wi-Fi مع Xiaomi Cloud</item>
+        <item>تشغيل المزامنة</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
         <item>تشغيل المزامنة</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
     </string-array>

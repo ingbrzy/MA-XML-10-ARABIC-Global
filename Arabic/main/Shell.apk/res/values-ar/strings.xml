@@ -2,7 +2,7 @@
 <resources>
     <string name="app_label">Shell</string>
     <string name="bugreport_add_details_to_zip_failed">‏تعذرت إضافة تفاصيل تقرير الخطأ إلى ملف Zip</string>
-    <string name="bugreport_confirm">تحتوي تقارير الأخطاء على بيانات من عدة ملفات سجلات في النظام، بما في ذلك بيانات قد ترى أنها حساسة (مثل بيانات استخدام التطبيقات وبيانات الموقع). ولذلك احرص على عدم مشاركة تقارير الأخطاء إلا مع من تثق به من الأشخاص والتطبيقات.</string>
+    <string name="bugreport_confirm">تحتوي تقارير الأخطاء على بيانات من عدة ملفات سجلات في النظام، بما قد يشمل بيانات تعتبرها حساسة (مثل بيانات استخدام التطبيقات وبيانات الموقع الجغرافي). ولذلك احرص على عدم مشاركة تقارير الأخطاء إلا مع من تثق به من الأشخاص والتطبيقات.</string>
     <string name="bugreport_confirm_dont_repeat">عدم الإظهار مرة أخرى</string>
     <string name="bugreport_finished_pending_screenshot_text">انقر لمشاركة تقرير الأخطاء بدون لقطة شاشة أو انتظر حتى انتهاء لقطة الشاشة</string>
     <string name="bugreport_finished_text">انقر لمشاركة تقرير الخطأ.</string>

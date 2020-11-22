@@ -35,6 +35,11 @@
     <string name="close_panel">إيقاف كرة الاختصارات</string>
     <string name="copy">نسخ</string>
     <string name="customize_entries">تحديد اختصارات</string>
+    <string name="edge_distance_pref_summary">النقر على مناطق تفعيل كرة الاختصارات القريبة من حواف الشاشة لإظهارها</string>
+    <string name="edge_distance_pref_title">مناطق التفعيل</string>
+    <string name="edge_mode_custom_summary">اضبط حجم مناطق تفعيل كرة الاختصارات بالقرب من حواف الشاشة</string>
+    <string name="edge_mode_custom_title">تخصيص</string>
+    <string name="edge_mode_default_title">الافتراضية</string>
     <string name="enable_touch_assistant">تشغيل كرة الاختصارات</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="function_settings">إعدادات الاختصار</string>
@@ -67,6 +72,7 @@
     <string name="name_trans_cards">بطاقة المواصلات</string>
     <string name="name_wechat_payment_code">دفع WeChat</string>
     <string name="name_wechat_scan">ماسح WeChat</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">دفع Mi غير مفعل</string>
     <string name="nfc_trans_card_not_in_use">بطاقة المواصلات هذه غير مفعلة</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>

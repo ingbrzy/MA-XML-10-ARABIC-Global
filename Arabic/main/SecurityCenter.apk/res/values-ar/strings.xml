@@ -161,9 +161,9 @@
     <string name="antivirus_none_engine_dialog_ok">موافق</string>
     <string name="antivirus_not_wlan">أنت غير متصل بشبكة Wi-Fi. قد يؤدي استخدام بيانات الهاتف إلى فرض رسوم إضافية. هل تريد المتابعة على أي حال؟</string>
     <string name="antivirus_privacy_dialog_cloudscan">تحميل أسماء وتفاصيل التطبيقات</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">تحميل وفحص أسماء وتفاصيل التطبيقات باستخدام تعريفات الفيروسات عبر الإنترنت.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">للكشف عن الفيروسات وتحييدها بشكل أكثر كفاءة ، سنقوم بتحميل أسماء حزم التطبيقات وخصائصها عند فحص الجهاز للبحث عن فيروسات.</string>
     <string name="antivirus_privacy_dialog_ok">موافق</string>
-    <string name="antivirus_privacy_dialog_summary">تعمل هذه الميزة على تشفير معرف جهازك وتحميله إلى خوادم Avast وAVL وTencent (%s).</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>يتم تشغيل هذه الميزة بواسطة محرك حماية من الفيروسات تابع لجهة خارجية. اقرأ &lt;a href=\"%1$s\">اتفاقية الترخيص&lt;/a>للجهات الخارجية لمزيد من المعلومات</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">سياسة الخصوصية</string>
     <string name="antivirus_privacy_dialog_title">سياسة الخصوصية</string>
     <string name="antivirus_sec_network_unavailable">لا يمكن لتطبيق الحماية التحديث لأنك قمت بتقييد إتصال الإنترنت. هل تريد السماح للحماية الاتصال بالإنترنت؟</string>
@@ -288,6 +288,8 @@
     <string name="app_behavior_start_from_notification_single">شُغل هذا التطبيق بواسطة إشعار</string>
     <string name="app_behavior_start_from_recent">شُغل %1s من شاشة المستخدم مؤخرا</string>
     <string name="app_behavior_start_from_recent_single">شُغل هذا التطبيق من شاشة المستخدم مؤخرا</string>
+    <string name="app_behavior_start_from_widget">%1s was launched by a widget</string>
+    <string name="app_behavior_start_from_widget_single">This app was launched by a widget</string>
     <string name="app_behavior_storage">قام تطبيق %1s بالوصول إلى الملفات أو حفظها</string>
     <string name="app_behavior_storage_bg">قام تطبيق %1s في الخلفية بالوصول إلى الملفات أو حفظها</string>
     <string name="app_behavior_storage_bg_single">قام هذا التطبيق في الخلفية بالوصول إلى الملفات أو حفظها</string>
@@ -310,7 +312,7 @@
     <string name="app_install_tips_install_success">تم تثبيت %1$s بنجاح</string>
     <string name="app_manager_advanced_setting">الإعدادات المتقدمة</string>
     <string name="app_manager_allow">نعم</string>
-    <string name="app_manager_anomaly_analysis">Analyze third party app problems</string>
+    <string name="app_manager_anomaly_analysis">تحليل مشاكل تطبيقات الجهة الخارجية</string>
     <string name="app_manager_app_ifno_version">إصدار التطبيق</string>
     <string name="app_manager_app_info_label">معلومات التطبيق</string>
     <string name="app_manager_app_info_name">اسم التطبيق</string>
@@ -764,6 +766,7 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">إنشاء</string>
     <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
     <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
@@ -966,6 +969,7 @@
     <string name="doze_optimization_title">تحسين التحكم باللمس</string>
     <string name="dual_setting_simcard1">1 SIM</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty_app">لا توجد تطبيقات</string>
     <string name="empty_title_auto_start_list">لا توجد تطبيقات تستطيع التشغيل تلقائيا.</string>
@@ -1017,7 +1021,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -1123,6 +1129,13 @@
     <string name="first_aid_scanning_item4">جارٍ التحقق من مشاكل البطارية…</string>
     <string name="first_aid_scanning_item5">جارٍ التحقق من مشاكل أخرى…</string>
     <string name="first_aid_stop_scan">إيقاف الفحص</string>
+    <string name="first_settings_default_camera_title">مشاركة بدون البيانات الوصفية افتراضيًا</string>
+    <string name="first_settings_default_location_subtitle">إزالة معلومات الموقع من الصور المشاركة</string>
+    <string name="first_settings_default_location_title">مشاركة بدون معلومات الموقع افتراضيًا</string>
+    <string name="first_settings_share_enable">إضافة شارة \"المشاركة الآمنة\"</string>
+    <string name="first_settings_share_enable_subtitle">ستظهر العناصر المشاركة على WeChat في شارة MIUI</string>
+    <string name="first_settings_subtitle">إليك خيارات المشاركة الآمنة المتاحة لك:</string>
+    <string name="first_settings_title">احمي خصوصيتك</string>
     <string name="five_percent_total_pkg">%s (٥%% من البيانات شهرية)</string>
     <string name="fod_authentication_shift_button">إلغاء</string>
     <string name="fod_button_finger">استخدام بصمة الاصبع</string>
@@ -1149,10 +1162,9 @@
     <string name="free_traffic_settings">إعدادات استخدام البيانات خارج أوقات الذروة</string>
     <string name="function_close">متوقّف</string>
     <string name="function_gwsd_detail">"حول هذه الميزة:
- ١. لن تقطع المكالمات الواردة إلى بطاقة SIM اتصال بيانات الهاتف. وسيتم قطع الاتصال فقط إذا قمت بالرد على مكالمة واردة.
- ٢. عند تشغيل الميزة، لن يسمع المتصل نغمات انتظار المكالمات. وسيتم رفض المكالمة تلقائيًا في حالة عدم الرد عليها خلال ٦ ثواني.
- ٣. تعمل هذه الميزة على بطاقات SIM للبيانات فقط. وستظل المكالمات الواردة إلى بطاقة SIM الأساسية بقطع اتصال بيانات الهاتف..
- ٤. هذه الميزة مدعومة فقط من قِبل China Mobile و China Unicom."</string>
+ ١. إذا كنت تستخدم اتصال بيانات الهاتف على بطاقة إنترنت أو بطاقة SIM عادية متصلة بشبكة VoLTE، فلن يتم قطع هذا الاتصال عند تلقي مكالمات واردة إلا في حالة ردك على المكالمة. 
+ ٢. عند تشغيل الميزة، لن يسمع المتصل نغمات انتظار المكالمات إلا إذا كنت تستخدم بطاقة SIM عادية. وسيتم رفض المكالمات الواردة تلقائيًا بعد ٧-١٠ ثواني من عدم النشاط.
+ ٣. يتم دعم بطاقات الإنترنت الصادرة من تشاينا موبايل وتشاينا يونيكوم. ويتم دعم بطاقات SIM العادية من تشاينا موبايل وتشاينا يونيكوم وتشاينا تيلكوم."</string>
     <string name="function_gwsd_title">لا تسمح للمكالمات الواردة بقطع اتصال بطاقة SIM للبيانات</string>
     <string name="function_shield_auto_bright">إيقاف تشغيل السطوع التلقائي</string>
     <string name="function_shield_eye_shield">إيقاف تشغيل وضع القراءة</string>
@@ -1333,7 +1345,7 @@
     <string name="gb_xunyou_gift_type_one">محسن السرعة Xunyou (١ يوم)</string>
     <string name="gb_xunyou_gift_type_three">محسن السرعة Xunyou (٣ أيام)</string>
     <string name="gb_xunyou_gift_type_two">محسن السرعة Xunyou (٢ أيام)</string>
-    <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الهاتف، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a> لدينا.&lt;/Data></string>
+    <string name="gdpr_msg"><Data>للكشف عن مخاطر الأمان وضمان حماية بياناتك، يتطلب هذا التطبيق موافقتك على جمع بيانات معينة حول جهازك. يرجى قراءة والموافقة على &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a> قبل استخدام خدماتنا. إذا اخترت عدم الموافقة على جمع المعلومات المذكورة أعلاه، فستظل قادرًا على استخدام التطبيق ولكن بعض الميزات لن تكون متاحة. </Data></string>
     <string name="get_sys_info">جار الحصول على المعلومات…</string>
     <string name="gigabyteShort">جيجابايت</string>
     <string name="global_wa_setting_alert_dialog_content">يمكنك تفريغ مايصل إلى %s</string>
@@ -1392,8 +1404,15 @@
     <string name="gs_show_way_vertical">عمودي</string>
     <string name="gs_sign_notification">التذكير بتسجيل الدخول في الساعة ٨ مساء يومياً</string>
     <string name="gs_slip_gamebox_detail">استخدم شريط التمرير أو التمرير السريع من أعلى حافة الشاشة لفتح لوحة الاختصار</string>
+    <string name="gtb_dialog_btn_close">إيقاف</string>
+    <string name="gtb_dialog_btn_open">تشغيل</string>
+    <string name="gtb_dialog_hint_smart_5g">يمكنك تشغيل هذه الميزة أو إيقافها من مسرع الألعاب > الإعدادات.</string>
+    <string name="gtb_dialog_summary_smart_5g">عندما يكتشف مسرع الألعاب شبكة 5G، فأنه يقوم بتوصيل جهازك بأفضل شبكة متاحة لتقليل تأخير اللعبة. هل ترغب في تشغيل هذه الميزة الآن؟</string>
+    <string name="gtb_dialog_title_smart_5g">تحسين شبكة 5G</string>
     <string name="gtb_exit_game_to_gtb">فتح صندوق الألعاب</string>
     <string name="gtb_exit_game_to_home">الرجوع للشاشة الرئيسية</string>
+    <string name="gtb_setting_item_summary_smart_5g">عندما يكتشف مسرع الألعاب شبكة 5G، فأنه يقوم بتوصيل جهازك بأفضل شبكة متاحة لتقليل تأخير اللعبة وموازنة عمر البطارية</string>
+    <string name="gtb_setting_item_title_smart_5g">تحسين شبكة 5G</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>شركة الاتصالات خاطئة؟&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"شركة الاتصالات الحالية: "</string>
     <string name="guide_quck_open">تشغيل</string>
@@ -1484,6 +1503,7 @@
     <string name="list_empty_text">فارغ</string>
     <string name="load_only_under_wlan">تحميل بإستخدام Wi-Fi فقط</string>
     <string name="loading">لحظة من فضلك…</string>
+    <string name="loading_text_format" formatted="false">جارٍ إزالة المعلومات الخاصة من الصور (%d/%d)…</string>
     <string name="local_ip_exception_summary">تعذر الحصول على عنوان IP محلي. لإبلاغ MIUI بهذه المشكلة، اذهب إلى تطبيق \"التعليقات\" وأرسل تقريرا من جهازك.</string>
     <string name="lock_all_title">قفل جميع التطبيقات</string>
     <string name="lock_mode_title">إعدادات القفل</string>
@@ -1612,6 +1632,7 @@
     <string name="memory_check_content">حررت %s</string>
     <string name="memory_clean_memory_size_tip">ذاكرة التخزين المؤقت</string>
     <string name="memory_clean_no_need_clean">كل شيء يبدو جيداً</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">تم تفريغ %s من المساحة. جهازك الآن أسرع بنسبة %d%%.</string>
     <string name="memory_clear_unused">حذف ذاكرة التخزين المؤقت (%s)</string>
     <string name="memory_title">المتوفر: : %1$s\u0009\u0009الإجمالي: %2$s</string>
     <string name="menu_add">إضافة</string>
@@ -1652,11 +1673,14 @@
     <string name="menu_summary_antivirus">البحث عن فيروسات على جهازك</string>
     <string name="menu_summary_app_manager">تحديث وإلغاء تثبيت التطبيقات</string>
     <string name="menu_summary_garbage_cleanup">لا توجد مهملات</string>
-    <string name="menu_summary_garbage_cleanup_ex">تنظيف %s من مهملات</string>
+    <string name="menu_summary_garbage_cleanup_ex">تفريغ %s من مساحة التخزين</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% من مساحة التخزين</string>
     <string name="menu_summary_networkassistants">إدارة خطة بياناتك</string>
     <string name="menu_summary_networkassistants_2">تم تجاوز الحد</string>
     <string name="menu_summary_networkassistants_3">بيانات كافية</string>
     <string name="menu_summary_networkassistants_4">البيانات على وشك النفاذ</string>
+    <string name="menu_summary_optimize_manage">تنظيف الذاكرة</string>
+    <string name="menu_summary_optimize_manage_1">اجعل جهازك اسرع بنسبة %d%%</string>
     <string name="menu_summary_power_manager">يمنحك موفر البطارية مزيدًا من الوقت بين فترات الشحن</string>
     <string name="menu_summary_power_manager_1">البطارية مشحونة بالكامل</string>
     <string name="menu_summary_power_manager_2">%s متبقي</string>
@@ -1665,16 +1689,20 @@
     <string name="menu_text_antispam">قائمة الحظر</string>
     <string name="menu_text_antivirus">فحص الحماية</string>
     <string name="menu_text_garbage_cleanup">المنظف</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
     <string name="menu_text_networkassistants_unit_kb">ك.ب</string>
     <string name="menu_text_networkassistants_unit_mb">م.ب</string>
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
+    <string name="menu_text_optimize_manage_1">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية والأداء</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_service_app_detail">تفاصيل استخدام البيانات</string>
@@ -1824,8 +1852,8 @@
     <string name="numeric_recording_intro_header">ادخل كلمة المرور</string>
     <string name="numeric_retry_button_text">إلغاء</string>
     <string name="numeric_settings_help_how_to_record">كيفية تعيين رمز PIN</string>
-    <string name="oaid_reset_content_tip">If you turn off virtual ID now, some apps might stop working properly, a part of your app data might be lost or become unusable.</string>
-    <string name="oaid_reset_final_tip">Turn off virtual ID anyway?</string>
+    <string name="oaid_reset_content_tip">إذا قمت بإيقاف تشغيل الهوية الافتراضية الآن، فقد تتوقف بعض التطبيقات عن العمل بشكل صحيح، أو قد تفقد بعض بيانات التطبيق، أو قد تكون غير قابلة للاستخدام.</string>
+    <string name="oaid_reset_final_tip">متابعة إيقاف تشغيل الهوية الافتراضية؟</string>
     <string name="ok">موافق</string>
     <string name="ok_button">موافق</string>
     <string name="old_sdk_deny_warning">التطبيق غير متوافق مع أحدث متطلبات إذن Android. رفض الأذونات قد يؤثر على طريقة عمل هذا التطبيق.</string>
@@ -1834,6 +1862,8 @@
     <string name="om_locked_apps_summary">سيتم تجاهل التطبيقات المقفلة من قِبل مسرّع الألعاب.</string>
     <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_not_finish_speedboost">زيادة السرعة مطلوبه</string>
+    <string name="om_optimzing_big_button_text">زيادة السرعة</string>
+    <string name="om_running_app_info_summary">يمكن تفريغ %s</string>
     <string name="om_running_locked_apps">التطبيقات المشغلة المقفلة</string>
     <string name="om_running_system_apps">تطبيقات النظام المشغلة</string>
     <string name="om_running_third_apps">التطبيقات الخارجية المشغلة</string>
@@ -1848,6 +1878,13 @@
     <string name="om_settings_notify_manage">الإشعارات</string>
     <string name="om_settings_speed_up_auto">زيادة السرعة تلقائياً</string>
     <string name="om_settings_title">الإعدادات</string>
+    <string name="om_shortcut_added_toast_text">تمت الإضافة بنجاح</string>
+    <string name="om_shortcut_dialog_summary">يساعدك RAM Jet بتفريغ مساحة في الذاكرة وزيادة سرعة الجهاز بنقرة واحدة فقط. هل ترغب في إضافتة لشاشتك الرئيسية؟</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">مشاركة بدون البيانات الوصفية</string>
+    <string name="once_settings_location_title">مشاركة بدون معلومات الموقع</string>
+    <string name="once_settings_subtitle">كيف تريد مشاركة العناصر المحددة؟</string>
+    <string name="once_settings_title">حماية الخصوصية</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">لم يتم العثور على التطبيق</string>
     <string name="open_app">فتح</string>
@@ -2054,6 +2091,11 @@
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيقوم MIUI بالتحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -2230,6 +2272,7 @@
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -2393,6 +2436,7 @@
     <string name="privacy_using_record">تسجيل الصوت</string>
     <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
     <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_vpnsdkmanager_label">مسرع الألعاب</string>
     <string name="promotion">اعلان</string>
@@ -2531,10 +2575,18 @@
     <string name="settings">إعدادات استخدام البيانات</string>
     <string name="settings_battery_consume_abnormal_summary">تلقي شعارات عندما يتم استنزاف البطارية بسرعة</string>
     <string name="settings_battery_consume_abnormal_title">إشعارات استنزاف البطارية</string>
+    <string name="settings_camera_subtitle_no">لا توجد بيانات وصفية</string>
     <string name="settings_category_other">إعدادات أخرى</string>
     <string name="settings_category_overheat">الحرارة الزائدة</string>
     <string name="settings_choice_no_notification">إيقاف</string>
+    <string name="settings_image_camera_summary">طراز الجهاز والبيانات الوصفية وإلخ.</string>
+    <string name="settings_location_subtitle_no">لا توجد معلومات عن الموقع</string>
     <string name="settings_power_save_ontime_title">جدولة</string>
+    <string name="settings_share_enable_summary">ستظهر العناصر المشاركة على WeChat في شارة MIUI</string>
+    <string name="settings_share_info">إليك خيارات المشاركة الآمنة المتاحة للعناصر المشاركة من المعرض ومدير الملفات:</string>
+    <string name="settings_show_detail">عرض التفاصيل</string>
+    <string name="settings_tip">انتقل إلى المعرض > الإعدادات لعرض المزيد من الخيارات</string>
+    <string name="settings_title">مشاركة آمنة</string>
     <string name="shield_keyboard_detail">انقر مرتين على الأزرار لتشغيلهم مرة أخرى</string>
     <string name="shield_keyboard_summary">تقييد الأزرار وإيماءات ملء الشاشة أثناء الألعاب</string>
     <string name="shield_keyboard_title">تقييد الأزرار والإيماءات</string>
@@ -2996,6 +3048,8 @@
     <string name="text_button">فهمت</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
+    <string name="text_done">موافق</string>
+    <string name="text_security">الخصوصية</string>
     <string name="thermal_tips_message">قد يؤدي لعب الألعاب في وضع الأداء إلى مشاكل زيادة السخونة.</string>
     <string name="thermal_tips_title">تنبيه</string>
     <string name="third_application">التطبيقات المثبتة</string>

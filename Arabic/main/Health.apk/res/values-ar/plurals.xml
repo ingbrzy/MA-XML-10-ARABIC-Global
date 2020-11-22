@@ -104,6 +104,22 @@
         <item quantity="few">%1$d أيام</item>
         <item quantity="many">%1$d يوم</item>
     </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Period duration: %1$d days</item>
+        <item quantity="zero">Period duration: %1$d days</item>
+        <item quantity="one">Period duration: %1$d day</item>
+        <item quantity="two">Period duration: %1$d days</item>
+        <item quantity="few">Period duration: %1$d days</item>
+        <item quantity="many">Period duration: %1$d days</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Cycle duration: %1$d days</item>
+        <item quantity="zero">Cycle duration: %1$d days</item>
+        <item quantity="one">Cycle duration: %1$d day</item>
+        <item quantity="two">Cycle duration: %1$d days</item>
+        <item quantity="few">Cycle duration: %1$d days</item>
+        <item quantity="many">Cycle duration: %1$d days</item>
+    </plurals>
     <plurals name="dialog_choose_items">
         <item quantity="other">Selected %1$d items</item>
         <item quantity="zero">Selected %1$d items</item>
@@ -192,6 +208,14 @@
         <item quantity="few">%1$d steps</item>
         <item quantity="many">%1$d steps</item>
     </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d cycles</item>
+        <item quantity="zero">%1$d cycles</item>
+        <item quantity="one">%1$d cycle</item>
+        <item quantity="two">%1$d cycles</item>
+        <item quantity="few">%1$d cycles</item>
+        <item quantity="many">%1$d cycles</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -255,6 +279,14 @@
         <item quantity="two">الآن</item>
         <item quantity="few">الآن</item>
         <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Period will likely start in %1$d days</item>
+        <item quantity="zero">Period will likely start in %1$d days</item>
+        <item quantity="one">Period will likely start in %1$d day</item>
+        <item quantity="two">Period will likely start in %1$d days</item>
+        <item quantity="few">Period will likely start in %1$d days</item>
+        <item quantity="many">Period will likely start in %1$d days</item>
     </plurals>
     <plurals name="menstruation_sum_days">
         <item quantity="other">%1$d يوم للدورة الشهرية</item>
@@ -479,6 +511,54 @@
         <item quantity="two">"  أيام"</item>
         <item quantity="few">"  أيام"</item>
         <item quantity="many">"  يوم"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" cycles"</item>
+        <item quantity="zero">" cycles"</item>
+        <item quantity="one">" cycle"</item>
+        <item quantity="two">" cycles"</item>
+        <item quantity="few">" cycles"</item>
+        <item quantity="many">" cycles"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="zero">" hrs "</item>
+        <item quantity="one">" hr "</item>
+        <item quantity="two">" hrs "</item>
+        <item quantity="few">" hrs "</item>
+        <item quantity="many">" hrs "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" hours "</item>
+        <item quantity="zero">" hours "</item>
+        <item quantity="one">" hour "</item>
+        <item quantity="two">" hours "</item>
+        <item quantity="few">" hours "</item>
+        <item quantity="many">" hours "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" mins "</item>
+        <item quantity="zero">" mins "</item>
+        <item quantity="one">" min "</item>
+        <item quantity="two">" mins "</item>
+        <item quantity="few">" mins "</item>
+        <item quantity="many">" mins "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minutes "</item>
+        <item quantity="zero">" minutes "</item>
+        <item quantity="one">" minute "</item>
+        <item quantity="two">" minutes "</item>
+        <item quantity="few">" minutes "</item>
+        <item quantity="many">" minutes "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" secs "</item>
+        <item quantity="zero">" secs "</item>
+        <item quantity="one">" sec "</item>
+        <item quantity="two">" secs "</item>
+        <item quantity="few">" secs "</item>
+        <item quantity="many">" secs "</item>
     </plurals>
     <plurals name="unit_times">
         <item quantity="other">" times"</item>
