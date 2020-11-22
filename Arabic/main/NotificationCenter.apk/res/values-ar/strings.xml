@@ -85,6 +85,7 @@
     <string name="settings_guide_title">تحتاج إلى إعدادات أخرى؟</string>
     <string name="show_badge_notifications">شارات الإشعارات</string>
     <string name="show_badge_notifications_short">الشارات</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">شريط الحالة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_disable_float_notification">الإشعارات العائمة غير مسموح بها</string>
