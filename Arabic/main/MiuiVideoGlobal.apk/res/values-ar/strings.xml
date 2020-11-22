@@ -123,7 +123,6 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
@@ -677,7 +676,6 @@
     <string name="off_tip_firework_recommend">لن تتلقى توصيات مخصصة للمحتوى من Firework</string>
     <string name="ok">موافق</string>
     <string name="on_tip_firework_recommend">ستتلقى توصيات مخصصة للمحتوى من Firework</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">الاشتركات الاخيرة</string>
     <string name="order_recently_updated">محدث مؤخرا</string>
     <string name="ovp_alert_dialog_download_install_task">جارٍ تنزيل المكون الإضافي…</string>
@@ -1105,7 +1103,6 @@
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
     <string name="source">"المصدر: "</string>
     <string name="start_download_tip">تمت الإضافة إلى قائمة الانتظار. يمكنك عرض تقدم التنزيل في الملف الشخصي > التنزيلات.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">بطاقة SD</string>
     <string name="storage_internal_sdcard">التخزين الداخلي</string>
     <string name="submit">ارسال</string>

@@ -141,7 +141,6 @@
     <string name="download_rsc_tips">جارٍ تحميل الاصوات الخلفية…</string>
     <string name="dynamic_weather">الطقس</string>
     <string name="edit_city">إدارة المدن</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">جارٍ التحديث…</string>
     <string name="empty_view_net_unavailable">تعذر الاتصال بالشبكة</string>
     <string name="empty_view_refresh">حاول مجددا</string>
@@ -194,17 +193,13 @@
     <string name="feedback_sunny">صافٍ</string>
     <string name="global_aqi">جودة الهواء: %1$s %2$s</string>
     <string name="hourly_forcast_now">الآن</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="index_item_experience_now">تثبيت الآن</string>
     <string name="indices_title_chance_of_rain">فرصة هطول أمطار</string>
     <string name="indices_title_feel">الشعور الحقيقي</string>
     <string name="indices_title_pressure">الضغط</string>
     <string name="indices_title_wind_speed">سرعة الرياح</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">مؤشر UV</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="life_index_title">مؤشر الطقس</string>
     <string name="location_provider_btn_text">تشغيل خدمات الموقع</string>
     <string name="location_tag">تحديد الموقع</string>
@@ -298,7 +293,6 @@
     <string name="share_menu_title">مشاركة</string>
     <string name="share_subject">مشاركة</string>
     <string name="share_weather_desc">\#طقس MIUI#اليوم %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">،</string>
     <string name="share_weather_save_pic_fail">تعذر أخذ لقطة الشاشة</string>
     <string name="shortcut_short_label_24_hour_forecast">توقعات ٢٤ ساعة</string>
