@@ -47,7 +47,7 @@
     <string name="account_has_been_set">تم التغيير</string>
     <string name="account_invalid_user_avatar">هذه الصورة غير صالحة. اختر واحدة أخرى.</string>
     <string name="account_limit_update_birthday">لايمكن تحديث تاريخ الميلاد حالياُ</string>
-    <string name="account_mibi_center">رصيد Mi</string>
+    <string name="account_mibi_center">عملات Mi</string>
     <string name="account_mibi_charge">شحن</string>
     <string name="account_mipay_info">دفع Mi</string>
     <string name="account_no_set">لا شيء</string>
@@ -83,7 +83,7 @@
     <string name="activate_email_notice">تأكد من تفعيل حسابك خلال ٢٤ ساعة</string>
     <string name="activity_not_found_notice">لا يمكن العثور على التطبيق</string>
     <string name="add_account">ربط الحساب</string>
-    <string name="agreement_and_privacy">سياسة الخصوصية واتفاقية المستخدم</string>
+    <string name="agreement_and_privacy">الأحكام والشروط</string>
     <string name="app_name">حساب Mi</string>
     <string name="auth_fail_warning">انتهت الدورة، قم بتسجيل الدخول لاحقاً</string>
     <string name="authorize_title">ترخيص</string>
@@ -227,6 +227,7 @@
     <string name="health_state_not_activated">غير مفعل</string>
     <string name="health_state_not_installed">غير مثبت</string>
     <string name="health_state_not_support">غير مدعوم في هذا الإصدار</string>
+    <string name="help_center">المساعدة</string>
     <string name="i_agree">موافق</string>
     <string name="i_agree_continue">أوافق</string>
     <string name="identity">المعرف</string>
@@ -310,7 +311,7 @@
     <string name="passport_checking_input">جارٍ التحقق من الإدخال…</string>
     <string name="passport_click_email_to_valid">لتفعيل حسابك، إتبع الرابط الذي قمنا بارساله الى البريد الوارد.</string>
     <string name="passport_completed">اكتمل</string>
-    <string name="passport_confirm_login">متابعة</string>
+    <string name="passport_confirm_login">تسجيل الدخول</string>
     <string name="passport_confirm_recycle_account">نعم</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>يبدو انه&lt;/font> تم إعادة استخدام هذا الرقم %s من قِبل شركة الاتصالات، وهناك حساب Mi مرتبط به. هل هذا هو حسابك؟</string>
     <string name="passport_continue">متابعة</string>
@@ -348,7 +349,7 @@
     <string name="passport_error_verify_activator_phone_title">تعذر التحقق من رقم الهاتف</string>
     <string name="passport_failed_to_send_activate_email">تعذر إرسال بريد إلكتروني للتفعيل</string>
     <string name="passport_find_password_on_web_msg">قم بزيارة account.mi.com لإعادة تعيين كلمة المرور.</string>
-    <string name="passport_first_login_prompt">سيتم إنشاء حساب Mi تلقائيا عند تسجيل الدخول للمرة الأولى.</string>
+    <string name="passport_first_login_prompt">سيتم إنشاء حساب Mi تلقائيًا في المرة الأولى التي تقوم فيها بتسجيل الدخول باستخدام رقم هاتفك.</string>
     <string name="passport_forget_password"><u>نسيت كلمة المرور</u></string>
     <string name="passport_forget_password_no_underline">نسيت كلمة المرور</string>
     <string name="passport_get_back_pwd">استرداد كلمة مرور الحساب</string>
@@ -463,8 +464,8 @@
     <string name="passport_setting">جارٍ الإعداد…</string>
     <string name="passport_skip_login">تخطي</string>
     <string name="passport_skip_register">تخطي التسجيل</string>
-    <string name="passport_skip_setup_account_msg">يمكنك إعداد حساب Mi في الإعدادات فيما بعد.</string>
-    <string name="passport_skip_setup_account_title">هل ترغب في استخدام Xiaomi Cloud؟</string>
+    <string name="passport_skip_setup_account_msg">ستتمكن فقط من الوصول إلى خدمات Xiaomi Cloud بعد تسجيل الدخول إلى حساب Mi. هل تريد تخطي هذه الخطوة؟</string>
+    <string name="passport_skip_setup_account_title">حساب Mi و Xiaomi Cloud</string>
     <string name="passport_sms_send_success">تم الإرسال</string>
     <string name="passport_sms_verification_code_login">تسجيل الدخول بإستخدام SMS</string>
     <string name="passport_sms_verification_code_login_or_register">تسجيل الدخول أو إنشاء حساب عبر SMS</string>
@@ -590,7 +591,7 @@
     <string name="update_email_address_dialog_title">تحديث البريد الإلكتروني</string>
     <string name="update_phone_notice">تغيير إعدادات الحماية</string>
     <string name="update_phone_number_notice_message">تحتاج إلى تأكيد هويتك قبل التمكن من تحديث رقم الهاتف الخاص بك.</string>
-    <string name="used_cloud_storage_info">مساحة التخزين المستخدمة %s</string>
+    <string name="used_cloud_storage_info">%s مستخدم</string>
     <string name="user_avatar_update_title">تغيير صورة الملف الشخصي</string>
     <string name="user_avatar_uploading">لحظة من فضلك…</string>
     <string name="v7_preference_off">إيقاف</string>

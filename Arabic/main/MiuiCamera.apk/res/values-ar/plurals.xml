@@ -40,6 +40,30 @@
         <item quantity="few">يمكنك إنشاء ما يصل إلى %d نسخ في المرة الواحدة.</item>
         <item quantity="many">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقائق</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="zero">%1$d ثانية</item>
+        <item quantity="one">%1$d ثانية</item>
+        <item quantity="two">%1$d ثواني</item>
+        <item quantity="few">%1$d ثواني</item>
+        <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Delete %1$d drafts?</item>
+        <item quantity="zero">Delete %1$d drafts?</item>
+        <item quantity="one">Delete %1$d draft?</item>
+        <item quantity="two">Delete %1$d drafts?</item>
+        <item quantity="few">Delete %1$d drafts?</item>
+        <item quantity="many">Delete %1$d drafts?</item>
+    </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s دقيقة</item>
         <item quantity="zero">%1$s دقيقة</item>

@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">‏‮monitor‬‏ ‏‮incoming‬‏ ‏‮calls‬‏</string>
     <string name="HIPS_Perm_read_notification_sms">‏‮Service‬‏ ‏‮SMS‬‏</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">‏‮read‬‏ ‏‮service‬‏ ‏‮SMS‬‏</string>
+    <string name="HIPS_Perm_recognition">‏‮Access‬‏ ‏‮activity‬‏ ‏‮info‬‏</string>
+    <string name="HIPS_Perm_recognition_Desc">‏‮Allow‬‏ ‏‮the‬‏ ‏‮app‬‏ ‏‮to‬‏ ‏‮access‬‏ ‏‮your‬‏ ‏‮activity‬‏ ‏‮info‬‏</string>
     <string name="HIPS_Perm_service_foreground">‏‮Foreground‬‏ ‏‮services‬‏</string>
     <string name="HIPS_Perm_service_foreground_Desc">‏‮foreground‬‏ ‏‮services‬‏</string>
     <string name="HIPS_Perm_show_when_locked">‏‮Show‬‏ ‏‮on‬‏ ‏‮Lock‬‏ ‏‮screen‬‏</string>
@@ -160,6 +162,7 @@
     <string name="screen_overlay_button">‏‮Open‬‏ ‏‮settings‬‏</string>
     <string name="screen_overlay_message">‏‮To‬‏ ‏‮change‬‏ ‏‮this‬‏ ‏‮permission,‬‏ ‏‮you‬‏ ‏‮have‬‏ ‏‮to‬‏ ‏‮turn‬‏ ‏‮off‬‏ ‏‮the‬‏ ‏‮screen‬‏ ‏‮overlay‬‏ ‏‮in‬‏ ‏‮Settings‬‏ ‏‮>‬‏ ‏‮Apps.‬‏</string>
     <string name="screen_overlay_title">‏‮Screen‬‏ ‏‮overlay‬‏ ‏‮detected‬‏</string>
+    <string name="static_cache_db_md5">‏‮ca8b2bf664b02208f1bbe2344e93a705‬‏</string>
     <string name="status_bar_notification_info_overflow">‏‮999+‬‏</string>
     <string name="virtual_reject_notice_content">‏‮A‬‏ ‏‮blank‬‏ ‏‮response‬‏ ‏‮was‬‏ ‏‮sent‬‏ ‏‮to‬‏ ‏‮the‬‏ ‏‮app‬‏ ‏‮to‬‏ ‏‮protect‬‏ ‏‮your‬‏ ‏‮personal‬‏ ‏‮info‬‏</string>
     <string name="virtual_reject_notice_title_calendar">‏‮Accessing‬‏ ‏‮calendar‬‏ ‏‮by‬‏ %1$s</string>

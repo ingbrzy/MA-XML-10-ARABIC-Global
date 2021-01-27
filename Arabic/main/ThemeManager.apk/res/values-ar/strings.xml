@@ -41,6 +41,7 @@
     <string name="account_unactivated">لم يتم تفعيل الحساب</string>
     <string name="ad_app_download_start">جارٍ بدء التنزيل…</string>
     <string name="ad_app_is_downloading">جار التنزيل …</string>
+    <string name="ad_service">إظهار الإعلانات</string>
     <string name="add_resource_detail_fail">لا يمكن إضافة الموارد</string>
     <string name="agreement_desc">اتفاقية المستخدم (إلزامي)</string>
     <string name="alarm_sound">المنبه</string>
@@ -67,7 +68,7 @@
     <string name="audio_duration_seconds_format">%1$d ثواني</string>
     <string name="automatically_update_using_theme_tips">التحديث تلقائيا في المرة القادمة</string>
     <string name="back_to_default">الرجوع للافتراضي</string>
-    <string name="back_to_none">لا تقم بتعيين نغمة الرنين</string>
+    <string name="back_to_none">بدون نغمة</string>
     <string name="backup_theme_dialog_message">إجراء نسخ احتياطي للثيم الحالية؟</string>
     <string name="backup_theme_dialog_ok">نسخ احتياطي</string>
     <string name="backup_theme_fail_trial_rights_message">لا يمكن نسخ العناصر التجريبية احتياطيًا</string>
@@ -163,7 +164,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -181,6 +184,7 @@
     <string name="fail_to_add_account">لا يمكن إضافة الحساب</string>
     <string name="favorite_list">المفضلة</string>
     <string name="favorite_list_format">المفضلة %1$s</string>
+    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="find_more">اعثر على المزيد</string>
     <string name="find_more_theme">اعثر على المزيد</string>
     <string name="find_more_wallpapers">اعثر على المزيد</string>
@@ -230,6 +234,7 @@
     <string name="incompatible_dialog_ok">فهمت</string>
     <string name="incompatible_dialog_title">مشاكل التوافق</string>
     <string name="is_setting_wallpaper_message">جارٍ إعداد خلفية الشاشة…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">التنبيهات</string>
     <string name="item_resource_audio_optional_color_ring">نغمة الرنة</string>
     <string name="item_resource_audio_optional_notification_ring">الإشعارات</string>
@@ -252,7 +257,8 @@
     <string name="lockscreen_magazine_title">خلفية كاروسيل</string>
     <string name="lockscreen_wallpaper">شاشة القفل</string>
     <string name="lockstyle_personal_settings">تخصيص</string>
-    <string name="login_invalid">إنتهت صلاحية الفترة</string>
+    <string name="login_invalid">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
+    <string name="match_theme">الثيمات المطابقة</string>
     <string name="max_usable_themes">٩٩+</string>
     <string name="message">رسالة نصية</string>
     <string name="message_sim_one">رسالة SIM 1</string>
@@ -274,6 +280,7 @@
     <string name="my_gifts">الهدايا</string>
     <string name="my_gifts_purchased">تم شراؤها</string>
     <string name="my_gifts_received">المستلمة</string>
+    <string name="need_permission">أذونات إلزامية (تستخدم للوظائف والخدمات الأساسية لهذا التطبيق)</string>
     <string name="no_data">لا يمكن الاتصال بالشبكة</string>
     <string name="no_related_font">تعذر إيجاد نتائج</string>
     <string name="no_related_ringtone">تعذر إيجاد نتائج</string>
@@ -296,6 +303,12 @@
     <string name="online_search_hint">البحث عن موارد على الانترنت</string>
     <string name="online_themes">ثيمات أونلاين</string>
     <string name="online_wallpapers">خلفيات على الانترنت</string>
+    <string name="ota_theme_default_push_content">جرب شيئ جديد</string>
+    <string name="ota_theme_default_push_title">هل مليت من الثيم الافتراضي؟</string>
+    <string name="ota_theme_new_push_content">تمتع بمظهر جديد لجهازك</string>
+    <string name="ota_theme_new_push_title">جرب ثيمات MIUI 12 الجديدة</string>
+    <string name="personal_recommend_desc">تلقي توصيات بناء على تفضيلاتك</string>
+    <string name="personal_recommend_title">التوصيات المخصصة</string>
     <string name="phone_ringtone">نغمة الرنين</string>
     <string name="popular_themes">ثيمات رائجة</string>
     <string name="popular_wallpapers">خلفيات مشهورة</string>
@@ -322,6 +335,7 @@
     <string name="rank_one">١.%s</string>
     <string name="rank_three">٣.%s</string>
     <string name="rank_two">٢.%s</string>
+    <string name="read_write_file">تخزين الملفات والوصول إليها على جهازك</string>
     <string name="recently_used">المستخدمة مؤخرا</string>
     <string name="refresh_footer_all_loaded">هذا كل شئ حتى الان.</string>
     <string name="refresh_footer_failed">تعذر تحميل المعلومات</string>
@@ -473,6 +487,7 @@
     <string name="resource_pack_price_info">السعر الأصلي: %1$s</string>
     <string name="resource_pack_warning">لقد اشتريت %1$d من مكونات هذا الثيم مسبقا. انه أرخص إذا اشتريت المكونات المتبقية على حدة.</string>
     <string name="resource_present">هدية</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">مجاني</string>
     <string name="resource_price_unit"> رصيد Mi</string>
     <string name="resource_purchase_common_error">حدث خطأ ما، حاول مجدداً</string>
@@ -573,6 +588,7 @@
     <string name="s5">إنشاء حدث تقويم</string>
     <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
+    <string name="scroll_switch">مرر للتبديل بين العناصر</string>
     <string name="sdcard_not_mounted_dialog_message">"أدخل بطاقة SD الآن.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">لم يتم اكتشاف اي بطاقة SIM</string>
@@ -594,6 +610,8 @@
     <string name="sim_one">1 SIM</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">ثيمات مشابهة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_file">لحفظ العناصر التي تم تنزيلها</string>
     <string name="swipe_find_more">مرر لأعلى لعرض المزيد</string>
     <string name="system_phone">المكالمات</string>
     <string name="system_precust">المثبتة</string>
@@ -604,6 +622,7 @@
     <string name="theme_apply_audio_dialog_item_notification">الإشعار</string>
     <string name="theme_apply_audio_dialog_item_ringtone">نغمة الرنين</string>
     <string name="theme_apply_failured">تعذر التعيين</string>
+    <string name="theme_apply_fully">تم تعيين الثيم بنجاح. خلفية كاروسيل متوقفة.</string>
     <string name="theme_apply_success">تم التعيين بنجاح</string>
     <string name="theme_applying">جار التعيين…</string>
     <string name="theme_batch_update_all">تحديث الكل</string>
@@ -657,6 +676,7 @@
     <string name="theme_is_external_priority_storage">حفظ إلى بطاقة SD</string>
     <string name="theme_is_external_priority_storage_summary">ستتم إعادة تشغيل تطبيق الثيمات مباشرة لتطبيق هذا الإعداد.</string>
     <string name="theme_multiple_button_title_customize">تخصيص</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">لا</string>
     <string name="theme_select_others">تصفح</string>
     <string name="theme_setting">الإعدادات</string>
@@ -694,7 +714,7 @@
     <string name="uid_change_dialog_ok">فهمت</string>
     <string name="uid_change_dialog_title">إعادة تشغيل الجهاز</string>
     <string name="unsupport_tip">تنسيق الملف هذا غير مدعوم. حاول اختيار ملف مختلف.</string>
-    <string name="up_to_the_end">هذا كل شئ حتى الان. عد لاحقا.</string>
+    <string name="up_to_the_end">لا يوجد المزيد من العناصر لعرضها</string>
     <string name="update_btn">التحديث الآن</string>
     <string name="update_check">التحقق من وجود تحديثات</string>
     <string name="update_checking">جارٍ التحقق من وجود تحديثات…</string>
@@ -709,7 +729,7 @@
     <string name="user_agree">أوافق</string>
     <string name="user_authorization_dialog_agree">أوافق</string>
     <string name="user_authorization_dialog_disagree">خروج</string>
-    <string name="user_authorization_dialog_message">قبل استخدامك تطبيق الثيمات، اقرأ ووافق على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا.</string>
+    <string name="user_authorization_dialog_message">يجب أن تقرأ وتوافق على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</string>
     <string name="user_authorization_dialog_title">التراخيص الممنوحة</string>
     <string name="user_know">فهمت</string>
     <string name="using_theme_has_update_tips">يتوفر تحديث لهذا الثيم.</string>
@@ -717,7 +737,7 @@
     <string name="using_theme_next_automatic_update_summary">تحديث الثيمات التي تم تنزيلها عبر Wi-Fi تلقائيًا عندما تكون الشاشة مقفلة</string>
     <string name="using_theme_show_ad">التوصيات</string>
     <string name="using_wallpaper_personal">خلفيات شخصية مختارة</string>
-    <string name="video_audio_apply_success">تم تكوين الفيديو بصوت بنجاح</string>
+    <string name="video_audio_apply_success">تم تكوين الفيديو الصوتي بنجاح</string>
     <string name="video_data_tips_message">قد يؤدي استخدام بيانات الهاتف إلى فرض رسوم إضافية. هل تريد المتابعة على أي حال؟</string>
     <string name="video_data_tips_title">تحذير إستخدام البيانات</string>
     <string name="video_silence_apply_success">تم تكوين الفيديو بدون صوت بنجاح</string>
@@ -730,7 +750,7 @@
     <string name="wallpaper_personal_dialog_agree">تخصيص</string>
     <string name="wallpaper_personal_dialog_content">استخدم هذه الميزة لمشاهدة مجموعة مختارة من الخلفيات المخصصة وفقًا لاهتماماتك. يمكنك تشغيل أو إيقاف هذه الميزة في الإعدادات. تخصيص خلفيات الآن؟</string>
     <string name="wallpaper_personal_dialog_disagree">لا شكراً</string>
-    <string name="wallpaper_personal_dialog_title">تخصيص خلفياتك الآن</string>
+    <string name="wallpaper_personal_dialog_title">تخصيص خلفيات جهازك</string>
     <string name="wallpaper_scroll_type_tips">لفيفة خلفية الشاشة</string>
     <string name="wallpaper_set_as_both">تعيين الكل</string>
     <string name="wallpaper_set_as_desktop">تعيين كالشاشة الرئيسية</string>

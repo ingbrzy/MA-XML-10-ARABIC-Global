@@ -40,6 +40,22 @@
         <item quantity="few">%1$d ساعات</item>
         <item quantity="many">%1$d ساعة</item>
     </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقائق</item>
+        <item quantity="few">%1$d دقائق</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d ثانية</item>
+        <item quantity="zero">%1$d ثانية</item>
+        <item quantity="one">%1$d ثانية</item>
+        <item quantity="two">%1$d ثواني</item>
+        <item quantity="few">%1$d ثواني</item>
+        <item quantity="many">%1$d ثانية</item>
+    </plurals>
     <plurals name="selected_count">
         <item quantity="other">تم تحديد %1$d من%2$d</item>
         <item quantity="zero">تم تحديد %1$d من%2$d</item>

@@ -316,6 +316,14 @@
         <item quantity="few">يلعب %1$d شخص</item>
         <item quantity="many">يلعب %1$d أشخاص</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">إلغاء تثبيت %2$d لعبة (من ضمنها %1$s)</item>
+        <item quantity="zero">إلغاء تثبيت %2$d لعبة (من ضمنها %1$s)</item>
+        <item quantity="one">إلغاء تثبيت %2$d لعبة (من ضمنها %1$s)</item>
+        <item quantity="two">إلغاء تثبيت %2$d ألعاب (من ضمنها %1$s)</item>
+        <item quantity="few">إلغاء تثبيت %2$d ألعاب (من ضمنها %1$s)</item>
+        <item quantity="many">إلغاء تثبيت %2$d لعبة (من ضمنها %1$s)</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d ثانية</item>
         <item quantity="zero">%d ثانية</item>

@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="clearable_edittext_clear_description">مسح</string>
     <string name="copy">نسخ</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>

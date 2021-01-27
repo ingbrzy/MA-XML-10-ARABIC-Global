@@ -153,7 +153,7 @@
     <string name="miui_feedback_edit_submit_directly">إرسال</string>
     <string name="miui_feedback_edit_title_occurrence_time">حدد الوقت</string>
     <string name="miui_feedback_edit_title_reproductivity">حدد مرات تكرار المشكلة</string>
-    <string name="miui_feedback_edit_toast_description_required">تحتاج إلى كتابة وصف</string>
+    <string name="miui_feedback_edit_toast_description_required">قم بوصف المشكلة أولاً.</string>
     <string name="miui_feedback_edit_toast_module_required">تحديد عنصر</string>
     <string name="miui_feedback_edit_toast_more_desc_required">يجب أن يكون الوصف أطول</string>
     <string name="miui_feedback_edit_toast_problem_class_required">تحديد فئة</string>
@@ -186,6 +186,7 @@
     <string name="miui_main_next_page">التالي</string>
     <string name="miui_main_pre_page">رجوع</string>
     <string name="miui_main_shortcut_label_submit_feedback">إرسال التعليق</string>
+    <string name="miui_main_update_back_to_home">جار ٍ إعداد الشاشة الرئيسية…</string>
     <string name="miui_main_update_continue">التالي</string>
     <string name="miui_main_update_learn_more">معرفة المزيد</string>
     <string name="miui_main_update_start">التحديث الآن</string>

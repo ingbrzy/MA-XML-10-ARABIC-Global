@@ -106,8 +106,9 @@
     <string name="next_fingerprint">التالي</string>
     <string name="note_introduction">يسمح لك هذا التطبيق بإنشاء وعرض وتعديل الملاحظات.</string>
     <string name="other_settings">الإعدادات الإضافية</string>
-    <string name="other_settings_ad_dialog_content">"عند إيقاف تشغيلك لهذه الميزة، لن تتمكن من تلقي إعلانات مخصصة بعد الآن، ولكنك ستتلقى العدد نفسة من الإعلانات التي قد لا تكون ذات صلة باهتماماتك. قم بتشغيل هذه الميزة للحصول على تجربة أفضل من خلال إعلانات ذات صلة أكثر بإهتمامتك. يمكنك العثور على مزيد من التفاصيل في سياسة خصوصية Xiaomi.
-إيقاف التشغيل على أية حال؟"</string>
+    <string name="other_settings_ad_dialog_agree">تشغيل</string>
+    <string name="other_settings_ad_dialog_content">عند إيقاف تشغيل التوصيات الإعلانية المخصصة، سيظل بإمكانك مشاهدة نفس كمية الإعلانات عندما تكون الميزة قيد التشغيل، ولكن لن تكون الإعلانات مخصصة لانها لن تستند إلى بيانات نشاطك أو معلوماتك الشخصية.</string>
+    <string name="other_settings_ad_dialog_disagree">إيقاف تشغيل</string>
     <string name="other_settings_ad_disable_summary">قم بتشغيل الميزة لإعلانات مخصصة</string>
     <string name="other_settings_ad_enable">الإعلانات المخصصة</string>
     <string name="other_settings_ad_enable_summary">خصص الإعلانات على حسب اهتمامتك</string>

@@ -48,6 +48,7 @@
     <string name="cloud_find_device_off">متوقف</string>
     <string name="cloud_find_device_on">مشغّل</string>
     <string name="cloud_lab_title">مختبر</string>
+    <string name="cloud_space_full_gallery_notification_content_text">قم بترقية خطة Cloud للحصول على مساحة تخزين أضافية</string>
     <string name="cloud_storage_already_full">مساحة تخزين Cloud ممتلئة: %1$s/%2$s</string>
     <string name="cloud_storage_already_used">المستخدم: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">تخزين Cloud</string>
@@ -67,6 +68,8 @@
     <string name="connect_wlan">الإتصال بشبكة Wi-Fi</string>
     <string name="connect_wlan_china">Connect to WLAN</string>
     <string name="copy">نسخ</string>
+    <string name="cta_notification_content_text">اسمح لـ %s بالاتصال بالإنترنت لاستعادة العناصر</string>
+    <string name="cta_notification_content_title">لا يمكن استعادة العناصر من %s</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">يُستخدم هذا الحساب أيضًا على جهاز آخر. هل ترغب في دمج العناصر من تطبيقات متعددة (يتضمن ذلك %1$s و%2$s) مع العناصر الموجودة على هذا الجهاز؟</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">يُستخدم هذا الحساب أيضًا على جهاز آخر. هل ترغب في دمج العناصر من %s مع العناصر الموجودة على هذا الجهاز؟</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">يُستخدم هذا الحساب أيضًا على جهاز آخر. هل ترغب في دمج العناصر من %1$s و%2$s مع العناصر الموجودة على هذا الجهاز؟</string>
@@ -95,6 +98,8 @@
     <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">تحقق من اتصال البيانات ثم حاول مرة أخرى.</string>
     <string name="find_device_error_server">خطأ في الخادم</string>
     <string name="find_device_gdpr_prompt">بتمكين ميزة البحث عن الأجهزة، فإنك توافق على <a href="app://com.miui.cloudservice.gdpr.license"><u>سياسة الخصوصية</u></a>. لإلغاء الترخيص، قم بتعطيل هذه الميزة.</string>
@@ -116,6 +121,7 @@
     <string name="ks_fingerprint_status">حالة الدفع</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">متاح</string>
@@ -165,11 +171,6 @@
     <string name="micloud_battery_low_notification_message">قم بتوصيل الشاحن للمزامنة</string>
     <string name="micloud_battery_low_notification_title">البطارية منخفضة</string>
     <string name="micloud_buy_member_safe">احصل على المزيد من مساحة Cloud</string>
-    <string name="micloud_check_sim_notify_text">"يبدو أنك قمت بتغيير بطاقات SIM. سجل الدخول
-إلى حساب Mi الخاص بك لتفعيل Xiaomi Cloud."</string>
-    <string name="micloud_check_sim_notify_title">تفعيل Xiaomi Cloud</string>
-    <string name="micloud_check_sim_title">"يبدو أنك قمت بتغيير بطاقات SIM. سجل الدخول
-إلى حساب Mi الخاص بك لتفعيل Xiaomi Cloud."</string>
     <string name="micloud_confusion_account_hint">سيتم مزامنة التغييرات التي تقوم بها على هذا الجهاز على جميع الأجهزة الخاصة بك. لحماية حسابك, ينصح بإيقاف تشغيل المزامنة للأجهزة الأخرى عند عدم أستخدامك لها.</string>
     <string name="micloud_confusion_account_name">حساب:</string>
     <string name="micloud_confusion_account_notify_text">جارٍ تعديل حسابك من جهاز آخر. تحقق من حسابك الآن.</string>
@@ -208,7 +209,7 @@
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_xms">استخدم Xiaomi Cloud لمزامنة البيانات.</string>
     <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">بعد إيقاف تشغيل \"العثور على الجهاز\"، لن تتمكن من العثور على هاتفك باستخدام هذه الميزة. إذا كان هاتفك يدعم ميزات NFC، فستتم إزالة جميع البطاقات المصرفية والبطاقات الأساسية من دفع Mi.</string>
+    <string name="micloud_find_device_close_alert_content">"If you turn off Find device, you won't be able to locate your device using this feature. If your device supports NFC, all your bank cards and keycards will be deleted from Mi Pay. People with whom you share location won't be able to receive updates on your whereabouts as well."</string>
     <string name="micloud_find_device_close_alert_negtive">إيقاف التشغيل</string>
     <string name="micloud_find_device_close_alert_positive">تشغيل</string>
     <string name="micloud_find_device_close_alert_title">إيقاف تشغيل العثور على الجهاز؟</string>
@@ -238,11 +239,14 @@
     <string name="micloud_find_device_open_fail">تعذر تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_opened">العثور على الجهاز يعمل</string>
     <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">سيتم إرسال رسالة SMS لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم على هذه الرسالة. عند استبدالك بطاقة SIM، سيتم إرسال رسالة تلقائيا لإعادة تفعيل هذه الميزة.</string>
     <string name="micloud_find_device_verify_button">إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_close">إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_fail">تعذر إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_progress">جارٍ إعادة تفعيل العثور على الجهاز…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">تم إلغاء المزامنة. إعد المحاولة.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخ الشاشة الرئيسية احتياطياََ</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">إعدادات النظام وتنسيق الشاشة الرئيسية</string>
@@ -285,6 +289,11 @@
     <string name="micloud_manual_pausing">توقفت المزامنة</string>
     <string name="micloud_manual_pending">قيد الانتظار…</string>
     <string name="micloud_manual_reactivate">إعادة التفعيل</string>
+    <string name="micloud_manual_request_permission_cancel">إلغاء</string>
+    <string name="micloud_manual_request_permission_confirm">الإعدادات</string>
+    <string name="micloud_manual_request_permission_content">لتتمكن من استخدام هذه الخدمة، امنح Xiaomi Cloud الأذونات التالية من الإعدادات: \"%s\".</string>
+    <string name="micloud_manual_request_permission_content_on_provision">امنح الأذونات المطلوبه من الحماية أولاً</string>
+    <string name="micloud_manual_request_permission_title">الأذونات مطلوبة</string>
     <string name="micloud_manual_sync_all">مزامنة جميع العناصر</string>
     <string name="micloud_manual_sync_now">مزامنة</string>
     <string name="micloud_manual_sync_now_retry">حاول مجددا</string>
@@ -326,7 +335,7 @@
     <string name="micloud_privacy_warning_title">تنبيه</string>
     <string name="micloud_proceed">متابعة</string>
     <string name="micloud_request_permission_confirm">متابعة</string>
-    <string name="micloud_request_permission_content">يحتاج Xiaomi Cloud إلى أذونات لمزامنة البيانات. اسمح Xiaomi Cloud بالوصول إلى التقويم وجهات الاتصال وحساب Mi وحالة بطاقة SIM وسجل المكالمات والرسائل.</string>
+    <string name="micloud_request_permission_content">لتتمكن من مزامنة أحداث التقويم وجهات الاتصال والرسائل وسجل المكالمات والصور ومقاطع الفيديو والعناصر الأخرى، يحتاج Xiaomi Cloud أذونات الوصول إلى التقويم وجهات الاتصال والحسابات وحالة بطاقة SIM وسجل المكالمات والرسائل والصور والفيديوهات</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud يحتاج الى أذونات</string>
     <string name="micloud_request_sync_too_frequent">طلبات كثيرة جدا. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="micloud_setting_antispam_summary">الاستثناءات وأرقام الهاتف المحظورة</string>
@@ -389,6 +398,15 @@
     <string name="micloud_wipe_data_confirm_title">تتم مزامنة بعض عناصر التطبيقات التالية مع Xiaomi Cloud. يمكنك الاحتفاظ بهذه العناصر في Cloud حتى بعد حذفها من جهازك.</string>
     <string name="micloud_wipe_data_remove">حذف</string>
     <string name="micloud_wipe_data_retain">إبقاء</string>
+    <string name="midrive_guide1_desc">انسخ عناصرك احتياطيًا على Cloud لتحرير مساحة تخزين على جهازك.</string>
+    <string name="midrive_guide1_title">نسخ احتياطي آمن</string>
+    <string name="midrive_guide2_desc">تحميل سريع جدا للعناصر.</string>
+    <string name="midrive_guide2_title">تنزيل سريع</string>
+    <string name="midrive_guide3_desc">يمكنك استخدام Mi Drive على الأجهزة المحمولة أو أجهزة الكمبيوتر أو أي متصفح.</string>
+    <string name="midrive_guide3_title">يعمل في كل مكان</string>
+    <string name="midrive_guide_btn_install">تثبيت Mi Drive</string>
+    <string name="midrive_guide_btn_installed">افتح Mi Drive</string>
+    <string name="midrive_guide_btn_installing">جارٍ التثبيت…</string>
     <string name="mx_dspt">رسالة Mi</string>
     <string name="mx_dspt_provision">"رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.
 
@@ -410,7 +428,7 @@
     <string name="no_sim">تعذر العثور على بطاقة SIM</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="pay_info_dialog_confirm_to_pay">دفع %s</string>
-    <string name="pay_info_dialog_mibi_balance_prefix">استخدام رصيد Mi المتبقي: %s</string>
+    <string name="pay_info_dialog_mibi_balance_prefix">استخدام عملات Mi النقدية المتبقية: %s</string>
     <string name="pay_info_dialog_title">تحديد طريقه الدفع</string>
     <string name="phone_number_required_dspt_provision">"تتطلب هذه الخدمة رقم الهاتف. "</string>
     <string name="picker_list_empty">لا توجد جهات اتصال هنا</string>
@@ -430,6 +448,7 @@
     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_doc_cloudservice">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وسجل المكالمات وجهات الاتصال والملاحظات وإعدادات المتصفح والأغاني والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر ومنصة التطبيقات عبر جميع الأجهزة المتصلة. يمكنك الوصول إلى الأشياء التي تقوم بمزامنتها من أي متصفح على &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br /> قد تكون هناك حاجة لإرسال رسالة قصيرة لتفعيل هذه الخدمات. وستفرض عليك شركة الاتصالات رسوم هذه الرسالة. عند تبديلك بطاقة SIM، قد يتم إرسال رسالة تلقائيًا لإعادة تنشيط هذه الخدمات.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br /> ستحتاج هذه الخدمات لتعمل بشكل طبيعي إلى الاتصال بالإنترنت ومنح الأذونات التالية لنتمكن من جمع بيانات الشخصية:&lt;br />• التقويم:&lt;br />لمزامنة الرسائل&lt;br />• الوصول إلى الرسائل القصيرة:&lt;br />لمزامنة الرسائل&lt;br />• الوصول إلى رسائل وسائط المتعددة:&lt;br />لمزامنة الرسائل&lt;br />• الوصول إلى جهات الاتصال:&lt;br />لمزامنة جهات الاتصال&lt;br />• تعديل جهات الاتصال:&lt;br />لمزامنة جهات الاتصال&lt;br />• التخزين:&lt;br />لمزامنة العناصر على جهازك (مثل الصور والفيديوهات والأغاني)&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، لن تكون قادرا على استخدام هذه الخدمات. يمكنك اختيار إلغاء تثبيت هذا التطبيق أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على &lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> قبل استخدام Xiaomi Cloud.&lt;br /></string>
     <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_global">يحتاج Xiaomi Cloud إلى الاتصال بالانترنت ليعمل بشكل طبيعي. وقد يتطلب إستخدام بيانات الهاتف وتشغيل Wi-Fi عند مزامنة البيانات. يجب عليك قراءة والموافقة على &lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام هذه الميزة.</string>
     <string name="privacy_doc_finddevice_pad">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
     <string name="privacy_doc_finddevice_phone">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
     <string name="privacy_doc_finddevice_with_telephony_feature_pad">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />قد تكون هناك حاجة لإرسال رسالة قصيرة لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم هذه الرسالة. عند تبديلك بطاقة SIM، قد يتم إرسال رسالة تلقائيًا لإعادة تنشيط هذه الخدمة.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
@@ -454,9 +473,12 @@
     <string name="special_func_title">الميزات الخاصة</string>
     <string name="starred_contact">المفضلة</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_manage_cloud_data_title">عرض عناصر Cloud</string>
     <string name="storage_manage_expansion">الحصول على المزيد</string>
+    <string name="storage_manage_full_summary">مساحة Cloud ممتلئة. قم بترقية خطتك.</string>
     <string name="storage_manage_list_title">بيانات Cloud</string>
     <string name="storage_manage_list_title_action">عرض المزيد</string>
+    <string name="storage_manage_normal_summary">تغيير خطة تخزين Cloud</string>
     <string name="storage_manage_renewal">تجديد</string>
     <string name="storage_manage_title">تغيير خطة تخزين Cloud</string>
     <string name="storage_manage_upgrade">ترقية</string>
@@ -481,6 +503,8 @@
     <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">تخطي هذه الخطوة</string>
     <string name="sync_dspt_provision">"مزامنة الصور, جهات الاتصال, الملاحظات والمزيد على جميع أجهزتك أو الوصول إليها على "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.
 "</string>
     <string name="sync_item_calllog_summary">مزامنة تسجيلات المكالمات التي تم إجراؤها واستقبالها على هذا الهاتف</string>

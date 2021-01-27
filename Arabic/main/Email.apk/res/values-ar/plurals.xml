@@ -184,14 +184,6 @@
         <item quantity="few">%s نتائج في الرسائل المتزامنة</item>
         <item quantity="many">%s نتيجة في الرسائل المتزامنة</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d شهر</item>
-        <item quantity="zero">%d شهر</item>
-        <item quantity="one">%d شهر</item>
-        <item quantity="two">%d أشهر</item>
-        <item quantity="few">%d أشهر</item>
-        <item quantity="many">%d شهر</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d مرفقات متبقية</item>
         <item quantity="zero">%1$d مرفقات متبقية</item>
@@ -199,14 +191,6 @@
         <item quantity="two">%1$d مرفقات متبقية</item>
         <item quantity="few">%1$d مرفقات متبقية</item>
         <item quantity="many">%1$d مرفقات متبقية</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">نقل %1$d محادثة</item>
-        <item quantity="zero">نقل %1$d محادثة</item>
-        <item quantity="one">نقل المحادثة</item>
-        <item quantity="two">نقل %1$d محادثات</item>
-        <item quantity="few">نقل %1$d محادثات</item>
-        <item quantity="many">نقل %1$d محادثة</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">عرض %1$d رسالة جديدة.</item>
@@ -311,14 +295,6 @@
         <item quantity="two">قبل %1$d أسابيع</item>
         <item quantity="few">قبل %1$d أسابيع</item>
         <item quantity="many">قبل %1$d أسبوع</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">الرد على %1$d شخص</item>
-        <item quantity="zero">الرد على %1$d اشخاص</item>
-        <item quantity="one">الرد على %1$d شخص</item>
-        <item quantity="two">الرد على %1$d اشخاص</item>
-        <item quantity="few">الرد على %1$d اشخاص</item>
-        <item quantity="many">الرد على %1$d شخص</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s نتيجة في جميع الحسابات</item>

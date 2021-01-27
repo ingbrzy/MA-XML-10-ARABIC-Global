@@ -68,6 +68,13 @@
     <string name="focus_mode_timer_pick_dialog_title">ادخل المدة</string>
     <string name="focus_time_exception_tip">يبدو أن وقت النظام تغير. تم إيقاف وضع التركيز.</string>
     <string name="follow_sim1">تعيين إعدادات SIM 1</string>
+    <string name="fps_nature_summary">معدل التحديث العالي يجعل كل شيء يبدو واضح ونقي</string>
+    <string name="fps_nature_title">عالي</string>
+    <string name="fps_smooth_summary">سيؤدي معدل التحديث المتوسط ​​إلى زيادة جودة عرض التفاصيل</string>
+    <string name="fps_smooth_title">متوسط</string>
+    <string name="fps_standard_summary">يوفر معدل التحديث القياسي البطارية</string>
+    <string name="fps_standard_title">قياسي</string>
+    <string name="fps_user_tip">يتم تشغيل هذه الرسوم المتحركة التجريبية بسرعة منخفضة وهي كمرجع فقط. قد تختلف النتيجة الفعلية حسب العوامل المتغيرة.</string>
     <string name="gamma">جاما</string>
     <string name="healthy_use_phone">إدارة مدة استخدام الجهاز</string>
     <string name="high_fps_description">معدل تحديث الشاشة عالي. استهلاك أعلى للطاقة.</string>
@@ -114,6 +121,7 @@
     <string name="screen_fps_summary_power_save">استخدام معدل ثابت يقلل من استهلاك الطاقة</string>
     <string name="screen_fps_summary_smooth">ستزيد بعض التطبيقات معدل التحديث تلقائيًا لتحسين جودة الصورة</string>
     <string name="screen_fps_title"> معدل التحديث</string>
+    <string name="screen_fps_unit">%d هرتز</string>
     <string name="screen_fps_unit_power_save">%d هرتز (موفر للبطارية)</string>
     <string name="screen_fps_unit_smooth">%d هرتز (جودة أفضل)</string>
     <string name="screen_original_gamut">مُحسن</string>
@@ -186,6 +194,7 @@
     <string name="usage_device_limit_app_prolong_time2">إضافة ٤٠ دقيقة</string>
     <string name="usage_device_limit_app_prolong_time3">إضافة ٦٠ دقيقة</string>
     <string name="usage_device_limit_app_prolong_time4">بلا حدود</string>
+    <string name="usage_device_limit_app_prolong_time5">أضافة الوقت (مرة واحدة)</string>
     <string name="usage_device_limit_notifation_summary_start">ستصل إلى الحد الأقصى بعد %1$s</string>
     <string name="usage_device_limit_notifation_title">الوقت المتبقي لليوم</string>
     <string name="usage_device_limit_time_over">لقد وصلت إلى الحد اليومي (%1$s)</string>

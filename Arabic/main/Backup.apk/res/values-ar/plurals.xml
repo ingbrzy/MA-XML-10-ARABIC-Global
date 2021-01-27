@@ -89,12 +89,12 @@
         <item quantity="many">تم استيراد واستعادة %d عنصر</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">تم استيراد %d عنصر</item>
-        <item quantity="zero">تم استيراد %d عناصر</item>
-        <item quantity="one">تم استيراد %d عنصر</item>
-        <item quantity="two">تم استيراد %d عناصر</item>
-        <item quantity="few">تم استيراد %d عناصر</item>
-        <item quantity="many">تم استيراد %d عنصر</item>
+        <item quantity="other">تم استعادة %d عنصر</item>
+        <item quantity="zero">تم استعادة %d عناصر</item>
+        <item quantity="one">تم استعادة %d عنصر</item>
+        <item quantity="two">تم استعادة %d عناصر</item>
+        <item quantity="few">تم استعادة %d عناصر</item>
+        <item quantity="many">تم استعادة %d عنصر</item>
     </plurals>
     <plurals name="select_item_count_unit">
         <item quantity="other">عنصر</item>

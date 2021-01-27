@@ -1,18 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="settings_search_earth">
         <item>الأرض</item>
         <item>خلفيات/خلفيات سوبر/الأرض</item>
         <item>ارض;الأرض;سوبر;خلفيات سوبر;خلفيات;نسخة الارض;اصدار الارض</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>هندسة</item>
+        <item>خلفيات/خلفيات سوبر/هندسة</item>
+        <item>هندسة;الهندسة;نبذة مختصرة;خلفيات سوبر;خلفيات</item>
     </string-array>
     <string-array name="settings_search_mars">
         <item>الكوكب الأحمر</item>
         <item>خلفيات/خلفيات سوبر/الكوكب الاحمر</item>
         <item>مارس;Mars;كوكب مارس;اصدار كوكب مارس;نسخة مارس;خلفيات سوبر;سوبر;خلفيات</item>
     </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>خلفيات سوبر</item>
         <item>خلفيات/خلفيات سوبر</item>
         <item>خلفيات سوبر;خلفية الشاشة;خلفيه الشاشة;خلفيات;خلفيه;سوبر;خلفيات دينامكيه;خلفيات دينامكية;خلفيات ثري دي;خلفيات 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>الطقس</item>
+        <item>خلفيات/خلفيات سوبر/طقس/الطقس</item>
+        <item>طقس;الطقس;معلومات الطقس;خلفيات سوبر;خلفيات</item>
     </string-array>
 </resources>

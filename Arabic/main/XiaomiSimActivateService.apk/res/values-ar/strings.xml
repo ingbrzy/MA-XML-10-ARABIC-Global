@@ -121,7 +121,7 @@
     <string name="phone_verify_text">لن يحصل %1$s على رقم هاتفك. سيقوم فقط بالتأكد من أن الرقم صالح. موافق؟</string>
     <string name="phone_verify_title">السماح لـ%1$s بالتحقق من رقم الهاتف الخاصة بك</string>
     <string name="privacy_revoke_failed_msg">التفعيل يتطلب منح الإذن ليتمكن تطبيق الرسائل الحصول على رقم هاتفك.</string>
-    <string name="privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات وحذف جميع بياناتك من الخوادم. لن تكون هناك مزامنة مع Mi Cloud، ورسالة Mi وميزات الرسائل الأخرى متاحة بعد ذلك. هل تريد إلغاء الترخيص على أية حال؟</string>
+    <string name="privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات وحذف جميع بياناتك من الخوادم. لن تكون هناك مزامنة مع Xiaomi Cloud ورسالة Mi وميزات الرسائل الأخرى متاحة بعد ذلك. هل تريد إلغاء الترخيص على أية حال؟</string>
     <string name="sim_unactivated_title">بطاقتك SIM غير مفعّلة</string>
     <string name="waiting_sim_in_service">في انتظار تفعيل بطاقة SIM</string>
 </resources>

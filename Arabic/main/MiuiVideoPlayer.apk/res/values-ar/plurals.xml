@@ -144,6 +144,30 @@
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">انقر مرتين للرجوع %d دقيقة</item>
+        <item quantity="zero">انقر مرتين للرجوع %d دقيقة</item>
+        <item quantity="one">انقر مرتين للرجوع %d دقيقة</item>
+        <item quantity="two">انقر مرتين للرجوع %d دقائق</item>
+        <item quantity="few">انقر مرتين للرجوع %d دقائق</item>
+        <item quantity="many">انقر مرتين للرجوع %d دقيقة</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="zero">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="one">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="two">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
+        <item quantity="few">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
+        <item quantity="many">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s ثانية</item>
+        <item quantity="zero">%1$s ثانية</item>
+        <item quantity="one">%1$s ثانية</item>
+        <item quantity="two">%1$s ثواني</item>
+        <item quantity="few">%1$s ثواني</item>
+        <item quantity="many">%1$s ثانية</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s مشترك</item>
         <item quantity="zero">%s مشترك</item>

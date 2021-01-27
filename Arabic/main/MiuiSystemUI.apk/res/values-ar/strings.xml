@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">الكاميرا</string>
     <string name="accessibility_carrier_network_change_mode">تغيير شبكة الاتصالات.</string>
     <string name="accessibility_cast_name">متصل بشبكة %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">توقف بث الشاشة.</string>
     <string name="accessibility_cell_data">بيانات الهاتف</string>
     <string name="accessibility_cell_data_off">بيانات الهاتف متوقفة</string>
@@ -304,7 +305,7 @@
     <string name="adb_pairing_device_dialog_failed_msg">تأكد من أن الجهاز متصل بنفس الشبكة.</string>
     <string name="adb_pairing_device_dialog_failed_title">فشل الإقتران</string>
     <string name="adb_pairing_device_dialog_pairing_code_label">رمز إقران Wi‑Fi</string>
-    <string name="adb_pairing_device_dialog_title">الإقران باستخدام الجهاز</string>
+    <string name="adb_pairing_device_dialog_title">الإقتران باستخدام الجهاز</string>
     <string name="adb_qrcode_pairing_device_failed_msg">فشل إقران الجهاز. الجهاز إما غير متصل بالشبكة نفسها أو أن رمز QR غير صالح.</string>
     <string name="adb_warning_message">‏تم تصميم تصحيح أخطاء USB لأغراض التطوير فقط. يمكن استخدامه لنسخ البيانات بين الكمبيوتر والجهاز، وتثبيت التطبيقات على جهازك بدون تنبيه، وقراءة بيانات السجل.</string>
     <string name="adb_warning_title">‏هل تريد السماح بتصحيح أخطاء USB؟</string>
@@ -356,8 +357,8 @@
     <string name="available_via_carrier">متوفر عبر %1$s</string>
     <string name="available_via_passpoint">متوفر عبر %1$s</string>
     <string name="back">رجوع</string>
-    <string name="band_24G">"  (نطاق ٢.٤ هرتز)"</string>
-    <string name="band_5G">"  (نطاق ٥ هرتز)"</string>
+    <string name="band_24G">"  (نطاق 2.4 جيجاهرتز)"</string>
+    <string name="band_5G">"  (نطاق 5 جيجاهرتز)"</string>
     <string name="battery">البطارية</string>
     <string name="battery_detail_charging_summary">لا يمكن تشغيل موفر البطارية أثناء الشحن</string>
     <string name="battery_detail_switch_summary">يقلل من الأداء وبيانات الخلفية</string>
@@ -393,11 +394,11 @@
     <string name="block_notification_content_text">لن تظهر إشعارات %1$s مرة أخرى. يمكنك تغيير ذلك من الإعدادات.</string>
     <string name="block_notification_desc">لن تظهر إشعارات التطبيق مرة أخرى. يمكنك تغيير ذلك من الإعدادات.</string>
     <string name="block_notification_text">إخفاء</string>
-    <string name="bluetooth_a2dp_profile_summary_connected">متصل بوسائط صوتية</string>
+    <string name="bluetooth_a2dp_profile_summary_connected">متصل بالوسائط الصوتية</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">يستخدم لإعدادات الوسائط الصوتية</string>
     <string name="bluetooth_active_battery_level">مشغل، شحن البطارية %1$s</string>
     <string name="bluetooth_active_battery_level_untethered">نشط، اليسار: البطارية %1$s، اليمين: البطارية %2$s</string>
-    <string name="bluetooth_active_no_battery_level">نشط</string>
+    <string name="bluetooth_active_no_battery_level">تفعيل</string>
     <string name="bluetooth_battery_level">شحن البطارية %1$s</string>
     <string name="bluetooth_battery_level_untethered">اليسار: البطارية %1$s، اليمين: البطارية %2$s</string>
     <string name="bluetooth_connected">%1$s متصل</string>
@@ -438,10 +439,10 @@
     <string name="bluetooth_pairing_accept">اقتران</string>
     <string name="bluetooth_pairing_accept_all_caps">اقتران</string>
     <string name="bluetooth_pairing_decline">إلغاء</string>
-    <string name="bluetooth_pairing_device_down_error_message">تعذر الاتصال بـ %1$s.</string>
+    <string name="bluetooth_pairing_device_down_error_message">تعذر الاتصال مع %1$s.</string>
     <string name="bluetooth_pairing_error_message">تعذر الإقتران مع %1$s.</string>
-    <string name="bluetooth_pairing_pin_error_message">تعذر الاقتران مع %1$s بسبب رمز PIN أو مفتاح المرور غير صحيح.</string>
-    <string name="bluetooth_pairing_rejected_error_message">رفض الجهاز %1$s الاقتران.</string>
+    <string name="bluetooth_pairing_pin_error_message">تعذر الاقتران مع %1$s بسبب أن رمز PIN أو مفتاح المرور غير صحيح.</string>
+    <string name="bluetooth_pairing_rejected_error_message">تم رفض الإقتران مع %1$s الاقتران.</string>
     <string name="bluetooth_pairing_will_share_phonebook">يتيح الاقتران الدخول إلى جهات الاتصال وسجل المكالمات عند الاتصال.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">مشاركة اتصال الإنترنت المحلي مع الجهاز</string>
     <string name="bluetooth_pan_profile_summary_use_for">يستخدم للاتصال بالإنترنت</string>
@@ -499,7 +500,7 @@
     <string name="bt_hci_snoop_log">تمكين سجل بلوتوث HCI snoop</string>
     <string name="bt_hci_snoop_log_summary">التقاط حزم البلوتوث (تشغيل البلوتوث بعد تغيير هذا الإعداد).</string>
     <string name="bt_is_off">البلوتوث متوقف</string>
-    <string name="bugreport_in_power">اختصار الإبلاغ عن خلل</string>
+    <string name="bugreport_in_power">اختصار البلاغ عن خلل</string>
     <string name="bugreport_in_power_summary">إظهار زر في قائمة الطاقة لإعداد تقرير الخلل</string>
     <string name="button_convert_fbe">جارٍ المسح والتحويل…</string>
     <string name="cached_apps_freezer_device_default">الجهاز الافتراضي</string>
@@ -549,11 +550,11 @@
     <string name="compat_mode_on">تكبير لملء الشاشة</string>
     <string name="confirm">حسنا</string>
     <string name="confirm_enable_oem_unlock_text">تحذير: لن تعمل ميزات الحماية على هذا الجهاز أثناء تشغيل هذا الإعداد.</string>
-    <string name="confirm_enable_oem_unlock_title">السماح بإلغاء قفل OEM؟</string>
+    <string name="confirm_enable_oem_unlock_title">هل تريد إلغاء قفل OEM؟</string>
     <string name="confirm_pin_msg">أعد إدخال رمز PIN</string>
-    <string name="connected_via_app">متصل بشبكة %1$s</string>
+    <string name="connected_via_app">متصل عبر %1$s</string>
     <string name="connected_via_carrier">متصل عبر %1$s</string>
-    <string name="connected_via_network_scorer">متصل تلقائيًا عبر %1$s</string>
+    <string name="connected_via_network_scorer">تم الاتصال تلقائيا عبر %1$s</string>
     <string name="connected_via_network_scorer_default">متصل تلقائيا عبر مزود تصنيف الشبكة</string>
     <string name="connected_via_passpoint">متصل عبر %1$s</string>
     <string name="content_description_menu_button">القائمة</string>
@@ -586,8 +587,8 @@
     <string name="data_usage_disabled_dialog_title">البيانات متوقفة مؤقتًا</string>
     <string name="data_usage_ota">تحديثات النظام</string>
     <string name="data_usage_uninstalled_apps">التطبيقات المحذوفة</string>
-    <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمين الذين تمت إزالتهم</string>
-    <string name="debug_app">حديد التطبيق لتصحيحه</string>
+    <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمين الذين تمت حذفهم</string>
+    <string name="debug_app">تحديد التطبيق لتصحيحه</string>
     <string name="debug_app_not_set">لم يتم تعيين تطبيق لتصحيحه</string>
     <string name="debug_app_set">تطبيق التصحيح: %1$s</string>
     <string name="debug_applications_category">التطبيقات</string>
@@ -672,7 +673,7 @@
     <string name="enable_gpu_debug_layers">تفعيل طبقات تصحيح GPU</string>
     <string name="enable_gpu_debug_layers_summary">‏السماح بتحميل طبقات تصحيح أخطاء GPU لتطبيقات تصحيح الأخطاء</string>
     <string name="enable_opengl_traces_title">‏تفعيل عمليات تتبع OpenGL</string>
-    <string name="enable_terminal_summary">تمكين تطبيق طرفي يوفر إمكانية الوصول إلى واجهة النظام المحلية</string>
+    <string name="enable_terminal_summary">تمكين التطبيق الطرفي بتوفير إمكانية الوصول إلى واجهة النظام المحلية</string>
     <string name="enable_terminal_title">تطبيق طرفي محلي</string>
     <string name="enable_verbose_vendor_logging">تفعيل تسجيل البائع المطول</string>
     <string name="enable_verbose_vendor_logging_summary">قم بتضمين سجلات الأجهزة الأخرى الخاصة بموردي الأخطاء في سجلات الأخطاء التي قد تحتوي على معلومات خاصة أو تستهلك المزيد من طاقة البطارية أو تستخدم المزيد من التخزين.</string>
@@ -921,8 +922,12 @@
     <string name="keyguard_carrier_default">لا توجد خدمة</string>
     <string name="keyguard_charged">مشحونة</string>
     <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
-    <string name="keyguard_charging_battery_level">%s%%</string>
+    <string name="keyguard_charging_battery_level">%%%s</string>
     <string name="keyguard_charging_info_battery_used_time_text">على البطارية</string>
+    <string name="keyguard_charging_info_data_c">%s درجة مئوية</string>
+    <string name="keyguard_charging_info_data_ma">%s أمبير</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%s فولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">استنزفت</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
@@ -950,6 +955,7 @@
     <string name="keyguard_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. الرجاء إدراج بطاقة SIM.</string>
     <string name="keyguard_missing_sim_message">لا توجد بطاقة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">لا توجد بطاقة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكه مقفله</string>
     <string name="keyguard_password_enter_password_code">أدخل كلمة المرور لإلغاء القفل</string>
     <string name="keyguard_password_enter_pin_code">أدخل رمز PIN</string>
@@ -1034,6 +1040,7 @@
     <string name="left_keycode">رمز المفتاح إلى اليسار</string>
     <string name="left_nav_bar_button_type">نوع إضافي من الزر الأيسر</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">"، "</string>
     <string name="loading_injected_setting_summary">لحظة من فضلك…</string>
     <string name="local_backup_password_summary_change">انقر لتغيير أو حذف كلمة مرور النسخ الاحتياطي للشاشة الرئيسية</string>
     <string name="local_backup_password_summary_none">النسخ الاحتياطية للشاشة الرئيسية ليس محمي حاليًا</string>
@@ -1113,6 +1120,7 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">سيستمر تشغيل أصوات الوسائط (الموسيقى والفيديوهات وما إلى ذلك) في وضع السكون. يمكنك تغيير هذا في الإعدادات.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">تم إلغاء القفل عبر جهاز بلوتوث</string>
     <string name="miui_ringer_count_down">العد التنازلي</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">صامت</string>
     <string name="miui_ringer_standard_description">كتم نغمات الرنين للمكالمات الواردة والإشعارات</string>
     <string name="miui_ringer_total">عدم الازعاج</string>
@@ -1148,12 +1156,14 @@ d MMMM"</string>
 
 لمزيد من المعلومات، اتصل بمسؤول النظام."</string>
     <string name="monitoring_description_ca_cert_settings">فتح الشهادات الموثوقة</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">يتم تثبيت مرجع مصدق على هذا الجهاز. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يقوم المشرف بمراقبة وإدارة الإعدادات والتطبيقات والوصول إلى موارد الشركة والبيانات المتعلقة بجهازك ومعلومات الموقع.</string>
     <string name="monitoring_description_do_body_vpn">انت متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك البريد الإلكتروني والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك من قِبل %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s تستخدم %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">معرفة المزيد</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">قامت مؤسستك بتثبيت مرجع مصدق في ملف العمل الشخصي. قد تتم مراقبة حركة مرور الشبكة الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">ملف العمل الشخصي متصل بـ %1$s، حيث يمكنه مراقبة نشاط الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"تتم إدارة جهازك من قِبل مؤسستك.
@@ -1185,6 +1195,7 @@ d MMMM"</string>
 
  انت أيضًا متصل بشبكة VPN، حيث يمكن مراقبة نشاط هذه الشبكة."</string>
     <string name="monitoring_description_vpn_settings">فتح إعدادات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل الشبكة</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1223,6 +1234,7 @@ d MMMM"</string>
     <string name="nav_guide_message">استخدم الإيماءات لإخفاء أو إظهار أزرار التنقل.</string>
     <string name="nav_guide_ok">إعداد</string>
     <string name="nav_guide_title">إخفاء أزرار التنقل</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا شيء</string>
     <string name="no_multi_window_app">لا توجد تطبيقات تدعم وضع تقسيم الشاشة</string>
     <string name="no_notification_tips">لا توجد إشعارات</string>
@@ -1292,7 +1304,7 @@ d MMMM"</string>
     <string name="open_remote_center_hint_text">مرّر لليمين لعرض عناصر التحكم</string>
     <string name="osu_completing_sign_up">جارٍ إكمال التسجيل…</string>
     <string name="osu_connect_failed">لا يمكن الاتصال</string>
-    <string name="osu_opening_provider">فتح %1$s</string>
+    <string name="osu_opening_provider">جار فتح %1$s</string>
     <string name="osu_sign_up_complete">اكتمل التسجيل. جارٍ الاتصال…</string>
     <string name="osu_sign_up_failed">التسجيل لم يكتمل. انقر لإعادة المحاولة.</string>
     <string name="other">أخرى</string>
@@ -1371,7 +1383,7 @@ d MMMM"</string>
 - حظر جميع إشعارات التطبيق "</string>
     <string name="power_remaining_charging_duration_only">تبقى %1$s حتى يكتمل الشحن</string>
     <string name="power_remaining_duration_only">تبقى تقريباً %1$s</string>
-    <string name="power_remaining_duration_only_enhanced">تبقى تقريبًا %1$s بناءً على استخدامك</string>
+    <string name="power_remaining_duration_only_enhanced">تبقى تقريباً %1$s بناءً على استخدامك</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">قد ينطفئ جهازك بعد قليل</string>
     <string name="power_remaining_duration_shutdown_imminent">قد ينطفئ الجهاز بعد قليل (%1$s)</string>
@@ -1394,6 +1406,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">اسم مضيف مزوّد نظام أسماء النطاقات الخاص</string>
     <string name="private_dns_mode_provider_failure">لا يمكن الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">أدخل اسم مضيف مزوّد نظام أسماء النطاقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل Android</string>
     <string name="profile_connect_timeout_subtext">حدث خطأ أثناء الاتصال. قم بإيقاف تشغيل الجهاز وتشغيله مرة أخرى.</string>
     <string name="profile_info_settings_title">معلومات الملف الشخصي</string>
     <string name="profile_owned_footer">قد يتم مراقبة الملف الشخصي</string>
@@ -1598,7 +1611,7 @@ d MMMM"</string>
     <string name="running_foreground_services_msg">انقر للحصول على تفاصيل حول استخدام البطارية والبيانات</string>
     <string name="running_foreground_services_title">التطبيقات تعمل في الخلفية</string>
     <string name="running_process_item_user_label">المستخدم: %1$s</string>
-    <string name="runningservices_settings_summary">عرض الخدمات قيد التشغيل في الوقت الحالي والتحكم فيها</string>
+    <string name="runningservices_settings_summary">عرض الخدمات التي قيد التشغيل حالياً والتحكم فيها</string>
     <string name="runningservices_settings_title">الخدمات قيد التشغيل</string>
     <string name="save">حفظ</string>
     <string name="saved_network">تم الحفظ بواسطة %1$s</string>
@@ -1651,7 +1664,7 @@ d MMMM"</string>
     <string name="select_usb_configuration_title">حدد تهيئة USB</string>
     <string name="select_webview_provider_dialog_title">تعيين تطبيق WebView</string>
     <string name="select_webview_provider_title">تطبيق WebView</string>
-    <string name="select_webview_provider_toast_text">لم يعد هذا الاختيار صالحًا. أعد المحاولة.</string>
+    <string name="select_webview_provider_toast_text">لم يعد هذا الاختيار صالحاً. أعد المحاولة.</string>
     <string name="settings_custom_notification">إدارة الإشعارات</string>
     <string name="settings_toggle_position">إدارة عناصر التحكم</string>
     <string name="settings_toggle_position_divider_list">عناصر التحكم أعلى هذا الشريط نشطة</string>
@@ -1680,7 +1693,7 @@ d MMMM"</string>
     <string name="show_screen_updates_summary">وميض أسطح النوافذ بالكامل عند تحديثها</string>
     <string name="show_silently">عرض الإشعارات بصمت</string>
     <string name="show_touches">عرض النقرات</string>
-    <string name="show_touches_summary">عرض التعليقات المرئية للنقرات</string>
+    <string name="show_touches_summary">عرض الملاحظات المرئية للنقرات</string>
     <string name="simulate_color_space">محاكاة مسافة اللون</string>
     <string name="small_window_guide_title">النوافذ المنبثقة</string>
     <string name="small_window_notification_text">انقر لعرض المزيد عن هذه الميزة في MIUI%d</string>
@@ -1810,6 +1823,7 @@ d MMM"</string>
     <string name="torch_closed">المصباح متوقف</string>
     <string name="torch_high_temperature_warning">الجهاز ساخن. لا يمكن استخدام المصباح حاليا.</string>
     <string name="torch_opened">المصباح مشغل</string>
+    <string name="touch_filtered_warning">تعذر على الإعدادات التحقق من استجابتك لأن التطبيق أخفى طلب الإذن.</string>
     <string name="track_frame_time">ملف تعريف عرض GPU</string>
     <string name="transition_animation_scale_title">حجم الرسوم المتحركة للنقل</string>
     <string name="tts_default_lang_summary">تعيين الصوت الخاص بلغة النص المنطوق</string>
@@ -1819,7 +1833,7 @@ d MMM"</string>
     <string name="tts_default_rate_summary">سرعة نطق الكلام</string>
     <string name="tts_default_rate_title">معدل سرعة الكلام</string>
     <string name="tts_default_sample_string">هذا مثال لتحويل النص إلى كلام</string>
-    <string name="tts_engine_network_required">تتطلب هذه اللغة اتصال بشبكة لإخراج النص إلى كلام.</string>
+    <string name="tts_engine_network_required">تتطلب هذه اللغة اتصال بالشبكة لتحويل النص إلى كلام.</string>
     <string name="tts_engine_preference_section_title">المحرك المفضل</string>
     <string name="tts_engine_security_warning">قد يتمكن محرك الصوت هذا على تسجيل وجمع كل ما تقوله، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقات الائتمان. يتم توفير محرك الصوت هذا من قِبل %s. هل ترغب في تشغيل محرك الصوت؟</string>
     <string name="tts_engine_settings_button">إعدادات محرك التشغيل</string>
@@ -1834,7 +1848,7 @@ d MMM"</string>
     <string name="tts_reset_speech_pitch_summary">إعادة تعيين طبقة الصوت للنص المنطوق إلى الإفتراضي.</string>
     <string name="tts_reset_speech_pitch_title">إعادة تعيين سرعة طبقة الصوت</string>
     <string name="tts_settings">إعدادات تحويل النص إلى كلام</string>
-    <string name="tts_settings_title">إخراج تحويل النص إلى كلام</string>
+    <string name="tts_settings_title">تحويل النص إلى كلام</string>
     <string name="tts_status_checking">جارٍ التحقق…</string>
     <string name="tts_status_not_supported">%1$s غير مدعوم</string>
     <string name="tts_status_ok">%1$s مدعومة بالكامل</string>
@@ -1972,8 +1986,8 @@ d MMM"</string>
     <string name="wallpaper_global_des_drop_down_notify_text">حرر لعرض التفاصيل</string>
     <string name="wapi_all_sel_mode">تحديد</string>
     <string name="wapi_auto_sel_cert">التحديد تلقائياً</string>
-    <string name="wapi_auto_sel_cert_fail">لا يمكن اختيار الشهادة تلقائياً. يرجى تحديد شهادة من القائمة، ثم حاول الاتصال.</string>
-    <string name="wapi_cert_is_not_exist">الشهائد غير متوفرة. اضف واحدة أولاً.</string>
+    <string name="wapi_auto_sel_cert_fail">لا يمكن تحديد الشهادة تلقائياً. يرجى تحديد الشهادة من القائمة، ثم إعادة الاتصال.</string>
+    <string name="wapi_cert_is_not_exist">لا توجد شهائد متوفرة. قم بإضافة واحدة أولاً.</string>
     <string name="wapi_cert_is_not_selected">حدد الشهادة أولاً</string>
     <string name="wapi_cert_manage_error">تعذر تعيين شهادة WAPI.</string>
     <string name="wapi_cert_manage_summary">إضافة أو حذف شهادة WAPI</string>
@@ -1981,32 +1995,42 @@ d MMM"</string>
     <string name="wapi_cert_roaming">جارٍ الاتصال…</string>
     <string name="wapi_cert_select">شهادة WAPI</string>
     <string name="wapi_no">لا</string>
-    <string name="wapi_no_vaild_cert">يبدو أن الشهادات المطلوبة غير مثبتة. التثبيت الآن؟</string>
+    <string name="wapi_no_vaild_cert">يبدو أن الشهادات المطلوبة غير مثبتة. هل تريد التثبيت الآن؟</string>
     <string name="wapi_password_empty">ادخل كلمة المرور</string>
-    <string name="wapi_password_hex_format_add">يجب أن تستخدم رقم زوجي للحروف السداسية العشرية</string>
+    <string name="wapi_password_hex_format_add">يجب أن تستخدم اعداد زوجية لحروف نظام العد السادس العشري</string>
     <string name="wapi_password_hex_format_invalid">صيغة كلمة المرور غير صحيحة</string>
-    <string name="wapi_password_hex_length_invalid">يجب أن يكون عدد الأحرف السداسية العشرية عدد زوجي</string>
+    <string name="wapi_password_hex_length_invalid">يجب أن تكون أحرف نظام العد السادس عشري اعداد زوجية</string>
     <string name="wapi_password_is_empty">لا يمكن ان تكون كلمة المرور فارغة</string>
-    <string name="wapi_password_is_not_hex_format">أحرف سداسية عشرية غير صالحة</string>
+    <string name="wapi_password_is_not_hex_format">أحرف نظام العد السادس عشري غير صالحة</string>
     <string name="wapi_password_length_invalid">يجب أن تتكون كلمة المرور من ٨ إلى ٦٤ حرف</string>
     <string name="wapi_password_length_is_max">يمكن أن تصل كلمة المرور إلى ٦٤ حرف</string>
     <string name="wapi_password_length_is_min">يجب أن تتكون كلمة المرور من ٨ أحرف على الأقل</string>
     <string name="wapi_password_length_is_min_to_max">يجب أن تتكون كلمة المرور من ٨ إلى ٦٤ حرف</string>
     <string name="wapi_psk_type">نوع كلمة المرور</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
-    <string name="wapi_psk_type_hex">سداسي عشري</string>
+    <string name="wapi_psk_type_hex">نظام العد السادس عشري</string>
     <string name="wapi_yes">نعم</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">تم تحديثه %1$s</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطة الوصول ممتلئة مؤقتًا</string>
     <string name="wifi_auto_sel_wapi_cert">التحديد تلقائياً</string>
-    <string name="wifi_cant_connect">لا يمكن الاتصال</string>
-    <string name="wifi_cant_connect_to_ap">"لا يمكن الاتصال بشبكة '%1$s'"</string>
-    <string name="wifi_check_password_try_again">تحقق من كلمة المرور وحاول مجدداً</string>
+    <string name="wifi_cant_connect">تعذر الاتصال</string>
+    <string name="wifi_cant_connect_to_ap">"تعذر الاتصال بشبكة '%1$s'"</string>
+    <string name="wifi_check_password_try_again">تحقق من كلمة المرور ثم حاول مجدداً</string>
     <string name="wifi_connected_mac_randomization">متصل بعنوان MAC عشوائي</string>
     <string name="wifi_connected_no_internet">لا يتوفر اتصال إنترنت.</string>
     <string name="wifi_coverage_extend">تشغيل توسيع تغطية Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">تفعيل توسيع تغطية Wi-Fi بإستخدام نقطة الاتصال</string>
-    <string name="wifi_disabled_by_recommendation_provider">الاتصال غير ممكن بسبب ضعف جودة الشبكة</string>
+    <string name="wifi_debugging_allow">السماح</string>
+    <string name="wifi_debugging_always">اسمح دائما على هذه الشبكة</string>
+    <string name="wifi_debugging_message">"اسم الشبكة (SSID)%1$s
+
+عنوان Wi-Fi (BSSID)
+%2$s"</string>
+    <string name="wifi_debugging_secondary_user_message">لا يمكن للمستخدم الحالي المسجل على هذا الجهاز تشغيل التصحيح اللاسلكي. لإستخدام هذه الميزة، قم بالتبديل إلى مستخدم الرئيسي.</string>
+    <string name="wifi_debugging_secondary_user_title">التصحيح اللاسلكي غير مسموح</string>
+    <string name="wifi_debugging_title">هل ترغب في السماح بالتصحيح اللاسلكي على هذه الشبكة؟</string>
+    <string name="wifi_disabled_by_recommendation_provider">تعذر الاتصال بسبب ضعف جودة الشبكة</string>
     <string name="wifi_disabled_generic">غير مفعل</string>
     <string name="wifi_disabled_network_failure">تعذر إعداد IP</string>
     <string name="wifi_disabled_password_failure">مشكلة في المصادقة</string>
@@ -2016,37 +2040,37 @@ d MMM"</string>
     <string name="wifi_display_certification_summary">عرض خيارات شهادة عرض شاشة اللاسلكي</string>
     <string name="wifi_enhanced_mac_randomization">Wi-Fi - تحسين توزيع MAC العشوائي</string>
     <string name="wifi_enhanced_mac_randomization_summary">عند تشغيل هذا الوضع، سيتغير عنوان MAC الخاص بهذا الجهاز في كل مرة يتصل فيها الجهاز بشبكة تم تمكين عنوان MAC عشوائي فيها.</string>
-    <string name="wifi_fail_to_scan">لا يمكن البحث عن شبكات</string>
+    <string name="wifi_fail_to_scan">تعذر البحث عن شبكات</string>
     <string name="wifi_hand_sel_wapi_cert">شهادة WAPI</string>
     <string name="wifi_is_off">شبكة Wi-Fi متوقفة</string>
     <string name="wifi_limited_connection">اتصال محدود</string>
     <string name="wifi_metered_label">مُقاسة</string>
-    <string name="wifi_no_internet">لا يمكن الاتصال بالإنترنت</string>
-    <string name="wifi_no_internet_no_reconnect">لا يمكن الاتصال بالإنترنت</string>
+    <string name="wifi_no_internet">تعذر الاتصال بالإنترنت</string>
+    <string name="wifi_no_internet_no_reconnect">تعذر الاتصال بالإنترنت</string>
     <string name="wifi_not_in_range">ليس في النطاق</string>
     <string name="wifi_passpoint_expired">انتهت الصلاحية</string>
     <string name="wifi_remembered">تم الحفظ</string>
     <string name="wifi_scan_throttling">قيود فحص WiFi</string>
-    <string name="wifi_scan_throttling_summary">تقليل استنزاف البطارية وتحسين أداء الشبكة</string>
+    <string name="wifi_scan_throttling_summary">تقليل استنزاف طاقة البطارية &amp; تحسين أداء الشبكة</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_none">بدون</string>
+    <string name="wifi_security_none">لا شيء</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_wapi_cert">WAPI-Cert</string>
     <string name="wifi_security_wapi_psk">WAPI-PSK</string>
     <string name="wifi_security_wapi_psk_ascii">ASCII</string>
-    <string name="wifi_security_wapi_psk_hexadecimal">سداسي عشري</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">نظام العد السادس عشري</string>
     <string name="wifi_ssid_is_empty">لا يمكن أن يكون SSID فارغًا</string>
     <string name="wifi_ssid_length_is_max">يمكن أن يصل SSID إلى ٣٢ حرفًا</string>
-    <string name="wifi_status_mac_randomized">‏يتم اختيار عنوان MAC بشكل انتقائي</string>
+    <string name="wifi_status_mac_randomized">‏يتم اختيار عنوان MAC بشكل عشوائي</string>
     <string name="wifi_status_no_internet">لا يوجد إنترنت</string>
     <string name="wifi_status_sign_in_required">تسجيل الدخول مطلوب</string>
     <string name="wifi_unmetered_label">غير مُقاسة</string>
     <string name="wifi_verbose_logging">تشغيل سجلات Wi-Fi verbose</string>
     <string name="wifi_verbose_logging_summary">‏زيادة مستوى تسجيل Wi-Fi (عرض لكل SSID RSSI في منتقي Wi-Fi)</string>
     <string name="wifi_wapi_as_certificate">شهادة AS</string>
-    <string name="wifi_wapi_cert_mode_hand_text">تحديد يدوياً</string>
+    <string name="wifi_wapi_cert_mode_hand_text">تحديد يدوي</string>
     <string name="wifi_wapi_certification_dont_exist">شهادة WAPI غير موجودة. قم بإضافتها أولاً.</string>
     <string name="wifi_wapi_fail_to_auth">"فشلت مصادقة WAPI.
 تأكد من صحة الشهادات."</string>
@@ -2077,7 +2101,7 @@ d MMM"</string>
     <string name="zen_alarms_introduction">لن يتم إزعاجك بالأصوات والاهتزازات، باستثناء التنبيهات. ستظل تسمع الموسيقى ومقاطع الفيديو والألعاب التي قمت بأختيارها.</string>
     <string name="zen_interruption_level_priority">الأولوية فقط</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="zen_mode_duration_always_prompt_title">اسأل في كل مرة</string>
+    <string name="zen_mode_duration_always_prompt_title">السؤال في كل مرة</string>
     <string name="zen_mode_duration_settings_title">المدة</string>
     <string name="zen_mode_enable_dialog_turn_on">تشغيل</string>
     <string name="zen_mode_forever">حتى تقوم بإيقاف</string>

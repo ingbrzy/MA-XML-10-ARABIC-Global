@@ -64,6 +64,7 @@
     <string name="accessibility_camera_video_960fps_960">960FPS</string>
     <string name="accessibility_camera_video_fps_120">120FPS</string>
     <string name="accessibility_camera_video_fps_30">30FPS</string>
+    <string name="accessibility_camera_video_slow_motion_fps">%dFPS</string>
     <string name="accessibility_closed">متوقف</string>
     <string name="accessibility_color">اللون</string>
     <string name="accessibility_date">التاريخ</string>
@@ -79,6 +80,8 @@
     <string name="accessibility_document_strengthen_button">جاري مسح المستندات. محسن.</string>
     <string name="accessibility_dual_preview_change">عرض التغييرات</string>
     <string name="accessibility_dual_preview_change_finish">تم عرض التغييرات بنجاح</string>
+    <string name="accessibility_dual_video_merged">فيديو مدمج</string>
+    <string name="accessibility_dual_video_standalone">فيديوهات منفصلة</string>
     <string name="accessibility_eis_normal">مثبت الفيديو مشغل</string>
     <string name="accessibility_eis_off">مثبت الفيديو متوقف</string>
     <string name="accessibility_eis_pro">مثبت الفيديو برو مشغل</string>
@@ -269,6 +272,9 @@
     <string name="ai_west_lake">البحيرة الغربية</string>
     <string name="ai_wuhan">ووهان</string>
     <string name="ai_zhang_jia_jie">زانغجياجي</string>
+    <string name="aiwatermark_location_absent_hint">تعذر الحصول على معلومات الموقع</string>
+    <string name="aiwatermark_location_list_title">الموقع</string>
+    <string name="aiwatermark_location_tips">اسمح للكاميرا بالوصول إلى موقعك للحصول على مزيد من العلامات المائية</string>
     <string name="ambilight_description_title">حول أوضاع التعرض للضوء لفترات طويلة</string>
     <string name="ambilight_intro_crowd_moving_part1">عند التصوير في شارع مزدحم، اطلب من الشخص ألا يتحرك. هذا الوضع يحول الأشخاص في الخلفية إلى مسارات غير واضحة (ضبابية).</string>
     <string name="ambilight_intro_crowd_moving_part2">يمكنك إيضًا إلتقاط صورة للمباني وحركة المرور المزدحمة. ستبقي ميزة التعرض للضوء لفترات طويلة المباني واضحة، وكل الأجسام المتحركة ستكون ضبابية.</string>
@@ -290,6 +296,7 @@
     <string name="ambilight_tips_for_suggest_using_tripod">إستخدام حامل كاميرا ثلاثي الأرجل</string>
     <string name="ambilight_tips_for_using_tripod">يوصى بإستخدام حامل كاميرا ثلاثي الأرجل</string>
     <string name="audio_focus_exit_button_text">إيقاف تشغيل التركيز الصوتي</string>
+    <string name="auto_hibernation_enter_tip">على وشك إيقاف تشغيل الشاشة…</string>
     <string name="autozoom_click_hint">انقر على جسم ما للتركيز عليه أثناء تحركه. ابق على بعد ٣ أمتار على الأقل للحصول على أفضل تأثير.</string>
     <string name="autozoom_disabled_hint">تم التوقف عن تتبع الجسم المتحرك</string>
     <string name="autozoom_hint">تتبع الجسم المتحرك</string>
@@ -454,10 +461,20 @@
     <string name="document_mode_use_hint_text_title">مسح ضوئي للمستندات</string>
     <string name="document_origin">الأصلي</string>
     <string name="document_strengthen">مُحسن</string>
+    <string name="download_cancel_hint">هل ترغب في إلغاء تنزيل %1$s؟</string>
+    <string name="download_confirm">تنزيل</string>
+    <string name="download_hint">سيتم استخدام %1$s ميجابايت من بيانات الهاتف لتنزيل هذه العناصر. هل مازلت ترغب في متابعة التنزيل؟</string>
+    <string name="download_title">تحذير استخدام البيانات</string>
     <string name="dual_camera_lens_covered_toast">العدسة مغطاة.</string>
     <string name="dual_camera_lowlight_toast">يبدو أنه مظلم جداً.</string>
     <string name="dual_camera_too_close_toast">الكاميرا قريبة جدا من الشيء.</string>
     <string name="dual_camera_use_hint">تأكد من أن الشيء ليس أبعد من ٢ أمتار.</string>
+    <string name="dual_video_record_merged">مدمج</string>
+    <string name="dual_video_record_standalone">منفصل</string>
+    <string name="dual_video_user_guide_main_content">لإنشاء مقاطع متعددة، اختر كاميرتين على الجهاز وصور في وقت واحد. يمكن حفظ مقاطع الفيديو بشكل منفصل أو دمجها في وضع تقسيم الشاشة أو وضع صورة داخل صورة.</string>
+    <string name="dual_video_user_guide_main_title">فيديوهات متعددة</string>
+    <string name="dual_video_user_guide_merge_content">تسجيل مقاطع الفيديو في وقت واحد باستخدام كاميرتين ودمجهما في فيديو مدمج في شاشة مقسمة أو وضع صورة داخل صورة.</string>
+    <string name="dual_video_user_guide_standalone_content">تسجيل مقاطع الفيديو في وقت واحد بإستخدام كاميرتين وحفظ كلا التسجيلين كمقاطع فيديو منفصلة.</string>
     <string name="edit_blusher">أحمر شفاه</string>
     <string name="edit_chin">ذقن</string>
     <string name="edit_eye_large">عيون كبيرة</string>
@@ -512,6 +529,10 @@
     <string name="face_beauty_intelligent_level_3">عالي</string>
     <string name="face_beauty_smart">ذكي</string>
     <string name="face_score_info">النتيجة: %.1f</string>
+    <string name="fastmotion_pro_adjust_name">المعلمات</string>
+    <string name="fastmotion_pro_save_time_infinity">مدة غير محدودة</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">المدة: %1$s و %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">المدة: %1$s</string>
     <string name="fps960_toast">يبدأ التقاط الحركة البطيئة في الربع الأخير من التسجيل</string>
     <string name="fragment_tab_name_bokeh">بوكيه</string>
     <string name="front_camera_hint_text_place">"سيكون أخذ سيلفي أسهل
@@ -571,8 +592,11 @@
     <string name="lighting_pattern_stage">مسرح</string>
     <string name="lighting_phantom">سراب</string>
     <string name="lighting_rainbow">قوس قزح</string>
+    <string name="live_draft_continue">Resume</string>
+    <string name="live_draft_empty">No items here</string>
     <string name="live_edit_exit_confirm">إيقاف</string>
     <string name="live_edit_exit_message">التوقف عن التصوير الآن؟</string>
+    <string name="live_edit_exit_message_draft">Save as draft</string>
     <string name="live_edit_share_title">مشاركة</string>
     <string name="live_error_confirm">ضبط الوقت</string>
     <string name="live_error_message">قد لا تعمل بعض الميزات بشكل صحيح عندما يكون وقت النظام غير صحيح.</string>
@@ -597,6 +621,8 @@
     <string name="live_sticker_fragment_tab_name">تأثيرات TikTok</string>
     <string name="live_sticker_network_error_hint">خطأ بالشبكة</string>
     <string name="live_sticker_updating">جارٍ التحديث…</string>
+    <string name="live_workspace_title">Drafts</string>
+    <string name="live_workspace_title_edit">Select items to delete</string>
     <string name="location_access_allow">السماح</string>
     <string name="location_permission_des">تذكر موقع الصور والفيديوهات</string>
     <string name="location_permission_not_ask_again">اسمح للكاميرا بالوصول إلى موقعك من الإعدادات.</string>
@@ -745,7 +771,7 @@
     <string name="module_name_fun_ar">ايموجي شخصي</string>
     <string name="module_name_manual">يدوي</string>
     <string name="module_name_more">المزيد</string>
-    <string name="module_name_multi_camera">الأمامية والخلفية</string>
+    <string name="module_name_multi_camera">كاميرات متعددة</string>
     <string name="module_name_new_slow_motion">حركة بطيئة</string>
     <string name="module_name_panorama">بانوراما</string>
     <string name="module_name_portrait">بورتريه</string>
@@ -753,6 +779,7 @@
     <string name="module_name_square">مربع</string>
     <string name="module_name_super_moon">قمر عملاق</string>
     <string name="module_name_video">فيديو</string>
+    <string name="module_name_vlog">فلوج</string>
     <string name="moive_frame">إطار الفيلم</string>
     <string name="more_mode_style">حدد كيفية ترتيب أوضاع الكاميرا</string>
     <string name="more_mode_style_popup">لوحة \"المزيد\"</string>
@@ -886,6 +913,8 @@
     <string name="pref_camera_auto_capture_when_stable_summary">لتحديد شيء، اضغط على نقطتين قطريتين حول حدوده. عندما يكون الشيء ثابتا ستقوم الكاميرا بتصوير لقطة تلقائيا.</string>
     <string name="pref_camera_auto_capture_when_stable_title">إلتقاط الأجسام المحدّدة عند الثبوت</string>
     <string name="pref_camera_auto_chroma_flash_title">فلاش Chroma</string>
+    <string name="pref_camera_auto_hibernation">التصوير مع إيقاف تشغيل الشاشة</string>
+    <string name="pref_camera_auto_hibernation_description">إيقاف تشغيل الشاشة بعد %d دقائق من تصوير الفيديو لتوفير البطارية</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">مركز معتدل</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">متوسط الإطار</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">مقياس اللقطة</string>
@@ -893,6 +922,7 @@
     <string name="pref_camera_auxiliary_close">متوقف</string>
     <string name="pref_camera_auxiliary_exposure_feedback">التحقق من التعرض</string>
     <string name="pref_camera_auxiliary_focus_peak">ذروة التركيز البؤري</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1113,7 +1143,7 @@
     <string name="pref_custom_tint_title">الألوان</string>
     <string name="pref_customization_title">تخصيص</string>
     <string name="pref_document_mode">المستندات</string>
-    <string name="pref_dual_camera_video">الأمامية والخلفية</string>
+    <string name="pref_dual_camera_video">فيديو مزدوج</string>
     <string name="pref_face_beauty_title">تجميل</string>
     <string name="pref_fingerprint_capture_title">التصوير بمستشعر بصمة الإصبع</string>
     <string name="pref_front_denoise_summary">تقليل الضوضاء المحيطة بكاميرا الهاتف</string>
@@ -1326,6 +1356,8 @@
     <string name="unknow_error">خطأ غير معروف</string>
     <string name="unsupported_microphones_3d_record_tips">لا يتم دعم صوت 3D في الميكروفونات الخارجية</string>
     <string name="unsupported_microphones_audio_zoom_tips">لا يتم دعم تكبير الصوت في الميكروفونات الخارجية</string>
+    <string name="update_loading">تم تنزيل %1$d%%</string>
+    <string name="update_start">تحديث %1$s</string>
     <string name="user_agree">موافق</string>
     <string name="user_define_watermark_cancel">إلغاء</string>
     <string name="user_define_watermark_save">حفظ</string>
@@ -1350,12 +1382,12 @@
     <string name="video_effect_entry_color_retention">تركيز اللون</string>
     <string name="video_effect_entry_fantasy">خيالي</string>
     <string name="video_effect_entry_film">فيلم</string>
-    <string name="video_effect_entry_forest">Grove</string>
+    <string name="video_effect_entry_forest">بستان</string>
     <string name="video_effect_entry_holiday">انعكاسات</string>
     <string name="video_effect_entry_lost">ضائع</string>
     <string name="video_effect_entry_meet">مواجهة</string>
     <string name="video_effect_entry_northern_europe">نوردك</string>
-    <string name="video_effect_entry_polaroid">Polaroid</string>
+    <string name="video_effect_entry_polaroid">بولارويد</string>
     <string name="video_effect_entry_rome">روما</string>
     <string name="video_effect_entry_summer_day">صيف</string>
     <string name="video_effect_entry_wind_sing">نسيم</string>
@@ -1365,12 +1397,12 @@
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">عرض سياسة الخصوصية</string>
     <string name="vv_duartion_hint">%1$s | مقطع %2$d |%3$sث</string>
-    <string name="vv_hint">يمكنك تصوير فلوج (Vlog) فقط في وضع الأفقي</string>
+    <string name="vv_hint">يمكنك تصوير فلوج فقط في وضع الأفقي</string>
     <string name="vv_stability_hint">جارٍ الحافظ على استقرار الجهاز</string>
-    <string name="vv_start">تصوير فلوج (Vlog)</string>
-    <string name="vv_use_hint_text_body">"وضع التدوين المرئي أو فلوج (Vlog) يسمح لك
+    <string name="vv_start">تصوير فلوج</string>
+    <string name="vv_use_hint_text_body">"وضع التدوين المرئي أو فلوج يسمح لك
 بتسجيل وتعديل الفيديوهات مباشرة"</string>
-    <string name="vv_use_hint_text_title">فلوج (Vlog)</string>
+    <string name="vv_use_hint_text_title">فلوج</string>
     <string name="wait">لحظة من فضلك…</string>
     <string name="watermark_tab_city">مدينة</string>
     <string name="watermark_tab_festival">عطلة</string>

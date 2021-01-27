@@ -94,6 +94,7 @@
     <string name="auth_fail_warning">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
     <string name="auto_play_next_off">التشغيل التلقائي متوقف</string>
     <string name="auto_play_next_on">التشغيل التلقائي مشغل</string>
+    <string name="back_to_mainpage">اكتشف</string>
     <string name="before_yestoday">قبل يومين</string>
     <string name="bind_sign_in_title">إضافة حساب Mi</string>
     <string name="cancel">إلغاء</string>
@@ -117,6 +118,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
@@ -149,7 +151,7 @@
     <string name="choose_to_signup">لا، سأقوم بإنشاء واحد</string>
     <string name="click_to_reload_more">انقر لتحميل المزيد</string>
     <string name="click_to_retry">حاول مجدداً</string>
-    <string name="cloud_online_switch">توصيات مخصصة</string>
+    <string name="cloud_online_switch">التوصيات المخصصة</string>
     <string name="cloud_online_switch_close_time">يمكنك تشغيل توصيات المحتوى المخصصة من %s</string>
     <string name="cloud_online_switch_open_time">عرض توصيات المحتوى الشخصي</string>
     <string name="collect_diagnosis_log">جمع السجلات</string>
@@ -233,7 +235,7 @@
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
     <string name="dialog_privacy_info_new2">لتتمكن من استخدام خدماته، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها. بالنقر على \"أوافق\" يعني أنك قد قرأت ووافقت على &lt;a href=%2$s> سياسة الخصوصية&lt;/a>أدناة.</string>
-    <string name="dialog_privacy_info_new3">لتتمكن من استخدام هذه الخدمة، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها وفقًا لسياسة الخصوصية. بالنقر على أوافق أدناه، فأنك توافق على &lt;a href=%2$s>سياسة الخصوصية&lt;/a>و&lt;a href=%3$s>اتفاقية المستخدم&lt;/a>.</string>
+    <string name="dialog_privacy_info_new3">لإستخدام هذه الخدمة، اسمح لتطبيق %1$s بجمع معلوماتك الشخصية ومعالجتها واستخدامها وفقًا لسياسة الخصوصية. بالنقر على أوافق أدناه، فأنك توافق على &lt;a href=%2$s>سياسة الخصوصية&lt;/a>و&lt;a href=%3$s>اتفاقية المستخدم&lt;/a> الخاصة بشركة Xiaomi.&lt;br/>&lt;br/>يؤدي النقر على أوافق أيضًا إلى منح فيديو Mi الوصول إلى قائمة التطبيقات المثبتة على جهازك. ومن خلال هذا الإذن، سيتمكن فيديو Mi من مشاركة العناصر ومعرفة ما إذا كان التطبيق مثبتًا على جهازك وما هو إصدار التطبيق المثبت وما إذا كان التطبيق آمنًا.</string>
     <string name="dialog_privacy_title">الترخيص</string>
     <string name="dialog_revoke_privacy_info_new2">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وستتم إزالة كافة البيانات ذات الصلة من الخوادم. قد يؤدي هذا إلى عمل التطبيق بشكل غير طبيعي. إلغاء التصريح على إية حال؟</string>
     <string name="dialog_revoke_privacy_title">إلغاء الترخيص</string>
@@ -303,6 +305,7 @@
     <string name="favorite_fail">تعذر الإضافة إلى المفضلة. حاول مجددا.</string>
     <string name="favorite_success">تمت الإضافة إلى المفضلة بنجاح</string>
     <string name="fcm_fallback_notification_channel_label">متنوعة</string>
+    <string name="fcm_push_title">فيديوهات رائجة</string>
     <string name="feedback">التعليقات</string>
     <string name="feedback_activity_title">التعليقات</string>
     <string name="feedback_contact_empty">أدخل معلومات الاتصال الخاصة بك</string>
@@ -649,6 +652,9 @@
     <string name="notification_bar_player_subtitle">إظهار مشغل مصغر في مركز الإشعارات</string>
     <string name="notification_bar_player_title">مشغل مصغر</string>
     <string name="notification_open_tip">تشغيل لاستلام الإشعارات</string>
+    <string name="notification_recall_action">تشغيل</string>
+    <string name="notification_recall_desc">يمكن لفيديو Mi إعلامك بشأن مقاطع الفيديو الرائجة واشتراكاتك.</string>
+    <string name="notification_recall_title">تشغيل الإشعارات</string>
     <string name="notify_apk_installed">تم التحميل بنجاح</string>
     <string name="ok">موافق</string>
     <string name="order_alphabet">A-Z</string>
@@ -847,6 +853,7 @@
     <string name="permission_storage">المساحة</string>
     <string name="permission_storage_desc">الوصول إلى العناصر وحفظ الملفات وعرض وتشغيل الفيديوهات المحلية</string>
     <string name="permission_title">الأذونات مطلوبة</string>
+    <string name="pgc_push_title">الاشتراكات</string>
     <string name="phone_bind_too_many">لقد ارتبط هذا الهاتف بالعديد من حسابات Mi في فترة زمنية قصيرة. حاول استخدام رقم هاتف آخر.</string>
     <string name="phone_hint">رقم الهاتف</string>
     <string name="phone_num_use_for">يستخدم رقم الهاتف في:</string>

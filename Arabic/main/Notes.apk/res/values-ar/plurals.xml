@@ -176,6 +176,22 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">تم العثور على %1$s ملاحظة</item>
+        <item quantity="zero">تم العثور على %1$s ملاحظة</item>
+        <item quantity="one">تم العثور على %1$s ملاحظة</item>
+        <item quantity="two">تم العثور على %1$s ملاحظات</item>
+        <item quantity="few">تم العثور على %1$s ملاحظات</item>
+        <item quantity="many">تم العثور على %1$s ملاحظة</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">تم العثور على %1$s مهمة</item>
+        <item quantity="zero">تم العثور على %1$s مهمة</item>
+        <item quantity="one">تم العثور على %1$s مهمة</item>
+        <item quantity="two">تم العثور على %1$s مهام</item>
+        <item quantity="few">تم العثور على %1$s مهام</item>
+        <item quantity="many">تم العثور على %1$s مهمة</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d ثانية متبقية</item>
         <item quantity="zero">%d ثواني متبقية</item>

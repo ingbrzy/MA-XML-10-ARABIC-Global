@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">متصل</string>
     <string name="call_record_list_group_unconnected">غير متصل</string>
     <string name="cancel_rename">إلغاء</string>
+    <string name="clear_data_dialog_content">سيتم حذف العناصر المخزنة مؤقتًا وبيانات التطبيق والإعدادات المخصصة، ولكن سيتم الاحتفاظ بتسجلاتك.</string>
+    <string name="clear_data_dialog_title">هل ترغب في مسح البيانات الآن؟</string>
     <string name="clear_records">حذف التسجيلات المتزامنة</string>
     <string name="cloud_record_open">التسجيلات المتزامنة</string>
     <string name="cloud_record_tip">مزامنة التسجيلات مع Xiaomi Cloud.</string>
@@ -127,7 +129,7 @@
     <string name="network_unavailable_tip">قم بالاتصال بالإنترنت ثم حاول مجددا.</string>
     <string name="new_record_name">تسجيل جديد</string>
     <string name="no_file">فارغ</string>
-    <string name="no_network">"Couldn't connect to the network"</string>
+    <string name="no_network">لا يمكن الاتصال بالشبكة</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notification_message_all_paused">جارٍ انتظار الاتصال بشبكة Wi-Fi.</string>
     <string name="notification_playback">جارٍ التشغيل…</string>
@@ -171,6 +173,7 @@
     <string name="pay_error_unknown">خطأ غير معروف</string>
     <string name="playback_delete_records">حذف التسجيل</string>
     <string name="playback_share_records">مشاركة التسجيل</string>
+    <string name="preference_clear_data">مسح البيانات</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="preference_enable_earpiece_summary">استخدام مكبر صوت جهاز الاستقبال للتشغيل الخارجي</string>
     <string name="preference_enable_earpiece_title">استخدام جهاز الاستقبال لتشغيل الصوت</string>
@@ -329,6 +332,8 @@
     <string name="trash_box">العناصر المحذوفة مؤخرا</string>
     <string name="trash_box_close_tip">أغلاق التذكير</string>
     <string name="trash_box_delete_all">هل تريد حذف جميع العناصر من المهملات نهائيًا؟</string>
+    <string name="uninstall_warning_content">المسجل هو أحد تطبيقات النظام. لن تتمكن من تسجيل المكالمات الصوتية والمكالمات الصوتية ونسخها بعد إلغاء تثبيته.</string>
+    <string name="uninstall_warning_title">هل ترغب في إلغاء تثبيت المسجل؟</string>
     <string name="usage_description">نسخ الصوت ومزامنة العناصر مع Cloud</string>
     <string name="user_feedback">التعليقات</string>
     <string name="v7_preference_off">إيقاف</string>

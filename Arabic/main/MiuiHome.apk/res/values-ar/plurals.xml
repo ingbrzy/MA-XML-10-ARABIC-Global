@@ -32,6 +32,14 @@
         <item quantity="few">تم تحديد %1$d عناصر</item>
         <item quantity="many">تم تحديد %1$d عنصر</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
+        <item quantity="zero">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
+        <item quantity="one">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
+        <item quantity="two">هل ترغب في إزالة %1$d تطبيقات من الشاشة الرئيسية؟</item>
+        <item quantity="few">هل ترغب في إزالة %1$d تطبيقات من الشاشة الرئيسية؟</item>
+        <item quantity="many">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">الصفحة %1$d، %2$d تطبيق.</item>
         <item quantity="zero">الصفحة %1$d، %2$d تطبيق.</item>

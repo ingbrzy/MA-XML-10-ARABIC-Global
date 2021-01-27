@@ -65,6 +65,10 @@
     <string name="about">حول</string>
     <string name="action_settings">الإعدادات</string>
     <string name="ad_install">تثبيت</string>
+    <string name="add_download_download">تنزيل</string>
+    <string name="add_download_error_not_support">هذا الرابط غير مدعوم</string>
+    <string name="add_download_text_hint">ادخل رابط HTTP/HTTPS</string>
+    <string name="add_download_title">إضافة عنوان URL</string>
     <string name="all_downloads">كل التنزيلات</string>
     <string name="all_fileter">الكل</string>
     <string name="all_share_files_content">تم حذف الملفات الذي حددتها مسبقاً.</string>
@@ -89,6 +93,8 @@
     <string name="dialog_btn_cancel">إلغاء</string>
     <string name="dialog_btn_ok">موافق</string>
     <string name="dialog_btn_ok_disabled_net">إعدادات الشبكة</string>
+    <string name="dialog_clipboard_permission_message">هل تسمح للتطبيق الذي تم تنزيله بالوصول إلى العناصر الموجودة في الحافظة لإضافة عنوان URL المنسوخ تلقائيًا؟</string>
+    <string name="dialog_clipboard_permission_title">الأذونات مطلوبة</string>
     <string name="dialog_confirm_delete_checkbox_message">حذف الملفات المحلية ايضاً</string>
     <string name="dialog_confirm_delete_the_download_item_message">حذف هذه المهام</string>
     <string name="dialog_file_missing_title">لا يمكن فتح الملف</string>
@@ -124,19 +130,13 @@
     <string name="download_when_network_connected">تنزيل بواسطة اتصال البيانات</string>
     <string name="downloaded">اكتمل التحميل</string>
     <string name="downloaded_empty">فارغ</string>
+    <string name="downloaded_tab_hint">يمكنك عرض العناصر التي تم تنزيلها في إدارة الملفات</string>
     <string name="downloading">جارِ التنزيل…</string>
     <string name="downloading_empty">فارغ</string>
     <string name="downloads_operating">جارٍ التنفيذ…</string>
-    <string name="durationDayHour">%1$d يوم و %2$d س</string>
-    <string name="durationDayHours">%1$d يوم و %2$d س</string>
-    <string name="durationHourMinute">%1$d س و %2$d دق</string>
-    <string name="durationHourMinutes">%1$d س و %2$d دق</string>
-    <string name="durationMinute">%1$d دق</string>
-    <string name="durationMinuteSecond">%1$d دق %2$d ث</string>
-    <string name="durationMinuteSeconds">%1$d دق و %2$d ث</string>
-    <string name="durationMinutes">%1$d دق</string>
-    <string name="durationSecond">%1$d ثانية</string>
-    <string name="durationSeconds">%1$d ثانية</string>
+    <string name="durationDayHours">%1$s %2$s</string>
+    <string name="durationHourMinutes">%1$s %2$s</string>
+    <string name="durationMinuteSeconds">%1$s %2$s</string>
     <string name="editmode_menu_delete">حذف</string>
     <string name="editmode_menu_share">مشاركة</string>
     <string name="extend">المزيد</string>
@@ -205,10 +205,20 @@
     <string name="pref_download_settings_title">حد حجم التنزيل</string>
     <string name="pref_summary_any_bytes_popup">انتظر اتصال شبكة Wi-Fi دائما لتنزيل الملفات</string>
     <string name="pref_summary_enable_max_bytes_popup">عرض الإشعارات المنبثقة عند استعمال اتصال بيانات الهاتف لتنزيل المحتوى</string>
-    <string name="pref_summary_max_bytes_limit_format">انتظار خدمة Wi-Fi إذا تجاوز حجم الملف %s</string>
     <string name="pref_summary_no_limit_popup">غير محدود</string>
     <string name="pref_title_enable_max_bytes_popup">عرض طلب استخدام البيانات</string>
     <string name="preferences_title">الإعدادات</string>
+    <string name="privacy_agree_dialog_msg">&lt;Data>مرحبا بك في التنزيلات! يمكنك إستخدام هذا التطبيق لتنزيل الملفات.&lt;BR>يحتاج التنزيلات إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات التي تنشئ إحصائيات التنزيل. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>.&lt;BR>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام التنزيلات.&lt;BR> يمكنك سحب الموافقة على سياسة خصوصية التنزيلات في أي وقت من الإعدادات. أذا كنت لا توافق على سياسة الخصوصية الخاصة بنا. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
+    <string name="privacy_agree_dialog_title">الأحكام والشروط</string>
+    <string name="privacy_revoke_dialog_later">إلغاء</string>
+    <string name="privacy_revoke_dialog_msg">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية التنزيلات، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن الخدمات الأساسية التي تقدمها التنزيلات تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بالخدمات التي تعمل على أساس جمع البيانات.</string>
+    <string name="privacy_revoke_dialog_ok">سحب</string>
+    <string name="privacy_revoke_dialog_title">سحب الموافقة</string>
+    <string name="privacy_revoke_label">سحب الموافقة</string>
+    <string name="privacy_revoke_msg">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية التنزيلات.</string>
+    <string name="privacy_revoke_nonetwork_msg">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
+    <string name="privacy_revoke_nonetwork_ok">حسنا</string>
+    <string name="privacy_revoke_nonetwork_title">لا يمكن الاتصال بالشبكة</string>
     <string name="privacy_tip_cancel">إلغاء</string>
     <string name="privacy_tip_ok">موافق</string>
     <string name="rank">التصنيف</string>
@@ -249,5 +259,4 @@
     <string name="toast_only_wifi_download">قم بالاتصال بالـ Wi-Fi لتنزيل هذا العنصر</string>
     <string name="total_speedup">زيادة السرعة (الإجمالي)</string>
     <string name="version">الإصدار %s</string>
-    <string name="security_ui_title">اعلانات الحماية</string>
 </resources>

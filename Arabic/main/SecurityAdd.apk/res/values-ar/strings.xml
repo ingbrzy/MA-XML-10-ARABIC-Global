@@ -54,6 +54,7 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -161,8 +162,14 @@
     <string name="gb_advance_settings_vibration_4d_summary">الاهتزاز أثناء التصوير في اللعبة</string>
     <string name="gb_advance_settings_vibration_4d_summary2">الاهتزاز في اللعبة أثناء القتل</string>
     <string name="gb_alipays_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
+    <string name="gb_dialog_game_speed_close">جارٍ إيقاف تشغيل وضع السرعة الفائقة…</string>
+    <string name="gb_dialog_game_speed_exist">لا يمكن استخدام وضع السرعة الفائقة ​​إلا في لعبة واحدة. هل تريد استبدال \"%s\" الآن؟</string>
     <string name="gb_game_control">إعدادات GPU</string>
     <string name="gb_game_settings">الإعدادات الإضافية</string>
+    <string name="gb_game_speed_closed">وضع السرعة الفائقة متوقف</string>
+    <string name="gb_game_speed_closed_fail">لا يمكن إيقاف وضع السرعة الفائقة</string>
+    <string name="gb_game_speed_open">وضع السرعة الفائقة مشغل</string>
+    <string name="gb_game_speed_open_fail">لا يمكن تشغيل وضع السرعة الفائقة</string>
     <string name="gb_gpu_control_anisotropic_filtering">تصفية متباينة الخواص</string>
     <string name="gb_gpu_control_anti_aliasing">مانع التشويش</string>
     <string name="gb_gpu_control_fps">معدل الإطار</string>
@@ -191,6 +198,7 @@
     <string name="gb_pannel_control_mode_power_saving">حفظ الطاقة</string>
     <string name="gb_weixinpay_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الهاتف، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
+    <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">ظروف حمراء</string>
     <string name="main_toolbar_purchase">شحن الرصيد</string>
     <string name="midnight">الليل</string>
@@ -263,6 +271,7 @@
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
     <string name="share">مشاركة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
@@ -341,6 +350,9 @@
     <string name="title_share_link">مشاركة URL</string>
     <string name="today">اليوم</string>
     <string name="tomorrow">غداً</string>
+    <string name="tool_box_active_loading">لحضة من فضلك…</string>
+    <string name="tool_box_active_no_networ">لا يمكن الاتصال بالشبكة</string>
+    <string name="tool_box_active_reload">تحديث</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>

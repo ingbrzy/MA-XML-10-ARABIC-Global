@@ -37,18 +37,32 @@
     <string name="back_up_task_in_process">جارٍ النسخ الإحتياطي…</string>
     <string name="back_up_task_unfinished">تعذر النسخ الإحتياطي</string>
     <string name="backing_up_to_micloud">جارٍ النسخ الاحتياطي…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">لا توجد مساحة كافية في Xiaomi Cloud. قم بترقية خطتك أو فرغ مساحة.</string>
+    <string name="backup_action_buy_cloud_space">احصل على مساحة إضافية</string>
+    <string name="backup_action_check_network">تحقق من إعدادات الشبكة</string>
+    <string name="backup_action_clean_disk_space">تفريغ مساحة</string>
+    <string name="backup_action_retry_now">حاول مجددا</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">لا توجد مساحة تخزين كافية في Cloud لحفظ النسخة الاحتياطية هذه. قم بترقية خطتك أو تفريغ مساحة.</string>
     <string name="backup_failed_reason_disk_space_not_enough">لا توجد مساحة تخزين كافية. قم بتفريغ مساحة أولاً.</string>
-    <string name="backup_failed_reason_network_error">خطا فى الشبكة. يرجى الانتظار لمدة دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="backup_failed_reason_network_error">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
     <string name="backup_finished_notification_content">تم القيام بنسخة احتياطية للشاشة الرئيسية، إعدادات النظام، الخ.</string>
     <string name="backup_now">البدء الآن</string>
     <string name="backup_progress_percent_unit">٪</string>
+    <string name="backup_remind_buy_cloud_space">قم بزيادة خطة تخزين Cloud</string>
+    <string name="backup_remind_clean_disk_space">تفريغ مساحة التخزين</string>
+    <string name="backup_remind_cloud_space_cost">حجم النسخة الاحتياطية: %s</string>
     <string name="backup_size">الحجم: %s</string>
     <string name="backup_stopped_msg">ستحل النسخة الاحتياطية الحالية محل النسخة السابقة. اضغط للعرض.</string>
     <string name="backup_stopped_title">تم إيقاف النسخ الاحتياطي مؤقتًا</string>
     <string name="backup_success">تم الاحتفاظ بنسخة احتياطية بنجاح</string>
     <string name="backup_successfully">تم القيام بنسخة احتياطية بنجاح</string>
     <string name="backup_to_cloud">نسخ التطبيق احتياطيًا</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">لا يمكن إجراء نسخ احتياطي</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"لا توجد مساحة كافية
+لا يمكن إجراء النسخ الاحتياطي"</string>
+    <string name="backup_warning_reason_network_error">"خطأ في الشبكة
+لا يمكن إجراء النسخ الاحتياطي"</string>
+    <string name="backup_warning_reason_no_server_response">"انقطع الاتصال
+أعد المحاولة"</string>
     <string name="btn_back">رجوع</string>
     <string name="btn_continue">متابعة</string>
     <string name="btn_restore_abort">إلغاء</string>
@@ -94,7 +108,7 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">جدولة النسخ الاحتياطي</string>
-    <string name="cloud_back_up_frequence_long">كل ٧ أيام</string>
+    <string name="cloud_back_up_frequence_long">كل %d أيام</string>
     <string name="cloud_back_up_frequence_short">كل يوم</string>
     <string name="cloud_back_up_ok_btn">موافق</string>
     <string name="cloud_back_up_opening">لحظة من فضلك…</string>
@@ -105,6 +119,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">نسخ Cloud الإحتياطي</string>
     <string name="cloud_backup_derail_size_summary">الحجم: %s</string>
     <string name="cloud_backup_detail_frequence">جدولة النسخ الاحتياطي</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">نسخ احتياطي كل %d أيام</string>
+    <string name="cloud_backup_detail_frequence_every_day">نسخ احتياطي كل يوم</string>
     <string name="cloud_backup_detail_manage">إدارة النُسخ الاحتياطية</string>
     <string name="cloud_backup_detail_state">النسخ الاحتياطي تلقائيا</string>
     <string name="cloud_backup_detail_state_summary">إنشاء نُسخ Cloud احتياطية تلقائياً عند الاتصال بشبكة Wi-Fi.</string>
@@ -190,6 +206,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
     <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>

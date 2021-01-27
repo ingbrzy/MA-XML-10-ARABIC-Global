@@ -65,6 +65,7 @@
     <string name="ad_setting">الإعدادات الإضافية</string>
     <string name="add_music">إضافة اغاني</string>
     <string name="add_to_last_of_playlist">إضافة الى اخر قائمة التشغيل</string>
+    <string name="add_to_playlist">إضافة إلى قائمة الانتظار</string>
     <string name="add_to_playlist_successful">تمت الإضافة بنجاح</string>
     <string name="added_next_play">تمت الإضافة إلى التشغيل التالي</string>
     <string name="agreement_desc">اتفاقية المستخدم (إلزامية)</string>
@@ -123,6 +124,7 @@
     <string name="back">رجوع</string>
     <string name="back_confirm">انقر مرة اخرى لنقل التطبيق الى الخلفية</string>
     <string name="bluetooth_device">جهاز صوت البلوتوث</string>
+    <string name="btn_text_edit">تعديل</string>
     <string name="buffering">تخزين مؤقت…</string>
     <string name="button_cancel_download">إلغاء</string>
     <string name="button_download_now">تنزيل الآن</string>
@@ -208,6 +210,7 @@
     <string name="dialog_insufficient_space_on_cache">لا يمكن إكمال التنزيل، لا توجد مساحة تخزين داخلية كافية.</string>
     <string name="dialog_insufficient_space_on_external">لا يمكن اكمال التنزيل. لاتوجد مساحة كافية في بطاقة الذاكرة SD.</string>
     <string name="dialog_media_not_found">لا يمكن التنزيل. بطاقة الذاكرة SD غير متاحة.</string>
+    <string name="dialog_message_unfollow">إلغاء متابعة هذا الشخص؟</string>
     <string name="dialog_my_playlist_online_changed_merge">لا تستبدل</string>
     <string name="dialog_my_playlist_online_changed_message">يبدو أن قائمة التشغيل هذه تغيرت. يمكنك استبدالها بإصدار جديد أو الاحتفاظ بالإصدار القديم.</string>
     <string name="dialog_my_playlist_online_changed_replace">إستبدال</string>
@@ -235,6 +238,7 @@
     <string name="dialog_song_view_type_artist">حسب الفنان</string>
     <string name="dialog_song_view_type_folder">حسب المجلد</string>
     <string name="dialog_song_view_type_song">حسب الأغنية</string>
+    <string name="dialog_subtitle_make_playlist_public">قوائم التشغيل العامة متاحة لجميع المستخدمين. ولكن قوائم التشغيل الخاصة مرئية لك فقط على جميع الأجهزة المتزامنة.</string>
     <string name="dialog_title_clearlist_tracks">حذف من قائمة الاستماع</string>
     <string name="dialog_title_delete_tracks">حذف</string>
     <string name="dialog_title_name_playlist">اسم قائمة التشغيل</string>
@@ -280,7 +284,9 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_queued">في قائمة الاستماع</string>
@@ -368,7 +374,9 @@
     <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
     <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
     <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -390,11 +398,13 @@
     <string name="fail_to_play">لا يمكن تشغيل أغنية</string>
     <string name="failed_not_access_sd_card">السماح بالوصول إلى بطاقة SD أولاً</string>
     <string name="failed_obtain_permissions">تعذر الحصول على الإذونات</string>
+    <string name="fans">متابعين</string>
     <string name="fav_login_msg">تسجيل الدخول إلى حساب Mi لتنزيل الأغاني</string>
     <string name="favorite_canceled">تمت الإزالة من المفضلة</string>
     <string name="favorite_playlist">المفضلة</string>
     <string name="favorite_singer">الفنانين المفضلون</string>
     <string name="favorite_succeed">تم الإضافة إلى المفضلة</string>
+    <string name="favorite_to_playlist">إضافة الى قائمة التشغيل</string>
     <string name="favorite_tracks">المفضلة</string>
     <string name="favorites">المفضلة</string>
     <string name="fcm_fallback_notification_channel_label">متنوعة</string>
@@ -615,8 +625,10 @@
     <string name="no_album_info">لا توجد معلومات عن الألبوم</string>
     <string name="no_artist_info">لا توجد معلومات عن الفنان</string>
     <string name="no_downloads">لا توجد تنزيلات</string>
+    <string name="no_fans_empty_title">لا يوجد لديك أي متابعيين بعد</string>
     <string name="no_favorites_songs">فارغ</string>
     <string name="no_file_picker_find">لم يتم تثبيت مدير الملفات.</string>
+    <string name="no_follow_empty_title">أنت لا تتابع أي شخص بعد</string>
     <string name="no_local_songs">فارغ</string>
     <string name="no_local_songs_selected">تعذر إرسال الاغاني لأنه لم يتم تنزيلها بعد</string>
     <string name="no_local_source_find">تعذر إيجاد أغنية</string>
@@ -740,6 +752,7 @@
     <string name="privacy_authorize_revoking">جارٍ إلغاء الترخيص…</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامية)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="privacy_request_desc">"&lt;Data>يحتاج موسيقى Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بخدمات البث عبر الإنترنت. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية لموسيقى Mi في أي وقت من الإعدادات.
 يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام موسيقى Mi.
 أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data>"</string>
@@ -848,6 +861,7 @@
     <string name="share_end_note">من تطبيق موسيقى Mi</string>
     <string name="share_failed">تعذر المشاركة</string>
     <string name="share_image_error">تعذر مشاركة الصورة بسبب خطأ في التنزيل</string>
+    <string name="share_song">مشاركة</string>
     <string name="share_text_list">"قائمة التشغيل من موسيقى Mi: "</string>
     <string name="share_text_song">"أغنية في موسيقى Mi: "</string>
     <string name="show_float_first_hint">تصغير المشغل</string>
@@ -885,6 +899,7 @@
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
     <string name="start_update">جارٍ تثبيت اصدار جديد…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
@@ -933,11 +948,14 @@
     <string name="title_online_recommend">قوائم تشغيل مميزة</string>
     <string name="title_search_history">سجل البحث</string>
     <string name="title_search_hot">الاكثر شهرة</string>
+    <string name="toast_cant_collect_mine_playlist">لا يمكن إضافة قوائم التشغيل المخصصة إلى المفضلة</string>
     <string name="toast_cant_commit_without_title">أدخل عنوان الأغنية</string>
     <string name="toast_download_error_by_count_limit">لقد قمت باستخدام حصص التحميل الخاصة بك لهذا الشهر.</string>
     <string name="toast_download_error_by_not_login">قم بتسجيل الدخول الى حساب Mi ثم حاول مجددا.</string>
     <string name="toast_download_error_by_vip_required">احصل على حزمة الأغاني المميزة لتنزيل هذه الأغنية.</string>
     <string name="toast_download_in_process">جارٍ التنزيل</string>
+    <string name="toast_favorite_has_been_added">تمت الإضافة إلى القائمة بنجاح</string>
+    <string name="toast_follow_success">تمت المتابعة بنجاح</string>
     <string name="toast_is_pro">انت بالفعل عضو PRO.</string>
     <string name="toast_my_playlist_illegal_name">عنوان قائمة التشغيل هذه غير صالح. يرجى إعادة تسميتها.</string>
     <string name="toast_my_playlist_set_to_private">قائمة التشغيل هذه خاصة الآن. لايمكن للأشخاص الآخرين رؤيتها.</string>
@@ -948,6 +966,9 @@
     <string name="toast_normal_songs_for_download">تم تعيين جودة التحميل إلى عادية</string>
     <string name="toast_normal_songs_for_stream">تم تعيين جودة التشغيل إلى عادية</string>
     <string name="toast_not_pro">تتوفر هذه الميزة فقط لأعضاء PRO.</string>
+    <string name="toast_playlist_has_been_added">تمت الإضافة إلى قائمة الانتظار بنجاح</string>
+    <string name="toast_playlist_has_been_private">قائمة التشغيل هذه خاصة</string>
+    <string name="toast_playlist_has_been_public">قائمة التشغيل هذه عامة</string>
     <string name="toast_playmode_loop_playback">تكرار قائمة التشغيل مشغل</string>
     <string name="toast_playmode_shuffle_play">التشغيل العشوائي مشغل</string>
     <string name="toast_playmode_single_cycle">تكرار الأغنية مشغل</string>
@@ -975,11 +996,16 @@
     <string name="upload_playlist_to_hungama_title">مزامنة الأغاني عبر الإنترنت إلى Hungama والوصول إليها من أي جهاز قمت بتسجيل الدخول منه إلى حساب Mi.</string>
     <string name="upload_playlist_to_hungama_toast">سيتم مزامنة الأغاني عبر الإنترنت إلى Hungama</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
+    <string name="user_playlist_plaza">قوائم التشغيل</string>
     <string name="user_privacy_dialog_negative_text">إلغاء</string>
     <string name="user_privacy_dialog_positive_count_down_text">سحب (%s ث)</string>
     <string name="user_privacy_dialog_positive_text">سحب</string>
     <string name="user_privacy_setting_group_title">سحب الموافقة</string>
     <string name="user_privacy_setting_title">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية موسيقى Mi.</string>
+    <string name="user_profile_created_playlist_title">قوائم التشغيل المخصصة</string>
+    <string name="user_profile_fans_count">المتابعين: %s</string>
+    <string name="user_profile_follow_count">متابعون: %s</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="version_info">الإصدار</string>

@@ -69,6 +69,8 @@
     <string name="all_app_category_tools">أدوات</string>
     <string name="all_app_category_work">العمل</string>
     <string name="all_apps">كل التطبيقات</string>
+    <string name="all_apps_install_contentcenter_msg">يبدو أنه تم إلغاء تثبيت مركز المحتوى. هل تريد تثبيته مرة أخرى؟</string>
+    <string name="all_apps_install_contentcenter_title">تثبيت مركز المحتوى</string>
     <string name="all_apps_no_search_results">تعذر إيجاد نتائج</string>
     <string name="all_apps_search_app">البحث عن تطبيقات</string>
     <string name="all_apps_search_market_message">البحث على الانترنت</string>
@@ -180,6 +182,7 @@
     <string name="change_wallpaper">تغيير</string>
     <string name="choose_wallpaper">اختر خلفية شاشة</string>
     <string name="chooser_wallpaper">اختيار خلفية شاشة جديدة</string>
+    <string name="clearable_edittext_clear_description">مسح</string>
     <string name="cloud_app_restore_title">قيد الانتظار</string>
     <string name="common_home_search_delete">إزالة شريط البحث</string>
     <string name="common_home_search_delete_cancle">إلغاء</string>
@@ -321,14 +324,18 @@
     <string name="home_screen">الشاشة الرئيسية</string>
     <string name="home_slide_up_action">مرّر لأعلى على الشاشة الرئيسية</string>
     <string name="home_switch_personal_assistant">الشاشة -۱</string>
+    <string name="icon_customize_summary">اختر الشكل والحجم المناسب</string>
+    <string name="icon_form">الأيقونات</string>
     <string name="icon_reorganize_channel">ترتيب الأيقونات</string>
     <string name="icon_size">حجم الأيقونة</string>
+    <string name="icon_style">الشكل</string>
     <string name="image_too_small_message">الصورة الأصلية ليست كبيرة بما فيه الكفاية.</string>
     <string name="install">تثبيت</string>
     <string name="invalid_contact_shortcut">جهة اتصال غير صالحة</string>
     <string name="is_setting_wallpaper_message">جارٍ تعيين خلفية الشاشة…</string>
     <string name="is_system_wallpaper_message">لا يمكن حذف موارد النظام</string>
     <string name="key_shortcut_settings_title">إختصارات الأزرار</string>
+    <string name="launcher_icon_management">مدير الاختصارات على الشاشة الرئيسية</string>
     <string name="launcher_not_exist">حدث خطأ ما، ارجع إلى الشاشة الرئيسية ثم حاول مجددا.</string>
     <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
     <string name="launcher_search_bar_title">شريط البحث على الشاشة الرئيسية</string>
@@ -509,6 +516,8 @@
     <string name="recommend_loading">تحميل</string>
     <string name="recommend_refresh">تحديث</string>
     <string name="recommend_xout">لا تظهر</string>
+    <string name="remove_dialog_message">تحتوي التطبيقات المحددة على وظائف النظام الأساسية. يمكنك فقط إزالة اختصاراتهم من الشاشة الرئيسية.</string>
+    <string name="remove_dialog_title_format">هل ترغب في إزالة \"%s\" من الشاشة الرئيسية؟</string>
     <string name="remove_invalidate_gadget_tips">أحدى التطبيقات المصغرة التي تستخدمها لم تعد متاحة. يمكنك إضافة واحد آخر.</string>
     <string name="reset_cate_tip_content">سيتم استعادة مجموعات التطبيق الافتراضية. هل تريد المتابعة؟</string>
     <string name="reset_cate_tip_title">استعادة المجموعات الافتراضيه</string>
@@ -517,6 +526,7 @@
     <string name="reset_fail">تعذر الإستعادة</string>
     <string name="reset_scene_prompt">سيتم إعادة تعيين الشاشة للتنسيق الافتراضي.</string>
     <string name="reset_title">إستعادة</string>
+    <string name="restore_icon_successful">تمت الاضافة بنجاح</string>
     <string name="screen_cells_config_title">تنسيق الشاشة الرئيسية</string>
     <string name="screen_locked_toast">تنسيق الشاشة الرئيسية مقفل.</string>
     <string name="screen_number">شاشة %d</string>
@@ -553,6 +563,7 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s جيجابايت</string>
     <string name="status_bar_recent_memory_info1">%1$s من %2$s متاح</string>
     <string name="status_bar_recent_memory_info2" />

@@ -31,6 +31,9 @@
     <string name="back">رجوع</string>
     <string name="cancel">إلغاء</string>
     <string name="category_other">أخرى</string>
+    <string name="channel_name_aggregation">الإشعارات المجمعة</string>
+    <string name="channel_name_notification">إشعارات التطبيقات</string>
+    <string name="channel_name_recovered">الإشعارات المستعادة</string>
     <string name="confirm">موافق</string>
     <string name="copy">نسخ</string>
     <string name="default_list_type">ترتيب حسب وقت الاستلام</string>
@@ -59,10 +62,14 @@
     <string name="lock_screen_tip_toast">السماح بالإشعارات على شاشة القفل في \"التنسيق\"</string>
     <string name="lockscreen_notifications">إشعارات قفل الشاشة</string>
     <string name="lockscreen_notifications_short">شاشة القفل</string>
+    <string name="menu_setting_aggregatation_feedback">خيارات التجميع</string>
+    <string name="menu_setting_feedback_donot_classify">لا تجمع</string>
+    <string name="menu_setting_more_settings">مزيد من الإعدادات</string>
     <string name="menu_setting_show_in_home">لا تجمع</string>
     <string name="menu_setting_tip_show_in_home">لن يتم تجميع إشعارات %s</string>
     <string name="menu_setting_tip_unfold">ستعتبر جميع إشعارات هذا التطبيق مهمة</string>
     <string name="menu_setting_unfold">مهمة</string>
+    <string name="mune_setting_prefix_category">"التجميع على حسب "</string>
     <string name="not_sent_recently">ليس مؤخراً</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notch_and_status_bar_setting">مركز التحكم وشريط الحالة</string>
@@ -82,9 +89,11 @@
     <string name="on">مشغل</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="search_menu_title">البحث</string>
+    <string name="setting_menu_success">تم التعيين بنجاح</string>
     <string name="settings_guide_title">تحتاج إلى إعدادات أخرى؟</string>
     <string name="show_badge_notifications">شارات الإشعارات</string>
     <string name="show_badge_notifications_short">الشارات</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">شريط الحالة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_disable_float_notification">الإشعارات العائمة غير مسموح بها</string>
@@ -97,6 +106,7 @@
     <string name="summary_lock_screen_enable_notification_first">السماح بالإشعارات لتتمكن من تشغيل إشعارات قفل الشاشة</string>
     <string name="summary_show_badge_enable_notification_first">السماح بالإشعارات لتتمكن من تشغيل شارات الإشعارات</string>
     <string name="swipe_to_delete">مرّر لليمين أو اليسار للحذف</string>
+    <string name="tip_feedback_thanks">شكرا لملاحظاتك!</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
 </resources>

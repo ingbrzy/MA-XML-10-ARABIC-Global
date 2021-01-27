@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>حاول مجددا</item>
+        <item></item>
+        <item></item>
+        <item>ضع إصبعك على ماسح بصمة الإصبع واضغط قليلا</item>
+        <item></item>
+        <item>ضع إصبعك على ماسح بصمة الإصبع واضغط قليلا</item>
+        <item>امسح ماسح بصمة الإصبع جيدا وأعد المحاولة</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>ضع إصبعك على ماسح بصمة الإصبع واضغط قليلا</item>
+        <item>ضع إصبعك على ماسح بصمة الإصبع واضغط قليلا</item>
+        <item>سريع جدًا! لايمكن التعرف على بصمة الإصبع</item>
+        <item>حرك إصبعك قليلاً وأعد المحاولة</item>
+        <item>ارفع اصبعك وضعها مرة أخرى على ماسح بصمة الاصبع</item>
+        <item>ابقِ إصبعك على الماسح لفترة أطول قليلاً</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>قم بتحريك إصبعك قليلا</item>
+        <item>هذه البصمة موجودة مسبقا، استخدم اصبع مختلفة</item>
+    </string-array>
+</resources>

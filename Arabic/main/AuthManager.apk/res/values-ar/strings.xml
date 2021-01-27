@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">مراقبة المكالمات الواردة</string>
     <string name="HIPS_Perm_read_notification_sms">خدمة SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">قراءة خدمة SMS</string>
+    <string name="HIPS_Perm_recognition">الوصول إلى معلومات النشاط</string>
+    <string name="HIPS_Perm_recognition_Desc">السماح للتطبيق بالوصول إلى معلومات النشاط</string>
     <string name="HIPS_Perm_service_foreground">خدمات المقدمة</string>
     <string name="HIPS_Perm_service_foreground_Desc">خدمات المقدمة</string>
     <string name="HIPS_Perm_show_when_locked">عرض في شاشة القفل</string>

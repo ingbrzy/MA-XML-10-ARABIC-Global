@@ -4,4 +4,74 @@
         <item>ذكر</item>
         <item>أنثى</item>
     </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>الحسابات</item>
+        <item>إضافة وإدارة حسابات الجهة الخارجية</item>
+        <item>تفويض;ترخيص;منح الإذن;حساب;حساب Mi;إضافة;اضافه;اقران;اقتران;Xiaomi;عرض;SNS;فيسبوك;Google</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>الحسابات</item>
+        <item>إضافة وإدارة حسابات الجهة الخارجية</item>
+        <item>تفويض;ترخيص;حساب;حساب Mi;إضافة;اضافه;اقران;اقتران;Xiaomi;عرض;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>تغيير كلمة المرور</item>
+        <item>تغيير كلمة مرور حساب Mi</item>
+        <item>تغيير;كلمة المرور;Xiaomi;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>المساعدة</item>
+        <item>احصل على المساعدة والدعم لحساب Mi</item>
+        <item>Xiaomi;حساب;حساب Mi;المساعدة;مساعدة;دعم;عرض</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>التحقق بخطوتين</item>
+        <item>إعداد التحقق بخطوتين لحساب Xiaomi</item>
+        <item>تسجيل الدخول;سجل الدخول;تحقق بخطوتين;تحقق;مصادقة;حساب;Xiaomi;حساب Mi;الإعدادات;اعدادات</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>تسجيل الدخول والحماية</item>
+        <item>رقم الهاتف والبريد الالكتروني لاسترداد الحساب، إدارة كلمة المرور</item>
+        <item>حساب;الخساب;تسجيل الدخول;سجل الدخول;حساب;حساب Mi;Xiaomi;رقم الهاتف;رقم هاتف;إضافة;اقتران;تغيير;كلمة المرور</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>الأجهزة</item>
+        <item>إدارة الأجهزة المرتبطة بحساب Mi</item>
+        <item>الأجهزة;الاجهزه;ادارة;إدارة;الادارة;الإداره;تسجيل الدخول;سجل الدخول;قائمة الاجهزة;قائمه الاجهزه;Xiaomi;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>معلومات الدفع</item>
+        <item>عرض وإدارة معلومات الدفع</item>
+        <item>الدفع;دفع;معلومات;Xiaomi;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>سياسة الخصوصية</item>
+        <item>عرض سياسة خصوصية حساب Mi</item>
+        <item>Xiaomi;حساب;حساب Mi;الخصوصية;خصوصية;خصوصيه;سياسة;عرض</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>البريد الإلكتروني لاسترداد الحساب</item>
+        <item>إضافة البريد الإلكتروني لاسترداد الحساب</item>
+        <item>الحماية;حماية;البريد الإلكتروني;ايميل;Xiaomi;حساب;الحساب;حساب Mi;إضافة;اقتران</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>رقم هاتف استرداد الحساب</item>
+        <item>إضافة رقم هاتف استرداد الحساب</item>
+        <item>الحماية;حماية;امان;الامان;حساب;حساب Mi;الهاتف;هاتف;Xiaomi;رقم الهاتف;رقم هاتف;إضافة;اقتران</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>إعلانات</item>
+        <item>إدارة إعلانات النظام</item>
+        <item>النظام;نظام;إعلانات;اعلانات;Xiaomi;حساب;الحساب;حساب Mi;الإعدادات;اعدادات</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>معلومات الحساب</item>
+        <item>عرض صورة ملفك الشخصي وإدارة معلومات حسابك</item>
+        <item>حساب;معلومات;المعلومات;ملف شخصي;الملف الشخصي;الاسم;اسم;Xiaomi;هوية;هويه;ID;حساب Mi;عرض;عرض;الإعدادات;اعدادات</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>اتفاقية المستخدم</item>
+        <item>عرض اتفاقية مستخدم حساب Mi</item>
+        <item>Xiaomi;حساب;حساب Mi;مستخدم;المستخدم;اتفاقية;الاتفاقية;اتفاقيه</item>
+    </string-array>
 </resources>

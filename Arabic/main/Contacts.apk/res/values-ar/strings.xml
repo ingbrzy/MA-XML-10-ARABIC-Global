@@ -123,6 +123,10 @@
     <string name="call_record_text_auto_delete_half_year">بعد %d شهور</string>
     <string name="call_record_text_auto_delete_never">لا شيء</string>
     <string name="call_record_text_auto_delete_one_month">بعد %d شهر</string>
+    <string name="call_record_user_notice_all_purpose">العثور على المكالمات التي تم ذكر كلمات معينة فيها</string>
+    <string name="call_record_user_notice_permission_desc_microphone">لتسجيلات المكالمات</string>
+    <string name="call_record_user_notice_permission_desc_storage">لحفظ التسجيلات</string>
+    <string name="call_record_user_notice_title">البحث الصوتي عن المكالمات</string>
     <string name="call_record_whitelist_custom">المكالمات المحددة</string>
     <string name="call_recording_notification_summary">تلقي الإشعارات بعد تسجيل المكالمة</string>
     <string name="call_recording_notification_title">اشعار بالمكالمات المسجلة</string>
@@ -173,6 +177,7 @@
     <string name="callrecordview_menu_show_missed">المكالمات الفائتة</string>
     <string name="callrecordview_menu_show_sim">%s مكالمات</string>
     <string name="callrecordview_menu_show_stranger">المكالمات من أرقام غير معروفة</string>
+    <string name="cancel">إلغاء</string>
     <string name="cancel_confirmation_dialog_message">تجاهل هذه التغييرات؟</string>
     <string name="cancel_confirmation_dialog_title">إلغاء</string>
     <string name="cancel_export_confirmation_message">هل ترغب في إلغاء تصدير %s؟</string>
@@ -251,6 +256,15 @@
     <string name="contactsList">جهات الاتصال</string>
     <string name="contacts_default_notification_channel">الإشعارات</string>
     <string name="contacts_hybrid_activity_label">استعادة جهات الاتصال</string>
+    <string name="contacts_trash_activity_hint">حدد جهات الاتصال المراد استعادتها</string>
+    <string name="contacts_trash_activity_title">جهات الاتصال المحذوفة مؤخرا</string>
+    <string name="contacts_trash_delete">حذف</string>
+    <string name="contacts_trash_delete_dialog_continue">حذف</string>
+    <string name="contacts_trash_delete_dialog_hint">لن تكون قادرا على عكس هذا الإجراء.</string>
+    <string name="contacts_trash_delete_dialog_loading">جارٍ الحذف…</string>
+    <string name="contacts_trash_delete_dialog_title">حذف جهات الاتصال المحددة؟</string>
+    <string name="contacts_trash_restore">استعادة</string>
+    <string name="contacts_trash_restore_loading">جارٍ الاسترداد…</string>
     <string name="contacts_unavailable_add_account">تسجيل الدخول إلى حساب</string>
     <string name="contacts_unavailable_create_contact">إنشاء جهة اتصال جديدة</string>
     <string name="contacts_unavailable_import_contacts">استيراد من ملف</string>
@@ -390,6 +404,7 @@
     <string name="email_work">إرسال بريد إلكتروني إلى عنوان البريد الإلكتروني الخاص بالعمل</string>
     <string name="emergency_number_label">رقم الطوارئ</string>
     <string name="empty" />
+    <string name="ensure">موافق</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -407,7 +422,8 @@
     <string name="export_to_sim2">تصدير إلى بطاقة SIM 2</string>
     <string name="export_to_sim_prepare_title">جارٍالتجهيز…</string>
     <string name="export_to_sim_title">جارٍ التصدير…</string>
-    <string name="exporting_contact_failed_message">لم يتم تصدير بيانات جهة الاتصال.nالسبب: \"%s\"</string>
+    <string name="exporting_contact_failed_message">"لم يتم تصدير بيانات جهة الاتصال.
+السبب: \"%s\""</string>
     <string name="exporting_contact_failed_title">تعذر التصدير</string>
     <string name="exporting_contact_list_message">جارٍ التصدير إلى %s.</string>
     <string name="exporting_contact_list_title">جارٍ تصدير بيانات جهة الاتصال</string>
@@ -468,6 +484,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">الاسم</string>
     <string name="gallery">المعرض</string>
     <string name="ghostData_company">الشركة</string>
@@ -488,6 +505,8 @@
     <string name="group_sms_progress_msg">\"جارٍ التنظيم في مجموعات…\"</string>
     <string name="groupsLabel">المجموعات</string>
     <string name="groups_list_empty">لا توجد مجموعات</string>
+    <string name="hide_app_description_content">جهات الاتصال هو أحد تطبيقات النظام. يمكنك الاستمرار في استخدامه عبر تطبيق الهاتف حتى بعد حذف اختصار ه من الشاشة الرئيسية.</string>
+    <string name="hide_app_description_title">هل ترغب في إزالة \"جهات الاتصال\" من الشاشة الرئيسية؟</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">البحث عن جهات اتصال</string>
     <string name="hint_more_contact">دمج جهات الاتصال المكررة</string>
@@ -589,6 +608,7 @@
     <string name="menu_sync_remove">حذف مجموعة المزامنة</string>
     <string name="midnight">الليل</string>
     <string name="miprofile_account_type">بطاقات جهة اتصال</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
     <string name="miprofile_name">ملفي الشخصي</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -717,6 +737,7 @@
     <string name="payphone">هاتف عمومي</string>
     <string name="people">جهات الاتصال</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">الرقم طويل جداً</string>
     <string name="phone_primary">أساسي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة على الجهاز.</string>
@@ -829,6 +850,10 @@
     <string name="remove_duplicate">"سيساعدك MIUI على العثور و دمج جهات الاتصال المكررة. 
 
  للبدء، انقر أيقونة الدمج في أسفل الشاشة."</string>
+    <string name="restore_app_btn_cancel">إلغاء</string>
+    <string name="restore_app_btn_restore">موافق</string>
+    <string name="restore_app_description_content">أضف اختصار لشاشة الرئيسية لتتمكن من الوصول إلى جهات الاتصال بشكل اسرع.</string>
+    <string name="restore_app_description_title">هل ترغب في إضافة \"جهات اتصال\" إلى الشاشة الرئيسية؟</string>
     <string name="restore_nickname">استعادة</string>
     <string name="return_call">انقر للرجوع إلى المكالمة</string>
     <string name="return_call_calling">مكالمة جارية</string>
@@ -916,6 +941,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
     <string name="six_letter">ج ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">الشركات</string>
     <string name="smart_group_company_unavailable">لا توجد معلومات عن الشركة</string>
     <string name="smart_group_frequency_1">خلال الشهر الماضي</string>
@@ -957,6 +983,7 @@
     <string name="starred_contacts">المفضلة</string>
     <string name="status_available">متاح</string>
     <string name="status_away">بعيدا</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">مشغول</string>
     <string name="strequentList">المفضلة</string>
     <string name="success_message_import_from_account">تم استيراد جهة الاتصال</string>
@@ -1051,8 +1078,10 @@
     <string name="unknown_details_new_contact">جديد</string>
     <string name="update_sim_contact_photo_toast">لا يمكن تعيين صور الملف الشخصي لجهات اتصال SIM</string>
     <string name="upgrade_in_progress">جارٍ تحديث قائمة جهة الاتصال.</string>
-    <string name="upgrade_out_of_memory">"يتم الآن ترقية جهات الاتصال لديك. n
-تتطلب عملية الترقية تقريبا %s ميجابايت من مساحة التخزين الداخلية.n
+    <string name="upgrade_out_of_memory">"يتم الآن ترقية جهات الاتصال لديك. 
+
+تتطلب عملية الترقية تقريبا %s ميجابايت من مساحة التخزين الداخلية.
+
 اختر واحدًا من الخيارات التالية:"</string>
     <string name="use_photo_as_primary2">استخدام %1$s كصورة جهة الاتصال</string>
     <string name="v7_preference_off">إيقاف</string>

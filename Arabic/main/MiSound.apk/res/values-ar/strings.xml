@@ -82,8 +82,8 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">هذا كل شئ حتى الان</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">لحظة من فضلك…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">تعذر تحميل العناصر</string>
-    <string name="multi_music_coexistence_summary">عند تلقي إشعار جديد، سيتم تشغيل صوت الإشعار ولن تتم مقاطعة صوت الوسائط الأخرى التي قيد التشغيل. لن يتأثر صوت الإشعار وصوت الوسائط بالتشغيل المتزامن.</string>
-    <string name="multi_music_coexistence_title">السماح بالأصوات المتعددة</string>
+    <string name="multi_music_coexistence_summary">عدم ضبط مستوى صوت الوسائط عند تلقي إشعار جديد أو تشغيل الصوت من مصدر آخر</string>
+    <string name="multi_music_coexistence_title">مصادر صوت متعددة</string>
     <string name="music_add_my_sound">إضافة إعداد مخصص</string>
     <string name="music_app_unavailable">تأكد من توفر تطبيق موسيقى Mi.</string>
     <string name="music_audio_effect_optimize">إعدادات الصوت</string>
@@ -99,6 +99,8 @@
     <string name="music_delete">حذف</string>
     <string name="music_delete_sound_title">حذف إعدادات مسبقة</string>
     <string name="music_dirac_control">تحسين جودة الصوت</string>
+    <string name="music_dirac_mode_bluetooth_collar">Mi Bluetooth Neckband Earphones</string>
+    <string name="music_dirac_mode_bluetooth_linefree">Mi Bluetooth Earphones (Line Free Edition)</string>
     <string name="music_dirac_mode_cancelling">إلغاء الضوضاء Mi 3.5mm</string>
     <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
@@ -150,11 +152,11 @@
     <string name="music_headset_calibrate_volume_up">زيادة مستوى الصوت</string>
     <string name="music_headset_calibrate_wrong_key">هذا هو الزر الخطأ</string>
     <string name="music_headset_control_setting">التحكم في سماعات الأذن</string>
-    <string name="music_headset_effect_settings">مؤثرات صوتية</string>
+    <string name="music_headset_effect_settings">المؤثرات الصوتية</string>
     <string name="music_headset_improve_sound">ضبط الصوت على سماعات الأذن</string>
     <string name="music_headset_is_open">يعمل</string>
     <string name="music_headset_mode_music">التحكم في تشغيل الموسيقى</string>
-    <string name="music_headset_mode_settings">أزرار تحكم سماعات الرأس عن بعد</string>
+    <string name="music_headset_mode_settings">أزرار تحكم سماعات الرأس</string>
     <string name="music_headset_mode_volume">" التحكم في مستوى الصوت"</string>
     <string name="music_headset_no_contected">لم يتم اكتشاف سماعات رأس</string>
     <string name="music_headset_not_open">متوقّف</string>
@@ -166,7 +168,7 @@
     <string name="music_headset_scenario_video">فيديو</string>
     <string name="music_headset_scenario_vocal">صوت</string>
     <string name="music_headset_select_settings">تحديد سماعات الأذن</string>
-    <string name="music_headset_settings">مؤثرات صوتية</string>
+    <string name="music_headset_settings">المؤثرات الصوتية</string>
     <string name="music_hifi_summary">تقليل الضوضاء والتشويش وزيادة جودة الصوت</string>
     <string name="music_hifi_title">صوت Hi-Fi</string>
     <string name="music_mi_effect_summary">استخدام محسن صوت Mi عند استخدام مكبرات الصوت</string>
@@ -193,6 +195,8 @@
     <string name="personal_sound">التشغيل بإستخدام إعدادات مسبقة</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="retry_test">البدء من جديد</string>
+    <string name="ringtone_output_device_summary">السماح بتشغيل الصوت للمكالمات الواردة والإشعارات عند توصيل ملحق صوتي (سماعات رأس سلكية أو جهاز بلوتوث)</string>
+    <string name="ringtone_output_device_title">السماح بصوت مكبر الصوت</string>
     <string name="save_and_apply">حفظ وتعيين</string>
     <string name="search_menu_title">البحث</string>
     <string name="second_note">ضع سماعاتك.</string>

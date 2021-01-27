@@ -136,6 +136,22 @@
         <item quantity="few">%1$d جهات اتصال</item>
         <item quantity="many">%1$d جهة اتصال</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">تم حذف %d جهة اتصال نهائيا</item>
+        <item quantity="zero">تم حذف %d جهة اتصال نهائيا</item>
+        <item quantity="one">تم حذف %d جهة اتصال نهائيا</item>
+        <item quantity="two">تم حذف %d جهات اتصال نهائيا</item>
+        <item quantity="few">تم حذف %d جهات اتصال نهائيا</item>
+        <item quantity="many">تم حذف %d جهة اتصال نهائيا</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">تم استعادة %d جهة اتصال بنجاح</item>
+        <item quantity="zero">تم استعادة %d جهة اتصال بنجاح</item>
+        <item quantity="one">تم استعادة %d جهة اتصال بنجاح</item>
+        <item quantity="two">تم استعادة %d جهات اتصال بنجاح</item>
+        <item quantity="few">تم استعادة %d جهات اتصال بنجاح</item>
+        <item quantity="many">تم استعادة %d جهة اتصال بنجاح</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">تم إستراد %1$d جهة اتصال</item>
         <item quantity="zero">تم إستراد %1$d جهة اتصال</item>
@@ -215,6 +231,14 @@
         <item quantity="two">منذ نصف ساعة</item>
         <item quantity="few">منذ نصف ساعة</item>
         <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d عنصر</item>
+        <item quantity="zero">%1$d عنصر</item>
+        <item quantity="one">%1$d عنصر</item>
+        <item quantity="two">%1$d عناصر</item>
+        <item quantity="few">%1$d عناصر</item>
+        <item quantity="many">%1$d عنصر</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d جهة اتصال</item>

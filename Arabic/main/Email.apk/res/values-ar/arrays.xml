@@ -22,11 +22,6 @@
         <item>الشهر القادم</item>
         <item>اختيار تاريخ</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>رد</item>
-        <item>الرد على الكل</item>
-        <item>إعادة توجيه</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>صغير جداً</item>
         <item>صغير</item>
