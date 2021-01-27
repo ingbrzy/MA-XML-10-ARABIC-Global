@@ -118,7 +118,6 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
