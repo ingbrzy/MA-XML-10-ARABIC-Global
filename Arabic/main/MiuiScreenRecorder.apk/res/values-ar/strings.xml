@@ -31,7 +31,10 @@
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
     <string name="app_name">مسجل الشاشة</string>
+    <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
     <string name="app_notification_info">مسجل الشاشة يعمل في الخلفية</string>
+    <string name="app_notification_record_complete">"تم حفظ تسجيل الشاشة في المعرض
+انقر للعرض"</string>
     <string name="app_notification_title">مسجل الشاشة</string>
     <string name="auto_stop_title">تم حفظ الفيديو بنجاح</string>
     <string name="battery_not_allowed" formatted="false">لا يمكن التسجيل لان البطارية أقل من ۳%. تأكد من أن شحن البطارية ۲۰% على الأقل.</string>
@@ -234,7 +237,7 @@
     <string name="show_hard_key_summary">إظهار عند الضغط على زر الصفحة الرئيسية، القائمة، وأزرار الرجوع</string>
     <string name="show_screen_touch">إظهار إيماءات المس</string>
     <string name="show_screen_touch_summary">إظهار الإيماءات باستخدام نقطة بيضاء</string>
-    <string name="size_byte">بايت</string>
+    <string name="size_byte">ب</string>
     <string name="size_gigabyte">غ.ب</string>
     <string name="size_kilobyte">ك.ب</string>
     <string name="size_megabyte">م.ب</string>

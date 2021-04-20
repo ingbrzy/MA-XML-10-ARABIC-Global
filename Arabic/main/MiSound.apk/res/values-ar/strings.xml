@@ -31,6 +31,7 @@
     <string name="app_name">سماعات الأذن</string>
     <string name="apply_sound">تعيين</string>
     <string name="can_you_here">هل يمكنك سماع الصوت؟</string>
+    <string name="choose_bluetooth_device">تحديد الجهاز</string>
     <string name="complete_dialog_button">فهمت</string>
     <string name="complete_dialog_message">لقد أكملت الاختبار بنجاح.</string>
     <string name="complete_dialog_title">نتائج الاختبار</string>
@@ -39,6 +40,13 @@
     <string name="customization_continue">متابعة</string>
     <string name="customization_pause_tip">إيقاف الاختبار؟ قم بتوصيل سماعات الأذن للمتابعة.</string>
     <string name="customization_quit">خروج</string>
+    <string name="dolby_atoms">Dolby Atmos</string>
+    <string name="dolby_dax_geq_select_title">المفضلة</string>
+    <string name="dolby_dax_geq_title">المعادل الرسومي</string>
+    <string name="dolby_dax_profile_dynamic">ديناميكية</string>
+    <string name="dolby_dax_setting">مؤثرات Dolby</string>
+    <string name="dolby_dax_title">الصوت المحيط</string>
+    <string name="end_wireless_transmission">إيقاف</string>
     <string name="eq_auto">تخصيص</string>
     <string name="eq_blues">إيقاع</string>
     <string name="eq_cancel">إلغاء</string>
@@ -74,6 +82,7 @@
     <string name="input_hint_prefix">أدخل %1$s</string>
     <string name="keep_sound">حفظ الإعداد</string>
     <string name="low_pitch">منخفض</string>
+    <string name="misound_effect_setting">صوت Mi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
@@ -117,6 +126,7 @@
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
     <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Mi Dual Driver In-ear Earphones</string>
     <string name="music_dirac_mode_off">Dirac متوقف</string>
     <string name="music_dirac_mode_piston_1">Mi piston-1</string>
     <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -126,6 +136,7 @@
     <string name="music_dirac_mode_piston_standard">إصدار قياسي</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear (نوع C)</string>
     <string name="music_dirac_mode_piston_youth">إصدار شبابي</string>
+    <string name="music_dirac_mode_redmi_earphones">Redmi Earphones</string>
     <string name="music_dirac_mode_reduction_noise">إلغاء الضوضاء Mi Type-C</string>
     <string name="music_dolby_mode_movie">فيديو</string>
     <string name="music_dolby_mode_music">الموسيقى</string>
@@ -152,6 +163,8 @@
     <string name="music_headset_calibrate_volume_up">زيادة مستوى الصوت</string>
     <string name="music_headset_calibrate_wrong_key">هذا هو الزر الخطأ</string>
     <string name="music_headset_control_setting">التحكم في سماعات الأذن</string>
+    <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+    <string name="music_headset_effect_harman_kardon_summary">صوت احترافي معتمد</string>
     <string name="music_headset_effect_settings">المؤثرات الصوتية</string>
     <string name="music_headset_improve_sound">ضبط الصوت على سماعات الأذن</string>
     <string name="music_headset_is_open">يعمل</string>
@@ -203,7 +216,25 @@
     <string name="sound_assist_key_summary">ضبط مستوى الصوت للتطبيقات الفردية أثناء تشغيل عدة تطبيقات الصوت في نفس الوقت</string>
     <string name="sound_assist_key_title">ضبط صوت الوسائط في تطبيقات متعددة</string>
     <string name="sound_assist_title">مساعد الصوت</string>
+    <string name="sound_effect_hall">صالة</string>
+    <string name="sound_effect_original">الأصلي</string>
+    <string name="sound_effect_room">غرفة</string>
+    <string name="sound_effect_theater">مسرح</string>
     <string name="sound_test_title">اختبار الإدراك السمعي</string>
+    <string name="sound_transmission_cancel">لا شكراً</string>
+    <string name="sound_transmission_confirm">سماح</string>
+    <string name="sound_transmission_continue">استئناف</string>
+    <string name="sound_transmission_device">جهاز</string>
+    <string name="sound_transmission_dialog_message">مساعد الصوت</string>
+    <string name="sound_transmission_dialog_title">تشغيل البلوتوث</string>
+    <string name="sound_transmission_end">إيقاف</string>
+    <string name="sound_transmission_function_generalize">انقل الصوت من ميكروفون الهاتف إلى جهاز بلوتوث خارجي</string>
+    <string name="sound_transmission_processing">ميكروفون</string>
+    <string name="sound_transmission_prompt">اسمح لهذه الميزة بتشغيل البلوتوث لتتمكن من استخدام الميكروفون اللاسلكي.</string>
+    <string name="sound_transmission_scenes">مشهد</string>
+    <string name="sound_transmission_start">ابدأ</string>
+    <string name="sound_transmission_stop">إيقاف مؤقت</string>
+    <string name="sound_transmission_title">ميكروفون لاسلكي</string>
     <string name="start_test_sound">بدء الاختبار</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
@@ -212,7 +243,14 @@
     <string name="switch_audio_device_bt">البلوتوث</string>
     <string name="switch_audio_device_phone">هذا الجهاز</string>
     <string name="switch_audio_dialog_title">تبديل الصوت إلى</string>
+    <string name="switch_bluetooth_device">تبديل الجهاز</string>
     <string name="third_note">العثور على مكان هادئ.</string>
+    <string name="transmission_volume_option_title">مستوى صوت الميكرفون</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="wireless_transmission">مكبر صوت لاسلكي</string>
+    <string name="wireless_transmission_cancel">إلغاء</string>
+    <string name="wireless_transmission_confirm">تشغيل</string>
+    <string name="wireless_transmission_definition">انقل إدخال الصوت من ميكروفون الهاتف إلى جهاز بلوتوث خارجي</string>
+    <string name="wireless_transmission_prompt">يحتاج مكبر الصوت اللاسلكي إلى تشغيل البلوتوث. هل ترغب في تشغيلة الآن؟</string>
 </resources>

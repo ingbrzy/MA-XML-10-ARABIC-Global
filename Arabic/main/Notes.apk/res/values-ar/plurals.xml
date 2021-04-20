@@ -160,6 +160,14 @@
         <item quantity="few">في %d دقائق</item>
         <item quantity="many">في %d دقيقة</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s عنصر</item>
+        <item quantity="zero">%1$s عنصر</item>
+        <item quantity="one">%1$s عنصر</item>
+        <item quantity="two">%1$s عناصر</item>
+        <item quantity="few">%1$s عناصر</item>
+        <item quantity="many">%1$s عنصر</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">الآن</item>
         <item quantity="zero">الآن</item>
@@ -167,6 +175,14 @@
         <item quantity="two">الآن</item>
         <item quantity="few">الآن</item>
         <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>

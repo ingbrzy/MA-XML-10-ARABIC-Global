@@ -160,6 +160,14 @@
         <item quantity="few">استخدم منذ %d سنوات</item>
         <item quantity="many">استخدم منذ %d سنة</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">يمكنك استخدام قفل التطبيقات مع %1$s تطبيق</item>
+        <item quantity="zero">يمكنك استخدام قفل التطبيقات مع %1$s تطبيق</item>
+        <item quantity="one">يمكنك استخدام قفل التطبيقات مع %1$s تطبيق</item>
+        <item quantity="two">يمكنك استخدام قفل التطبيقات مع %1$s تطبيقات</item>
+        <item quantity="few">يمكنك استخدام قفل التطبيقات مع %1$s تطبيقات</item>
+        <item quantity="many">يمكنك استخدام قفل التطبيقات مع %1$s تطبيق</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">يمكنك حماية مايصل إلى %s تطبيق</item>
         <item quantity="zero">يمكنك حماية مايصل إلى %s تطبيق</item>
@@ -167,6 +175,14 @@
         <item quantity="two">يمكنك حماية مايصل إلى %s تطبيقات</item>
         <item quantity="few">يمكنك حماية مايصل إلى %s تطبيقات</item>
         <item quantity="many">يمكنك حماية مايصل إلى %s تطبيق</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">احمي %s تطبيق مع ميزة قفل التطبيقات</item>
+        <item quantity="zero">احمي %s تطبيق مع ميزة قفل التطبيقات</item>
+        <item quantity="one">احمي %s تطبيق مع ميزة قفل التطبيقات</item>
+        <item quantity="two">احمي %s تطبيقات مع ميزة قفل التطبيقات</item>
+        <item quantity="few">احمي %s تطبيقات مع ميزة قفل التطبيقات</item>
+        <item quantity="many">احمي %s تطبيق مع ميزة قفل التطبيقات</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">يمكن %d تطبيق الاتصال بالشبكة في الخلفية</item>
@@ -588,6 +604,22 @@
         <item quantity="few">%2$d تطبيقات، بما في ذلك %1$s تستنزف البطارية</item>
         <item quantity="many">%2$d تطبيق، بما في ذلك %1$s تستنزف البطارية</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d مشكلة في استخدام البطارية</item>
+        <item quantity="zero">%d مشكلة في استخدام البطارية</item>
+        <item quantity="one">%d مشكلة في استخدام البطارية</item>
+        <item quantity="two">%d مشاكل في استخدام البطارية</item>
+        <item quantity="few">%d مشاكل في استخدام البطارية</item>
+        <item quantity="many">%d مشكلة في استخدام البطارية</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">تحسين %d عنصر لحفظ البطارية</item>
+        <item quantity="zero">تحسين %d عنصر لحفظ البطارية</item>
+        <item quantity="one">تحسين %d عنصر لحفظ البطارية</item>
+        <item quantity="two">تحسين %d عناصر لحفظ البطارية</item>
+        <item quantity="few">تحسين %d عناصر لحفظ البطارية</item>
+        <item quantity="many">تحسين %d عنصر لحفظ البطارية</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d يوم منذ آخر فحص</item>
         <item quantity="zero">%d يوم منذ آخر فحص</item>
@@ -812,6 +844,22 @@
         <item quantity="few">قام بتحميله %1$d أشخاص</item>
         <item quantity="many">قام بتحميله %1$d شخص</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">مرة</item>
+        <item quantity="zero">مرة</item>
+        <item quantity="one">مرة</item>
+        <item quantity="two">مرات</item>
+        <item quantity="few">مرات</item>
+        <item quantity="many">مرة</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d مشكلة في استخدام البطارية</item>
+        <item quantity="zero">%d مشكلة في استخدام البطارية</item>
+        <item quantity="one">%d مشكلة في استخدام البطارية</item>
+        <item quantity="two">%d مشاكل في استخدام البطارية</item>
+        <item quantity="few">%d مشاكل في استخدام البطارية</item>
+        <item quantity="many">%d مشكلة في استخدام البطارية</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d يوم "</item>
         <item quantity="zero">"%d يوم "</item>
@@ -819,6 +867,30 @@
         <item quantity="two">"%d أيام "</item>
         <item quantity="few">"%d أيام "</item>
         <item quantity="many">"%d يوم "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">"  س"</item>
+        <item quantity="zero">"  س"</item>
+        <item quantity="one">"  س"</item>
+        <item quantity="two">"  س"</item>
+        <item quantity="few">"  س"</item>
+        <item quantity="many">"  س"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">"  دق"</item>
+        <item quantity="zero">"  دق"</item>
+        <item quantity="one">"  دق"</item>
+        <item quantity="two">"  دق"</item>
+        <item quantity="few">"  دق"</item>
+        <item quantity="many">"  دق"</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
+        <item quantity="zero">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
+        <item quantity="one">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
+        <item quantity="two">اشحن جهازك بالكامل لمدة %2$d مرات على الأقل للحصول على إحصائيات دقيقة</item>
+        <item quantity="few">اشحن جهازك بالكامل لمدة %2$d مرات على الأقل للحصول على إحصائيات دقيقة</item>
+        <item quantity="many">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d س "</item>
@@ -835,6 +907,46 @@
         <item quantity="two">"%d دق "</item>
         <item quantity="few">"%d دق "</item>
         <item quantity="many">"%d دق "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="zero">إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="one">إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="two">إصلاح %d مشاكل في استخدام البطارية</item>
+        <item quantity="few">إصلاح %d مشاكل في استخدام البطارية</item>
+        <item quantity="many">إصلاح %d مشكلة في استخدام البطارية</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="zero">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="one">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="two">يمكنك إصلاح %d مشاكل في استخدام البطارية</item>
+        <item quantity="few">يمكنك إصلاح %d مشاكل في استخدام البطارية</item>
+        <item quantity="many">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" يمكن تحسين %d عنصر"</item>
+        <item quantity="zero">" يمكن تحسين %d عنصر"</item>
+        <item quantity="one">" يمكن تحسين %d عنصر"</item>
+        <item quantity="two">" يمكن تحسين %d عناصر"</item>
+        <item quantity="few">" يمكن تحسين %d عناصر"</item>
+        <item quantity="many">" يمكن تحسين %d عنصر"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">تحسين %d عنصر لحفظ البطارية</item>
+        <item quantity="zero">تحسين %d عنصر لحفظ البطارية</item>
+        <item quantity="one">تحسين %d عنصر لحفظ البطارية</item>
+        <item quantity="two">تحسين %d عناصر لحفظ البطارية</item>
+        <item quantity="few">تحسين %d عناصر لحفظ البطارية</item>
+        <item quantity="many">تحسين %d عنصر لحفظ البطارية</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">يمكنك تحسين %d عنصر لتوفير البطارية</item>
+        <item quantity="zero">يمكنك تحسين %d عنصر لتوفير البطارية</item>
+        <item quantity="one">يمكنك تحسين %d عنصر لتوفير البطارية</item>
+        <item quantity="two">يمكنك تحسين %d عناصر لتوفير البطارية</item>
+        <item quantity="few">يمكنك تحسين %d عناصر لتوفير البطارية</item>
+        <item quantity="many">يمكنك تحسين %d عنصر لتوفير البطارية</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d ℃</item>
@@ -907,6 +1019,22 @@
         <item quantity="two">سينطفئ الجهاز بعد %d ثواني. قم بتوصيل الشاحن.</item>
         <item quantity="few">سينطفئ الجهاز بعد %d ثواني. قم بتوصيل الشاحن.</item>
         <item quantity="many">سينطفئ الجهاز بعد %d ثانية. قم بتوصيل الشاحن.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">يتم بدء تشغيل %d تطبيق تلقائيا بشكل متكرر</item>
+        <item quantity="zero">يتم بدء تشغيل %d تطبيق تلقائيا بشكل متكرر</item>
+        <item quantity="one">يتم بدء تشغيل %d تطبيق تلقائيا بشكل متكرر</item>
+        <item quantity="two">يتم بدء تشغيل %d تطبيقات تلقائيا بشكل متكرر</item>
+        <item quantity="few">يتم بدء تشغيل %d تطبيقات تلقائيا بشكل متكرر</item>
+        <item quantity="many">يتم بدء تشغيل %d تطبيق تلقائيا بشكل متكرر</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">يستنزف %d تطبيق البطارية</item>
+        <item quantity="zero">يستنزف %d تطبيق البطارية</item>
+        <item quantity="one">يستنزف %d تطبيق البطارية</item>
+        <item quantity="two">يستنزف %d تطبيقات البطارية</item>
+        <item quantity="few">يستنزف %d تطبيقات البطارية</item>
+        <item quantity="many">يستنزف %d تطبيق البطارية</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d أيقونة تطبيقات مخفية</item>

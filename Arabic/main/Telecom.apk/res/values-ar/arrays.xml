@@ -77,6 +77,8 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ Adaptive</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>استخدام اختيار النظام (تلقائي)</item>
@@ -85,6 +87,8 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ Adaptive</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

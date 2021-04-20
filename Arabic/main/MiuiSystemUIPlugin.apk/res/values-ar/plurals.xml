@@ -72,6 +72,14 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s controls added.</item>
+        <item quantity="zero">%s controls added.</item>
+        <item quantity="one">%s control added.</item>
+        <item quantity="two">%s controls added.</item>
+        <item quantity="few">%s controls added.</item>
+        <item quantity="many">%s controls added.</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>

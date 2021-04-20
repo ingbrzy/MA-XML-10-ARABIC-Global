@@ -43,13 +43,15 @@
     <string name="ad_app_is_downloading">جار التنزيل …</string>
     <string name="ad_service">إظهار الإعلانات</string>
     <string name="add_resource_detail_fail">لا يمكن إضافة الموارد</string>
-    <string name="agreement_desc">اتفاقية المستخدم (إلزامي)</string>
+    <string name="agreement_desc">اتفاقية المستخدم (إلزامية)</string>
     <string name="alarm_sound">المنبه</string>
     <string name="all_resources">الكل</string>
     <string name="all_wallpapers">كل خلفيات الشاشة</string>
+    <string name="app_description_content">\"الثيمات\" هو أحد تطبيقات النظام. يوفر هذا التطبيق عددًا كبيرًا من الخلفيات وخيارات التخصيص الأخرى. ستظل قادرًا على استخدام التطبيق من الإعدادات بعد إزالة الاختصار من الشاشة الرئيسية.</string>
+    <string name="app_description_title">هل ترغب في إزالة \"الثيمات\" من الشاشة الرئيسية؟</string>
     <string name="app_name">الثيمات</string>
     <string name="app_permission_optional">أذونات اختيارية</string>
-    <string name="app_permission_require">أذونات إلزامية</string>
+    <string name="app_permission_require">الأذونات الإلزامية</string>
     <string name="app_permission_use_desc">الأذونات</string>
     <string name="app_permission_use_group_account">الحسابات</string>
     <string name="app_permission_use_group_account_desc">للحصول على معلومات حساب Mi</string>
@@ -120,7 +122,7 @@
     <string name="current_using_desktop_wallpaper_text">الشاشة الرئيسية</string>
     <string name="current_using_lockscreen_wallpaper_text">شاشة القفل</string>
     <string name="current_version_incompatible">غير متوافق</string>
-    <string name="data_use_desc">وثائق قانونية</string>
+    <string name="data_use_desc">الوثائق القانونية</string>
     <string name="deleting">جارٍ الحذف…</string>
     <string name="description_author">مؤلف</string>
     <string name="description_designer">مصمم</string>
@@ -141,10 +143,10 @@
     <string name="dynamic_ringtone">نغمات دينامكية</string>
     <string name="dynamic_video_wallpaper">خلفية 24 ساعة</string>
     <string name="events">الأحداث</string>
-    <string name="exit">خروج</string>
+    <string name="exit">إنهاء</string>
     <string name="exit_extreme_mode_dialog_agree">أوافق</string>
     <string name="exit_extreme_mode_dialog_cancel">إلغاء</string>
-    <string name="exit_extreme_mode_dialog_title">إيقاف تشغيل الوضع المتطرف</string>
+    <string name="exit_extreme_mode_dialog_title">إيقاف تشغيل الوضع الأقصى</string>
     <string name="exo_controls_fastforward_description">تقديم سريع</string>
     <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
     <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
@@ -164,7 +166,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -176,7 +180,7 @@
     <string name="exo_track_surround_7_point_1">صوت مجسّم 7.1</string>
     <string name="exo_track_unknown">غير معروف</string>
     <string name="expect_more">ترقبوا المزيد من التحديثات!</string>
-    <string name="extreme_mode_dialog_message">هذه الميزة غير متوفرة في الوضع المتطرف. قم بإيقاف الوضع المتطرف لتتمكن من استخدامها.</string>
+    <string name="extreme_mode_dialog_message">هذه الميزة غير متوفرة في الوضع الأقصى. قم بإيقاف الوضع الأقصى لتتمكن من استخدامها.</string>
     <string name="extreme_mode_dialog_ok">فهمت</string>
     <string name="extreme_mode_dialog_title">تنبيه</string>
     <string name="fail_to_add_account">لا يمكن إضافة الحساب</string>
@@ -232,6 +236,7 @@
     <string name="incompatible_dialog_ok">فهمت</string>
     <string name="incompatible_dialog_title">مشاكل التوافق</string>
     <string name="is_setting_wallpaper_message">جارٍ إعداد خلفية الشاشة…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">التنبيهات</string>
     <string name="item_resource_audio_optional_color_ring">نغمة الرنة</string>
     <string name="item_resource_audio_optional_notification_ring">الإشعارات</string>
@@ -277,8 +282,9 @@
     <string name="my_gifts">الهدايا</string>
     <string name="my_gifts_purchased">تم شراؤها</string>
     <string name="my_gifts_received">المستلمة</string>
-    <string name="need_permission">أذونات إلزامية (تستخدم للوظائف والخدمات الأساسية لهذا التطبيق)</string>
+    <string name="need_permission">مرحبا بك في الثيمات! يقدم لك هذا التطبيق الخدمات المخصصة التالية:</string>
     <string name="no_data">لا يمكن الاتصال بالشبكة</string>
+    <string name="no_network">تعذر الاتصال بالشبكة</string>
     <string name="no_related_font">تعذر إيجاد نتائج</string>
     <string name="no_related_ringtone">تعذر إيجاد نتائج</string>
     <string name="no_related_theme">تعذر إيجاد نتائج</string>
@@ -312,14 +318,14 @@
     <string name="pref_animation_preview">معاينة الرسوم المتحركة</string>
     <string name="pref_animation_preview_switch">عرض تأثيرات الانتقال من شاشة القفل إلى الشاشة الرئيسية على أغلفة الثيم</string>
     <string name="pref_privacy_policy">سياسة الخصوصية</string>
-    <string name="preference_authorization_summary">بدل مفتاح تشغيل/إيقاف لمنح أو إلغاء الترخيص</string>
+    <string name="preference_authorization_summary">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية الثيمات.</string>
     <string name="preference_authorization_title">الترخيص</string>
     <string name="premium">مميزة</string>
     <string name="present_local_themes">ثيماتي</string>
     <string name="present_local_themes_subtitle">تخصيص جهازك</string>
     <string name="present_official_themes">نصائحنا</string>
     <string name="present_online_themes">احصل على المزيد من الثيمات على الانترنت</string>
-    <string name="privacy_desc">سياسة الخصوصية (إلزامي)</string>
+    <string name="privacy_desc">سياسة الخصوصية (إلزامية)</string>
     <string name="provision_default_theme_title">الافتراضية</string>
     <string name="provision_download_cancel">تم إلغاء التنزيل</string>
     <string name="provision_download_fail">تعذر التنزيل. جرب الثيم الافتراضي أو الكلاسيكي.</string>
@@ -484,6 +490,7 @@
     <string name="resource_pack_price_info">السعر الأصلي: %1$s</string>
     <string name="resource_pack_warning">لقد اشتريت %1$d من مكونات هذا الثيم مسبقا. انه أرخص إذا اشتريت المكونات المتبقية على حدة.</string>
     <string name="resource_present">هدية</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">مجاني</string>
     <string name="resource_price_unit"> رصيد Mi</string>
     <string name="resource_purchase_common_error">حدث خطأ ما، حاول مجدداً</string>
@@ -559,11 +566,12 @@
     <string name="restore_last_theme_title">استرداد الثيم السابق</string>
     <string name="restore_push_content">استخدام الثيم المسبق قبل التحديث</string>
     <string name="restore_push_title">استرداد الثيم السابق</string>
-    <string name="revoke_dialog_agree">إلغاء الترخيص</string>
+    <string name="revoke_dialog_agree">سحب</string>
     <string name="revoke_dialog_agree_with_timestamp">إلغاء الترخيص (%1$dث)</string>
     <string name="revoke_dialog_disagree">إلغاء</string>
-    <string name="revoke_dialog_message">بعد إلغاء الترخيص، سيتوقف تطبيق الثيمات عن جمع بياناتك وإزالة كافة البيانات ذات الصلة من خوادمنا. قد يؤدي هذا إلى عمل التطبيق بشكل غير طبيعي. إلغاء التصريح على إية حال؟</string>
-    <string name="revoke_dialog_title">إلغاء الترخيص</string>
+    <string name="revoke_dialog_message">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية الثيمات، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن الخدمات الأساسية التي تقدمها الثيمات تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بالخدمات التي تعمل على أساس جمع البيانات.</string>
+    <string name="revoke_dialog_title">سحب الموافقة</string>
+    <string name="revoke_fail_message">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
     <string name="revoke_progress_dialog_message">جارٍ إلغاء الترخيص…</string>
     <string name="revoke_toast_message">تم إلغاء الترخيص بنجاح</string>
     <string name="rewarded_ad_load_failed">تعذر تحميل الفيديو. حاول مجددا.</string>
@@ -606,6 +614,7 @@
     <string name="sim_one">1 SIM</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">ثيمات مشابهة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">لحفظ العناصر التي تم تنزيلها</string>
     <string name="swipe_find_more">مرر لأعلى لعرض المزيد</string>
     <string name="system_phone">المكالمات</string>
@@ -650,6 +659,7 @@
     <string name="theme_component_title_statusbar">شريط الحالة</string>
     <string name="theme_component_title_wallpaper">الشاشة الرئيسية</string>
     <string name="theme_current_using_has_update">تحديث للثيم متاح</string>
+    <string name="theme_desc">تسمح لك الثيمات بتتخصيص عناصر متعددة لواجهة المستخدم عبر النظام.</string>
     <string name="theme_description_title_customized">مخصص</string>
     <string name="theme_description_title_default">الافتراضي</string>
     <string name="theme_detail">التفاصيل</string>
@@ -671,6 +681,7 @@
     <string name="theme_is_external_priority_storage">حفظ إلى بطاقة SD</string>
     <string name="theme_is_external_priority_storage_summary">ستتم إعادة تشغيل تطبيق الثيمات مباشرة لتطبيق هذا الإعداد.</string>
     <string name="theme_multiple_button_title_customize">تخصيص</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">لا</string>
     <string name="theme_select_others">تصفح</string>
     <string name="theme_setting">الإعدادات</string>
@@ -723,14 +734,14 @@
     <string name="user_agree">أوافق</string>
     <string name="user_authorization_dialog_agree">أوافق</string>
     <string name="user_authorization_dialog_disagree">خروج</string>
-    <string name="user_authorization_dialog_message">يجب أن تقرأ وتوافق على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل المتابعة.</string>
-    <string name="user_authorization_dialog_title">التراخيص الممنوحة</string>
-    <string name="user_know">فهمت</string>
+    <string name="user_authorization_dialog_message">"&lt;Data>نحتاج إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%3$s\">سياسة الخصوصية&lt;/a> قبل استخدام الثيمات.
+يمكنك سحب الموافقة على سياسة خصوصية الثيمات في أي وقت من الإعدادات.&lt;/Data>"</string>
+    <string name="user_authorization_dialog_title">الأحكام والشروط</string>
+    <string name="user_know">حسنا</string>
     <string name="using_theme_has_update_tips">يتوفر تحديث لهذا الثيم.</string>
     <string name="using_theme_next_automatic_update">تحديث تلقائي</string>
     <string name="using_theme_next_automatic_update_summary">تحديث الثيمات التي تم تنزيلها عبر Wi-Fi تلقائيًا عندما تكون الشاشة مقفلة</string>
     <string name="using_theme_show_ad">التوصيات</string>
-    <string name="using_wallpaper_personal">خلفيات شخصية مختارة</string>
     <string name="video_audio_apply_success">تم تكوين الفيديو الصوتي بنجاح</string>
     <string name="video_data_tips_message">قد يؤدي استخدام بيانات الهاتف إلى فرض رسوم إضافية. هل تريد المتابعة على أي حال؟</string>
     <string name="video_data_tips_title">تحذير إستخدام البيانات</string>
@@ -739,12 +750,9 @@
     <string name="wallpaper_apply">تعيين</string>
     <string name="wallpaper_crop">قص</string>
     <string name="wallpaper_decoded_error">لا يمكن تحميل خلفية الشاشة</string>
+    <string name="wallpaper_desc">تمنح الخلفيات شاشتك الرئيسية مظهرا فريدا وغير مزعج.</string>
     <string name="wallpaper_detail_load_page_no_network">قم بالاتصال بالإنترنت ثم حاول مجددا.</string>
     <string name="wallpaper_might_like">خلفيات قد تعجبك</string>
-    <string name="wallpaper_personal_dialog_agree">تخصيص</string>
-    <string name="wallpaper_personal_dialog_content">استخدم هذه الميزة لمشاهدة مجموعة مختارة من الخلفيات المخصصة وفقًا لاهتماماتك. يمكنك تشغيل أو إيقاف هذه الميزة في الإعدادات. تخصيص خلفيات الآن؟</string>
-    <string name="wallpaper_personal_dialog_disagree">لا شكراً</string>
-    <string name="wallpaper_personal_dialog_title">تخصيص خلفيات جهازك</string>
     <string name="wallpaper_scroll_type_tips">لفيفة خلفية الشاشة</string>
     <string name="wallpaper_set_as_both">تعيين الكل</string>
     <string name="wallpaper_set_as_desktop">تعيين كالشاشة الرئيسية</string>

@@ -816,6 +816,14 @@
         <item quantity="few">%1$d اقتراحات</item>
         <item quantity="many">%1$d اقتراحًا</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">تلقي تنبيه إذا لم تكن السماعات في علبة الشحن أو في أذنك لأكثر من %d دقيقة</item>
+        <item quantity="zero">تلقي تنبيه إذا لم تكن السماعات في علبة الشحن أو في أذنك لأكثر من %d دقيقة</item>
+        <item quantity="one">تلقي تنبيه إذا لم تكن السماعات في علبة الشحن أو في أذنك لأكثر من %d دقيقة</item>
+        <item quantity="two">تلقي تنبيه إذا لم تكن السماعات في علبة الشحن أو في أذنك لأكثر من %d دقائق</item>
+        <item quantity="few">تلقي تنبيه إذا لم تكن السماعات في علبة الشحن أو في أذنك لأكثر من %d دقائق</item>
+        <item quantity="many">تلقي تنبيه إذا لم تكن السماعات في علبة الشحن أو في أذنك لأكثر من %d دقيقة</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">‏%d عنصر</item>
         <item quantity="zero">‏%d عنصر</item>

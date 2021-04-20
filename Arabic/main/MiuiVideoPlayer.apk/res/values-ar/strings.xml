@@ -4,33 +4,34 @@
     <string name="This_week">هذا الأسبوع</string>
     <string name="Today">اليوم</string>
     <string name="Yesterday">أمس</string>
-    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
     <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
-    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
     <string name="abc_action_mode_done">تم</string>
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_capital_on">تفعيل</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
-    <string name="abc_searchview_description_query">طلب البحث</string>
-    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
     <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
-    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="access_denied_info">محاولات كثيرة. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="account_bind_secure_email_title">إضافة االبريد الإلكتروني لاسترداد الحساب</string>
     <string name="account_bind_secure_phone_title">إضافة رقم الهاتف لاسترداد الحساب</string>
     <string name="account_crop_user_avatar">قص الصورة</string>
@@ -66,11 +67,17 @@
     <string name="action_update_phone">تغيير رقم الهاتف</string>
     <string name="activate_email_notice">تأكد من تفعيل حسابك خلال ٢٤ ساعة</string>
     <string name="activity_not_found_notice">لا يمكن العثور على التطبيق</string>
+    <string name="ad_bar_notification_setting_sub_title">عرض الأحداث في مركز الاشعارات</string>
+    <string name="ad_bar_notification_setting_title">الأحداث</string>
     <string name="ad_buy">شراء</string>
     <string name="ad_download">تنزيل</string>
     <string name="ad_join">الانضمام إلى المجتمع</string>
     <string name="ad_more">المزيد</string>
+    <string name="add_search_channel_link">عنوان URL</string>
+    <string name="add_search_channel_name">الاسم</string>
+    <string name="add_search_channel_tip">ابحث عن \"%s\" في صفحة موقع الويب المطلوبه، ثم انسخ والصق عنوان URL هنا.</string>
     <string name="add_to_trust_device">هذا جهاز موثوق به</string>
+    <string name="add_website">إضافة موقع ويب</string>
     <string name="agree">أوافق</string>
     <string name="agree_and_continue">أوافق</string>
     <string name="ai_animation_music_text">موسيقى AI تصويرية</string>
@@ -90,7 +97,10 @@
     <string name="alert_dialog_download_prepare">جارٍ أعداد التنزيل…</string>
     <string name="alert_dialog_download_progress">"جارٍ تنزيل التطبيق "</string>
     <string name="all">عرض الكل</string>
+    <string name="app_description_content">فيديو Mi هو تطبيق نظام يعمل كمشغل وسائط. سيظل بإمكانك تشغيل مقاطع الفيديو بعد إزالة الاختصار من الشاشة الرئيسية.</string>
+    <string name="app_description_title">هل ترغب في إزالة تطبيق \"فيديو Mi\" من الشاشة الرئيسية؟</string>
     <string name="app_name">فيديو Mi</string>
+    <string name="auth_again">أوافق</string>
     <string name="auth_fail_warning">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
     <string name="auto_play_next_off">التشغيل التلقائي متوقف</string>
     <string name="auto_play_next_on">التشغيل التلقائي مشغل</string>
@@ -118,6 +128,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
@@ -150,6 +161,8 @@
     <string name="choose_to_signup">لا، سأقوم بإنشاء واحد</string>
     <string name="click_to_reload_more">انقر لتحميل المزيد</string>
     <string name="click_to_retry">حاول مجدداً</string>
+    <string name="cloud_auto_pip_play_switch">استخدام تلقائيا ميزة صورة داخل الصورة</string>
+    <string name="cloud_online_player">المشغل</string>
     <string name="cloud_online_switch">التوصيات المخصصة</string>
     <string name="cloud_online_switch_close_time">يمكنك تشغيل توصيات المحتوى المخصصة من %s</string>
     <string name="cloud_online_switch_open_time">عرض توصيات المحتوى الشخصي</string>
@@ -229,15 +242,29 @@
     <string name="continue_play">استئناف</string>
     <string name="data_empty">لا توجد عناصر هنا</string>
     <string name="description">الوصف</string>
+    <string name="detail_select_source">حدد مصدر التشغيل</string>
     <string name="diagnosis_log_send_failed">لا يمكن إرسال السجلات، حاول مجددا.</string>
     <string name="diagnosis_log_sent_format">"تم إرسال السجلات بنجاح.
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
+    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
+    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
+    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
+    <string name="dialog_privacy_change_title">Privacy Policy update</string>
     <string name="dialog_privacy_info_new2">لتتمكن من استخدام خدماته، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها. بالنقر على \"أوافق\" يعني أنك قد قرأت ووافقت على &lt;a href=%2$s> سياسة الخصوصية&lt;/a>أدناة.</string>
     <string name="dialog_privacy_info_new3">لإستخدام هذه الخدمة، اسمح لتطبيق %1$s بجمع معلوماتك الشخصية ومعالجتها واستخدامها وفقًا لسياسة الخصوصية. بالنقر على أوافق أدناه، فأنك توافق على &lt;a href=%2$s>سياسة الخصوصية&lt;/a>و&lt;a href=%3$s>اتفاقية المستخدم&lt;/a> الخاصة بشركة Xiaomi.&lt;br/>&lt;br/>يؤدي النقر على أوافق أيضًا إلى منح فيديو Mi الوصول إلى قائمة التطبيقات المثبتة على جهازك. ومن خلال هذا الإذن، سيتمكن فيديو Mi من مشاركة العناصر ومعرفة ما إذا كان التطبيق مثبتًا على جهازك وما هو إصدار التطبيق المثبت وما إذا كان التطبيق آمنًا.</string>
-    <string name="dialog_privacy_title">الترخيص</string>
+    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_revoke_cancel">إلغاء</string>
+    <string name="dialog_privacy_revoke_count_down">سحب (%1$d ث)</string>
+    <string name="dialog_privacy_revoke_description">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية فيديو Mi، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. سحب موافقتك على سياسة الخصوصية هذه هو رفض لقبول خدمات التطبيق التي تعمل على أساس جمع البيانات.</string>
+    <string name="dialog_privacy_revoke_fail">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
+    <string name="dialog_privacy_revoke_ok">سحب الموافقة</string>
+    <string name="dialog_privacy_revoke_success">تم سحب الموافقة بنجاح</string>
+    <string name="dialog_privacy_revoking">جارٍ سحب الموافقة…</string>
+    <string name="dialog_privacy_title">Terms and conditions</string>
     <string name="dialog_revoke_privacy_info_new2">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وستتم إزالة كافة البيانات ذات الصلة من الخوادم. قد يؤدي هذا إلى عمل التطبيق بشكل غير طبيعي. إلغاء التصريح على إية حال؟</string>
     <string name="dialog_revoke_privacy_title">إلغاء الترخيص</string>
+    <string name="disagree">"Don't agree"</string>
     <string name="diy_channels_tips">يمكنك تخصيص قائمة القنوات الخاصة بك الآن.</string>
     <string name="do_not_show_again">لا تظهر مرة اخرى</string>
     <string name="download">تنزيل</string>
@@ -321,8 +348,10 @@
     <string name="feedback_tag_title">الفئة</string>
     <string name="feedback_text_empty_toast">أدخل ملاحظتك أولا.</string>
     <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+    <string name="file_space_not_enough_tip">لا توجد مساحة تخزين كافية. قم بتفريغ %d ميجابايت لتشغيل التطبيق مجددا.</string>
     <string name="find_psw">نسيت كلمة المرور</string>
     <string name="finish">تم</string>
+    <string name="firework_privacy">سياسة خصوصية Firework</string>
     <string name="for_diagnosis_usage_only">تستخدم التسجيلات فقط للتشخيص.</string>
     <string name="for_you">لك</string>
     <string name="friday">الجمعة</string>
@@ -350,6 +379,7 @@
     <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
     <string name="galleryplus_check_network">الإعدادات</string>
     <string name="galleryplus_chose_play_speed">تشغيل على سرعة %1$.1fX</string>
+    <string name="galleryplus_chose_play_speed_2">تشغيل على سرعة %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">لا يمكن ضبط سرعة التشغيل</string>
     <string name="galleryplus_click_to_higher_definition">انقر مرتين لفتح المعاينة بجودة HD</string>
     <string name="galleryplus_copyright_unsported_audio">لا يمكن تشغيل هذه الأغنية بسبب قيود حقوق النشر</string>
@@ -373,7 +403,7 @@
     <string name="galleryplus_gallery_video_save_video">جارٍ إنشاء الفيديو…</string>
     <string name="galleryplus_gallery_video_slow_edit">حركة بطيئة</string>
     <string name="galleryplus_gallery_view_tags">عرض العلامات</string>
-    <string name="galleryplus_is_higher_definition">تم فتح المعاينة بجودة HD</string>
+    <string name="galleryplus_is_higher_definition">معاينة بجودة HD</string>
     <string name="galleryplus_network_connect_check">لا يمكن الاتصال بالشبكة</string>
     <string name="galleryplus_network_connect_confirm">اتصل بشبكة Wi-Fi أو قم بتشغيل بيانات الهاتف من إعدادات الشبكة.</string>
     <string name="galleryplus_network_error">لا يمكن الاتصال بالشبكة</string>
@@ -383,6 +413,8 @@
     <string name="galleryplus_online_cta_disagree">لا أوافق</string>
     <string name="galleryplus_online_cta_title">الأحكام والشروط</string>
     <string name="galleryplus_online_video_loading">لحظة من فضلك…</string>
+    <string name="galleryplus_orientation_lock">تم قفل التدوير بنجاح</string>
+    <string name="galleryplus_orientation_unlock">اتجاه الشاشة مفتوح</string>
     <string name="galleryplus_permission_content">امنح فيديو Mi الأذونات المطلوبة لتتمكن من استخدام هذه الميزة.</string>
     <string name="galleryplus_permission_content2">"لتتمكن من استخدام هذه الميزة، انتقل إلى الإعدادات > التطبيقات > فيديو Mi > أذونات التطبيقات واسمح لفيديو Mi بالقيام بالتالي:
 
@@ -404,6 +436,7 @@
     <string name="galleryplus_subtitle_edit_edit">تعديل الترجمة</string>
     <string name="galleryplus_subtitle_edit_hide">إخفاء الترجمة</string>
     <string name="galleryplus_subtitle_edit_literal_edit">تعديل النص</string>
+    <string name="galleryplus_subtitle_edit_reminder">النص طويل جدا</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">لم يتمكن التعرف على الكلام أثناء التسجيل</string>
     <string name="galleryplus_v_agree">أوافق</string>
     <string name="galleryplus_v_cancel">إلغاء</string>
@@ -435,6 +468,7 @@
     <string name="history_local_video">محلية</string>
     <string name="history_online_video">متصل</string>
     <string name="hot">الاكثر شهرة</string>
+    <string name="i_know">فهمت</string>
     <string name="identity">الهوية</string>
     <string name="inconsistent_pwd">كلمة المرور غير متطابقة</string>
     <string name="init_channels">إستعادة الافتراضية</string>
@@ -443,6 +477,12 @@
     <string name="input_size_tips">يمكنك إدخال ما يصل إلى ١٠٠٠ حرف</string>
     <string name="isornot_your_mi_account">هل هذا هو حساب Mi الخاص بك؟</string>
     <string name="issue">مشكلة</string>
+    <string name="item_card_all_replies">كل الردود</string>
+    <string name="item_card_continue_play">تشغيل تلقائي</string>
+    <string name="item_card_more_trailers">مزيد من الإعلانات الترويجية</string>
+    <string name="item_card_open_in">"فتح في "</string>
+    <string name="item_card_related">ذات صلة</string>
+    <string name="item_setting_go_back">سحب الموافقة</string>
     <string name="just_a_second">لحظة من فضلك…</string>
     <string name="language_later_setting_tips">يمكنك تغيير تفضيلات اللغة من الملف الشخصي > اللغة.</string>
     <string name="language_select_tips">"اختر اللغة المفضلة 
@@ -625,13 +665,16 @@
     <string name="my_favorite_channels">قنواتي المفضلة</string>
     <string name="my_feedback_title">تعليقاتي</string>
     <string name="need_update_app">تحديث فيديو Mi لاستخدام جميع مميزاته</string>
-    <string name="network_connect_info">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
+    <string name="network_connect_info">تعذر الإتصال بالشبكة.</string>
+    <string name="network_error_info">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
     <string name="network_failed">تعذر الاتصال بالشبكة</string>
+    <string name="network_timeout_info">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="new_channel_tip">إلقي نظرة على القنوات الجديدة!</string>
     <string name="next">التالي</string>
     <string name="next_step">التالي</string>
     <string name="nick_name">الاسم المستعار</string>
     <string name="no_account">لم يتم تسجيل الدخول</string>
+    <string name="no_history">لا توجد عناصر هنا</string>
     <string name="no_longer_prompt">لا تظهر مرة اخرى</string>
     <string name="no_more_content">هذا كل للآن</string>
     <string name="no_network_tips">لا يمكن استخدام هذه الميزة الآن. الوصول إلى الشبكة مقيد.</string>
@@ -655,7 +698,10 @@
     <string name="notification_recall_desc">يمكن لفيديو Mi إعلامك بشأن مقاطع الفيديو الرائجة واشتراكاتك.</string>
     <string name="notification_recall_title">تشغيل الإشعارات</string>
     <string name="notify_apk_installed">تم التحميل بنجاح</string>
+    <string name="off_tip_firework_recommend">لن تتلقى توصيات مخصصة للمحتوى من Firework</string>
     <string name="ok">موافق</string>
+    <string name="on_tip_firework_recommend">ستتلقى توصيات مخصصة للمحتوى من Firework</string>
+    <string name="open_settings">الإعدادات</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">الاشتركات الاخيرة</string>
     <string name="order_recently_updated">محدث مؤخرا</string>
@@ -757,6 +803,7 @@
     <string name="passport_area_code_title">رمز المنطقة</string>
     <string name="passport_bad_authentication">اسم المستخدم أو كلمة المرور غير صحيحة</string>
     <string name="passport_barcode_add_account_prompt">لإضافة حساب، امسح رمز QR مجددا بعد تسجيل الدخول.</string>
+    <string name="passport_can_not_receive_verification_code">لم اتمكن من استلام رمز التحقق؟</string>
     <string name="passport_captcha_title">رمز الحماية</string>
     <string name="passport_checking_account">جارٍ التحقق من كلمة المرور…</string>
     <string name="passport_close">إغلاق</string>
@@ -859,11 +906,16 @@
     <string name="phone_number">رقم الهاتف</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="pip">صورة داخل الصورة</string>
+    <string name="playlist_create">إنشاء</string>
     <string name="playlist_detail_recomm_title">قوائم التشغيل موصى بها</string>
+    <string name="playlist_finish">تم</string>
     <string name="playlist_hot">الرائجة</string>
+    <string name="playlist_name">ادخل اسم قائمة التشغيل</string>
     <string name="playlist_new">جديد</string>
     <string name="playlist_no_more">لا يوجد مزيد من الفيديوهات هنا</string>
+    <string name="playlist_no_videos">لا توجد فيديوهات هنا</string>
     <string name="playlist_offline">لم تعد قائمة التشغيل هذه متوفرة.</string>
+    <string name="playlist_remove">إزالة</string>
     <string name="playlist_title">قائمة التشغيل</string>
     <string name="playlist_view_more">المزيد من قوائم التشغيل</string>
     <string name="plus_add_shortcut">إنشاء إختصار على الشاشة الرئيسية</string>
@@ -891,6 +943,7 @@
     <string name="plus_menu_delete_popup_text">الحذف الآن؟</string>
     <string name="plus_menu_properties">الخصائص</string>
     <string name="plus_menu_rename">إعادة تسمية</string>
+    <string name="plus_menu_rename_cant_empty">لا يمكن أن يكون اسم المجلد فارغ</string>
     <string name="plus_menu_rename_fail">لا يمكن أن يحتوي اسم الملف على \"/\"</string>
     <string name="plus_menu_share">مشاركة</string>
     <string name="plus_mine_gallery">ألبوماتي</string>
@@ -986,6 +1039,9 @@
     <string name="plus_sort_type_time">الوقت</string>
     <string name="plus_tab_gallery">المجلدات</string>
     <string name="plus_tab_time">الجدول الزمني</string>
+    <string name="privacy_revoke_setting">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية فيديو Mi.</string>
+    <string name="privacy_revoke_title">سحب الموافقة</string>
+    <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="psw_hint">كلمة المرور</string>
     <string name="psw_sign_in">تسجيل الدخول باستخدام كلمة المرور</string>
     <string name="pull_to_refresh_from_bottom_pull_label">اسحب لأعلى للتحديث…</string>
@@ -1023,6 +1079,7 @@
     <string name="report_content_violence">خطاب يحث على الكراهية</string>
     <string name="report_fail">تعذر الإبلاغ. حاول مجددا.</string>
     <string name="report_success">تم الإبلاغ بنجاح</string>
+    <string name="request_camera_permission_message">نحن نحمي معلوماتك الشخصية وفقًا للقوانين واللوائح ذات الصلة. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذن التالي:&lt;br>&lt;br>&lt;b>استخدام الكاميرا (لتعيين صورة الملف الشخصي)&lt;/b>&lt;br>&lt;br>إذا كنت لا توافق على منح الأذن المذكور أعلاه، فلن تتمكن من استخدام هذا التطبيق؛ ومع ذلك يمكنك استخدام الوظائف الرئيسية. يمكنك تقييد أو منح الأذونات من الإعدادات.</string>
     <string name="resend_active_email">إعادة إرسال</string>
     <string name="resend_email_reach_limit_message">لقد قمت بطلب الكثير من رسائل التحقق إلى البريد الإلكتروني. تأكد من أن رسالة التحقق ليست في مجلد البريد المزعج.</string>
     <string name="resend_email_reach_limit_title">محاولات كثيرة جدا</string>
@@ -1049,11 +1106,14 @@
     <string name="screenrecord_cancel">مشاكل في التوافق</string>
     <string name="screenrecord_nosupport_record">لا يتوفر تطبيق مسجل الشاشة حالياً على هذا الجهاز.</string>
     <string name="search">بحث</string>
+    <string name="search_bar_hint">بحث عن فيديوهات</string>
     <string name="search_choose_language">اختر اللغة</string>
     <string name="search_choose_voice_language">حدد اللغة المستخدمة للبحث الصوتي</string>
     <string name="search_hot_words">الاكثر شهرة</string>
     <string name="search_key_not_null">لا يمكن أن تكون خانة البحث فارغة</string>
     <string name="search_menu_title">البحث</string>
+    <string name="search_result_download_error">لا يمكن التنزيل</string>
+    <string name="search_result_startdownload">جارٍ التنزيل…</string>
     <string name="selectall">تحديد الكل</string>
     <string name="selectnull">الغاء تحديد الكل</string>
     <string name="send_diagnosis_log">إرسال سجلات</string>
@@ -1096,6 +1156,7 @@
     <string name="sync_favorites_limit">يوجد أكثر من ٥٠٠ فيديو في المفضلة. يجب عليك حذف بعض الفيديوهات القديمة لمتابعة المزامنة.</string>
     <string name="sync_favorites_message">مزامنة المفضلة من هذا الجهاز إلى حسابك؟ سيتم إزالة العناصر التي لم تعد متوفرة.</string>
     <string name="sync_favorites_title">مزامنة المفضلة</string>
+    <string name="system_error_info">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="t_check_hide_file">حدد عناصر لإخفاءها</string>
     <string name="t_check_unhide_file">حدد عناصر لإظهارها</string>
     <string name="t_downloading">يتم التنزيل:</string>
@@ -1126,14 +1187,19 @@
     <string name="ticket_hint">رمز التحقق</string>
     <string name="ticket_invalid">الرمز الذي أدخلته غير صحيح</string>
     <string name="ticket_sign_in">تسجيل الدخول عبر SMS</string>
+    <string name="tip_auth_again">في حالة عدم موافقتك على سياسة خصوصية موفر المحتوى التابع للجهة الخارجية، فلا يمكننا عرض محتوى الفيديوهات في اللحظات، انقر فوق الزر أدناه للموافقة على سياسة الخصوصية والوصول إلى هذه الميزة.</string>
     <string name="tip_author_click">انقر لعرض على مزيد من مقاطع الفيديو لهذا الحساب</string>
+    <string name="tip_pop">&lt;Data>يتم توفير محتوى اللحظات بواسطة Firework. للحصول على تجربة أفضل لعرض المحتوى وتلقي المزيد من التوصيات ذو الصلة، امنح Firework الإذن بجمع معلوماتك الشخصية ومعالجتها واستخدامها وفقًا لسياسة خصوصية Firework. يجب عليك قراءة وقبول &lt;a href=\"%1$s\"> سياسة خصوصية Firework &lt;/a> والموافقة عليها قبل استخدام هذه الخدمات.&lt;/Data></string>
     <string name="tip_topic_click">انقر للعثور على مزيد من مقاطع الفيديو حول هذا الموضوع</string>
+    <string name="title_firework_recommend">توصيات Firework</string>
     <string name="title_publisher">الناشرون</string>
     <string name="title_subscribe">الاشتراكات</string>
     <string name="toast_no_data">هذا العنصر غير متوفر الآن. عد لاحقا.</string>
     <string name="toast_request_too_frequently">ليس بهذه السرعة!</string>
     <string name="toast_share_failed">تعذر المشاركة. انتظر دقيقة أو اثنتين وحاول مرة أخرى.</string>
     <string name="today">اليوم</string>
+    <string name="tool_bar_notification_setting_sub_title">عرض شريط الأدوات في مركز الإشعارات</string>
+    <string name="tool_bar_notification_setting_title">شريط أدوات مركز الإشعارات</string>
     <string name="top_bar_game_desc">اكتشف ألعاب جديدة رائعة</string>
     <string name="top_bar_game_title">قناة الألعاب</string>
     <string name="tuesday">الثلاثاء</string>
@@ -1143,6 +1209,7 @@
     <string name="ugc_no_net">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="ui_log_tip">انقر على هذه المنطقة للإخفاء واضغط مع الاستمرار لمسح السجلات القديمة. اسحب السجلات يدويا.</string>
     <string name="unknow">غير معروف</string>
+    <string name="unknown_error_info">خطأ غير معروف</string>
     <string name="update">تحديث</string>
     <string name="update_email_address_dialog_message">تحتاج إلى تأكيد هويتك قبل التمكن من تحديث البريد الإلكتروني لاسترداد الحساب.</string>
     <string name="update_email_address_dialog_title">تحديث البريد الإلكتروني لاسترداد الحساب</string>
@@ -1203,4 +1270,12 @@
     <string name="vp_upcoming_title">التالي</string>
     <string name="wednesday">الأربعاء</string>
     <string name="yesterday">امس</string>
+    <string name="ytb_account">الحسابات</string>
+    <string name="ytb_author_video">الفيديوهات</string>
+    <string name="ytb_login">تسجيل الدخول</string>
+    <string name="ytb_login_btn">تسجيل الدخول</string>
+    <string name="ytb_login_hint">سجل الدخول لعرض اشتراكات YouTube</string>
+    <string name="ytb_logout">تسجيل الخروج</string>
+    <string name="ytb_play_next">التالي</string>
+    <string name="ytb_subscribed">الاشتراكات</string>
 </resources>

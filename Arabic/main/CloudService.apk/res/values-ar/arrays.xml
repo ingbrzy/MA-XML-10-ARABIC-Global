@@ -26,6 +26,18 @@
         <item>Back up important settings, including WLAN and display</item>
         <item>"Lock your device remotely if it's lost"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>مزامنة جهات الاتصال والرسائل والملاحظات والتقويم والمزيد</item>
+        <item>النسخ الاحتياطي للتطبيقات وتنسيق الشاشة الرئيسية وخلفية الشاشة</item>
+        <item>نسخ الإعدادات الهامة احتياطياََ، بما في ذلك إعدادات Wi-Fi والشاشة</item>
+        <item>قفل الجهاز عن بعد إذا فقدتة</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>مزامنة بيانات التطبيق</item>
         <item>نسخ تنسيق الشاشة الرئيسية احتياطياً</item>
@@ -98,6 +110,11 @@
         <item>مزامنة الملاحظات مع Xiaomi Cloud</item>
         <item>تشغيل المزامنة</item>
         <item>ملاحظات;الملاحظات;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>مزامنة الملاحظات مع Xiaomi Cloud</item>
+        <item>تشغيل المزامنه</item>
+        <item>ملاحظات;الملاحظات;Cloud;مزامنة;خدمات Cloud;Xiaomi Cloud;كلاود;سحابه</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
         <item>مزامنة منصة التطبيقات مع Xiaomi Cloud</item>

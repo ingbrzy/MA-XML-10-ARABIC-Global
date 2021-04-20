@@ -34,6 +34,12 @@
     <string name="add_custom_image">تخصيص الصورة</string>
     <string name="add_from_album">إضافة من المعرض</string>
     <string name="afternoon">بعد الظهر</string>
+    <string name="align_center_horizontally">أفقي ومحاذاة للوسط</string>
+    <string name="align_center_vertically">محاذاة عموديًا في المنتصف</string>
+    <string name="align_left_horizontally">محاذاة أفقيًا إلى اليسار</string>
+    <string name="align_left_vertically">محاذاة عموديًا إلى اليسار</string>
+    <string name="align_right_horizontally">محاذاة أفقيًا إلى اليمين</string>
+    <string name="align_right_vertically">محاذاة عموديًا إلى اليمين</string>
     <string name="align_type">المحاذاة</string>
     <string name="always_style">دائماً</string>
     <string name="always_style_symmary">استهلاك اكثر للطاقة</string>
@@ -58,6 +64,7 @@ dd/MM"</string>
     <string name="aod_show_date_and_time">عرض التاريخ والوقت</string>
     <string name="aod_show_style_title">عرض العناصر</string>
     <string name="aod_style">ثيمات الشاشة</string>
+    <string name="aod_theme_store">ثيمات الشاشة الدائمة</string>
     <string name="aod_to_close">إيقاف التشغيل</string>
     <string name="apply">تعيين</string>
     <string name="apply_succeed">تم التعيين بنجاح</string>
@@ -254,6 +261,7 @@ dd/MM"</string>
 رائعا على وشك الحدوث"</string>
     <string name="standard_clock_panel">قياسي</string>
     <string name="standard_style">قياسية</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. يرجى الموافقة على شروط وأحكام Xiaomi Health للمتابعة.</string>
     <string name="step_component_info_desc">سيتغير رمز عدد الخطوات إلى كأس عند تحقيق الهدف المطلوب. هذه البيانات مقدمة من Xiaomi Health.</string>
     <string name="step_component_info_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. قم بتثبيت Xiaomi Health والموافقة على الشروط والأحكام للمتابعة</string>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>أبيض</item>
+        <item>أصفر</item>
+        <item>رمادي</item>
+        <item>بني</item>
+        <item>أخضر</item>
+        <item>أزرق</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>محتوى جنسي</item>
+        <item>معلومات خاطئة</item>
+        <item>أخبار قديمة</item>
+        <item>آراء متطرفة</item>
+        <item>إعلانات مموهة</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>السابق/التالي</item>
+        <item>تبديل علامات التبويب</item>
+        <item>لا شيء</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>صفحة البداية الافتراضية</item>
+        <item>تخصيص</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>الهاتف</item>
+        <item>لوحة</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>عرض عمودي</item>
+        <item>عرض أفقي</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>مشغل</item>
+        <item>فقط في وضع التصفح المخفي</item>
+        <item>متوقف</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>صغير جدا</item>
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>ضخم</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>الكمبيوتر الشخصي</item>
+        <item>iPhone</item>
+        <item>أيباد</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>حذف</item>
+        <item>لا شكراً</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>موافق</item>
+        <item>متابعة</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>رسالة من المتصفح</item>
+        <item>تابع دورة الألعاب الأولمبية مع Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>اتصال الشبكة الحالي بطيء جدًا. يبدو أنك في منطقة ذات تغطية ضعيفة.</item>
+        <item>اتصال الشبكة الحالي بطيء.</item>
+        <item>لم يتم العثور على مشاكل الاتصال بالشبكة.</item>
+        <item>اتصال الشبكة الحالي سريع. يمكنك مشاهدة الأفلام بسلاسة!</item>
+        <item>اتصال الشبكة الحالية سريع جدًا. يمكنك الاستمتاع باللعب بسلاسة.</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>استمتع بتنزيل فيديوهاتك وصورك المفضلة من مواقع التواصل الاجتماعي</item>
+        <item>احفظ الصور والفيديوهات من حالات الواتساب</item>
+        <item>قم بإدارة ملفاتك على الجهاز وجعلها خاصة</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>تنزيل مقاطع الفيديو</item>
+        <item>تنزيل حالات الواتساب</item>
+        <item>الملفات الخاصة</item>
+    </string-array>
+</resources>

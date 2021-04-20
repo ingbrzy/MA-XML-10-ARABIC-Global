@@ -80,6 +80,14 @@
         <item quantity="few">%d ملاحظات</item>
         <item quantity="many">%d ملاحظة</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d ملاحظة</item>
+        <item quantity="zero">%d ملاحظة</item>
+        <item quantity="one">%d ملاحظة</item>
+        <item quantity="two">%d ملاحظات</item>
+        <item quantity="few">%d ملاحظات</item>
+        <item quantity="many">%d ملاحظة</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d عنصر لمنصة التطبيقات</item>
         <item quantity="zero">%d عنصر لمنصة التطبيقات</item>
@@ -128,6 +136,14 @@
         <item quantity="few">%d WLAN networks</item>
         <item quantity="many">%d WLAN networks</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">حاول مرة اخرى بعد %d ثانية</item>
+        <item quantity="zero">حاول مرة اخرى بعد %d ثانية</item>
+        <item quantity="one">حاول مرة اخرى بعد %d ثانية</item>
+        <item quantity="two">حاول مرة اخرى بعد %d ثواني</item>
+        <item quantity="few">حاول مرة اخرى بعد %d ثواني</item>
+        <item quantity="many">حاول مرة اخرى بعد %d ثانية</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">%d عتصر في إنتظار المزامنة</item>
         <item quantity="zero">%d عنصر في إنتظار المزامنة</item>
@@ -175,5 +191,37 @@
         <item quantity="two">لا يمكن تحديد أكثر من %d عناصر</item>
         <item quantity="few">لا يمكن تحديد أكثر من %d عناصر</item>
         <item quantity="many">لا يمكن تحديد أكثر من %d عنصر</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">تم قبول الدعوة من %d شخص</item>
+        <item quantity="zero">تم قبول الدعوة من %d شخص</item>
+        <item quantity="one">تم قبول الدعوة من %d شخص</item>
+        <item quantity="two">تم قبول الدعوة من %d أشخاص</item>
+        <item quantity="few">تم قبول الدعوة من %d أشخاص</item>
+        <item quantity="many">تم قبول الدعوة من %d شخص</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s يوم</item>
+        <item quantity="zero">%1$s يوم</item>
+        <item quantity="one">%1$s يوم</item>
+        <item quantity="two">%1$s أيام</item>
+        <item quantity="few">%1$s أيام</item>
+        <item quantity="many">%1$s يوم</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s ساعة</item>
+        <item quantity="zero">%1$s ساعة</item>
+        <item quantity="one">%1$s ساعة</item>
+        <item quantity="two">%1$s ساعات</item>
+        <item quantity="few">%1$s ساعات</item>
+        <item quantity="many">%1$s ساعة</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s دقيقة</item>
+        <item quantity="zero">%1$s دقيقة</item>
+        <item quantity="one">%1$s دقيقة</item>
+        <item quantity="two">%1$s دقائق</item>
+        <item quantity="few">%1$s دقائق</item>
+        <item quantity="many">%1$s دقيقة</item>
     </plurals>
 </resources>

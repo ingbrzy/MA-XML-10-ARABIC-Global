@@ -75,6 +75,7 @@
     <string name="btn_retry">تحقق مرة اخرى</string>
     <string name="btn_skip">تخطي هذه الخطوة</string>
     <string name="button_cancel">إلغاء</string>
+    <string name="button_confirm">حسنا</string>
     <string name="button_delete">حذف</string>
     <string name="button_next">التالي</string>
     <string name="can_not_backup_in_lite_mode">لا يمكن الاستعادة في الوضع البسيط</string>
@@ -178,7 +179,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="get_device_id_error">تعذر الحصول على معرف الجهاز</string>
     <string name="help_and_feedback">المساعدة والتعليقات</string>
-    <string name="hint_restore_cross_space">قد لا يتم عرض تنسيق الشاشة الرئيسية بشكل صحيح إذا قمت بنقل العناصر بين المسافات.</string>
     <string name="home_hint_global_launcher">مشغل POCO</string>
     <string name="home_hint_other_launcher">مشغل أخر</string>
     <string name="home_restore_error">تعذر استعادة الشاشة الرئيسية</string>
@@ -192,7 +192,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">ترتيب حسب</string>
     <string name="menu_item_sort_name">الإسم</string>
     <string name="menu_item_sort_size">الحجم</string>
-    <string name="msg_alert_cancel_restore">يتم إسترداد العناصر. التوقف الآن؟</string>
+    <string name="msg_alert_cancel_restore">يتم حاليا استعادة العناصر من Xiaomi Cloud. هل ترغب في إلغاء العملية الآن؟</string>
     <string name="msg_alert_restore_error">تعذر إسترداد العناصر من Xiaomi Cloud. يرجى إعادة المحاولة.</string>
     <string name="msg_restore_start_with_metered_network">"سيتم إعادة تشغيل الشاشة الرئيسية وتنزيل التطبيقات التي تم نسخها احتياطيًا تلقائيًا. سيتم تنزيل &lt;br />&lt;b>&lt;font color='red'>%s من الملفات.&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">إذا تابعت استعادة هذه العناصر، فسيتم استخدام بيانات الهاتف للتنزيل.</string>
@@ -206,12 +206,18 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="pc_mode_not_support_restore_warning">لا يمكن استعادة العناصر في وضع الكمبيوتر. قم بإيقاف وضع الكمبيوتر وحاول مرة أخرى.</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
+    <string name="provision_back">رجوع</string>
     <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
+    <string name="provision_next">التالي</string>
     <string name="provision_restore_data">إستعادة العناصر</string>
+    <string name="provision_skip_underline">تخطي</string>
     <string name="query_restore_description">سيؤدي إستخدام هذه النسخة إلى استعادة الإعدادات وتطبيقات الشاشة الرئيسية، واستبدال بيانات التطبيقات المكررة المثبتة مسبقا. التطبيقات التي لم يتم تضمينها في النسخة سيتم نقلها إلى الشاشة الرئيسية الاخيرة.</string>
     <string name="query_restore_summary">تم العثور على نسخة Xiaomi Cloud احتياطية لهذا الجهاز. هل ترغب في استعادة تطبيقات الشاشة الرئيسية والإعدادات أو استخدامه كجهاز جديد ومسح نسخة Xiaomi Cloud الاحتياطية السابقة؟</string>
     <string name="recover_home_settings">استعادة إعدادات الشاشة الرئيسية</string>
@@ -248,14 +254,14 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_home_failed">تعذر استعادة الشاشة الرئيسية.</string>
     <string name="restore_home_screen_apps">استرداد من نسخ cloud الإحتياطي</string>
     <string name="restore_init_description">بدء الإستعادة</string>
-    <string name="restore_network_pause">%s (انقر للمتابعة)</string>
+    <string name="restore_network_pause">تم الإيقاف مؤقتًا لحفظ بيانات الهاتف. انقر للاستئناف.</string>
     <string name="restore_network_unconnect">%s (في انتظار الاتصال)</string>
     <string name="restore_task_cancelling">جارٍ الإلغاء…</string>
     <string name="restore_task_in_process">جارٍ الاستعادة…</string>
     <string name="restore_task_unfinished">تعذر الاسترداد</string>
     <string name="restore_unfinished">يتم الاستعادة، حاول مجددا لاحقا</string>
     <string name="restoring_data">جارٍ استعادة البيانات…</string>
-    <string name="restoring_file_title_no_progress">جارٍ إستعادة الملفات…</string>
+    <string name="restoring_file_title_no_progress">جارٍ استعادة البيانات…</string>
     <string name="restoring_home_screen_apps">جارٍ الاستعادة من Xiaomi Cloud…</string>
     <string name="restoring_settings">جارٍ إستعادة الإعدادات…</string>
     <string name="retry">إعادة المحاولة</string>

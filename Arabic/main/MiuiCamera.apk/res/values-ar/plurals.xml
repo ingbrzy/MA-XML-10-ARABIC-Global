@@ -57,12 +57,12 @@
         <item quantity="many">%1$d ثانية</item>
     </plurals>
     <plurals name="live_workspace_delete_dialog_title">
-        <item quantity="other">Delete %1$d drafts?</item>
-        <item quantity="zero">Delete %1$d drafts?</item>
-        <item quantity="one">Delete %1$d draft?</item>
-        <item quantity="two">Delete %1$d drafts?</item>
-        <item quantity="few">Delete %1$d drafts?</item>
-        <item quantity="many">Delete %1$d drafts?</item>
+        <item quantity="other">حذف %1$d مسودة؟</item>
+        <item quantity="zero">حذف %1$d مسودة؟</item>
+        <item quantity="one">حذف %1$d مسودة؟</item>
+        <item quantity="two">حذف %1$d مسودات؟</item>
+        <item quantity="few">حذف %1$d مسودات؟</item>
+        <item quantity="many">حذف %1$d مسودة؟</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s دقيقة</item>
@@ -71,6 +71,22 @@
         <item quantity="two">%1$s دقائق</item>
         <item quantity="few">%1$s دقائق</item>
         <item quantity="many">%1$s دقيقة</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">تسجيل %d ثانية</item>
+        <item quantity="zero">تسجيل %d ثانية</item>
+        <item quantity="one">تسجيل %d ثانية</item>
+        <item quantity="two">تسجيل %d ثواني</item>
+        <item quantity="few">تسجيل %d ثواني</item>
+        <item quantity="many">تسجيل %d ثانية</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="zero">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="one">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
+        <item quantity="two">يمكنك تجميد وقت الفيديوهات فقط مع %d عناصر</item>
+        <item quantity="few">يمكنك تجميد وقت الفيديوهات فقط مع %d عناصر</item>
+        <item quantity="many">يمكنك تجميد وقت الفيديوهات فقط مع %d عنصر</item>
     </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s صور</item>

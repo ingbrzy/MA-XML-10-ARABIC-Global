@@ -48,6 +48,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="device_desc_trust">الأجهزة الموثوقة</string>
     <string name="dialog_can_not_find_device">لم يتمكن العثور على أجهزة قريبة</string>
     <string name="dialog_cancle">إلغاء</string>
     <string name="dialog_connect_fail">تعذر الاتصال</string>
@@ -253,10 +254,23 @@
     <string name="nfc_connect_failed_toast">لا يمكن بث الشاشة. حاول مجددا.</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
+    <string name="normal_device_desc">الأجهزة التي تتصل بها ولكن لم يتم تمييزها على أنها موثوقة</string>
+    <string name="normal_device_desc_limit">الأجهزة التي تتصل بها ولكن لم يتم تمييزها على أنها موثوقة</string>
+    <string name="normal_device_none">لا توجد أجهزة متصلة مسبقًا</string>
+    <string name="normal_device_title">الأجهزة غير موثوقة</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="notification_cast_desc">جارٍ بث الشاشة…</string>
+    <string name="notification_desc_scanning">جارٍ البحث عن أجهزة قريبة…</string>
     <string name="notification_rc_title">مساعد تلفزيون Xiaomi</string>
     <string name="notification_show_more">انقر لعرض المزيد من الميزات</string>
     <string name="open_game_accelerate">تشغيل مسرع الألعاب</string>
+    <string name="path_setting_cast">الاتصال والمشاركة/بث الشاشة</string>
+    <string name="path_setting_cast_demo">الاتصال والمشاركة/بث الشاشة/عروض توضيحية</string>
+    <string name="path_setting_cast_demo_document">الاتصال والمشاركة/بث الشاشة/عروض توضيحية/المستندات</string>
+    <string name="path_setting_cast_demo_gallery">الاتصال والمشاركة/بث الشاشة/عروض توضيحية/الصور والفيديوهات</string>
+    <string name="path_setting_cast_demo_game">الاتصال والمشاركة/بث الشاشة/عروض توضيحية/المستندات/الألعاب</string>
+    <string name="path_setting_cast_feature">الاتصال والمشاركة/بث الشاشة/ميزات خاصة</string>
+    <string name="path_setting_cast_help">الاتصال والمشاركة/بث الشاشة/المساعدة</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_agree">أوافق</string>
@@ -382,6 +396,13 @@
     <string name="toast_turn_off_hotspot_before_cast">أوقف تشغيل نقطة الاتصال المحمولة قبل البث</string>
     <string name="today">اليوم</string>
     <string name="tomorrow">غداً</string>
+    <string name="trust_device_desc">ستظهر هذه الأجهزة أولا عندما تكون قريبة</string>
+    <string name="trust_device_dialog_desc">&lt;Data>سيظهر %s بين الأجهزة المتوفرة أولاً عند قيامك بتمييزة كجهاز موثوق.&lt;br>&lt;br>يمكنك&lt;a href=milink://com.milink.service/trust>إدارة الأجهزة الموثوقة&lt;/a> من الإعدادات.&lt;/Data></string>
+    <string name="trust_device_dialog_pos">وثوق</string>
+    <string name="trust_device_dialog_title">الوثوق بهذا الجهاز؟</string>
+    <string name="trust_device_manager">إدارة الأجهزة الموثوقة</string>
+    <string name="trust_device_none">لا توجد أجهزة موثوقة هنا</string>
+    <string name="trust_device_title">الأجهزة الموثوقة</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>

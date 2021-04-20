@@ -132,6 +132,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">صوت المنبه الإفتراضي</string>
     <string name="default_alarm_title">نغمة الرنين الافتراضية</string>
@@ -283,10 +284,13 @@
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
+    <string name="miuix_appcompat_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_select_all_description">تحديد الكل</string>
+    <string name="miuix_appcompat_select_item">تحديد العناصر</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
@@ -304,7 +308,7 @@
     <string name="module_download_data_msg_replace">هناك تحديث متوفر لتبيهات MIUI الذكية. يتطلب التنزيل ≈٢٠ ميجابايت من حركة مرور الهاتف. التنزيل الآن؟</string>
     <string name="module_download_data_msg_timer">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. يتطلب التنزيل ≈٢٠ ميجابايت من حركة مرور الهاتف. التنزيل الآن؟</string>
     <string name="module_download_fail">تعذر تنزيل الملفات الصوتية</string>
-    <string name="module_download_failure">تعذر تنزيل الملف الصوتي. تحقق من اتصال الشبكة ثم حاول مجددا.</string>
+    <string name="module_download_failure">تعذر تنزيل الملف الصوتي. تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
     <string name="module_download_msg">لتوفير تنبيهات MIUI الذكية، تحتاج الساعة إلى تنزيل الملفات الصوتية. تحتوي التنبيهات الذكية على ميزات صوتية تسمح لك تضمين معلومات الطقس الحالية في التنبيهات. تنزيل الآن؟</string>
     <string name="module_download_msg_golbal">تحتاج الساعة لتنزيل الملفات الصوتية لتبيهات MIUI الذكية. التنزيل الآن؟</string>
     <string name="module_download_msg_replace">يتوفر تحديث لتبيهات MIUI الذكية. التنزيل الآن؟</string>
@@ -433,6 +437,7 @@
     <string name="search_stopwatch_keywords">ساعة الإيقاف</string>
     <string name="search_timer_keywords">المؤقت</string>
     <string name="search_worldclock_keywords">الوقت؛ الساعة العالمية؛الساعة</string>
+    <string name="send">مشاركة</string>
     <string name="set_alarm">حدد الوقت</string>
     <string name="set_alarm_choose_ringtone">اختر نغمة الرنين</string>
     <string name="set_alarm_done">تم</string>
@@ -452,6 +457,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه إذا تم ضبطة ١٠ دقائق على الأقل بعد إطفاء الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="sleep_analysis">الإحصائيات</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -494,6 +500,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_reset_notification">تم إعادة تعيين ساعة الإيقاف</string>
     <string name="stopwatch_running_notification">ساعة الإيقاف</string>
@@ -502,6 +509,7 @@
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">اسمح لهذا التطبيق بالاتصال بالإنترنت للوصول إلى جميع ميزاته.</string>
     <string name="system_permission_main_purpose">عرض الوقت وضبط التنبيهات والمؤقتات باستخدام ساعة الإيقاف</string>
     <string name="system_permission_purpose">إنشاء تنبيهات أيام الأسبوع وإعداد نغمات مخصصة</string>
@@ -617,8 +625,12 @@
     <string name="user_agreement">اتفاقية مستخدم</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="version_update_dialog_negative_desc">ليس الآن</string>
+    <string name="version_update_dialog_positive_desc">تحديث</string>
+    <string name="version_update_dialog_title">تحديث متوفر</string>
     <string name="vibrate_pref_summary">الاهتزاز عند رنين المنبه</string>
     <string name="vibrate_when_ringing">اهتزاز عند الرنين</string>
+    <string name="voice_add_alarm">إضافة منبه بإستخدام أمر صوتي</string>
     <string name="volume_button_setting_desc">تخصيص الوظائف لزر الطاقة وأزرار مستوى الصوت +/-</string>
     <string name="volume_button_setting_summary">تعيين وظيفة أزرار الصوت عند التنبيه</string>
     <string name="volume_button_setting_title">أزرار الصوت</string>

@@ -125,6 +125,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="gradienter_title">ميزان الماء</string>
     <string name="guide_toast">للمعايرة، حرك جهازك كما هو موضح أدناه.</string>
     <string name="latitude">خط العرض</string>
     <string name="location_east">الشرق</string>
@@ -218,6 +219,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">الضغط</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">البوصلة هي أحد تطبيقات النظام. لن تتمكن من استخدامه للتحقق من الاتجاهات والإحداثيات والضغط الجوي والارتفاع الحالي بعد إزالة اختصاره من الشاشة الرئيسية.</string>
+    <string name="remove_icon_description_title">هل ترغب في إزالة \"البوصلة\" من الشاشة الرئيسية؟</string>
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>

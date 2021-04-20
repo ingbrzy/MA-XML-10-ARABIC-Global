@@ -89,12 +89,12 @@
         <item quantity="many">تم استلام %2$d ملف %3$s (%4$s) من %1$s بنجاح</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">جارٍ استلام %2$d ملف %3$s (%4$s) من %1$s…</item>
-        <item quantity="zero">جارٍ استلام %2$d ملف %3$s (%4$s) من %1$s…</item>
-        <item quantity="one">جارٍ استلام %2$d ملف %3$s (%4$s) من %1$s…</item>
-        <item quantity="two">جارٍ استلام %2$d ملفات %3$s (%4$s) من %1$s…</item>
-        <item quantity="few">جارٍ استلام %2$d ملفات %3$s (%4$s) من %1$s…</item>
-        <item quantity="many">جارٍ استلام %2$d ملف %3$s (%4$s) من %1$s…</item>
+        <item quantity="other">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+        <item quantity="zero">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+        <item quantity="one">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
+        <item quantity="two">جارٍ استلام %2$d ملفات %3$s (%4$s) من …%1$s</item>
+        <item quantity="few">جارٍ استلام %2$d ملفات %3$s (%4$s) من …%1$s</item>
+        <item quantity="many">جارٍ استلام %2$d ملف %3$s (%4$s) من …%1$s</item>
     </plurals>
     <plurals name="send_file_success_detail_files">
         <item quantity="other">تم إرسال %1$s ملف بنجاح</item>
@@ -260,8 +260,8 @@
         <item quantity="other">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
         <item quantity="zero">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
         <item quantity="one">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
-        <item quantity="two">جارٍ استلام %2$d أرشيفات (%3$s) من %1$s…</item>
-        <item quantity="few">جارٍ استلام %2$d أرشيفات (%3$s) من %1$s…</item>
+        <item quantity="two">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
+        <item quantity="few">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
         <item quantity="many">جارٍ استلام %2$d أرشيف (%3$s) من %1$s…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_files">

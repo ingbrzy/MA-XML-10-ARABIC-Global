@@ -209,11 +209,11 @@
     <string name="default_folder_title_meitu">تطبيقات Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">تطبيقات أخرى</string>
-    <string name="default_folder_title_recommend">المزيد من التطبيقات</string>
+    <string name="default_folder_title_recommend">مزيد من التطبيقات</string>
     <string name="default_folder_title_security">النظام</string>
     <string name="default_folder_title_services">خدمات</string>
     <string name="default_folder_title_telcel">Telcel</string>
-    <string name="default_folder_title_tools">أدوات</string>
+    <string name="default_folder_title_tools">الأدوات</string>
     <string name="default_screen_preview_title">تعيين الشاشة الإفتراضية</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">حذف</string>
@@ -335,7 +335,7 @@
     <string name="is_setting_wallpaper_message">جارٍ تعيين خلفية الشاشة…</string>
     <string name="is_system_wallpaper_message">لا يمكن حذف موارد النظام</string>
     <string name="key_shortcut_settings_title">إختصارات الأزرار</string>
-    <string name="launcher_icon_management">مدير الاختصارات على الشاشة الرئيسية</string>
+    <string name="launcher_icon_management">إدارة اختصارات الشاشة الرئيسية</string>
     <string name="launcher_not_exist">حدث خطأ ما، ارجع إلى الشاشة الرئيسية ثم حاول مجددا.</string>
     <string name="launcher_pull_down_title">مرّر لأسفل على الشاشة الرئيسية</string>
     <string name="launcher_search_bar_title">شريط البحث على الشاشة الرئيسية</string>
@@ -423,6 +423,7 @@
     <string name="navigation_type_full_screen">الإيماءات</string>
     <string name="navigation_type_title">نظام الملاحة</string>
     <string name="navigation_type_virtual_key">الأزرار</string>
+    <string name="network_error">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="no_detail_page">لا توجد تفاصيل الصفحة</string>
     <string name="no_space_toast">لا توجد مساحة كافية</string>
     <string name="no_space_toast_when_click_widget">لا توجد مساحة كافية في هذه الصفحة. حاول سحب هذا العنصر إلى صفحة أخرى.</string>
@@ -519,6 +520,8 @@
     <string name="remove_dialog_message">تحتوي التطبيقات المحددة على وظائف النظام الأساسية. يمكنك فقط إزالة اختصاراتهم من الشاشة الرئيسية.</string>
     <string name="remove_dialog_title_format">هل ترغب في إزالة \"%s\" من الشاشة الرئيسية؟</string>
     <string name="remove_invalidate_gadget_tips">أحدى التطبيقات المصغرة التي تستخدمها لم تعد متاحة. يمكنك إضافة واحد آخر.</string>
+    <string name="remove_sys_app_content">ستتمكن من إعادة إضافة الاختصار على الشاشة الرئيسية من الإعدادات > التطبيقات > إدارة اختصارات الشاشة الرئيسية. هل ترغب إزالته الآن؟</string>
+    <string name="remove_sys_app_title">هل تريد إزالة الاختصار من الشاشة الرئيسية؟</string>
     <string name="reset_cate_tip_content">سيتم استعادة مجموعات التطبيق الافتراضية. هل تريد المتابعة؟</string>
     <string name="reset_cate_tip_title">استعادة المجموعات الافتراضيه</string>
     <string name="reset_description_first_time">يمكنك استعادة التنسيق من %1$s خلال ساعتين</string>
@@ -527,6 +530,7 @@
     <string name="reset_scene_prompt">سيتم إعادة تعيين الشاشة للتنسيق الافتراضي.</string>
     <string name="reset_title">إستعادة</string>
     <string name="restore_icon_successful">تمت الاضافة بنجاح</string>
+    <string name="russia_preinstall_folder_name">روسيا</string>
     <string name="screen_cells_config_title">تنسيق الشاشة الرئيسية</string>
     <string name="screen_locked_toast">تنسيق الشاشة الرئيسية مقفل.</string>
     <string name="screen_number">شاشة %d</string>
@@ -536,6 +540,7 @@
     <string name="select_all">تحديد الكل</string>
     <string name="select_frame">إطار</string>
     <string name="select_photo">صورة</string>
+    <string name="server_error">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="setting_wallpaper_tip">المس او مرر للتعديل</string>
     <string name="settings">الإعدادات</string>
     <string name="settings_shortcut">الإعدادت</string>
@@ -563,6 +568,7 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s جيجابايت</string>
     <string name="status_bar_recent_memory_info1">%1$s من %2$s متاح</string>
     <string name="status_bar_recent_memory_info2" />

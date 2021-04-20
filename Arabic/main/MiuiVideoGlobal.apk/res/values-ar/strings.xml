@@ -97,6 +97,8 @@
     <string name="alert_dialog_download_prepare">جارٍ أعداد التنزيل…</string>
     <string name="alert_dialog_download_progress">"جارٍ تنزيل التطبيق "</string>
     <string name="all">عرض الكل</string>
+    <string name="app_description_content">فيديو Mi هو تطبيق نظام يعمل كمشغل وسائط. سيظل بإمكانك تشغيل مقاطع الفيديو بعد إزالة الاختصار من الشاشة الرئيسية.</string>
+    <string name="app_description_title">هل ترغب في إزالة تطبيق \"فيديو Mi\" من الشاشة الرئيسية؟</string>
     <string name="app_name">فيديو Mi</string>
     <string name="auth_again">أوافق</string>
     <string name="auth_fail_warning">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
@@ -126,6 +128,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
@@ -244,11 +247,24 @@
     <string name="diagnosis_log_sent_format">"تم إرسال السجلات بنجاح.
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
+    <string name="dialog_disagree_privacychange_info">لن تتمكن من استخدام خدمات البث عبر الإنترنت إذا اخترت عدم الموافقة على سياسة الخصوصية. انقر فوق \"إلغاء\" للعودة إلى صفحة ترخيص الخصوصية أو \"لا أوافق\" للمتابعة واستخدام الميزات المحلية فقط في فيديو Mi.</string>
+    <string name="dialog_disagree_privacychange_title">هل أنت متأكد أنك لا توافق؟</string>
+    <string name="dialog_privacy_change_info">نظرًا للتغييرات في الخدمات التي نقدمها لك، قمنا بتحديث سياسة خصوصية فيديو Mi. لمعرفة حقوقك كمستخدم وطرق استخدامنا لبياناتك، يرجى قراءة والموافقة على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> قبل استخدام هذا التطبيق.</string>
+    <string name="dialog_privacy_change_title">تحديث سياسة الخصوصية</string>
     <string name="dialog_privacy_info_new2">لتتمكن من استخدام خدماته، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها. بالنقر على \"أوافق\" يعني أنك قد قرأت ووافقت على &lt;a href=%2$s> سياسة الخصوصية&lt;/a>أدناة.</string>
     <string name="dialog_privacy_info_new3">لإستخدام هذه الخدمة، اسمح لتطبيق %1$s بجمع معلوماتك الشخصية ومعالجتها واستخدامها وفقًا لسياسة الخصوصية. بالنقر على أوافق أدناه، فأنك توافق على &lt;a href=%2$s>سياسة الخصوصية&lt;/a>و&lt;a href=%3$s>اتفاقية المستخدم&lt;/a> الخاصة بشركة Xiaomi.&lt;br/>&lt;br/>يؤدي النقر على أوافق أيضًا إلى منح فيديو Mi الوصول إلى قائمة التطبيقات المثبتة على جهازك. ومن خلال هذا الإذن، سيتمكن فيديو Mi من مشاركة العناصر ومعرفة ما إذا كان التطبيق مثبتًا على جهازك وما هو إصدار التطبيق المثبت وما إذا كان التطبيق آمنًا.</string>
-    <string name="dialog_privacy_title">الترخيص</string>
+    <string name="dialog_privacy_info_new4">مرحبا بك في فيديو Mi! يوفر لك هذا التطبيق الخدمات التالية:&lt;br>&lt;/br> - خدمات البث عبر الإنترنت&lt;br>&lt;/br>- مشغل فيديوهات على الجهاز&lt;br>&lt;/br>يحتاج فيديو Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في سياسة الخصوصية. يمكنك تغيير الإعدادات ذات الصلة في أي وقت من الإعدادات > كلمات المرور والحماية.&lt;br>&lt;/br>يرجى قراءة والموافقة على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> قبل استخدام فيديو Mi.</string>
+    <string name="dialog_privacy_revoke_cancel">إلغاء</string>
+    <string name="dialog_privacy_revoke_count_down">سحب (%1$d ث)</string>
+    <string name="dialog_privacy_revoke_description">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية فيديو Mi، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. سحب موافقتك على سياسة الخصوصية هذه هو رفض لقبول خدمات التطبيق التي تعمل على أساس جمع البيانات.</string>
+    <string name="dialog_privacy_revoke_fail">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
+    <string name="dialog_privacy_revoke_ok">سحب الموافقة</string>
+    <string name="dialog_privacy_revoke_success">تم سحب الموافقة بنجاح</string>
+    <string name="dialog_privacy_revoking">جارٍ سحب الموافقة…</string>
+    <string name="dialog_privacy_title">الأحكام والشروط</string>
     <string name="dialog_revoke_privacy_info_new2">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وستتم إزالة كافة البيانات ذات الصلة من الخوادم. قد يؤدي هذا إلى عمل التطبيق بشكل غير طبيعي. إلغاء التصريح على إية حال؟</string>
     <string name="dialog_revoke_privacy_title">إلغاء الترخيص</string>
+    <string name="disagree">لا أوافق</string>
     <string name="diy_channels_tips">يمكنك تخصيص قائمة القنوات الخاصة بك الآن.</string>
     <string name="do_not_show_again">لا تظهر مرة اخرى</string>
     <string name="download">تنزيل</string>
@@ -658,6 +674,7 @@
     <string name="next_step">التالي</string>
     <string name="nick_name">الاسم المستعار</string>
     <string name="no_account">لم يتم تسجيل الدخول</string>
+    <string name="no_history">لا توجد عناصر هنا</string>
     <string name="no_longer_prompt">لا تظهر مرة اخرى</string>
     <string name="no_more_content">هذا كل للآن</string>
     <string name="no_network_tips">لا يمكن استخدام هذه الميزة الآن. الوصول إلى الشبكة مقيد.</string>
@@ -685,6 +702,7 @@
     <string name="ok">موافق</string>
     <string name="on_tip_firework_recommend">ستتلقى توصيات مخصصة للمحتوى من Firework</string>
     <string name="open_settings">الإعدادات</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">الاشتركات الاخيرة</string>
     <string name="order_recently_updated">محدث مؤخرا</string>
     <string name="ovp_alert_dialog_download_install_task">جارٍ تنزيل المكون الإضافي…</string>
@@ -1021,6 +1039,8 @@
     <string name="plus_sort_type_time">الوقت</string>
     <string name="plus_tab_gallery">المجلدات</string>
     <string name="plus_tab_time">الجدول الزمني</string>
+    <string name="privacy_revoke_setting">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية فيديو Mi.</string>
+    <string name="privacy_revoke_title">سحب الموافقة</string>
     <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="psw_hint">كلمة المرور</string>
     <string name="psw_sign_in">تسجيل الدخول باستخدام كلمة المرور</string>
@@ -1086,6 +1106,8 @@
     <string name="screenrecord_cancel">مشاكل في التوافق</string>
     <string name="screenrecord_nosupport_record">لا يتوفر تطبيق مسجل الشاشة حالياً على هذا الجهاز.</string>
     <string name="search">بحث</string>
+    <string name="search_bar_hint">بحث عن فيديوهات</string>
+    <string name="search_bar_video_download_hint">ابحث أو أدخل عنوان URL</string>
     <string name="search_choose_language">اختر اللغة</string>
     <string name="search_choose_voice_language">حدد اللغة المستخدمة للبحث الصوتي</string>
     <string name="search_hot_words">الاكثر شهرة</string>
@@ -1101,7 +1123,7 @@
     <string name="service_error">خطأ في الخادم</string>
     <string name="set_success">تم التغيير بنجاح</string>
     <string name="share">مشاركة</string>
-    <string name="share_fail">لا يمكن المشاركة. تحقق من اتصال الشبكة ثم حاول مجددا.</string>
+    <string name="share_fail">تعذر المشاركة. تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
     <string name="share_success">تمت المشاركة بنجاح</string>
     <string name="share_ugc_waitting">جارٍ إنشاء الرابط…</string>
     <string name="show_the_location">أنواع الإشعارات</string>
@@ -1116,6 +1138,7 @@
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
     <string name="source">"المصدر: "</string>
     <string name="start_download_tip">تمت الإضافة إلى قائمة الانتظار. يمكنك عرض تقدم التنزيل في الملف الشخصي > التنزيلات.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">بطاقة SD</string>
     <string name="storage_internal_sdcard">التخزين الداخلي</string>
     <string name="submit">ارسال</string>
@@ -1225,7 +1248,19 @@
     <string name="v_txt_login">سجل الدخول لمزامنة المفضلة</string>
     <string name="v_update">تحديث</string>
     <string name="video_already_download_tip">تم تنزيل هذا العنصر مسبقًا</string>
+    <string name="video_download_btn">تنزيل</string>
     <string name="video_download_fail">تعذر تنزيل الفيديو</string>
+    <string name="video_download_fail_hint">تعذر التنزيل</string>
+    <string name="video_download_floating_guide">قم بتنزيل الفيديوهات مجانا</string>
+    <string name="video_download_forbidden">لا يمكن التنزيل من هذا الموقع</string>
+    <string name="video_download_network_error">خطأ في الشبكة</string>
+    <string name="video_download_play_video_guide">قم بتشغيل الفيديو أولا</string>
+    <string name="video_download_play_video_guide2">ثم انقر على زر التنزيل.</string>
+    <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">تنزيل من الويب</string>
+    <string name="video_download_start">جارٍ التنزيل…</string>
+    <string name="video_download_storage_error">لا توجد مساحة تخزين كافية</string>
+    <string name="video_downloading">جارٍ التنزيل…</string>
     <string name="video_live_over">انتهت الجلسة</string>
     <string name="video_noyet_download_tip">لا يزال يتم تنزيل هذا الفيديو</string>
     <string name="video_offline">لم يعد هذه العنصر متوفر</string>
@@ -1248,4 +1283,12 @@
     <string name="vp_upcoming_title">التالي</string>
     <string name="wednesday">الأربعاء</string>
     <string name="yesterday">امس</string>
+    <string name="ytb_account">الحسابات</string>
+    <string name="ytb_author_video">الفيديوهات</string>
+    <string name="ytb_login">تسجيل الدخول</string>
+    <string name="ytb_login_btn">تسجيل الدخول</string>
+    <string name="ytb_login_hint">سجل الدخول لعرض اشتراكات YouTube</string>
+    <string name="ytb_logout">تسجيل الخروج</string>
+    <string name="ytb_play_next">التالي</string>
+    <string name="ytb_subscribed">الاشتراكات</string>
 </resources>

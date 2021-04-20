@@ -71,6 +71,7 @@
     <string name="error_ap_or_screen_already_hosting">لا يمكن إرسال عناصر إلى الأجهزة الأخرى أثناء البث إو استخدام نقطة الاتصال المحمولة.</string>
     <string name="error_device_lost">يبدو أن الجهاز الآخر غير متوفر. انتظر دقيقة أو دقيقتين وحاول مرة أخرى.</string>
     <string name="error_has_occurred">حدث خطأ ما</string>
+    <string name="error_mirror_working">لا يمكن نقل العناصر أثناء مشاركة الشاشة</string>
     <string name="error_msg_network_error">حدث خطأ في الشبكة، حاول مجدداً.</string>
     <string name="error_receive_file_cannot_read">لا يمكن استلام الملف</string>
     <string name="error_receive_file_changed">لا يمكن الاستلام. العنصر تغير.</string>
@@ -81,6 +82,7 @@
     <string name="error_receive_user_interrupted">الشخص الآخر إلغاء النقل</string>
     <string name="error_refuse_receive">تم إلغاء العملية</string>
     <string name="error_remote_busy">يبدو أن الجهاز الآخر مشغول. انتظر دقيقة أو دقيقتين وحاول مرة أخرى.</string>
+    <string name="error_remote_mirror_working">لا يمكن للجهاز الآخر استلام عناصر أثناء مشاركة الشاشة</string>
     <string name="error_self_busy">الجهاز مشغول. انتظر دقيقة أو اثنتين وحاول مجددا.</string>
     <string name="error_send_file_cannot_read">لا يمكن إرسال الملف، حاول مجددا.</string>
     <string name="error_send_file_no_enough_space">لا يمكن الإرسال. لا يوجد مساحة كافية على جهازك.</string>
@@ -106,6 +108,10 @@
     <string name="file_transfer_progress_title">التقدم</string>
     <string name="functions_are_being_developed">ستتوفر هذه الميزة قريبا. ابق على اطلاع!</string>
     <string name="go_to_settings">الإعدادات</string>
+    <string name="guide_summary_1">يمكن لشخص الآخر النقر على المفتاح في مركز الإشعارات</string>
+    <string name="guide_summary_2">حدد الجهاز الذي ترغب في ارسال العناصر إليه وانقر على أيقونتة</string>
+    <string name="guide_title_1">شغل Mi Share على الجهازين</string>
+    <string name="guide_title_2">حدد جهاز للمشاركة</string>
     <string name="help">لا يمكن العثور على أجهزة؟</string>
     <string name="help_content">إذا لم تتمكن من العثور على الجهاز الذي تحتاجه، اطلب من الشخص الآخر تشغيل Mi Share.</string>
     <string name="hide">إخفاء</string>
@@ -113,6 +119,7 @@
     <string name="location_enabled">قام Mi Share بتشغيل خدمات الموقع للعثور على الأجهزة القريبة</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
+    <string name="menu_item_privacy_title">سياسة الخصوصية</string>
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
@@ -120,13 +127,20 @@
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mishare_folder_in_file_explorer">مدير الملفات > MiShare</string>
     <string name="mishare_service_channel_desc">إشعارات حول عمليات Mi Share</string>
-    <string name="mishare_settings_summary_international">"يمكنك استخدام Mi Share لإرسال عناصر إلى أجهزة قريبة.
-Mi Share متوافق مع هواتف Mi و Redmi.
- سيتوافق Mi Share قريبًا مع nopo و vivo و realme والعلامات التجارية الأخرى. يمكنك التحقق من قائمة الأجهزة المتوافقة على موقعنا."</string>
+    <string name="mishare_settings_summary_international">"يسمح لك Mi Share مشاركة العناصر لاسلكيًا مع الأجهزة القريبة.
+هذه الميزة مدعومة من قبل عدد كبير من الشركات المصنعة للهواتف الذكية، بما في ذلك OPPO و vivo و realme. يمكنك التحقق من قائمة الأجهزة المدعومة على الموقع الرسمي لأي علامة تجارية محددة."</string>
     <string name="mishare_state_protection">تشغيل Mi Share تلقائياً</string>
     <string name="mishare_state_protection_summary">قم بإعادة تشغيل Mi Share تلقائيا عند إعادة تشغيل Wi-Fi أو البلوتوث</string>
     <string name="mishare_state_protection_summary_china">Turn Mi Share back on automatically when Bluetooth or WLAN are turned back on</string>
     <string name="mishare_transefer_channel_desc">الإشعارات حول العناصر المرسلة والمستلمة بإستخدام Mi Share</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">حرر للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">لحظة من فضلك…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">تعذر تحميل العناصر</string>
     <string name="multi_file_name">%1$s، %2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="no_longer_prompt">حظر</string>
@@ -180,8 +194,9 @@ Mi Share متوافق مع هواتف Mi و Redmi.
     <string name="refuse_file">رفض</string>
     <string name="retry_task">ارسل مجدداً</string>
     <string name="scanning_device_tips">جارٍ البحث عن أجهزة قريبة…تأكد من أن الجهاز الآخر في وضع الاكتشاف.</string>
-    <string name="scanning_only_xiaomi_device">This item can only be transferred to Xiaomi or Black Shark devices</string>
+    <string name="scanning_only_xiaomi_device">يمكن نقل هذا العنصر فقط إلى أجهزة Xiaomi أو Black Shark</string>
     <string name="search_menu_title">البحث</string>
+    <string name="send_files_by">مشاركة الملفات عبر</string>
     <string name="send_files_to">إرسال عناصر إلى</string>
     <string name="send_files_to_remote_success">تم إرسال العناصر إلى %1$s بنجاح</string>
     <string name="send_files_to_remote_success_title">تم الإرسال بنجاح</string>
@@ -197,7 +212,10 @@ Mi Share متوافق مع هواتف Mi و Redmi.
     <string name="support_device_type">الأجهزة المدعومة</string>
     <string name="throwing_print">طباعة</string>
     <string name="throwing_screen">بث</string>
-    <string name="tips_prompt_enable_midrop">مشاركة الملفات مع الأجهزة القريبة</string>
+    <string name="tile_state_active">مشغل</string>
+    <string name="tile_state_inactive">متوقف</string>
+    <string name="tile_state_unavailable">غير متوفر</string>
+    <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">الإبلاغ</string>
     <string name="transfer_intercept_to_remote">تعذر الإرسال: %1$s</string>
     <string name="transfer_to_pc_summary">أحدث إصدار من برنامج AIoT المثبت على أجهزة الكمبيوتر المحمول Mi Notebooks متوافق مع Mi Share. يمكنك التحقق من قائمة طراز الكمبيوتر المحمول المدعومة على موقع MIUI. إذا كان الكمبيوتر المحمول مدرجًا في القائمة ولكن لم يتم تثبيت AIoT عليه، فقم بتحديث برنامج BIOS ومحول شبكة الكمبيوتر المحمول، ثم قم بتنزيل AIoT.</string>

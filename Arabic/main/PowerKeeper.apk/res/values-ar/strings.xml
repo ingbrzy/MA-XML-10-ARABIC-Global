@@ -47,7 +47,7 @@
     <string name="config_mode_title">إعدادات الخلفية</string>
     <string name="config_no_restrict_description">لا يقوم موفر البطارية بتقييد نشاط التطبيق</string>
     <string name="config_no_restrict_title">لا توجد قيود</string>
-    <string name="config_restrict_function_description">بعض الميزات (مثل دفع الإشعارات) قد تتأثر، لكن لن يتم اغلاق التطبيقات</string>
+    <string name="config_restrict_function_description">إغلاق التطبيق بعد ١٠ دقائق من النشاط في الخلفية</string>
     <string name="config_restrict_function_title">تقييد بيانات الخلفية</string>
     <string name="config_restrict_running_description">سيتم اغلاق جميع التطبيقات لحفظ الطاقة</string>
     <string name="config_restrict_running_title">تقييد نشاط الخلفية</string>

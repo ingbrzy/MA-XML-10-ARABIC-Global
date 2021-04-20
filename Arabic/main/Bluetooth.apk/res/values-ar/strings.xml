@@ -26,6 +26,8 @@
     <string name="bluetooth_sap_notif_message">هل تريد مطالبة العميل بإلغاء الربط؟</string>
     <string name="bluetooth_sap_notif_ticker">‏الوصول إلى SIM بلوتوث</string>
     <string name="bluetooth_sap_notif_title">‏الوصول إلى SIM بلوتوث</string>
+    <string name="bt_audio_share_notification_content">انقر لعرض الخيارات</string>
+    <string name="bt_audio_share_notification_title">مشاركة الصوت</string>
     <string name="bt_enable_cancel">إلغاء</string>
     <string name="bt_enable_line1">لإستخدام خدمات البلوتوث، يجب تشغيل البلوتوث أولاً.</string>
     <string name="bt_enable_line2">هل تريد تشغيل البلوتوث الآن؟</string>
@@ -86,6 +88,7 @@
     <string name="not_exist_file">ليست هناك أي ملفات</string>
     <string name="not_exist_file_desc">"الملف غير موجود. 
 "</string>
+    <string name="notice_audio_share_disconnected">توقفت مشاركة الصوت بسبب انقطاع الاتصال</string>
     <string name="notification_received">مشاركة البلوتوث: تم استلام %1$s</string>
     <string name="notification_received_fail">مشاركة البلوتوث: لم يتم استلام الملف %1$s</string>
     <string name="notification_receiving">مشاركة البلوتوث: يتم استلام %1$s</string>
@@ -98,7 +101,9 @@
     <string name="opp_notification_group">مشاركة البلوتوث</string>
     <string name="outbound_history_title">عمليات النقل الصادرة</string>
     <string name="outbound_noti_title">مشاركة البلوتوث: الملفات المرسلة</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">‏انتهت مهلة قبول الاتصال مع %1$s</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">‏انتهت مهلة إدخال مفتاح الجلسة مع %1$s</string>
     <string name="pbap_notification_group">مشاركة جهات الاتصال عبر البلوتوث</string>
     <string name="pbap_session_key_dialog_header">يلزم مفتاح جلسة البلوتوث</string>

@@ -32,12 +32,4 @@
         <item quantity="few">أولوية عالية: %d تطبيقات</item>
         <item quantity="many">أولوية عالية: %d تطبيق</item>
     </plurals>
-    <plurals name="restoring_file_tile">
-        <item quantity="other">استعادة %d ملف</item>
-        <item quantity="zero">استعادة %d ملف</item>
-        <item quantity="one">استعادة %d ملف</item>
-        <item quantity="two">استعادة %d ملفات</item>
-        <item quantity="few">استعادة %d ملفات</item>
-        <item quantity="many">استعادة %d ملف</item>
-    </plurals>
 </resources>

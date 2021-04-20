@@ -183,6 +183,7 @@
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="facebook">فيسبوك</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="failed_dup_secure_phone_number">رقم الهاتف هذا مرتبط مسبقاً بحساب MI آخر</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">العثور على الجهاز</string>
@@ -219,6 +220,7 @@
     <string name="get_phone_bind_exceed_limit">يمكنك ربط ما يصل إلى ٣ حسابات Mi برقم هاتف. لا يمكن إضافة حسابات جديدة.</string>
     <string name="get_phone_verifycode_exceed_limit">تم إرسال العديد من رموز التحقق إلى هذا الرقمز انتظر ٢٤ ساعة ثم أعد المحاولة.</string>
     <string name="google">Google</string>
+    <string name="google_login">تسجيل الدخول بإستخدام Google</string>
     <string name="guest_account_label">Mi حساب الضيف</string>
     <string name="health_action_activate">مفعل</string>
     <string name="health_action_install">تثبيت</string>
@@ -384,6 +386,7 @@
     <string name="passport_login_instead_reg">استخدام هذا الرقم</string>
     <string name="passport_login_instead_reg_with_email">استخدم هذا البريد الإلكتروني</string>
     <string name="passport_login_other_account">حساب آخر</string>
+    <string name="passport_login_other_way">طرق أخرى لتسجيل الدخول</string>
     <string name="passport_login_prompt">جميع خدمات Mi في حساب واحد</string>
     <string name="passport_login_recycle_account_no">لا</string>
     <string name="passport_login_recycle_account_yes">نعم</string>
@@ -401,6 +404,10 @@
     <string name="passport_prev">رجوع</string>
     <string name="passport_privacy_policy">سياسة الخصوصية</string>
     <string name="passport_privacy_policy_required">سياسة الخصوصية (إلزامي)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">سيتم تخزين بياناتك الشخصية وفقاً لقوانين ولوائح المنطقة التي تختارها.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff>حرف على الأقل<xliff id="min_pwd_type" refersto="2">%3$d</xliff>من الأنواع الآتية:حروف أو أرقام أو رموز خاصة</string>
     <string name="passport_pwd_generate_failure">تعذر توليد كلمة المرور</string>
     <string name="passport_pwd_generating">جارٍ الإنشاء…</string>
     <string name="passport_querying_phone_info">جارٍ طلب معلومات الحساب…</string>
@@ -437,6 +444,7 @@
     <string name="passport_register_restricted_title">لا يمكن استخدام رقم الهاتف هذا</string>
     <string name="passport_register_using_other_ways">طرق أخرى لإنشاء الحساب</string>
     <string name="passport_registered_phone_num">الهاتف: %s</string>
+    <string name="passport_registered_phone_num_v2">رقم الهاتف</string>
     <string name="passport_registered_phone_user_ID">هوية المستخدم: %s</string>
     <string name="passport_registered_phone_user_name">اسم المستخدم: %s</string>
     <string name="passport_reject_recycle_account">لا</string>
@@ -513,6 +521,9 @@
     <string name="phone_num_use_for">استخدامات رقم الهاتف:</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
+    <string name="provision_back">رجوع</string>
+    <string name="provision_next">التالي</string>
+    <string name="provision_skip_underline">تخطي</string>
     <string name="push_notification_content">احصل على رمز التحقق</string>
     <string name="push_notification_title">قمت بتسجيل الدخول إلى حساب Mi بإستخدام جهاز غير معروف</string>
     <string name="push_notify_dialog_message">لقد تم استخدم جهاز غير معروف لتسجيل الدخول إلى حساب Mi الخاص بك. أدخل رمز التحقق هذا على الجهاز. إن لم تكن أنت، قم بتغيير كلمة مرور حساب Mi على الفور. لا تكشف عن رمز التحقق لأشخاص آخرين.</string>

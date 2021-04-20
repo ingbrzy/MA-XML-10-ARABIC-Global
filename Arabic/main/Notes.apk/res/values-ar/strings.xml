@@ -69,8 +69,7 @@
     <string name="cancel_alarm_description">إلغاء المنبه</string>
     <string name="check_in_todo_app">عرض المهام</string>
     <string name="clearable_edittext_clear_description">مسح</string>
-    <string name="cloud_service_state_open_reminder">تشغيل المزامنة مع Cloud لمزامنة الملاحظات.</string>
-    <string name="cloud_service_state_open_reminder_note_and_todo">تشغيل المزامنة مع Cloud</string>
+    <string name="close">إغلاق</string>
     <string name="cloud_trash_bin_title">الملاحظات المحذوفة من Cloud</string>
     <string name="confirm_cancel">لا أوافق</string>
     <string name="confirm_ok">أوافق</string>
@@ -111,7 +110,7 @@
     <string name="dialog_privacy_revoke_tips">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وسيتم حذف جميع البيانات ذات الصلة من الخوادم. هذا قد يجعل التطبيق غير قابل للاستخدام تقريبا. هل تريد إلغاء الإذن على أي حال؟ لضمان أمان حسابك، سجل الدخول إلى i.mi.com قبل إلغاء الترخيص لخدمات Cloud.</string>
     <string name="dialog_share_as_pic">مشاركة ملاحظة كصورة</string>
     <string name="dialog_share_as_text">مشاركة ملاحظة كنص</string>
-    <string name="dlg_btn_set_password">تعيين كلمة مرور</string>
+    <string name="dlg_btn_set_password">تعيين كلمة المرور</string>
     <string name="dlg_check_reminder">لا تظهر مرة اخرى</string>
     <string name="dlg_delete_message">جارٍ الحذف…</string>
     <string name="dlg_hide_message">جارٍ الاخفاء…</string>
@@ -125,7 +124,7 @@
     <string name="dlg_restore_message">جارٍ الاسترداد…</string>
     <string name="dlg_stick_message">جارٍ التثبيت…</string>
     <string name="dlg_title_password_reset">تحديث كلمة المرور</string>
-    <string name="dlg_title_set_password">تعيين كلمة مرور</string>
+    <string name="dlg_title_set_password">تعيين كلمة المرور</string>
     <string name="dlg_title_use_privacy_password">إستخدم كلمة مرور حماية الخصوصية</string>
     <string name="dlg_unhide_message">جار الإظهار…</string>
     <string name="dlg_update_cancel">ليس الآن</string>
@@ -149,7 +148,7 @@
     <string name="doodle_guide_brush_config_hint">انقر مرة أخرى لتعديل عرض الخط وشفافيته</string>
     <string name="doodle_guide_dialog_confirm">موافق</string>
     <string name="doodle_guide_dialog_skip">تخطي</string>
-    <string name="doodle_guide_dialog_title">جار الرسم</string>
+    <string name="doodle_guide_dialog_title">رسم تقريبي</string>
     <string name="doodle_guide_quick_shape_hint" formatted="false">اضغط مع الاستمرار الرسم ل%d-%dثانية لتعديل الخطوط تلقائيا</string>
     <string name="doodle_palette">لوحة الألوان</string>
     <string name="doodle_saving">جارٍ الحفظ…</string>
@@ -185,7 +184,7 @@
     <string name="error_widget_exist_for_send_to_desktop">هذه الملاحظة موجودة مسبقا على الشاشة الرئيسية</string>
     <string name="evening">عصر</string>
     <string name="exceed_todo_text_limitation">وصف المهمة طويل جدا.</string>
-    <string name="excerpt">Excerpts</string>
+    <string name="excerpt">اقتباسات</string>
     <string name="excerpt_bubble_tips">سيتم نسخ النص والصور إلى الملاحظات</string>
     <string name="excerpt_link_bubble_tips">انقر للحفظ إلى الملاحظات</string>
     <string name="excerpt_note">اقتباساتي</string>
@@ -310,10 +309,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">جارٍ المزامنة مع Cloud…</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
+    <string name="miuix_appcompat_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_select_all_description">تحديد الكل</string>
+    <string name="miuix_appcompat_select_item">تحديد العناصر</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
@@ -380,7 +382,7 @@
     <string name="note_gesture_guide_step1">اضغط مطولاً على زر + لإنشاء ملاحظة صوتية</string>
     <string name="note_gesture_guide_step2">اضغط مطولاً على ملاحظة واسحبها على ملاحظة أخرى لإنشاء مجلد</string>
     <string name="note_gesture_guide_step3">اضغط مطولاً على ملاحظة واسحبها على مجلد لنقلها</string>
-    <string name="note_header_first_enter_guide">اسحب لأسفل لعرض المزيد</string>
+    <string name="note_header_first_enter_guide">اسحب للأسفل لعرض المزيد</string>
     <string name="note_invalid_mindnote_hint">الخرائط الذهنية غير متوفرة في هذا الإصدار. قم بالتحديث إلى أحدث إصدار لاستخدام هذه الميزة.</string>
     <string name="note_link_email">إنشاء بريد إلكتروني</string>
     <string name="note_link_other">فتح بإستخدام تطبيق الخريطة</string>
@@ -391,9 +393,10 @@
     <string name="note_mindnote_entrance_hint_newversion">"ابدأ في الكتابة "</string>
     <string name="note_mindnote_entrance_icon_text">إنشاء خريطة ذهنية</string>
     <string name="note_mindnote_entrance_icon_text_newversion">إنشاء خريطة ذهنية</string>
-    <string name="note_sort_way">طريقة ترتيب الملاحظات</string>
+    <string name="note_sort_way">ترتيب</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">الملاحظات هو أحد تطبيقات النظام. لن تتمكن من استخدامه بعد إلغاء تثبيته.</string>
     <string name="notes_description_title">إلغاء تثبيت الملاحظات؟</string>
     <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>
@@ -525,11 +528,19 @@
     <string name="search_path_notes">تطبيقات النظام/الملاحظات</string>
     <string name="search_setting_description">بحث عن نص في ملاحظاتك</string>
     <string name="select_account_prompt">مزامنة الملاحظات</string>
+    <string name="send">مشاركة</string>
     <string name="set_alarm_description">ضبط المنبه</string>
     <string name="setting_other">أخرى</string>
     <string name="setting_privacy">سياسة الخصوصية</string>
     <string name="single_link_excerpt_saving">جارٍ حفظ العناصر…</string>
     <string name="single_new_excerpt_title">اقتباسات</string>
+    <string name="size_byte">بايت</string>
+    <string name="size_giga_byte">جيجابايت</string>
+    <string name="size_kilo_byte">كيلوبايت</string>
+    <string name="size_mega_byte">ميجابايت</string>
+    <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">تيرابايت</string>
     <string name="snippet_audio_stub">ملاحظة صوتية</string>
     <string name="snippet_image_stub">ملاحظة صورة</string>
     <string name="snippet_image_template">[صورة %1$s]</string>
@@ -554,6 +565,10 @@
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
     <string name="sync_all_terms">%1$s و %2$s و %3$s</string>
+    <string name="sync_desc_state_complete">متزامن مع Cloud</string>
+    <string name="sync_desc_state_complete_china">All %1$s have been synced</string>
+    <string name="sync_desc_state_disable">تشغيل المزامنة مع Cloud</string>
+    <string name="sync_desc_state_running">يتم المزامنة مع Cloud</string>
     <string name="sync_folder_todo">%1$s و%2$s</string>
     <string name="sync_note_folder">%1$s و%2$s</string>
     <string name="sync_note_todo">%1$s و%2$s</string>
@@ -662,10 +677,10 @@
     <string name="todo_edit_btn_today">اليوم</string>
     <string name="todo_edit_btn_tomorrow">غداً</string>
     <string name="todo_edit_text_hint">أدخل وصف للمهام</string>
-    <string name="todo_event_description_a_week_ago">قبل أسبوع</string>
-    <string name="todo_event_description_a_week_later">في أسبوع</string>
-    <string name="todo_event_description_day_after_tomorrow">في يومين</string>
-    <string name="todo_event_description_day_before_yesterday">قبل يومين</string>
+    <string name="todo_event_description_a_week_ago">قبل %1$d أسبوع</string>
+    <string name="todo_event_description_a_week_later">بعد %1$d أسبوع</string>
+    <string name="todo_event_description_day_after_tomorrow">بعد %1$d أيام</string>
+    <string name="todo_event_description_day_before_yesterday">قبل %1$d يوم</string>
     <string name="todo_event_description_today">اليوم</string>
     <string name="todo_event_description_tomorrow">غداً</string>
     <string name="todo_event_description_yesterday">أمس</string>
@@ -680,7 +695,7 @@
     <string name="todo_item_status_finished">اكتمل</string>
     <string name="todo_item_status_unfinished">غير مكتمل</string>
     <string name="todo_list">قائمة المهام الفرعية</string>
-    <string name="todo_list_edit_text_hint">انقر مفتاح\"إدخال\" لإنشاء مهام فرعية</string>
+    <string name="todo_list_edit_text_hint">انقر مفتاح \"إدخال\" لإنشاء مهام فرعية بعد هذه</string>
     <string name="todo_list_new_finish_all_tip">يجب أن تحتوي العناصر الجديدة على مهمة واحدة غير مكتملة على الأقل</string>
     <string name="todo_list_overflow_tip">لا يمكن إنشاء المزيد من المهام</string>
     <string name="todo_menu_add_audio_description">إضافة مهمة صوتية</string>
@@ -725,7 +740,7 @@
     <string name="toolbar_undo_description">تراجع</string>
     <string name="toolbar_voice_description">صوت</string>
     <string name="trash_folder_name">المهملات</string>
-    <string name="trash_folder_reminder">سيتم حذف الملاحظات التي قمت بحذفها بشكل دائم في غضون ٣٠ يوما.</string>
+    <string name="trash_folder_reminder">سيتم حذف الملاحظات التي تقوم بحذفها نهائيًا بعد %1$d يوم.</string>
     <string name="trash_folder_reminder_new">سيتم تخزين الملاحظات في المهملات لمدة %d يوم قبل إزالتها نهائيًا.</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>

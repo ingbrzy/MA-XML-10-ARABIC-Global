@@ -208,6 +208,14 @@
         <item quantity="few">%d مرات</item>
         <item quantity="many">%d مرة</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">متوسط %.2f مرة</item>
+        <item quantity="zero">متوسط %.2f مرة</item>
+        <item quantity="one">متوسط %.2f مرة</item>
+        <item quantity="two">متوسط %.2f مرات</item>
+        <item quantity="few">متوسط %.2f مرات</item>
+        <item quantity="many">متوسط %.2f مرة</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">نهاية الأسبوع: %d ساعة</item>
         <item quantity="zero">نهاية الأسبوع: %d ساعة</item>

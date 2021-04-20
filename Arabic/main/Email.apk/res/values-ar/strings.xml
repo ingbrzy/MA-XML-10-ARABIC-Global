@@ -253,6 +253,7 @@
     <string name="back">رجوع</string>
     <string name="bank_card_detail">تفاصيل بطاقة الائتمان</string>
     <string name="bcc">نسخة مخفية</string>
+    <string name="bcc_heading">"نسخة مخفية: "</string>
     <string name="bill_center_setting">إعدادات الفواتير</string>
     <string name="bill_center_setting_head">استيراد معلومات من هذه الحسابات</string>
     <string name="bill_cycle_text">دورة الفواتير</string>
@@ -274,6 +275,7 @@
     <string name="cancel_pop3_attchemt_downloading">لا يمكن إلغاء التحميلات الجارية للمرفقات في حسابات POP3</string>
     <string name="cant_move_or_change_labels">لا يمكن نقل عناصر من حسابات متعددة.</string>
     <string name="cc">نسخة</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">نسخة/نسخة مخفية</string>
     <string name="cc_heading">"نسخة إلى: "</string>
     <string name="certificate_add_failed">تعذر تم إضافة \"%s\" شهادة</string>
@@ -301,6 +303,7 @@
     <string name="click_download_all_content">[انقر لتنزيل المحتوى]</string>
     <string name="click_to_reload">انقر الشاشة للتحديث</string>
     <string name="collapse_recipient_details">عدم عرض تفاصيل المستلم بالكامل</string>
+    <string name="colon">:</string>
     <string name="compose">إنشاء رسالة</string>
     <string name="compose_event">دعوة</string>
     <string name="compose_paste_address_oob">أحرف كثيرة جداً</string>
@@ -552,6 +555,7 @@
     <string name="go_to_mail_content">عرض البريد الإلكتروني</string>
     <string name="have_auth_code">لدي رمز</string>
     <string name="header_category_account">الحسابات</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">عام</string>
     <string name="help_and_info">المساعدة</string>
     <string name="help_me_get_qq_auth">الحصول على الكود</string>
@@ -571,6 +575,7 @@
     <string name="invalid_recipient">العنوان %s غير صالح.</string>
     <string name="invalid_recipient_title">خطأ في المستلم</string>
     <string name="kilobytes">%s كيلوبايت</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">لا يوجد بريد إلكتروني بعد.</string>
     <string name="load_from_remote">البحث في صندوق البريد على الخادم</string>
     <string name="load_more">تحميل المزيد</string>
@@ -1036,8 +1041,10 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">كلمة المرور لخادم البريد الصادر غير صحيحة</string>
     <string name="sort_attachment">ترتيب حسب</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">التخزين</string>
     <string name="str_select_all">تحديد الكل</string>
     <string name="str_select_none">الغاء تحديد الكل</string>
