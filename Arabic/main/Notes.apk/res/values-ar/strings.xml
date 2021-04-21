@@ -396,7 +396,6 @@
     <string name="note_sort_way">ترتيب</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
-    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">الملاحظات هو أحد تطبيقات النظام. لن تتمكن من استخدامه بعد إلغاء تثبيته.</string>
     <string name="notes_description_title">إلغاء تثبيت الملاحظات؟</string>
     <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>

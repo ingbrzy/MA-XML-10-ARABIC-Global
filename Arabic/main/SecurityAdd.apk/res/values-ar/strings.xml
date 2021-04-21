@@ -54,7 +54,6 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -284,7 +283,6 @@
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
     <string name="share">مشاركة</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>

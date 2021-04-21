@@ -797,7 +797,6 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">إنشاء</string>
     <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
     <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
@@ -1018,7 +1017,6 @@
     <string name="doze_optimization_title">تحسين التحكم باللمس</string>
     <string name="dual_setting_simcard1">1 SIM</string>
     <string name="dual_setting_simcard2">SIM 2</string>
-    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty_app">لا توجد تطبيقات</string>
     <string name="empty_title_auto_start_list">لا توجد تطبيقات تستطيع التشغيل تلقائيا.</string>
@@ -1074,9 +1072,7 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -1782,7 +1778,6 @@
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
-    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">غ.ب</string>
@@ -1791,7 +1786,6 @@
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_optimize_manage_1">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_service_app_detail">تفاصيل استخدام البيانات</string>
@@ -2218,11 +2212,6 @@
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيقوم MIUI بالتحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
-    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -2448,7 +2437,6 @@
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -2612,7 +2600,6 @@
     <string name="privacy_using_record">تسجيل الصوت</string>
     <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
     <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_vpnsdkmanager_label">مسرع الألعاب</string>
     <string name="promotion">اعلان</string>
