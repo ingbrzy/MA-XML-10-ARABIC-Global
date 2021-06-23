@@ -130,7 +130,7 @@
     <string name="copy_to">جارٍ النسخ إلى…</string>
     <string name="copy_to_internal_storage_first">قم بنسخ العناصر إلى وحدة التخزين الداخلية أولاً.</string>
     <string name="dark_mode">الوضع الداكن</string>
-    <string name="dark_mode_notice_message">ثيم الظلام متوفرة الآن!</string>
+    <string name="dark_mode_notice_message">ثيم الظلام متوفر الآن!</string>
     <string name="decompress_cancel">إلغاء</string>
     <string name="decompress_confirm">استخراج</string>
     <string name="decompress_corrupt">تعذر فك الملفات. الحزمة تالفة.</string>
@@ -143,9 +143,9 @@
     <string name="decompress_title">استخراج</string>
     <string name="decompress_to">استخراج الملفات إلى ...</string>
     <string name="decompress_to_here">استخرج هنا</string>
-    <string name="decrypt">حذف</string>
-    <string name="decrypt_error">تعذر الحذف</string>
-    <string name="decrypt_to">فك التشفير وحفظ إلى…</string>
+    <string name="decrypt">إزالة</string>
+    <string name="decrypt_error">تعذر الإزالة</string>
+    <string name="decrypt_to">جارٍ فك التشفير وحفظ إلى…</string>
     <string name="decrypting">جارٍ الإزالة…</string>
     <string name="default_change_log">حدث التطبيق للتحقق من الميزات الجديدة.</string>
     <string name="delete_dialog_button">حذف</string>
@@ -167,6 +167,7 @@
     <string name="display_name">عرض الاسم</string>
     <string name="domain">النطاق</string>
     <string name="download_success">تم التنزيل بنجاح</string>
+    <string name="empty_by_forbid_access">لا يمكن عرض محتويات هذا المجلد هنا بسبب قيود أن Android 11.</string>
     <string name="enable_documentsui">قم بتشغيل %s من الاعدادات > التطبيقات المثبتة اولا</string>
     <string name="enable_sd_card">بطاقة SD تالفة أو غير متصلة</string>
     <string name="enable_usb">جهاز USB تالف أو غير متصل</string>
@@ -181,6 +182,7 @@
     <string name="error_create_dir">تعذر إنشاء مجلد</string>
     <string name="error_create_file">تعذر إنشاء الملف</string>
     <string name="error_delete_failed">تعذر حذف الملف</string>
+    <string name="error_file_already_exists">هذا الملف موجود مسبقاً.</string>
     <string name="error_filename_too_long">اسم الملف الذي قمت بإدخاله طويل جدا.</string>
     <string name="error_folder_already_exists">هذا الملف موجود مسبقاً</string>
     <string name="error_info_cant_send_folder">لا يمكن إرسال الملفات.</string>
@@ -238,6 +240,7 @@
     <string name="favorite_photo">الصور</string>
     <string name="favorite_ringtone">نغمات الرنين</string>
     <string name="favorite_screen_cap">لقطات الشاشة</string>
+    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="feedback_desc">صف المشكلة التي واجهتها</string>
     <string name="feedback_send_email_body_extra_info">لا تحذف المعلومات التالية. سوف يساعدنا ذلك على إيجاد المشكلة.</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -269,6 +272,8 @@
     <string name="homepage_tab_recent">الحديثة</string>
     <string name="host">المضيف</string>
     <string name="hot_sticker">ملصقات</string>
+    <string name="ic_remove_desc">مدير الملفات هو تطبيق نظام يتيح لك عرض وإدارة الملفات على جهازك. هل ترغب في المتابعة؟</string>
+    <string name="ic_remove_title">هل ترغب في إزالة \"مدير الملفات\" من الشاشة الرئيسية؟</string>
     <string name="if_cancel">هل تريد إلغاء هذه العملية؟</string>
     <string name="image_loading_error">تعذر تحميل الصورة</string>
     <string name="implicit">ضمني</string>
@@ -280,7 +285,7 @@
     <string name="info_system">النظام:</string>
     <string name="info_system_version">إصدار النظام:</string>
     <string name="invalid_name_or_password">اسم المستخدم أو كلمة المرور غير صحيحة</string>
-    <string name="just_now">حاليا</string>
+    <string name="just_now">الآن</string>
     <string name="kilobyteShort">كيلوبايت</string>
     <string name="list_order">عرض قائمة</string>
     <string name="load_more">عرض المزيد</string>
@@ -297,6 +302,7 @@
     <string name="menu_item_deep_clean">تنظيف عميق</string>
     <string name="menu_item_ftp">الاتصال بالكمبيوتر</string>
     <string name="menu_item_midrop">نقل الملفات</string>
+    <string name="menu_item_midrop_desc">المزيد من التطبيقات</string>
     <string name="menu_item_router">جهاز التوجيه</string>
     <string name="menu_item_sort">ترتيب حسب</string>
     <string name="menu_item_sort_add_time">"تمت الإضافة إلى المفضلة "</string>
@@ -339,6 +345,13 @@
     <string name="notif_server_starting">جارٍ بدء خادم FTP‏…</string>
     <string name="notif_title">خادم FTP قيد التشغيل</string>
     <string name="notification_wechat_expired_empty">قام Wechat بحذف مقاطع الفيديو هذه مسبقا.</string>
+    <string name="offline_notification_text">انقر لفتح الإعلان</string>
+    <string name="offline_notification_title">عرض الإعلان الذي حفظته عند عدم الاتصال بالإنترنت</string>
+    <string name="offline_opt_in_confirm">حسنًا</string>
+    <string name="offline_opt_in_confirmation">ستتلقّى إشعارًا يحتوي على الرابط عند إعادة الاتصال بالإنترنت.</string>
+    <string name="offline_opt_in_decline">لا، شكرًا</string>
+    <string name="offline_opt_in_message">سنرسل إليك إشعارًا يحتوي على رابط إلى الموقع الإلكتروني للمعلِن.</string>
+    <string name="offline_opt_in_title">فتح العنوان عند إعادة الاتصال بالإنترنت</string>
     <string name="ok">موافق</string>
     <string name="online_not_support">لا يمكن عرض هذا الملف في الوقت الحالي.</string>
     <string name="open">فتح</string>
@@ -353,10 +366,10 @@
     <string name="operation_decompressing">استخراج ...</string>
     <string name="operation_del_fav">حذف من المفضلة…</string>
     <string name="operation_delete">حذف</string>
-    <string name="operation_delete_confirm_message">حذف؟</string>
+    <string name="operation_delete_confirm_message">هل أنت متأكد من الحذف؟</string>
     <string name="operation_delete_confirm_message_folder">"سيتم حذف جميع محتويات المجلد.
 "</string>
-    <string name="operation_delete_done">كل شيء تم!</string>
+    <string name="operation_delete_done">تم!</string>
     <string name="operation_deleting">جارٍ الحذف…</string>
     <string name="operation_deleting_message">جارٍ الحذف…</string>
     <string name="operation_edit">تعديل</string>
@@ -417,7 +430,12 @@
     <string name="port_range">يجب أن يكون رقم المنفذ مابين ١٠٢٤–٦٥٥٣٥</string>
     <string name="possible_permissions">أذونات اختيارية</string>
     <string name="privacy_accept">الموافقة والمتابعة</string>
-    <string name="privacy_message">قبل إستخدامك مدير الملفات، يجب عليك الموافقة على &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">اتفاقية المستخدم&lt;/a>&lt;/font>و &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">سياسة الخصوصية&lt;/a>&lt;/font>لدينا.</string>
+    <string name="privacy_cancel"><u>غير موافق</u></string>
+    <string name="privacy_desc">مرحبا بك في مدير الملفات! يوفر لك هذا التطبيق بجانب الوظائف الأساسية الخدمات التالية:</string>
+    <string name="privacy_experience_statement">انضم لبرنامج تجربة المستخدم الخاص بنا لمشاركة البيانات ومساعدتنا على تحسين منتجاتنا وخدماتنا.</string>
+    <string name="privacy_item1">تصنيف العناصر المستخدمة مؤخرا</string>
+    <string name="privacy_item2">عرض وتعديل الملفات</string>
+    <string name="privacy_message">&lt;Data>يحتاج مدير الملفات إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية التي تنشئ إحصائيات الاستخدام. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام مدير الملفات. يمكنك سحب الموافقة على سياسة خصوصية مدير الملفات في أي وقت من الإعدادات. إذا كنت لا توافق على سياسة الخصوصية الخاصة بنا. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="privacy_title">مرحبا بك في مدير الملفات</string>
     <string name="private_files">خاص</string>
     <string name="private_folder">الملفات الخاصة</string>
@@ -430,7 +448,7 @@
     <string name="recommended_content">التوصيات</string>
     <string name="remind_no_notice">تذكر اختياري</string>
     <string name="rename_alert">إذا قمت بتغيير امتداد هذا الملف، ربما لن تكون قادر على فتحه.</string>
-    <string name="rename_alert2">سيتم إخفاء الملف بعد تغيير امتداده.</string>
+    <string name="rename_alert2">الملفات التي تبدأ بنقطة \".\" سيتم إخفاؤها تلقائيًا. هل مازلت ترغب في استخدام اسم الملف هذا؟</string>
     <string name="rename_failed">تعذر إعادة تسمية %1$s</string>
     <string name="repair_done">تم الاسترداد بنجاح</string>
     <string name="repair_error">تعذرت الاستعادة. حاول مجددا.</string>
@@ -440,9 +458,16 @@
     <string name="restoring">جارٍ الاسترداد…</string>
     <string name="revoke">إلغاء الترخيص</string>
     <string name="revoke_authorization">إلغاء الترخيص</string>
+    <string name="revoke_confirm_dialog_cancel">إلغاء</string>
+    <string name="revoke_confirm_dialog_content">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية مدير الملفات، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن الخدمات الأساسية التي يقدمها مدير الملفات تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بالخدمات التي تعمل على أساس جمع البيانات.</string>
+    <string name="revoke_desc">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر أنك تسحب موافقتك على سياسة خصوصية مدير الملفات.</string>
+    <string name="revoke_net_dialog_content">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
+    <string name="revoke_net_dialog_ok">حسنا</string>
+    <string name="revoke_net_dialog_title">تعذر الاتصال بالشبكة</string>
     <string name="revoke_success">تم إلغاء الترخيص بنجاح</string>
     <string name="revoke_timer">(%1$dث)</string>
     <string name="revoke_tips">بعد إلغاء منح الترخيص، سيتوقف مدير الملفات عن جمع البيانات، وستتم إزالة كافة البيانات ذات الصلة من الخوادم. قد يؤدي هذا إلى عمل مدير الملفات بشكل غير طبيعي. هل تريد المتابعة؟</string>
+    <string name="revoke_title">سحب الموافقة</string>
     <string name="revoking">جارٍ إلغاء الترخيص…</string>
     <string name="rlv_last_refreshing_time">تم تحديثها %1$s</string>
     <string name="rlv_loading_more">لحظة من فضلك…</string>
@@ -453,8 +478,8 @@
     <string name="s2">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
     <string name="s3">قبول</string>
     <string name="s4">رفض</string>
-    <string name="s5">إنشاء حدث تقويم</string>
-    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
+    <string name="s5">إنشاء حدث في التقويم</string>
+    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث في التقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
     <string name="save_seven_day">تنظيف مرة واحدة في الأسبوع</string>
     <string name="scan_code_download_from_play">امسح رمز QR هذا للتنزيل من متجر Play</string>
@@ -522,6 +547,7 @@
     <string name="time_pm">م</string>
     <string name="time_to_upgrade">هناك تحديث متاح</string>
     <string name="tip">تنبيه</string>
+    <string name="tips_by_forbid_access">لن تكون محتويات هذا المجلد متاحة نظرًا للقيود الجديدة على أندرويد R. نوصي بنقل جميع الملفات المهمة من هذا المجلد في أسرع وقت ممكن.</string>
     <string name="title_app_tags">التطبيقات</string>
     <string name="title_enable_documentsui">تشغيل DocumentsUI</string>
     <string name="title_expire_video">على وشك الانتهاء</string>
@@ -541,12 +567,15 @@
     <string name="update_use_mobile_data">التحديث تلقائياً بإستخدام بيانات الهاتف</string>
     <string name="usb_has_removed">تم إزالة جهاز USB</string>
     <string name="used">مستخدم</string>
+    <string name="user_experience_desc">شارك بيانات المستخدم معنا وساعدنا على تحسين منتجاتنا وخدماتنا.</string>
+    <string name="user_experience_title">برنامج تجربة المستخدم</string>
     <string name="user_not_login">قم بتسجيل الدخول أولا</string>
     <string name="user_notice_privacy_policy">سياسة الخصوصية</string>
     <string name="user_notice_term_of_service">اتفاقية المستخدم</string>
     <string name="utf8_summary">نظام الترميز الافتراضي FTP</string>
     <string name="version_name">الإصدار</string>
     <string name="video_replay_btn">إعادة التشغيل</string>
+    <string name="view_by_document">عرض في الملفات</string>
     <string name="wechat_video">فيديو في %s</string>
     <string name="wifi_state">حالات شبكة Wi-Fi</string>
     <string name="year_month_day_format">dd MMM، yyyy</string>

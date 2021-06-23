@@ -17,36 +17,27 @@
         <item>٣ عمليات كحد أقصى</item>
         <item>٤ عمليات كحد أقصى</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
         <item>١٠٠%</item>
     </string-array>
     <string-array name="battery_options">
-        <item>عرض النسبة المئوية دائماً</item>
-        <item>عرض النسبة المئوية أثناء الشحن (افتراضي)</item>
-        <item>لا تظهر هذا الأيقونة</item>
+        <item>عرض النسبة المئوية دائمًا</item>
+        <item>عرض النسبة المئوية عند الشحن (تلقائي)</item>
+        <item>عدم عرض هذا الرمز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱٦ بت/عينة</item>
-        <item>۲٤ بت/عينة</item>
-        <item>۱٦ بت/عينة</item>
+        <item>16بت/عينة</item>
+        <item>24 بت/عينة</item>
+        <item>16 بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱٦ بت/عينة</item>
-        <item>۲٤ بت/عينة</item>
-        <item>٣٢ بت/عينة</item>
+        <item>16 بت/عينة</item>
+        <item>24 بت/عينة</item>
+        <item>32 بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -72,17 +63,17 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱.٤٤ كيلوهرتز</item>
-        <item>۰.٤۸ كيلوهرتز</item>
-        <item>۸۸.۲ كيلوهرتز</item>
-        <item>۰. ۹٦ كيلوهرتز</item>
+        <item>44.1 كيلوهرتز</item>
+        <item>48.0 كيلوهرتز</item>
+        <item>88.2 كيلوهرتز</item>
+        <item>96.0 كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱.٤٤ كيلوهرتز</item>
-        <item>۰.٤۸ كيلوهرتز</item>
-        <item>۸۸.۲ كيلوهرتز</item>
-        <item>۰. ۹٦ كيلوهرتز</item>
+        <item>44.1 كيلوهرتز</item>
+        <item>48.0 كيلوهرتز</item>
+        <item>88.2 كيلوهرتز</item>
+        <item>96.0 كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -148,9 +139,9 @@
         <item>تصفية حزم الوسائط</item>
     </string-array>
     <string-array name="clock_options">
-        <item>عرض الساعة والدقائق والثواني</item>
-        <item>عرض الساعة والدقائق (إفتراضي)</item>
-        <item>لا تظهر هذا الأيقونة</item>
+        <item>عرض الساعات والدقائق والثواني</item>
+        <item>عرض الساعات والدقائق (تلقائي)</item>
+        <item>عدم عرض هذا الرمز</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
@@ -162,8 +153,6 @@
         <item>طبيعي</item>
         <item>قياسي</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>متوقف</item>
         <item>عرض مناطق تجاوز الحد</item>
@@ -172,37 +161,34 @@
     <string-array name="enable_opengl_traces_entries">
         <item>لا شيء</item>
         <item>Logcat</item>
-        <item>Systrace (رسومات)</item>
+        <item>Systrace (Graphics)</item>
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>‏عدم استخدام التحقق من HDCP مطلقًا</item>
+        <item>‏عدم استخدام التحقق من HDCP مطلقاً</item>
         <item>‏استخدام التحقق من HDCP لمحتوى DRM فقط</item>
-        <item>‏استخدام التحقق من HDCP دومًا</item>
+        <item>‏استخدام التحقق من HDCP دائما</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>عدم التحقق مطلقًا</item>
         <item>‏التحقق من محتوى DRM فقط</item>
         <item>التحقق دائماََ</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>إيقاف</item>
-        <item>٣٠ دقيقة</item>
-        <item>ساعة</item>
-        <item>ساعتين</item>
-        <item>٨ ساعات</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>موصى به.</item>
+        <item>هذا اعلان.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
-        <item>حافظة</item>
+        <item>الحافظة</item>
         <item>رمز المفتاح</item>
-        <item>تبديل لوحة المفاتيح</item>
-        <item>لا شيء</item>
+        <item>تأكيد التدوير، مفتاح تبديل لوحة المفاتيح</item>
+        <item>بدون</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>عادي</item>
-        <item>ضغط</item>
-        <item>يميل يسار</item>
-        <item>يميل يمين</item>
+        <item>مكثف</item>
+        <item>مائل لليسار</item>
+        <item>مائل لليمين</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>لا شيء</item>
@@ -218,7 +204,6 @@
         <item>4K (زيادة دقة، آمن)</item>
         <item>720p، 1080p (شاشة مزدوجة)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>متوقف</item>
         <item>٦٤ ك.ب</item>
@@ -256,7 +241,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>متوقف</item>
         <item>إرسم منطقة قصاصة غير مستطيلة بالأزرق</item>
-        <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
+        <item>إبراز أوامر الرسم التي تم اختبارها بالأخضر</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>متوقف</item>
@@ -302,35 +287,6 @@
         <item>مصدر الصوت</item>
         <item>MIDI</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>صافٍ</item>
-        <item>غائم</item>
-        <item>غائم جزئيا</item>
-        <item>ضبابي</item>
-        <item>عاصفة ممطرة</item>
-        <item>هطول</item>
-        <item>عاصفة ممطرة</item>
-        <item>عاصفة رعدية</item>
-        <item>أمطار خفيفة</item>
-        <item>أمطار غزيرة</item>
-        <item>أمطار متوسطة</item>
-        <item>أمطار خفيفة</item>
-        <item>أمطار وثلوج</item>
-        <item>عاصفة ثلجية عنيفة</item>
-        <item>ثلج</item>
-        <item>ثلج كثيف</item>
-        <item>ثلوج متوسطة</item>
-        <item>ثلوج خفيفة</item>
-        <item>عاصفة رملية قوية</item>
-        <item>عاصفة رملية</item>
-        <item>رمل</item>
-        <item>رياح عاصفة</item>
-        <item>حبات برد</item>
-        <item>غبار</item>
-        <item>ضباب</item>
-        <item>امطار متجمدة</item>
-        <item></item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>جارٍ البحث…</item>
@@ -343,7 +299,7 @@
         <item>غير متصل</item>
         <item>غير ناجح</item>
         <item>محظورة</item>
-        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتاً</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -357,7 +313,7 @@
         <item>غير متصل</item>
         <item>غير ناجح</item>
         <item>محظور</item>
-        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتاً</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>

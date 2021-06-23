@@ -234,8 +234,10 @@
     <string name="label_from_date">من</string>
     <string name="label_history">السجل</string>
     <string name="label_interest">سعر الفائدة (نسبة مئوية)</string>
+    <string name="label_investment_disclaimer">نستخدم فترة دمج مدتها ثلاثة أشهر لإجراء العمليات الحسابية المتكررة</string>
     <string name="label_investment_duration">المدة</string>
     <string name="label_loan_tenure">فترة القرض</string>
+    <string name="label_monthly_investment">الاستثمار الشهري</string>
     <string name="label_months">أشهر</string>
     <string name="label_no_history">لا توجد عناصر هنا</string>
     <string name="label_powered_by">مدعوم من حاسبة Mi</string>
@@ -511,6 +513,7 @@
     <string name="unit_data_display_currency_btn">نغولتروم بوتاني</string>
     <string name="unit_data_display_currency_bwp">بولا بوتسوانية</string>
     <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دولار كندي</string>
     <string name="unit_data_display_currency_cdf">فرنك كنغولي</string>
     <string name="unit_data_display_currency_chf">فرنك سويسري</string>
@@ -848,8 +851,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
+    <string name="xiaomi_calculator_delete_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إلغاء تثبيته.</string>
+    <string name="xiaomi_calculator_delete_title">هل ترغب في إلغاء تثبيت الآلة الحاسبة؟</string>
+    <string name="xiaomi_calculator_remove_icon_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إزالة اختصارة من الشاشة الرئيسية.</string>
+    <string name="xiaomi_calculator_remove_icon_title">هل ترغب في إزالة تطبيق \"الآلة الحاسبة\" من الشاشة الرئيسية؟</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميجابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

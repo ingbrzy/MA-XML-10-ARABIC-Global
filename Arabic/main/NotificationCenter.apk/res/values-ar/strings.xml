@@ -53,6 +53,8 @@
     <string name="feedback_tip_cancel">لن يتم جمع بيانات الإشعار</string>
     <string name="feedback_tip_msg">لتجميع الإشعارات بشكل أكثر دقة، سنحتاج إلى جمع اسم التطبيق وعنوان الإشعار ووصفه ووقت إرسال الإشعار. المتابعة؟</string>
     <string name="feedback_tip_title">مشكله في فئات الإشعارات</string>
+    <string name="float_notification_snooze_strategy">اخفاء الإشعارات المنبثقة مؤقتا</string>
+    <string name="float_notification_snooze_summary">اسحب لإعلى على الإشعارات المنبثقة لاخفاء الإشعارات التالية مؤقتا</string>
     <string name="float_notifications">الإشعارات المنبثقة</string>
     <string name="float_notifications_short">منبثقة</string>
     <string name="fold_importance_default">موصى به</string>
@@ -72,11 +74,15 @@
     <string name="lockscreen_notifications_short">شاشة القفل</string>
     <string name="menu_setting_aggregatation_feedback">خيارات التجميع</string>
     <string name="menu_setting_feedback_donot_classify">لا تجمع</string>
-    <string name="menu_setting_more_settings">مزيد من الإعدادات</string>
+    <string name="menu_setting_more_settings">المزيد من الإعدادات</string>
     <string name="menu_setting_show_in_home">لا تجمع</string>
     <string name="menu_setting_tip_show_in_home">لن يتم تجميع إشعارات %s</string>
     <string name="menu_setting_tip_unfold">ستعتبر جميع إشعارات هذا التطبيق مهمة</string>
     <string name="menu_setting_unfold">مهمة</string>
+    <string name="miui_snooze_always_float">لا تخفي</string>
+    <string name="miui_snooze_cancel">إلغاء</string>
+    <string name="miui_snooze_default_time">لمدة %d دقيقة</string>
+    <string name="miui_snooze_until_unlock_screen">حتى قفل الشاشة</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
@@ -96,6 +102,11 @@
     <string name="notification_aggregate_title">تجميع الإشعارات</string>
     <string name="notification_display_setting">مركز الإشعارات</string>
     <string name="notification_display_style">نمط الإشعار</string>
+    <string name="notification_fold_description1">تم تقديم مجلد الإشعارات في MIUI 9. تقوم هذه الميزة بتصفية الإشعارات الغير مهمة ووضعها في مجلد منفصل.</string>
+    <string name="notification_fold_description2">سيتذكر MIUI الإشعارات التي تنقر عليها، ثم يستخدم معايير متعددة لتحديد مدى أهميتها.</string>
+    <string name="notification_fold_description3">إذا كانت الإشعارات التي تعتبرها مهمة لا تزال تنتقل إلى مجلد الإشعارات، فيرجى الأبلاغ عن هذه المشكلة. نحن نقدر ملاحظاتك.</string>
+    <string name="notification_fold_footer_icon_summary">عرض أيقونات التطبيقات عند جمع الإشعارات الغير مهمة</string>
+    <string name="notification_fold_footer_icon_title">عرض أيقونات التطبيقات</string>
     <string name="notification_fold_summary">تجميع الإشعارات غير المهمة تلقائيًا</string>
     <string name="notification_fold_title">تجميع الإشعارات</string>
     <string name="notification_keyguard_hide_content">عرض الإشعارات وإخفاء محتوياتها</string>
@@ -113,6 +124,7 @@
     <string name="settings_guide_title">تحتاج إلى إعدادات أخرى؟</string>
     <string name="show_badge_notifications">شارات الإشعارات</string>
     <string name="show_badge_notifications_short">الشارات</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">شريط الحالة</string>
     <string name="summary_aggregate_default">سيتم تجميع إشعارات الدفع الترويجية والمحتويات ذات الصلة</string>
     <string name="summary_aggregate_home">لن يتم تجميع إشعارات الدفع</string>

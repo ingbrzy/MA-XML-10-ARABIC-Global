@@ -77,12 +77,14 @@
     <string name="accessibility_autoclick_short_summary">0.2 ثانية</string>
     <string name="accessibility_autoclick_short_title">قصير</string>
     <string name="accessibility_autoclick_shorter_desc">أقصر</string>
+    <string name="accessibility_back">رجوع</string>
     <string name="accessibility_caption_master_switch_summary">للتطبيقات المتوافقة فقط</string>
     <string name="accessibility_caption_master_switch_title">عرض الشرح</string>
     <string name="accessibility_caption_preference_summary">لا تتوفّر هذه الإعدادات المفضّلة للشرح في بعض التطبيقات.</string>
     <string name="accessibility_captioning_title">الإعدادات المفضّلة للشرح</string>
     <string name="accessibility_category_personal">حسابات الملفات الشخصية</string>
     <string name="accessibility_category_work">حسابات الملفات الشخصية للعمل - %s</string>
+    <string name="accessibility_clear">مسح</string>
     <string name="accessibility_close_tab">إغلاق علامة التبويب الحالية</string>
     <string name="accessibility_control_timeout_preference_summary">"اختَر مدة عرض الرسائل التي تطلب منك اتخاذ إجراء، ولكن يقتصر عرضها على فترة مؤقتة.
 
@@ -104,6 +106,7 @@
     <string name="accessibility_feature_state_off">غير مفعّل</string>
     <string name="accessibility_feature_state_on">مفعّل</string>
     <string name="accessibility_global_gesture_preference_title">مفتاح الاختصار لمستوى الصوت</string>
+    <string name="accessibility_haptic">إمكانية الوصول</string>
     <string name="accessibility_hearingaid_active_device_summary">%1$s مفعَّل</string>
     <string name="accessibility_hearingaid_adding_summary">إضافة سمّاعات الأذن الطبية</string>
     <string name="accessibility_hearingaid_instruction_continue_button">متابعة</string>
@@ -161,6 +164,7 @@
     <string name="accessibility_screen_magnification_summary">‏يمكنك تكبير المحتوى بسرعة على الشاشة لرؤيته بشكل أكثر وضوحًا.&lt;br/>&lt;br/>&lt;b>لتكبير المحتوى، نفِّذ الخطوات التالية:&lt;/b>&lt;br/> 1- استخدِم الاختصار لبدء تكبير المحتوى&lt;br/> 2. انقر على الشاشة&lt;br/> 3- حرِك إصبعين للتنقّل على الشاشة&lt;br/> 4. باعِد أو قارِب بإصبعين لتعديل مستوى التكبير/التصغير&lt;br/> 5. استخدِم الاختصار لإيقاف تكبير المحتوى&lt;br/>&lt;br/>&lt;b>لتكبير المحتوى مؤقتًا، نفِّذ الخطوات التالية:&lt;/b>&lt;br/> 1. استخدِم الاختصار لبدء تكبير المحتوى&lt;br/> 2. انقر مع الاستمرار على أي مكان على الشاشة&lt;br/> 3. حرِك إصبعك للتنقّل على الشاشة&lt;br/> 4. ارفع إصبعك من على الشاشة لإيقاف تكبير المحتوى.</string>
     <string name="accessibility_screen_magnification_title">التكبير</string>
     <string name="accessibility_screen_option">الخيارات</string>
+    <string name="accessibility_screen_reader_haptic_title">قارئ الشاشة</string>
     <string name="accessibility_service_action_perform_description">يمكنها تتبّع تعاملاتك مع تطبيق أو جهاز استشعار والتفاعل مع التطبيقات نيابةً عنك.</string>
     <string name="accessibility_service_action_perform_title">عرض الإجراءات وتنفيذها</string>
     <string name="accessibility_service_default_description">لم يتم تقديم أي وصف.</string>
@@ -267,6 +271,7 @@
     <string name="accessibility_vibration_summary_low">تم ضبط الرنين والإشعار على \"منخفض\".</string>
     <string name="accessibility_vibration_summary_medium">تم ضبط الرنين والإشعار على \"متوسط\".</string>
     <string name="accessibility_vibration_summary_off">تم ضبط الرنين والإشعار على \"غير مفعّل\".</string>
+    <string name="accessibility_voice_access_title">Voice controls</string>
     <string name="accessibility_vpn_settings_info">تهيئة VPN</string>
     <string name="accessibility_wifi_off">Wi-Fi متوقف.</string>
     <string name="accessibility_wifi_one_bar">إشارة Wi-Fi واحدة.</string>
@@ -305,8 +310,6 @@
     <string name="activating">جارٍ التفعيل…</string>
     <string name="active_device_admin_msg">تطبيق مشرف الجهاز</string>
     <string name="active_input_method_subtypes">طرق الإدخال النشطة</string>
-    <string name="activity_check_context">يحاول جهازك الآن الاتصال بالإنترنت. إذا كنت تستخدم بيانات الهاتف للاتصال، فقد تستغرق هذه العملية وقتًا أطول من المعتاد. انتظر حتى يتم إنشاء اتصال بيانات ثابت أو ارجع خطوة للوراء واتصل بشبكة Wi-Fi.</string>
-    <string name="activity_check_title">الاتصال بالإنترنت</string>
     <string name="activity_not_found">لم يتم تثبيت التطبيق على هاتفك.</string>
     <string name="activity_picker_label">اختيار نشاط</string>
     <string name="activity_title_power_manager">موفر البطارية;حفظ البطارية;توفير البطارية</string>
@@ -392,6 +395,8 @@
     <string name="additional_permissions_more">%1$d أخرى</string>
     <string name="additional_system_update_settings_list_item_title">تحديثات النظام الإضافية</string>
     <string name="adjust_3d_depth_title">تعديل عمق الـ 3D للألعاب</string>
+    <string name="adjust_font_size_answer_cn">جرب ضبط حجم ووزن الخط باستخدام أشرطة التمرير أدناه!</string>
+    <string name="adjust_font_size_answer_global">جرب ضبط حجم النص باستخدام التمرير أدناه!</string>
     <string name="adjust_temperature_title">درجة حرارة الألوان</string>
     <string name="admin_device_owner_message">يمكن للمشرف مراقبة التطبيقات والبيانات المرتبطة بهذا الجهاز وإدارتها، بما في ذلك الإعدادات والأذونات والدخول إلى المؤسسة ونشاط الشبكة ومعلومات موقع الجهاز.</string>
     <string name="admin_disabled_other_options">تم إيقاف الخيارات الأخرى بواسطة المشرف</string>
@@ -408,6 +413,8 @@
     <string name="advanced_security_title">إعدادات متقدمة</string>
     <string name="advanced_settings">الإعدادات الإضافية</string>
     <string name="advanced_settings_summary">تفعيل المزيد من خيارات الإعدادات.</string>
+    <string name="aggregate_rule_group_disabled">لا تجمع</string>
+    <string name="aggregate_rule_group_enabled">تجميع</string>
     <string name="aggregate_title">قواعد الإشعارات الجماعية</string>
     <string name="agps_roaming">A-GPS عند التجوال</string>
     <string name="agps_roaming_dia">قد يؤدي استخدام A-GPS عند التجوال إلى زيادة استخدام بيانات شبكة الهاتف. في حال تجاوز حد استخدام البيانات للمعدل المسموح به، قد تفرض عليك شركة الاتصالات رسوماً إضافية.</string>
@@ -431,7 +438,7 @@
     <string name="alarm_stop_info">سيتم إيقاف الوضع الصامت عندما يرن المنبه</string>
     <string name="alarm_template">عند %1$s</string>
     <string name="alarm_template_far">في %1$s</string>
-    <string name="alarm_volume_option_title">مستوى صوت المنبّه</string>
+    <string name="alarm_volume_option_title">المنبه</string>
     <string name="alarm_volume_title">المنبّه</string>
     <string name="all_volume_title">مستويات الصوت</string>
     <string name="allow">سماح</string>
@@ -441,11 +448,11 @@
     <string name="allow_data_usage_title">السماح باستخدام بيانات التجوال</string>
     <string name="allow_device_id_access">حدد التطبيقات التي يمكنها استخدام معرف الجهاز</string>
     <string name="allow_float_summary">السماح بالإشعارات عائمة</string>
-    <string name="allow_float_title">إشعارات منبثقة</string>
+    <string name="allow_float_title">تمكين الإشعارات المنبثقة</string>
     <string name="allow_interruption">السماح بالمقاطعات</string>
     <string name="allow_interruption_summary">السماح للتطبيق بإصدار صوت و/أو اهتزاز و/أو عرض إشعارات منبثقة على الشاشة</string>
     <string name="allow_keyguard_summary">السماح بالإشعارات على شاشة القفل</string>
-    <string name="allow_keyguard_title">إشعارات شاشة القفل</string>
+    <string name="allow_keyguard_title">تمكين إشعارات شاشة القفل</string>
     <string name="allow_lights_title">السماح بإستخدام ضوء LED</string>
     <string name="allow_manage_external_storage_description">يسمح هذا الإعداد لهذا التطبيق بقراءة كل الملفات وتعديلها وحذفها من هذا الجهاز أو أي وحدات تخزين متصلة. في حال تفعيله، يمكن أن يصل التطبيق إلى الملفات بدون إعلامك بذلك.</string>
     <string name="allow_mock_location">السماح بمواقع وهمية</string>
@@ -453,13 +460,13 @@
     <string name="allow_oaid_used">استخدام الهوية الافتراضية</string>
     <string name="allow_oaid_used_desc">لن يوفر MIUI معرف افتراضي (OAID) للتطبيقات المثبتة. وبسبب هذا، قد لا تعمل بعض ميزات التوصيات المخصصة بشكل صحيح.</string>
     <string name="allow_overlay_description">عليك السماح بعرض واجهة هذا التطبيق فوق التطبيقات الأخرى التي تستخدمها. سيتمكّن هذا التطبيق من معرفة الأماكن التي تنقر عليها أو من تغيير ما يتم عرضه على الشاشة.</string>
-    <string name="allow_sound_title">السماح للصوت</string>
+    <string name="allow_sound_title">تمكين تشغيل الصوت</string>
     <string name="allow_vibrate_title">السماح للاهتزاز</string>
     <string name="alpha_build">ألفا</string>
+    <string name="already_delete_system_app">إلغاء تثبيت تطبيقات النظام</string>
     <string name="always">دائماً</string>
     <string name="always_allow_bind_appwidgets_text">لقد اخترت السماح لهذا التطبيق بإنشاء الأدوات والوصول إلى بياناتها.</string>
     <string name="always_running">يعمل دائمًا (%s)</string>
-    <string name="always_style">دائماً</string>
     <string name="amber_alerts_summary">تلقي نشرات حول اختطاف الأطفال</string>
     <string name="amber_alerts_title">‏تنبيهات AMBER</string>
     <string name="ambient_display_category_triggers">وقت العرض</string>
@@ -492,14 +499,15 @@
     <string name="aod_and_lock_screen_settings_title">الشاشة الدائمة وشاشة القفل</string>
     <string name="aod_close_color_inversion">لا تعمل هذه الميزة مع عكس الألوان. قم بإيقاف تشغيل عكس الألوان أولاً.</string>
     <string name="aod_name_wanxiang">الشاشة الدائمة</string>
-    <string name="aod_notification_style_animation">عرض الرسوم المتحركة</string>
+    <string name="aod_notification_style">تأثير الإشعارات</string>
+    <string name="aod_notification_style_animation">رسوم متحركة</string>
     <string name="aod_notification_style_none">لا شيء</string>
     <string name="aod_notification_style_screen_on">إضاءة الشاشة</string>
     <string name="aod_settings_category_name">الشاشة الدائمة</string>
     <string name="aod_settings_title">الشاشة الدائمة</string>
-    <string name="aod_show_mode_title">عرض العناصر</string>
-    <string name="aod_style_description">عرض الساعة والتاريخ والوقت والإشعارات وعناصر أخرى عند إيقاف تشغيل الشاشة</string>
-    <string name="aod_style_title">أسلوب</string>
+    <string name="aod_show_mode_title">وقت عرض العناصر</string>
+    <string name="aod_style_description">سيتم عرض الساعة والتاريخ والوقت والإشعارات وعناصر أخرى عند اطفاء الشاشة أو قفلها</string>
+    <string name="aod_style_title">ثيمات الشاشة</string>
     <string name="aod_to_close">إيقاف</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">نوع المصادقة</string>
@@ -670,7 +678,7 @@
     <string name="audio_record_proc_title">إلغاء الضجيج</string>
     <string name="audio_share_cancel">لا شكراً</string>
     <string name="audio_share_confirm">شارك</string>
-    <string name="auto_adjst_effect_summary">ضبط درجة حرارة اللون تلقائيًا باستخدام الإضاءة المحيطة</string>
+    <string name="auto_adjst_effect_summary">ضبط درجة حرارة الألوان تلقائيًا لتتناسب مع الإضاءة المحيطة والحفاظ على راحة العين</string>
     <string name="auto_adjust_effect_title">ضبط درجة حرارة الألوان تلقائيًا</string>
     <string name="auto_brightness_default_title">تلقائي</string>
     <string name="auto_brightness_description">سيتم ضبط سطوع الشاشة تلقائيًا حسب البيئة المحيطة والأنشطة. ويمكنك تحريك شريط التمرير يدويًا لضبط السطوع التكيُّفي حسبما تفضّل.</string>
@@ -758,6 +766,7 @@
     <string name="average_used">متوسط استخدام الذاكرة (%)</string>
     <string name="avoid_ui">حظر استجابة اللمس</string>
     <string name="awake">وقت الوضع النشط للجهاز</string>
+    <string name="back">رجوع</string>
     <string name="back_button">رجوع</string>
     <string name="back_double_tap">انقر مرتين على رجوع</string>
     <string name="back_key">زر الرجوع</string>
@@ -828,7 +837,7 @@
     <string name="backup_set_pw_confirm_title">تأكيد كلمة المرور الاحتياطية الجديدة</string>
     <string name="backup_summary_state_off">غير مفعّل</string>
     <string name="backup_summary_state_on">مفعّل</string>
-    <string name="badge_title">عرض شارات أيقونة التطبيق</string>
+    <string name="badge_title">تمكين شارات الإشعارات</string>
     <string name="band_24G">"  (نطاق 2.4 جيجاهرتز)"</string>
     <string name="band_5G">"  (نطاق 5 جيجاهرتز)"</string>
     <string name="baseband_version">إصدار النطاق الأساسي</string>
@@ -1399,6 +1408,7 @@ aptX التكيفي: وضع الترميز"</string>
 إذا قمت بالفعل بأي مما سبق، فأضف حساب Mi مرة أخرى؛ وإلا فلن تكون قادرًا على إلغاء قفل جهازك."</string>
     <string name="bootloader_tips_ok">فهمت</string>
     <string name="bootloader_tips_warning">لا تنفصل عن الشبكة، ولا تسجل الخروج من حساب Mi، ولا تعيد ضبط المصنع أو حذف بيانات النظام.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">الوظائف الإضافية للأزرار</string>
     <string name="breathing_light_color_menu_title">لون الإضاءة</string>
     <string name="breathing_light_color_summary">لون الإضاءة عند استلام إشعارات جديدة</string>
@@ -1434,6 +1444,10 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="bt_ldac_open_dialog_title">تشغيل LDAC؟</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">الخصائص</string>
+    <string name="bt_leaudio_open_dialog_summary">لن تتمكن من توصيل المزيد من الأجهزة بالسماعات عندما يكون LC3 قيد التشغيل. عند تشغيل هذه الميزة، سيتم فصل الأجهزة الأخرى المتصلة. هل متابعة تشغيل LC3؟</string>
+    <string name="bt_leaudio_open_dialog_title">تنبيه</string>
+    <string name="bt_leaudio_pre_title">LC3</string>
+    <string name="bt_leaudio_summary">تجربة صوتية عالية الجودة</string>
     <string name="bt_lhdc_declaration">إذا كان جهاز البلوتوث يدعم LHDC، فسيتم تشغيله افتراضيًا. يسمح لك LHDC بتشغيل صوت عالي الجودة وتقليل زمن الانتقال أثناء اللعب، ولكنه يؤدي أيضًا إلى زيادة استهلاك الطاقة. قد تحدث مشاكل أثناء التشغيل نتيجة لقيود في أجهزة البلوتوث.</string>
     <string name="bt_lhdc_dialog_summary">يسمح لك LHDC بتشغيل صوت عالي الجودة وتقليل زمن الانتقال أثناء اللعب، ولكنه يؤدي أيضًا إلى زيادة استهلاك الطاقة. يمكنك إيقاف تشغيل هذه الميزة من الإعدادات.</string>
     <string name="bt_lhdc_dialog_title">يدعم الجهاز الحالي LHDC، التي تم توصيلها بشكل افتراضي:</string>
@@ -1478,7 +1492,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="button_confirm_convert_fbe">مسح وتحويل</string>
     <string name="button_convert_fbe">جارٍ المسح والتحويل…</string>
     <string name="button_disconnect_network">قطع الاتصال بالشبكة</string>
+    <string name="button_height_text">أزرار التأكيد العامة (مثل: \"موافق\" و \"تم\")</string>
     <string name="button_light_timeout">إبقاء أضواء الأزرار مًشغلة</string>
+    <string name="button_normal_text">زر عادي</string>
     <string name="button_text_accept">سماح</string>
     <string name="button_text_accept_timer">سماح (%d)</string>
     <string name="button_text_cancel">إلغاء</string>
@@ -1625,6 +1641,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="check_find_device_status_failure_confirm">موافق</string>
     <string name="check_update">التحقق من وجود تحديثات</string>
     <string name="checkbox_notification_same_as_incoming_call">استخدام مستوى صوت المكالمة الواردة للإشعارات</string>
+    <string name="checkbox_text">تبديل</string>
     <string name="checking_decryption">جارٍ التحقق…</string>
     <string name="checking_find_device_status">جارٍ التحقق من حالة العثور على الجهاز…</string>
     <string name="checking_for_updates">جار التحقق من وجود تحديثات…</string>
@@ -1683,6 +1700,21 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="color_calibration_none">هذا الجهاز</string>
     <string name="color_calibration_srgb">sRGB</string>
     <string name="color_cyan">سماوي</string>
+    <string name="color_game_led_applications_title">حدد التطبيقات</string>
+    <string name="color_game_led_applications_title_summary">حدد التطبيقات الفردية التي تعمل مع ضوء LED</string>
+    <string name="color_game_led_battery_title">متابعة أثناء الشحن</string>
+    <string name="color_game_led_charging_summary">سيتم إيقاف تشغيل ضوء LED عند شحن البطارية</string>
+    <string name="color_game_led_end_time">إنهاء</string>
+    <string name="color_game_led_game_mode_summary">إظهار تأثيرات للألعاب عندما يكون مسرع الألعاب مشغل</string>
+    <string name="color_game_led_game_mode_title">استخدام لمسرع الألعاب</string>
+    <string name="color_game_led_incall_pulse_title">استخدام للمكالمات الواردة</string>
+    <string name="color_game_led_notification_pulse_title">وميض الإشعارات على الشاشة الدائمة</string>
+    <string name="color_game_led_remind_title">التأثيرات</string>
+    <string name="color_game_led_special_scene_title">تأثيرات خاصة</string>
+    <string name="color_game_led_start_time">البدء</string>
+    <string name="color_game_led_summary">لا تعمل هذه الميزة في وضع عدم الإزعاج</string>
+    <string name="color_game_led_time_title">جدولة في الوقت المحدد</string>
+    <string name="color_game_led_title">ضوء LED</string>
     <string name="color_gray">رمادي</string>
     <string name="color_green">أخضر</string>
     <string name="color_lamp_applications_title">إدارة الإشعارات</string>
@@ -1897,6 +1929,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="credentials_settings_not_available">لا تتوفر بيانات الاعتماد لهذا المستخدم</string>
     <string name="credentials_title">تخزين بيانات الاعتماد</string>
     <string name="credentials_title_verification">الشهادة</string>
+    <string name="crisp_text">تعطي الترددات العالية الوضوح لكل تفاصيل العملية.</string>
+    <string name="critical_feedback">التعليقات الحرجة</string>
     <string name="cross_profile_calendar_summary">عرض أحداث العمل على تقويمك الشخصي</string>
     <string name="cross_profile_calendar_title">تقويم على جميع الملفات الشخصية</string>
     <string name="crypt_keeper_button_text">ترميز الهاتف</string>
@@ -1956,6 +1990,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="custom_color">تخصيص</string>
     <string name="custom_gesture_title">إيماءات مخصصة</string>
     <string name="custom_wifi_name_title">تعديل اسم Wi-Fi</string>
+    <string name="customize_knock_gesture">إيماءات مخصصة باستخدام مفصل الإصبع</string>
     <string name="cutout_mode_always">إظهار النتوء دائما</string>
     <string name="cutout_mode_default">تلقائي</string>
     <string name="cutout_mode_settings_title">قد لا تظهر بعض التطبيقات بشكل غير صحيح إذا قمت بتخصيص طريقة إظهار النتوء.</string>
@@ -2287,7 +2322,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="device_oaid_desc">سيوفر MIUI معرف هوية إفتراضي (OAID) خاص ) للتطبيقات المثبتة لإستبدال معرفك الحقيقي، مما يمنع التطبيقات من تتبع سلوكك وتفضيلاتك، وكذلك حماية خصوصيتك الشخصية.</string>
     <string name="device_oaid_title">هوية افتراضية</string>
     <string name="device_of_someone">%1$s من %2$s</string>
-    <string name="device_opcust_version">إصدار مخصص</string>
+    <string name="device_opcust_version">Operator version</string>
     <string name="device_picker">اختيار جهاز البلوتوث</string>
     <string name="device_rear_camera">الكاميرا الرئيسية</string>
     <string name="device_screen_resolution">دقة الشاشة</string>
@@ -2310,12 +2345,6 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dialog_background_check_ok">إيقاف</string>
     <string name="dialog_background_check_title">هل تريد إيقاف الاستخدام في الخلفية وإيقاف التطبيق؟</string>
     <string name="dialog_backup_title">هل ترغب في نسخ العناصر احتياطيا أولاً؟</string>
-    <string name="dialog_check_button_negative">إعادة المحاولة</string>
-    <string name="dialog_check_button_positive">الإتصال بشبكة Wi-Fi</string>
-    <string name="dialog_check_context">"جهازك غير قادر حالياً على الاتصال بالإنترنت.
-. انقر فوق \"الاتصال بشبكة Wi-Fi\" لتحديد إحدى شبكات Wi-Fi المتاحة.
-. إذا كنت تريد استخدام اتصال بيانات الهاتف، فانقر على \"إعادة المحاولة\" أو أزل بطاقة SIM وأعد إدخالها."</string>
-    <string name="dialog_check_title">لا يمكن الاتصال بالإنترنت</string>
     <string name="dialog_chose_item">قم بتحديد عنصر لعرضة</string>
     <string name="dialog_content_login">تسجيل الدخول إلى حساب Mi للتحديث؟</string>
     <string name="dialog_location_message">"لا يستطيع هاتفك إدارة البطارية بشكل طبيعي لأن %1$s يطلب باستمرار معرفة موقعك أثناء عدم استخدامك له.
@@ -2348,11 +2377,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dialog_title_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="dialog_title_hdmi_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="dialog_title_login">تسجيل الدخول إلى حساب Mi</string>
-    <string name="dialog_wifi_button_negative">لا</string>
-    <string name="dialog_wifi_button_positive">نعم</string>
-    <string name="dialog_wifi_context">تحتاج إلى الاتصال بالإنترنت لإعداد الجهاز. إذا لم تتصل بشبكة Wi-Fi، فسيتم استخدام بيانات الهاتف. وقد يؤدي ذلك إلى زيادة رسوم خدمة البيانات. هل ما زلت ترغب في المتابعة؟</string>
-    <string name="dialog_wifi_title">استخدام بيانات الهاتف</string>
     <string name="dialog_yes">نعم</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة. بعد إعادة التشغيل، لن يتمكن هذا التطبيق من بدء التشغيل إلا بعد أن تلغي قفل جهازك.</string>
     <string name="disable_overlays">إيقاف تراكبات الأجهزة</string>
     <string name="disable_overlays_summary">استخدام GPU دائمًا لتركيب الشاشة</string>
@@ -2390,6 +2416,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="disconnected">غير متصل</string>
     <string name="display_advanced_mode_summary">خيارات التدرج اللوني</string>
     <string name="display_advanced_mode_title">الإعدادات المتقدمة</string>
+    <string name="display_animate_category">تأثيرات الرسوم المتحركة</string>
+    <string name="display_animate_content">تقليل عدد التأثيرات المتحركة المعروضة عند إلغاء قفل الشاشة</string>
+    <string name="display_animate_title">تقليل الرسوم المتحركة</string>
     <string name="display_auto_rotate_rotate">مشغل</string>
     <string name="display_auto_rotate_stay_in_current">متوقف</string>
     <string name="display_auto_rotate_stay_in_landscape">قفل الوضع الأفقي</string>
@@ -2435,6 +2464,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="dndm_auto_button_title">تكرار وقت عدم الإزعاج</string>
     <string name="dndm_auto_setting_group">مجدول</string>
     <string name="dndm_auto_time_setting">ضبط الوقت</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">إلى</string>
     <string name="dndm_auto_time_turn_off_title">إيقاف تلقائي لعدم الإزعاج</string>
     <string name="dndm_auto_time_turn_on">من</string>
@@ -2499,6 +2529,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="done_button">تم</string>
     <string name="double_click_power_key">اضغط مرتين على زر الطاقة</string>
     <string name="double_click_volume_down_when_lock">الضغط على مفتاح خفض مستوى الصوت مرتين بعد قفل الشاشة</string>
+    <string name="double_knock">النقر مرتين بمفصل إصبعك</string>
     <string name="double_tap_power_for_camera_suggestion_title">فتح الكاميرا بسرعة</string>
     <string name="double_tap_power_for_camera_summary">لفتح الكاميرا سريعًا، يمكنك الضغط على زر التشغيل مرتين. ويعمل ذلك في أي شاشة.</string>
     <string name="double_tap_power_for_camera_title">فتح الكاميرا بسرعة</string>
@@ -2573,6 +2604,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="edit_rules">تعديل</string>
     <string name="effect_preview">معاينة</string>
     <string name="eighthours">٨ ساعات</string>
+    <string name="elastic_text">تظهر التنبيهات والقوائم المنسدلة مع أشرطة تمرير تزيد من التركيز على هذه العناصر.</string>
     <string name="emergency_address_summary">‏يتم اعتباره موقعك الجغرافي عند إجراء مكالمة طوارئ عبر Wi‑Fi</string>
     <string name="emergency_address_title">عنوان الطوارئ</string>
     <string name="emergency_info_summary">المعلومات وجهات الاتصال للمستخدم %1$s</string>
@@ -2619,6 +2651,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="enable_verbose_vendor_logging">تفعيل تسجيل البائع المطول</string>
     <string name="enable_verbose_vendor_logging_summary">قم بتضمين سجلات الأجهزة الأخرى الخاصة بموردي الأخطاء في سجلات الأخطاء التي قد تحتوي على معلومات خاصة أو تستهلك المزيد من طاقة البطارية أو تستخدم المزيد من التخزين.</string>
     <string name="enable_wifi_display">العرض اللاسلكي</string>
+    <string name="enabled">مشغل</string>
     <string name="enabled_authorised_apps_summary">سيتم إلغاء ترخيص التطبيقات الفردية بعد تبديلك مفاتيح تشغيل/إيقاف.</string>
     <string name="enabled_authorised_apps_title">التراخيص الممنوحة</string>
     <string name="enabled_by_admin">يفعِّل المشرف هذا الإعداد.</string>
@@ -2725,6 +2758,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="erase_sure">إلزامي</string>
     <string name="error_adding_apn_type">‏لا يسمح مشغّل شبكة الجوّال بإضافة APN من النوع %s.</string>
     <string name="error_apn_empty">‏لا يمكن أن يكون APN فارغًا.</string>
+    <string name="error_apn_restrict_string">لا يمكن أن تحتوي نقطة الوصول على %1$s</string>
     <string name="error_capturing_system_heap_dump_message">تعذّر تسجيل نَسْخ الذاكرة في النظام.</string>
     <string name="error_mcc_not3">‏يجب أن يكون حقل MCC من ثلاثة أرقام.</string>
     <string name="error_mnc_not23">‏يجب أن يتكون حقل MNC من رقمين أو ثلاثة أرقام.</string>
@@ -2744,9 +2778,17 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="expandable_under_keyguard_title">عرض في شاشة القفل</string>
     <string name="experimental_category_title">إعدادات تجريبية</string>
     <string name="experimental_preference">(تجريبي)</string>
+    <string name="expert_detail_content_description">عرض التفاصيل</string>
     <string name="exterior">نظام الألوان</string>
     <string name="external_code_size_label">‏تطبيق وحدة تخزين USB</string>
     <string name="external_data_size_label">‏بيانات وحدة تخزين USB</string>
+    <string name="external_ram_dialog_btn_cancel">لاحقا</string>
+    <string name="external_ram_dialog_btn_ok">إعادة التشغيل</string>
+    <string name="external_ram_dialog_message">أعد تشغيل الجهاز لتطبيق التغييرات.</string>
+    <string name="external_ram_dialog_title">إعادة تشغيل الجهاز</string>
+    <string name="external_ram_summary">أضف %1$s %2$s من ذاكرة RAM باستخدام مساحة التخزين. نوصي باستخدام هذه الميزة فقط في حالة وجود مساحة خالية كافية على وحدة تخزين الجهاز.</string>
+    <string name="external_ram_title">توسيع الذاكرة</string>
+    <string name="external_ram_toast">لا يمكن إجراء توسيع الذاكرة لان مساحة التخزين غير كافية.</string>
     <string name="external_source_switch_title">السماح بتثبيت تطبيقات من هذا المصدر</string>
     <string name="external_source_trusted">مسموح به</string>
     <string name="external_source_untrusted">غير مسموح به</string>
@@ -2774,7 +2816,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="face_data_manage_unlock_title">فتح القفل بإستخدام بيانات الوجه</string>
     <string name="face_data_siggesstion_next">التالي</string>
     <string name="face_data_siggesstion_next_time">التالي (%dث)</string>
-    <string name="face_data_suggesstion_first">تحذير: استخدام التعرف على الوجه هو أقل أمنا من استخدام رمز PIN أو كلمة مرور أو نقش. قد يتم إلغاء القفل عن طريق صورك أو أشخاص مشابهيين لك.</string>
+    <string name="face_data_suggesstion_first">استخدام التعرف على الوجه هو أقل أمنا من استخدام رمز PIN أو كلمة مرور أو نقش. قد يتم إلغاء القفل عن طريق صورك أو أشخاص مشابهيين لك.</string>
     <string name="face_data_suggesstion_second">تأكد من أن جميع أجزاء وجهك مرئية بوضوح وغير مغطاة بأشياء. يجب أن يكون وجهك مضاء جيدا كذلك.</string>
     <string name="face_intro_error_max">لقد أضفت الحد الأقصى لعدد الأوجه</string>
     <string name="face_intro_error_unknown">لا يمكن إضافة مزيد من الأوجه</string>
@@ -2795,6 +2837,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="face_unlock_offset_right">انتقل إلى اليسار</string>
     <string name="face_unlock_offset_top">ارفع هاتفك قليلا</string>
     <string name="face_unlock_open_eye">افتح عينيك أكثر قليلا</string>
+    <string name="face_unlock_prompt">طلب التعرف على الوجه</string>
     <string name="face_unlock_quality">لا يمكن رؤية وجهك بوضوح</string>
     <string name="face_unlock_reveal_eye">اجعل عينيك مرئية</string>
     <string name="face_unlock_reveal_mouth">اجعل شفتيك مرئية</string>
@@ -2862,9 +2905,9 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="fingerprint_and_password_entrance_title">قفل الشاشة وبصمة الإصبع</string>
     <string name="fingerprint_apply_to_privacy_password">كلمة مرور حماية الخصوصية</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">كلمة مرور حماية الخصوصية تقوم بحماية رسائلك، صورك، ملفاتك، ملاحظاتك وتطبيقاتك.</string>
+    <string name="fingerprint_base_title">بصمة الإصبع %s</string>
     <string name="fingerprint_delete_message">هل تريد حذف بصمة الإصبع هذه؟</string>
     <string name="fingerprint_delete_title">إزالة \"%1$s\"</string>
-    <string name="fingerprint_double_tap">قم بالنقر مرتين على مستشعر بصمة الإصبع</string>
     <string name="fingerprint_enable_keyguard_toggle_title">قفل الشاشة</string>
     <string name="fingerprint_enroll_button_add">إضافة بصمة إصبع أخرى</string>
     <string name="fingerprint_enroll_button_next">التالي</string>
@@ -2872,6 +2915,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="fingerprint_first_open_screen_password_tittle">بصمة الإصبع (يجب تعيين كلمة مرور لقفل الشاشة أولاً)</string>
     <string name="fingerprint_for_keyguard_disabled">تم تعطيل بصمة الإصبع بواسطة إعدادات الأمان.</string>
     <string name="fingerprint_gesture_screen_title">تمرير بصمة الإصبع</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">تم الحفظ باسم \"%s\"</string>
     <string name="fingerprint_identify_input_password_msg">ادخل كلمة المرور</string>
     <string name="fingerprint_identify_msg">جارٍ قراءة بصمة الإصبع…</string>
     <string name="fingerprint_identify_try_again_msg">تعذر قراءة بصمة الإصبع، حاول مجددا</string>
@@ -2934,14 +2978,35 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="flash_drive_backup_enable">استخدم محرك أقراص USB لعمل نسخة احتياطية للعناصر أو استعادتها</string>
     <string name="flash_drive_backup_restore">محرك أقراص USB</string>
     <string name="flash_drive_backup_restore_summary">قم بتوصيل الـUSB</string>
+    <string name="flashback_background_start_switch_summary">إنشاء البطاقات التعليمية التي تحتوي على معلومات أساسية تلقائيا عند تشغيل التطبيقات في الخلفية</string>
+    <string name="flashback_background_start_switch_title">إنشاء البطاقات التعليمية تلقائيا</string>
+    <string name="flashback_baidu_map_summary">عرض المسار</string>
+    <string name="flashback_didi_summary">عرض معلومات الوجهة</string>
+    <string name="flashback_meituan_summary">عرض معلومات التسليم</string>
+    <string name="flashback_meituan_waimai_summary">عرض معلومات التسليم</string>
+    <string name="flashback_open_switch_summary">إظهار المعلومات الأساسية عند عرض التطبيقات كنوافذ منبثقة.</string>
+    <string name="flashback_open_switch_title">البطاقات التعليمية للتطبيق</string>
+    <string name="flashback_shansong_summary">جار عرض معلومات التسليم</string>
+    <string name="flashback_status_close">متوقف</string>
+    <string name="flashback_status_open">مشغل</string>
+    <string name="flashback_summary">إظهار المعلومات الأساسية عند عرض التطبيقات كنوافذ منبثقة.</string>
+    <string name="flashback_support_apps_title">التطبيقات المتوفرة</string>
+    <string name="flashback_title">البطاقات التعليمية للتطبيق</string>
+    <string name="flashback_wangzhe_summary">إظهار العد التنازلي في اللعبة</string>
     <string name="floating_window_switch_label">تشغيل النوافذ المنبثقة</string>
     <string name="floating_window_switch_label_disable">إيقاف تشغيل النوافذ المنبثقة</string>
     <string name="fluency_mode">الرسوم المتحركة للنظام</string>
     <string name="fluency_mode_confirm_and_reboot">إعادة التشغيل الآن</string>
+    <string name="fold_rule_default">موصى به</string>
+    <string name="fold_rule_important">هام</string>
+    <string name="fold_rule_unimportant">غير هام</string>
     <string name="fold_title">قواعد الإشعارات الجماعية</string>
+    <string name="font_setting_weight_toast">لا يدعم الخط الحالي تعديل حجم الخط</string>
+    <string name="font_settings_jump">إمكانية الوصول >حجم الشاشة</string>
+    <string name="font_settings_recommend_title">هل حجم الخط صغير؟</string>
+    <string name="font_settings_summary_cn">الخطوط وحجم النص</string>
     <string name="font_size_exhuge">ضخم جداً</string>
     <string name="font_size_huge">ضخم</string>
-    <string name="font_size_kddi">متوسط</string>
     <string name="font_size_large">كبير جداً</string>
     <string name="font_size_make_larger_desc">تكبير</string>
     <string name="font_size_make_smaller_desc">تصغير</string>
@@ -2984,6 +3049,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="foreground_traffic">الأمامي %s</string>
     <string name="forget">حذف</string>
     <string name="forget_passpoint_dialog_message">قد تفقد إمكانية الوصول إلى أي وقت أو بيانات متبقية. يُرجى مراجعة ذلك مع مقدّم الخدمة قبل الإزالة.</string>
+    <string name="forget_passpoint_wifi_message">جهازك سيتوقف تلقائياً عن الاتصال بهذه الشبكة.</string>
     <string name="forget_password_button_text"><u>نسيت كلمة المرور</u></string>
     <string name="forget_password_dialog_button_text">رجوع</string>
     <string name="forget_password_dialog_content_four">٢. حدد [Wipe data]، وانتظر حتى يتم إعادة تشغيل جهازك.</string>
@@ -3047,7 +3113,6 @@ aptX التكيفي: وضع الترميز"</string>
 
 عند تفعيل الاحتفاظ التلقائي بنسخة احتياطية، يتم بشكل دوري حفظ بيانات الجهاز وبيانات التطبيقات عن بُعد. ويمكن أن تكون بيانات التطبيقات أي بيانات تم حفظها في التطبيق (استنادًا إلى إعدادات مطور التطبيق) بما في ذلك البيانات المحتمل أن تكون حساسة مثل جهات الاتصال والرسائل والصور."</string>
     <string name="fullbackup_erase_dialog_message">‏هل تريد إيقاف الاحتفاظ بنسخة احتياطية من بيانات الجهاز (مثل كلمات مرور Wi-Fi وسجل المكالمات) وبيانات التطبيقات (مثل الإعدادات والملفات التي تخزنها التطبيقات) بالإضافة إلى محو بيانات جميع النسخ الموجودة على الخوادم البعيدة؟</string>
-    <string name="function_description">معلومات عن هذه الميزة</string>
     <string name="gadget_picker_title">اختيار أداة</string>
     <string name="gadget_toggle_wifi">تحديث إعدادات Wi-Fi</string>
     <string name="gadget_wifi">شبكة Wi-Fi</string>
@@ -3056,6 +3121,8 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="game_booster_title">مسرع الألعاب</string>
     <string name="game_controller_settings_category">وحدة التحكم في الألعاب</string>
     <string name="game_storage_settings">الألعاب</string>
+    <string name="general_text">حقل النص</string>
+    <string name="general_time">الوقت: %1$d:%2$d. تمثل الاهتزازات الطويلة \"الساعات\"، بينما تمثل الاهتزازات القصيرة \"الدقائق\". هناك فترة زمنية قصيرة بين الساعات والدقائق. انقر مرتين لتجربته.</string>
     <string name="gentle_notifications_also_display">وكذلك يظهر في</string>
     <string name="gentle_notifications_display_lock">شاشة القفل</string>
     <string name="gentle_notifications_display_status">شريط الحالة</string>
@@ -3123,6 +3190,10 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="gxzw_add_fingerprint_put_finger_title">اضغط وارفع إصبعك بعد الاهتزاز</string>
     <string name="gxzw_add_fingerprint_title">اضف بصمة إصبعك</string>
     <string name="gxzw_anim_aurora">أضواء قطبية</string>
+    <string name="gxzw_anim_dialog_cancel_enroll">إلغاء</string>
+    <string name="gxzw_anim_dialog_enroll">موافق</string>
+    <string name="gxzw_anim_dialog_message">يمكنك الآن مشاهدة حركة بصمة الإصبع بعد إضافتها. هل ترغب في الإضافة؟</string>
+    <string name="gxzw_anim_dialog_title">إضافة بصمة الإصبع</string>
     <string name="gxzw_anim_light">نيون</string>
     <string name="gxzw_anim_pulse">نبض</string>
     <string name="gxzw_anim_rhythm">إيقاع</string>
@@ -3149,11 +3220,33 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="handy_mode_size">حجم الشاشة</string>
     <string name="handy_mode_tips">مرّر لليسار أو لليمين من زر الصفحة الرئيسية لتقريب الشاشة إلى جانب واحد.</string>
     <string name="handy_mode_tips_full_screen">عند استخدام إيماءات ملء الشاشة، يمكنك تشغيل وضع اليد الواحدة باستخدام كرة الاختصارات. يمكنك أيضًا التبديل إلى استخدام الأزرار بدلاً من إيماءات ملء الشاشة.</string>
+    <string name="haptic_agent_completion_01_content_description">المهام المنجزة</string>
+    <string name="haptic_cursor_movement_07_content_description">ضبط السطوع</string>
+    <string name="haptic_experience">العرض التوضيحي</string>
+    <string name="haptic_experience_details">الاستجابه للمس وإمكانية الوصول</string>
     <string name="haptic_feedback_enable_title">اهتزاز عند النقر</string>
     <string name="haptic_feedback_level">اهتزاز</string>
     <string name="haptic_feedback_progress">مستوى نظام اللمس</string>
     <string name="haptic_feedback_summary">الحصول على استجابة للإيماءات وضوابط النظام</string>
     <string name="haptic_feedback_title">نظام اللمس</string>
+    <string name="haptic_fingerprint_unlock_16_content_description">فتح القفل ببصمة الإصبع</string>
+    <string name="haptic_generate_folder_08_content_description">مجلد جديد</string>
+    <string name="haptic_generate_small_window_gestures_09_content_description">النوافذ المنبثقة</string>
+    <string name="haptic_icon_sorting_12_content_description">إعادة ترتيب الأيقونات</string>
+    <string name="haptic_index_bar_10_content_description">شريط التمرير</string>
+    <string name="haptic_lock_screen_11_content_description">قفل الجهاز</string>
+    <string name="haptic_multitasking_card_long_press_03_content_description">اضغط لفترة طويلة على معاينة التطبيق</string>
+    <string name="haptic_multitasking_gestures_04_content_description">افتح \"المهام الأخيرة\"</string>
+    <string name="haptic_preview">العروض التوضيحية</string>
+    <string name="haptic_return_gesture_05_content_description">رجوع للخلف</string>
+    <string name="haptic_shutdown_menu_06_content_description">قائمة الاغلاق</string>
+    <string name="haptic_single_selection_02_content_description">العناصر المحددة</string>
+    <string name="haptic_switch_summary">تلقي ملاحظات لمسية خاصة بالعنصر المحدد عند تشغيل قارئ الشاشة</string>
+    <string name="haptic_switch_title">الاستجابه للمس</string>
+    <string name="haptic_text_edit_popup_13_content_description">قائمة منبثقة</string>
+    <string name="haptic_upper_right_menu_15_content_description">القائمة المنسدلة</string>
+    <string name="haptic_video_content_description">فيديو توضيحي للاستجابة إلى اللمس</string>
+    <string name="haptic_volume_adjustment_14_content_description">ضبط مستوى الصوت</string>
     <string name="hardkeyboard_category">إعدادات لوحة المفاتيح الفعلية</string>
     <string name="hardware_info">الطراز والجهاز</string>
     <string name="hardware_revision">إصدار الجهاز</string>
@@ -3179,6 +3272,22 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="header_category_wireless_networks">الشبكات واللاسلكي</string>
     <string name="header_data_and_synchronization">البيانات والمزامنة</string>
     <string name="headset_connectiong">جارٍ الاتصال…</string>
+    <string name="headset_find_both">كلاهما</string>
+    <string name="headset_find_cancel">إلغاء</string>
+    <string name="headset_find_connected">متصلة</string>
+    <string name="headset_find_disconnect">غير متصلة</string>
+    <string name="headset_find_handle_tip">انقر لتشغيل الصوت</string>
+    <string name="headset_find_left">اليسار</string>
+    <string name="headset_find_notify_connected">متصلة</string>
+    <string name="headset_find_notify_disconnect">غير متصلة، يرجى إعادة الاتصال بالسماعات والمحاولة مجددا.</string>
+    <string name="headset_find_play_warning">يبدو أن أحد السماعات داخل أذنك. قد يؤدي تشغيل الإشارة الصوتية الآن إلى إضرار بحاسة السمع. يرجى إزالة السماعة من أذنيك قبل تشغيل الإشارة.</string>
+    <string name="headset_find_playing">جارٍ التشغيل…</string>
+    <string name="headset_find_query_play">تشغيل</string>
+    <string name="headset_find_right">اليمين</string>
+    <string name="headset_find_tip">يجب أن تكون السماعة بالقرب من هذا الجهاز لتتمكن من العثور عليها. قد يؤدي تشغيل الإشارة الصوتية وأحد السماعات داخل الأذن إلى إضرار بحاسة السمع.</string>
+    <string name="headset_find_tip_title">تنبيه</string>
+    <string name="headset_find_title">العثور على السماعات</string>
+    <string name="headset_find_voice_warning">تحذير الصوت عالي</string>
     <string name="headset_notification_switch_summary">عرض حالة الاتصال في قائمة الإشعارات لمركز الإشعارات عند توصيل السماعات</string>
     <string name="headset_notification_switch_title">أداة مركز الاشعارات</string>
     <string name="headset_remove_message">هل ترغب في إلغاء إقتران الجهاز؟</string>
@@ -3187,6 +3296,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="headset_unsaved_devices">مستخدم على الأجهزة الأخرى</string>
     <string name="hearing_aids_category">أدوات مساعدة السمع</string>
     <string name="heavy_weight_stop_description">لا يمكن إيقاف هذا التطبيق بشكل آمن. في حالة إيقافه، ربما تفقد بعض عملك الحالي.</string>
+    <string name="height_light_list_text">قائمة العناصر المهمة</string>
     <string name="help_and_feedback_title">المساعدة والتعليقات</string>
     <string name="help_feedback_label">المساعدة والتعليقات</string>
     <string name="help_label">المساعدة والتعليقات</string>
@@ -3219,6 +3329,7 @@ aptX التكيفي: وضع الترميز"</string>
     <string name="homepage_all_settings">جميع الإعدادات</string>
     <string name="homepage_condition_footer_content_description">تصغير</string>
     <string name="homepage_personal_settings">اقتراحات</string>
+    <string name="how_adjust_font_size">كيف يمكنني تعديل حجم النص؟</string>
     <string name="how_backup_content">"يمكنك نسخ العناصر احتياطيًا محليًا (على جهازك) أو إلى Cloud. يمكن تخزين النُسخ الاحتياطية المحلية على جهازك المحمول أو الكمبيوتر أو محرك أقراص USB.
 
 الهاتف المحمول
@@ -3256,6 +3367,7 @@ Xiaomi Cloud
     <string name="how_restore_backup_title">كيف يمكنني استعادة العناصر التي تم نسخها احتياطيًا؟</string>
     <string name="http_invoke_app">تطبيقات الويب</string>
     <string name="http_invoke_app_summary">افتح التطبيقات بشكل اسرع بدون تثبيتها</string>
+    <string name="huanji_history_title">عمليات نقل ناقل Mi</string>
     <string name="hwui_force_dark_summary">لإلغاء ميزة فرض تعتيم الشاشة بحيث يتم تفعيلها دائمًا</string>
     <string name="hwui_force_dark_title">إلغاء ميزة فرض تعتيم الشاشة</string>
     <string name="ignore_optimizations_off">تحسين</string>
@@ -3311,7 +3423,14 @@ Xiaomi Cloud
     <string name="input_method_cloud_paste_mode_no_title">لا شيء</string>
     <string name="input_method_cloud_paste_mode_red_point_des">سترى نقطة حمراء في أسفل لوحة المفاتيح. انقر على الأيقونة لفتح الحافظة واستخدام محتوياتها.</string>
     <string name="input_method_cloud_paste_mode_red_point_title">نقطة حمراء</string>
+    <string name="input_method_function_switch_keyboard_language">تغيير اللغات</string>
+    <string name="input_method_function_switch_keyboard_language_des">النقر لتغيير لغة الإدخال</string>
+    <string name="input_method_function_switch_keyboard_type">تغيير لوحات المفاتيح</string>
+    <string name="input_method_function_switch_keyboard_type_des">النقر لتغيير لوحة المفاتيح</string>
     <string name="input_method_manage">إدارة لوحة المفاتيح</string>
+    <string name="input_method_middle_function_move_cursor">حرك المؤشر</string>
+    <string name="input_method_middle_function_move_cursor_des">اضغط باستمرار في المنتصف لتحريك المؤشر</string>
+    <string name="input_method_middle_function_no_function_des">لا تقم بتعيين أي إجراءات</string>
     <string name="input_method_quick_access">الوصول السريع</string>
     <string name="input_method_quick_cloud_mode_title">إشعارات محتويات الحافظة الجديدة</string>
     <string name="input_method_quick_cloud_summary">نسخ العناصر على أجهزة الكمبيوتر المتوافقة ولصقها على جهازك</string>
@@ -3335,6 +3454,7 @@ Xiaomi Cloud
     <string name="input_methods_settings_title">إدخال نصي</string>
     <string name="input_pattern_hint_text">ارسم نقش إلغاء قفل الشاشة</string>
     <string name="input_settings">إعدادات الإدخال</string>
+    <string name="input_text">شريط إدخال النص</string>
     <string name="install_all_warning">هاتفك والبيانات الشخصية عُرضة للهجمات من قِبل تطبيقات غير معروفة. يعني تثبيت التطبيقات من هذا المصدر أنك توافق على تحملك المسؤولية عن أي ضرر يحدث لهاتفك أو أي فقد للبيانات ينتج عن استخدامها.</string>
     <string name="install_applications">مصادر غير معروفة</string>
     <string name="install_applications_title">السماح بكل مصادر التطبيقات</string>
@@ -3352,7 +3472,7 @@ Xiaomi Cloud
     <string name="instruction_title">معلومات السلامة الهامة</string>
     <string name="insufficient_storage">ليست هناك مساحة تخزين كافية.</string>
     <string name="intelligence_suppression_summary">يضبط بشكل ديناميكي حجم المنطقة القريبة من الحافة حيث سيتم تجاهل اللمسات العرضية بناءً على قبضتك</string>
-    <string name="intelligence_suppression_title">تلقائي (موصى به)</string>
+    <string name="intelligence_suppression_title">Auto (Recommended)</string>
     <string name="intent_sender_account_label">الحساب:</string>
     <string name="intent_sender_action_label">Action:</string>
     <string name="intent_sender_resource_label">Resource:</string>
@@ -3379,6 +3499,8 @@ Xiaomi Cloud
     <string name="interact_across_profiles_switch_enabled">تم ربط التطبيقات</string>
     <string name="interact_across_profiles_title">الربط بين تطبيقات العمل والتطبيقات الشخصية</string>
     <string name="interaction_control_category_title">عناصر التحكم في التفاعل</string>
+    <string name="interesting_text">تجعل الأحاسيس الملموسة الواقعية تفاعلك مع الشاشة أكثر وضوحًا وعمقًا.</string>
+    <string name="interesting_title">لمسة واقعية</string>
     <string name="internal_memory">وحدة التخزين الداخلية</string>
     <string name="internal_storage">وحدة التخزين الداخلية</string>
     <string name="internet_connectivity_panel_title">اتصال الإنترنت</string>
@@ -3425,7 +3547,6 @@ Xiaomi Cloud
     <string name="keyboard_shortcuts_helper">اختصارات لوحة المفاتيح</string>
     <string name="keyboard_shortcuts_helper_summary">عرض الاختصارات المتاحة</string>
     <string name="keyguard_advance_setting_title">إعدادات متقدمة</string>
-    <string name="keyguard_notification_status_title">عند وصول إشعارات والشاشة متوقفة</string>
     <string name="keyguard_security_setting_others">أخرى</string>
     <string name="keyguard_security_setting_privacy_policy">سياسة الخصوصية</string>
     <string name="keywords_accounts">حساب، إضافة إلى حساب، الملف الشخصي للعمل، إضافة إلى الحساب</string>
@@ -3542,6 +3663,17 @@ Xiaomi Cloud
     <string name="kid_space_settings">واجهة الطفل</string>
     <string name="kilobyteShort">ك.ب</string>
     <string name="kilobyte_per_second">ك.ب/ث</string>
+    <string name="knock_edge_area_invalid">لا تعمل هذه الإيماءة على حواف الشاشة</string>
+    <string name="knock_guide_dialog_title">قم بتعيين إجراء لهذه الإيماءة. يمكنك إجراء التغيير في أي وقت من خلال الإعدادات > الإعدادات الإضافية > اختصارات الأزرار.</string>
+    <string name="knock_guide_drive_desc">خذ لقطة شاشة أثناء القيادة</string>
+    <string name="knock_guide_launch_desc">قم بتشغيل Mi AI عندما يكون الهاتف على الطاولة</string>
+    <string name="knock_guide_set_screenshot">لقطة شاشة</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">يمكنك الآن استخدام مفصل إصبعك لتشغيل Mi AI أو التقاط لقطة شاشة</string>
+    <string name="knock_guide_title">النقر مرتين بمفصل إصبعك</string>
+    <string name="knock_long_press_horizontal_slid">اضغط واسحب أفقي على الشاشة بإصبعك</string>
+    <string name="knock_slide_shape">ارسم حلقة باستخدام مفصل الإصبع</string>
+    <string name="knock_slide_v">ارسم الحرف \"V\" باستخدام مفصل الإصبع</string>
     <string name="label_available">الشبكات المُتاحة</string>
     <string name="label_mi_stats">تحليلات Mi</string>
     <string name="language_and_input_for_work_category_title">لوحات مفاتيح وأدوات الملف الشخصي للعمل</string>
@@ -3568,6 +3700,9 @@ Xiaomi Cloud
     <string name="launch_google_search">تشغيل مساعد Google</string>
     <string name="launch_instant_app">فتح</string>
     <string name="launch_mdp_app_text">عرض الخطة</string>
+    <string name="launch_noapp_dialog_cancel">إلغاء</string>
+    <string name="launch_noapp_dialog_install">تثبيت</string>
+    <string name="launch_noapp_dialog_replace">الإعدادات</string>
     <string name="launch_notification_center">مركز الإشعارات</string>
     <string name="launch_recents">بدأ المستخدم مؤخراً</string>
     <string name="launch_voice_assistant">تشغيل مساعد الصوت</string>
@@ -3575,6 +3710,7 @@ Xiaomi Cloud
     <string name="launch_wechat_scanner">ماسح WeChat</string>
     <string name="launch_wifi_text">عرض التفاصيل</string>
     <string name="launcher_icon">أيقونات</string>
+    <string name="launcher_icon_management">إدارة اختصارات الشاشة الرئيسية</string>
     <string name="launcher_title">الشاشة الرئيسية والتطبيقات الأخيرة</string>
     <string name="launching_cit">جارٍ تشغيل CIT…</string>
     <string name="launching_pho">جارٍ فتح معلومات الجهاز…</string>
@@ -3617,6 +3753,7 @@ Xiaomi Cloud
     <string name="lights_title">ضوء LED</string>
     <string name="line_breaking_summary">تحسين تباعد الأسطر بين الفقرات</string>
     <string name="line_breaking_title">تحسين النص</string>
+    <string name="link_speed">%1$d ميغابت في الثانية</string>
     <string name="link_turbo_prompt">الإحصاءات الموجودة في هذه الصفحة تعرض فقط مقدار البيانات المستخدمة لزيادة اتصال Wi-Fi. لا تعكس هذه الإحصائيات الاستخدام الفعلي لبيانات الهاتف.</string>
     <string name="link_turbo_settings_all_app_display_loading">لحظة من فضلك…</string>
     <string name="link_turbo_settings_all_app_reach_max">يمكنك تحديد مايصل إلى ١٥ تطبيق</string>
@@ -3813,7 +3950,7 @@ Xiaomi Cloud
     <string name="lockpassword_clear_label">محو</string>
     <string name="lockpassword_confirm_for_second_user">قم بتأكيد كلمة مرور الواجهة الثانية</string>
     <string name="lockpassword_confirm_label">تأكيد</string>
-    <string name="lockpassword_confirm_passwords_dont_match">كلمات المرور غير متطابقة</string>
+    <string name="lockpassword_confirm_passwords_dont_match">كلمة المرور غير متطابقة</string>
     <string name="lockpassword_confirm_pins_dont_match">رموز PIN غير متطابقة</string>
     <string name="lockpassword_confirm_workspace_password">التحقق من كلمة مرور واجهة العمل</string>
     <string name="lockpassword_confirm_your_lock_password_header">تأكيد كلمة المرور</string>
@@ -3977,6 +4114,11 @@ Xiaomi Cloud
     <string name="manual">الكتيب</string>
     <string name="manual_mode_disallowed_summary">عدم التوفُّر عند الربط بمشغّل شبكة الجوّال %1$s</string>
     <string name="manually_add_network">إضافة شبكة</string>
+    <string name="mashup_sound">مكس طبيعي</string>
+    <string name="mashup_sound_africa">سافانا</string>
+    <string name="mashup_sound_amazon">غابه استوائيه</string>
+    <string name="mashup_sound_arctic">القطب الشمالي</string>
+    <string name="mashup_sound_australia">أستراليا</string>
     <string name="master_clear_accounts">"
 
 الحسابات المسجَّل الدخول إليها حاليًا:
@@ -4054,7 +4196,7 @@ Xiaomi Cloud
     <string name="media_transfer_this_device_name">هذا الجهاز</string>
     <string name="media_transfer_wired_device_name">جهاز صوتي سلكي</string>
     <string name="media_transfer_wired_usb_device_name">سماعات سلكية</string>
-    <string name="media_volume_option_title">الموسيقى والألعاب والوسائط</string>
+    <string name="media_volume_option_title">الوسائط</string>
     <string name="media_volume_summary">تعيين مستوى الصوت للموسيقى والفيديوهات</string>
     <string name="media_volume_title">الوسائط</string>
     <string name="megabyteShort">م.ب</string>
@@ -4091,6 +4233,7 @@ Xiaomi Cloud
     <string name="memory_title">متوفر: %1$s\u0009\u0009إجمالي: %2$s</string>
     <string name="memory_usage">استخدام الذاكرة</string>
     <string name="memory_usage_apps">الذاكرة المستخدمة بواسطة التطبيقات</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">متوسط الذاكرة المستخدمة خلال آخر ٣ ساعات: %1$s</string>
     <string name="menu_cancel">إلغاء</string>
     <string name="menu_check">خبرة</string>
@@ -4127,11 +4270,20 @@ Xiaomi Cloud
     <string name="mi_upi_settings">حساب دفع Mi</string>
     <string name="micloud_service_summary">قائمة التطبيقات المتزامنة وإعدادات النسخ الاحتياطي للنظام وتخطيط الشاشة الرئيسية</string>
     <string name="micloud_service_title">Xiaomi Cloud</string>
+    <string name="middle_function_key">مساحة مركزية</string>
     <string name="miheadet_up_music">المسار السابق</string>
     <string name="miheadset_Box">Case</string>
     <string name="miheadset_LeftEar">اليسرى</string>
     <string name="miheadset_RightEar">اليمنى</string>
     <string name="miheadset_active">حيوي</string>
+    <string name="miheadset_adaptive">تكيف</string>
+    <string name="miheadset_ancClosed">متوقف</string>
+    <string name="miheadset_ancDepth">عميق</string>
+    <string name="miheadset_ancEquilibrium">متوازن</string>
+    <string name="miheadset_ancHigh">طائرة</string>
+    <string name="miheadset_ancLow">مكتب</string>
+    <string name="miheadset_ancMedium">يومي</string>
+    <string name="miheadset_ancMild">خفيف</string>
     <string name="miheadset_anc_indicate">قم بتوصيل وإقران السماعات</string>
     <string name="miheadset_audio_mode">جودة الصوت</string>
     <string name="miheadset_audio_mode_high">عالي</string>
@@ -4153,6 +4305,9 @@ Xiaomi Cloud
     <string name="miheadset_double_click_key_mode">النقر مرتين</string>
     <string name="miheadset_double_click_left">انقر مرتين على السماعة اليسرى</string>
     <string name="miheadset_double_click_right">انقر مرتين على السماعة اليمنى</string>
+    <string name="miheadset_double_press_left">اضغط مرتين على السماعة اليسرى</string>
+    <string name="miheadset_double_press_right">اضغط مرتين على السماعة اليمنى</string>
+    <string name="miheadset_enhanceVoice">تحسين الصوت</string>
     <string name="miheadset_enhence_high">تحسين مضاعف</string>
     <string name="miheadset_enhence_low">تحسين الجهير</string>
     <string name="miheadset_equalizer">المعادل</string>
@@ -4164,8 +4319,10 @@ Xiaomi Cloud
     <string name="miheadset_fitness_check_result_dialog1">ضع السماعتين في كلتا الأذنين قبل بدء الاختبار.</string>
     <string name="miheadset_fitness_check_result_dialog2">قم بإنهاء مكالمتك الحالية قبل بدء الاختبار.</string>
     <string name="miheadset_fitness_check_result_dialog_title">تنبيه</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">أعد ضبط السماعة</string>
     <string name="miheadset_fitness_check_result_not_ok">الحجم غير مناسب</string>
     <string name="miheadset_fitness_check_result_ok">الحجم مناسب جدا</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">أعد ضبط السماعة</string>
     <string name="miheadset_fitness_check_result_summary1">رأسا السماعة مناسبان تماما لكلتا الأذنين!</string>
     <string name="miheadset_fitness_check_result_summary2">حاول إعادة ارتداء السماعة بإحكام أو جرب مقاس آخر ثم أعد الاختبار</string>
     <string name="miheadset_fitness_check_start">ابدأ</string>
@@ -4176,8 +4333,8 @@ Xiaomi Cloud
     <string name="miheadset_game_mode">وضع اللعب</string>
     <string name="miheadset_game_mode_summary">تقليل تأخر الصوت أنثاء اللعب</string>
     <string name="miheadset_ignore">إلغاء الإقتران</string>
-    <string name="miheadset_in_ear_check">اكتشاف السماعات في الأذن</string>
-    <string name="miheadset_in_ear_check_summary">تشغيل مسار الصوت عند وجود السماعة في الأذن وأيقافه عند إزالتها تلقائيا.</string>
+    <string name="miheadset_in_ear_check">اكتشاف ارتداء السماعات</string>
+    <string name="miheadset_in_ear_check_summary">إيقاف تشغيل الصوت عند إزالة السماعة من الأذن وإعادة تشغيله عند ارتدائها</string>
     <string name="miheadset_key_config_ANC_list_title">ضبط الضجيج</string>
     <string name="miheadset_key_config_call_ai">المساعد الصوتي</string>
     <string name="miheadset_key_config_close">متوقف</string>
@@ -4200,6 +4357,7 @@ Xiaomi Cloud
     <string name="miheadset_moreSettingsInAi">الإعدادات الإضافية</string>
     <string name="miheadset_multi_connect_mode">اتصال متعدد</string>
     <string name="miheadset_multi_connect_mode_summary">الاتصال بعدة أجهزة في نفس الوقت</string>
+    <string name="miheadset_network_not_available">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
     <string name="miheadset_next">المسار التالي</string>
     <string name="miheadset_ok_device">موافق</string>
     <string name="miheadset_openAnc">إلغاء الضجيج</string>
@@ -4209,7 +4367,10 @@ Xiaomi Cloud
     <string name="miheadset_rename_device">إعادة تسمية</string>
     <string name="miheadset_soft">هادئ</string>
     <string name="miheadset_transparent">شفافية الصوت</string>
+    <string name="miheadset_transparentMode">شفافية الصوت</string>
     <string name="miheadset_triple_click_key_mode">النقر ثلاث مرات</string>
+    <string name="miheadset_triple_press_left">اضغط ثلاث مرات على السماعة اليسرى</string>
+    <string name="miheadset_triple_press_right">اضغط ثلاث مرات على السماعة اليمنى</string>
     <string name="miheadset_unpair_device_text">ستتم إزالة %1$s من جميع الأجهزة المرتبطة بحساب Mi.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">ملفات متنوعة</string>
@@ -4223,6 +4384,8 @@ Xiaomi Cloud
     <string name="miui_allow_vibrate">الاهتزازات</string>
     <string name="miui_data_usage_menu_metered">نقاط اتصال الهاتف الهاتف</string>
     <string name="miui_experience_optimization">تشغيل تحسين MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">إلغاء</string>
+    <string name="miui_face_enroll_risk_warning_title_text">تنبيه</string>
     <string name="miui_face_enroll_success">"يمكنك الآن فتح جهازك باستخدام وجهك.
 تابع للمزيد من الإعدادات الإضافية"</string>
     <string name="miui_input_method_settings">إعدادات طريقة الادخال</string>
@@ -4246,7 +4409,6 @@ Xiaomi Cloud
     <string name="miui_lab_install_drive_mode_title">تثبيت وضع القيادة</string>
     <string name="miui_lab_settings">مختبر MIUI</string>
     <string name="miui_lab_slogan">تعلم. استكشف. اكتشف.</string>
-    <string name="miui_master_clear_prompt_battery_low">لا يمكنك إجراء إعادة ضبط إعدادات المصنع إذا كانت بطارية أقل من %1$s. اشحن الجهاز قبل المتابعة.</string>
     <string name="miui_master_clear_summary">محو جميع البيانات على هذا الجهاز</string>
     <string name="miui_more_special_feature">إستكشاف ميزات جديدة</string>
     <string name="miui_optimization_disabled">إيقاف تشغيل تحسينات MIUI</string>
@@ -4442,6 +4604,7 @@ Xiaomi Cloud
     <string name="mtp_ptp_mode_summary">‏وظيفة MTP أو PTP نشطة</string>
     <string name="mtp_solution_button_cancel">فهمت</string>
     <string name="mtp_solution_button_ok">استكشاف الأخطاء وإصلاحها</string>
+    <string name="muffled_text">تبرز الترددات المنخفضة التحولات المرئية وتجعل الإيماءات أكثر طبيعيةا</string>
     <string name="multi_face_delete_message">تنبيه</string>
     <string name="multi_face_delete_show_message">حذف بيانات الوجه الآن؟</string>
     <string name="multi_face_input">إضافة بيانات الوجه</string>
@@ -4457,6 +4620,7 @@ Xiaomi Cloud
     <string name="music_equalizer">معادل</string>
     <string name="musicfx_title">تأثيرات موسيقية</string>
     <string name="mute">الوضع الصامت</string>
+    <string name="mute_media_sound_summary">الألعاب والموسيقى والفيديوهات وغيرها من التطبيقات</string>
     <string name="mute_media_sound_title">كتم الصوت للوسائط في الوضع الصامت</string>
     <string name="mute_music_stream">كتم صوت الوسائط</string>
     <string name="mute_voiceassist_stream">كتم المساعد الصوتي</string>
@@ -4467,6 +4631,8 @@ Xiaomi Cloud
     <string name="my_device_info_account_preference_title">الحساب</string>
     <string name="my_device_info_device_name_preference_title">اسم الجهاز</string>
     <string name="n_cacrts">‏%d شهادات CA</string>
+    <string name="natural_haptic">لمسة طبيعية</string>
+    <string name="natural_haptic_summary">تمنحك أنماط نظام اللمس الجديدة تجربة حسية متعددة الأبعاد لكل ما تراه وتلمسه على شاشتك.</string>
     <string name="nature_color">الافتراضية</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">اسحب لأعلى من أسفل الشاشة، ثم مرّر يمين أو يسار</string>
     <string name="navigation_guide_app_quick_switch_summary">مرّر من يمين أو يسار مؤشر ملء الشاشة أو من أسفل الشاشة</string>
@@ -4569,6 +4735,7 @@ Xiaomi Cloud
     <string name="nfc_how_it_works_got_it">حسنًا</string>
     <string name="nfc_how_it_works_title">طريقة الدفع</string>
     <string name="nfc_more_title">المزيد...</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">ضبط كتطبيق تلقائي</string>
     <string name="nfc_payment_btn_text_update">تعديل</string>
     <string name="nfc_payment_default">التطبيق التلقائي للدفع</string>
@@ -4676,12 +4843,14 @@ Xiaomi Cloud
     <string name="none">لا شيء</string>
     <string name="normal">متوقف</string>
     <string name="normal_info">جميع الأصوات ستعمل بشكل طبيعي</string>
+    <string name="normal_list_text">قائمة</string>
     <string name="normal_smartcover_title">غطاء أمامي غير شفاف</string>
     <string name="not_allowed">‏لا تسمح شريحة SIM بالاتصال بهذه الشبكة.</string>
     <string name="not_battery_optimizing">عدم استخدام تحسين البطارية</string>
+    <string name="not_enabled">متوقف</string>
     <string name="not_installed">لم يتم التثبيت لهذا المستخدم</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
-    <string name="notch_and_status_bar_settings">مركز التحكم ومركز الإشعارات</string>
+    <string name="notch_and_status_bar_settings">مركز التحكم وشريط الحالة</string>
     <string name="notch_force_black_desc">قم بتشغيل الميزة لتعتيم المنطقة حول النتوء أعلى الشاشة</string>
     <string name="notch_force_black_title">إخفاء النتوء</string>
     <string name="notch_settings">النتوء</string>
@@ -4734,11 +4903,6 @@ Xiaomi Cloud
     <string name="notification_conversation_important">الأولوية</string>
     <string name="notification_conversation_summary_low">بدون صوت أو اهتزاز وتظهر في موضع أسفل في قسم المحادثات</string>
     <string name="notification_display_settings">مركز الإشعارات</string>
-    <string name="notification_fold_description1">تم تقديم مجلد الإشعارات في MIUI 9. تقوم هذه الميزة بتصفية الإشعارات الغير مهمة ووضعها في مجلد منفصل.</string>
-    <string name="notification_fold_description2">سيتذكر MIUI الإشعارات التي تنقر عليها، ثم يستخدم معايير متعددة لتحديد مدى أهميتها.</string>
-    <string name="notification_fold_description3">إذا كانت الإشعارات التي تعتبرها مهمة لا تزال تنتقل إلى مجلد الإشعارات، فيرجى الأبلاغ عن هذه المشكلة. نحن نقدر ملاحظاتك.</string>
-    <string name="notification_fold_footer_icon_summary">عرض أيقونات التطبيقات عند جمع الإشعارات الغير مهمة</string>
-    <string name="notification_fold_footer_icon_title">عرض أيقونات التطبيقات</string>
     <string name="notification_fold_summary">ستظهر جميع الاشعارات الغير مهمة في مجلد منفصل</string>
     <string name="notification_fold_title">مجلد الإشعارات</string>
     <string name="notification_group_title">مجموعة فئات الإشعارات</string>
@@ -4873,6 +5037,7 @@ Xiaomi Cloud
     <string name="oldman_uninstalled_des">يقلل الوضع البسيط من الفوضى المرئية ويجعل الشاشة الرئيسية بسيطة وبديهية.</string>
     <string name="on">مشغل</string>
     <string name="one_cacrt">‏شهادة CA واحدة</string>
+    <string name="one_key_migrate_record">النقل إلى %1$s</string>
     <string name="one_usercrt">شهادة مستخدم واحدة</string>
     <string name="one_userkey">مفتاح مستخدم واحد</string>
     <string name="onehour">٣٠ دقيقة</string>
@@ -4913,6 +5078,7 @@ Xiaomi Cloud
     <string name="other_conversations_summary">المحادثات التي أجريت تغييرات عليها</string>
     <string name="other_data">عناصر أخرى على هذا الجهاز</string>
     <string name="other_device_info">أخرى</string>
+    <string name="other_input_method">لوحات المفاتيح الأخرى</string>
     <string name="other_input_settings">إعدادات لوحة المفاتيح الإضافية</string>
     <string name="other_password">كلمات مرور أخرى</string>
     <string name="other_personal_settings">الإعدادات الشخصية</string>
@@ -4928,6 +5094,7 @@ Xiaomi Cloud
     <string name="overlay_settings_title">السماح بالظهور فوق المحتوى على الشاشة في \"الإعدادات\"</string>
     <string name="overlay_toast_failed_to_apply">تعذّر تطبيق الطبقة المتراكبة.</string>
     <string name="owner_info_settings_edit_text_hint">‏جهاز Android الخاص بهاني مثلاً</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">بدون</string>
     <string name="owner_info_settings_title">توقيع شاشة القفل</string>
     <string name="owner_space">الواجهة الاولى</string>
@@ -5009,6 +5176,13 @@ Xiaomi Cloud
     <string name="partial_connectivity_text">قد لا تعمل بعض التطبيقات والخدمات بسبب قيود على إمكانية الاتصال. هل تريد استخدامها على أي حال؟</string>
     <string name="passpoint_content">بيانات اعتماد %1$s</string>
     <string name="passpoint_label">تم الحفظ عبر</string>
+    <string name="passpoint_r1_privacy_dialog_message">"This Wi-Fi service is provided by exands. It allows you to connect to supported nearby hotspots automatically.
+
+Read and agree to %s before using this service."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Exit</string>
+    <string name="passpoint_r1_privacy_dialog_title">Attention</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">\"exands Privacy Policy\"</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Agree</string>
     <string name="passwordIncorrect">كلمة المرور التي أدخلتها غير صحيحة</string>
     <string name="password_and_security">كلمات المرور والحماية</string>
     <string name="password_entrance_title">تعيين قفل الشاشة</string>
@@ -5046,6 +5220,7 @@ Xiaomi Cloud
     <string name="personal_data_section_title">البيانات الشخصية</string>
     <string name="personal_profile_app_subtext">شخصي</string>
     <string name="personal_section_title">التخصيص</string>
+    <string name="personalize_title">الخلفيات والتخصيص</string>
     <string name="phone_backup_summary">النسخ الاحتياطي لاستعادة العناصر على هذا الجهاز</string>
     <string name="phone_backup_title">الجهاز المحمول</string>
     <string name="phone_call_noise_suppression">تقليل الضوضاء أثناء المكالمات</string>
@@ -5054,14 +5229,15 @@ Xiaomi Cloud
     <string name="photo_data">الصور والفيديوهات</string>
     <string name="physical_keyboard_title">لوحة المفاتيح الفعلية</string>
     <string name="pick_up_gesture_wakeup_title">رفع الجهاز لإيقاظه</string>
+    <string name="picker_text">‏‏منتقي الوقت</string>
     <string name="picture_color_mode">نمط لون الصورة</string>
     <string name="picture_color_mode_desc">استخدام sRGB</string>
     <string name="picture_in_picture_app_detail_summary">يمكنك السماح لهذا التطبيق بإنشاء نافذة صورة داخل صورة أثناء فتح التطبيق أو بعد مغادرته (على سبيل المثال، لمتابعة مشاهدة فيديو)، علمًا بأن هذه النافذة تظهر أمام التطبيقات الأخرى التي تستخدمها.</string>
-    <string name="picture_in_picture_app_detail_switch">السماح بنافذة صورة داخل صورة</string>
-    <string name="picture_in_picture_app_detail_title">نافذة ضمن النافذة</string>
-    <string name="picture_in_picture_empty_text">لا تتيح أي من التطبيقات المثبَّتة عرض صورة داخل صورة</string>
+    <string name="picture_in_picture_app_detail_switch">السماح لصورة داخل صورة</string>
+    <string name="picture_in_picture_app_detail_title">صورة داخل الصورة</string>
+    <string name="picture_in_picture_empty_text">لا يوجد تطبيق مثبت يدعم ميزة صورة داخل صورة</string>
     <string name="picture_in_picture_keywords">صورة، شاشة، صورة داخل صورة</string>
-    <string name="picture_in_picture_title">نافذة ضمن النافذة</string>
+    <string name="picture_in_picture_title">صورة داخل الصورة</string>
     <string name="pin_failed">‏تعذّر إتمام عملية \"رقم التعريف الشخصي\" لبطاقة SIM!</string>
     <string name="ping_test_label">‏تشغيل اختبار Ping</string>
     <string name="platform_compat_dashboard_summary">التبديل بين تغييرات توافق التطبيقات</string>
@@ -5146,6 +5322,7 @@ Xiaomi Cloud
     <string name="power_remaining_less_than_duration_only">تبقى أقل من %1$s</string>
     <string name="power_remaining_more_than_subtext">ستدوم لأكثر من %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">ستدوم لأكثر من %1$s</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">شاشة العرض</string>
     <string name="power_settings_title">أداء النظام</string>
     <string name="power_suggestion_battery_run_out">قد ينفذ شحن البطارية عند الساعة %1$s</string>
@@ -5384,6 +5561,8 @@ Xiaomi Cloud
     <string name="private_sms_recording_intro_header">ارسم نقش قفل الشاشة</string>
     <string name="private_sms_reset_by_account">لإعادة تعيين كلمة المرور، سجل الدخول إلى حساب Mi.</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">‏نظام تشغيل Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -5414,6 +5593,7 @@ Xiaomi Cloud
     <string name="provision_next">التالي</string>
     <string name="provision_page_layout_confirm_message">يحتاج الجهاز إلى إعادة تشغيل لتطبيق التغييرات. سيستغرق دقيقة تقريبًا.</string>
     <string name="provision_skip">تخطي</string>
+    <string name="provision_skip_underline">تخطي</string>
     <string name="proxy_action_text">تم</string>
     <string name="proxy_clear_text">محو</string>
     <string name="proxy_defaultView_text">استعادة الإعدادات التلقائية</string>
@@ -5496,7 +5676,7 @@ Xiaomi Cloud
     <string name="remove_managed_profile_label">إزالة الملف الشخصي للعمل</string>
     <string name="repeat">تكرار</string>
     <string name="repeat_call">الإشعار حول المكالمات المتكررة</string>
-    <string name="repeat_call_info">السماح بالصوت للمكالمات المتكررة في غضون ١٥ دقيقة في الوضع الصامت</string>
+    <string name="repeat_call_info">لن يتم كتم صوت المكالمة الثانية من نفس رقم الهاتف لمدة %d دقيقة.</string>
     <string name="repeat_days_in_week">تكرار</string>
     <string name="repeat_never">ابدا</string>
     <string name="repeat_title">التكرار</string>
@@ -5555,7 +5735,6 @@ Xiaomi Cloud
     <string name="resolution_fhd_summary" formatted="false">%d×%d (يحفظ البطارية)</string>
     <string name="resolution_qhd">WQHD+</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (يضيف الوضوح)</string>
-    <string name="resolution_sub_title">قد يغلق MIUI التطبيقات التي تعمل في الخلفية أثناء تبديل الدقة</string>
     <string name="resolver_settings_label">تصنيف</string>
     <string name="restore_default_apn">‏جارٍ استعادة إعدادات APN التلقائية.</string>
     <string name="restore_default_apn_completed">‏اكتملت إعادة ضبط إعدادات APN التلقائية.</string>
@@ -5600,9 +5779,9 @@ Xiaomi Cloud
     <string name="right_function_key">إختصار اليمين</string>
     <string name="ring_to_you">تخصيص نغمة الرنين</string>
     <string name="ring_to_you_info">عين نغمة مخصصة يسمعها المتصل قبل الرد على المكالمة</string>
-    <string name="ring_volume_option_title">المكالمات والتذكيرات والإشعارات</string>
+    <string name="ring_volume_option_title">نغمة الرنين</string>
     <string name="ring_volume_title">مستوى صوت الرنين والإشعار</string>
-    <string name="ringer_mode_setting_summary">كتم الصوت للمكالمات الواردة والإشعارات</string>
+    <string name="ringer_mode_setting_summary">كتم صوت المكالمات والإشعارات</string>
     <string name="ringer_mode_setting_title">الوضع الصامت</string>
     <string name="ringtone_slot_setting_title">إعدادات SIM الفردية</string>
     <string name="ringtone_title">نغمة الرنين</string>
@@ -5650,6 +5829,7 @@ Xiaomi Cloud
     <string name="runningservicedetails_stop_dlg_title">هل تريد إيقاف خدمة النظام؟</string>
     <string name="runningservices_settings_summary">عرض الخدمات التي قيد التشغيل حالياً والتحكم فيها</string>
     <string name="runningservices_settings_title">الخدمات قيد التشغيل</string>
+    <string name="runtime_permissions_summary_control_app_access">تحكم في وصول تطبيقك إلى بياناتك</string>
     <string name="runtime_permissions_summary_no_permissions_granted">لم يتم منح أي أذونات</string>
     <string name="runtime_permissions_summary_no_permissions_requested">لم يتم طلب أي أذونات</string>
     <string name="rx_link_speed">%1$d ميغابت في الثانية</string>
@@ -5665,7 +5845,6 @@ Xiaomi Cloud
     <string name="scanning_status_text_wifi_off_ble_on">البحث عن بلوتوث مشغل، والبحث عن Wi-Fi متوقف</string>
     <string name="scanning_status_text_wifi_on_ble_off">البحث عن شبكة Wi-Fi مشغل، والبحث عن بلوتوث متوقف</string>
     <string name="scanning_status_text_wifi_on_ble_on">تم تشغيل البحث عن Wi-Fi وبلوتوث</string>
-    <string name="scheduled_style">مجدول</string>
     <string name="screen">الشاشة</string>
     <string name="screen_cancel">إلغاء</string>
     <string name="screen_color_and_optimize">الألوان والتباين</string>
@@ -5687,8 +5866,7 @@ Xiaomi Cloud
     <string name="screen_enhance_engine_ai_pic_summary">"حدد الأشياء (النباتات والحيوانات والمباني وما إلى ذلك) واضبط تأثير العرض ديناميكيا. "</string>
     <string name="screen_enhance_engine_ai_title">تحسين صورة AI</string>
     <string name="screen_enhance_engine_memc_note">لا يمكن تحسين مقاطع الفيديو عند تشغيل زيادة الدقة. فعند تشغيل المقاطع، ستتسبب في إيقاف تشغيل الدقة العالية.</string>
-    <string name="screen_enhance_engine_memc_note_1">%d. ترفع هذه الميزة مستوى استهلاك الطاقة قليلا.</string>
-    <string name="screen_enhance_engine_memc_note_2">%d. تعمل هذه الميزة فقط عند تشغيل صندوق أدوات الفيديو.</string>
+    <string name="screen_enhance_engine_memc_note_1">ترفع هذه الميزة مستوى استهلاك الطاقة قليلا.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"أضف إطارات إضافية إلى مقاطع الفيديو لتشغيل أكثر سلاسة وانتقالات أكثر حيوية. "</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -6111,6 +6289,7 @@ Xiaomi Cloud
     <string name="security_encryption_attention_3">يجب عليك تعيين قفل شاشة جديد.</string>
     <string name="security_encryption_attention_4">تأكد من تذكرك قفل الشاشة، وإلا سيتوجب عليك إعادة ضبط إعدادات المصنع ومحو كافة البيانات الموجودة على الجهاز.</string>
     <string name="security_encryption_attention_info">يمكنك تشفير حساباتك، الإعدادات، التطبيقات المحمّلة وبياناتها، الوسائط، وملفات أخرى.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">إذا اخترت عدم تشفير جهازك بقفل شاشة، فلن تكون بعض خدمات Google غير متاحة.</string>
     <string name="security_encryption_close_dialog_title">الرجوع إلى تشفير النظام الافتراضي</string>
@@ -6255,6 +6434,7 @@ Xiaomi Cloud
     <string name="see_less">عرض عناصر أقل</string>
     <string name="see_more">عرض المزيد</string>
     <string name="seek_bar_info">ضبط الحجم</string>
+    <string name="seekbar_text">شريط التمرير</string>
     <string name="select_all">اختيار الكل</string>
     <string name="select_application">تحديد التطبيق</string>
     <string name="select_automatically">اختيار الشبكة تلقائيًا</string>
@@ -6336,7 +6516,6 @@ Xiaomi Cloud
     <string name="setup_lock_settings_picker_title">حماية هاتفك</string>
     <string name="setup_password_back">رجوع</string>
     <string name="setup_password_confirm">موافق</string>
-    <string name="setup_password_skip">تخطي</string>
     <string name="severe_threats_summary">تلقي تنبيهات بشأن التهديدات الخطيرة للحياة والممتلكات</string>
     <string name="severe_threats_title">التهديدات الخطيرة</string>
     <string name="share">مشاركة</string>
@@ -6358,6 +6537,8 @@ Xiaomi Cloud
     <string name="show_background_processes">عرض العمليات المخزنة مؤقتًا</string>
     <string name="show_badge_notifications_short">الشارات</string>
     <string name="show_carrier_under_keyguard_title">عرض اسم شركة الاتصالات عندما يكون الجهاز مقفل</string>
+    <string name="show_charging_in_non_lockscreen_animation">عرض الرسوم المتحركة للشحن حتى بعد فتح الجهاز</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">عرض الرسوم المتحركة للشحن بعد فتح الجهاز. سيتم إخفاء الرسوم المتحركة فقط عند تشغيل مقاطع الفيديو واستخدام الميزات التي تتطلب عرض ملء الشاشة.</string>
     <string name="show_connected_devices_summary">عرض الأجهزة المتصلة</string>
     <string name="show_connected_devices_title">توصيل الأجهزة</string>
     <string name="show_dev_already">لا حاجة لذلك، فأنت مطور برامج فعلاً.</string>
@@ -6401,7 +6582,11 @@ Xiaomi Cloud
     <string name="shuting_down_find_device">جارٍ إيقاف العثور على الجهاز…</string>
     <string name="silent_duration">المدة</string>
     <string name="silent_mode">الوضع الصامت</string>
+    <string name="silent_mode_disable_media">صامت للكل</string>
+    <string name="silent_mode_enable_media">تشغيل الوسائط</string>
+    <string name="silent_mode_summary">كتم صوت المكالمات والإشعارات والوسائط</string>
     <string name="silent_mode_title">الوضع الصامت</string>
+    <string name="silent_mode_toggle_title">الوضع الصامت</string>
     <string name="silent_notifications_status_bar">إخفاء الإشعارات الصامتة في شريط الحالة</string>
     <string name="silent_off">متوقف</string>
     <string name="silent_settings">صامت/عدم الإزعاج</string>
@@ -6471,6 +6656,7 @@ Xiaomi Cloud
     <string name="sim_select_card">‏اختيار شريحة SIM</string>
     <string name="sim_selection_channel_title">‏اختيار شريحة SIM</string>
     <string name="sim_selection_required_pref">يلزم التحديد</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">‏بطاقات SIM</string>
     <string name="sim_setup_wizard_title">‏بطاقات SIM</string>
     <string name="sim_signal_strength">%1$d ديسبل ميلي واط %2$d وحدة إشارة واحدة</string>
@@ -6487,6 +6673,7 @@ Xiaomi Cloud
     <string name="size_kilo_byte">كيلوبايت</string>
     <string name="size_mega_byte">ميجابايت</string>
     <string name="size_peta_byte">بنتابايت</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip_anyway_button_label">التخطّي</string>
     <string name="skip_label">التخطي</string>
@@ -6592,13 +6779,16 @@ Xiaomi Cloud
     <string name="sound_category_call_ringtone_vibrate_title">نغمة الرنين واصوات الإشعار</string>
     <string name="sound_category_system_title">النظام</string>
     <string name="sound_dashboard_summary">مستوى الصوت والاهتزاز ووضع\"عدم الإزعاج\"</string>
-    <string name="sound_effects_enable_title">أصوات النقرات</string>
+    <string name="sound_effects_enable_title">صوت النقر</string>
+    <string name="sound_haptic_settings">الصوت واللمس</string>
     <string name="sound_mode">الوضع الصامت وعدم الإزعاج</string>
     <string name="sound_settings">الصوت</string>
     <string name="sound_settings_example_summary">تم ضبط مستوى صوت الرنين والإشعار على 80%.</string>
     <string name="sound_settings_summary">تم ضبط مستوى صوت الرنين والإشعار على %1$s.</string>
     <string name="sound_settings_summary_silent">تم تعيين الرنين على صامت</string>
     <string name="sound_settings_summary_vibrate">تم تعيين الرنين على اهتزاز</string>
+    <string name="sound_settings_tab_haptic">اللمس</string>
+    <string name="sound_settings_tab_sound">الصوت</string>
     <string name="sound_stereo_mode_summary">متاح فقط عند تشغيل الصوت مع مكبر الصوت</string>
     <string name="sound_stereo_mode_title">صوت ستيريو</string>
     <string name="sound_title">صوت</string>
@@ -6608,6 +6798,7 @@ Xiaomi Cloud
     <string name="speaker_clean">تنظيف مكبر الصوت</string>
     <string name="special_access">أذونات خاصة للتطبيقات</string>
     <string name="special_access_more">الاطّلاع على المزيد</string>
+    <string name="special_preview">العروض التوضيحية</string>
     <string name="speed_label_fast">سريع</string>
     <string name="speed_label_medium">متوسط</string>
     <string name="speed_label_okay">موافق</string>
@@ -6640,12 +6831,14 @@ Xiaomi Cloud
     <string name="status_bar_app_enable_keyguard">قفل الشاشة</string>
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">الإشعارات وشريط الحالة</string>
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
+    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_manage_notification">إشعارات التطبيقات</string>
     <string name="status_bar_settings_notification_bar">مركز الإشعارات</string>
     <string name="status_bar_settings_status_bar">شريط الحالة</string>
-    <string name="status_bar_title">شريط الحالة</string>
+    <string name="status_bar_title">مركز التحكم وشريط الحالة</string>
     <string name="status_bt_address">عنوان البلوتوث</string>
     <string name="status_data_network_type">نوع شبكة بيانات الجوّال</string>
     <string name="status_data_state">حالة شبكة الجوّال</string>
@@ -6938,6 +7131,7 @@ Xiaomi Cloud
     <string name="sum_carrier_select">اختيار مشغل شبكة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s إلى %2$s</string>
     <string name="summary_separator">" / "</string>
     <string name="sunlight_mode">وضع ضوء الشمس</string>
@@ -6952,6 +7146,7 @@ Xiaomi Cloud
     <string name="swipe_up_to_switch_apps_suggestion_title">تجربة زر \"الشاشة الرئيسية\" الجديد</string>
     <string name="swipe_up_to_switch_apps_summary">للتبديل بين التطبيقات، مرّر سريعًا للأعلى على زر \"الشاشة الرئيسية\". للاطّلاع على كل التطبيقات، مرّر سريعًا للأعلى مرة أخرى. للرجوع، انقر على زر الرجوع.</string>
     <string name="swipe_up_to_switch_apps_title">التنقل باستخدام زرّين</string>
+    <string name="switchNetworkToast">قد يؤدي استخدام شبكات الهاتف الى فرض رسوم إضافية</string>
     <string name="switch_access_service_on">تبديل المدخل</string>
     <string name="switch_headset_anti_lost">تنبيه السماعة مفقودة</string>
     <string name="switch_headset_anti_lost_title">تنبيه السماعة مفقودة</string>
@@ -6969,7 +7164,7 @@ Xiaomi Cloud
     <string name="sync_enable">مزامنة</string>
     <string name="sync_enabled">المزامنة قيد التفعيل</string>
     <string name="sync_error">خطأ في المزامنة</string>
-    <string name="sync_failed">تعذّرت المزامنة</string>
+    <string name="sync_failed">تعذرت المزامنة. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_in_progress">تجري المزامنة الآن...</string>
     <string name="sync_is_failing">تواجه المزامنة حاليًا بعض المشاكل. وسوف تكون متاحة خلال وقت قصير.</string>
@@ -6981,6 +7176,7 @@ Xiaomi Cloud
     <string name="sync_plug">‏<font fgcolor="#ffffffff">مرحبًا بك في مزامنة Google!</font>" 
 وهي الطريقة التي تتبعها Google لمزامنة البيانات للسماح بالدخول إلى جهات الاتصال والمواعيد والمزيد من أي مكان تتواجد فيه."</string>
     <string name="sync_settings">الحسابات والمزامنة</string>
+    <string name="sync_success">تمت المزامنة بنجاح</string>
     <string name="sync_wifi_label">شبكة Wi-Fi</string>
     <string name="sync_wifi_only">شبكة Wi-Fi فقط</string>
     <string name="system">النظام</string>
@@ -7003,9 +7199,11 @@ Xiaomi Cloud
     <string name="system_print_service_help">حول الطباعة</string>
     <string name="system_shortcut_wake">الإيقاظ بواسطة اختصارات الزر</string>
     <string name="system_storage">تخزين النظام</string>
+    <string name="system_touch">الاستجابة للمس</string>
     <string name="system_ui_settings">إظهار أداة ضبط واجهة مستخدم النظام</string>
     <string name="system_update_settings_list_item_summary" />
     <string name="system_update_settings_list_item_title">تحديثات النظام</string>
+    <string name="tab_text">التبويب</string>
     <string name="take_call_on_title">تلقي المكالمة على</string>
     <string name="talkback_summary">إن تطبيق قارئ الشاشة مُصمَّم في الأساس من أجل الأشخاص الكفيفين والذين يعانون من ضعف في النظر.</string>
     <string name="talkback_title">Talkback</string>
@@ -7015,7 +7213,6 @@ Xiaomi Cloud
     <string name="tap_to_wake">انقر للتنبيه من وضع السكون</string>
     <string name="tap_to_wake_summary">انقر مرّتين على أي مكان بالشاشة لتنبيه الجهاز من وضع السكون</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">١٠ ثواني قبل النقر على الشاشة</string>
     <string name="terms_title">الأحكام والشروط</string>
     <string name="testing">الاختبار</string>
     <string name="testing_phone_info">معلومات الهاتف</string>
@@ -7035,6 +7232,7 @@ Xiaomi Cloud
     <string name="tether_over_limit_dialog_title">تحذير إستخدام البيانات</string>
     <string name="tether_over_limit_warning_notify_message">إيقاف تشغيل نقطة الاتصال المحمولة.</string>
     <string name="tether_over_limit_warning_notify_title">تم الوصول إلى حد استخدام البيانات</string>
+    <string name="tether_password_illegal_character">Password contains illegal characters. please re-enter</string>
     <string name="tether_settings_disabled">نقطة الاتصال المحمولة متوقفة</string>
     <string name="tether_settings_disabled_on_data_saver">يتعذر توصيل نقاط الاتصال المحمولة أو استخدامها أثناء تفعيل توفير البيانات</string>
     <string name="tether_settings_summary_all">‏نقطة اتصال، USB، بلوتوث، إيثرنت</string>
@@ -7071,7 +7269,7 @@ Xiaomi Cloud
     <string name="tethering_help_button_text">مساعدة</string>
     <string name="tethering_interface_options">التوصيل</string>
     <string name="tethering_settings_not_available">تغيير إعدادات الربط في الواجهة الاولى</string>
-    <string name="texture_adjust_temperature_title">درجة حرارة الألوان</string>
+    <string name="texture_adjust_temperature_title">درجة حرارة اللون</string>
     <string name="the_way_of_wakeup_voice_assistant_summary">تشغيل مساعد الصوت في وضع ملء الشاشة (بدون أزرار افتراضية)</string>
     <string name="theme_customization_device_default">الإعداد التلقائي للجهاز</string>
     <string name="theme_settings_title">الثيمات</string>
@@ -7093,6 +7291,7 @@ Xiaomi Cloud
     <string name="title_font2">الخط والتخطيط</string>
     <string name="title_font_current">خط النظام</string>
     <string name="title_font_current2">الخط</string>
+    <string name="title_font_settings">إعدادات الخط</string>
     <string name="title_font_size">حجم الخط</string>
     <string name="title_hdmi_color_calibration">الإعدادات المسبقة لتصحيح اللون</string>
     <string name="title_layout_current">حجم النص</string>
@@ -7102,6 +7301,7 @@ Xiaomi Cloud
     <string name="title_of_auto_launch_manage">تشغيل تلقائي</string>
     <string name="title_special_features_health_global">معدل نبض القلب</string>
     <string name="to_close">إيقاف</string>
+    <string name="toast_apply_font_fail">لا يمكن ضبط الخط</string>
     <string name="toast_lockscreen_glogin_empty_password">إدخال كلمة المرور</string>
     <string name="toast_need_login">تسجيل الدخول إلى حساب Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">لا يمكن البث عند إنشاء اتصال Wi-Fi وتشغيل نقطة الاتصال.</string>
@@ -7131,8 +7331,6 @@ Xiaomi Cloud
     <string name="traffic_none">لا شيء</string>
     <string name="transition_animation_scale_title">حجم الرسوم المتحركة للنقل</string>
     <string name="trigger_carrier_provisioning">بدء توفير خدمة مشغل شبكة الجوال</string>
-    <string name="truetone_summary">ضبط الألوان حسب الإضاءة المحيطة</string>
-    <string name="truetone_title">ألوان تكيفية</string>
     <string name="trust_lost_locks_screen_summary">في حال تفعيل الميزة، سيتم قفل الجهاز عندما يفقد الوكيل المعتمد الأخير الثقة.</string>
     <string name="trust_lost_locks_screen_title">قفل الشاشة عند فقدان الثقة</string>
     <string name="trusted_credentials">بيانات الاعتماد الموثوقة</string>
@@ -7197,12 +7395,12 @@ Xiaomi Cloud
     <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">بعد إيقاف تشغيل كلمة مرور قفل الشاشة، سيتم حذف بصمات الأصابع وبيانات الوجة المسجلة. لن تتمكن من إلغاء قفل الجهاز باستخدام بصمة الإصبع أو وجهك.</string>
     <string name="turn_off_security_lock">إيقاف تشغيل قفل الشاشة</string>
     <string name="turn_on_keyguard_password">تفعيل كلمة مرور شاشة القفل</string>
-    <string name="turn_on_keyguard_password_alert">يجب عليك تذكر كلمة مرور جهازك. فإذا نسيتها، لن تكون قادرا على استعادتها.</string>
-    <string name="turn_on_keyguard_password_alert_choose">يجب عليك كلمة المرور الخاصة بك. فإذا نسيتها، سيتوجب عليك مسح جميع البيانات الموجودة على جهازك لتعيين واحدة جديدة.</string>
+    <string name="turn_on_keyguard_password_alert">يجب عليك تذكر كلمة مرور جهازك. إذا نسيتها، لن تكون قادرا على استعادتها.</string>
+    <string name="turn_on_keyguard_password_alert_choose">يجب عليك كلمة المرور الخاصة بك. إذا نسيتها، سيتوجب عليك مسح جميع البيانات الموجودة على جهازك لتعيين واحدة جديدة.</string>
     <string name="turn_on_keyguard_password_alert_foget_cacel">ليس الآن</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">متابعة</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">حسنا (%d ث)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">يجب عليك تذكر كلمة مرور شاشة القفل. فإذا نسيتها، سيتوجب عليك محو جميع البيانات على جهازك، بما في ذلك الصور وجهات الاتصال، ثم تعيين واحدة جديدة.</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">يجب عليك تذكر كلمة مرور شاشة القفل. إذا نسيتها، سيتوجب عليك محو جميع البيانات على جهازك متضمنًا الصور وجهات الاتصال، ثم تعيين واحدة جديدة.</string>
     <string name="turn_on_keyguard_password_alert_forget_title">لا تنسى كلمة المرور</string>
     <string name="turn_on_security_lock">تحديد قفل الشاشة</string>
     <string name="turn_on_torch">تشغيل المصباح</string>
@@ -7301,7 +7499,7 @@ Xiaomi Cloud
     <string name="unlock_set_unlock_password_title">كلمة المرور</string>
     <string name="unlock_set_unlock_pattern_summary">ارسم نقش بسيط بإصبعك لإلغاء قفل الجهاز</string>
     <string name="unlock_set_unlock_pattern_title">نقش</string>
-    <string name="unlock_set_unlock_pin_summary">أدخل %1$d-%2$d أرقام لإلغاء قفل الجهاز</string>
+    <string name="unlock_set_unlock_pin_summary">أدخل %1$d إلى %2$d أرقام لإلغاء قفل الجهاز</string>
     <string name="unlock_set_unlock_pin_title">رمز PIN</string>
     <string name="unlock_set_unlock_summary">تعيين قفل الشاشة</string>
     <string name="unlock_setup_wizard_fingerprint_details">‏بعد إعداد قفل شاشة، يمكنك أيضًا إعداد بصمة إصبعك في الإعدادات > الأمان.</string>
@@ -7509,7 +7707,7 @@ Xiaomi Cloud
     <string name="use_otg_file_transfers_summary">شحن ٥٠٠ ميلي أمبير بطيء ونقل الملفات</string>
     <string name="use_otg_title">USB OTG</string>
     <string name="use_personalized_ad_service">توصيات إعلانية مخصصة</string>
-    <string name="use_personalized_ad_service_summary">عند إيقاف تشغيل ميزة التوصيات، سيظل بإمكانك مشاهدة نفس كمية الإعلانات عندما تكون قيد التشغيل، ولكن لن تستند إلى بيانات نشاطك أو معلوماتك الشخصية.</string>
+    <string name="use_personalized_ad_service_summary">عند إيقاف تشغيل التوصيات الإعلانية المخصصة، سيظل بإمكانك مشاهدة نفس كمية الإعلانات عندما تكون الميزة قيد التشغيل، ولكن لن تكون الإعلانات مخصصة لانها لن تستند إلى بيانات نشاطك أو معلوماتك الشخصية.</string>
     <string name="use_privacy_password_immediate">استخدم</string>
     <string name="use_system_language_to_select_input_method_subtypes">استخدام لغة النظام</string>
     <string name="use_this_wlan">البقاء متصل</string>
@@ -7639,7 +7837,7 @@ Xiaomi Cloud
     <string name="video_calling_settings_title">مكالمة فيديو باستخدام مشغّل شبكة الجوال</string>
     <string name="video_tool_box_title">صندوق أدوات الفيديو</string>
     <string name="view_saved_network">‏لعرض عنوان MAC، اختَر شبكة محفوظة.</string>
-    <string name="vip_list">السماح للمكالمات الواردة</string>
+    <string name="vip_list">إعلام عن المكالمات الواردة</string>
     <string name="virtual_keyboard_category">لوحة المفاتيح على الشاشة</string>
     <string name="virtual_keyboards_for_work_title">لوحة المفاتيح على الشاشة للعمل</string>
     <string name="virtual_sim_category_title">تجوال Mi</string>
@@ -7684,7 +7882,9 @@ Xiaomi Cloud
     <string name="vision_settings_description">يمكنك تخصيص هذا الجهاز ليتوافق مع احتياجاتك. ويمكن تغيير ميزات \"سهولة الاستخدام\" هذه لاحقًا من خلال الإعدادات.</string>
     <string name="vision_settings_suggestion_title">تغيير حجم الخط</string>
     <string name="vision_settings_title">إعدادات الرؤية</string>
+    <string name="voice_access">التحكم الصوتي</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">خطاب</string>
     <string name="voice_helper_title">المساعد الصوتي</string>
     <string name="voice_input_output_settings">الإدخال الصوتي والاستماع</string>
@@ -7699,6 +7899,7 @@ Xiaomi Cloud
     <string name="volte_5G_limited_text">"‏سيؤدي هذا أيضًا إلى إيقاف اتصال الجيل الخامس (5G).
 لا يمكنك استخدام الإنترنت أثناء إجراء مكالمة صوتية، وقد لا تعمل بعض التطبيقات أيضًا."</string>
     <string name="volte_5G_limited_title">‏هل تريد إيقاف VoLTE؟</string>
+    <string name="volume_adjustment">ضبط مستوى الصوت</string>
     <string name="volume_alarm_description">المنبه</string>
     <string name="volume_alarm_mute">كتم صوت الاشعارات</string>
     <string name="volume_bluetooth_description">البلوتوث</string>
@@ -7804,6 +8005,7 @@ Xiaomi Cloud
     <string name="wake_suppression_title">مساحة صغيرة</string>
     <string name="wakeup_and_sleep_settings_category_name">إعدادات شاشة القفل</string>
     <string name="wakeup_for_keyguard_notification_title">إيقاظ شاشة القفل للإشعارات</string>
+    <string name="wallet_header_title">المحفظة والدفع</string>
     <string name="wallpaper_attributions">الخلفيات</string>
     <string name="wallpaper_attributions_values">"‏الشركات الموفرة لصور القمر الصناعي:
 ‎©2014 CNES / Astrium وDigitalGlobe وBluesky"</string>
@@ -7813,7 +8015,7 @@ Xiaomi Cloud
     <string name="wallpaper_settings_fragment_title">اختيار خلفية من</string>
     <string name="wallpaper_settings_summary_custom">مخصصة</string>
     <string name="wallpaper_settings_summary_default">تلقائية</string>
-    <string name="wallpaper_settings_title">الخلفية</string>
+    <string name="wallpaper_settings_title">خلفية الشاشة</string>
     <string name="wallpaper_suggestion_summary">تخصيص شاشتك</string>
     <string name="wallpaper_suggestion_title">تغيير الخلفية</string>
     <string name="wapi_all_sel_mode">تحديد</string>
@@ -8386,10 +8588,15 @@ Xiaomi Cloud
     <string name="wifi_verbose_logging">تشغيل سجلات Wi-Fi verbose</string>
     <string name="wifi_verbose_logging_summary">‏زيادة مستوى تسجيل Wi-Fi (عرض لكل SSID RSSI في منتقي Wi-Fi)</string>
     <string name="wifi_wakeup">‏تفعيل اتّصال Wi‑Fi تلقائيًا</string>
+    <string name="wifi_wakeup_location_summary">قم بتشغيل خدمات الموقع لاستخدام هذه الميزة.</string>
+    <string name="wifi_wakeup_negative_button">إلغاء</string>
+    <string name="wifi_wakeup_positive_button">تشغيل</string>
+    <string name="wifi_wakeup_scan_summary">السماح أولاً للتطبيقات والخدمات بالبحث عن شبكات Wi-Fi لتتمكن من تشغيل Wi-Fi تلقائيًا. سيسمح تمكين هذه الميزة لجهازك بالاتصال تلقائيًا بشبكات Wi-Fi المخزنة في منطقتك.</string>
     <string name="wifi_wakeup_summary">‏إعادة تفعيل اتّصال Wi‑Fi بالقرب من الشبكات المحفوظة العالية الجودة، مثل الشبكة المنزلية</string>
     <string name="wifi_wakeup_summary_no_location">غير متاحة نظرًا لإيقاف خدمة الموقع. فعِّل خدمة <annotation id="link">الموقع</annotation>.</string>
     <string name="wifi_wakeup_summary_scanning_disabled">‏غير متاح لأن ميزة \"البحث عن شبكات Wi‑Fi\" غير مفعّلة</string>
     <string name="wifi_wakeup_summary_scoring_disabled">لاستخدام الميزة، اختر مقدِّم خدمة تقييم شبكة</string>
+    <string name="wifi_wakeup_title">تشغيل الميزات الإضافية</string>
     <string name="wifi_wapi_as_cert">شهادة AS</string>
     <string name="wifi_wapi_as_certificate">شهادة AS</string>
     <string name="wifi_wapi_cert_cancel_button">إلغاء</string>
@@ -8481,6 +8688,7 @@ Xiaomi Cloud
     <string name="xiaomi_cloud_service_description_without_contacts">يقوم Xiaomi Cloud بمزامنة الصور ونسخ التطبيقات والإعدادات احتياطيا، ويساعدك ايضا على العثور على هاتفك باستخدام خاصية \"العثور على الجهاز\".</string>
     <string name="xiaomi_cloud_service_disabled">متوقّف</string>
     <string name="xiaomi_cloud_service_unknown">غير معروف</string>
+    <string name="xiaomi_custom_input_method">مخصص لـ Xiaomi</string>
     <string name="xiaomi_money_service">عملات Mi</string>
     <string name="xiaomi_router_available_notif_summary">انقرلعرض المزيد من المعلومات.</string>
     <string name="xiaomi_router_available_notif_title">جهاز توجيه Mi متوفر</string>
@@ -8527,9 +8735,11 @@ Xiaomi Cloud
     <string name="zen_mode_all_callers">أي شخص</string>
     <string name="zen_mode_all_calls_summary">يمكن أن تصلك كل المكالمات</string>
     <string name="zen_mode_all_messages_summary">يمكن أن تصلك كل الرسائل.</string>
+    <string name="zen_mode_always">دائما</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_app_set_behavior">لا يمكن تغيير هذه الإعدادات الآن. لقد اختار أحد التطبيقات (%1$s) تفعيل وضع \"الرجاء عدم الإزعاج\" تلقائيًا مع سلوك مخصّص.</string>
     <string name="zen_mode_apps_bypassing_list_count">%d تطبيق آخر</string>
+    <string name="zen_mode_auto_rule">جدولة جلسات \"عدم الإزعاج\"</string>
     <string name="zen_mode_automatic_rule_settings_page_title">الجدول الزمني</string>
     <string name="zen_mode_automation_settings_page_title">الجداول الزمنية</string>
     <string name="zen_mode_automation_settings_title">الجداول الزمنية</string>
@@ -8624,6 +8834,7 @@ Xiaomi Cloud
     <string name="zen_mode_from_sms">"الرسائل من "</string>
     <string name="zen_mode_from_starred">جهات الاتصال المميّزة بنجمة</string>
     <string name="zen_mode_important_category">الإعدادات</string>
+    <string name="zen_mode_lockscreen">عند القفل</string>
     <string name="zen_mode_media">أصوات الوسائط</string>
     <string name="zen_mode_media_list">الوسائط</string>
     <string name="zen_mode_media_list_first">الوسائط</string>
@@ -8634,6 +8845,7 @@ Xiaomi Cloud
     <string name="zen_mode_messages_list">الرسائل</string>
     <string name="zen_mode_messages_title">الرسائل</string>
     <string name="zen_mode_miui_silent_category">السماح</string>
+    <string name="zen_mode_more_actions">مزيد من خيارات عدم الإزعاج</string>
     <string name="zen_mode_no_exceptions">بدون</string>
     <string name="zen_mode_none_calls">غير مسموح بأي مكالمات</string>
     <string name="zen_mode_none_messages">غير مسموح لأي رسائل</string>
@@ -8718,6 +8930,7 @@ Xiaomi Cloud
     <string name="zen_mode_starred_contacts_title">جهات الاتصال المميّزة بنجمة</string>
     <string name="zen_mode_start_time">وقت البدء</string>
     <string name="zen_mode_summary">كتم الصوت للمكالمات والوسائط وإيقاف الاهتزاز</string>
+    <string name="zen_mode_summary2">لا يوجد تذكيرات للمكالمات أو الإشعارات الواردة</string>
     <string name="zen_mode_summary_alarms_only_by_time">التغيير إلى التنبيهات فقط حتى %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">تغيير إلى تنبيهات فقط إلى أجل غير مسمى</string>
     <string name="zen_mode_summary_always">تغيير إلى المقاطعة دائمًا</string>
@@ -8753,12 +8966,14 @@ Xiaomi Cloud
     <string name="zen_sound_footer">عند تفعيل الوضع \"عدم الإزعاج\"، سيتم كتم الصوت ومنع الاهتزاز عند تلقّي أي عناصر باستثناء تلك التي تسمح بها أعلاه.</string>
     <string name="zen_suggestion_summary">إيقاف الإشعارات مؤقتًا للحفاظ على التركيز</string>
     <string name="zen_suggestion_title">تحديث إعداد \"الرجاء عدم الإزعاج\"</string>
-    <string name="zone_auto_summaryOff">استخدام الوقت الذي توفره شركة الاتصالات لديك</string>
-    <string name="zone_auto_summaryOn">استخدام الوقت الذي توفره شركة الاتصالات لديك</string>
+    <string name="zone_auto_summaryOff">استخدام الوقت الذي توفره شركة الاتصالات</string>
+    <string name="zone_auto_summaryOn">استخدام الوقت الذي توفره شركة الاتصالات</string>
     <string name="zone_auto_title">استخدام المنطقة الزمنية للشبكة</string>
     <string name="zone_change_to_from_dst">يبدأ %1$s بحلول %2$s.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">تستخدم %1$s. ويبدأ %2$s في %3$s.</string>
     <string name="zone_info_footer_no_dst">تستخدم %1$s. وليس هناك توقيت صيفي.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">ترتيب أبجدي</string>
     <string name="zone_list_menu_sort_by_timezone">ترتيب حسب المنطقة الزمنية</string>
     <string name="zone_menu_by_offset">‏الاختيار حسب فارق الوقت عن UTC</string>

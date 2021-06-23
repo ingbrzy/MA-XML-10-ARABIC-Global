@@ -117,6 +117,7 @@
     <string name="clock_bg_button_setting_title">لون الخلفية</string>
     <string name="close">إغلاق</string>
     <string name="close_alarm">إيقاف التشغيل</string>
+    <string name="close_alarm_new">إيقاف</string>
     <string name="common_settings">الإعدادات</string>
     <string name="common_timer_selector">حدد المؤقت</string>
     <string name="confirm">تأكيد</string>
@@ -144,22 +145,22 @@
     <string name="delete_timezone_title">حذف المنطقة الزمنية</string>
     <string name="deskclock_sleep_no_disturbance">الساعة - إدارة وقت النوم - وضع عدم الإزعاج</string>
     <string name="dialog_confirm_abort">تجاهل التغييرات؟</string>
-    <string name="dialog_legal_off_day">&lt;Data>يبدو أنك تستخدم تنبيهات أيام العطل. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
+    <string name="dialog_legal_off_day">&lt;Data>يبدو أنك تستخدم تنبيهات أيام العطل. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">لا يُسمح للساعة بالاتصال بالإنترنت ليتم تحديث معلومات العطل. سترن تنبيهات أيام العطل في يوم السبت والأحد.</string>
-    <string name="dialog_legal_workday">&lt;Data>يبدو أنك تستخدم تنبيهات أيام الأسبوع. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
-    <string name="dialog_legal_workday_and_off_day">&lt;Data>يبدو أنك تستخدم تنبيهات أيام الأسبوع والعطلة. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك أيضاً قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
+    <string name="dialog_legal_workday">&lt;Data>يبدو أنك تستخدم تنبيهات أيام الأسبوع. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data>يبدو أنك تستخدم تنبيهات أيام الأسبوع والعطلة. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك أيضاً قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
     <string name="dialog_legal_workday_and_off_day_desc">لا يُسمح للساعة بالاتصال بالإنترنت ليتم تحديث معلومات العطل. سترن تنبيهات أيام الأسبوع من الاثنين إلى الجمعة. وسترن تنبيهات أيام العطل في يوم السبت والأحد.</string>
     <string name="dialog_legal_workday_desc">لا يُسمح للساعة بالاتصال بالإنترنت ليتم تحديث معلومات أيام العمل. سترن تنبيهات أيام الأسبوع في يوم السبت والأحد.</string>
-    <string name="dialog_message_agree">موافق</string>
-    <string name="dialog_message_for_contact_permission">للحصول على تنبيهات أعياد الميلاد، تحتاج الساعة إلى االوصول إلى جهات الاتصال الخاصة بك. موافق؟</string>
+    <string name="dialog_message_agree">أوافق</string>
+    <string name="dialog_message_for_contact_permission">للحصول على تنبيهات أعياد الميلاد، تحتاج الساعة إلى االوصول إلى جهات الاتصال الخاصة بك. هل توافق؟</string>
     <string name="dialog_message_negative">لا أوافق</string>
     <string name="dialog_message_not_remind">لا تظهر مرة اخرى</string>
-    <string name="dialog_net_permission_in_repeat_type">&lt;Data>ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
-    <string name="dialog_privacy_content">للحصول على معلومات عن أيام العطل الرسمية وتعديل التنبيهات وتقديم الخدمات الشخصية، ستحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
-    <string name="dialog_privacy_content_global">لتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
-    <string name="dialog_privacy_content_news">لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
-    <string name="dialog_privacy_content_timer">لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. موافق؟</string>
-    <string name="dialog_privacy_content_timer_data">لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٢٠ ميجابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. انت تستخدم بيانات الهاتف الآن. موافق؟</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data>ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
+    <string name="dialog_privacy_content">للحصول على معلومات عن أيام العطل الرسمية وتعديل التنبيهات وتقديم الخدمات الشخصية، ستحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك القراءة والموافقة على %1$s و%2$s لدينا قبل استخدام الساعة. هل توافق؟</string>
+    <string name="dialog_privacy_content_global">لتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. هل توافق؟</string>
+    <string name="dialog_privacy_content_news">لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. هل توافق؟</string>
+    <string name="dialog_privacy_content_timer">لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. هل توافق؟</string>
+    <string name="dialog_privacy_content_timer_data">لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٢٠ ميجابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب قراءة وقبول %1$s و%2$s لدينا قبل استخدام الساعة. انت تستخدم بيانات الهاتف الآن. هل توافق؟</string>
     <string name="disagree">لا أوافق</string>
     <string name="done">تم</string>
     <string name="dynamic_alarm_speech">المنبه الذكي</string>
@@ -175,42 +176,58 @@
     <string name="every_day">يومي</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="expired_timers_dismissed">تم تجاهل المؤقت بنجاح</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM، yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM، yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM، yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">aa hh</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W،D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W،D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="force_touch_add_alarm">إضافة منبه</string>
     <string name="force_touch_enter_stopwatch">ساعة الإيقاف</string>
     <string name="force_touch_enter_timer">المؤقت</string>
@@ -268,7 +285,7 @@
     <string name="life_post_weather_invalid">انقر للحصول على معلومات الطقس</string>
     <string name="life_post_weather_no_network">اتصل بالشبكة لتحديث معلومات الطقس</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
-    <string name="listen_news_privacy">&lt;Data>لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="listen_news_privacy">&lt;Data>لتقديم الخدمات الشخصية وأضافة الأخبار الصباحية في التنبيهات، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. هل توافق؟&lt;/Data></string>
     <string name="loading_ringtone">جارٍ تحميل نغمة الرنين…</string>
     <string name="menu_add_worldclock">إضافة ساعة</string>
     <string name="menu_desk_clock">الساعة</string>
@@ -322,24 +339,24 @@
     <string name="module_update_success">تم ثبيت التحديثات الصوتية لتبيهات MIUI الذكية بنجاح. يمكنك ضبط تبيهات MIUI الذكية من إعدادات الساعة.</string>
     <string name="module_update_success_control">فهمت</string>
     <string name="module_weather_ringtone_download_data">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية. تنزيل الآن؟</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. هل توافق؟&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى ملفات صوتية. تنزيل الآن؟</string>
     <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. ولذلك ستحتاج الساعة إلى الاتصال بالانترنت لتنزيل الملفات الصوتية. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
     <string name="module_weather_ringtone_introduce">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي. كما يسمح لك بالاستماع إلى تقرير الطقس الصباحي.</string>
     <string name="module_weather_ringtone_introduce_global">يقوم منبه الطقس باختيار نغمات مختلفة حسب الطقس الحالي.</string>
     <string name="module_weather_ringtone_update_data">يتضمن منبه الطقس الآن موسيقى خلفية وإعلانات صوتية محسنة. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية. التنزيل الآن؟</string>
     <string name="module_weather_ringtone_update_success">يتضمن منبه الطقس الآن موسيقى خلفية وإعلانات صوتية محسنة. يمكنك إنشاء منبه جديد لتجربه هذه الميزة.</string>
-    <string name="module_week_ringtone_download_data">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data>يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية. يجب عليك قبل استخدام الساعة قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
-    <string name="module_week_ringtone_download_wifi">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ولذلك ستحتاج الساعة إلى تنزيل الملفات الصوتية. يجب عليك قبل استخدام الساعة قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. موافق؟&lt;/Data></string>
-    <string name="module_week_ringtone_introduce">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ.</string>
-    <string name="module_week_ringtone_update_data">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
-    <string name="module_week_ringtone_update_success">يقوم المنبه الطبيعي بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. يمكنك إنشاء منبه جديد لتجربة هذه الميزة.</string>
+    <string name="module_week_ringtone_download_data">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data>يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ولذلك ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية. يجب عليك قبل استخدام الساعة قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
+    <string name="module_week_ringtone_download_wifi">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data>يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ولذلك ستحتاج الساعة إلى تنزيل الملفات الصوتية. يجب عليك قبل استخدام الساعة قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
+    <string name="module_week_ringtone_introduce">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ.</string>
+    <string name="module_week_ringtone_update_data">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. ستحتاج الساعة إلى تنزيل ≈٣٠ ميجابايت من الملفات الصوتية ليعمل بشكل طبيعي. التنزيل الآن؟</string>
+    <string name="module_week_ringtone_update_success">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ. يمكنك إنشاء منبه جديد لتجربة هذه الميزة.</string>
     <string name="module_white_noise_download_data">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. يتطلب التنزيل ≈٣٠ ميجابايت من بيانات الهاتف. التنزيل الآن؟</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٣٠ ميجابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. انت تستخدم بيانات الهاتف الآن. موافق؟&lt;/Data></string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة (≈٣٠ ميجابايت) وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. انت تستخدم بيانات الهاتف الآن. هل توافق؟&lt;/Data></string>
     <string name="module_white_noise_download_wifi">تحتاج الساعة لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة. التنزيل الآن؟</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data>لتنزيل الملفات الصوتية لمؤقتات الضوضاء المحيطة وتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا قبل استخدام الساعة. هل توافق؟&lt;/Data></string>
     <string name="monday">الإثنين</string>
     <string name="monday_short">الإثنين</string>
     <string name="monday_shortest">الإثنين</string>
@@ -387,8 +404,8 @@
     <string name="morning">الصباح</string>
     <string name="net_permission_cancel">لا أوافق</string>
     <string name="net_permission_ok">أوافق</string>
-    <string name="network_privacy">&lt;Data>للحصول على معلومات عن أيام العطل الرسمية وتعديل التنبيهات، ستحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
-    <string name="network_privacy_global">&lt;Data>لتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. موافق؟&lt;/Data></string>
+    <string name="network_privacy">&lt;Data>للحصول على معلومات عن أيام العطل الرسمية وتعديل التنبيهات، ستحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. هل توافق؟&lt;/Data></string>
+    <string name="network_privacy_global">&lt;Data>لتقديم الخدمات الشخصية، تحتاج الساعة إلى الاتصال بالإنترنت. يجب عليك أيضاً قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الساعة. هل توافق؟&lt;/Data></string>
     <string name="never">مرة</string>
     <string name="new_label">إضافة تسمية للمنبه</string>
     <string name="night">المساء</string>
@@ -397,6 +414,7 @@
     <string name="noon">الظهر</string>
     <string name="normal_settings">الإعدادات العامة</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="not_set_temporarily">لا شكرا</string>
     <string name="not_update">ليس الآن</string>
     <string name="oneshot_alarm">حذف بعد أن يرن</string>
     <string name="open_keep_screen">سيتم تشغيل الشاشة</string>
@@ -437,11 +455,13 @@
     <string name="search_stopwatch_keywords">ساعة الإيقاف</string>
     <string name="search_timer_keywords">المؤقت</string>
     <string name="search_worldclock_keywords">الوقت؛ الساعة العالمية؛الساعة</string>
+    <string name="select_operation">تحديد</string>
     <string name="send">مشاركة</string>
     <string name="set_alarm">حدد الوقت</string>
     <string name="set_alarm_choose_ringtone">اختر نغمة الرنين</string>
     <string name="set_alarm_done">تم</string>
     <string name="set_alarm_other">أخرى</string>
+    <string name="set_now">تعيين</string>
     <string name="setting_alarm_arriving_subtitle">عرض الإشعارات قبل رنين التنبهات</string>
     <string name="setting_alarm_arriving_summary">إرسال إشعار قبل الرنين</string>
     <string name="setting_alarm_arriving_title">الإشعار قبل الرنين</string>
@@ -452,11 +472,13 @@
     <string name="shortcut_stop_watch">بدء ساعة الإيقاف</string>
     <string name="shut_down_keep_screen">لن يتم تشغيل الشاشة</string>
     <string name="shutdown_alarm_alert_enable_summary">سوف يرن المنبه إذا تم ضبطه بعد 10 دقائق على الأقل من إيقاف تشغيل الجهاز</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">عند تشغيل هذه الميزة، ستصدر التنبيهات التي تم ضبطها رنين حتى بعد إيقاف تشغيل الجهاز. فقط التنبيهات التي تم ضبطها على الاقل لمدة %d دقائق بعد إيقاف تشغيل الجهاز ستصدر رنينًا.</string>
     <string name="shutdown_alarm_alert_title">منبه عند إيقاف تشغيل الجهاز</string>
     <string name="shutdown_alarm_disable_summary">لن يرن المنبه بعد إيقاف تشغيل الجهاز</string>
     <string name="shutdown_alarm_enable_summary">سيرن المنبه إذا تم ضبطة ١٠ دقائق على الأقل بعد إطفاء الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="sleep_analysis">الإحصائيات</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -481,6 +503,7 @@
     <string name="sleep_time">وقت الدخول في النوم</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">مرّر لأعلى لإيقاف التشغيل</string>
+    <string name="slider_text_new">اسحب لأعلى لإيقاف المنبه</string>
     <string name="snooze_confirm_cancel">تجاهل المنبه</string>
     <string name="snooze_duration">غفوة</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -499,6 +522,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_reset_notification">تم إعادة تعيين ساعة الإيقاف</string>
     <string name="stopwatch_running_notification">ساعة الإيقاف</string>
@@ -507,6 +531,7 @@
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">اسمح لهذا التطبيق بالاتصال بالإنترنت للوصول إلى جميع ميزاته.</string>
     <string name="system_permission_main_purpose">عرض الوقت وضبط التنبيهات والمؤقتات باستخدام ساعة الإيقاف</string>
     <string name="system_permission_purpose">إنشاء تنبيهات أيام الأسبوع وإعداد نغمات مخصصة</string>
@@ -589,6 +614,7 @@
     <string name="timer_end_time_format">dd MMM HH:mm</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">موافق</string>
+    <string name="timer_got_it_new">كتم الصوت</string>
     <string name="timer_is_paused">توقف المؤقت مؤقتاً</string>
     <string name="timer_item_delete">حذف</string>
     <string name="timer_item_duration_display">%1$d دقيقة %2$d ثانية</string>
@@ -638,6 +664,7 @@
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
+    <string name="week_ringtone_recommend_desc">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ المحدد. هل ترغب في تعيينه كنغمة رنين المنبه الافتراضي؟</string>
     <string name="white_noise_selector">حدد الملف الصوتي</string>
     <string name="workday_alarm_clock">منبه يوم عمل</string>
     <string name="worldclock_empty_text">لا توجد أي ساعات</string>
@@ -647,6 +674,7 @@
     <string name="worldclock_resident_city_text_detail">الساعة المزدوجه مشغلة</string>
     <string name="worldclock_search_city">حدد مدينة</string>
     <string name="worldclock_second_time">الوقت في %s</string>
+    <string name="worldclock_second_time_desc">"%s: "</string>
     <string name="worldclock_title">الساعة</string>
     <string name="worldclock_world_time">المناطق الزمنية</string>
     <string name="worldcolock_date_display_prefix">الحالي: </string>

@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aggregate_entries">
-        <item>تجميع</item>
-        <item>تجميع وتقليل الأهمية</item>
-        <item>لا تجمع</item>
-    </string-array>
-    <string-array name="aggregate_summaries">
-        <item>سيتم تجميع إشعارات الدفع الترويجية والمحتويات ذات الصلة</item>
-        <item>سيتم تجميع إشعارات الدفع وعرضها أسفل الإشعارات الأخرى</item>
-        <item>لن يتم تجميع إشعارات الدفع</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
@@ -290,15 +280,15 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱٦ بت/عينة</item>
-        <item>۲٤ بت/عينة</item>
-        <item>۱٦ بت/عينة</item>
+        <item>16بت/عينة</item>
+        <item>24 بت/عينة</item>
+        <item>16 بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱٦ بت/عينة</item>
-        <item>۲٤ بت/عينة</item>
-        <item>٣٢ بت/عينة</item>
+        <item>16 بت/عينة</item>
+        <item>24 بت/عينة</item>
+        <item>32 بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -348,17 +338,17 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱.٤٤ كيلوهرتز</item>
-        <item>۰.٤۸ كيلوهرتز</item>
-        <item>۸۸.۲ كيلوهرتز</item>
-        <item>۰. ۹٦ كيلوهرتز</item>
+        <item>44.1 كيلوهرتز</item>
+        <item>48.0 كيلوهرتز</item>
+        <item>88.2 كيلوهرتز</item>
+        <item>96.0 كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱.٤٤ كيلوهرتز</item>
-        <item>۰.٤۸ كيلوهرتز</item>
-        <item>۸۸.۲ كيلوهرتز</item>
-        <item>۰. ۹٦ كيلوهرتز</item>
+        <item>44.1 كيلوهرتز</item>
+        <item>48.0 كيلوهرتز</item>
+        <item>88.2 كيلوهرتز</item>
+        <item>96.0 كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -799,6 +789,31 @@
         <item>باراماريبو</item>
         <item>كيتو</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
         <item>الألوان الطبيعية كما تراها العين</item>
@@ -883,7 +898,7 @@
     <string-array name="enable_opengl_traces_entries">
         <item>لا شيء</item>
         <item>Logcat</item>
-        <item>Systrace (رسومات)</item>
+        <item>Systrace (Graphics)</item>
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
     </string-array>
     <string-array name="entries_font_size">
@@ -904,16 +919,6 @@
         <item>يسرع أداء الجهاز</item>
         <item>قد تبطئ أداء الجهاز</item>
     </string-array>
-    <string-array name="fold_entries">
-        <item>موصى به</item>
-        <item>هام</item>
-        <item>غير هام</item>
-    </string-array>
-    <string-array name="fold_summaries">
-        <item>سوف يقرر MIUI أي إشعارات يجب أن تظهر مباشرة</item>
-        <item>ستظهر الإشعارات في مركز الإشعارات</item>
-        <item>ستظهر الاشعارات في مجلد منفصل</item>
-    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>٤.٥ بوصة</item>
         <item>٤.٠ بوصة</item>
@@ -931,9 +936,9 @@
         <item>قوي</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>‏عدم استخدام التحقق من HDCP مطلقًا</item>
+        <item>‏عدم استخدام التحقق من HDCP مطلقاً</item>
         <item>‏استخدام التحقق من HDCP لمحتوى DRM فقط</item>
-        <item>‏استخدام التحقق من HDCP دومًا</item>
+        <item>‏استخدام التحقق من HDCP دائما</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>عدم التحقق مطلقًا</item>
@@ -943,6 +948,15 @@
     <string-array name="hide_account_list">
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>عدم ايقاظ الشاشة</item>
@@ -987,6 +1001,43 @@
         <item>بعد ٥ دقائق</item>
         <item>أبداً</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_titles">
         <item>قصيرة</item>
         <item>متوسطة</item>
@@ -1055,6 +1106,14 @@
         <item>"إلغاء التثبيت جهاز: fusermount -u /media/mtp
 
 ملاحظة: فقط لـ Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -1161,6 +1220,97 @@
         <item>تقليل ضوضاء الميكرفون الواحد</item>
         <item>تقليل ضوضاء الميكرفون المزدوج</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>أداء</item>
         <item>متوازن</item>
@@ -1284,6 +1434,11 @@
         <item>مشبع</item>
         <item>قياسية</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1349,7 +1504,11 @@
     <string-array name="show_non_rect_clip_entries">
         <item>متوقف</item>
         <item>إرسم منطقة قصاصة غير مستطيلة بالأزرق</item>
-        <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
+        <item>إبراز أوامر الرسم التي تم اختبارها بالأخضر</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>دائماً</item>
@@ -1377,6 +1536,62 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>هش</item>
+        <item>عميق</item>
+        <item>مرن</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
+    <array name="three_long_press">
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/three_fingers_long_press</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>١٢-ساعة ١:٠٠م</item>
         <item>٢٤-ساعة ١٣:٠٠</item>
@@ -1535,6 +1750,14 @@
         <item>رسم بياني</item>
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة في مركز الإشعارات)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>

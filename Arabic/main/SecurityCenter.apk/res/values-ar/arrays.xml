@@ -13,6 +13,69 @@
         <item>أيام الأسبوع</item>
         <item>تخصيص</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>كل السجلات</item>
         <item>بدء تلقائي</item>
@@ -25,11 +88,27 @@
         <item>رمز PIN</item>
         <item>كلمة المرور</item>
     </string-array>
+    <string-array name="cellular_data_unit">
+        <item>جيجابايت</item>
+        <item>ميجابايت</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>خطة شهرية</item>
+        <item>غير محدودة</item>
+        <item>خطة يومية</item>
+    </string-array>
     <string-array name="daily_brand">
         <item>تخصيص</item>
         <item>بطاقة محبي Mi</item>
         <item>بطاقة Xiao Tiansheng</item>
         <item>بطاقة Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>تخصيص</item>
+        <item>موبايل Mi</item>
+        <item>بطاقة محبي Mi</item>
+        <item>بطاقة تيانشان</item>
+        <item>بطاقة Tencent</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"أمس (بيانات الهاتف) "</item>
@@ -76,6 +155,12 @@
         <item>عالي</item>
         <item>عالي جدا</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>عندما يكون الجهاز مقفل</item>
         <item>عندما يكون الجهاز مقفل او بعد الخروج من تطبيق</item>
@@ -94,10 +179,20 @@
         <item>تنبية هام: قد تتوقف بعض التطبيقات عن العمل بشكل صحيح.</item>
         <item>قد لا يتم عرض تخطيط النص والحسابات والمحتوى بشكل صحيح.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -107,6 +202,20 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>إظهار تحذير</item>
         <item>تنبية وإيقاف تشغيل بيانات الهاتف</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>الافتراضية</item>

@@ -113,6 +113,7 @@
     <string name="clearable_edittext_clear_description">حذف</string>
     <string name="click_to_restore">بعد إعادة ضبط إعدادات المصنع، قم باستعادة عناصر النظام لتتمكن من استخدام MIUI بشكل صحيح. انقر للبدء.</string>
     <string name="com_android_email">البريد</string>
+    <string name="com_android_soundrecorder">المسجل</string>
     <string name="com_mi_liveassistant">مساعد البث المباشر</string>
     <string name="com_miui_calculator">الآلة الحاسبة</string>
     <string name="com_miui_cleanmaster">المنظف</string>
@@ -121,12 +122,14 @@
     <string name="com_miui_huanji">ناقل Mi</string>
     <string name="com_miui_notes">الملاحظات</string>
     <string name="com_miui_screenrecorder">مسجل الشاشة</string>
+    <string name="com_miui_virtualsim">تجوال Mi</string>
     <string name="com_miui_weather2">الطقس</string>
     <string name="com_xiaomi_drivemode">وضع القيادة</string>
     <string name="com_xiaomi_gamecenter">الألعاب</string>
     <string name="com_xiaomi_jr">مالية Mi</string>
     <string name="com_xiaomi_scanner">الماسح</string>
     <string name="com_xiaomi_shop">متجر Mi</string>
+    <string name="com_xiaomi_vipaccount">مجتمع تواصل Mi</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">تأكيد</string>
     <string name="country_name_ac">AC</string>
@@ -381,6 +384,7 @@
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="email">البريد الإلكتروني</string>
+    <string name="empty" />
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">تم إيقاف المزامنة بسبب مشاكل مع حساب Mi الخاص بك.</string>
@@ -388,6 +392,7 @@
     <string name="error_title">تعذر المزامنة</string>
     <string name="error_unauthorized">تم إيقاف المزامنة بسبب الكثير من محاولات تسجيل الدخول.</string>
     <string name="evening">م</string>
+    <string name="experience_new_system_app">اكتشف الميزات الجديدة!</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -528,12 +533,13 @@
     <string name="sim_changed_reactivate_int_notice">قد تكون هناك حاجة لرسالة (SMS) دولية لإعادة تفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
     <string name="sim_changed_reactivate_notice">قد تكون هناك حاجة لرسالة قصيرة (SMS) لإعادة تفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
     <string name="sip_phone">هاتف SIP</string>
-    <string name="size_byte">بايت</string>
-    <string name="size_giga_byte">جيجابايت</string>
-    <string name="size_kilo_byte">كيلوبايت</string>
-    <string name="size_mega_byte">ميجابايت</string>
-    <string name="size_peta_byte">بنتابايت</string>
-    <string name="size_tera_byte">تيرابايت</string>
+    <string name="size_byte">ب</string>
+    <string name="size_giga_byte">ج.ب</string>
+    <string name="size_kilo_byte">ك.ب</string>
+    <string name="size_mega_byte">م.ب</string>
+    <string name="size_peta_byte">ب.ب</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">ت.ب</string>
     <string name="solar_term_autumn_begins">Autumn Begins</string>
     <string name="solar_term_autumn_equinox">Autumn Equinox</string>
     <string name="solar_term_clear_and_bright">Clear and Bright</string>
@@ -565,8 +571,9 @@
     <string name="system_app_restore_completed">تمت الاستعادة بنجاح</string>
     <string name="system_app_restore_completed_detail">تمت استعادة جميع عناصر النظام بنجاح</string>
     <string name="system_app_restore_failed">حدث خطأ ما</string>
-    <string name="system_app_restore_failed_detail">فشل في استعادة العناصر. تحقق من اتصال الشبكة ولا تقم بإعادة تشغيل الجهاز أو إغلاقة قبل استعادة جميع العناصر بنجاح. انقر على الزر أدناه للمحاولة مجددًا.</string>
+    <string name="system_app_restore_failed_detail">فشل في استعادة العناصر. تحقق من تحقق من إعدادات شبكة الاتصال ولا تقم بإعادة تشغيل الجهاز أو إغلاقة قبل استعادة جميع العناصر بنجاح. انقر على الزر أدناه للمحاولة مجددًا.</string>
     <string name="system_restore">استعادة العناصر</string>
+    <string name="tap_to_update_system_app">انقر لتحديث تطبيقات النظام</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -618,6 +625,7 @@
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>
+    <string name="wait_for_wlan_china">في إنتظار WLAN</string>
     <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
     <string name="web_sso_login_message">تسجيل الدخول…</string>
     <string name="website">موقع الويب</string>

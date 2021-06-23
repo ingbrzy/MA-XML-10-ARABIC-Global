@@ -85,6 +85,7 @@
     <string name="evening">عصر</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="first_using_dialog_message">البوصلة تحتاج إلى استخدام اتصال الشبكة، والكاميرا، وخدمات الموقع للجهاز الخاص بك للعمل بشكل طبيعي.</string>
+    <string name="first_using_dialog_message_no_camera">يجب أن تكون البوصلة متصلة بالإنترنت والوصول إلى معلومات موقعك لتعمل بشكل طبيعي. هل توافق على ذلك؟</string>
     <string name="first_using_dialog_title">إذن الوصول</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -209,6 +210,7 @@
     <string name="noon">الظهر</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="open_perm_msg">تحتاج البوصلة إلى الوصول لمعلومات الموقع والكاميرا. وهذا ضروري لتحديد الإحداثيات وتوفير معاينات مباشرة. السماح؟</string>
+    <string name="open_perm_msg_no_camera">تحتاج البوصلة إلى الوصول لمعلومات موقعك لتتمكن من تحديد الإحداثيات. هل تسمح بذلك؟</string>
     <string name="open_perm_title">يتطلب أذونات</string>
     <string name="permission_camera_desc">عرض معلومات التوجيه عند التصوير</string>
     <string name="permission_location_desc">لعرض الإحداثيات</string>

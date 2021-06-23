@@ -279,7 +279,6 @@
     <string name="notificationTitle">اختصار مركز الإشعارات</string>
     <string name="notification_from_owner_user">عرض الإشعارات من الواجهة الاولى</string>
     <string name="notification_from_second_user">عرض الإشعارات من الواجهة الثانية</string>
-    <string name="notification_recommend_title">أعلى ١٢ تطبيق في الواجهة الثانية</string>
     <string name="notification_setting_second_space">إعداد الواجهة الثانية</string>
     <string name="notification_setting_second_space_desc">إضافة كلمة مرور الواجهة الثانية و نقل البيانات</string>
     <string name="ok_button">موافق</string>
@@ -488,10 +487,14 @@
     <string name="xspace_disable">لم يتم الإنشاء</string>
     <string name="xspace_enable">تم الانشاء</string>
     <string name="xspace_facebook_title">فيسبوك</string>
-    <string name="xspace_guide_des">استخدم ٢ حسابات دون تبديل</string>
-    <string name="xspace_guide_title">إنشاء تطبيق مزدوج</string>
+    <string name="xspace_guide_content_bound">التطبيقات المتوفرة</string>
+    <string name="xspace_guide_des">تتيح لك التطبيقات المزدوجة استخدام حسابين في نفس الوقت دون الحاجة إلى التبديل</string>
+    <string name="xspace_guide_description">"كل حساب
+يستحق تطبيقه الخاص"</string>
+    <string name="xspace_guide_title">جرب التطبيقات المزدوجة</string>
     <string name="xspace_header">التطبيقات المزدوجة</string>
     <string name="xspace_instagram_title">Instagram</string>
+    <string name="xspace_install_complete">&lt;font>تم إنشاء تطبيق مزدوج. &lt;/font>&lt;font color=#0D84FF>افتح الآن&lt;/font>.</string>
     <string name="xspace_install_completed">تم إضافة الأيقونة إلى الشاشة الرئيسية</string>
     <string name="xspace_install_completed_global">تم أضافة الاختصار إلى القائمة</string>
     <string name="xspace_install_failed">تعذر الإنشاء</string>
@@ -500,11 +503,13 @@
     <string name="xspace_label">التطبيقات المزدوجة</string>
     <string name="xspace_loading_msg">جارٍ تحميل التطبيقات…</string>
     <string name="xspace_notification">إشعارات التطبيقات المزدوجة</string>
+    <string name="xspace_notification_button">جرب</string>
     <string name="xspace_notification_error">سجل الدخول المزدوج إلى WeChat وحاول مجددا</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">حذف حسابات التطبيقات المزدوجة</string>
     <string name="xspace_setting_label">إعدادات التطبيق المزدوج</string>
     <string name="xspace_settins">تعيين</string>
+    <string name="xspace_start">إنشاء</string>
     <string name="xspace_uninstall_completed">تم إلغاء تثبيت التطبيق المزدوج بنجاح</string>
     <string name="xspace_uninstall_dialog_content">إلغاء تثبيت التطبيقات المزدوجة سيزيل كل بيانات التطبيق.</string>
     <string name="xspace_uninstall_dialog_title">إلغاء تثبيت التطبيق المزدوج</string>

@@ -198,6 +198,7 @@
     <string name="clear_default">مسح الافتراضي</string>
     <string name="clear_digits">حذف رقم الهاتف</string>
     <string name="clearable_edittext_clear_description">مسح</string>
+    <string name="close">إغلاق</string>
     <string name="close_dial_pad_description">إغلاق لوحة الاتصال</string>
     <string name="cloud_antispam_mark">ابلاغ</string>
     <string name="cloud_antispam_marked">تم الإبلاغ</string>
@@ -282,6 +283,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_year_toggle">إظهار السنة</string>
     <string name="default_ringtone">النغمة الأساسية</string>
     <string name="deleteCloudConfirmationDetail">مسح معلومات جهة الاتصال %s من Cloud وهذا الجهاز؟</string>
@@ -484,6 +486,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">الاسم</string>
     <string name="gallery">المعرض</string>
     <string name="ghostData_company">الشركة</string>
@@ -607,6 +610,7 @@
     <string name="menu_sync_remove">حذف مجموعة المزامنة</string>
     <string name="midnight">الليل</string>
     <string name="miprofile_account_type">بطاقات جهة اتصال</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
     <string name="miprofile_name">ملفي الشخصي</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -624,10 +628,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">جارٍ المزامنة مع Cloud…</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
+    <string name="miuix_appcompat_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_select_all_description">تحديد الكل</string>
+    <string name="miuix_appcompat_select_item">تحديد العناصر</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
@@ -706,6 +713,7 @@
     <string name="night">المساء</string>
     <string name="nine_letter">ط ظ ع غ</string>
     <string name="noAccounts">لإنشاء مجموعات تحتاج إلى حساب.</string>
+    <string name="no_contact_selected">حدد جهة اتصال لعرض التفاصيل</string>
     <string name="no_contacts_dialog_message">يمكن تخزين جهات الاتصال على بطاقة SIM. حاول استيرادها من بطاقة SIM إلى وحدة التخزين الداخلية بجهازك ثم حاول مرة أخرى.</string>
     <string name="no_contacts_dialog_title">لا يمكن العثور على جهات الاتصال</string>
     <string name="no_phone_no_shortcut">لا يمكن إنشاء إختصارات لجهات الاتصال بدون أرقام هواتف</string>
@@ -735,6 +743,7 @@
     <string name="payphone">هاتف عمومي</string>
     <string name="people">جهات الاتصال</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">الرقم طويل جداً</string>
     <string name="phone_primary">أساسي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة على الجهاز.</string>
@@ -887,6 +896,7 @@
     <string name="select_all">تحديد الكل</string>
     <string name="select_groups">تحديد مجموعات</string>
     <string name="select_vcard_title">اختر ملف vCard</string>
+    <string name="send">مشاركة</string>
     <string name="send_contact_shortcut_todesktop_duplicate">هذا الاختصار موجود مسبقاً</string>
     <string name="send_contact_shortcut_todesktop_failed">لا يمكن إضافة اختصار على الشاشة الرئيسية</string>
     <string name="send_contact_shortcut_todesktop_overflow">لا يمكن إنشاء المزيد من الاختصارات على الشاشة الرئيسية</string>
@@ -938,6 +948,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
     <string name="six_letter">ج ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">الشركات</string>
     <string name="smart_group_company_unavailable">لا توجد معلومات عن الشركة</string>
     <string name="smart_group_frequency_1">خلال الشهر الماضي</string>
@@ -979,6 +990,7 @@
     <string name="starred_contacts">المفضلة</string>
     <string name="status_available">متاح</string>
     <string name="status_away">بعيدا</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">مشغول</string>
     <string name="strequentList">المفضلة</string>
     <string name="success_message_import_from_account">تم استيراد جهة الاتصال</string>
@@ -992,9 +1004,9 @@
     <string name="t9_search_empty_send_sms">إرسال رسالة</string>
     <string name="t9_search_empty_video_call">مكالمة فيديو</string>
     <string name="t9_search_guide_pinyin_title1">أدخل ارقام للعثور على جهات اتصال</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">أدخل \"%d\" و \"%d\" للبحث عن\" ديبي سميث\"</string>
     <string name="t9_search_guide_zhuyin_title1">أدخل ارقام للعثور على جهات اتصال</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">أدخل \"%d\" و \"%d\" للبحث عن\"جيف ماكس\"</string>
     <string name="take_new_photo">التقاط صورة جديدة</string>
     <string name="take_photo">التقاط صورة</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
@@ -1097,6 +1109,7 @@
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
+    <string name="wifi_pad_disable_phone">لا يمكن إجراء مكالمات على هذا الجهاز</string>
     <string name="wipe_data">مسح البيانات</string>
     <string name="yellowPageNavigationLabel">الصفحات الصفراء</string>
     <string name="yellowpage_address_tag">العنوان</string>

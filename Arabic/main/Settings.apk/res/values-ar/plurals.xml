@@ -488,6 +488,14 @@
         <item quantity="few">%d مضاف</item>
         <item quantity="many">%d مضاف</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقيقة إذا لم يتم إنشاء اتصال.</item>
+        <item quantity="zero">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقيقة إذا لم يتم إنشاء اتصال.</item>
+        <item quantity="one">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقيقة إذا لم يتم إنشاء اتصال.</item>
+        <item quantity="two">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقائق إذا لم يتم إنشاء اتصال.</item>
+        <item quantity="few">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقائق إذا لم يتم إنشاء اتصال.</item>
+        <item quantity="many">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقيقة إذا لم يتم إنشاء اتصال.</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">‏%1$d شريحة SIM</item>
         <item quantity="zero">‏%1$d شريحة SIM</item>

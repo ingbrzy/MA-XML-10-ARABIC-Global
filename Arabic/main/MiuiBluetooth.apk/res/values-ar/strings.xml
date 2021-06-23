@@ -302,7 +302,7 @@
     <string name="fast_connect_anti_lost_content">"عرض تنبيه كأشعار منبثق في حالة عدم وجود أي من سماعات الرأس في علبة الشحن.
 راجع الإعدادات لمزيد من التفاصيل."</string>
     <string name="fast_connect_device_battery">البطارية</string>
-    <string name="fast_connect_device_box">مربع</string>
+    <string name="fast_connect_device_box">علبة الشحن</string>
     <string name="fast_connect_device_box_name">%1$s مربع</string>
     <string name="fast_connect_device_connect_cancel">إلغاء</string>
     <string name="fast_connect_device_connect_ok">اتصال</string>
@@ -311,7 +311,7 @@
     <string name="fast_connect_device_connect_success">تم</string>
     <string name="fast_connect_device_headset_l">اليسار</string>
     <string name="fast_connect_device_headset_r">اليمين</string>
-    <string name="fast_connect_device_headset_reset">اضغط مع الاستمرار على الزر الموجود في المربع</string>
+    <string name="fast_connect_device_headset_reset">اضغط باستمرار على الزر الموجود على علبة الشحن</string>
     <string name="fast_connect_device_title_connect_fail">تعذر اتصال %1$s</string>
     <string name="fast_connect_device_title_connecting">جارٍ الاتصال…</string>
     <string name="fast_connect_device_title_find_headset">العثور على %1$s</string>
@@ -349,6 +349,7 @@
     <string name="headset_device_error_box_close">علبة الشحن مغلقة</string>
     <string name="headset_device_error_disconnect">كلا السماعتين غير متصلتين. أغلق علبة الشحن وأعد فتحها لبدء التحديث.</string>
     <string name="headset_device_error_failed">لا يمكن التحديث</string>
+    <string name="headset_device_error_multconnect">لا يمكن إجراء التحديث عند توصيل عدة أجهزة</string>
     <string name="headset_device_error_no_device">أحدى السماعات غير موجودة في علبة الشحن</string>
     <string name="headset_device_error_single_device">لا يمكن تحديث سماعة واحدة. يرجى إعادة الاقتران.</string>
     <string name="headset_device_sync_donot_move_device">جارٍ المزامنة…انتظر حتى تكتمل المزامنة قبل استخدام السماعة.</string>

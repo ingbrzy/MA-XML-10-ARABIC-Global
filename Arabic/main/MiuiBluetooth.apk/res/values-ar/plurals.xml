@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">استمر بالضغط على الزر لمدة %1$d ثانية</item>
-        <item quantity="zero">استمر بالضغط على الزر لمدة %1$d ثانية</item>
-        <item quantity="one">استمر بالضغط على الزر لمدة %1$d ثانية</item>
-        <item quantity="two">استمر بالضغط على الزر لمدة %1$d ثواني</item>
-        <item quantity="few">استمر بالضغط على الزر لمدة %1$d ثواني</item>
-        <item quantity="many">استمر بالضغط على الزر لمدة %1$d ثانية</item>
+        <item quantity="other">اضغط باستمرار على الزر الموجود على علبة الشحن لمدة %1$d ثانية</item>
+        <item quantity="zero">اضغط باستمرار على الزر الموجود على علبة الشحن لمدة %1$d ثانية</item>
+        <item quantity="one">اضغط باستمرار على الزر الموجود على علبة الشحن لمدة %1$d ثانية</item>
+        <item quantity="two">اضغط باستمرار على الزر الموجود على علبة الشحن لمدة %1$d ثواني</item>
+        <item quantity="few">اضغط باستمرار على الزر الموجود على علبة الشحن لمدة %1$d ثواني</item>
+        <item quantity="many">اضغط باستمرار على الزر الموجود على علبة الشحن لمدة %1$d ثانية</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">اضغط مع الاستمرار على أي منطقة حساسة في سماعات الأذن لمدة %1$d ثانية</item>

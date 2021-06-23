@@ -247,7 +247,7 @@
     <string name="save">Save</string>
     <string name="search_menu_title">البحث</string>
     <string name="slider_view_content_description">مرر لأعلى لإيقاف التشغيل أو مرر لأسفل لإعادة التشغيل</string>
-    <string name="smart_home_title">Smart devices</string>
+    <string name="smart_home_title">الأجهزة الذكية</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting_title">مركز التحكم وشريط الحالة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>

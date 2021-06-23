@@ -154,6 +154,7 @@
     <string name="miui_warning_tip_info">حدث خطأ ما في%1$s. أغلاق هذا التطبيق الآن؟</string>
     <string name="multi_file_name">%1$s، %2$s</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
+    <string name="nearby_share">المشاركة عن قرب</string>
     <string name="notification_channel_hotspot">إشعارات نقاط الاتصال</string>
     <string name="onehour">٣٠ دقيقة</string>
     <string name="oneplus">OnePlus</string>

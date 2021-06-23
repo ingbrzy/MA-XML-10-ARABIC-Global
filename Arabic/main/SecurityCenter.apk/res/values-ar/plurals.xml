@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">تم إضافة %d لعبة</item>
         <item quantity="zero">تم إضافة %d لعبة</item>
@@ -136,6 +208,14 @@
         <item quantity="few">%d مرات</item>
         <item quantity="many">%d مرة</item>
     </plurals>
+    <plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">إلغاء تثبيت %d تطبيق</item>
+        <item quantity="zero">إلغاء تثبيت %d تطبيق</item>
+        <item quantity="one">إلغاء تثبيت %d تطبيق</item>
+        <item quantity="two">إلغاء تثبيت %d تطبيقات</item>
+        <item quantity="few">إلغاء تثبيت %d تطبيقات</item>
+        <item quantity="many">إلغاء تثبيت %d تطبيق</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">استخدم منذ %d يوم</item>
         <item quantity="zero">استخدم منذ %d يوم</item>
@@ -208,6 +288,14 @@
         <item quantity="few">حماية %d تطبيقات</item>
         <item quantity="many">حماية %d تطبيق</item>
     </plurals>
+    <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>يمكنك إلغاء تثبيت &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+        <item quantity="zero">&lt;Data>يمكنك إلغاء تثبيت &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+        <item quantity="one">&lt;Data>يمكنك إلغاء تثبيت &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+        <item quantity="two">&lt;Data>يمكنك إلغاء تثبيت &lt;font color=#F22424>%d&lt;/font> تطبيقات&lt;/Data></item>
+        <item quantity="few">&lt;Data>يمكنك إلغاء تثبيت &lt;font color=#F22424>%d&lt;/font> تطبيقات&lt;/Data></item>
+        <item quantity="many">&lt;Data>يمكنك إلغاء تثبيت &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+    </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
         <item quantity="other">"لقد إستخدمت %s حد للبيانات اليومية.
 
@@ -243,6 +331,22 @@
         <item quantity="two">خلال %1$d دقائق</item>
         <item quantity="few">خلال %1$d دقائق</item>
         <item quantity="many">خلال %1$d دقيقة</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">بحث في %d تطبيق</item>
@@ -340,6 +444,14 @@
         <item quantity="few">إلغاء تثبيت %2$d ألعاب (من ضمنها %1$s)</item>
         <item quantity="many">إلغاء تثبيت %2$d لعبة (من ضمنها %1$s)</item>
     </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">تم حفظ %d تسجيل AI إلى مسرع الألعاب</item>
+        <item quantity="zero">تم حفظ %d تسجيل AI إلى مسرع الألعاب</item>
+        <item quantity="one">تم حفظ %d تسجيل AI إلى مسرع الألعاب</item>
+        <item quantity="two">تم حفظ %d تسجيلات AI إلى مسرع الألعاب</item>
+        <item quantity="few">تم حفظ %d تسجيلات AI إلى مسرع الألعاب</item>
+        <item quantity="many">تم حفظ %d تسجيل AI إلى مسرع الألعاب</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d ثانية</item>
         <item quantity="zero">%d ثانية</item>
@@ -355,6 +467,74 @@
         <item quantity="two">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="few">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="many">تم تسجيل الدخول %d يوم متتالي</item>
+    </plurals>
+    <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"جرب مغير الصوت الآن
+للحصول على %d يوم تجربة مجانيه!"</item>
+        <item quantity="zero">"جرب مغير الصوت الآن
+للحصول على %d يوم تجربة مجانيه!"</item>
+        <item quantity="one">"جرب مغير الصوت الآن
+للحصول على %d يوم تجربة مجانيه!"</item>
+        <item quantity="two">"جرب مغير الصوت الآن
+للحصول على %d أيام تجربة مجانيه!"</item>
+        <item quantity="few">"جرب مغير الصوت الآن
+للحصول على %d أيام تجربة مجانيه!"</item>
+        <item quantity="many">"جرب مغير الصوت الآن
+للحصول على %d يوم تجربة مجانيه!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">تعذر الحصول على %d يوم تجربة مجانية</item>
+        <item quantity="zero">تعذر الحصول على %d يوم تجربة مجانية</item>
+        <item quantity="one">تعذر الحصول على %d يوم تجربة مجانية</item>
+        <item quantity="two">تعذر الحصول على %d أيام تجربة مجانية</item>
+        <item quantity="few">تعذر الحصول على %d أيام تجربة مجانية</item>
+        <item quantity="many">تعذر الحصول على %d يوم تجربة مجانية</item>
+    </plurals>
+    <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">تم الحصول على %d يوم تجربة مجانية</item>
+        <item quantity="zero">تم الحصول على %d يوم تجربة مجانية</item>
+        <item quantity="one">تم الحصول على %d يوم تجربة مجانية</item>
+        <item quantity="two">تم الحصول على %d أيام تجربة مجانية</item>
+        <item quantity="few">تم الحصول على %d أيام تجربة مجانية</item>
+        <item quantity="many">تم الحصول على %d يوم تجربة مجانية</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">احصل على %d تجربه مجانية</item>
+        <item quantity="zero">احصل على %d تجربه مجانية</item>
+        <item quantity="one">احصل على %d تجربه مجانية</item>
+        <item quantity="two">احصل على %d تجارب مجانية</item>
+        <item quantity="few">احصل على %d تجارب مجانية</item>
+        <item quantity="many">احصل على %d تجربه مجانية</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"انتهت صلاحية اشتراكاتك.
+يمكنك الحصول على %d يوم تجربة مجانية الآن!"</item>
+        <item quantity="zero">"انتهت صلاحية اشتراكاتك.
+يمكنك الحصول على %d يوم تجربة مجانية الآن!"</item>
+        <item quantity="one">"انتهت صلاحية اشتراكاتك.
+يمكنك الحصول على %d يوم تجربة مجانية الآن!"</item>
+        <item quantity="two">"انتهت صلاحية اشتراكاتك.
+يمكنك الحصول على %d أيام تجربة مجانية الآن!"</item>
+        <item quantity="few">"انتهت صلاحية اشتراكاتك.
+يمكنك الحصول على %d أيام تجربة مجانية الآن!"</item>
+        <item quantity="many">"انتهت صلاحية اشتراكاتك.
+يمكنك الحصول على %d يوم تجربة مجانية الآن!"</item>
+    </plurals>
+    <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">احصل على %d تجربه مجانية</item>
+        <item quantity="zero">احصل على %d تجربه مجانية</item>
+        <item quantity="one">احصل على %d تجربه مجانية</item>
+        <item quantity="two">احصل على %d تجارب مجانية</item>
+        <item quantity="few">احصل على %d تجارب مجانية</item>
+        <item quantity="many">احصل على %d تجربه مجانية</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d حرف</item>
@@ -476,6 +656,38 @@
         <item quantity="few">بدون تعقب استخدام البيانات لـ %d تطبيقات</item>
         <item quantity="many">بدون تعقب استخدام البيانات لـ %d تطبيق</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
     <plurals name="install_game_count_title">
         <item quantity="other">تمت إضافة %d لعبة</item>
         <item quantity="zero">تمت إضافة %d لعبة</item>
@@ -483,6 +695,14 @@
         <item quantity="two">تمت إضافة %d ألعاب</item>
         <item quantity="few">تمت إضافة %d ألعاب</item>
         <item quantity="many">تمت إضافة %d لعبة</item>
+    </plurals>
+    <plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">يمكنك حماية %d عنصر</item>
+        <item quantity="zero">يمكنك حماية %d عنصر</item>
+        <item quantity="one">يمكنك حماية %d عنصر</item>
+        <item quantity="two">يمكنك حماية %d عناصر</item>
+        <item quantity="few">يمكنك حماية %d عناصر</item>
+        <item quantity="many">يمكنك حماية %d عنصر</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s ساعة</item>
@@ -500,6 +720,14 @@
         <item quantity="few">%s دقائق</item>
         <item quantity="many">%s دقيقة</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">قم بتوصيل %d نقطة على الاقل</item>
         <item quantity="zero">قم بتوصيل %d نقطة على الاقل</item>
@@ -507,6 +735,14 @@
         <item quantity="two">قم بتوصيل %d نقاط على الاقل</item>
         <item quantity="few">قم بتوصيل %d نقاط على الاقل</item>
         <item quantity="many">قم بتوصيل %d نقطة على الاقل</item>
+    </plurals>
+    <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">قم بتوصيل %s نقطة على الاقل</item>
+        <item quantity="zero">قم بتوصيل %s نقطة على الاقل</item>
+        <item quantity="one">قم بتوصيل %s نقطة على الاقل</item>
+        <item quantity="two">قم بتوصيل %s نقاط على الاقل</item>
+        <item quantity="few">قم بتوصيل %s نقاط على الاقل</item>
+        <item quantity="many">قم بتوصيل %s نقطة على الاقل</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"انتظر لمدة %d ثانية ثم حاول مرة أخرى. "</item>
@@ -564,6 +800,14 @@
         <item quantity="few">%d تحديثات متاحة</item>
         <item quantity="many">%d تحديث متاح</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">أدخل %d حرف على الأقل</item>
         <item quantity="zero">أدخل %d حرف على الأقل</item>
@@ -588,6 +832,14 @@
         <item quantity="few">"يتم تقييد الوصول إلى الشبكة لـ &lt;font color='#ff0000'>%d&lt;/font> تطبيقات"</item>
         <item quantity="many">"يتم تقييد الوصول إلى الشبكة لـ &lt;font color='#ff0000'>%d&lt;/font> تطبيق"</item>
     </plurals>
+    <plurals name="notification_antivirus_title">
+        <item quantity="other">%d يوم بدون فحص أمني</item>
+        <item quantity="zero">%d يوم بدون فحص أمني</item>
+        <item quantity="one">%d يوم بدون فحص أمني</item>
+        <item quantity="two">%d أيام بدون فحص أمني</item>
+        <item quantity="few">%d أيام بدون فحص أمني</item>
+        <item quantity="many">%d يوم بدون فحص أمني</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">تم استنزاف %2$d%% من البطارية في آخر %1$d دقيقة</item>
         <item quantity="zero">تم استنزاف %2$d%% من البطارية في آخر %1$d دقيقة</item>
@@ -603,6 +855,22 @@
         <item quantity="two">%2$d تطبيقات، بما في ذلك %1$s تستنزف البطارية</item>
         <item quantity="few">%2$d تطبيقات، بما في ذلك %1$s تستنزف البطارية</item>
         <item quantity="many">%2$d تطبيق، بما في ذلك %1$s تستنزف البطارية</item>
+    </plurals>
+    <plurals name="notification_checker_installed_apk_text">
+        <item quantity="other">حذف %d حزم تثبيت</item>
+        <item quantity="zero">حذف %d حزم تثبيت</item>
+        <item quantity="one">حذف %d حزمة تثبيت</item>
+        <item quantity="two">حذف %d حزم تثبيت</item>
+        <item quantity="few">حذف %d حزم تثبيت</item>
+        <item quantity="many">حذف %d حزم تثبيت</item>
+    </plurals>
+    <plurals name="notification_link_cleaner_2006">
+        <item quantity="other">حذف %d APKs غير ضرورية</item>
+        <item quantity="zero">حذف %d APK غير ضرورية</item>
+        <item quantity="one">حذف %d APK غير ضرورية</item>
+        <item quantity="two">حذف %d APKs غير ضرورية</item>
+        <item quantity="few">حذف %d APKs غير ضرورية</item>
+        <item quantity="many">حذف %d APKs غير ضرورية</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d مشكلة في استخدام البطارية</item>
@@ -627,6 +895,14 @@
         <item quantity="two">%d أيام منذ آخر فحص</item>
         <item quantity="few">%d أيام منذ آخر فحص</item>
         <item quantity="many">%d يوم منذ آخر فحص</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">تم قفل %d تطبيق</item>
@@ -844,6 +1120,14 @@
         <item quantity="few">قام بتحميله %1$d أشخاص</item>
         <item quantity="many">قام بتحميله %1$d شخص</item>
     </plurals>
+    <plurals name="power_20s_shutdown">
+        <item quantity="other">سيتم إيقاف تشغيل الجهاز بعد %d ثانية</item>
+        <item quantity="zero">سيتم إيقاف تشغيل الجهاز بعد %d ثانية</item>
+        <item quantity="one">سيتم إيقاف تشغيل الجهاز بعد %d ثانية</item>
+        <item quantity="two">سيتم إيقاف تشغيل الجهاز بعد %d ثواني</item>
+        <item quantity="few">سيتم إيقاف تشغيل الجهاز بعد %d ثواني</item>
+        <item quantity="many">سيتم إيقاف تشغيل الجهاز بعد %d ثانية</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">مرة</item>
         <item quantity="zero">مرة</item>
@@ -883,14 +1167,6 @@
         <item quantity="two">"  دق"</item>
         <item quantity="few">"  دق"</item>
         <item quantity="many">"  دق"</item>
-    </plurals>
-    <plurals name="power_center_battery_health_summary">
-        <item quantity="other">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
-        <item quantity="zero">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
-        <item quantity="one">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
-        <item quantity="two">اشحن جهازك بالكامل لمدة %2$d مرات على الأقل للحصول على إحصائيات دقيقة</item>
-        <item quantity="few">اشحن جهازك بالكامل لمدة %2$d مرات على الأقل للحصول على إحصائيات دقيقة</item>
-        <item quantity="many">اشحن جهازك بالكامل لمدة %2$d مرة على الأقل للحصول على إحصائيات دقيقة</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d س "</item>
@@ -1068,6 +1344,94 @@
         <item quantity="few">%s مرات</item>
         <item quantity="many">%s مرة</item>
     </plurals>
+    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d تطبيق</item>
+        <item quantity="zero">%d تطبيق</item>
+        <item quantity="one">%d تطبيق</item>
+        <item quantity="two">%d تطبيقات</item>
+        <item quantity="few">%d تطبيقات</item>
+        <item quantity="many">%d تطبيق</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">تم منح %d إذن عالي المخاطر</item>
+        <item quantity="zero">تم منح %d إذن عالي المخاطر</item>
+        <item quantity="one">تم منح %d إذن عالي المخاطر</item>
+        <item quantity="two">تم منح %d أذوتات عالية المخاطر</item>
+        <item quantity="few">تم منح %d أذوتات عالية المخاطر</item>
+        <item quantity="many">تم منح %d إذن عالي المخاطر</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">تم العثور على %d تطبيق خطير</item>
+        <item quantity="zero">تم العثور على %d تطبيق خطير</item>
+        <item quantity="one">تم العثور على %d تطبيق خطير</item>
+        <item quantity="two">تم العثور على %d تطبيقات خطيرة</item>
+        <item quantity="few">تم العثور على %d تطبيقات خطيرة</item>
+        <item quantity="many">تم العثور على %d تطبيق خطير</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">تم العثور على %d خطر للكشف عن معلومات الموقع</item>
+        <item quantity="zero">تم العثور على %d خطر للكشف عن معلومات الموقع</item>
+        <item quantity="one">تم العثور على %d خطر للكشف عن معلومات الموقع</item>
+        <item quantity="two">تم العثور على %d مخاطر للكشف عن معلومات الموقع</item>
+        <item quantity="few">تم العثور على %d مخاطر للكشف عن معلومات الموقع</item>
+        <item quantity="many">تم العثور على %d خطر للكشف عن معلومات الموقع</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">تم اكتشاف %d خطر</item>
+        <item quantity="zero">تم اكتشاف %d خطر</item>
+        <item quantity="one">تم اكتشاف %d خطر</item>
+        <item quantity="two">تم اكتشاف %d مخاطر</item>
+        <item quantity="few">تم اكتشاف %d مخاطر</item>
+        <item quantity="many">تم اكتشاف %d خطر</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">تم ايجاد %d خطر محتمل</item>
+        <item quantity="zero">تم ايجاد %d خطر محتمل</item>
+        <item quantity="one">تم ايجاد %d خطر محتمل</item>
+        <item quantity="two">تم ايجاد %d مخاطر محتملة</item>
+        <item quantity="few">تم ايجاد %d مخاطر محتملة</item>
+        <item quantity="many">تم ايجاد %d خطر محتمل</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">قد تحتوي %d صورة على معلومات خاصة أو حساسة</item>
+        <item quantity="zero">قد تحتوي %d صورة على معلومات خاصة أو حساسة</item>
+        <item quantity="one">قد تحتوي %d صورة على معلومات خاصة أو حساسة</item>
+        <item quantity="two">قد تحتوي %d صور على معلومات خاصة أو حساسة</item>
+        <item quantity="few">قد تحتوي %d صور على معلومات خاصة أو حساسة</item>
+        <item quantity="many">قد تحتوي %d صورة على معلومات خاصة أو حساسة</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d ميزة تحمي خصوصيتك متوقفة</item>
+        <item quantity="zero">%d ميزة تحمي خصوصيتك متوقفة</item>
+        <item quantity="one">%d ميزة تحمي خصوصيتك متوقفة</item>
+        <item quantity="two">%d ميزات تحمي خصوصيتك متوقفة</item>
+        <item quantity="few">%d ميزات تحمي خصوصيتك متوقفة</item>
+        <item quantity="many">%d ميزة تحمي خصوصيتك متوقفة</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">تم منح %d إذن حساس</item>
+        <item quantity="zero">تم منح %d إذن حساس</item>
+        <item quantity="one">تم منح %d إذن حساس</item>
+        <item quantity="two">تم منح %d أذونات حساسة</item>
+        <item quantity="few">تم منح %d أذونات حساسة</item>
+        <item quantity="many">تم منح %d إذن حساس</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">إلغاء تثبيت %d تطبيق</item>
+        <item quantity="zero">إلغاء تثبيت %d تطبيق</item>
+        <item quantity="one">إلغاء تثبيت %d تطبيق</item>
+        <item quantity="two">إلغاء تثبيت %d تطبيقات</item>
+        <item quantity="few">إلغاء تثبيت %d تطبيقات</item>
+        <item quantity="many">إلغاء تثبيت %d تطبيق</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">يحتاج %d عنصر إلى حماية أضافية</item>
+        <item quantity="zero">يحتاج %d عنصر إلى حماية أضافية</item>
+        <item quantity="one">يحتاج %d عنصر إلى حماية أضافية</item>
+        <item quantity="two">يحتاج %d عناصر إلى حماية أضافية</item>
+        <item quantity="few">يحتاج %d عناصر إلى حماية أضافية</item>
+        <item quantity="many">يحتاج %d عنصر إلى حماية أضافية</item>
+    </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d مشكل في البطارية</item>
         <item quantity="zero">%d مشكل في البطارية</item>
@@ -1220,6 +1584,14 @@
         <item quantity="few">%1$d عناصر آمنه</item>
         <item quantity="many">%1$d عنصر آمن</item>
     </plurals>
+    <plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>تحديث &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+        <item quantity="zero">&lt;Data>تحديث &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+        <item quantity="one">&lt;Data>تحديث &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+        <item quantity="two">&lt;Data>تحديث &lt;font color=#F22424>%d&lt;/font> تطبيقات&lt;/Data></item>
+        <item quantity="few">&lt;Data>تحديث &lt;font color=#F22424>%d&lt;/font> تطبيقات&lt;/Data></item>
+        <item quantity="many">&lt;Data>تحديث &lt;font color=#F22424>%d&lt;/font> تطبيق&lt;/Data></item>
+    </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">تم حذف %d فيروس</item>
         <item quantity="zero">تم حذف %d فيروس</item>
@@ -1243,6 +1615,22 @@
         <item quantity="two">لم تتم إضافة %d ألعاب</item>
         <item quantity="few">لم تتم إضافة %d ألعاب</item>
         <item quantity="many">لم تتم إضافة %d لعبة</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">قم بتوصيل %s نقطة على الاقل</item>
+        <item quantity="zero">قم بتوصيل %s نقطة على الاقل</item>
+        <item quantity="one">قم بتوصيل %s نقطة على الاقل</item>
+        <item quantity="two">قم بتوصيل %s نقاط على الاقل</item>
+        <item quantity="few">قم بتوصيل %s نقاط على الاقل</item>
+        <item quantity="many">قم بتوصيل %s نقطة على الاقل</item>
+    </plurals>
+    <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">أدخل %s رقم</item>
+        <item quantity="zero">أدخل %s رقم</item>
+        <item quantity="one">أدخل %s رقم</item>
+        <item quantity="two">أدخل %s أرقام</item>
+        <item quantity="few">أدخل %s أرقام</item>
+        <item quantity="many">أدخل %s رقم</item>
     </plurals>
     <plurals name="videobox_settings_manager_apps_count">
         <item quantity="other">%d تطبيق</item>

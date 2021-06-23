@@ -30,15 +30,15 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱٦ بت/عينة</item>
-        <item>۲٤ بت/عينة</item>
-        <item>۱٦ بت/عينة</item>
+        <item>16بت/عينة</item>
+        <item>24 بت/عينة</item>
+        <item>16 بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱٦ بت/عينة</item>
-        <item>۲٤ بت/عينة</item>
-        <item>٣٢ بت/عينة</item>
+        <item>16 بت/عينة</item>
+        <item>24 بت/عينة</item>
+        <item>32 بت/عينة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -64,17 +64,17 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱.٤٤ كيلوهرتز</item>
-        <item>۰.٤۸ كيلوهرتز</item>
-        <item>۸۸.۲ كيلوهرتز</item>
-        <item>۰. ۹٦ كيلوهرتز</item>
+        <item>44.1 كيلوهرتز</item>
+        <item>48.0 كيلوهرتز</item>
+        <item>88.2 كيلوهرتز</item>
+        <item>96.0 كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
-        <item>۱.٤٤ كيلوهرتز</item>
-        <item>۰.٤۸ كيلوهرتز</item>
-        <item>۸۸.۲ كيلوهرتز</item>
-        <item>۰. ۹٦ كيلوهرتز</item>
+        <item>44.1 كيلوهرتز</item>
+        <item>48.0 كيلوهرتز</item>
+        <item>88.2 كيلوهرتز</item>
+        <item>96.0 كيلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -157,13 +157,13 @@
     <string-array name="enable_opengl_traces_entries">
         <item>لا شيء</item>
         <item>Logcat</item>
-        <item>Systrace (رسومات)</item>
+        <item>Systrace (Graphics)</item>
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>‏عدم استخدام التحقق من HDCP مطلقًا</item>
+        <item>‏عدم استخدام التحقق من HDCP مطلقاً</item>
         <item>‏استخدام التحقق من HDCP لمحتوى DRM فقط</item>
-        <item>‏استخدام التحقق من HDCP دومًا</item>
+        <item>‏استخدام التحقق من HDCP دائما</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>عدم التحقق مطلقًا</item>
@@ -221,7 +221,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>متوقف</item>
         <item>إرسم منطقة قصاصة غير مستطيلة بالأزرق</item>
-        <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
+        <item>إبراز أوامر الرسم التي تم اختبارها بالأخضر</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>متوقف</item>
@@ -279,7 +279,7 @@
         <item>غير متصل</item>
         <item>غير ناجح</item>
         <item>محظورة</item>
-        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتاً</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -293,7 +293,7 @@
         <item>غير متصل</item>
         <item>غير ناجح</item>
         <item>محظور</item>
-        <item>يتم تجنب الاتصال الضعيف مؤقتًا</item>
+        <item>يتم تجنب الاتصال الضعيف مؤقتاً</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>

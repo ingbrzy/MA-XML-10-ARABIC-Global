@@ -32,4 +32,12 @@
         <item quantity="few">%d إشعارات في الواجهة الثانية</item>
         <item quantity="many">%d إشعار في الواجهة الثانية</item>
     </plurals>
+    <plurals name="xspace_guide_content">
+        <item quantity="other">يمكنك إنشاء &lt;font color=#0D84FF>%d&lt;/font> &lt;font>تطبيق مزدوج&lt;/font></item>
+        <item quantity="zero">يمكنك إنشاء &lt;font color=#0D84FF>%d&lt;/font> &lt;font> تطبيق مزدوج&lt;/font></item>
+        <item quantity="one">يمكنك إنشاء &lt;font color=#0D84FF>%d&lt;/font> &lt;font> تطبيق مزدوج&lt;/font></item>
+        <item quantity="two">يمكنك إنشاء &lt;font color=#0D84FF>%d&lt;/font> &lt;font> تطبيقات مزدوجة&lt;/font></item>
+        <item quantity="few">يمكنك إنشاء &lt;font color=#0D84FF>%d&lt;/font> &lt;font>تطبيقات مزدوجة&lt;/font></item>
+        <item quantity="many">يمكنك إنشاء &lt;font color=#0D84FF>%d&lt;/font> &lt;font>تطبيق مزدوج&lt;/font></item>
+    </plurals>
 </resources>

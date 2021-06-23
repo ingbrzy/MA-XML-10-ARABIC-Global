@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_capital_off">إيقاف</string>
+    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
+    <string name="abc_search_hint">بحث…</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
+    <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="accessibility_enabled">تم تفعيل إمكانية الوصول.</string>
     <string name="agree">موافق</string>
     <string name="agree_and_next">أوافق</string>
@@ -20,6 +47,8 @@
     <string name="application_permissions">أذونات التطبيق</string>
     <string name="back">رجوع</string>
     <string name="backup_introduction">يمكنك استخدام هذا التطبيق لعمل نسخة احتياطية من العناصر واستعادتها على جهازك.</string>
+    <string name="boot_video_replay">إعادة التشغيل</string>
+    <string name="boot_video_skip">تخطي</string>
     <string name="calculator_introduction">يمكنك استخدام هذا التطبيق للحسابات، وتحويل الوحدات والعملات، وتقدير مدفوعات الرهن العقاري الخاص بك.</string>
     <string name="camera_introduction">يمكنك استخدام الكاميرا لألتقاط الصور وتسجيل فيديوهات قصيرة.</string>
     <string name="carrier_introduction">لتزويدك بخدمات أفضل، قد يرسل جهازك بشكل دوري معلومات إصدار الجهاز وبيانات تعريف الجهاز (بما في ذلك IMEI/IMSI/MSISDN/عنوان MAC/MEID/ICCID)، ومعلومات الموقع التقريبية (بما في ذلك معرف المحطة الأساسية) إلى الناقل عبر Wi-Fi أو شبكة بيانات الهاتف أو الرسائل القصيرة المجانية. تتعهد شركة الاتصالات بتحليل المعلومات ذات الصلة فقط لتحسين جودة الخدمات أو لتوفير خدمات أو تقنيات مخصصة، ولن تكشف عن المعلومات ذات الصلة لأطراف ثالثة بأي شكل يحدد هويتك شخصيًا. يجب أن يسود بيان الناقل المحدد. استشر شركة الاتصالات الخاصة بك بشأن تكلفة استخدام هذه الخدمة.</string>
@@ -32,7 +61,6 @@
     <string name="congratulation_swipe">مرّر لأعلى لدخول إلى النظام</string>
     <string name="congratulation_title">اكتمل التثبيت</string>
     <string name="content_description_complete">اكتمل</string>
-    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">بدء</string>
     <string name="content_introduction">يجمع مركز المحتوى الخدمات والمحتويات من قنوات متعددة. يمكنك هنا قراءة المقالات ومشاهدة مقاطع الفيديو وعرض العناصر المميزة يوميًا وتلقي توصيات المحتوى.</string>
     <string name="continue_to_enable_accessibility">استمر بالضغط باستمرار على إصبعين لتفعيل إمكانية الوصول.</string>
@@ -77,6 +105,7 @@
     <string name="item_contents_wwarning">إذا لم تقم بتعيين قفل للشاشة، فلن تتمكن من منع الآخرين من استخدام جهازك أو الوصول إلى بياناتك إذا فقدته.</string>
     <string name="item_fingerprint">بصمة الإصبع</string>
     <string name="item_lock_screen_password">قفل الشاشة فقط</string>
+    <string name="item_lock_screen_password_only">قفل الشاشة</string>
     <string name="item_return">تعيين</string>
     <string name="item_skip">تخطي</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
@@ -100,6 +129,8 @@
     <string name="move_data_dialog_cancel">إلغاء</string>
     <string name="move_data_dialog_title">يمكنك تقييد اتصال بيانات الهاتف من الإعدادات لاحقاً</string>
     <string name="move_data_dialog_use">استخدام</string>
+    <string name="msim_setting_default_data">بيانات بطاقة SIM</string>
+    <string name="msim_setting_default_voice">بطاقة SIM الافتراضية للمكالمات</string>
     <string name="multisim_settings_category">إعدادات بطاقة SIM</string>
     <string name="multisim_settings_title">تم اكتشاف 2 بطاقات SIM</string>
     <string name="navigation_picker_gesture_guide">دليل الإيماءات</string>
@@ -186,12 +217,16 @@
     <string name="pref_title_voice_slot">بطاقة SIM المفضلة للمكالمات</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="protect_persoanl_info_statement">يجب علينا حماية معلوماتك الشخصية وفقًا للقوانين واللوائح وسياسات الخصوصية ذات الصلة.</string>
+    <string name="provision_back">رجوع</string>
     <string name="provision_inputmethod_policy_description">&lt;Data>عرض &lt;a href=%1$s>سياسة خصوصية&lt;/a > لوحة المفاتيح المحددة.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">سياسة الخصوصية</string>
+    <string name="provision_next">التالي</string>
+    <string name="provision_skip_underline">تخطي</string>
     <string name="recorder_introduction">يمكنك استخدام هذا التطبيق لتسجيل الصوت ونسخ التسجيلات احتياطيا إلى Cloud.</string>
     <string name="require_authority_statement">للسماح لنا بتزويدك بالخدمات الأساسية، تحتاج إلى منح الأذونات التالية حتى نتمكن من جمع معلوماتك الشخصية:</string>
     <string name="require_network_authority_statement">للسماح لنا بتزويدك بالخدمات الأساسية، تحتاج إلى الاتصال بالانترنت ومنح الأذونات التالية حتى نتمكن من جمع معلوماتك الشخصية:</string>
     <string name="screen_recording_introduction">يسمح لك هذا التطبيق بتسجيل كل مايحدث على الشاشة.</string>
+    <string name="search_menu_title">البحث</string>
     <string name="security_introduction">يمكنك استخدام هذا التطبيق لتنظيف المهملات على جهازك، والعثور على فيروسات وتحييدها، وتحسين أداء الألعاب، وتوفير البطارية، وإدارة التطبيقات والأذونات، والمزيد.</string>
     <string name="security_mobile_account_introduction">لتسجيل الدخول أو إدارة حسابات النظام</string>
     <string name="service_agreement">لقد قرأت ووافقت على الشروط والأحكام.</string>
@@ -220,13 +255,14 @@
     <string name="service_policy">&lt;Data>يرجى قراءة والموافقة على &lt;a href=%1$s>سياسة الخصوصية&lt;/a > لدينا.&lt;/Data></string>
     <string name="service_policy_download">&lt;Data>قبل استخدامك لخدماتنا، يرجى قراءة والموافقة على &lt;a href=%1$s>سياسة خصوصية Xunlei&lt;/a >.&lt;/Data></string>
     <string name="service_privacy_index">سياسة الخصوصية</string>
+    <string name="service_security_over_r">&lt;Data>يجب أن تقرأ وتوافق على &lt;a href=%1$s>سياسة الخصوصية&lt;/a > قبل استخدام الحماية.&lt;br/>&lt;br/>وفقًا لمعايير نظام Android 11، ستتم إزالة الإذن الممنوح لمرة واحدة بعد 5 ثواني من إغلاق التطبيق. إذا أعدت فتح التطبيق خلال هذه الفترة القصيرة، فلن تتم إزالة الإذن حتى تقوم بإغلاقه مرة أخرى.&lt;/Data></string>
     <string name="servicestate_title">بيان عن الخدمات الأساسية</string>
     <string name="setting_locale">إعداد المنطقة…</string>
     <string name="shut_down">إيقاف تشغيل</string>
     <string name="sim_card_detecting">التحقق من وجود بطاقة SIM…</string>
     <string name="sim_card_detecting_check">لم يتم العثور على بطاقة SIM. تأكد من تثبيت بطاقة SIM بشكل صحيح، ولديك رصيد كافي.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">السماح بالاتصال بشبكات بيانات الهاتف؟ إذا قمت بذلك، فأنه سيتم استخدام بطاقة SIM التي ادخلتها في الاتصال بشبكات بيانات الهاتف.</string>
-    <string name="sim_card_detecting_title">تحقق من شريحة SIM</string>
+    <string name="sim_card_detecting_title">التحقق من وجود بطاقة SIM…</string>
     <string name="sim_card_detection">قم بتركيب شريحة SIM</string>
     <string name="sim_card_detection_info">لتركيب شريحة SIM ، قم بقراءة الإرشادات المرفقة مع جهازك.</string>
     <string name="sim_card_detection_mobile_not_available">تعذر على بطاقة SIM الاتصال بشبكة</string>
@@ -239,6 +275,7 @@
     <string name="skip_gesture_guide_dialog_title">إيماءات ملء الشاشة</string>
     <string name="skip_underline">تخطي هذه الخطوة</string>
     <string name="start_up_slogan">لك وحدك</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_not_set">غير معين</string>
     <string name="system_navigation_mode">وضع التنقل في النظام</string>
     <string name="terms_of_use">الأحكام والشروط</string>

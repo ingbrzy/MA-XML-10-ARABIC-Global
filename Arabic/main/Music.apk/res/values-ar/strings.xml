@@ -127,6 +127,7 @@
     <string name="back_confirm">انقر مرة اخرى لنقل التطبيق الى الخلفية</string>
     <string name="bluetooth_device">جهاز صوت البلوتوث</string>
     <string name="btn_text_edit">تعديل</string>
+    <string name="btn_text_view_all">عرض الكل</string>
     <string name="buffering">تخزين مؤقت…</string>
     <string name="button_cancel_download">إلغاء</string>
     <string name="button_download_now">تنزيل الآن</string>
@@ -286,7 +287,9 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_queued">في قائمة الاستماع</string>
@@ -374,7 +377,9 @@
     <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
     <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
     <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -396,6 +401,8 @@
     <string name="fail_to_play">لا يمكن تشغيل أغنية</string>
     <string name="failed_not_access_sd_card">السماح بالوصول إلى بطاقة SD أولاً</string>
     <string name="failed_obtain_permissions">تعذر الحصول على الإذونات</string>
+    <string name="failed_to_connect_hint">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
+    <string name="failed_to_connect_text">تعذر الاتصال بالشبكة</string>
     <string name="fans">متابعين</string>
     <string name="fav_login_msg">تسجيل الدخول إلى حساب Mi لتنزيل الأغاني</string>
     <string name="favorite_canceled">تمت الإزالة من المفضلة</string>
@@ -446,6 +453,7 @@
     <string name="high_sound_quality">جودة عالية</string>
     <string name="higher_quality_music">جودة صوت عالية</string>
     <string name="higher_quality_music_summary">تشغيل وتحميل ملفات عالية الجودة</string>
+    <string name="hint_search_songs_playlists_artists">ابحث عن أغاني، قوائم تشغيل، فنانين</string>
     <string name="home_tab_home">الرئيسية</string>
     <string name="home_tab_local">المكتبة</string>
     <string name="home_tab_more_music">مزيد من الأغاني</string>
@@ -467,7 +475,7 @@
     <string name="impunity_declaration_content">يجب أن تقرأ وتوافق على &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=ar_EG\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=ar_EG\">سياسة الخصوصية&lt;/a>قبل استخدام المنتج.</string>
     <string name="impunity_declaration_ignore">عدم الإظهار مرة أخرى</string>
     <string name="impunity_declaration_negative_text">خروج</string>
-    <string name="impunity_declaration_positive_text">موافق</string>
+    <string name="impunity_declaration_positive_text">أوافق</string>
     <string name="impunity_declaration_settings">عرض شروط الخدمة</string>
     <string name="impunity_declaration_summary">عرض \"شروط الخدمة\" في كل مرة يتم تشغيل تطبيق الموسيقى</string>
     <string name="impunity_declaration_title">شروط الخدمة</string>
@@ -520,7 +528,7 @@
     <string name="joox_auth_title_vip_function">ميزات VIP</string>
     <string name="joox_download_title">تنزيلات JOOX</string>
     <string name="joox_privacy_desc">سياسة خصوصية JOOX (اختياري)</string>
-    <string name="joox_privacy_tips_content">يجب عليك قراءة وقبول <a href="/link/click">سياسة خصوصية JOOX</a> قبل استخدام هذه الميزة.</string>
+    <string name="joox_privacy_tips_content">يجب عليك القراءة والموافقة على <a href="/link/click">سياسة خصوصية JOOX</a> قبل استخدام هذه الميزة.</string>
     <string name="joox_privacy_tips_title">سياسة خصوصية JOOX</string>
     <string name="joox_recommend_artist_title">الفنانين الموصى بهم</string>
     <string name="joox_recommend_playlist_title">قوائم التشغيل الموصى بها</string>
@@ -540,6 +548,7 @@
     <string name="loadercontainer_loading">لحظة من فضلك…</string>
     <string name="loading_hint">لحظة من فضلك…</string>
     <string name="loading_reached_the_bottom">هذا كل شيء حتى الآن.</string>
+    <string name="loading_text">لحظة من فضلك…</string>
     <string name="local_header_title">الموسيقى المحلية</string>
     <string name="local_music">الأغاني المحلية</string>
     <string name="local_music_is_not_available">لا يوجد أغاني على جهازك.</string>
@@ -613,6 +622,8 @@
     <string name="my_playlist_create_self_playlist">أنشئ قوائم تشغيل للأغاني المفضلة لديك</string>
     <string name="my_playlist_set_to_private">خاص</string>
     <string name="my_playlist_set_to_public">عام</string>
+    <string name="nav_app_bar_navigate_up_description">التنقل إلى أعلى</string>
+    <string name="nav_app_bar_open_drawer_description">فتح لائحة التنقل</string>
     <string name="network_disable">لا يمكن الاتصال بالشبكة</string>
     <string name="network_error_and_retry">تعذر الاتصال، انقر للمحاولة مجدداً</string>
     <string name="network_request_error">لا يمكن الاتصال بالشبكة</string>
@@ -750,13 +761,12 @@
     <string name="privacy_authorize_revoking">جارٍ إلغاء الترخيص…</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامية)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="privacy_request_desc">"&lt;Data>يحتاج موسيقى Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بخدمات البث عبر الإنترنت. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية لموسيقى Mi في أي وقت من الإعدادات.
 يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام موسيقى Mi.
 أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"مرحبا بك في موسيقى Mi! يقدم لك هذا التطبيق الخدمات التالية:
-
 - مشغل للملفات الصوتية المحلية
-
 - خدمات البث عبر الإنترنت"</string>
     <string name="privacy_request_title">الأحكام والشروط</string>
     <string name="pro_member">عضو PRO</string>
@@ -780,7 +790,7 @@
     <string name="repeat_all_notif">تكرار جميع الاغاني.</string>
     <string name="repeat_current_notif">تكرار الأغنية الحالية.</string>
     <string name="request_overlay_permission_desc">اسمح لموسيقى Mi في إظهار النوافذ المنبثقة لتتمكن من استخدام هذه الخدمة.</string>
-    <string name="request_privacy_permission_title">يجب عليك قراءة وقبول الأحكام والشروط أدناه للوصول إلى جميع الخدمات.</string>
+    <string name="request_privacy_permission_title">يجب عليك القراءة والموافقة على الأحكام والشروط أدناه للوصول إلى جميع الخدمات.</string>
     <string name="request_share_info">لحظة من فضلك…</string>
     <string name="request_subscription_status">لحظة من فضلك…</string>
     <string name="restart_immediate">إعادة تشغيل</string>
@@ -877,8 +887,8 @@
     <string name="sleep_mode_summary">إيقاف المشغل بعد وقت معين</string>
     <string name="sleep_mode_title">مؤقت السكون</string>
     <string name="sliding_pro_center">مرکز PRO</string>
-    <string name="song_already_in_playlist">هذه الأغنية موجودة في قائمة التشغيل مسبقا</string>
-    <string name="song_exist_in_playlist">هذه الأغنية موجودة مسبقا في قائمة الأغاني</string>
+    <string name="song_already_in_playlist">هذه الأغنية موجودة مسبقا</string>
+    <string name="song_exist_in_playlist">هذه الأغنية موجودة مسبقا</string>
     <string name="song_info">تفاصيل الأغنية</string>
     <string name="song_is_added_to_playlist">تم الإضافة الى قائمة التشغيل</string>
     <string name="song_is_empty">لا يمكن أن يكون اسم الأغنية فارغاً.</string>
@@ -896,6 +906,7 @@
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">تشغيل</string>
     <string name="start_update">جارٍ تثبيت اصدار جديد…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
@@ -993,6 +1004,7 @@
     <string name="upload_playlist_to_hungama_title">مزامنة الأغاني عبر الإنترنت إلى Hungama والوصول إليها من أي جهاز قمت بتسجيل الدخول منه إلى حساب Mi.</string>
     <string name="upload_playlist_to_hungama_toast">سيتم مزامنة الأغاني عبر الإنترنت إلى Hungama</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="user_playlist_plaza">قوائم التشغيل</string>
     <string name="user_privacy_dialog_negative_text">إلغاء</string>
     <string name="user_privacy_dialog_positive_count_down_text">سحب (%s ث)</string>

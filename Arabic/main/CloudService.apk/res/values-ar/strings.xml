@@ -112,12 +112,17 @@
     <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">تحقق من اتصال البيانات ثم حاول مرة أخرى.</string>
     <string name="find_device_error_server">خطأ في الخادم</string>
     <string name="find_device_gdpr_prompt">بتمكين ميزة البحث عن الأجهزة، فإنك توافق على <a href="app://com.miui.cloudservice.gdpr.license"><u>سياسة الخصوصية</u></a>. لإلغاء الترخيص، قم بتعطيل هذه الميزة.</string>
     <string name="find_device_operation_failure_rpc">تعذر أداء العملية بسبب خطأ في RPC.</string>
     <string name="find_device_send_sms_alert">إذا قمت بتبديل بطاقات SIM، فسيتم إرسال رسالة SMS أخرى تلقائياً لتفعيل هذة الميزة.</string>
     <string name="find_device_service_title">العثور على الجهاز</string>
+    <string name="find_device_status_summary">تحديد موقع جهازك وقفلة ومحو جميع البيانات عن بُعد</string>
+    <string name="find_device_status_title_pad">العثور على الجهاز</string>
+    <string name="find_device_status_title_phone">العثور على الجهاز</string>
     <string name="finddevice_miservice_notification_content">قفل الجهاز عن بعد إذا فقدتة</string>
     <string name="finddevice_miservice_notification_title">تشعيل العثور على الجهاز</string>
     <string name="forget_password"><u>نسيت كلمة المرور</u></string>
@@ -175,6 +180,8 @@
     <string name="loading">لحظة من فضلك…</string>
     <string name="loading_enable_keybag">جارٍ تشغيل مدير كلمات المرور…</string>
     <string name="loading_server_key_info">جارٍ تحميل العناصرȂ</string>
+    <string name="low_battery_locate_summary">الإبلاغ عن معلومات الموقع تلقائيًا عندما تكون البطارية منخفضة</string>
+    <string name="low_battery_locate_title">تحديد الموقع قبل نفاد البطارية</string>
     <string name="master_alert_notif_content">نسخ احتياطي للعناصر بانتظام لتجنب فقدان أي شيء مهم.</string>
     <string name="master_alert_notif_title">تشغيل Xiaomi Cloud</string>
     <string name="member_entrance_title_free_high_case_a">احصل على مساحة تخزين إضافية</string>
@@ -271,20 +278,24 @@
     <string name="micloud_find_device_guide_noti_content">قم بحماية بياناتك عند فقدان الجهاز</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">بيانات QQ الخاصة بك ستكون آمنة حتى لو فقدت جهازك</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">بيانات WeChat الخاصة بك ستكون آمنة حتى لو فقدت جهازك</string>
-    <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">بيانات Alipay الخاصة بك ستكون آمنة حتى لو فقدت جهازك</string>
+    <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">بياناتك في Alipay ستكون آمنة حتى لو فقدت جهازك</string>
     <string name="micloud_find_device_guide_noti_title">تشعيل العثور على الجهاز</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ ينصح بتشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat ينصح بتشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay ينصح بتشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_guide_progress">جارٍ تشغيل العثور على الجهاز…</string>
+    <string name="micloud_find_device_guide_title">سجل الدخول إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> بإستخدام حساب Mi لتحديد موقع الجهاز المفقود أو قفلة أو محو البيانات عن بُعد. لمزيد من التفاصيل &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>انقر هنا&lt;/a>.</string>
     <string name="micloud_find_device_open_fail">تعذر تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_opened">العثور على الجهاز يعمل</string>
     <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">سيتم إرسال رسالة SMS لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم على هذه الرسالة. عند استبدالك بطاقة SIM، سيتم إرسال رسالة تلقائيا لإعادة تفعيل هذه الميزة.</string>
     <string name="micloud_find_device_verify_button">إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_close">إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_fail">تعذر إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_progress">جارٍ إعادة تفعيل العثور على الجهاز…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">تم إلغاء المزامنة. إعد المحاولة.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخ الشاشة الرئيسية احتياطياََ</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">إعدادات النظام وتنسيق الشاشة الرئيسية</string>
@@ -478,6 +489,9 @@
     <string name="picker_list_empty">لا توجد جهات اتصال هنا</string>
     <string name="picker_search_empty">تعذر العثور على جهات اتصال</string>
     <string name="picker_search_hint">بحث</string>
+    <string name="power_off_locate_summary">"الإبلاغ عن معلومات الموقع تلقائيًا عند الضغط مطولا على زر الطاقة.
+قد يفشل تحديد الموقع إذا كان اتصال الشبكة ضعيف."</string>
+    <string name="power_off_locate_title">تحديد الموقع قبل اغلاق الجهاز</string>
     <string name="pre_privacy_policy">سياسة الخصوصية</string>
     <string name="pre_user_agreement">اتفاقية المستخدم</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">مزامنة صور الملف الشخصي لجهات الاتصال فقط عند الاتصال بشبكة Wi-Fi</string>

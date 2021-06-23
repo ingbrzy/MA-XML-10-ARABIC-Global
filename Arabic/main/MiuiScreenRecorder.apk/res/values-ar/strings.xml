@@ -31,7 +31,7 @@
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
     <string name="app_name">مسجل الشاشة</string>
-    <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
+    <string name="app_notification_channel_record_complete">إشعارات للتسجيلات المكتملة</string>
     <string name="app_notification_info">مسجل الشاشة يعمل في الخلفية</string>
     <string name="app_notification_record_complete">"تم حفظ تسجيل الشاشة في المعرض
 انقر للعرض"</string>
@@ -316,6 +316,7 @@
     <string name="using_record_confirm_ok">السماح</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="view_recorded_file">انقر لعرض الملف المسجل</string>
     <string name="warning_recording_when_a2dp_connect">لا يدعم جهازك تسجيل أصوات النظام عند توصيل سماعة رأس بلوتوث.</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>

@@ -1301,8 +1301,6 @@
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
     <string name="passport_wrong_voice">الرمز الذي أدخلته غير صحيح</string>
     <string name="password">كلمة المرور</string>
-    <string name="pay_failed_toast">تعذر إتمام عملية الدفع</string>
-    <string name="pay_success_toast">تم الدفع بنجاح</string>
     <string name="per_month">كل شهر</string>
     <string name="permission_agree_service">لقد قرأت ووافقت على جميع البنود والشروط.</string>
     <string name="permission_alert_window">لاستخدام هذه الميزة، اسمح بعرض النوافذ المنبثقة من الإعدادات.</string>
@@ -1740,7 +1738,7 @@
     <string name="sign_in_to" formatted="false">تسجيل الدخول إلى %s1 \"%s2\"</string>
     <string name="sign_out">تسجيل الخروج</string>
     <string name="skip">تخطي</string>
-    <string name="skip_current_version">تخطي هذه النسخة</string>
+    <string name="skip_current_version">تخطي هذا الإصدار</string>
     <string name="sku_price_everymonth">%1$s كل شهر</string>
     <string name="sms_send_success">تم الإرسال بنجاح</string>
     <string name="snapshot">محلي</string>

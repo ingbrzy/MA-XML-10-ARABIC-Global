@@ -128,6 +128,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
@@ -246,13 +247,13 @@
     <string name="diagnosis_log_sent_format">"تم إرسال السجلات بنجاح.
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
-    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
-    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
-    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
-    <string name="dialog_privacy_change_title">Privacy Policy update</string>
+    <string name="dialog_disagree_privacychange_info">لن تتمكن من استخدام خدمات البث عبر الإنترنت إذا اخترت عدم الموافقة على سياسة الخصوصية. انقر فوق \"إلغاء\" للعودة إلى صفحة ترخيص الخصوصية أو \"لا أوافق\" للمتابعة واستخدام الميزات المحلية فقط في فيديو Mi.</string>
+    <string name="dialog_disagree_privacychange_title">هل أنت متأكد أنك لا توافق؟</string>
+    <string name="dialog_privacy_change_info">نظرًا للتغييرات في الخدمات التي نقدمها لك، قمنا بتحديث سياسة خصوصية فيديو Mi. لمعرفة حقوقك كمستخدم وطرق استخدامنا لبياناتك، يرجى قراءة والموافقة على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> قبل استخدام هذا التطبيق.</string>
+    <string name="dialog_privacy_change_title">تحديث سياسة الخصوصية</string>
     <string name="dialog_privacy_info_new2">لتتمكن من استخدام خدماته، يجب أن توافق على أن %1$s سيقوم بجمع معلوماتك الشخصية ومعالجتها واستخدامها. بالنقر على \"أوافق\" يعني أنك قد قرأت ووافقت على &lt;a href=%2$s> سياسة الخصوصية&lt;/a>أدناة.</string>
     <string name="dialog_privacy_info_new3">لإستخدام هذه الخدمة، اسمح لتطبيق %1$s بجمع معلوماتك الشخصية ومعالجتها واستخدامها وفقًا لسياسة الخصوصية. بالنقر على أوافق أدناه، فأنك توافق على &lt;a href=%2$s>سياسة الخصوصية&lt;/a>و&lt;a href=%3$s>اتفاقية المستخدم&lt;/a> الخاصة بشركة Xiaomi.&lt;br/>&lt;br/>يؤدي النقر على أوافق أيضًا إلى منح فيديو Mi الوصول إلى قائمة التطبيقات المثبتة على جهازك. ومن خلال هذا الإذن، سيتمكن فيديو Mi من مشاركة العناصر ومعرفة ما إذا كان التطبيق مثبتًا على جهازك وما هو إصدار التطبيق المثبت وما إذا كان التطبيق آمنًا.</string>
-    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_info_new4">مرحبا بك في فيديو Mi! يوفر لك هذا التطبيق الخدمات التالية:&lt;br>&lt;/br> - خدمات البث عبر الإنترنت&lt;br>&lt;/br>- مشغل فيديوهات على الجهاز&lt;br>&lt;/br>يحتاج فيديو Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في سياسة الخصوصية. يمكنك تغيير الإعدادات ذات الصلة في أي وقت من الإعدادات > كلمات المرور والحماية.&lt;br>&lt;/br>يرجى قراءة والموافقة على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> قبل استخدام فيديو Mi.</string>
     <string name="dialog_privacy_revoke_cancel">إلغاء</string>
     <string name="dialog_privacy_revoke_count_down">سحب (%1$d ث)</string>
     <string name="dialog_privacy_revoke_description">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية فيديو Mi، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. سحب موافقتك على سياسة الخصوصية هذه هو رفض لقبول خدمات التطبيق التي تعمل على أساس جمع البيانات.</string>
@@ -260,10 +261,10 @@
     <string name="dialog_privacy_revoke_ok">سحب الموافقة</string>
     <string name="dialog_privacy_revoke_success">تم سحب الموافقة بنجاح</string>
     <string name="dialog_privacy_revoking">جارٍ سحب الموافقة…</string>
-    <string name="dialog_privacy_title">Terms and conditions</string>
+    <string name="dialog_privacy_title">الأحكام والشروط</string>
     <string name="dialog_revoke_privacy_info_new2">بعد إلغاء الترخيص، سيتوقف التطبيق عن جمع البيانات، وستتم إزالة كافة البيانات ذات الصلة من الخوادم. قد يؤدي هذا إلى عمل التطبيق بشكل غير طبيعي. إلغاء التصريح على إية حال؟</string>
     <string name="dialog_revoke_privacy_title">إلغاء الترخيص</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="disagree">لا أوافق</string>
     <string name="diy_channels_tips">يمكنك تخصيص قائمة القنوات الخاصة بك الآن.</string>
     <string name="do_not_show_again">لا تظهر مرة اخرى</string>
     <string name="download">تنزيل</string>
@@ -1121,7 +1122,7 @@
     <string name="service_error">خطأ في الخادم</string>
     <string name="set_success">تم التغيير بنجاح</string>
     <string name="share">مشاركة</string>
-    <string name="share_fail">لا يمكن المشاركة. تحقق من اتصال الشبكة ثم حاول مجددا.</string>
+    <string name="share_fail">تعذر المشاركة. تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
     <string name="share_success">تمت المشاركة بنجاح</string>
     <string name="share_ugc_waitting">جارٍ إنشاء الرابط…</string>
     <string name="show_the_location">أنواع الإشعارات</string>
