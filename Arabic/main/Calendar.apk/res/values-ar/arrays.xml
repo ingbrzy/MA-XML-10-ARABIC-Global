@@ -87,10 +87,6 @@
         <item>هذا الحدث والأحداث المستقبلية</item>
         <item>كل الأحداث</item>
     </string-array>
-    <string-array name="english_premium_league">
-        <item>٤</item>
-        <item>@string/english_premium_league</item>
-    </string-array>
     <string-array name="gemini_info">
         <item>gemini</item>
         <item>برج الجوزاء</item>
