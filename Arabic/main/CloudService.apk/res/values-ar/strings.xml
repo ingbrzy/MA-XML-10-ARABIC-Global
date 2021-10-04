@@ -29,11 +29,14 @@
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="access_denied">الوصول مرفوض</string>
     <string name="account_related">جهازك مرتبط بحساب Mi مسبق (%s). اتصل بالشبكة للتحقق من الجهاز.</string>
+    <string name="actionbar_button_up_description">رجوع</string>
     <string name="activate_find_device_success">تم تفعيل العثور على الجهاز.</string>
     <string name="activate_finddevice">اتصل بالشبكة لتفعيل الجهاز</string>
     <string name="activating">جارٍ التفعيل…</string>
     <string name="add_short_cut">إضافة</string>
     <string name="added_successfully">تمت الاضافة بنجاح</string>
+    <string name="afternoon">بعد الظهر</string>
+    <string name="am">ص</string>
     <string name="antispam_sync">إعدادات عدم الإزعاج</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">حساب أو كلمة المرور غير صحيحة</string>
@@ -42,7 +45,9 @@
     <string name="calendar_sync">التقويم</string>
     <string name="check_contact">إضافة</string>
     <string name="choose_contact_title">جهات الاتصال</string>
+    <string name="clearable_edittext_clear_description">مسح</string>
     <string name="click_to_enabled">المس للمزامنة.</string>
+    <string name="close">إغلاق</string>
     <string name="close_shortcut">إغلاق</string>
     <string name="cloud_find_device">العثور على الجهاز</string>
     <string name="cloud_find_device_off">متوقف</string>
@@ -82,13 +87,28 @@
     <string name="data_merge_dialog_loading">جارٍ التحقق من البيانات…</string>
     <string name="data_merge_dialog_title">دمج العناصر</string>
     <string name="data_protection_title">حماية البيانات</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="detect_sim_card">البحث عن بطاقة SIM</string>
-    <string name="disable_find_device_error">\"يتعذر إيقاف تشغيل العثور على الجهاز.\"%1$s</string>
+    <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
+    <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"First activation is registered when a device connects to the network (including but not limited to WLAN and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">Not supported on this device</string>
+    <string name="device_activation_card_local_service_error">"Couldn't get info. Wait a minute or two and try again."</string>
+    <string name="device_activation_card_no_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="device_activation_card_title">First activation</string>
+    <string name="device_activation_page_title">Device activation</string>
     <string name="do_not_merge">إلغاء</string>
-    <string name="enable_find_device_error">\"يتعذر تشغيل العثور على الجهاز.\"%1$s</string>
+    <string name="early_morning">فجر</string>
+    <string name="empty" />
     <string name="enable_find_device_success">العثور على الجهاز يعمل.</string>
     <string name="enable_micloud">تسجيل الدخول باستخدام Xiaomi Cloud</string>
     <string name="enable_sync_setting_title">جارٍ إعداد خدمات Cloud…</string>
+    <string name="eras_ad">بعد الميلاد</string>
+    <string name="eras_bc">قبل الميلاد</string>
     <string name="error_canceled">تم الإلغاء</string>
     <string name="error_credential_fail">خطأ في رمز المرور</string>
     <string name="error_data_in_transfer">ستنتهي المزامنة في %s ساعة.</string>
@@ -108,23 +128,80 @@
     <string name="error_token_expired">سجل الدخول لحساب Mi مجددا</string>
     <string name="error_unknown">لا يمكن تسجيل الدخول</string>
     <string name="error_unsupported">هذه الميزة غير مدعومة في هذا الجهاز</string>
+    <string name="evening">عصر</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
-    <string name="find_device_error_network">تحقق من اتصال البيانات ثم حاول مرة أخرى.</string>
-    <string name="find_device_error_server">خطأ في الخادم</string>
-    <string name="find_device_gdpr_prompt">بتمكين ميزة البحث عن الأجهزة، فإنك توافق على <a href="app://com.miui.cloudservice.gdpr.license"><u>سياسة الخصوصية</u></a>. لإلغاء الترخيص، قم بتعطيل هذه الميزة.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
+    <string name="find_device_gdpr_prompt">بتمكين ميزة العثور على الجهاز، فإنك توافق على <a href="app://com.miui.cloudservice.gdpr.license"><u>سياسة الخصوصية</u></a>. لإلغاء الترخيص، قم بتعطيل هذه الميزة.</string>
     <string name="find_device_operation_failure_rpc">تعذر أداء العملية بسبب خطأ في RPC.</string>
     <string name="find_device_send_sms_alert">إذا قمت بتبديل بطاقات SIM، فسيتم إرسال رسالة SMS أخرى تلقائياً لتفعيل هذة الميزة.</string>
     <string name="find_device_service_title">العثور على الجهاز</string>
-    <string name="find_device_status_summary">تحديد موقع جهازك وقفلة ومحو جميع البيانات عن بُعد</string>
+    <string name="find_device_status_summary">تحديد موقع الجهاز المفقود وقفلة أو وضع علامة مفقود عليه أو محو البيانات أو التقاط صور عن بعد</string>
     <string name="find_device_status_title_pad">العثور على الجهاز</string>
     <string name="find_device_status_title_phone">العثور على الجهاز</string>
     <string name="finddevice_miservice_notification_content">قفل الجهاز عن بعد إذا فقدتة</string>
     <string name="finddevice_miservice_notification_title">تشعيل العثور على الجهاز</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM، yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM، yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'ساعة'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_24hour">"H 'ساعة'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'مللي ثانية'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>نسيت كلمة المرور</u></string>
+    <string name="friday">الجمعة</string>
+    <string name="friday_short">الجمعة</string>
+    <string name="friday_shortest">الجمعة</string>
     <string name="help_and_feedback">المساعدة والتعليقات</string>
+    <string name="hybrid_provider">مدعوم بواسطة %1$s</string>
     <string name="i_know">موافق</string>
     <string name="input_password_hint">أدخل كلمة المرور</string>
     <string name="internet_access_dspt">يحتاج هذا التطبيق للاتصال بالانترنت ليعمل بشكل طبيعي.</string>
@@ -160,6 +237,7 @@
     <string name="ks_fingerprint_status">حالة الدفع</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_high_precise_position">high precise position</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
@@ -205,12 +283,9 @@
     <string name="mi_drive_summary">احصل على جميع مستنداتك من Xiaomi Cloud على جميع أجهزتك</string>
     <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">موافق</string>
-    <string name="micloud_all_sub_1_intl_sms">سيتم أرسال رسالة نصية دولية قصيرة لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-    <string name="micloud_all_sub_1_sms">سيتم أرسال رسالة نصية قصيرة عادية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">سيتم ارسال ٢ رسالة نصية (عادية و دولية) لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-    <string name="micloud_all_sub_2_intl_sms">سيتم ارسال ٢ رسالة نصية دولية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-    <string name="micloud_all_sub_2_sms">سيتم ارسال ٢ رسالة نصية لتفعيل بطاقة SIM الخاصة بك. ستفرض عليك شركة الاتصالات رسوما إضافية.</string>
-    <string name="micloud_all_sub_resend_sms">عند تشغيل \"العثور على الجهاز\"، قد يتم ارسال رسالة نصية قصيرة للتفعيل بعد قيامك بتبديل بطاقات SIM.</string>
+    <string name="micloud_all_sub_resend_common_sms_with_charge_hint">سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائيا لتفعيل هذه خدمة العثور على الجهاز وخدمات Xiaomi Cloud.&lt;br/> إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br/>ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.</string>
+    <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائيا لتفعيل هذه خدمة العثور على الجهاز وخدمات Xiaomi Cloud.&lt;br/> إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br/>ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.</string>
+    <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائيا لتفعيل هذه خدمة العثور على الجهاز وخدمات Xiaomi Cloud.&lt;br/> إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br/>ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.</string>
     <string name="micloud_battery_low_notification_message">قم بتوصيل الشاحن للمزامنة</string>
     <string name="micloud_battery_low_notification_title">البطارية منخفضة</string>
     <string name="micloud_buy_member_safe">احصل على المزيد من مساحة Cloud</string>
@@ -246,20 +321,18 @@
     <string name="micloud_confusion_yes">نعم</string>
     <string name="micloud_detail_fail">لا يمكن المزامنة</string>
     <string name="micloud_detail_query_error">لا يمكن الحصول على حالة المزامنة</string>
-    <string name="micloud_dspt">"مزامنة جهات الاتصال وسجل المكالمات والعناصر الأخرى الخاصة بك عبر جميع الأجهزة.
-تحديد موقع جهازك وقفلة في حالة فقده."</string>
     <string name="micloud_dspt_provision">استخدم Xiaomi Cloud لمزامنة البيانات والعثور على الجهاز ومشاركة الأشياء مع الأصدقاء.</string>
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_china_v2">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_v2">استخدم Xiaomi Cloud لمزامنة البيانات والعثور على جهازك ومشاركة الأشياء مع الأصدقاء.</string>
-    <string name="micloud_dspt_provision_xms">استخدم Xiaomi Cloud لمزامنة البيانات.</string>
-    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">بعد إيقاف تشغيل \"العثور على الجهاز\"، لن تتمكن من العثور على جهازك باستخدام هذه الميزة. إذا كان جهازك يدعم ميزة NFC، فستتم إزالة جميع البطاقات المصرفية والبطاقات الأساسية من دفع Mi. لن يتمكن الأشخاص الذين تشارك الموقع معهم من تلقي تحديثات حول مكان وجودك أيضًا.</string>
+    <string name="micloud_find_device_close_alert_content">بعد إيقاف تشغيل \"العثور على الجهاز\"، لن تتمكن من العثور على جهازك باستخدام هذه الميزة. لن يتمكن الأشخاص الذين تشارك الموقع معهم من تلقي تحديثات حول مكان وجودك أيضًا.</string>
     <string name="micloud_find_device_close_alert_negtive">إيقاف التشغيل</string>
     <string name="micloud_find_device_close_alert_positive">تشغيل</string>
     <string name="micloud_find_device_close_alert_title">إيقاف تشغيل العثور على الجهاز؟</string>
     <string name="micloud_find_device_close_fail">تعذر إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_close_progress">جارٍ إيقاف تشغيل العثور على الجهاز…</string>
+    <string name="micloud_find_device_common_sms_alert_with_charge_hint">سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائيا لتفعيل هذه الخدمة.&lt;br/>إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br/>ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.</string>
+    <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائيا لتفعيل هذه الخدمة.&lt;br/> إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل الخدمة.&lt;br/>ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.</string>
     <string name="micloud_find_device_finish">تم</string>
     <string name="micloud_find_device_guide_alert_content">العثور على الجهاز مرتبط بحساب Mi. يجب تعيين كلمة مرور أو إدخال كلمة المرور التي قمت بتعيينها. تأكد من تذكر معرف الحساب وكلمة المرور حساب Mi.</string>
     <string name="micloud_find_device_guide_alert_negtive">لا شكراً</string>
@@ -270,9 +343,6 @@
     <string name="micloud_find_device_guide_desc_pad">إذا فقدت جهازك، قم بتسجيل الدخول إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> على أي جهاز آخر لتحديد موقع الجهاز المفقود أو قفلة أو محو البيانات داخله. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>عرض التفاصيل&lt;/a>.</string>
     <string name="micloud_find_device_guide_desc_phone">إذا فقدت جهازك، قم بتسجيل الدخول إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> على أي جهاز آخر لتحديد موقع الجهاز المفقود أو قفلة أو محو البيانات داخله. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>عرض التفاصيل&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">يمكنك تشغيل العثور على الجهاز في حساب Mi - Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_fail_sub_net">تحقق من شبكة الاتصال و حاول مرة أخرى.</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">مزامنة جهات الاتصال، صور، ملاحظات، والمزيد مع Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_micloud_sub_content_v2">مزامنة جهات الاتصال والصور والملاحظات والمزيد مع Xiaomi Cloud</string>
     <string name="micloud_find_device_guide_noti_content">قم بحماية بياناتك عند فقدان الجهاز</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">بيانات QQ الخاصة بك ستكون آمنة حتى لو فقدت جهازك</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">بيانات WeChat الخاصة بك ستكون آمنة حتى لو فقدت جهازك</string>
@@ -282,32 +352,32 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat ينصح بتشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay ينصح بتشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_guide_progress">جارٍ تشغيل العثور على الجهاز…</string>
-    <string name="micloud_find_device_guide_title">سجل الدخول إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> بإستخدام حساب Mi لتحديد موقع الجهاز المفقود أو قفلة أو محو البيانات عن بُعد. لمزيد من التفاصيل &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>انقر هنا&lt;/a>.</string>
+    <string name="micloud_find_device_guide_title">سجل الدخول إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> بإستخدام حساب Mi لتحديد موقع الجهاز المفقود أو قفلة أو محو البيانات عن بعد. لمزيد من التفاصيل &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>انقر هنا&lt;/a>.</string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائيا لتفعيل هذه الخدمة.&lt;br/> إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br/>ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.</string>
     <string name="micloud_find_device_open_fail">تعذر تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_opened">العثور على الجهاز يعمل</string>
     <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
-    <string name="micloud_find_device_sms_alert">سيتم إرسال رسالة SMS لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم على هذه الرسالة. عند استبدالك بطاقة SIM، سيتم إرسال رسالة تلقائيا لإعادة تفعيل هذه الميزة.</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_close">إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_fail">تعذر إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_progress">جارٍ إعادة تفعيل العثور على الجهاز…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">تم إلغاء المزامنة. إعد المحاولة.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخ الشاشة الرئيسية احتياطياََ</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">إعدادات النظام وتنسيق الشاشة الرئيسية</string>
     <string name="micloud_main_head_menu_finddevice_summary">ابحث عن جهازك وأقفله</string>
-    <string name="micloud_main_head_menu_finddevice_unavailable">\"العثور على الجهاز\" غير متوفر في الواجهة الثانية، يمكنك استخدام هذه الميزة في الواجهة الاولى.</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">\"العثور على الجهاز\" غير متوفر في الواجهة الثانية. يمكنك استخدام هذه الميزة في الواجهة الاولى.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">استعادة العناصر المحذوفة</string>
     <string name="micloud_main_head_menu_recycle_bin_title">العناصر المحذوفة</string>
     <string name="micloud_main_head_menu_state_close">متوقف</string>
     <string name="micloud_main_head_menu_state_open">مشغل</string>
     <string name="micloud_main_head_menu_state_unavailable">غير مدعوم</string>
     <string name="micloud_main_manual_sync">المزامنة يدوياً</string>
-    <string name="micloud_main_memory_low_title">سعة التخزين الداخلية للهاتف تقريباً ممتلئة</string>
     <string name="micloud_main_network_error">يتعذر الاتصال بالشبكة</string>
     <string name="micloud_main_sync_mode_summary">مزامنة البيانات في الوقت الحقيقي. هذه الميزة سوف تزيد من استهلاك الطاقة.</string>
     <string name="micloud_main_sync_mode_title">مزامنة سريعة</string>
-    <string name="micloud_main_wait_charge">قم بشحن جهازك بالكامل لإستئناف المزامنة.</string>
-    <string name="micloud_main_wait_charge_sleep">اطفئ الشاشة واشحن الجهاز بالكامل لإستئناف المزامنة.</string>
     <string name="micloud_manage_space_data">إدارة بيانات Cloud</string>
     <string name="micloud_manaul_sync_success_button_text">عرض التفاصيل</string>
     <string name="micloud_manaul_sync_success_time_prefix">آخر مزامنة: %s</string>
@@ -326,7 +396,9 @@
     <string name="micloud_manual_grant_permission">السماح</string>
     <string name="micloud_manual_local_storage_low_button_text">تنظيف</string>
     <string name="micloud_manual_local_storage_low_summary">قم بتفريغ مساحة التخزين وإعادة المحاولة.</string>
+    <string name="micloud_manual_local_storage_low_summary_pad">قم بتفريغ مساحة التخزين وإعادة المحاولة.</string>
     <string name="micloud_manual_local_storage_low_title">لا يمكن المزامنة. ليس هناك مساحة تخزين كافية على جهازك.</string>
+    <string name="micloud_manual_local_storage_low_title_pad">لا يمكن المزامنة. ليس هناك مساحة تخزين كافية على جهازك.</string>
     <string name="micloud_manual_network_disconnet_button_text">تحقق من إعدادات الشبكة</string>
     <string name="micloud_manual_network_disconnet_title">لا يمكن المزامنة بسبب خطأ ما في الشبكة</string>
     <string name="micloud_manual_paused">متوقفة</string>
@@ -371,7 +443,7 @@
     <string name="micloud_privacy_cloud_off">المزامنة متوقفة</string>
     <string name="micloud_privacy_cloud_sync">تشغيل خدمات Xiaomi Cloud</string>
     <string name="micloud_privacy_explanation">منح الترخيص لتشغيل خدمات Xiaomi Cloud</string>
-    <string name="micloud_privacy_licence_agreed">قبول سياسة خصوصية &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Xiaomi Cloud&lt;/u>&lt;/a>.</string>
+    <string name="micloud_privacy_licence_agreed">أوافق على سياسة خصوصية &lt;a href=app://com.miui.cloudservice.gdpr.license>&lt;u>Xiaomi Cloud&lt;/u>&lt;/a>.</string>
     <string name="micloud_privacy_licence_privacy_policy">سياسة الخصوصية</string>
     <string name="micloud_privacy_progress_content">جارٍ منح الترخيص…</string>
     <string name="micloud_privacy_warning_button">رجوع</string>
@@ -380,6 +452,10 @@
     <string name="micloud_proceed">متابعة</string>
     <string name="micloud_request_permission_confirm">متابعة</string>
     <string name="micloud_request_permission_content">لتتمكن من مزامنة أحداث التقويم وجهات الاتصال والرسائل وسجل المكالمات والصور ومقاطع الفيديو والعناصر الأخرى، يحتاج Xiaomi Cloud أذونات الوصول إلى التقويم وجهات الاتصال والحسابات وحالة بطاقة SIM وسجل المكالمات والرسائل والصور والفيديوهات</string>
+    <string name="micloud_request_permission_content_pad">لتتمكن من مزامنة أحداث التقويم وجهات الاتصال والرسائل والصور ومقاطع الفيديو والعناصر الأخرى، يحتاج Xiaomi Cloud أذونات الوصول إلى التقويم وجهات الاتصال والحسابات وحالة بطاقة SIM والرسائل والصور والفيديوهات</string>
+    <string name="micloud_request_permission_content_pad_without_contact_but_sim">لتتمكن من مزامنة أحداث التقويم والرسائل والصور ومقاطع الفيديو والعناصر الأخرى، يحتاج Xiaomi Cloud أذونات الوصول إلى التقويم والحسابات وحالة بطاقة SIM والرسائل والصور والفيديوهات</string>
+    <string name="micloud_request_permission_content_pad_without_sim_but_contact">لتتمكن من مزامنة أحداث التقويم وجهات الاتصال والصور ومقاطع الفيديو والعناصر الأخرى، يحتاج Xiaomi Cloud أذونات الوصول إلى التقويم وجهات الاتصال والحسابات والصور والفيديوهات</string>
+    <string name="micloud_request_permission_content_pad_without_sim_or_contact">لتتمكن من مزامنة أحداث التقويم والصور ومقاطع الفيديو والعناصر الأخرى، يحتاج Xiaomi Cloud أذونات الوصول إلى التقويم والحسابات والصور والفيديوهات</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud يحتاج الى أذونات</string>
     <string name="micloud_request_sync_too_frequent">طلبات كثيرة جدا. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="micloud_setting_antispam_summary">الاستثناءات وأرقام الهاتف المحظورة</string>
@@ -413,11 +489,13 @@
     <string name="micloud_storage_unit_gb">%s ج.ب</string>
     <string name="micloud_storage_unit_mb">%s م.ب</string>
     <string name="micloud_sync_alert_dialog_message">قم بمزامنة صورك، جهات الاتصال، الملاحظات والمزيد عبر جميع أجهزتك.</string>
+    <string name="micloud_sync_alert_dialog_message_pad">مزامنة الصور والملاحظات والمزيد عبر كل أجهزتك.</string>
     <string name="micloud_sync_alert_dialog_message_v2">قم بمزامنة صورك وجهات اتصالك وملاحظاتك والمزيد عبر جميع أجهزتك.</string>
     <string name="micloud_sync_alert_dialog_negative">إلغاء</string>
     <string name="micloud_sync_alert_dialog_positive">موافق</string>
     <string name="micloud_sync_alert_dialog_title">استخدام Xiaomi Cloud</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">ستتم مزامنة جهات الاتصال وأحداث التقويم والملاحظات فقط. لمزامنة العناصر الأخرى، انتقل إلى إعدادات Xiaomi Cloud.</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync_pad">ستتم مزامنة أحداث التقويم والملاحظات فقط. لمزامنة العناصر الأخرى، انتقل إلى إعدادات Xiaomi Cloud.</string>
     <string name="micloud_sync_result_already_in_progress">جارٍ مزامنة العملية السابقة…</string>
     <string name="micloud_sync_result_auth_exception">خطأ في الحساب</string>
     <string name="micloud_sync_result_cancel">تم مقاطعة المزامنة</string>
@@ -445,6 +523,7 @@
     <string name="micloud_wipe_data_confirm_title">تتم مزامنة بعض عناصر التطبيقات التالية مع Xiaomi Cloud. يمكنك الاحتفاظ بهذه العناصر في Cloud حتى بعد حذفها من جهازك.</string>
     <string name="micloud_wipe_data_remove">حذف</string>
     <string name="micloud_wipe_data_retain">إبقاء</string>
+    <string name="midnight">الليل</string>
     <string name="midrive_guide1_desc">انسخ عناصرك احتياطيًا على Cloud لتحرير مساحة تخزين على جهازك.</string>
     <string name="midrive_guide1_title">نسخ احتياطي آمن</string>
     <string name="midrive_guide2_desc">تحميل سريع جدا للعناصر.</string>
@@ -454,6 +533,69 @@
     <string name="midrive_guide_btn_install">تثبيت Mi Drive</string>
     <string name="midrive_guide_btn_installed">افتح Mi Drive</string>
     <string name="midrive_guide_btn_installing">جارٍ التثبيت…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
+    <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
+    <string name="miuix_appcompat_cancel_description">إلغاء</string>
+    <string name="miuix_appcompat_confirm_description">تأكيد</string>
+    <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
+    <string name="miuix_appcompat_search_input_description">بحث</string>
+    <string name="miuix_appcompat_select_all">تحديد الكل</string>
+    <string name="miuix_appcompat_select_all_description">تحديد الكل</string>
+    <string name="miuix_appcompat_select_item">تحديد العناصر</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">حرر للتحديث</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">هذا كل شئ حتى الان</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">لحظة من فضلك…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">تعذر تحميل العناصر</string>
+    <string name="monday">الإثنين</string>
+    <string name="monday_short">الإثنين</string>
+    <string name="monday_shortest">الإثنين</string>
+    <string name="month_april">أبريل</string>
+    <string name="month_april_short">أبريل</string>
+    <string name="month_april_shortest">أبريل</string>
+    <string name="month_august">أغسطس</string>
+    <string name="month_august_short">أغسطس</string>
+    <string name="month_august_shortest">أغسطس</string>
+    <string name="month_december">ديسمبر</string>
+    <string name="month_december_short">ديسمبر</string>
+    <string name="month_december_shortest">ديسمبر</string>
+    <string name="month_february">فبراير</string>
+    <string name="month_february_short">فبراير</string>
+    <string name="month_february_shortest">فبراير</string>
+    <string name="month_january">يناير</string>
+    <string name="month_january_short">يناير</string>
+    <string name="month_january_shortest">يناير</string>
+    <string name="month_july">يوليو</string>
+    <string name="month_july_short">يوليو</string>
+    <string name="month_july_shortest">يوليو</string>
+    <string name="month_june">يونيو</string>
+    <string name="month_june_short">يونيو</string>
+    <string name="month_june_shortest">يونيو</string>
+    <string name="month_march">مارس</string>
+    <string name="month_march_short">مارس</string>
+    <string name="month_march_shortest">مارس</string>
+    <string name="month_may">مايو</string>
+    <string name="month_may_short">مايو</string>
+    <string name="month_may_shortest">مايو</string>
+    <string name="month_november">نوفمبر</string>
+    <string name="month_november_short">نوفمبر</string>
+    <string name="month_november_shortest">نوفمبر</string>
+    <string name="month_october">أكتوبر</string>
+    <string name="month_october_short">أكتوبر</string>
+    <string name="month_october_shortest">أكتوبر</string>
+    <string name="month_september">سبتمبر</string>
+    <string name="month_september_short">سبتمبر</string>
+    <string name="month_september_shortest">سبتمبر</string>
+    <string name="more">المزيد</string>
+    <string name="morning">الصباح</string>
     <string name="mx_dspt">رسالة Mi</string>
     <string name="mx_dspt_provision">"رسالة Mi تسمح لك بإرسال الرسائل لمستخدمي MIUI اخرين دون تحمّل رسوم عند الاتصال بشبكة الـWi-Fi.
 
@@ -472,7 +614,10 @@
     <string name="mx_sub_dspt_provision">رسالة Mi</string>
     <string name="mx_sub_dspt_provision_with_voip">مكالمات الإنترنت</string>
     <string name="mx_voip_dspt">صوت Mi</string>
+    <string name="night">المساء</string>
+    <string name="no_network">لا يمكن الاتصال بالشبكة</string>
     <string name="no_sim">تعذر العثور على بطاقة SIM</string>
+    <string name="noon">الظهر</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notification_reinstall_key_text">تحقق من هويتك ثم حاول مجددا</string>
     <string name="notification_sync_fail_title">تعذر المزامنة</string>
@@ -484,6 +629,7 @@
     <string name="picker_list_empty">لا توجد جهات اتصال هنا</string>
     <string name="picker_search_empty">تعذر العثور على جهات اتصال</string>
     <string name="picker_search_hint">بحث</string>
+    <string name="pm">م</string>
     <string name="power_off_locate_summary">"الإبلاغ عن معلومات الموقع تلقائيًا عند الضغط مطولا على زر الطاقة.
 قد يفشل تحديد الموقع إذا كان اتصال الشبكة ضعيف."</string>
     <string name="power_off_locate_title">تحديد الموقع قبل اغلاق الجهاز</string>
@@ -500,25 +646,48 @@
     <string name="privacy_dialog_sync_all_purpose">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وسجل المكالمات وجهات الاتصال والملاحظات وإعدادات المتصفح والأغاني والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر ومنصة التطبيقات عبر جميع الأجهزة المتصلة.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وجهات الاتصال والملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة الرسائل والملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة جهات الاتصال والملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة الملاحظات وإعدادات المتصفح والصور والفيديوهات والتسجيلات والتطبيقات وأحداث التقويم وعناصر قائمة الحظر عبر جميع الأجهزة المتصلة.</string>
     <string name="privacy_dialog_sync_all_purpose_v2">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وسجل المكالمات وجهات الاتصال والملاحظات وإعدادات المتصفح والأغاني والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر ومنصة التطبيقات عبر جميع الأجهزة المتصلة.</string>
-    <string name="privacy_doc_cloudservice">مرحبًا بك في خدمات Xiaomi Cloud! يمكنك استخدام Xiaomi Cloud لمزامنة رسائلك وسجل المكالمات وجهات الاتصال والملاحظات وإعدادات المتصفح والأغاني والصور والفيديوهات وإعدادات Wi-Fi والتسجيلات وتنسيق الشاشة الرئيسية والتطبيقات وأحداث التقويم وعناصر قائمة الحظر ومنصة التطبيقات عبر جميع الأجهزة المتصلة. يمكنك الوصول إلى الأشياء التي تقوم بمزامنتها من أي متصفح على &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br /> قد تكون هناك حاجة لإرسال رسالة قصيرة لتفعيل هذه الخدمات. وستفرض عليك شركة الاتصالات رسوم هذه الرسالة. عند تبديلك بطاقة SIM، قد يتم إرسال رسالة تلقائيًا لإعادة تنشيط هذه الخدمات.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br /> ستحتاج هذه الخدمات لتعمل بشكل طبيعي إلى الاتصال بالإنترنت ومنح الأذونات التالية لنتمكن من جمع بيانات الشخصية:&lt;br />• التقويم:&lt;br />لمزامنة الرسائل&lt;br />• الوصول إلى الرسائل القصيرة:&lt;br />لمزامنة الرسائل&lt;br />• الوصول إلى رسائل وسائط المتعددة:&lt;br />لمزامنة الرسائل&lt;br />• الوصول إلى جهات الاتصال:&lt;br />لمزامنة جهات الاتصال&lt;br />• تعديل جهات الاتصال:&lt;br />لمزامنة جهات الاتصال&lt;br />• التخزين:&lt;br />لمزامنة العناصر على جهازك (مثل الصور والفيديوهات والأغاني)&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، لن تكون قادرا على استخدام هذه الخدمات. يمكنك اختيار إلغاء تثبيت هذا التطبيق أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على &lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> قبل استخدام Xiaomi Cloud.&lt;br /></string>
-    <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_china_v2">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_global">يحتاج Xiaomi Cloud إلى الاتصال بالانترنت ليعمل بشكل طبيعي. وقد يتطلب إستخدام بيانات الهاتف وتشغيل Wi-Fi عند مزامنة البيانات. يجب عليك قراءة والموافقة على &lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام هذه الميزة.</string>
-    <string name="privacy_doc_finddevice_pad">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
-    <string name="privacy_doc_finddevice_phone">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_pad">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />قد تكون هناك حاجة لإرسال رسالة قصيرة لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم هذه الرسالة. عند تبديلك بطاقة SIM، قد يتم إرسال رسالة تلقائيًا لإعادة تنشيط هذه الخدمة.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_phone">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />قد تكون هناك حاجة لإرسال رسالة قصيرة لتفعيل هذه الخدمة. وستفرض عليك شركة الاتصالات رسوم هذه الرسالة. عند تبديلك بطاقة SIM، قد يتم إرسال رسالة تلقائيًا لإعادة تنشيط هذه الخدمة.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك قراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمة العثور على الجهاز.&lt;br /></string>
+    <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_global">يحتاج Xiaomi Cloud إلى الاتصال بالانترنت ليعمل بشكل طبيعي. وقد يتطلب إستخدام بيانات الهاتف وتشغيل Wi-Fi عند مزامنة البيانات. يجب عليك القراءة والموافقة على &lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام هذه الميزة.</string>
+    <string name="privacy_doc_cloudservice_pad">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_contact_but_sim">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_but_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_or_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_pad">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_phone">مرحبًا بك في العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية حتى لنتمكن من جمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات لهذا التطبيق من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على&lt;a href=%1$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدمتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">مرحبا بك في خدمة العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة. إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br />ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية لجمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على &lt;a href=%2$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%3$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدماتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">مرحبا بك في خدمة العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة. إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br />ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية لجمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على &lt;a href=%2$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%3$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدماتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">مرحبا بك في خدمة العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة. إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br />ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية لجمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على &lt;a href=%2$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%3$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدماتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">مرحبا بك في خدمة العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة. إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br />ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية لجمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على &lt;a href=%2$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%3$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدماتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">مرحبا بك في خدمة العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة. إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br />ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية لجمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على &lt;a href=%2$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%3$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدماتنا.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">مرحبا بك في خدمة العثور على الجهاز! يمكنك استخدام هذه الخدمة لتحديد موقع أو قفل جهازك أو حذف جميع البيانات عليه إذا فقدته. يمكنك الانتقال إلى &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> لتحديد موقعه أو قفله أو إعادة ضبط المصنع.&lt;br />&lt;br />سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة. إذا قمت بتبديل بطاقات SIM، فسيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>&lt;/font> تلقائياً لإعادة تفعيل هذة الخدمة.&lt;br />ستفرض عليك شركة الاتصالات رسوم على جميع الرسائل القصيرة الخاصة بالعمليات المذكورة أعلاه. Xiaomi غير مسؤولة عن فرض رسوم هذه الرسائل.&lt;br />&lt;br />نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.&lt;br />تحتاج هذه الخدمة إلى الاتصال بالانترنت ومنح الأذونات التالية لجمع معلوماتك الشخصية:&lt;br />• الوصول إلى معلومات الجهاز:&lt;br />للتعرف على الجهاز&lt;br />• الوصول إلى الموقع:&lt;br />لتحديد موقع الجهاز والتبديل إلى وضع الفقدان&lt;br />إذا كنت لا توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية ورفعها، فلن تتمكن من استخدام هذه الخدمات. يمكنك اختيار إلغاء التثبيت أو تسجيل الخروج أو تقييد الأذونات من الإعدادات في مثل هذه الحالات.&lt;br />يجب عليك القراءة والموافقة على &lt;a href=%2$s>&lt;u>اتفاقية المستخدم&lt;/u>&lt;/a> و&lt;a href=%3$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> لدينا قبل استخدام خدماتنا.&lt;br /></string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="provision_back">رجوع</string>
     <string name="provision_next">التالي</string>
     <string name="provision_skip_underline">تخطي</string>
     <string name="provision_sync_items_loading">الإعداد لمزامنة العناصر</string>
+    <string name="quick_service_after_sale_policy_title">Policy</string>
+    <string name="quick_service_after_sale_service_title">Services</string>
+    <string name="quick_service_authenticity_check_title">Authentication</string>
+    <string name="quick_service_maintenance_price_title">Repairs</string>
+    <string name="quick_service_title">Quick services</string>
     <string name="reading_status">جارٍ تحميل الحالة…</string>
     <string name="reading_status_failure">تعذر الحصول على الحالة.</string>
+    <string name="recommend_service_cloudservice_description">Sync system app data, back up settings, Home screen layout, and more</string>
+    <string name="recommend_service_sharelocation_description">Locate, lock, and erase data on missing devices, and share location with your friends and family</string>
+    <string name="recommend_service_title">Recommended services</string>
     <string name="retain_data_high_quality_photo_waring_message">ستتم إزالة الصور عالية الجودة من المعرض بعد تسجيل الخروج. وسيتم تخزين الملفات الأصلية المقابلة على Cloud الخاصة بك. يمكنك تنزيل هذه الملفات من السحابة قبل تسجيل الخروج.</string>
     <string name="retain_data_high_quality_photo_waring_title">لن تكون الصور عالية الجودة متاحة</string>
+    <string name="saturday">السبت</string>
+    <string name="saturday_short">السبت</string>
+    <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
+    <string name="send">مشاركة</string>
     <string name="share_cancel">تم إلغاء المشاركة</string>
     <string name="share_failed">تعذرت المشاركة</string>
     <string name="share_location_app_name">اعثر</string>
@@ -596,7 +765,7 @@
     <string name="share_sdk_pref_category_search_local_title">جهات الاتصال</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">مسح رمز QR</string>
     <string name="share_sdk_pref_family_detail_title">عرض تفاصيل مجموعة الأسرة</string>
-    <string name="share_sdk_privacy_link_description">يجب عليك قراءة وقبول <a href="https://account.xiaomi.com/about/protocol/privacy"><u>سياسة خصوصية حساب Mi</u></a> قبل استخدام هذه الخدمة.</string>
+    <string name="share_sdk_privacy_link_description">يجب عليك القراءة والموافقة على <a href="https://account.xiaomi.com/about/protocol/privacy"><u>سياسة خصوصية حساب Mi</u></a> قبل استخدام هذه الخدمة.</string>
     <string name="share_sdk_qr_code_description">دعوة من %1$s</string>
     <string name="share_sdk_qr_code_expire_time">فترة صلاحية رمز QR: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">لقد أرسلت دعوات كثيرة جدًا. يرجى المحاولة مرة أخرى في غضون 24 ساعة.</string>
@@ -641,10 +810,13 @@
     <string name="storage_upgrade_card_title">ترقية خطتك</string>
     <string name="sub_alert_notif_content">تشغيل Xiaomi Cloud</string>
     <string name="sub_alert_notif_title">المزامنة مع Xiaomi Cloud</string>
-    <string name="sub_sync_item_sms_summary">مزامنة الرسائل التي تحتوي فقط على صور، صوت، أو وسائط أخرى عند الاتصال بشبكة Wi-Fi</string>
+    <string name="sub_sync_item_sms_summary">قم بتشغيله لحفظ بيانات الهاتف ومزامنة الرسائل عبر Wi-Fi فقط.</string>
     <string name="sub_sync_item_sms_title_wifi_only">فقط استخدام Wi-Fi لمزامنة رسائل وسائط متعددة (MMS)</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="sunday">الأحد</string>
+    <string name="sunday_short">الأحد</string>
+    <string name="sunday_shortest">الأحد</string>
     <string name="sync_detail_summary_master_sync_off">المزامنة متوقفة</string>
     <string name="sync_detail_summary_off">المزامنة متوقفة</string>
     <string name="sync_detail_text">تفاصيل المزامنة</string>
@@ -652,6 +824,7 @@
     <string name="sync_dspt_entrance_provision">قم بمزامنة الصور والملاحظات والعناصر الأخرى على جميع أجهزتك. يمكنك الوصول إلى العناصر التي قمت بمزامنتها من إي متصفح عبر %s.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">لا تستخدم</string>
     <string name="sync_dspt_entrance_provision_confirm_content">تحتاج تطبيقات نظام MIUI إلى Xiaomi Cloud لإجراء نسخ احتياطي للصور والرسائل والملاحظات والمزيد. Xiaomi Cloud مجاني وجاهز للإستخدام على الفور.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">يمكنك استخدام Xiaomi Cloud لعمل نسخة احتياطية من الصور والرسائل والملاحظات وغيره. إنه متاح مجانا لأي شخص ومن أي مكان.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">تحتاج تطبيقات نظام MIUI إلى Xiaomi Cloud لإجراء نسخ احتياطي للصور والرسائل والملاحظات والمزيد. Xiaomi Cloud مجاني وجاهز للإستخدام على الفور.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">استخدام Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">هل ترغب في استخدام Xiaomi Cloud؟</string>
@@ -663,7 +836,7 @@
     <string name="sync_item_autofill_title">المزامنة تلقائيا</string>
     <string name="sync_item_calllog_summary">مزامنة تسجيلات المكالمات التي تم إجراؤها واستقبالها على هذا الهاتف</string>
     <string name="sync_item_calllog_title">مزامنة سجل المكالمات</string>
-    <string name="sync_item_sms_summary">مزامنة الرسائل النصية القصيرة المُرسلة والمستلمة على هذا الهاتف</string>
+    <string name="sync_item_sms_summary">مزامنة الرسائل المرسلة والمستلمة على هذا الجهاز</string>
     <string name="sync_item_sms_title">مزامنة الرسائل</string>
     <string name="sync_item_title">مزامنة بيانات التطبيق</string>
     <string name="sync_normal_summary">لا يمكن مزامنة بعض العناصر من القائمة أدناه</string>
@@ -679,17 +852,65 @@
     <string name="sync_page_route_ok">تشغيل</string>
     <string name="sync_page_route_remember">لا تظهر مرة اخرى</string>
     <string name="sync_setting_title">إعدادات المزامنة</string>
-    <string name="sync_sub_1_intl_sms">قد تكون هناك حاجة لرسالة (SMS) دولية لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="sync_sub_1_sms">قد تكون هناك حاجة لرسالة قصيرة (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسالة.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">قد تكون هناك حاجة لرسالة (SMS) محلية و اخرى دولية لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.</string>
-    <string name="sync_sub_2_intl_sms">قد تكون هناك حاجة لـ٢ رسائل (SMS) دولية لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.</string>
-    <string name="sync_sub_2_sms">قد تكون هناك حاجة لـ٢ رسائل (SMS) لتفعيل هذه الخدمة. ستفرض عليك شركة الاتصالات رسوم هذه الرسائل.</string>
     <string name="system_busy_or_network_error">حدث خطأ ما، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="system_cta_retry_get_permission_btn_pad">ابدأ</string>
+    <string name="system_cta_retry_get_permission_msg_pad">الأذونات مطلوبة</string>
+    <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
+    <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
+    <string name="the_arbor_day">يوم الشجرة</string>
+    <string name="the_armed_forces_day">يوم القوات المسلحة</string>
+    <string name="the_armys_day">يوم جيش التحرير الشعبي</string>
+    <string name="the_childrens_day">يوم الطفل</string>
+    <string name="the_chinese_youth_day">يوم الشباب</string>
+    <string name="the_christmas_day">يوم الكريسمس</string>
+    <string name="the_double_ninth_festival">عيد التسعة المزدوجة</string>
+    <string name="the_dragon_boat_festival">عيد قوارب التنين</string>
+    <string name="the_easter_day">عيد الفصح</string>
+    <string name="the_eve_of_the_spring_festival">ليلة راس السنة الصينية</string>
+    <string name="the_fifth_day">اليوم الخامس للسنة الصينية الجديدة</string>
+    <string name="the_fools_day">كذبة أبريل</string>
+    <string name="the_forth_day">اليوم الرابع للسنة الصينية الجديدة</string>
+    <string name="the_hksar_establishment_day">يوم تأسيس منطقة هونج كونج الإدارية الخاصة</string>
+    <string name="the_international_womens_day">يوم المرأة</string>
+    <string name="the_laba_festival">عيد لابا</string>
+    <string name="the_labour_day">يوم العمال</string>
+    <string name="the_lantern_festival">عيد الفوانيس</string>
+    <string name="the_mid_autumn_festival">عيد منتصف الخريف</string>
+    <string name="the_national_day">اليوم الوطني</string>
+    <string name="the_national_father_day">عيد ميلاد سون يات سين</string>
+    <string name="the_new_years_day">السنة الجديدة</string>
+    <string name="the_night_of_sevens">عيد تشيشي</string>
+    <string name="the_partys_day">يوم الحزب الشيوعي الصيني</string>
+    <string name="the_peace_day">يوم الهدنة</string>
+    <string name="the_retrocession_day">يوم عودة تايون لجمهورية الصين الشعبية</string>
+    <string name="the_second_day">اليوم الثاني للسنة الصينية الجديدة</string>
+    <string name="the_seventh_day">اليوم السابع للسنة الصينية الجديدة</string>
+    <string name="the_sixth_day">اليوم السادس للسنة الصينية الجديدة</string>
+    <string name="the_spirit_festival">عيد الأشباح</string>
+    <string name="the_spring_festival">السنة الصينية الجديدة</string>
+    <string name="the_teachers_day">يوم المعلم</string>
+    <string name="the_third_day">اليوم الثالث للسنة الصينية الجديدة</string>
+    <string name="the_tw_childrens_day">يوم الطفل</string>
+    <string name="the_tw_youth_day">يوم الشباب</string>
+    <string name="the_united_nations_day">يوم الأمم المتحدة</string>
+    <string name="the_valentines_day">عيد الحب</string>
+    <string name="the_water_lantern_festival">مهرجان المصابيح</string>
+    <string name="thursday">الخميس</string>
+    <string name="thursday_short">الخميس</string>
+    <string name="thursday_shortest">الخميس</string>
+    <string name="time_picker_dialog_title">ضبط الوقت</string>
+    <string name="time_picker_label_hour">س</string>
+    <string name="time_picker_label_minute">دق</string>
     <string name="tip_short_cut_added_success">تم الإنشاء بنجاح</string>
     <string name="tip_short_cut_already_added">تم الإنشاء</string>
     <string name="title_back">رجوع</string>
     <string name="title_reg">إنشاء حساب Mi</string>
+    <string name="today">اليوم</string>
+    <string name="tomorrow">غدا</string>
     <string name="trying_to_connect_to_network">جارٍ الإتصال بالشبكة…</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="tuesday_short">الثلاثاء</string>
+    <string name="tuesday_shortest">الثلاثاء</string>
     <string name="user_agreement_content">بإستخدامك هذه الخدمة، انت توافق على %s.</string>
     <string name="user_agreement_link">شروط وأحكام Xiaomi Cloud</string>
     <string name="user_agreement_p5">"
@@ -711,6 +932,12 @@
     <string name="warning_bar_title_network_unconnected">تعذر الاتصال بالشبكة</string>
     <string name="warning_bar_title_short_cut">إضافة إختصار Xiaomi Cloud في الشاشة الرئيسية؟</string>
     <string name="warning_bar_title_sync_off">المزامنة مع Xiaomi Cloud متوقفة</string>
+    <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
+    <string name="web_sso_login_message">تسجيل الدخول…</string>
+    <string name="webview_reload">حاول مرة أخرى</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="wednesday_short">الأربعاء</string>
+    <string name="wednesday_shortest">الأربعاء</string>
     <string name="wipe_data_dialog_button_check_sync">تحقق اذا تم مزامنتة</string>
     <string name="wipe_data_dialog_msg">لم تتم مزامنة بعض العناصر %s. سيتم حفظها على جهازك ولن يتم حذفها.</string>
     <string name="wipe_data_dialog_msg_and_on">٬ وبعض العناصر الأخرى</string>
@@ -720,4 +947,5 @@
     <string name="wipe_secret_photo_dialog_title">لم يتم مزامنة الصور المخفية</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">كل شيء مهم في مكان واحد</string>
+    <string name="yesterday">أمس</string>
 </resources>

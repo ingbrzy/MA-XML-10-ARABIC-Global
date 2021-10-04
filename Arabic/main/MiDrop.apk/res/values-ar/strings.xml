@@ -159,7 +159,7 @@
     <string name="dw">خروج</string>
     <string name="dz">حصل خطأ ما</string>
     <string name="e0">"تعذر الحصول على المعلومات،
-تحقق من اتصال الشبكة ثم حاول مجددا."</string>
+تحقق من اتصال الشبكة ثم حاول مجدداً."</string>
     <string name="e1">التعليقات</string>
     <string name="e2">لا تحذف المعلومات التالية. سوف يساعدنا ذلك على إيجاد المشكلة.</string>
     <string name="e3">تعليقات على ShareMe</string>
@@ -189,14 +189,14 @@
     <string name="er">مسار المجلد</string>
     <string name="es">محددة</string>
     <string name="et">الملفات المحددة: %1$d | الإجمالي: %2$s</string>
-    <string name="eu">٤-١٦ حرفاً، بما في ذلك حروف وأرقام، حساس لحالة الأحرف</string>
+    <string name="eu">اسم المستخدم وكلمة المرور حساسان لحالة الأحرف ويجب أن يتراوح طولهما مابين %1$d-%2$d حرف. يمكنك الجمع بين الأحرف الإنجليزية والأحرف الخاصة والأرقام.</string>
     <string name="ev">تسجيل الدخول كمجهول</string>
     <string name="ew">اسم المستخدم أو كلمة المرور غير صحيحة</string>
     <string name="ex">تعذر فتح المنفذ. تحقق من الاتصال أو أعد تعيين رقم المنفذ.</string>
     <string name="ey">كلمة المرور</string>
     <string name="ez">رقم المنفذ</string>
     <string name="f0">الحماية</string>
-    <string name="f1">تسجيل الدخول</string>
+    <string name="f1">تعيين اسم المستخدم وكلمة المرور</string>
     <string name="f2">اسم المستخدم</string>
     <string name="f3">نظام الترميز الافتراضي باللغة الصينية المبسطة في نظام تشغيل Windows</string>
     <string name="f4">GBK</string>

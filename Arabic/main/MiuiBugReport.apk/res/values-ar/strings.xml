@@ -76,7 +76,7 @@
     <string name="bind_sign_in_title">إضافة حساب Mi</string>
     <string name="btn_send">إرسال</string>
     <string name="bugreport_dialog_not_show_again">عدم الإظهار مرة أخرى</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>يتم حفظ سجلات البرنامج على هذا الجهاز. يمكن أن تحتوي على معلومات شخصية ومعلومات موقعك. لا تقم بمشاركة السجلات مع أي شخص ما لم تكن تريد الكشف عن هذه المعلومات. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>يتم حفظ سجلات البرنامج على هذا الجهاز. يمكن أن تحتوي على معلومات شخصية ومعلومات موقعك. لا تقم بمشاركة السجلات مع أي شخص ما لم تكن تريد الكشف عن هذه المعلومات. بالنقر على \"أوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">انقر للعرض.</string>
     <string name="bugreport_dump_complete_notification_title">تم إنشاء تقرير عن خلل</string>
     <string name="bugreport_dump_start_notification_summary">قد يستغرق ذلك عدة دقائق.</string>
@@ -85,27 +85,30 @@
     <string name="bugreport_tool_log_dumping_title">إنشاء تقرير عن الخلل</string>
     <string name="catch_full_log_action_cancel">إلغاء</string>
     <string name="catch_full_log_action_complete">إنهاء وتحميل</string>
-    <string name="catch_full_log_action_start">إنشاء السجل</string>
+    <string name="catch_full_log_action_start">ابدأ</string>
     <string name="catch_full_log_add_original_photo">اضف الصورة الأصلية أو فيديو قصير</string>
     <string name="catch_full_log_add_photo">إضافة صورة</string>
     <string name="catch_full_log_add_photo_dialog_content">إذا كانت المشكلة التي تبلغ عنها مرتبطة بجودة صورة الكاميرا، أضف عينة من الصورة (بدون اقتصاص) لمساعدتنا في العثور عليها. أضافة صورة الآن؟</string>
+    <string name="catch_full_log_category">أنواع السجل</string>
     <string name="catch_full_log_dialog_confirm_text">انتقل إلى الشاشة الرئيسية</string>
-    <string name="catch_full_log_dialog_content">يقوم MIUI بإنشاء سجل. قد يؤثر هذا على الأداء العام لجهازك. إذا لم تتمكن من إعادة إظهار/انتاج المشكلة التي تريد الإبلاغ عنها، فارجع إلى السجلات وانقر على \"إلغاء\".</string>
+    <string name="catch_full_log_dialog_content">قد يؤثر هذا على الأداء العام لجهازك. إذا لم تتمكن من إعادة إظهار/انتاج المشكلة التي تريد الإبلاغ عنها، فارجع إلى السجلات وانقر على \"إلغاء\".</string>
+    <string name="catch_full_log_dialog_title">جارٍ إنشاء السجلات…</string>
     <string name="catch_full_log_dump_hprof_failed">تعذر إنشاء سجل متأخر</string>
     <string name="catch_full_log_item_content_catch_direct">"١. عد إلى الميزة التي تريد الإبلاغ عنها وإعادة إنتاجها.
 ٢. عد إلى هذه الصفحة وانقر على \"إنهاء وتحميل\"."</string>
-    <string name="catch_full_log_item_content_need_open">"١. انقر فوق \"إنشاء سجل\".
-٢. عد إلى الميزة التي تريد الإبلاغ عنها وإعادة إنتاجها.
-٣. عد إلى هذه الصفحة وانقر على \"إنهاء وتحميل\"."</string>
-    <string name="catch_full_log_item_content_title">الخطوات</string>
-    <string name="catch_full_log_item_title_audio">الصوت وتسجيل الصوت ومكالمة صوتية</string>
+    <string name="catch_full_log_item_content_catching">جارٍ إنشاء السجلات…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. انقر فوق \"ابدأ\" لبدء إنشاء السجلات.
+%2$d. أعد الخطوات التي أدت إلى ظهور المشكله.
+%3$d. ارجع إلى هذه الصفحة وانقر على \"إنهاء وتحميل\"."</string>
+    <string name="catch_full_log_item_content_title">كيفية إنشاء سجل</string>
+    <string name="catch_full_log_item_title_audio">الأصوات وتسجيلات المكالمات</string>
     <string name="catch_full_log_item_title_bt">البلوتوث</string>
     <string name="catch_full_log_item_title_dump_heap">تأخير</string>
     <string name="catch_full_log_item_title_gps">خدمات الموقع</string>
     <string name="catch_full_log_item_title_sensor">المستشعرات</string>
     <string name="catch_full_log_item_title_signal">الهاتف والإشارة وشبكات الهاتف</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi و ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">انقر للرجوع إلى السجلات</string>
     <string name="catch_full_log_notification_title">جارٍ إنشاء السجل…</string>
     <string name="catch_full_log_privacy_content_audio">أنت تقوم بإنشاء سجلات وحفظها على جهازك. قد تحتوي السجلات على معلومات حول البيانات الصوتية على جهازك، بما في ذلك سجل التشغيل والتسجيل. احرص على عدم مشاركة هذه المعلومات مع أشخاص غير مصرح لهم بذلك. بالنقر على \"أوافق\"، فإنك توافق على أننا سنجمع البيانات أعلاه، ثم نرفع السجلات إلى خوادمنا للعثور على المشكلات التي تبلغ عنها ونحلها.</string>
@@ -173,7 +176,7 @@
     <string name="err_type_system_summary">الذاكرة، الأداء، إلخ.</string>
     <string name="err_type_systemapp">تطبيقات MIUI</string>
     <string name="err_type_translate">اللغة</string>
-    <string name="err_type_xiaomi_family">متجر Mi</string>
+    <string name="err_type_xiaomi_family">منزل Mi</string>
     <string name="err_type_xiaomi_service">خدمة العملاء</string>
     <string name="error_dup_binded_email">عنوان البريد الإلكتروني هذا مرتبط مسبقا بحساب Mi آخر.</string>
     <string name="error_invalid_bind_address">عنوان البريد الإلكتروني الذي أدخلتة غير صالح.</string>

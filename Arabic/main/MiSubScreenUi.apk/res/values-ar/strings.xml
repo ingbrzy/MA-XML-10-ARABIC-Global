@@ -28,13 +28,19 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="actionbar_button_up_description">رجوع</string>
+    <string name="add_emergency_contact">أضف جهة اتصال للطوارئ</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="alarm_close">اسحب لإعلى لايقاف المنبه</string>
     <string name="alarm_later">غفوة</string>
     <string name="align_type">المحاذاة</string>
     <string name="am">ص</string>
     <string name="aod_component">الشاشة الدائمة</string>
+    <string name="aod_lock_screen_date">EEE، dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_v">"EEE
+dd/MM"</string>
     <string name="aod_show_date_and_time">التاريخ والوقت</string>
+    <string name="app_name">الشاشة الخلفية</string>
     <string name="apply">تعيين</string>
     <string name="apply_succeed">تم التعيين بنجاح</string>
     <string name="background_icon">الخلفية</string>
@@ -105,6 +111,7 @@
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="gallery_page_name">From Gallery</string>
+    <string name="has_add_contact">مضاف</string>
     <string name="icon_content_description">رمز مربع الحوار</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="letter_space">تباعد الحروف</string>
@@ -191,6 +198,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -219,6 +227,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
+    <string name="not_add_contact">غير مضاف</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notification_new_message">رسالة جديدة</string>
     <string name="page_detail_preview_tip">اقلب الهاتف للمعاينة</string>
@@ -236,18 +245,19 @@
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
     <string name="send">مشاركة</string>
-    <string name="small_display_style">ثيم الشاشة الخلفية</string>
+    <string name="small_display_style">الشاشة الخلفية</string>
+    <string name="sps_cancel">اضغط باستمرار للخروج</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">اعثر على المزيد في مجتمع تواصل Mi</string>
-    <string name="sub_screen_app_name">الشاشة الخلفية</string>
+    <string name="subscreen_could_edit_pic">اسحب الصورة للتكبير/التصغير، اضغط باستمرار للحذف</string>
     <string name="subscreen_other">أخرى</string>
     <string name="subscreen_other_dialog_cancel">إلغاء</string>
-    <string name="subscreen_other_dialog_confirm">موافق</string>
+    <string name="subscreen_other_dialog_confirm">تشغيل</string>
     <string name="subscreen_other_dialog_goto">إضافة</string>
-    <string name="subscreen_other_dialog_message">سيقوم موفر الطاقة الفائق بتعطيل الشاشة الرئيسية للهاتف. حيث ستتمكن فقط من التحقق من الوقت والرد على المكالمات الواردة وإجراء مكالمات مع جهات اتصال الطوارئ من الشاشة الخلفية. ستدوم بطارية الجهاز دون شحن لمدة تصل إلى %d من استخدام هذه الميزة. هل ترغب في تشغيلها؟</string>
+    <string name="subscreen_other_dialog_message">سيقوم موفر الطاقة الفائق بتعطيل الشاشة الرئيسية للهاتف. حيث ستتمكن فقط من التحقق من الوقت والرد على المكالمات الواردة وإجراء مكالمات مع جهات اتصال الطوارئ. أظهرت اختباراتنا أن بطارية الجهاز ستدوم دون شحن لمدة تصل إلى %d يوم عند تشغيل هذه الميزة. ومع ذلك، قد تكون هذه الفترة الزمنية أقصر بسبب عوامل مختلفة. هل ترغب في تشغيل موفر الطاقة الفائق الآن؟</string>
     <string name="subscreen_other_dialog_title">موفر الطاقة الفائق</string>
     <string name="subscreen_other_next_dialog_message">تحتاج إلى إضافة جهة اتصال للطوارئ قبل استخدام موفر الطاقة الفائق. هل ترغب في إضافته الآن؟</string>
-    <string name="subscreen_other_wilderness_summary">سيقوم موفر الطاقة الفائق بتعطيل الشاشة الرئيسية للهاتف. حيث ستتمكن فقط من التحقق من الوقت والرد على المكالمات الواردة وإجراء مكالمات مع جهات اتصال الطوارئ من الشاشة الخلفية. ستدوم بطارية الجهاز دون شحن لمدة تصل إلى %d من استخدام هذه الميزة.</string>
+    <string name="subscreen_other_wilderness_summary">سيقوم موفر الطاقة الفائق بتعطيل الشاشة الرئيسية للهاتف. حيث ستتمكن فقط من التحقق من الوقت والرد على المكالمات الواردة وإجراء مكالمات مع جهات اتصال الطوارئ. أظهرت اختباراتنا أن بطارية الجهاز ستدوم دون شحن لمدة تصل إلى %d يوم عند تشغيل هذه الميزة. ومع ذلك، قد تكون هذه الفترة الزمنية أقصر بسبب عوامل مختلفة.</string>
     <string name="subscreen_other_wilderness_title">موفر الطاقة الفائق</string>
     <string name="subscreen_settings_fail">تعذر اكمال الإجراء</string>
     <string name="subscreen_settings_mode">إيقاف التشغيل بعد</string>
@@ -328,6 +338,9 @@
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
+    <string name="wilderness_dcalling">متصل</string>
+    <string name="wilderness_dialing">جارٍ الاتصال</string>
+    <string name="wilderness_is_starting">جارٍ تشغيل موفر الطاقة الفائق…</string>
     <string name="wireless_change_to_ac_charging">التبديل إلى الشحن السلكي</string>
     <string name="yesterday">أمس</string>
 </resources>

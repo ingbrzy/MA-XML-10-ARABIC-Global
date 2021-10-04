@@ -352,21 +352,13 @@
         <item quantity="few">%d أغاني مشهورة</item>
         <item quantity="many">%d أغنية مشهورة</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">تشغيل الفيديو في %1$d ثانية</item>
-        <item quantity="zero">تشغيل الفيديو في %1$d ثانية</item>
-        <item quantity="one">تشغيل الفيديو في %1$d ثانية</item>
-        <item quantity="two">تشغيل الفيديو في %1$d ثواني</item>
-        <item quantity="few">تشغيل الفيديو في %1$d ثواني</item>
-        <item quantity="many">تشغيل الفيديو في %1$d ثانية</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">تم تحديد %1$d</item>
-        <item quantity="zero">تم تحديد %1$d</item>
-        <item quantity="one">تم تحديد %1$d</item>
-        <item quantity="two">تم تحديد %1$d</item>
-        <item quantity="few">تم تحديد %1$d</item>
-        <item quantity="many">تم تحديد %1$d</item>
+        <item quantity="other">تم تحديد %1$d عنصر</item>
+        <item quantity="zero">تم تحديد %1$d عنصر</item>
+        <item quantity="one">تم تحديد %1$d عنصر</item>
+        <item quantity="two">تم تحديد %1$d عناصر</item>
+        <item quantity="few">تم تحديد %1$d عناصر</item>
+        <item quantity="many">تم تحديد %1$d عنصر</item>
     </plurals>
     <plurals name="video_collection_reminder_view">
         <item quantity="other">لم تشاهد %d فيديوهات مفضلة منذ فترة طويلة.</item>
@@ -375,54 +367,6 @@
         <item quantity="two">لم تشاهد %d فيديو مفضل منذ فترة طويلة.</item>
         <item quantity="few">لم تشاهد %d فيديوهات مفضلة منذ فترة طويلة.</item>
         <item quantity="many">لم تشاهد %d فيديوهات مفضلة منذ فترة طويلة.</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">تمت حذف %1$d فيديو بنجاح.</item>
-        <item quantity="zero">تمت حذف %1$d فيديو بنجاح.</item>
-        <item quantity="one">تمت حذف %1$d فيديو بنجاح.</item>
-        <item quantity="two">تمت حذف %1$d فيديوهات بنجاح.</item>
-        <item quantity="few">تمت حذف %1$d فيديوهات بنجاح.</item>
-        <item quantity="many">تمت حذف %1$d فيديو بنجاح.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">إزالة %1$d فيديو؟</item>
-        <item quantity="zero">حذف %1$d فيديو؟</item>
-        <item quantity="one">حذف %1$d فيديو؟</item>
-        <item quantity="two">إزالة %1$d فيديوهات؟</item>
-        <item quantity="few">إزالة %1$d فيديوهات؟</item>
-        <item quantity="many">إزالة %1$d فيديو؟</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">تم حذف %1$d عنصر من السجل.</item>
-        <item quantity="zero">تم حذف %1$d عنصر من السجل.</item>
-        <item quantity="one">تم حذف %1$d عنصر من السجل.</item>
-        <item quantity="two">تم حذف %1$d عناصر من السجل.</item>
-        <item quantity="few">تم حذف %1$d عناصر من السجل.</item>
-        <item quantity="many">تم حذف %1$d عنصر من السجل.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">حذف %1$d عنصر من السجل؟</item>
-        <item quantity="zero">حذف %1$d عنصر من السجل؟</item>
-        <item quantity="one">حذف %1$d عنصر من السجل؟</item>
-        <item quantity="two">حذف %1$d عناصر من السجل؟</item>
-        <item quantity="few">حذف %1$d عناصر من السجل؟</item>
-        <item quantity="many">حذف %1$d عنصر من السجل؟</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d تحديث متاح.</item>
-        <item quantity="zero">%1$d تحديث متاح.</item>
-        <item quantity="one">%1$d تحديث متاح.</item>
-        <item quantity="two">%1$d تحديثات متاحة.</item>
-        <item quantity="few">%1$d تحديثات متاحة.</item>
-        <item quantity="many">%1$d تحديث متاح.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d دقيقة متبقية</item>
-        <item quantity="zero">%d دقيقة متبقية</item>
-        <item quantity="one">%d دقيقة متبقية</item>
-        <item quantity="two">%d دقائق متبقية</item>
-        <item quantity="few">%d دقائق متبقية</item>
-        <item quantity="many">%d دقيقة متبقية</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">تحقق من %1$d فيديو جديد</item>

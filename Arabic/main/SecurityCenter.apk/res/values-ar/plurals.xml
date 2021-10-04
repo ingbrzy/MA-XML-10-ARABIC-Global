@@ -356,6 +356,14 @@
         <item quantity="few">بحث في %d تطبيقات</item>
         <item quantity="many">بحث في %d تطبيق</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d خطر متعلق بالخصوصية</item>
+        <item quantity="zero">%d خطر متعلق بالخصوصية</item>
+        <item quantity="one">%d خطر متعلق بالخصوصية</item>
+        <item quantity="two">%d مخاطر متعلقة بالخصوصية</item>
+        <item quantity="few">%d مخاطر متعلقة بالخصوصية</item>
+        <item quantity="many">%d خطر متعلق بالخصوصية</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">يتطلب تحسين %1$d مشكلة</item>
         <item quantity="zero">يتطلب تحسين %1$d مشكلة</item>
@@ -467,6 +475,14 @@
         <item quantity="two">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="few">تم تسجيل الدخول %d أيام متتالية</item>
         <item quantity="many">تم تسجيل الدخول %d يوم متتالي</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">حسنا (%d ث)</item>
+        <item quantity="zero">حسنا (%d ث)</item>
+        <item quantity="one">حسنا (%d ث)</item>
+        <item quantity="two">حسنا (%d ث)</item>
+        <item quantity="few">حسنا (%d ث)</item>
+        <item quantity="many">حسنا (%d ث)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"جرب مغير الصوت الآن

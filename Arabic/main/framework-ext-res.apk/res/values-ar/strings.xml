@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">لإغلاق النافذة المنبثقة، اضغط مطولا على شريط الإجراءات ثم اسحب لأعلى</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">لوحات المفاتيح الأخرى</string>
     <string name="package_delete_confirm_step_1">إلغاء تثبيت %s؟</string>
     <string name="package_delete_confirm_step_2">قد يؤدي إلغاء تثبيت هذا التطبيق إلى عدم استقرار النظام الخاص بك.</string>
     <string name="package_delete_confirm_step_3">لن تتمكن من فتح هذا التطبيق بعد إلغاء تثبيته.</string>

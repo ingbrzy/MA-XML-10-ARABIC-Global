@@ -152,6 +152,22 @@
         <item quantity="few">%d مجلدات</item>
         <item quantity="many">%d مجلد</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقائق</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d جلسة</item>
+        <item quantity="zero">%d جلسة</item>
+        <item quantity="one">%d جلسة</item>
+        <item quantity="two">%d جلسات</item>
+        <item quantity="few">%d جلسات</item>
+        <item quantity="many">%d جلسة</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">سيتم عرض الترجمات قبل %.1f ثانية</item>
         <item quantity="zero">سيتم عرض الترجمات قبل %.1f ثانية</item>
@@ -297,12 +313,12 @@
         <item quantity="many">انقر مرتين للرجوع %d دقيقة</item>
     </plurals>
     <plurals name="s_double_tap_forward">
-        <item quantity="other">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
-        <item quantity="zero">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
-        <item quantity="one">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
-        <item quantity="two">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
-        <item quantity="few">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
-        <item quantity="many">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="other">انقر مرتين للتقديم %d ثانية</item>
+        <item quantity="zero">انقر مرتين للتقديم %d ثانية</item>
+        <item quantity="one">انقر مرتين للتقديم %d ثانية</item>
+        <item quantity="two">انقر مرتين للتقديم %d ثواني</item>
+        <item quantity="few">انقر مرتين للتقديم %d ثواني</item>
+        <item quantity="many">انقر مرتين للتقديم %d ثانية</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s ثانية</item>

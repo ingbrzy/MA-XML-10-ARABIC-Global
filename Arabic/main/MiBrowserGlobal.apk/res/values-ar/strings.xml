@@ -129,7 +129,7 @@
     <string name="added_to_bookmarks">تمت الإضافة إلى الإشارات المرجعية</string>
     <string name="adjust_text_zoom_toast">قد يتسبب تغيير حجم النص في عرض بعض مواقع الويب بشكل غير صحيح</string>
     <string name="afternoon">بعد الظهر</string>
-    <string name="agree">موافق</string>
+    <string name="agree">أوافق</string>
     <string name="agree_permissions_request">السماح</string>
     <string name="alert_tips">هذا الموقع قد يكون غير آمن</string>
     <string name="all">الكل</string>
@@ -223,7 +223,6 @@
     <string name="card_game_title_1">التوصيات اليومية</string>
     <string name="card_game_title_2">الأكثر شهرة هذا الأسبوع</string>
     <string name="card_game_title_3">مختارات Mint</string>
-    <string name="cast_video">بث الفيديو</string>
     <string name="category">التصنيفات</string>
     <string name="category_album">الألبومات</string>
     <string name="category_all">كل الملفات</string>
@@ -263,7 +262,6 @@
     <string name="clear_history">مسح السجل</string>
     <string name="clear_most_visited">السجل الحديث</string>
     <string name="clear_search_history">مسح السجل</string>
-    <string name="clear_video_download">إزالة الفيديوهات</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="click_always">انقر على \"دائما\"</string>
     <string name="click_to_refresh">لقد توقفت المرة السابقة هنا، انقر للتحديث</string>
@@ -285,7 +283,6 @@
     <string name="cloud_time_tips">المزامنة الأخيرة</string>
     <string name="cloud_up_to_loading_tips">قم بالتحرير للمزامنة</string>
     <string name="collect_diagnosis_log">جمع السجلات</string>
-    <string name="collect_video">جمع الفيديو</string>
     <string name="collection_articles">المقالات</string>
     <string name="collection_videos">الفيديوهات</string>
     <string name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
@@ -387,15 +384,6 @@
     <string name="dark_mode">الوضع الداكن</string>
     <string name="data_error">خطأ في البيانات</string>
     <string name="data_format_ymd">yyyy/MM/dd</string>
-    <string name="data_traffic_continue">متابعة التشغيل</string>
-    <string name="data_traffic_download_cancel">إلغاء</string>
-    <string name="data_traffic_download_prompt">يمكنك فقط تنزيل هذا الفيديو عندما يكون جهازك متصلاً بشبكة Wi-Fi.</string>
-    <string name="data_traffic_download_setting">الإعدادات</string>
-    <string name="data_traffic_goto">حزمة البيانات</string>
-    <string name="data_traffic_prompt_free_data">قد يؤدي استخدامك بيانات الهاتف لمشاهدة الفيديوهات إلى رسوم إضافية. جرب استخدام حزمة بيانات معينة.</string>
-    <string name="data_traffic_prompt_message">سيؤدي استخدام اتصال بيانات الهاتف لتصفح مقاطع الفيديو إلى زيادة استخدام البيانات. إذا تجاوزت حد استخدام بيانات خطة جوالك، قد تفرض عليك شركة الاتصالات رسوما إضافية.</string>
-    <string name="data_traffic_prompt_title">انت تستخدم بيانات الهاتف</string>
-    <string name="data_traffic_stop">إيقاف</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -507,7 +495,7 @@
     <string name="download_noSize">حجم غير معروف</string>
     <string name="download_no_application_title">تعذر إيجاد الملف. هل قمت بنقله او حذفه؟</string>
     <string name="download_no_memory">تعذر التنزيل. لا توجد ذاكرة كافية.</string>
-    <string name="download_no_sdcard_dlg_msg">بطاقة SD لازمة لتنزيل %s.</string>
+    <string name="download_no_sdcard_dlg_msg">بطاقة SD ضرورية لتنزيل %s.</string>
     <string name="download_no_sdcard_dlg_title">لا توجد بطاقة SD</string>
     <string name="download_no_space_alert_clean">تفريغ مساحة</string>
     <string name="download_no_space_clean_failed">تعذر تفريغ مساحة على الجهاز</string>
@@ -534,7 +522,6 @@
     <string name="download_title">التنزيلات</string>
     <string name="download_unknown_title">غير معروف</string>
     <string name="download_update_background">تنزيل التحديثات في الخلفية</string>
-    <string name="download_video">تنزيل الفيديو</string>
     <string name="download_video_from_social_site">استمتع بتنزيل فيديوهاتك المفضلة من مواقع التواصل الاجتماعي</string>
     <string name="download_videos_from_here">يمكنك تنزيل فيديوهات من هذه الخدمات</string>
     <string name="download_wait_connect">في انتظار الاتصال</string>
@@ -578,7 +565,6 @@
     <string name="exit_clear_dialog_btn_cancel">إلغاء</string>
     <string name="exit_clear_dialog_btn_ok">مسح وخروج</string>
     <string name="exit_clear_dialog_msg">هل ترغب في مسح السجل قبل الخروج؟</string>
-    <string name="exit_fullscreen">الخروج من وضع ملء الشاشة</string>
     <string name="exit_game">إغلاق</string>
     <string name="exo_controls_fastforward_description">تقديم سريع</string>
     <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
@@ -808,7 +794,7 @@
     <string name="list_menu_rename_result_fail">تعذر إعادة التسمية</string>
     <string name="list_menu_rename_result_repeat">يوجد ملف بنفس الاسم مسبقاً</string>
     <string name="load_more">عرض المزيد</string>
-    <string name="loading">لحضة من فضلك…</string>
+    <string name="loading">لحظة من فضلك…</string>
     <string name="loading_tips">إسحب لأسفل للتحديث</string>
     <string name="local_apps">التطبيقات المحلية</string>
     <string name="local_bookmarks">Mi</string>
@@ -831,15 +817,6 @@
     <string name="make_private_msg_2">إخفاء هذه الملفات؟</string>
     <string name="max_tabs_warning">لا يمكن فتح المزيد من علامات التبويب</string>
     <string name="maximum_input_alert">لا يمكن إدخال أكثر من ٢٠٤٨ حرف</string>
-    <string name="media_error_action_refresh">تحديث</string>
-    <string name="media_error_action_replace_video_source">تعذر تغيير المصدر</string>
-    <string name="media_error_failure">لا يمكن تشغيل الفيديو</string>
-    <string name="media_error_format">تنسيق الفيديو غير معتمد</string>
-    <string name="media_error_network_unreachable">تعذر الاتصال بالشبكة</string>
-    <string name="media_error_nomemory">لا توجد ذاكرة كافية</string>
-    <string name="media_error_source">تعذر إيجاد المصدر</string>
-    <string name="media_error_timeout">انتهت مهلة الاتصال بالشبكة</string>
-    <string name="media_error_video_not_exist">الفيديو غير موجود</string>
     <string name="menu_addtodesk">إضافة إلى الشاشة الرئيسية</string>
     <string name="menu_exit_nightmode">خروج</string>
     <string name="menu_hv_swap">شاشة V/H</string>
@@ -935,6 +912,8 @@
     <string name="more_option">المزيد من الخيارات</string>
     <string name="more_recommend">مزيد من التوصيات</string>
     <string name="morning">الصباح</string>
+    <string name="most_visited_sites">الأكثر زيارة</string>
+    <string name="most_visited_sites_switch">إظهار الصفحات الأكثر زيارة على صفحة البداية</string>
     <string name="move_bookmark">نقل</string>
     <string name="msn_ad_identification">إعلان</string>
     <string name="msn_privacy">بيان خصوصية Microsoft</string>
@@ -954,6 +933,7 @@
     <string name="mw_actionbar_textselection_title">حدد النص</string>
     <string name="mw_actionbar_web_search">البحث في الويب</string>
     <string name="mw_autofill_popup_content_description">إظهار الملء التلقائي للنوافذ المنبثقة</string>
+    <string name="mw_chip_remove_icon_content_description">إزالة \"%1$s\"</string>
     <string name="mw_color_picker_button_black">أسود</string>
     <string name="mw_color_picker_button_blue">أزرق</string>
     <string name="mw_color_picker_button_cancel">إلغاء</string>
@@ -993,6 +973,7 @@
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">الشهر الماضي</string>
     <string name="mw_license_activity_title">تراخيص عرض ويب النظام</string>
+    <string name="mw_link_copied">تم نسخ URL بنجاح</string>
     <string name="mw_low_memory_error">لا يمكن أتمام العملية السابقة وذلك لأنخفاض الذاكرة</string>
     <string name="mw_miui_content_copy">نسخ</string>
     <string name="mw_miui_content_cut">قص</string>
@@ -1027,7 +1008,7 @@
     <string name="mw_miuichromium_error_page_network_off">قم بتشغيل شبكة Wi-Fi او بيانات الهاتف</string>
     <string name="mw_miuichromium_error_page_no_network">تعذر الاتصال بالشبكة</string>
     <string name="mw_miuichromium_error_page_problem_access_denied">الوصول إلى %s0 مرفوض.</string>
-    <string name="mw_miuichromium_error_page_problem_cache_miss">لا يمكن تحميل النسخة المخبأة من هذه الصفحة.</string>
+    <string name="mw_miuichromium_error_page_problem_cache_miss">لا يمكن تحميل النسخة في الذاكرة المؤقتة من هذه الصفحة.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page">لا يمكن فتح الصفحة.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">لا يمكن فتح هذه الصفحة. تم حظر الوصول بواسطة %s0.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">لا يمكن الوصول إلى هذا الصفحة. انقطع اتصال %s0.</string>
@@ -1097,6 +1078,7 @@
     <string name="mw_save_password_never">ابدا</string>
     <string name="mw_save_password_notnow">ليس الآن</string>
     <string name="mw_save_password_remember">تذكر</string>
+    <string name="mw_speech_recognition_service_not_found">تعذر العثور على محرك الكلام من Google</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">ص</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1104,7 +1086,6 @@
     <string name="mw_time_picker_dialog_pm">م</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">تعيين الوقت</string>
-    <string name="mw_url_copied">تم نسخ URL بنجاح</string>
     <string name="mw_video_buffering_percent">"تحميل "</string>
     <string name="mw_video_download_no_permission">الأذونات مطلوبة لتنزيل العناصر</string>
     <string name="mw_video_float_drag_scale_msg">اسحب لتغيير الحجم</string>
@@ -1303,7 +1284,6 @@
     <string name="password">كلمة المرور</string>
     <string name="per_month">كل شهر</string>
     <string name="permission_agree_service">لقد قرأت ووافقت على جميع البنود والشروط.</string>
-    <string name="permission_alert_window">لاستخدام هذه الميزة، اسمح بعرض النوافذ المنبثقة من الإعدادات.</string>
     <string name="permission_contacts">جهات الاتصال</string>
     <string name="permission_dialog_msg_camera">يرغب %s في استخدام الكاميرا</string>
     <string name="permission_dialog_msg_camera_mic">يرغب %s في استخدام الكاميرا والميكروفون</string>
@@ -1327,7 +1307,6 @@
     <string name="permission_open_storage">اسمح لمتصفح Mi أولاً بالوصول إلى التخزين الداخلي من الإعدادات.</string>
     <string name="permission_service">الأحكام والشروط</string>
     <string name="permission_storage">التخزبن</string>
-    <string name="permission_unknown">خطأ غير معروف</string>
     <string name="permission_use">الأذونات</string>
     <string name="personalized_content_services">خدمات محتوى مخصصة</string>
     <string name="personalized_services">خدمات شخصية</string>
@@ -1353,12 +1332,9 @@
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="pick_file">اختر ملفات</string>
     <string name="ping_test_title">تأخير الشبكة</string>
-    <string name="play_pause_video">تشغيل أو إيقاف مؤقت للفيديو</string>
-    <string name="play_video">تشغيل الفيديو</string>
     <string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> من اللاعبين يحبون هذه الألعاب ايضا</string>
     <string name="pm">م</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">فيديو منبثق</string>
     <string name="popup_window_attempt">هل تريد السماح لهذا الموقع فتح نافذة منبثقة؟</string>
     <string name="positive_confirm_message">إيقاف التشغيل على أية حال</string>
     <string name="pref_accessibility">إمكانية الوصول</string>
@@ -1537,8 +1513,8 @@
     <string name="privacy_authorize_summary">بدل مفتاح تشغيل/إيقاف لمنح أو إلغاء الترخيص</string>
     <string name="privacy_authorize_title">الترخيص</string>
     <string name="privacy_btn_more">المزيد</string>
-    <string name="privacy_improve_performance">المساعدة في تحسين أداء متصفح Mi</string>
-    <string name="privacy_improve_performance_desc">إرسال البيانات المجمعة وتقارير الأعطال إلى متصفح Mi تلقائيًا</string>
+    <string name="privacy_improve_performance">برنامج تجربة المستخدم</string>
+    <string name="privacy_improve_performance_desc">السماح لـ Xiaomi بجمع بيانات المستخدم وتحليلها لتحسين منتجاتنا وخدماتنا.</string>
     <string name="privacy_message">قبل إستخدامك المتصفح، يجب عليك الموافقة على &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">اتفاقية المستخدم&lt;/a>&lt;/font> و &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">سياسة الخصوصية&lt;/a>&lt;/font> لدينا.</string>
     <string name="privacy_message_main_tips_first">يحتاج متصفح Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها من &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">سياسة الخصوصية&lt;/a>&lt;/font>. يمكنك سحب الموافقة على سياسة خصوصية متصفح Mi في أي وقت من الإعدادات > الخصوصية والحماية. يجب أن تقرأ وتوافق على &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">اتفاقية المستخدم&lt;/a>&lt;/font> و &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">سياسة الخصوصية&lt;/a>&lt;/font> قبل استخدام متصفح Mi.</string>
     <string name="privacy_message_main_tips_second">للبحث عن التطبيقات الموجودة على هذا الجهاز ومعرفة التطبيقات المثبتة على الجهاز ، يتطلب متصفح Mi الوصول إلى معلومات التثبيت. لن يتم تخزين هذه المعلومات على الجهاز أو تحميلها على الخوادم بأي شكل من الأشكال.</string>
@@ -1546,6 +1522,7 @@
     <string name="privacy_message_welcome_tip_first">- تصفح سريع وآمن لمواقع الويب</string>
     <string name="privacy_message_welcome_tip_second">- تنزيل الصور ومقاطع الفيديو من مواقع التواصل الاجتماعي</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_reset_fail">تعذر إعادة تعيين. حاول مجددا.</string>
     <string name="privacy_sub_title">الأحكام والشروط</string>
     <string name="privacy_title">مرحباً في متصفح Mi</string>
     <string name="private_title">الملفات المخفية</string>
@@ -1725,10 +1702,10 @@
     <string name="setting_app_language">لغة المتصفح</string>
     <string name="setting_feed_language">لغة أحدث المحتويات</string>
     <string name="setting_privacy_password">تعيين نقش إلغاء القفل</string>
+    <string name="setting_swipe_up">مرر لأعلى على الشاشة الرئيسية</string>
     <string name="share_image_text">انظر ماذا شاركت! @MIUI</string>
     <string name="share_page_text">انظر ماذا شاركت: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">انظر ماذا شاركت: %1$s</string>
-    <string name="share_video">مشاركة الفيديو</string>
     <string name="sign_in">تسجيل الدخول</string>
     <string name="sign_in_by_others">طرق أخرى لتسجيل الدخول</string>
     <string name="sign_in_by_xiaommi">تسجيل الدخول باستخدام حساب Mi</string>
@@ -1863,7 +1840,7 @@
     <string name="time_picker_label_hour">س</string>
     <string name="time_picker_label_minute">دق</string>
     <string name="tip_drag">اضغط مطولا للتعديل واسحب للترتيب.</string>
-    <string name="tip_not_support_external_sdcard_modify">لا يمكن تعديل ملفات محفوظة في بطاقة SD</string>
+    <string name="tip_not_support_external_sdcard_modify">لا يمكن تعديل الملفات المحفوظة في بطاقة SD</string>
     <string name="tip_sync_disabled_by_incognito">لا يمكن مزامنة العناصر في وضع التصفح المخفي</string>
     <string name="tip_sync_switch_off">المزامنة متوقفة. يمكنك تشغيلها من \"حسابي\".</string>
     <string name="title_app_tags">التطبيقات</string>
@@ -1878,8 +1855,6 @@
     <string name="traffic_fail_free_no_left">نفذت البيانات. يرجى الاشتراك للمتابعة.</string>
     <string name="traffic_fail_no_left">أنت خارج حركة مرور VPN</string>
     <string name="traffic_fail_upload">حدث خطأ ما. حاول تشغيل VPN مجددا.</string>
-    <string name="transfer_prompt_0">تشغيل الفيديو</string>
-    <string name="transfer_restart">إعادة التشغيل</string>
     <string name="translate">ترجمة</string>
     <string name="translate_cur_page">ترجمة هذه الصفحة؟</string>
     <string name="translate_into">ترجمة إلى</string>
@@ -1933,9 +1908,7 @@
     <string name="user_guide_read_info_tips">لتضمين التطبيقات في نتائج البحث، يتطلب متصفح Mi الوصول إلى قائمة التطبيقات المثبتة على جهازك.</string>
     <string name="user_id_hint">البريد الإلكتروني/الهاتف/معرف حساب Mi</string>
     <string name="username">الإسم</string>
-    <string name="v5_deselect_all">إلغاء الكل</string>
-    <string name="v5_edit_mode_title_empty">٠ محدد</string>
-    <string name="v5_select_all">تحديد الكل</string>
+    <string name="v5_edit_mode_title_empty">تحديد عناصر</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="v_code_title">أدخل رمز التحقق</string>
@@ -1955,59 +1928,18 @@
     <string name="version_dialog_buttion_update">تحديث</string>
     <string name="version_update_file_download_toast">جارٍ التنزيل</string>
     <string name="version_update_file_not_found">لا يمكن العثور على التحديثات</string>
-    <string name="video_activity_name">مفضلة</string>
-    <string name="video_buffering_percent_string">"تحميل "</string>
-    <string name="video_collect_cancel">إزالة من المفضلة</string>
-    <string name="video_collect_success">تم الإضافة إلى المفضلة</string>
     <string name="video_collection_click_view">مقاطع الفيديو التي أضفتها إلى المفضلة موجودة هنا</string>
     <string name="video_collection_empty">لا توجد فيديوهات هنا</string>
     <string name="video_collection_known">حسنا</string>
     <string name="video_collection_view">عرض</string>
-    <string name="video_download_complete">تم التحميل بنجاح</string>
-    <string name="video_download_empty">لا توجد فيديوهات</string>
-    <string name="video_download_error">خطأ</string>
-    <string name="video_download_error_http_gone">تعذر إيجاد الملف</string>
-    <string name="video_download_exists">التنزيل موجود مسبقا.</string>
-    <string name="video_download_fail">تعذر التنزيل</string>
-    <string name="video_download_failed">تعذر التنزيل</string>
-    <string name="video_download_finding_address">الحصول على رابط التنزيل</string>
-    <string name="video_download_pause">إيقاف مؤقت</string>
-    <string name="video_download_start">جارٍ التنزيل…</string>
-    <string name="video_download_success">تم التحميل بنجاح</string>
-    <string name="video_download_unknown_name">فيديو غير معروف</string>
-    <string name="video_download_unknown_size">حجم غير معروف</string>
-    <string name="video_download_unsupport">غير مدعوم</string>
-    <string name="video_download_wait_for_wifi">في انتظار شبكة Wi-Fi</string>
-    <string name="video_downloaded_group">تم التنزيل</string>
+    <string name="video_download_complete">تم تحميل الفيديو بنجاح</string>
     <string name="video_downloader_edit_hint">"أدخل رابط الفيديو الذي ترغب في تنزيلة. مثلاً:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">لا يمكن تنزيل هذا العنصر</string>
     <string name="video_downloader_retry">إعادة المحاولة</string>
-    <string name="video_downloading_group">جارٍ التنزيل</string>
-    <string name="video_edit">تعديل</string>
-    <string name="video_float_window_text">فيديو منبثق</string>
-    <string name="video_fragment_name_collections">المفضلة</string>
-    <string name="video_fragment_name_download">فيديو متواجد</string>
-    <string name="video_fragment_name_historys">السجل</string>
-    <string name="video_fragment_name_offine">المتواجدة</string>
-    <string name="video_group_noupdates_list">لا توجد تحديثات متاحة</string>
-    <string name="video_group_updates_list">التحديثات</string>
-    <string name="video_history_empty">لا يوجد سجل</string>
-    <string name="video_manager_action_bar_end_view">فيديوهات على الإنترنت</string>
     <string name="video_play_next">التالي</string>
-    <string name="video_project_button">إيقاف</string>
-    <string name="video_project_msg">يتم بث الفيديو إلى %s</string>
-    <string name="video_project_title">بث الفيديو</string>
-    <string name="video_push_multi_title">تحديث متوفر</string>
-    <string name="video_push_single_message">انقر لتحديث إلى %1$d.</string>
     <string name="video_replay_btn">إعادة التشغيل</string>
     <string name="video_retry_btn">حاول مجددا</string>
-    <string name="video_service_notification_title">جارٍ تشغيل الفيديو المنبثق…</string>
-    <string name="video_subtitle_last_message1">أقل من دقيقة متبقية</string>
-    <string name="video_subtitle_prefix1">تمت المشاهدة</string>
-    <string name="video_subtitle_prefix2">"تمت المشاهدة "</string>
-    <string name="video_title_prefix_message">"المتواجدة: "</string>
-    <string name="video_unknown_duration">المدة غير معروفة</string>
     <string name="view_certificate">عرض الشهادة</string>
     <string name="view_document_downloaded_files">عرض الملفات التي تم تحميلها في التنزيلات</string>
     <string name="voice_check_network">تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
@@ -2040,7 +1972,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_not_support_by_region">خدمة VPN غير متوفرة في منطقتك</string>
     <string name="vpn_offline_tip">خدمات VPN غير متوفرة حاليًا</string>
     <string name="vpn_privacy_dialog_agress">أوافق</string>
-    <string name="vpn_privacy_dialog_content">يتم توفير هذه الخدمة من قِبل Tai Xin. يرجى قراءة والموافقة علي &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">سياسة خصوصية Tai Xin&lt;/a>&lt;/font> قبل استخدام هذه الخدمة.</string>
+    <string name="vpn_privacy_dialog_content">يتم توفير هذه الخدمة من قِبل Tai Xin. يرجى القراءة والموافقة علي &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">سياسة خصوصية Tai Xin&lt;/a>&lt;/font> قبل استخدام هذه الخدمة.</string>
     <string name="vpn_privacy_dialog_disagree">لا شكراً</string>
     <string name="vpn_privacy_dialog_title">بيان الخصوصية</string>
     <string name="vpn_subscribe_tips_1">استخدم جميع الخوادم المتاحة</string>
@@ -2054,7 +1986,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
-    <string name="welcome_to_mi_browser">مرحباً بك في متصفح Mi!</string>
     <string name="what_is_new">حدث التطبيق للوصول إلى الميزات الجديدة</string>
     <string name="whatsapp_downloadpage_tips">تنزيل حالات الواتساب</string>
     <string name="whatsapp_file_saved_success">تم الحفظ بنجاح</string>

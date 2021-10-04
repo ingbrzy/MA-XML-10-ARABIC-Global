@@ -79,6 +79,7 @@
     <string name="accessibility_document_blackwhite_button">جاري مسح المستندات. أسود وأبيض.</string>
     <string name="accessibility_document_origin_button">جاري مسح المستندات. الأصلي.</string>
     <string name="accessibility_document_strengthen_button">جاري مسح المستندات. محسن.</string>
+    <string name="accessibility_double_click_to_exit">انقر مرتين للخروج</string>
     <string name="accessibility_dual_preview_change">عرض التغييرات</string>
     <string name="accessibility_dual_preview_change_finish">تم عرض التغييرات بنجاح</string>
     <string name="accessibility_dual_video_merged">فيديو مدمج</string>
@@ -118,6 +119,7 @@
     <string name="accessibility_live_preview_button">عرض العنصر السابق</string>
     <string name="accessibility_live_reverse_button">حذف المقطع السابق</string>
     <string name="accessibility_live_speed_panel_on">لوحة السرعة</string>
+    <string name="accessibility_lock_focus_success">تم قفل التركيز بنجاح</string>
     <string name="accessibility_manually_custom_panel_on">لوحة التخصيص</string>
     <string name="accessibility_mimoji_background_panel_on">لوحة الخلفيات</string>
     <string name="accessibility_mimoji_gif_off">وضع GIF متوقف</string>
@@ -128,6 +130,7 @@
     <string name="accessibility_mimovie_on">استخدام إطار الفيلم</string>
     <string name="accessibility_module_picker_finish">تم التبديل إلى وضع %s</string>
     <string name="accessibility_more">المزيد</string>
+    <string name="accessibility_multi_cam_reselect_button">حدد الكاميرات مرة أخرى</string>
     <string name="accessibility_open">مشغل</string>
     <string name="accessibility_pano_moving_left">حرك الجهاز إلى اليسار</string>
     <string name="accessibility_pano_moving_right">حرك الجهاز إلى اليمين</string>
@@ -146,11 +149,14 @@
     <string name="accessibility_preview_selected">محدد</string>
     <string name="accessibility_preview_shrink">تصغير</string>
     <string name="accessibility_preview_zoom_tip">معاينة تكبير %1$.1fX</string>
+    <string name="accessibility_pro_parameters_panel_on">افتح القائمة بإستخدام معلمات برو</string>
     <string name="accessibility_pro_video_simple_mode">الوضع البسيط</string>
     <string name="accessibility_protrait">بورتريه</string>
     <string name="accessibility_pull_down_to_open_camera">إسحب لأسفل لفتح الكاميرا</string>
     <string name="accessibility_record_button">زر التسجيل</string>
     <string name="accessibility_reduce">تصغير</string>
+    <string name="accessibility_reference_line_image_off">خطوط الشبكة غير معروضة على الشاشة</string>
+    <string name="accessibility_reference_line_image_on">يتم عرض خطوط الشبكة على الشاشة</string>
     <string name="accessibility_reference_line_text">افتح لوحة خيارات الشريط المرجعي</string>
     <string name="accessibility_review_thumbnail">أحدث صورة</string>
     <string name="accessibility_select_all">تحديد الكل</string>
@@ -179,6 +185,8 @@
     <string name="accessibility_timer_burst_image_off">اللقطات المتتالية متوقفة</string>
     <string name="accessibility_timer_burst_image_on">اللقطات المتتالية مشغلة</string>
     <string name="accessibility_timer_burst_text">لوحة تعديل اللقطات المتتالية</string>
+    <string name="accessibility_touch_focus_fail">تعذر التركيز</string>
+    <string name="accessibility_touch_focus_success">تم التركيز بنجاح</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD متوقف</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD مشغل</string>
     <string name="accessibility_ultra_wide_off">تم إيقاف تشغيل وضع \"زاوية واسعة فائقة\"</string>
@@ -513,6 +521,7 @@
     <string name="custom_watermark_words">تخصيص العلامة المائية</string>
     <string name="custom_watermark_words_input_hint">أدخل نص</string>
     <string name="custom_watermark_words_save_success">تم الحفظ بنجاح</string>
+    <string name="dd_frn_f_t">قم بطي الهاتف لإستخدام الكاميرا الامامية</string>
     <string name="dialog_button_accept">قبول</string>
     <string name="dialog_button_back">رجوع</string>
     <string name="dialog_button_cancel">إلغاء</string>
@@ -565,11 +574,15 @@
     <string name="dual_video_record_remote">تسجيل مزدوج</string>
     <string name="dual_video_record_standalone">منفصل</string>
     <string name="dual_video_user_guide_main_content">لإنشاء مقاطع متعددة، اختر كاميرتين على الجهاز وصور في وقت واحد. يمكن حفظ مقاطع الفيديو بشكل منفصل أو دمجها في وضع تقسيم الشاشة أو وضع صورة داخل صورة.</string>
+    <string name="dual_video_user_guide_main_content_new">"يتم تصوير مقاطع الفيديو المتعددة بإستخدام عدة كاميرات في نفس الوقت.
+يتيح لك التسجيل المزدوج أيضًا الاتصال بالجهاز الآخر وإنشاء فيديوهات متعددة عن طريق اختيار \"مدمج\"."</string>
     <string name="dual_video_user_guide_main_title">فيديوهات متعددة</string>
     <string name="dual_video_user_guide_merge_content">تسجيل مقاطع الفيديو في وقت واحد باستخدام كاميرتين ودمجهما في فيديو مدمج في شاشة مقسمة أو وضع صورة داخل صورة.</string>
-    <string name="dual_video_user_guide_remote_content">يسمح لك التسجيل المزدوج بدمج تصوير مقاطع الفيديو من جهازين مختلفين في فيديو واحد. يمكنك معاينة مقاطع الفيديو والفيديو النهائي على هذا الجهاز. يرجى ملاحظة أنه سيتم تسجيل صوت الفيديو على هذا الجهاز فقط.</string>
+    <string name="dual_video_user_guide_merge_content_new">يمكن دمج تسجيلين في شاشة مقسمة أو وضع صورة داخل صورة.</string>
+    <string name="dual_video_user_guide_remote_content">دمج مقاطع الفيديو من جهازين مختلفين في فيديو واحد. يمكنك معاينة مقاطع الفيديو والفيديو النهائي على هذا الجهاز. يرجى ملاحظة أنه سيتم تسجيل صوت الفيديو على هذا الجهاز فقط.</string>
     <string name="dual_video_user_guide_remote_p">هاتف %d</string>
     <string name="dual_video_user_guide_standalone_content">تسجيل مقاطع الفيديو في وقت واحد بإستخدام كاميرتين وحفظ كلا التسجيلين كمقاطع فيديو منفصلة.</string>
+    <string name="dual_video_user_guide_standalone_content_new">يمكن أيضًا فصل مقاطع الفيديو المسجلة في وقت واحد وحفظها كملفين.</string>
     <string name="edit_blusher">أحمر شفاه</string>
     <string name="edit_chin">ذقن</string>
     <string name="edit_color_skin">لون البشرة</string>
@@ -592,6 +605,7 @@
     <string name="edit_solid">كونتور</string>
     <string name="emoticon">ايموجي شخصي</string>
     <string name="error_fail_to_start_audio_capture">تعذر بدء التسجيل الصوتي</string>
+    <string name="esp_tip">معاينة على الشاشة الخارجية</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="eye_light">لمعان العين</string>
     <string name="eye_light_angel">ملاك</string>
@@ -735,7 +749,7 @@
     <string name="live_sticker_updating">جارٍ التحديث…</string>
     <string name="live_workspace_title">المسودات</string>
     <string name="live_workspace_title_edit">قم بتحديد عناصر للحذف</string>
-    <string name="location_access_allow">السماح</string>
+    <string name="location_access_allow">Agree</string>
     <string name="location_permission_des">تذكر موقع الصور والفيديوهات</string>
     <string name="location_permission_not_ask_again">اسمح للكاميرا بالوصول إلى موقعك من الإعدادات.</string>
     <string name="location_permission_not_ask_again_go_to_settings">السماح</string>
@@ -897,6 +911,7 @@
     <string name="module_name_panorama">بانوراما</string>
     <string name="module_name_portrait">بورتريه</string>
     <string name="module_name_professional">إحترافي</string>
+    <string name="module_name_scanner">الماسح</string>
     <string name="module_name_square">مربع</string>
     <string name="module_name_super_moon">قمر عملاق</string>
     <string name="module_name_video">فيديو</string>
@@ -914,8 +929,8 @@
     <string name="network_access_user_notice_title">الاتصال بالإنترنت</string>
     <string name="network_connection_failed">تعذر الاتصال</string>
     <string name="network_connection_ongoing">جارٍ الاتصال…</string>
-    <string name="network_connection_prerequisites">قم بالاتصال بالبلوتوث و Wi-Fi لبدء التسجيل المزدوج.</string>
-    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites">قم بتشغيل البلوتوث و Wi-Fi من مركز التحكم لتتمكن من استخدام التسجيل المزدوج.</string>
+    <string name="network_connection_prerequisites_china">قم بتشغيل البلوتوث و Wi-Fi من مركز التحكم لتتمكن من استخدام التسجيل المزدوج.</string>
     <string name="network_connection_rejected">تم الرفض</string>
     <string name="network_connection_timed_out">انتهت مهلة الاتصال</string>
     <string name="no_storage">أدخل بطاقة SD قبل استخدام بالكاميرا</string>
@@ -1052,6 +1067,7 @@
     <string name="pref_camera_auxiliary_close">متوقف</string>
     <string name="pref_camera_auxiliary_exposure_feedback">التحقق من التعرض</string>
     <string name="pref_camera_auxiliary_focus_peak">ذروة التركيز البؤري</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1084,11 +1100,12 @@
     <string name="pref_camera_delay_capture_entry_audio">الصوت</string>
     <string name="pref_camera_delay_capture_title">المؤقت</string>
     <string name="pref_camera_device_watermark_title">علامة مائية للجهاز</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">سيتم تقليل معدل الإطارات تلقائيًا في ظروف الإضاءة المنخفضة لتحسين جودة الفيديو</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">سيتم تقليل معدل الإطارات تلقائيًا في ظروف الإضاءة المنخفضة أو درجة الحرارة العالية لتحسين جودة الفيديو</string>
     <string name="pref_camera_dynamic_frame_rate_title">ضبط معدل الإطار في الإضاءة المنخفضة</string>
     <string name="pref_camera_eis_entry_normal">مثبت الفيديو</string>
     <string name="pref_camera_eis_entry_off">متوقف</string>
     <string name="pref_camera_eis_entry_pro">مثبت الفيديو برو</string>
+    <string name="pref_camera_esp">معاينة على الشاشة الخلفية</string>
     <string name="pref_camera_face_info_watermark_title">إضافة طابع عمري في الصورة</string>
     <string name="pref_camera_fastmotion_duration">المدة الزمنية</string>
     <string name="pref_camera_fastmotion_duration_description">طول التسجيل غير محدد بشكل افتراضي. يمكنك أيضًا ضبط مؤقت لإيقاف التسجيل بعد فاصل زمني محدد.</string>
@@ -1238,6 +1255,8 @@
     <string name="pref_camera_tip_id_card">ماسح الهوية</string>
     <string name="pref_camera_touchafaec_entry_off">متوقف</string>
     <string name="pref_camera_touchafaec_entry_on">مشغل</string>
+    <string name="pref_camera_track_focus_preferred_description">عند تشغيله، سيقوم بتتبع التركيز على الأشخاص والحيوانات تلقائيا. وايضا ستتمكن من تحديد التركيز على ماتريد تتبعه يدويا.</string>
+    <string name="pref_camera_track_focus_preferred_title">تتبع التركيز</string>
     <string name="pref_camera_ubifocus_title">إعادة التركيز البؤري</string>
     <string name="pref_camera_ultra_wide_ldc_description">تصحيح الأجسام المشوهه تلقائيا</string>
     <string name="pref_camera_ultra_wide_ldc_title">تصحيح التشويه في اللقطات الواسعة جداً</string>
@@ -1306,7 +1325,7 @@
     <string name="pref_hdr10plus_video_mode_description">تحسين اللون وضبط تباين فيديوهات 4K و 8K. تعمل هذه الميزة فقط على أجهزة متوافقة مع جودة HDR10+.</string>
     <string name="pref_i_n_r_b">تقليل الضوضاء الذكي</string>
     <string name="pref_k_h">سماعات داخل الأذن</string>
-    <string name="pref_k_s_i">Monitor recorded sound using the earphones when they are connected</string>
+    <string name="pref_k_s_i">مراقبة الصوت المسجل بإستخدام السماعات عند توصيلها</string>
     <string name="pref_lens_dirty_detect_summary">تلقي إشعار عند اتساخ العدسة</string>
     <string name="pref_lens_dirty_detect_title">إعلامي عند اتساخ العدسة</string>
     <string name="pref_manual_exposure_title">S</string>
@@ -1402,11 +1421,15 @@
     <string name="prek_b_j_o">إعادة إنشاء تأثير ستيريو محيطي</string>
     <string name="prek_b_j_p">تقليل صوت الرياح على التسجيلات الصوتية</string>
     <string name="prep_video_ai_audio_new_desc_tip">يتم تحسين الصوت الصادر من العنصر المركز عليه</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">تم تحسين جودة صوت الهدف في الوضع الأفقي</string>
     <string name="prep_video_ai_audio_single_desc_tip">يتم تصفية الأصوات في الخلفية</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">يتم تصفية أصوات خلفية الشاشة في الوضع الأفقي</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">لا يعمل تكبير الصوت مع سماعات داخل الأذن والميكرفون الخارجي</string>
     <string name="preparing_sd">جار التحقق من بطاقة SD…</string>
     <string name="preview_back_pressed_hint">اضغط مجددًا للعودة إلى المعاينة</string>
     <string name="pro_color_mode">لون برو</string>
+    <string name="process_tips_1">لا تقم بطي الجهاز حتى يتم حفظ الفيديو</string>
+    <string name="process_tips_2">لا تقم بتوسيع الجهاز حتى يتم حفظ الفيديو</string>
     <string name="professional_shortcut_short">احترافي</string>
     <string name="recommend_macro_mode">جرب وضع ماكرو</string>
     <string name="recommend_portrait">جرب وضع بورتريه</string>
@@ -1431,6 +1454,9 @@
     <string name="reset_manual_picture_style_toast">تم إعادة تعيين النمط بنجاح</string>
     <string name="reset_manually_parameter_confirmed">موافق</string>
     <string name="reset_manually_parameter_hint">إعادة تعيين</string>
+    <string name="scan_install_prompt_header">قم بتثبيت الماسح الضوئي</string>
+    <string name="scan_install_prompt_loading">جارٍ تثبيت الماسح…</string>
+    <string name="scan_install_prompt_message">يرجى تثبيت الماسح الضوئي والمحاولة مجددا.</string>
     <string name="screen_on_proximity_sensor_hint">لإيقاف تشغيل هذه الميزة، اضغط على زر رفع مستوى الصوت و زر العودة في وقت واحد.</string>
     <string name="screen_on_proximity_sensor_summary">لا تقم بتغطية منطقة سماعة الأذن</string>
     <string name="search_menu_title">البحث</string>
@@ -1497,6 +1523,7 @@
     <string name="super_moon_under">ضوء القمر</string>
     <string name="super_moon_window">نافذة</string>
     <string name="super_night_hint">جارٍ تحسين الصورة… حافظ على استقرار جهازك.</string>
+    <string name="super_night_owl_toast">امسك الهاتف بثبات</string>
     <string name="super_night_se_tip">الوضع الليلي</string>
     <string name="super_night_toast">ابقي الهاتف ثابت أثناء التصوير</string>
     <string name="tap_to_exposure">انقر لضبط التعرض يدويا</string>
@@ -1532,9 +1559,11 @@
     <string name="ubifocus_capture_warning_message">للحصول على أفضل نتيجة، يجب أن تحتوي الصورة على أهداف قريبة (أقل من ١ متر من العدسة) وبعيدة</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD متوقف</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD متوقف</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD مشغل</string>

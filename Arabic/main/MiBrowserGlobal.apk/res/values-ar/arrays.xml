@@ -117,6 +117,10 @@
         <item>iPhone</item>
         <item>أيباد</item>
     </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>بحث</item>
+        <item>أخبار</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>حذف</item>
         <item>لا شكراً</item>

@@ -100,7 +100,7 @@
     <string name="convertion_unit_weight">محول الكتلة</string>
     <string name="cos">cos</string>
     <string name="cosDesc">جيب التمام</string>
-    <string name="currency_dialog_privacy_content">&lt;Data>يحتاج محول العملات إلى الاتصال الإنترنت لتحديث أسعار الصرف. يجب عليك قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل استخدام هذه الميزة.&lt;/Data></string>
+    <string name="currency_dialog_privacy_content">&lt;Data>يحتاج محول العملات إلى الاتصال الإنترنت لتحديث أسعار الصرف. يجب عليك القراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل استخدام هذه الميزة.&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">يتم توفير أسعار الصرف من قبل Webull. اتصل بالشبكة للحصول على أحدث المعلومات.</string>
     <string name="currency_update_support">يتم توفير أسعار الصرف من قبل Webull.</string>
     <string name="currency_update_time_format">أسعار الصرف مزودة بواسطة Webull (%s)</string>
@@ -115,7 +115,7 @@
     <string name="description_content">بالإضافة إلى الميزات الأساسية، تعمل الآلة الحاسبة أيضا كمحول متعدد الوظائف ورهن عقاري وآلة حاسبة للضرائب. تأكد من أنك تستطيع أن تفعل ذلك دون هذه الميزات قبل إلغاء تثبيت التطبيق.</string>
     <string name="description_title">معلومات عن الآلة الحاسبة</string>
     <string name="devided_by_zero_reminder_message">لا يمكن القسمة على صفر</string>
-    <string name="dialog_privacy_content">&lt;Data>يحتوي التطبيق بالإضافة إلى الوظائف الأساسية على حاسبة علمية ومحول متعدد الوظائف. تحتاج بعض الوظائف إلى الاتصال بالإنترنت لتعمل بشكل طبيعي. يجب عليك قراءة وقبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الآلة الحاسبة.&lt;/Data></string>
+    <string name="dialog_privacy_content">&lt;Data>يحتوي التطبيق بالإضافة إلى الوظائف الأساسية على حاسبة علمية ومحول متعدد الوظائف. تحتاج بعض الوظائف إلى الاتصال بالإنترنت لتعمل بشكل طبيعي. يجب عليك القراءة والموافقة على &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> لدينا قبل استخدام الآلة الحاسبة.&lt;/Data></string>
     <string name="dialog_privacy_disagree_msg">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية الآلة الحاسبة، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن الخدمات الأساسية التي تقدمها الحاسبة تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بالخدمات التي تعمل على أساس جمع البيانات.</string>
     <string name="dialog_privacy_revoke_btn_ok">سحب</string>
     <string name="dialog_privacy_revoke_title">سحب الموافقة</string>
@@ -136,7 +136,7 @@
     <string name="digit9">۹</string>
     <string name="divDesc">قسمة</string>
     <string name="dob_selection_error">يجب أن يكون تاريخ الميلاد أقدم من تاريخ اليوم</string>
-    <string name="dont_allow">غير موافق</string>
+    <string name="dont_allow">لا أوافق</string>
     <string name="dotDesc">فاصلة</string>
     <string name="e">e</string>
     <string name="eDesc">عدد أويلر</string>
@@ -256,7 +256,7 @@
     <string name="leftParenDesc">قوس أيسر</string>
     <string name="lg">lg</string>
     <string name="lgDesc">خوارزمية</string>
-    <string name="license_host_unreachable">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
+    <string name="license_host_unreachable">تعذر الاتصال بالشبكة. تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
     <string name="ln">ln</string>
     <string name="lnDesc">خوارزمية طبيعية</string>
     <string name="loading">لحظة من فضلك…</string>
@@ -346,7 +346,7 @@
     <string name="network_confirm_content">يحتاج محول العملة والآلات الحاسبة للضرائب والرهن إلى الاتصال بالإنترنت والدخول إلى خدمات الموقع للعمل بشكل طبيعي.</string>
     <string name="network_confirm_title">يتطلب أذونات</string>
     <string name="network_purpose">مرحبا بك في الحاسبة! تتيح لك الحاسبة تحويل العملات وحساب سداد الرهن العقاري والمزيد.</string>
-    <string name="new_privacy_string">&lt;Data>مرحبا بك في الآلة الحاسبة&lt;br/>يحتوي هذا التطبيق على الميزات التالية:&lt;br/>•الحاسبة الأساسية&lt;br/>•الحاسبة العلمية&lt;br/>•المحول العالمي (مثل تحويل العملات ووحدات القياس)&lt;br/>•قوالب الحساب للقروض والاستثمارات والأقساط الشهرية والمزيد.&lt;br/>تحتاج الآلة الحاسبة إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href= \"%1$s\">سياسة الخصوصية&lt;/a>. يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%3$s\">سياسة الخصوصية&lt;/a> قبل استخدام الآلة الحاسبة. يمكنك سحب الموافقة على سياسة خصوصية الآلة الحاسبة في أي وقت من الإعدادات. إذا كنت لا توافق على سياسة الخصوصية الخاصة بنا، فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
+    <string name="new_privacy_string">&lt;Data>مرحبا بك في الآلة الحاسبة&lt;br/>يحتوي هذا التطبيق على الميزات التالية:&lt;br/>• الحاسبة الأساسية&lt;br/>• الحاسبة العلمية&lt;br/>• المحول العالمي (مثل تحويل العملات ووحدات القياس)&lt;br/>• قوالب الحساب للقروض والاستثمارات والأقساط الشهرية والمزيد.&lt;br/>تحتاج الآلة الحاسبة إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href= \"%1$s\">سياسة الخصوصية&lt;/a>. يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%3$s\">سياسة الخصوصية&lt;/a> قبل استخدام الآلة الحاسبة. يمكنك سحب الموافقة على سياسة خصوصية الآلة الحاسبة في أي وقت من الإعدادات. إذا كنت لا توافق على سياسة الخصوصية الخاصة بنا، فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="none">لا يوجد</string>
     <string name="not_supported_due_to_language">هذه الميزة متوفرة فقط للغة الصينية</string>
     <string name="ok">موافق</string>
@@ -513,6 +513,7 @@
     <string name="unit_data_display_currency_btn">نغولتروم بوتاني</string>
     <string name="unit_data_display_currency_bwp">بولا بوتسوانية</string>
     <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دولار كندي</string>
     <string name="unit_data_display_currency_cdf">فرنك كنغولي</string>
     <string name="unit_data_display_currency_chf">فرنك سويسري</string>
@@ -850,12 +851,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_calculator_delete_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إلغاء تثبيته.</string>
     <string name="xiaomi_calculator_delete_title">هل ترغب في إلغاء تثبيت الآلة الحاسبة؟</string>
     <string name="xiaomi_calculator_remove_icon_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إزالة اختصارة من الشاشة الرئيسية.</string>
     <string name="xiaomi_calculator_remove_icon_title">هل ترغب في إزالة تطبيق \"الآلة الحاسبة\" من الشاشة الرئيسية؟</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميجابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s
