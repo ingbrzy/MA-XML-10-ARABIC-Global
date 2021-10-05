@@ -353,8 +353,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">لا يمكن استعادة العناصر في وضع الكمبيوتر. قم بإيقاف وضع الكمبيوتر وحاول مرة أخرى.</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
