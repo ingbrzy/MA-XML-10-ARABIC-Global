@@ -1192,7 +1192,6 @@
     <string name="keyguard_missing_sim_instructions_long">‏شريحة SIM مفقودة أو غير قابلة للقراءة. أدخل شريحة SIM.</string>
     <string name="keyguard_missing_sim_message">‏ليس هناك شريحة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">‏ليست هناك شريحة SIM</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكة مؤمّنة</string>
     <string name="keyguard_password_enter_password_code">اكتب كلمة المرور لإلغاء التأمين</string>
     <string name="keyguard_password_enter_pin_code">اكتب رمز رقم التعريف الشخصي</string>
@@ -1501,14 +1500,12 @@ mm"</string>
 
 يمكنك الاتصال بالمشرف للحصول على مزيد من المعلومات."</string>
     <string name="monitoring_description_ca_cert_settings">فتح بيانات الاعتماد الموثوق بها</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">تم تثبيت مرجع مصدّق على هذا الجهاز. قد تتم مراقبة حركة بيانات شبكتك الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يمكن للمشرف مراقبة الإعدادات وإدارتها والدخول إلى المؤسسة والتطبيقات والبيانات المرتبطة بجهازك ومعلومات موقع الجهاز.</string>
     <string name="monitoring_description_do_body_vpn">لقد اتصلت بتطبيق %1$s، الذي يمكن أن يراقب نشاط الشبكة، بما في ذلك رسائل البريد الإلكتروني والتطبيقات والمواقع الإلكترونية.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك بواسطة %1$s.</string>
     <string name="monitoring_description_do_header_with_name">تستخدم %1$s تطبيق %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">مزيد من المعلومات</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">ثبّتت مؤسستك مرجعًا مصدّقًا في ملفك الشخصي للعمل. قد تتم مراقبة حركة بيانات شبكتك الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">تم ربط الملف الشخصي للعمل بـ %1$s، الذي يمكنه مراقبة أنشطتك الشخصية على الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_managed_profile_network_logging">شغَّل المشرف ميزة تسجيل بيانات الشبكة، والتي يتم من خلالها مراقبة حركة البيانات في ملفك الشخصي للعمل ولكن لا تتم مراقبتها في ملفك الشخصي.</string>
@@ -1542,7 +1539,6 @@ mm"</string>
 
 وتجدر الإشارة إلى أنك متصل أيضًا بشبكة افتراضية خاصة يمكن أن تراقب نشاط الشبكة."</string>
     <string name="monitoring_description_vpn_settings">‏فتح إعدادات الشبكة الافتراضية الخاصة (VPN)</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"قد تتمكّن مؤسسة %1$s من الوصول إلى البيانات المرتبطة بهذا الجهاز وإدارة التطبيقات وتغيير إعدادات الجهاز.
 
 إذا كان لديك أسئلة، يُرجى التواصل مع %2$s."</string>
@@ -1623,7 +1619,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -1654,7 +1649,6 @@ mm"</string>
     <string name="nav_bar">شريط التنقل</string>
     <string name="nav_bar_default">(تلقائي)</string>
     <string name="nav_bar_layout">التنسيق</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">تم إرسال صورة من %1$s.</string>
     <string name="new_notification_text_content_description">تم إرسال رسالة من %1$s: %2$s</string>
     <string name="new_status_content_description">تم تعديل حالة %1$s: %2$s</string>
@@ -1872,7 +1866,6 @@ mm"</string>
     <string name="private_dns_mode_provider">اسم مضيف مزوّد \"نظام أسماء النطاقات الخاص\"</string>
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">‏يُرجى إدخال اسم مضيف DNS</string>
-    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="profile_connect_timeout_subtext">حدثت مشكلة أثناء الاتصال. يُرجى إيقاف الجهاز ثم إعادة تشغيله.</string>
     <string name="profile_info_settings_title">معلومات الملف الشخصي</string>
     <string name="profile_owned_footer">ربما تتم مراقبة الملف الشخصي</string>

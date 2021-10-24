@@ -1606,7 +1606,6 @@ Playback quality"</string>
 إذا قمت بالفعل بأي مما سبق، فأضف حساب Mi مرة أخرى؛ وإلا فلن تكون قادرًا على إلغاء قفل جهازك."</string>
     <string name="bootloader_tips_ok">فهمت</string>
     <string name="bootloader_tips_warning">لا تنفصل عن الشبكة، ولا تسجل الخروج من حساب Mi، ولا تعيد ضبط المصنع أو حذف بيانات النظام.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Functions of additional buttons</string>
     <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
     <string name="breathing_light_color_menu_title">Light color</string>
@@ -2665,7 +2664,6 @@ This setting affects all users of this device."</string>
     <string name="dialog_wifi_context">You need to connect to the internet to set up your device. Unless you connect to Wi-Fi, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
     <string name="dialog_wifi_title">Using mobile data</string>
     <string name="dialog_yes">Yes</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Note: After a reboot, this app won't start until you unlock your device."</string>
     <string name="disable_overlays">إيقاف تراكبات الأجهزة</string>
     <string name="disable_overlays_summary">استخدام وحدة معالجة الرسومات دائمًا لتركيب الشاشة</string>
@@ -2752,7 +2750,6 @@ This setting affects all users of this device."</string>
     <string name="dndm_auto_button_title">Repeat do not disturb time</string>
     <string name="dndm_auto_setting_group">Scheduled</string>
     <string name="dndm_auto_time_setting">Set time</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">To</string>
     <string name="dndm_auto_time_turn_off_title">Automatically turn off do not disturb</string>
     <string name="dndm_auto_time_turn_on">From</string>
@@ -4227,7 +4224,6 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="lights_title">ضوء LED</string>
     <string name="line_breaking_summary">Optimize paragraph line breaking</string>
     <string name="line_breaking_title">Optimize text</string>
-    <string name="link_speed">%1$d ميغابت في الثانية</string>
     <string name="link_turbo_prompt">"The stats on this page show only the amount of data used for boosting Wi-Fi connection speed. These stats don't reflect actual mobile data usage."</string>
     <string name="link_turbo_settings_all_app_display_loading">Just a sec…</string>
     <string name="link_turbo_settings_all_app_reach_max">You can select up to 15 apps</string>
@@ -4815,7 +4811,6 @@ You can't reverse this action."</string>
     <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
     <string name="memory_usage">استخدام الذاكرة</string>
     <string name="memory_usage_apps">الذاكرة المستخدمة بواسطة التطبيقات</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
     <string name="memory_use_summary">متوسط الذاكرة المستخدمة خلال آخر ٣ ساعات: %1$s</string>
     <string name="menu_cancel">إلغاء</string>
     <string name="menu_check">Experience</string>
@@ -5263,7 +5258,6 @@ Select your operating system:"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -5431,7 +5425,6 @@ Select your operating system:"</string>
     <string name="nfc_how_it_works_title">طريقة الدفع</string>
     <string name="nfc_main_switch_title">‏استخدام الاتصالات القريبة المدى (NFC)</string>
     <string name="nfc_more_title">المزيد…</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">ضبط كتطبيق تلقائي</string>
     <string name="nfc_payment_btn_text_update">تعديل</string>
     <string name="nfc_payment_default">التطبيق التلقائي للدفع</string>
@@ -5827,7 +5820,6 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
     <string name="overlay_settings_title">السماح بالظهور فوق المحتوى على الشاشة في \"الإعدادات\"</string>
     <string name="overlay_toast_failed_to_apply">تعذّر تطبيق الطبقة المتراكبة.</string>
     <string name="owner_info_settings_edit_text_hint">‏جهاز Android الخاص بهاني مثلاً</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_summary">بدون</string>
     <string name="owner_info_settings_title">Lock screen signature</string>
     <string name="owner_space">First space</string>
@@ -6062,7 +6054,6 @@ Read and agree to %s before using this service."</string>
     <string name="power_remaining_less_than_duration_only">سيبقى شحن البطارية أقل من %1$s.</string>
     <string name="power_remaining_more_than_subtext">سيبقى شحن البطارية أكثر من %1$s (%2$s).</string>
     <string name="power_remaining_only_more_than_subtext">سيبقى شحن البطارية أكثر من %1$s.</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">شاشة العرض</string>
     <string name="power_settings_title">System performance</string>
     <string name="power_suggestion_battery_run_out">قد ينفد شحن البطارية قبل %1$s.</string>
@@ -6308,8 +6299,6 @@ Read and agree to %s before using this service."</string>
     <string name="privileged_action_disable_sub_dialog_title">هل تريد إيقاف %1$s؟</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">‏هل تريد إيقاف شريحة SIM؟</string>
     <string name="process_dex2oat_label">تحسين التطبيقات</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_provider_in_use_description">الموفر %1$s قيد الاستخدام.</string>
     <string name="process_service_in_use_description">الخدمة %1$s قيد الاستخدام.</string>
@@ -7070,7 +7059,6 @@ Read and agree to %s before using this service."</string>
     <string name="security_encryption_attention_3">"You'll have to set a new screen lock."</string>
     <string name="security_encryption_attention_4">"Make sure you remember your screen lock, otherwise you'll have to complete a full reset and erase all data on the device."</string>
     <string name="security_encryption_attention_info">You can encrypt accounts, settings, downloaded apps and their data, media, and other files.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">Choosing not to encrypt the device using a screen lock may make some Google services unavailable.</string>
     <string name="security_encryption_close_dialog_title">Go back to default system encryption</string>
@@ -7554,7 +7542,6 @@ Read and agree to %s before using this service."</string>
     <string name="sim_select_card">‏اختيار شريحة SIM</string>
     <string name="sim_selection_channel_title">‏اختيار شريحة SIM</string>
     <string name="sim_selection_required_pref">يلزم التحديد</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">‏بطاقات SIM</string>
     <string name="sim_setup_channel_id">تفعيل الشبكة</string>
     <string name="sim_setup_wizard_title">‏بطاقات SIM</string>
@@ -7574,7 +7561,6 @@ Double tap to open Recents."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">التخطّي</string>
     <string name="skip_label">التخطي</string>
@@ -7748,10 +7734,8 @@ Double tap to open Recents."</string>
     <string name="status_bar_app_enable_keyguard">قفل الشاشة</string>
     <string name="status_bar_app_enable_message">الشارات</string>
     <string name="status_bar_carrier_settings_no_sim_card">لا توجد بطاقة SIM</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">الإشعارات وشريط الحالة</string>
     <string name="status_bar_settings_all_app_display_loading">لحظة من فضلك…</string>
-    <string name="status_bar_settings_carrier_sim">%1$s SIM :</string>
     <string name="status_bar_settings_manage_notification">إشعارات التطبيقات</string>
     <string name="status_bar_settings_notification_bar">مركز الإشعارات</string>
     <string name="status_bar_settings_status_bar">شريط الحالة</string>
@@ -8045,7 +8029,6 @@ The move takes about ^2 and will free ^3 on internal storage. Some apps won't wo
     <string name="sum_carrier_select">اختيار مشغل شبكة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s إلى %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
@@ -8900,7 +8883,6 @@ Tap the plus to add words."</string>
     <string name="vision_settings_title">إعدادات الرؤية</string>
     <string name="voice_access">Voice controls</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Speech</string>
     <string name="voice_helper_title">Voice assistant</string>
     <string name="voice_input_output_settings">الإدخال الصوتي والاستماع</string>
@@ -10037,10 +10019,8 @@ you can use other users' networks, too."</string>
     <string name="zone_auto_summaryOn">Use the time provided by the carrier network</string>
     <string name="zone_auto_title">ضبط المنطقة الزمنية تلقائيًا</string>
     <string name="zone_change_to_from_dst">يبدأ %1$s بحلول %2$s.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">تستخدم %1$s. ويبدأ %2$s في %3$s.</string>
     <string name="zone_info_footer_no_dst">تستخدم %1$s. وليس هناك توقيت صيفي.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Sort alphabetically</string>
     <string name="zone_list_menu_sort_by_timezone">Sort by time zone</string>
     <string name="zone_menu_by_offset">‏الاختيار حسب فارق الوقت عن UTC</string>
