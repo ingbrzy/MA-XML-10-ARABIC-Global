@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">خدمة راديو FM</string>
-    <string name="frequency_mhz_fomart">%s ميغاهرتز</string>
-    <string name="notification_rec_title">اضغط لعرض التسجيل</string>
-    <string name="record_completed">اكتمل التسجيل</string>
-    <string name="station_freq_format">%s ميغاهرتز</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-</resources>

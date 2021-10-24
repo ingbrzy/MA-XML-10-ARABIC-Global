@@ -228,11 +228,13 @@
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="operation_delete">حذف</string>
     <string name="operation_send">ارسال</string>
+    <string name="permission_desc">Permissions details</string>
     <string name="permission_intro_microphone">تسجيل الصوت عند ضبط مصدر الصوت على الميكروفون</string>
     <string name="permission_intro_storage">لحفظ تسجيلات الشاشة</string>
     <string name="permission_microphone_desc">استخدام الميكروفون كمصدر صوت لتسجيلات الشاشة</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
+    <string name="privacy_settings">Privacy</string>
     <string name="quit_recording">الخروج من مسجل الشاشة</string>
     <string name="recording_failure">لا يمكن التسجيل، ابدء من جديد</string>
     <string name="recording_max_size">تم إيقاف التسجيل وحفظه لوصول ملف الفيديو إلى الحجم الأفصى. أبدء التسجيل من حيث توقفت إذا لم تنتهي بعد.</string>
@@ -337,6 +339,7 @@
     <string name="using_record_confirm_ok">السماح</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="view_privacy">View Privacy Policy</string>
     <string name="view_recorded_file">انقر لعرض الملف المسجل</string>
     <string name="view_recorded_videos">عرض التسجيلات</string>
     <string name="warning_recording_when_a2dp_connect">لا يدعم جهازك تسجيل أصوات النظام عند توصيل سماعة رأس بلوتوث.</string>

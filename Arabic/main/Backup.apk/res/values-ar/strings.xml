@@ -172,6 +172,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_backup_password_change_machine_tips">لا يمكنك نقل النُسخ الاحتياطية المحمية بكلمة مرور. قم بتعطيل كلمة المرور قبل استخدام ناقل Mi.</string>
     <string name="dialog_backup_password_restore_tips">لا يمكن استعادة العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
     <string name="dialog_backup_password_to_settings">الإعدادات</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">غير مشفر</string>
     <string name="disable_encrypt_title">إيقاف التشفير</string>
@@ -332,6 +333,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 ٢\u0009.اذهب إلى إعدادات Mi Talk واختر \"نسخ جهات الاتصال احتياطيًا إلى حساب Mi\""</string>
     <string name="import_from_xiaomi_account_hint2">إذا كان لديك نسخة احتياطية مسبقة. المس التالي.</string>
     <string name="import_from_xiaomi_account_hint_title">استخدم Mi Talk لنسخ جهات الاتصال احتياطيًا عبر الأجهزة.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
     <string name="lack_perm_msg">يحتاج ناقل Mi الأذونات التالية: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">يتطلب أذونات</string>
@@ -385,6 +387,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="midnight">الليل</string>
     <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Xiaomi Cloud، ثيمات MIUI وغيرها من خدمات Mi من أي مكان.</string>
     <string name="miliao_account_login">تسجيل الدخول مع Mi Talk</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -636,9 +639,9 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="service_stoped">توقفت الخدمة</string>
     <string name="settings_summary">إعدادات الهاتف والرسائل</string>
     <string name="size_byte">بايت</string>
-    <string name="size_giga_byte">جيجابايت</string>
-    <string name="size_kilo_byte">كيلوبايت</string>
-    <string name="size_mega_byte">ميجابايت</string>
+    <string name="size_giga_byte">ج.ب</string>
+    <string name="size_kilo_byte">ك.ب</string>
+    <string name="size_mega_byte">م.ب</string>
     <string name="size_peta_byte">بنتابايت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
@@ -973,8 +976,11 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
     <string name="wifi_title">إعدادات Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميجابايت</string>
     <string name="xiaomi_router">جهاز توجيه Mi</string>
     <string name="xiaomi_router_location">جهاز توجيه Mi%s</string>
     <string name="xiaomi_update_dialog_message">"تقديم حجم النسخة: %1$s

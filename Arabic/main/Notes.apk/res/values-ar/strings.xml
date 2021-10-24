@@ -437,6 +437,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -483,6 +484,7 @@
     <string name="note_gesture_guide_step3">اضغط مطولاً على ملاحظة واسحبها على مجلد لنقلها</string>
     <string name="note_header_first_enter_guide">اسحب للأسفل لعرض المزيد</string>
     <string name="note_invalid_mindnote_hint">الخرائط الذهنية غير متوفرة في هذا الإصدار. قم بالتحديث إلى أحدث إصدار لاستخدام هذه الميزة.</string>
+    <string name="note_item_default_title">ملاحظة فارغة</string>
     <string name="note_link_email">إنشاء بريد إلكتروني</string>
     <string name="note_link_other">فتح بإستخدام تطبيق الخريطة</string>
     <string name="note_link_select">تحديد نص</string>
@@ -496,6 +498,7 @@
     <string name="note_sort_way">ترتيب</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">الملاحظات هو أحد تطبيقات النظام. لن تتمكن من استخدامه بعد إلغاء تثبيته.</string>
     <string name="notes_description_title">إلغاء تثبيت الملاحظات؟</string>
     <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>
@@ -554,6 +557,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">اسحب بإصبعين لأعلى لحذف الملاحظات دون تأكيد</string>
     <string name="pref_desc_todo_float_mode">اسحب من حافة الشاشة لفتح شريط الأدوات</string>
     <string name="pref_excerpt_link_float">تلقي تذكير عند إنشاء اقتباس في كل مرة تقوم فيها بنسخ الرابط</string>
+    <string name="pref_permission_allowed">Granted</string>
+    <string name="pref_permission_manage">Permissions details</string>
+    <string name="pref_permission_manage_key_contact">Access contacts</string>
+    <string name="pref_permission_manage_key_recording">Record audio</string>
+    <string name="pref_permission_manage_key_storage">Access storage</string>
+    <string name="pref_permission_not_allowed">Not granted</string>
     <string name="pref_quick_note_desc">يمكنك استخدام الاختصارات الموجودة على حافة الشاشة لإنشاء ملاحظات ومهام وحفظ عناوين URL المنسوخة والنصوص والصور إلى الملاحظات.</string>
     <string name="pref_remind_type_summary">تشغيل صوت تذكير في الوضع الصامت</string>
     <string name="pref_remind_type_summary_new">تجاهل الوضع الصامت والاستمرار في تشغيل صوت التذكير حتى يتم إيقافه</string>
@@ -870,6 +879,9 @@
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">كبير</string>
+    <string name="widget_size_item_medium">متوسط</string>
+    <string name="widget_size_item_small">صغير</string>
     <string name="widget_take_notes_title">الملاحظات</string>
     <string name="yesterday">أمس</string>
 </resources>

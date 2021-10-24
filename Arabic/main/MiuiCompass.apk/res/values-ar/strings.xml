@@ -30,6 +30,7 @@
     <string name="actionbar_button_up_description">رجوع</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="allow">السماح</string>
+    <string name="allowed">ممنوح</string>
     <string name="altitude">%.1f</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="altitude_title">الارتفاع</string>
@@ -142,6 +143,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="get_location">الوصول إلى الموقع</string>
     <string name="gradienter_title">ميزان الماء</string>
     <string name="guide_toast">للمعايرة، حرك جهازك كما هو موضح أدناه.</string>
     <string name="latitude">خط العرض</string>
@@ -157,6 +159,7 @@
     <string name="location_west">الغرب</string>
     <string name="longitude">خط الطول</string>
     <string name="midnight">الليل</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -222,17 +225,25 @@
     <string name="month_september_shortest">سبتمبر</string>
     <string name="more">المزيد</string>
     <string name="morning">الصباح</string>
+    <string name="new_cta_v2_app_purpose">عرض الاتجاهات والإحداثيات والضغط الجوي والارتفاع الحالي</string>
+    <string name="new_permission_camera_desc">للمعايرة</string>
+    <string name="new_permission_location_desc">لعرض الإحداثيات</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
+    <string name="not_allowed">غير ممنوح</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="open_camera">استخدام الكاميرا</string>
     <string name="open_perm_msg">تحتاج البوصلة إلى الوصول لمعلومات الموقع والكاميرا. وهذا ضروري لتحديد الإحداثيات وتوفير معاينات مباشرة. السماح؟</string>
     <string name="open_perm_msg_no_camera">تحتاج البوصلة إلى الوصول لمعلومات موقعك لتتمكن من تحديد الإحداثيات. هل تسمح بذلك؟</string>
     <string name="open_perm_title">يتطلب أذونات</string>
     <string name="permission_camera_desc">عرض معلومات التوجيه عند التصوير</string>
+    <string name="permission_description">تفاصيل الأذونات</string>
     <string name="permission_location_desc">لعرض الإحداثيات</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="preference_other">أخرى</string>
+    <string name="preference_privacy_policy">عرض سياسة الخصوصية</string>
+    <string name="preference_privacy_setting">الخصوصية</string>
     <string name="preference_privacy_title">سياسة الخصوصية</string>
     <string name="pressure">%.1f</string>
     <string name="pressure_title">الضغط</string>

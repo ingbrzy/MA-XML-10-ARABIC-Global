@@ -31,6 +31,7 @@
     <string name="access_token_expired_warning">انتهت صلاحية حساب Weibo</string>
     <string name="access_token_invalid_warning">حساب Weibo غير صالح</string>
     <string name="account">حساب</string>
+    <string name="account_and_password">كلمة المرور</string>
     <string name="account_bind_devices">الأجهزة</string>
     <string name="account_bind_secure_email_title">إضافة البريد الإلكتروني</string>
     <string name="account_bind_secure_phone_title">إضافة رقم هاتف</string>
@@ -75,7 +76,11 @@
     <string name="account_user_name_dialog_title">أدخل اسم المستخدم</string>
     <string name="account_user_other_info">المزيد من المصادر</string>
     <string name="account_user_phone">رقم الهاتف لاسترداد الحساب</string>
+    <string name="account_user_phone_show">رقم الهاتف: %s</string>
     <string name="account_user_region">البلد</string>
+    <string name="account_verify_guide_bind_mail_desc">قم بإضافة بريد إلكتروني لاسترداد الحساب</string>
+    <string name="account_verify_guide_bind_phone_desc">قم بإضافة رقم هاتف لاسترداد الحساب</string>
+    <string name="account_verify_guide_set_password_desc">قم بتعيين كلمة مرور</string>
     <string name="account_xiaomi_service">الخدمات</string>
     <string name="action_add_phone">أضف رقم هاتف</string>
     <string name="action_retry">حاول مجددا</string>
@@ -201,6 +206,7 @@
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="failed_dup_secure_phone_number">رقم الهاتف هذا مرتبط مسبقاً بحساب MI آخر</string>
+    <string name="family_share">مشاركة عائلية</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_access_denied">لا يمكن الحصول على الحالة، غير مسموح بالدخول</string>
@@ -230,6 +236,7 @@
     <string name="find_device_set_lost_model">وضع الفقدان</string>
     <string name="find_device_title">العثور على الجهاز</string>
     <string name="find_device_unknown_error">تعذر التحقق من حالة الجهاز. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="find_equipment">العثور على الجهاز</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -286,6 +293,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="get_back_password">إعادة تعيين كلمة المرور</string>
     <string name="get_back_pwd">إعادة تعيين كلمة المرور</string>
     <string name="get_device_list_failed">لايمكن إيجاد أجهزة</string>
     <string name="get_identity_auth_url_failed">تعذر التحقق من الهوية</string>
@@ -326,6 +334,7 @@
     <string name="mi_finance">مواردي المالية</string>
     <string name="mi_finance_info">مكافآت للمستخدمين الجدد</string>
     <string name="mi_health">Xiaomi Health</string>
+    <string name="mi_member">مجتمع تواصل Mi</string>
     <string name="mi_vip_info">عرض الأمتيازات</string>
     <string name="midnight">الليل</string>
     <string name="mipay">دفع</string>
@@ -336,6 +345,7 @@
     <string name="mipay_indentity_done">تم التحقق</string>
     <string name="mipay_others">أخرى</string>
     <string name="mipay_transit_card">بطاقة المواصلات</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -405,14 +415,18 @@
     <string name="my_device_title">الجهاز الحالي</string>
     <string name="need_install_wechat">ثبت التطبيق أولا</string>
     <string name="night">المساء</string>
+    <string name="no_install">غير مثبتة</string>
     <string name="no_network_btn">تحديث</string>
     <string name="no_network_title">لا يمكن الاتصال بالشبكة.</string>
+    <string name="no_password_set">غير معين</string>
     <string name="no_phone">لا يوجد رقم هاتف</string>
     <string name="no_response_retry">لا يوجد استجابة، حاول مجددا.</string>
     <string name="no_sim_card_or_unactivated">لم يتم تثبيت بطاقة SIM أو تفعيلها</string>
     <string name="nobind">غير متصل</string>
     <string name="noon">الظهر</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="notify_bind_security_phone">إضافة رقم هاتف لاسترداد الحساب</string>
+    <string name="notify_complete_security_info">أضف معلومات الاسترداد</string>
     <string name="notify_network_restricted_content_bg_network">تم تقييد وصول حساب Mi للإنترنت. انقر للسماح.</string>
     <string name="notify_network_restricted_content_hidden_state">تم تقييد نشاط خلفية حساب Mi. انقر للسماح.</string>
     <string name="notify_network_restricted_content_mobile_network">تم تقييد وصول حساب Mi للإنترنت. انقر للسماح.</string>
@@ -445,6 +459,7 @@
     <string name="passport_activing_account">جارٍ التفعيل…</string>
     <string name="passport_adding_account">جارٍ إضافة الحساب…</string>
     <string name="passport_area_code_hot">المستخدمة بشكل متكرر</string>
+    <string name="passport_area_code_others">استخدم بادئة مختلفة للدولة</string>
     <string name="passport_area_code_title">رمز البلد</string>
     <string name="passport_auto_generate_pwd">توليد كلمة مرور آمنة</string>
     <string name="passport_back">رجوع</string>
@@ -637,6 +652,7 @@
     <string name="passport_title_reg">إنشاء حساب</string>
     <string name="passport_trust_device">إضافة هذا الجهاز الى الأجهزة التي تم التحقق منها</string>
     <string name="passport_trying_read_verify_code_sms">الحصول على رمز التحقق…</string>
+    <string name="passport_tz_invalid">تم العثور على مخاطر أمنية. قد يكون تم الوصول لجذر هذا الجهاز أو إعادة تهيئته. جرب خيارات أخرى لتسجيل الدخول.</string>
     <string name="passport_uplink_reg">استخدام رقم هاتف</string>
     <string name="passport_uplink_send_sms_hint">انقر على \"إرسال\" بعد إعادة التوجيه إلى الصفحة التي تحتوي على رسالة مضغوطة.</string>
     <string name="passport_uplink_slot1_reg">استخدام SIM 1</string>
@@ -674,6 +690,7 @@
     <string name="permission_group_phone">الهاتف</string>
     <string name="permission_group_sms">رسالة قصيرة</string>
     <string name="permission_group_storage">التخزبن</string>
+    <string name="personal_info_desc">الصور والاسم المستعار والمزيد</string>
     <string name="phone_num_use_for">استخدامات رقم الهاتف:</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="pm">م</string>
@@ -720,6 +737,7 @@
     <string name="search_user_detail_path">الإعدادات/حساب Mi/المعلومات الشخصية</string>
     <string name="search_user_detail_top_key_words">المعلومات الشخصية,تغيير صورة الملف الشخصي,تغيير اسم المستخدم,تغيير الإسم المستعار,تغيير تاريخ الميلاد,تغيير الجنس</string>
     <string name="select_all">تحديد الكل</string>
+    <string name="self_account_info">المعلومات الشخصية</string>
     <string name="send">مشاركة</string>
     <string name="send_diagnosis_log">إرسال سجل التشخيص</string>
     <string name="send_email_activate_message">تم إرسال رسالة تحقق للبريد الإلكتروني</string>
@@ -789,6 +807,7 @@
     <string name="the_united_nations_day">يوم الأمم المتحدة</string>
     <string name="the_valentines_day">عيد الحب</string>
     <string name="the_water_lantern_festival">مهرجان المصابيح</string>
+    <string name="third_party_login">حسابات جهات خارجية</string>
     <string name="thursday">الخميس</string>
     <string name="thursday_short">الخميس</string>
     <string name="thursday_shortest">الخميس</string>
