@@ -45,7 +45,7 @@
     <string name="ad_service">إظهار الإعلانات</string>
     <string name="add_resource_detail_fail">لا يمكن إضافة الموارد</string>
     <string name="afternoon">بعد الظهر</string>
-    <string name="agreement_desc">اتفاقية المستخدم (إلزامي)</string>
+    <string name="agreement_desc">اتفاقية المستخدم (إلزامية)</string>
     <string name="alarm_sound">المنبه</string>
     <string name="all_resources">الكل</string>
     <string name="all_wallpapers">كل خلفيات الشاشة</string>
@@ -186,7 +186,9 @@
     <string name="exo_download_notification_channel_name">التنزيلات</string>
     <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -277,7 +279,7 @@
     <string name="gift_present_dlg_input_hint">معرف حساب Mi/الهاتف</string>
     <string name="gift_present_dlg_no_fee">لن يفرض عليك أية رسوم من من قِبل مشغّل شبكة الهاتف لإرسالك الهدايا</string>
     <string name="gift_present_dlg_present_max_limit">لا يمكن اهداء الثيم لأكثر من %1$s مرة.</string>
-    <string name="gift_present_dlg_share">إنشاء كود و مشاركة الهدية</string>
+    <string name="gift_present_dlg_share">إنشاء رمز و مشاركة الهدية</string>
     <string name="gift_present_fail_dlg_content">"تعذر إرسال هذه الهدية. "</string>
     <string name="gift_present_fail_dlg_title">تعذر إرسال الهدية</string>
     <string name="gift_present_success_dlg_content">سيتم ارسال رسالة SMS إلى هذا الشخص عند تسليم الثيم.</string>
@@ -294,7 +296,7 @@
     <string name="gift_received_notification_title">أعطاك %s ثيم.</string>
     <string name="gift_share">مشاركة</string>
     <string name="gift_transfer">تحويل</string>
-    <string name="gift_unbind_fail_dlg_title">لا يمكن إنشاء الكود</string>
+    <string name="gift_unbind_fail_dlg_title">لا يمكن إنشاء الرمز</string>
     <string name="gift_use">إعطاء</string>
     <string name="gift_use_confirmation_dlg_title">إرسال هذه الهدية؟</string>
     <string name="gift_use_fail_dlg_title">حدث خطأ ما</string>
@@ -310,6 +312,7 @@
     <string name="incompatible_dialog_ok">فهمت</string>
     <string name="incompatible_dialog_title">مشاكل التوافق</string>
     <string name="is_setting_wallpaper_message">جارٍ إعداد خلفية الشاشة…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">التنبيهات</string>
     <string name="item_resource_audio_optional_color_ring">نغمة الرنة</string>
     <string name="item_resource_audio_optional_notification_ring">الإشعارات</string>
@@ -469,9 +472,6 @@
     <string name="payment_coins_balance">(الرصيد: %1s)</string>
     <string name="payment_coins_insufficient_balance">(رصيد غير كافي)</string>
     <string name="payment_method">طرق الدفع</string>
-    <string name="permission_desc">لحفظ الثيماترالتي تم تنزيلها والعناصر الأخرى</string>
-    <string name="permission_summary">أذونات إلزامية (تستخدم لخدمات والوظائف الأساسية للتطبيق)</string>
-    <string name="permission_title">الوصول إلى الصور والملفات على الجهاز</string>
     <string name="personal_recommend_desc">تلقي توصيات بناء على تفضيلاتك</string>
     <string name="personal_recommend_title">التوصيات المخصصة</string>
     <string name="peyment_pay_now_btn">دفع</string>
@@ -530,7 +530,6 @@
     <string name="related_theme">الثيمات</string>
     <string name="related_wallpaper">خلفيات الشاشة</string>
     <string name="reload">حاول مجدداً</string>
-    <string name="res_migrate_tip">لجعل الثيمات متوافقة مع الإصدارات القادمة من Android. قمنا بنقل العناصر المنزلة إلى موقع جديد. يرجى إعادة تشغيل التطبيق لتعيين التغييرات وعرض المحتوى الذي تم تنزيله.</string>
     <string name="resource_account_abnormal_state">حدث خطأ في الحساب. انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="resource_account_fail_to_add">لا يمكن إضافة حساب</string>
     <string name="resource_account_login">تسجيل الدخول</string>
@@ -616,22 +615,22 @@
     <string name="resource_downloading">جارٍ التنزيل</string>
     <string name="resource_exchange">استرداد</string>
     <string name="resource_exchange_confirm">موافق</string>
-    <string name="resource_exchange_empty_format">أدخل كود الهدية</string>
+    <string name="resource_exchange_empty_format">أدخل رمز الهدية</string>
     <string name="resource_exchange_has_bought">لقد اشتريت هذا الثيم مسبقا.</string>
-    <string name="resource_exchange_has_expired">انتهت صلاحية الكود الذي أدخلته.</string>
-    <string name="resource_exchange_has_used">الكود الذي أدخلته تم استخدامه مسبقا.</string>
-    <string name="resource_exchange_hint">أدخل كود الهدية</string>
+    <string name="resource_exchange_has_expired">انتهت صلاحية الرمز الذي أدخلته.</string>
+    <string name="resource_exchange_has_used">الرمز الذي أدخلته تم استخدامه مسبقا.</string>
+    <string name="resource_exchange_hint">أدخل رمز الهدية</string>
     <string name="resource_exchange_purchase_unkown_error">معذرة! حدث خطأ غير معروف. سجل الدخول إلى http://market.xiaomi.com لعرض حالة الدفع الخاصة بك.</string>
     <string name="resource_exchange_share_code_content">لقد حصلت على كود هدية (%2$s) لثيم \"%1$s\" في ثيمات MIUI. انقر فوق %3$s لاستخدامه الآن.</string>
     <string name="resource_exchange_share_code_dlg_content">كود الهدية لـ \"%1$s\": %2$s. عند إرساله إلى مستخدم MIUI آخر، يمكنه استخدام الكود لتنزيل هذا الثيم.</string>
     <string name="resource_exchange_share_code_dlg_title">جارٍ الإرسال</string>
     <string name="resource_exchange_success">استمتع! :)</string>
-    <string name="resource_exchange_unavailable">الثيم المرتبط بالكود الذي أدخلته غير متاح.</string>
+    <string name="resource_exchange_unavailable">الثيم المرتبط بالرمز الذي أدخلته غير متاح.</string>
     <string name="resource_exchange_universal_finish">استخدم هذا الكود لتنزيل عناصر من الثيمات.</string>
     <string name="resource_exchange_universal_goon">يمكن استخدام هذا الكود لتنزيل أي ثيم من المتجر.</string>
     <string name="resource_exchange_window_title">استرداد</string>
-    <string name="resource_exchange_wrong_format_by_local">صيغة الكود الذي أدخلته غير صحيحة.</string>
-    <string name="resource_exchange_wrong_format_by_server">لم يتم التحقق من الكود. تأكد من إدخال الكود بشكل صحيح.</string>
+    <string name="resource_exchange_wrong_format_by_local">صيغة الرمز الذي أدخلته غير صحيحة.</string>
+    <string name="resource_exchange_wrong_format_by_server">لم يتم التحقق من الرمز. تأكد من إدخال الرمز بشكل صحيح.</string>
     <string name="resource_expand_full_text">توسيع</string>
     <string name="resource_failed_to_load_list">لا يمكن تحميل الثيمات.</string>
     <string name="resource_free_download">تنزيل مجاناً</string>
@@ -669,6 +668,7 @@
     <string name="resource_pack_price_info">السعر الأصلي: %1$s</string>
     <string name="resource_pack_warning">لقد اشتريت %1$d من مكونات هذا الثيم مسبقا. انه أرخص إذا اشتريت المكونات المتبقية على حدة.</string>
     <string name="resource_present">هدية</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">مجاني</string>
     <string name="resource_price_unit"> رصيد Mi</string>
     <string name="resource_purchase_common_error">حدث خطأ ما، حاول مجدداً</string>
@@ -680,7 +680,6 @@
     <string name="resource_ranking">الشائعة</string>
     <string name="resource_ranking_free">مجاني</string>
     <string name="resource_ranking_purchase">مدفوع</string>
-    <string name="resource_right_ack_check_error">انتهت صلاحية هذا الكود</string>
     <string name="resource_ringtone_default">نغمات الرنين</string>
     <string name="resource_ringtone_playing_error">خطأ</string>
     <string name="resource_ringtone_volume_mute">صوت الرنين صامت</string>
@@ -778,7 +777,7 @@
     <string name="scroll_switch">مرر للتبديل بين العناصر</string>
     <string name="sdcard_not_mounted_dialog_message">"أدخل بطاقة SD الآن.
 "</string>
-    <string name="sdcard_not_mounted_dialog_title">لم يتم اكتشاف اي بطاقة SD</string>
+    <string name="sdcard_not_mounted_dialog_title">لم يتم اكتشاف اي بطاقة SIM</string>
     <string name="search_color">اللون</string>
     <string name="search_hint_header_text">كلمات ساخنة</string>
     <string name="search_menu_title">البحث</string>
@@ -798,6 +797,7 @@
     <string name="sim_one">1 SIM</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">ثيمات مشابهة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">لحفظ العناصر التي تم تنزيلها</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
@@ -908,6 +908,7 @@
     <string name="theme_is_external_priority_storage">حفظ إلى بطاقة SD</string>
     <string name="theme_is_external_priority_storage_summary">ستتم إعادة تشغيل تطبيق الثيمات مباشرة لتطبيق هذا الإعداد.</string>
     <string name="theme_multiple_button_title_customize">تخصيص</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">لا</string>
     <string name="theme_on_the_phone_alert">لا يمكن اللعب أثناء مكالمة جارية</string>
     <string name="theme_select_others">تصفح</string>

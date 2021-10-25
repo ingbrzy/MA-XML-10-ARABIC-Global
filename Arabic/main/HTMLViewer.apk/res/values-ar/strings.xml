@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="actionbar_button_up_description">رجوع</string>
-    <string name="ad_service">الخدمات الإعلانية</string>
+    <string name="ad_service">خدمة الاعلان</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
     <string name="app_label">عارض HTML</string>
@@ -187,7 +187,7 @@
     <string name="pre_installed_apps">التطبيقات المثبتة</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_station_title">خصوصية Xiaomi</string>
-    <string name="sar">معلومات التعرض للتردد اللاسلكي (RF)</string>
+    <string name="sar">معلومات التعرض RF</string>
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>

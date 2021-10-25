@@ -59,6 +59,7 @@
     <string name="copies_increase">إضافة نسخة واحدة</string>
     <string name="copy">نسخ</string>
     <string name="could_not_create_file">تعذَّر إنشاء الملف</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -262,6 +263,7 @@
     <string name="printer_busy">الطابعة مشغولة</string>
     <string name="printer_error">خطأ في الطابعة</string>
     <string name="printer_error_msg">خطأ في الطابعة: %1$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">مزيد من المعلومات حول هذه الطابعة</string>
     <string name="printer_notification_error_title">تعذرت الطباعة %1$s</string>
     <string name="printer_unavailable">الطابعة غير متاحة</string>

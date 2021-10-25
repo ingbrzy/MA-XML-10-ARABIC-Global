@@ -58,6 +58,7 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -236,7 +237,6 @@
     <string name="gb_pannel_control_mode_power_saving">حفظ الطاقة</string>
     <string name="gb_weixinpay_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الهاتف، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
-    <string name="hybrid_provider">مدعوم بواسطة %1$s</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">ظروف حمراء</string>
     <string name="main_toolbar_purchase">شحن الرصيد</string>
@@ -313,7 +313,6 @@
     <string name="net_booster_overdue_notification_tip">جلسة زيادة سرعة الشبكة على وشك الانتهاء. تجديد الجلسة؟</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="night">المساء</string>
-    <string name="no_network">لا يمكن الاتصال بالشبكة</string>
     <string name="no_network_btn">حاول مرة أخرى</string>
     <string name="noon">الظهر</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
@@ -339,6 +338,7 @@
     <string name="size_peta_byte">بنتابايت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
@@ -427,9 +427,6 @@
     <string name="usage_sorted_loading_text">لحظة من فضلك…</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
-    <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
-    <string name="web_sso_login_message">تسجيل الدخول…</string>
-    <string name="webview_reload">حاول مرة أخرى</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>

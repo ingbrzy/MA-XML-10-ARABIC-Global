@@ -35,17 +35,8 @@
     <string name="avl_dialog_policy">سياسة الخصوصية</string>
     <string name="avl_dialog_title">سياسة خصوصية لـ AVL</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
     <string name="hello_world">مرحباً بالعالم!</string>
     <string name="menu_settings">الإعدادات</string>
-    <string name="size_byte">بايت</string>
-    <string name="size_giga_byte">جيجابايت</string>
-    <string name="size_kilo_byte">كيلوبايت</string>
-    <string name="size_mega_byte">ميجابايت</string>
-    <string name="size_peta_byte">بنتابايت</string>
-    <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">تيرابايت</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tencent_dialog_cloudscan">تحميل أسماء التطبيقات وتفاصيلها و فحصها باستخدام تعريفات الفيروسات عبر الإنترنت.</string>
     <string name="tencent_dialog_dbupdate">تحديث قاعدة بيانات الفيروسات تلقائياً</string>
     <string name="tencent_dialog_header">تعمل هذه الميزة على تشفير معرف جهازك وتحميله إلى خوادم Tencent(%s).</string>

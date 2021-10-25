@@ -112,22 +112,6 @@
         <item quantity="few">يمكنك إنشاء ما يصل إلى %d نسخ في المرة الواحدة.</item>
         <item quantity="many">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
-        <item quantity="zero">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
-        <item quantity="one">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
-        <item quantity="two">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
-        <item quantity="few">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
-        <item quantity="many">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
-        <item quantity="zero">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
-        <item quantity="one">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
-        <item quantity="two">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
-        <item quantity="few">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
-        <item quantity="many">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d دقيقة</item>
         <item quantity="zero">%1$d دقيقة</item>

@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="about_device_info">عرض تفاصيل الجهاز</string>
+    <string name="accept">سماح</string>
     <string name="access_token_expired_warning">انتهت صلاحية حساب Weibo</string>
     <string name="access_token_invalid_warning">حساب Weibo غير صالح</string>
     <string name="account">حساب</string>
@@ -107,6 +108,7 @@
     <string name="binded_description" formatted="false">"تم ربط %s إلى حساب Mi الخاص بك.
 يمكنك الآن تسجيل الدخول لحساب Mi بإستخدام %s."</string>
     <string name="button_unbind">قطع الاتصال</string>
+    <string name="cancel">إلغاء</string>
     <string name="change_activate_email">تغييرعنوان البريد الإلكتروني</string>
     <string name="change_email_address">تغيير البريد الإلكتروني</string>
     <string name="change_password">تغيير كلمة المرور</string>
@@ -180,6 +182,7 @@
     <string name="delete_device_btn">إزالة</string>
     <string name="delete_device_failed">لا يمكن إزالة الجهاز</string>
     <string name="delete_device_notice">بعد إزالة الجهاز، سيتم تسجيل الخروج من حساب Mi تلقائيًا. ولن تتمكن بعدها من استخدام هذا الجهاز في الوصول إلى الصور أو الرسائل أو المحتوى الآخر المخزن على هذا الحساب.</string>
+    <string name="deny">رفض</string>
     <string name="device_delete_success_message">إذا لم تقم بتسجيل الدخول على هذا الجهاز، فقم بتغيير كلمة المرور على الفور.</string>
     <string name="device_delete_success_title">تسجيل خروج</string>
     <string name="device_list__header">الأجهزة الخاصة بي</string>
@@ -193,6 +196,7 @@
     <string name="early_morning">فجر</string>
     <string name="empty" />
     <string name="empty_device_list_notice">لا توجد أجهزة</string>
+    <string name="enable">الإعدادات</string>
     <string name="ep_unsupported">لا يمكن تسجيل الدخول إلى حساب Mi على جهازك</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
@@ -301,6 +305,7 @@
     <string name="get_phone_verifycode_exceed_limit">تم إرسال العديد من رموز التحقق إلى هذا الرقمز انتظر ٢٤ ساعة ثم أعد المحاولة.</string>
     <string name="google">Google</string>
     <string name="google_login">تسجيل الدخول بإستخدام Google</string>
+    <string name="goto_accept">موافق</string>
     <string name="guest_account_label">Mi حساب الضيف</string>
     <string name="health_action_activate">مفعل</string>
     <string name="health_action_install">تثبيت</string>
@@ -325,9 +330,11 @@
     <string name="kr_permission_sms_desc">للتعبئة رمز التحقق تلقائياً</string>
     <string name="kr_permission_storage_desc">لحفظ التشخيص</string>
     <string name="loading_micloud_sync_data">لحظة من فضلك…</string>
+    <string name="login_3rd_app_with_system_account">تسجيل الدخول إلى %s</string>
     <string name="login_check_find_device">جارٍ الحصول على معلومات حماية الجهاز…</string>
     <string name="login_check_find_device_failed_title">تعذر التحقق من معلومات حماية الجهاز</string>
     <string name="login_find_device_bind">هذا الجهاز مرتبط بمعرف حساب Mi آخر (%s).</string>
+    <string name="login_with_other">المزيد من الخيارات</string>
     <string name="logout_account">تسجيل الخروج</string>
     <string name="logout_failed">لا يمكن تسجيل الخروج</string>
     <string name="mi_account_identity_title">التحقق من هويتك</string>
@@ -459,7 +466,6 @@
     <string name="passport_activing_account">جارٍ التفعيل…</string>
     <string name="passport_adding_account">جارٍ إضافة الحساب…</string>
     <string name="passport_area_code_hot">المستخدمة بشكل متكرر</string>
-    <string name="passport_area_code_others">استخدم بادئة مختلفة للدولة</string>
     <string name="passport_area_code_title">رمز البلد</string>
     <string name="passport_auto_generate_pwd">توليد كلمة مرور آمنة</string>
     <string name="passport_back">رجوع</string>
@@ -686,10 +692,14 @@
     <string name="passport_yes">نعم</string>
     <string name="password_view_hide_password">إخفاء كلمة المرور</string>
     <string name="password_view_show_password">إظهار كلمة المرور</string>
+    <string name="permission_desc_read_sms">للإكمال التلقائي لرموز التحقق</string>
+    <string name="permission_desc_write_external_storage">لتحميل سجلات التعليقات</string>
     <string name="permission_group_contacts">جهات الاتصال</string>
     <string name="permission_group_phone">الهاتف</string>
     <string name="permission_group_sms">رسالة قصيرة</string>
     <string name="permission_group_storage">التخزبن</string>
+    <string name="permission_read_sms">الوصول إلى الرسائل</string>
+    <string name="permission_write_external_storage">الوصول إلى الذاكرة وحفظ العناصر</string>
     <string name="personal_info_desc">الصور والاسم المستعار والمزيد</string>
     <string name="phone_num_use_for">استخدامات رقم الهاتف:</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
@@ -708,6 +718,12 @@
     <string name="recycle_phone_notification_title">مخاطر حساب Mi الأمنية</string>
     <string name="removing_account">جارٍ تسجيل الخروج…</string>
     <string name="replace_binded_phone">إستبدال الهاتف</string>
+    <string name="request_open_permission">الأذونات مطلوبة</string>
+    <string name="request_use_camera_message">هل تريد السماح لحساب Mi بالوصول إلى كاميرا الجهاز؟</string>
+    <string name="request_use_camera_title">الوصول إلى الكاميرا</string>
+    <string name="request_use_gallery_message">هل تريد السماح لحساب Mi بالوصول إلى المعرض؟</string>
+    <string name="request_use_gallery_title">الوصول إلى المعرض</string>
+    <string name="request_use_writing_clipboard_message">لنسخ معرف حساب Xiaomi، اسمح لحساب Mi بحفظ العناصر إلى الحافظة.</string>
     <string name="resend_active_email">إعادة إرسال</string>
     <string name="resend_email_reach_limit_message">لقد قمت بطلب الكثير من رسائل التحقق إلى البريد الإلكتروني. تأكد من أن رسالة التحقق ليست في مجلد البريد المزعج.</string>
     <string name="resend_email_reach_limit_title">لا يمكن ارسال البريد الإلكتروني</string>
@@ -840,6 +856,10 @@
     <string name="used_cloud_storage_info">%s مستخدم</string>
     <string name="user_avatar_update_title">تغيير صورة الملف الشخصي</string>
     <string name="user_avatar_uploading">لحظة من فضلك…</string>
+    <string name="user_instruction_all_purpose">مرحبًا بك في حساب Mi! يمكنك استخدام حسابك للوصول إلى الخدمات المقدمة من Xiaomi والشركات التابعة لها، مثل Mi.com و Xiaomi Cloud و GetApps. يمكنك الحصول على عملات Mi وشراء سلع افتراضية واستخدام خدمات ذات قيمة مضافة متضمن ذلك الألعاب والثيمات والكتب الإلكترونية.</string>
+    <string name="user_instruction_tip">لتسجيل الدخول، اقرأ أولاً ووافق على الشروط والأحكام الخاصة بنا.</string>
+    <string name="user_license_with_3rd_app">&lt;Data>بتسجيلي الدخول إلى حساب Mi، أؤكد أنني قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> و&lt;a href=%3$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="vip_account_settings">إعدادات VIP</string>

@@ -80,22 +80,6 @@
         <item quantity="few">تم إضافة %d ألعاب</item>
         <item quantity="many">تم إضافة %d لعبة</item>
     </plurals>
-    <plurals name="app_behavior_dashboard_title_desc">
-        <item quantity="other">%d تطبيق</item>
-        <item quantity="zero">%d تطبيق</item>
-        <item quantity="one">%d تطبيق</item>
-        <item quantity="two">%d تطبيقات</item>
-        <item quantity="few">%d تطبيقات</item>
-        <item quantity="many">%d تطبيق</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_total_usage_item">
-        <item quantity="other">%d تطبيق</item>
-        <item quantity="zero">%d تطبيق</item>
-        <item quantity="one">%d تطبيق</item>
-        <item quantity="two">%d تطبيقات</item>
-        <item quantity="few">%d تطبيقات</item>
-        <item quantity="many">%d تطبيق</item>
-    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">مسموح به %3$d مرة مابين الفترة %1$s و %2$s</item>
         <item quantity="zero">مسموح به %3$d مرة مابين الفترة %1$s و %2$s</item>
@@ -127,30 +111,6 @@
         <item quantity="two">تم الرفض %2$d مرات في الساعة %1$s</item>
         <item quantity="few">تم الرفض %2$d مرات في الساعة %1$s</item>
         <item quantity="many">تم الرفض %2$d مرة في الساعة %1$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage">
-        <item quantity="other">مسموح به %3$d مرة مابين الفترة %1$s و %2$s</item>
-        <item quantity="zero">مسموح به %3$d مرة مابين الفترة %1$s و %2$s</item>
-        <item quantity="one">مسموح به %3$d مرة مابين الفترة %1$s و %2$s</item>
-        <item quantity="two">مسموح به %3$d مرات مابين الفترة %1$s و %2$s</item>
-        <item quantity="few">مسموح به %3$d مرات مابين الفترة %1$s و %2$s</item>
-        <item quantity="many">مسموح به %3$d مرة مابين الفترة %1$s و %2$s</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time">
-        <item quantity="other">مستخدم لمدة %1$d دقيقة</item>
-        <item quantity="zero">مستخدم لمدة %1$d دقيقة</item>
-        <item quantity="one">مستخدم لمدة %1$d دقيقة</item>
-        <item quantity="two">مستخدم لمدة %1$d دقائق</item>
-        <item quantity="few">مستخدم لمدة %1$d دقائق</item>
-        <item quantity="many">مستخدم لمدة %1$d دقيقة</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time_end">
-        <item quantity="other">مستخدم لمدة %1$d دقيقة حتى %2$s</item>
-        <item quantity="zero">مستخدم لمدة %1$d دقيقة حتى %2$s</item>
-        <item quantity="one">مستخدم لمدة %1$d دقيقة حتى %2$s</item>
-        <item quantity="two">مستخدم لمدة %1$d دقائق حتى %2$s</item>
-        <item quantity="few">مستخدم لمدة %1$d دقائق حتى %2$s</item>
-        <item quantity="many">مستخدم لمدة %1$d دقيقة حتى %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">تم الرد بـ %3$d رسالة فارغة مابين الفترة %1$s و %2$s</item>
@@ -304,22 +264,6 @@
         <item quantity="few">احمي %s تطبيقات مع ميزة قفل التطبيقات</item>
         <item quantity="many">احمي %s تطبيق مع ميزة قفل التطبيقات</item>
     </plurals>
-    <plurals name="behavior_widget_app_text">
-        <item quantity="other">%1$s و %2$d تطبيق آخر</item>
-        <item quantity="zero">%1$s و %2$d تطبيق آخر</item>
-        <item quantity="one">%1$s و %2$d تطبيق آخر</item>
-        <item quantity="two">%1$s و %2$d تطبيقات آخرى</item>
-        <item quantity="few">%1$s و %2$d تطبيقات آخرى</item>
-        <item quantity="many">%1$s و %2$d تطبيق آخر</item>
-    </plurals>
-    <plurals name="behavior_widget_perm_counts">
-        <item quantity="other">%d مرة</item>
-        <item quantity="zero">%d مرة</item>
-        <item quantity="one">%d مرة</item>
-        <item quantity="two">%d مرات</item>
-        <item quantity="few">%d مرات</item>
-        <item quantity="many">%d مرة</item>
-    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">يمكن %d تطبيق الاتصال بالشبكة في الخلفية</item>
         <item quantity="zero">يمكن %d تطبيق الاتصال بالشبكة في الخلفية</item>
@@ -387,14 +331,6 @@
         <item quantity="two">خلال %1$d دقائق</item>
         <item quantity="few">خلال %1$d دقائق</item>
         <item quantity="many">خلال %1$d دقيقة</item>
-    </plurals>
-    <plurals name="exit_dialog_scan_message_new">
-        <item quantity="other">نقاط أداء جهازك أقل من %d نقطة. هل ترغب في التحسين الآن؟</item>
-        <item quantity="zero">نقاط أداء جهازك أقل من %d نقطة. هل ترغب في التحسين الآن؟</item>
-        <item quantity="one">نقاط أداء جهازك أقل من %d نقطة. هل ترغب في التحسين الآن؟</item>
-        <item quantity="two">نقاط أداء جهازك أقل من %d نقاط. هل ترغب في التحسين الآن؟</item>
-        <item quantity="few">نقاط أداء جهازك أقل من %d نقاط. هل ترغب في التحسين الآن؟</item>
-        <item quantity="many">نقاط أداء جهازك أقل من %d نقطة. هل ترغب في التحسين الآن؟</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
@@ -608,30 +544,6 @@
         <item quantity="few">احصل على %d تجارب مجانية</item>
         <item quantity="many">احصل على %d تجربه مجانية</item>
     </plurals>
-    <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">تعمل هذه الميزة على تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط لتوفير الطاقة. هل ترغب في الاستمرار في تشغيل هذه الميزة؟</item>
-        <item quantity="zero">تعمل هذه الميزة على تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط لتوفير الطاقة. هل ترغب في الاستمرار في تشغيل هذه الميزة؟</item>
-        <item quantity="one">تعمل هذه الميزة على تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط لتوفير الطاقة. هل ترغب في الاستمرار في تشغيل هذه الميزة؟</item>
-        <item quantity="two">تعمل هذه الميزة على تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط لتوفير الطاقة. هل ترغب في الاستمرار في تشغيل هذه الميزة؟</item>
-        <item quantity="few">تعمل هذه الميزة على تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط لتوفير الطاقة. هل ترغب في الاستمرار في تشغيل هذه الميزة؟</item>
-        <item quantity="many">تعمل هذه الميزة على تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط لتوفير الطاقة. هل ترغب في الاستمرار في تشغيل هذه الميزة؟</item>
-    </plurals>
-    <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط</item>
-        <item quantity="zero">تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط</item>
-        <item quantity="one">تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط</item>
-        <item quantity="two">تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط</item>
-        <item quantity="few">تقليل سطوع الشاشة تلقائيا بعد %d دقائق من عدم النشاط</item>
-        <item quantity="many">تقليل سطوع الشاشة تلقائيا بعد %d دقيقة من عدم النشاط</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="zero">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
-        <item quantity="two">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="few">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="many">"Congrats! You've unlocked %s Easter eggs."</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -737,12 +649,12 @@
         <item quantity="many">تم العثور على %d تطبيق</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">تم اكتشاف %d خطر</item>
-        <item quantity="zero">تم اكتشاف %d خطر</item>
-        <item quantity="one">تم اكتشاف %d خطر</item>
-        <item quantity="two">تم اكتشاف %d مخاطر</item>
-        <item quantity="few">تم اكتشاف %d مخاطر</item>
-        <item quantity="many">تم اكتشاف %d خطر</item>
+        <item quantity="other">تم إيجاد %d خطر، تصليح الآن</item>
+        <item quantity="zero">تم إيجاد %d خطر، تصليح الآن</item>
+        <item quantity="one">تم إيجاد %d خطر، تصليح الآن</item>
+        <item quantity="two">تم إيجاد %d مخاطر، تصليح الآن</item>
+        <item quantity="few">تم إيجاد %d مخاطر، تصليح الآن</item>
+        <item quantity="many">تم إيجاد %d خطر، تصليح الآن</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">تعقب استخدام البيانات لـ %d تطبيق</item>
@@ -1360,14 +1272,6 @@
         <item quantity="few">عناصر</item>
         <item quantity="many">عنصر</item>
     </plurals>
-    <plurals name="power_center_unoffical_battery_dialog_negative">
-        <item quantity="other">إلغاء (%d ث)</item>
-        <item quantity="zero">إلغاء (%d ث)</item>
-        <item quantity="one">إلغاء (%d ث)</item>
-        <item quantity="two">إلغاء (%d ث)</item>
-        <item quantity="few">إلغاء (%d ث)</item>
-        <item quantity="many">إلغاء (%d ث)</item>
-    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s يوم متبقي للاستخدام</item>
         <item quantity="zero">%s يوم متبقي للاستخدام</item>
@@ -1593,12 +1497,12 @@
         <item quantity="many">تم العثور على %d تطبيق غير رسمي</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">تم اكتشاف %d برنامج ضار</item>
-        <item quantity="zero">تم اكتشاف %d برنامج ضار</item>
-        <item quantity="one">تم اكتشاف %d برنامج ضار</item>
-        <item quantity="two">تم اكتشاف %d برامج ضارة</item>
-        <item quantity="few">تم اكتشاف %d برامج ضارة</item>
-        <item quantity="many">تم اكتشاف %d برنامج ضار</item>
+        <item quantity="other">تم العثور على %d فيروس و تطبيق غير آمن</item>
+        <item quantity="zero">تم العثور على %d تطبيق فيروس</item>
+        <item quantity="one">تم العثور على %d تطبيق فيروس</item>
+        <item quantity="two">تم العثور على %d فيروسات و تطبيقات غير آمنة</item>
+        <item quantity="few">تم العثور على %d فيروسات و تطبيقات غير آمنة</item>
+        <item quantity="many">تم العثور على %d فيروس و تطبيق غير آمن</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">بحث عن %d تطبيق</item>
@@ -1752,20 +1656,6 @@
         <item quantity="few">%d تطبيقات</item>
         <item quantity="many">%d تطبيق</item>
     </plurals>
-    <plurals name="videobox_settings_timing_bubble">
-        <item quantity="other">"أنت تشاهد مقاطع الفيديو من %d ساعة.
-خذ استراحة!"</item>
-        <item quantity="zero">"أنت تشاهد مقاطع الفيديو من %d ساعة.
-خذ استراحة!"</item>
-        <item quantity="one">"أنت تشاهد مقاطع الفيديو من %d ساعة.
-خذ استراحة!"</item>
-        <item quantity="two">"أنت تشاهد مقاطع الفيديو من %d ساعات.
-خذ استراحة!"</item>
-        <item quantity="few">"أنت تشاهد مقاطع الفيديو من %d ساعات.
-خذ استراحة!"</item>
-        <item quantity="many">"أنت تشاهد مقاطع الفيديو من %d ساعة.
-خذ استراحة!"</item>
-    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d مشاهدة</item>
         <item quantity="zero">%1$d مشاهدة</item>
@@ -1773,14 +1663,6 @@
         <item quantity="two">%1$d مشاهدات</item>
         <item quantity="few">%1$d مشاهدات</item>
         <item quantity="many">%1$d مشاهدة</item>
-    </plurals>
-    <plurals name="virus_clear_dialog_content">
-        <item quantity="other">تنظيف %d تطبيق محدد؟</item>
-        <item quantity="zero">تنظيف %d تطبيق محدد؟</item>
-        <item quantity="one">تنظيف %d تطبيق محدد؟</item>
-        <item quantity="two">تنظيف %d تطبيقات محددة؟</item>
-        <item quantity="few">تنظيف %d تطبيقات محددة؟</item>
-        <item quantity="many">تنظيف %d تطبيق محدد؟</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">تطبيق خطير: %d</item>
