@@ -618,7 +618,6 @@
     <string name="edit_smile">ابتسامة</string>
     <string name="edit_solid">كونتور</string>
     <string name="emoticon">ايموجي شخصي</string>
-    <string name="empty" />
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="error_fail_to_start_audio_capture">تعذر بدء التسجيل الصوتي</string>
@@ -1203,7 +1202,6 @@
     <string name="pref_camera_auxiliary_close">متوقف</string>
     <string name="pref_camera_auxiliary_exposure_feedback">التحقق من التعرض</string>
     <string name="pref_camera_auxiliary_focus_peak">ذروة التركيز البؤري</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
