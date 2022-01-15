@@ -72,6 +72,14 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">عرض الصفحة %d</item>
+        <item quantity="zero">عرض الصفحة %d</item>
+        <item quantity="one">عرض الصفحة %d</item>
+        <item quantity="two">عرض الصفحة %d</item>
+        <item quantity="few">عرض الصفحة %d</item>
+        <item quantity="many">عرض الصفحة %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -135,5 +143,13 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">إجمالي %d صفحة</item>
+        <item quantity="zero">إجمالي %d صفحة</item>
+        <item quantity="one">إجمالي %d صفحة</item>
+        <item quantity="two">إجمالي %d صفحات</item>
+        <item quantity="few">إجمالي %d صفحات</item>
+        <item quantity="many">إجمالي %d صفحة</item>
     </plurals>
 </resources>

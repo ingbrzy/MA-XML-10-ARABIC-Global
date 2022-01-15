@@ -37,6 +37,7 @@
     <string name="alert_message_delete_record">سيؤدي حذف التسجيل من الجهاز إلى حذفه أيضاً من Xiaomi Cloud. حذف الآن؟</string>
     <string name="alert_message_delete_record_title">حذف التسجيل؟</string>
     <string name="all_record">جميع التسجيلات</string>
+    <string name="allowed">ممنوح</string>
     <string name="am">ص</string>
     <string name="app_name">المسجل</string>
     <string name="app_record">تسجيلات التطبيق</string>
@@ -184,6 +185,7 @@
     <string name="head_set_tip_dialog_title">استخدام mic الداخلي</string>
     <string name="icon_content_description">رمز مربع الحوار</string>
     <string name="invalid_argument">مُعطى غير صالح</string>
+    <string name="invisible_mode_error_tip">قم بإيقاف تشغيل وضع التصفح المخفي من الإعدادات لتتمكن من استخدام الميكروفون</string>
     <string name="item_view_role_description">علامة تبويب</string>
     <string name="keywords_search_call_record">تسجيل المكالمات;تسجيل المكالمة;تسجيل المكالمة;تسجيلات المكالمة</string>
     <string name="keywords_search_record">تسجيل جديد; إضافة تسجيل;تسجيل;تسجيلات;التحويل النصي;نسخ;المسجل;مسجل الكلام;مسجل الصوت;مسجل التطبيقات;تسجيل التطبيقات;كيف أقوم بالتسجيل;أين هو المسجل;مسجل MIUI</string>
@@ -221,6 +223,7 @@
     <string name="mi_account_ok">تسجيل الدخول</string>
     <string name="mi_account_title">تسجيل الدخول بإستخدام حساب Mi</string>
     <string name="midnight">الليل</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -293,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -333,6 +337,7 @@
     <string name="no_records">لا توجد تسجيلات هنا</string>
     <string name="noon">الظهر</string>
     <string name="normal_settings_pref_title">الإعدادات العامة</string>
+    <string name="not_allowed">غير ممنوح</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notification_message_all_paused">جارٍ انتظار الاتصال بشبكة Wi-Fi.</string>
     <string name="notification_playback">جارٍ التشغيل…</string>
@@ -378,6 +383,15 @@
     <string name="pay_error_cancel">تم إلغاء الدفع</string>
     <string name="pay_error_null">تعذر اكمال الدفع. تحقق من حسابك.</string>
     <string name="pay_error_unknown">خطأ غير معروف</string>
+    <string name="permission_desc">تفاصيل الأذونات</string>
+    <string name="permission_dialog_cancel">إلغاء</string>
+    <string name="permission_dialog_ok">الإعدادت</string>
+    <string name="permission_record">تسجيل الصوت</string>
+    <string name="permission_record_description">لتوفير خدمات التسجيل الصوتي</string>
+    <string name="permission_storage">الوصول إلى التخزين</string>
+    <string name="permission_storage_description">لإدارة التسجيلات وتنزيلهم من Cloud</string>
+    <string name="permission_storage_description_for_download">لتنزيل التسجيلات من Cloud</string>
+    <string name="permission_storage_description_for_manage_files">لإدارة التسجيلات</string>
     <string name="play_speed">سرعة %1$.1fX</string>
     <string name="playback_delete_records">حذف التسجيل</string>
     <string name="playback_share_records">مشاركة التسجيل</string>
@@ -399,6 +413,8 @@
     <string name="preference_status_bar_indicator_prompt">إظهار مؤشر أزرق على شاشة القفل أثناء التسجيل</string>
     <string name="preference_tip_rename">تسمية التسجيلات يدوياً</string>
     <string name="privacy_policy_title">سياسة الخصوصية</string>
+    <string name="privacy_settings">الخصوصية</string>
+    <string name="progress">شريط تقدم التشغيل</string>
     <string name="recognition_button_add_to_queue">إضافة إلى قائمة الانتظار</string>
     <string name="recognition_button_cancel">ليس الآن</string>
     <string name="recognition_button_start">التحويل إلى نص</string>
@@ -466,6 +482,7 @@
     <string name="record_mark_point">علامة %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">أذونات الميكروفون مطلوبة</string>
     <string name="record_quliaty_preference_title">جودة التسجيل</string>
     <string name="record_resotre">استرداد السجلات</string>
     <string name="recorder_record">تسجيل صوتي</string>
@@ -498,6 +515,11 @@
     <string name="rename_no_more_tip">عدم الإظهار مرة أخرى</string>
     <string name="retry">إعادة المحاولة</string>
     <string name="runtime_permission_ungranted">لا يمكن استخدام المسجل بسبب أذونات غير ممنوحة</string>
+    <string name="saf_permission_dialog_content">نظرا لقيود Android، يحتاج المسجل أذونات الوصول إلى التسجيلات المنشئة بواسطة تطبيقات أخرى. اسمح للمسجل بالوصول إلى هذه التسجيلات ليتمكن من عرضها.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">الإعدادات</string>
+    <string name="saf_permission_dialog_later">لا شكراً</string>
+    <string name="saf_permission_dialog_no_more_tip">لا تظهر مرة اخرى</string>
+    <string name="saf_permission_dialog_title">الأذونات مطلوبة</string>
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
@@ -516,6 +538,7 @@
     <string name="search_tip_rename">تسمية التسجيلات يدوياً</string>
     <string name="send">مشاركة</string>
     <string name="service_instructions">حول iflyrec.com</string>
+    <string name="settings_saf_permission">أذونات إدارة الملفات</string>
     <string name="share">مشاركة</string>
     <string name="share_dialog_title">مشاركة باستخدام</string>
     <string name="shortcut_records">التسجيلات</string>
@@ -536,6 +559,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">جارٍ التسجيل …</string>
     <string name="status_bar_recording_pause">تم إيقاف المسجل مؤقتاً</string>
+    <string name="storage_permission_dialog_title">أذونات التخزين مطلوبة</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
@@ -625,6 +649,7 @@
     <string name="user_feedback">التعليقات</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="view_privacy">عرض سياسة الخصوصية</string>
     <string name="webview_check_network">إعدادات الشبكة</string>
     <string name="webview_data_error">حدث خطأ ما</string>
     <string name="webview_locating_fail">لا يمكن العثور على موقعك</string>

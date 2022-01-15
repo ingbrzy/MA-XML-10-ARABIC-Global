@@ -69,6 +69,7 @@
     <string name="close_second_space">تم حذف الواجهة الثانية</string>
     <string name="close_second_space_success">تم حذف الواجهة الثانية</string>
     <string name="closed">متوقّف</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
     <string name="complete_setting">انتهى</string>
     <string name="complete_setting_sub_title">يمكنك الرجوع لاحقاً لتعديل الإعدادات.</string>
     <string name="complete_setting_title">أنت جاهز!</string>

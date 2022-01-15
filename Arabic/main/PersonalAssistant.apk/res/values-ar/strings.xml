@@ -102,6 +102,7 @@
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="midnight">الليل</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -182,6 +183,7 @@
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
     <string name="send">مشاركة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>

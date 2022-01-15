@@ -206,6 +206,13 @@
     <string name="copy">نسخ</string>
     <string name="current_preview">معاينة</string>
     <string name="current_wallpaper">الحالي</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">لإجراء مكالمات إلى جهات اتصال الطوارئ في الوضع المبسط</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">لعرض جهات اتصال الطوارئ في الوضع المبسط</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">لعرض حالة الجهاز</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">لعرض أدوات التقويم</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">لعرض أدوات المعرض</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">For accessing WLAN widget name in Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">للوصول إلى بيانات الشاشة الرئيسية وحفظها</string>
     <string name="custom_wallpaper_picker">تصفح</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -429,7 +436,7 @@
     <string name="lock_screen_wallpaper">خلفية شاشة القفل</string>
     <string name="maml_download_dialog_cancel_text">انتظر شبكة Wi-Fi</string>
     <string name="maml_download_dialog_cancel_text_china">في إنتظار WLAN</string>
-    <string name="maml_download_dialog_checkbox_text">لا تظهر مرة أخرى</string>
+    <string name="maml_download_dialog_checkbox_text">لا تظهر مرة ثانية لمدة %d دقائق</string>
     <string name="maml_download_dialog_confirm_text">تنزيل</string>
     <string name="maml_download_dialog_message">سيتم استخدام %s ميجابايت من بيانات الهاتف لتنزيل هذا العنصر. هل مازلت ترغب في متابعة التنزيل؟</string>
     <string name="maml_download_dialog_title">تحذير استخدام البيانات</string>
@@ -530,12 +537,12 @@
     <string name="morning">الصباح</string>
     <string name="mtzgadget_missing_text">التطبيق المصغر غير متوفر</string>
     <string name="multi_selecting_tips">لنقل تطبيق، انقر مع الاستمرار على أيقونته واسحبه إلى هنا.</string>
-    <string name="navigation_guide_app_quick_switch_hide_line_summary">اسحب لأعلى من أسفل الشاشة، ثم مرّر يمين أو يسار</string>
+    <string name="navigation_guide_app_quick_switch_hide_line_summary">مرر لأعلى من أسفل الشاشة، ثم مرّر يمين أو يسار</string>
     <string name="navigation_guide_app_quick_switch_summary">مرّر من يمين أو يسار مؤشر ملء الشاشة أو من أسفل الشاشة</string>
     <string name="navigation_guide_app_quick_switch_title">التبديل بين التطبيقات</string>
     <string name="navigation_guide_app_summary">مرّر من يمين أو يسار حافة الشاشة في الجزء العلوي</string>
     <string name="navigation_guide_app_title">وظيفة مشغل التطبيق</string>
-    <string name="navigation_guide_appswitch_anim_summary">اسحب إلى اليسار أو اليمين من حافة الشاشة للعودة إلى التطبيق السابق</string>
+    <string name="navigation_guide_appswitch_anim_summary">مرر إلى اليسار أو اليمين من حافة الشاشة للعودة إلى التطبيق السابق</string>
     <string name="navigation_guide_appswitch_anim_title">الرجوع إلى التطبيق السابق</string>
     <string name="navigation_guide_appswitch_click">قم بتشغيل \"التبديل إلى التطبيق السابق\" أولاً</string>
     <string name="navigation_guide_appswitch_summary">مرّر من يمين أو يسار حافة الشاشة واضغط مطولا لفترة وجيزة</string>
@@ -545,7 +552,7 @@
     <string name="navigation_guide_dialog_dont_show_again">لا تظهر مرة اخرى</string>
     <string name="navigation_guide_dialog_ok">تعلم</string>
     <string name="navigation_guide_dialog_skip">ليس الآن</string>
-    <string name="navigation_guide_dialog_summary">تعرف على الإيماءات التي يمكنك استخدامها لنظام الملاحة.</string>
+    <string name="navigation_guide_dialog_summary">تعرف على الإيماءات التي يمكنك استخدامها للتنقل في النظام.</string>
     <string name="navigation_guide_dialog_title">تعلم كيفية استخدام الإيماءات</string>
     <string name="navigation_guide_finish_text">حسنا</string>
     <string name="navigation_guide_gesture_line_dialog_summary">سيتم استخدام إيماءة جديدة للتبديل بين التطبيقات بعد إخفاء مؤشر ملء الشاشة. تعلم هذه الإيماءة الآن؟</string>
@@ -564,7 +571,7 @@
     <string name="navigation_set_miui_home_as_default_dialog_ok">موافق</string>
     <string name="navigation_set_miui_home_as_default_dialog_title">تنبيه</string>
     <string name="navigation_type_full_screen">الإيماءات</string>
-    <string name="navigation_type_title">نظام الملاحة</string>
+    <string name="navigation_type_title">التنقل في النظام</string>
     <string name="navigation_type_virtual_key">الأزرار</string>
     <string name="network_error">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="night">المساء</string>
@@ -581,7 +588,7 @@
     <string name="online_wallpaper">من الانترنت</string>
     <string name="open_personal_assistant_dialog_btn_cancel">إلغاء</string>
     <string name="open_personal_assistant_dialog_btn_confirm">إيقاف التشغيل</string>
-    <string name="open_personal_assistant_dialog_desc">لن تتمكن من استخدام منصة التطبيقات والحصول على تحديثاته. إيقاف التشغيل الآن؟</string>
+    <string name="open_personal_assistant_dialog_desc">لن تتمكن من عرض أدوات منصة التطبيقات أو استخدامها بعد إيقاف تشغيله منصة التطبيقات. وأيضا لن تكون آخر إصداراتهم متاحة لك. هل ترغب في المتابعة؟</string>
     <string name="open_personal_assistant_dialog_desc_international">لن تتمكن من إستخدام بطاقات منصة التطبيقات (الأسهم، الاختصارات، إلخ.) وتلقي التحديثات بعد إيقاف تشغيل هذه الميزة.</string>
     <string name="open_personal_assistant_dialog_title">قم بإيقاف منصة التطبيقات</string>
     <string name="open_personal_assistant_settings">إعدادات منصة التطبيقات</string>
@@ -724,6 +731,7 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s جيجابايت</string>
     <string name="status_bar_recent_memory_info1">%1$s من %2$s متاح</string>
     <string name="status_bar_recent_memory_info2" />

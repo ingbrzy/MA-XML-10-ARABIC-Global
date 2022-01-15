@@ -256,6 +256,14 @@
         <item quantity="few">حذف %d تسجيلات</item>
         <item quantity="many">تم العثور على %d تسجيل</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d تسجيل جديد</item>
+        <item quantity="zero">%d تسجيل جديد</item>
+        <item quantity="one">%d تسجيل جديد</item>
+        <item quantity="two">%d تسجيلات جديدة</item>
+        <item quantity="few">%d تسجيلات جديدة</item>
+        <item quantity="many">%d تسجيل جديد</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">تبقى %d يوم</item>
         <item quantity="zero">تبقى %d يوم</item>

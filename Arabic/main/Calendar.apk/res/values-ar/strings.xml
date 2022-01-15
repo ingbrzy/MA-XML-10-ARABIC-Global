@@ -175,6 +175,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="day">اليوم</string>
@@ -396,7 +397,7 @@
     <string name="long_holiday_month_off">أيام العطلة الشهرية</string>
     <string name="long_holiday_title_length_warning">اسم العطلة طويل جدا</string>
     <string name="long_holiday_week_off">أيام العطلة الاسبوعية</string>
-    <string name="long_month_date_format">dd MMMM، yyyy</string>
+    <string name="long_month_date_format">dd MMMM yyyy</string>
     <string name="lunar_date">التاريخ القمري</string>
     <string name="manage_holidays">إدارة العُطل</string>
     <string name="manage_title">إدارة</string>
@@ -407,7 +408,7 @@
     <string name="match_zodiac">توافق الأبراج</string>
     <string name="medium_date_format">EEE، dd MMMM yyyy</string>
     <string name="mens_date_format_m_d">dd MMM</string>
-    <string name="mens_date_format_y_m_d">dd MMM، yyyy</string>
+    <string name="mens_date_format_y_m_d">dd MMM yyyy</string>
     <string name="menstrual_assistant">الدورة الشهرية</string>
     <string name="menstruation_alert_auth_message">اسمح لمساعد الدورة الشهرية بالتشغيل التلقائي حتى تتمكن من تلقي الإشعارات. سيتم ابلاغك فقط بالعناصر المهمة.</string>
     <string name="menstruation_auto_start_message">اسمح لمساعد الدورة الشهرية بالتشغيل التلقائي</string>
@@ -433,6 +434,7 @@
     <string name="midnight">الليل</string>
     <string name="missing_name">(بدون اسم)</string>
     <string name="missing_required_permission">لقد قيدت الأذونات المطلوبة.</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -762,6 +764,7 @@
     <string name="talk_back_read_date">%1$s (%2$s وفقا للتقويم القمري).</string>
     <string name="talk_back_setting">الإعدادات</string>
     <string name="talk_back_tab_switch">التبديل بين طرق العرض</string>
+    <string name="talk_back_tab_switch_language">اختر لغة التقويم</string>
     <string name="talkback_bengali">بنغالي</string>
     <string name="talkback_english">إنجليزي</string>
     <string name="talkback_gujarati">غوجاراتي</string>

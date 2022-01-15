@@ -107,6 +107,9 @@
     <string name="binded">متصل</string>
     <string name="binded_description" formatted="false">"تم ربط %s إلى حساب Mi الخاص بك.
 يمكنك الآن تسجيل الدخول لحساب Mi بإستخدام %s."</string>
+    <string name="button_agree">أوافق</string>
+    <string name="button_close">إغلاق</string>
+    <string name="button_refuse">لا أوافق</string>
     <string name="button_unbind">قطع الاتصال</string>
     <string name="cancel">إلغاء</string>
     <string name="change_activate_email">تغييرعنوان البريد الإلكتروني</string>
@@ -466,6 +469,7 @@
     <string name="passport_activing_account">جارٍ التفعيل…</string>
     <string name="passport_adding_account">جارٍ إضافة الحساب…</string>
     <string name="passport_area_code_hot">المستخدمة بشكل متكرر</string>
+    <string name="passport_area_code_others">استخدم بادئة مختلفة للدولة</string>
     <string name="passport_area_code_title">رمز البلد</string>
     <string name="passport_auto_generate_pwd">توليد كلمة مرور آمنة</string>
     <string name="passport_back">رجوع</string>
@@ -652,7 +656,7 @@
     <string name="passport_talkback_switch_voice_captcha">التبديل إلى رمز التحقق الصوتي</string>
     <string name="passport_talkback_voice_captcha">تشغيل رمز التحقق الصوتي</string>
     <string name="passport_ticket_login_select_sim_card">اختر بطاقة SIM</string>
-    <string name="passport_ticket_login_select_sim_card_1">1 SIM</string>
+    <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
     <string name="passport_ticket_login_select_sim_card_cancel">إلغاء</string>
     <string name="passport_title_reg">إنشاء حساب</string>
@@ -698,13 +702,19 @@
     <string name="permission_group_phone">الهاتف</string>
     <string name="permission_group_sms">رسالة قصيرة</string>
     <string name="permission_group_storage">التخزبن</string>
+    <string name="permission_instructions">استخدام الأذونات</string>
     <string name="permission_read_sms">الوصول إلى الرسائل</string>
+    <string name="permission_withdraw">سحب الموافقة</string>
     <string name="permission_write_external_storage">الوصول إلى الذاكرة وحفظ العناصر</string>
     <string name="personal_info_desc">الصور والاسم المستعار والمزيد</string>
     <string name="phone_num_use_for">استخدامات رقم الهاتف:</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
+    <string name="privacy_policy_reject_confirm_msg">لن تتمكن من الاستمرار في استخدام حساب Mi ما لم توافق على الإصدار الجديد من سياسة الخصوصية الخاصة به. هل ترغب في الموافقة على تحديث &lt;a href=%1$s>سياسة خصوصية&lt;/a> حساب Mi الآن؟</string>
+    <string name="privacy_policy_reject_confirm_title">لا يمكن استخدام حساب Mi</string>
+    <string name="privacy_policy_update_msg">تم تحديث سياسة خصوصية حساب Mi:&lt;br/>%1$s&lt;br/>يرجى قراءة والموافقة على الإصدار الجديد من &lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> قبل المتابعة.</string>
+    <string name="privacy_policy_update_title">تحديث سياسة الخصوصية</string>
     <string name="provision_back">رجوع</string>
     <string name="provision_next">التالي</string>
     <string name="provision_skip_underline">تخطي</string>
@@ -731,6 +741,9 @@
     <string name="restart_action">البدء من جديد</string>
     <string name="restart_phone_bind_message">قد يأخذ بعض الوقت لإستلام SMS. البدء على إي حال؟</string>
     <string name="restart_phone_bind_title">تغيير هاتف الاسترداد</string>
+    <string name="revoke_privacy_policy">سحب الموافقة</string>
+    <string name="revoke_privacy_policy_instructions">إذا قمت بالمتابعة، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية حساب Mi. سنتوقف عن جمع المعلومات الشخصية. وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة المحددة وفقا للقوانين واللوائح المعمول بها ما لم يكن مطلوبًا بخلاف ذلك. نظرًا لأن تطبيق حساب Mi يوفر خدمات بناءً على جمع البيانات الشخصية الضرورية، فسيتم اعتبار سحب موافقتك رفض لقبول خدمات حساب Mi. هل ترغب في سحب الموافقة الآن؟</string>
+    <string name="revoke_privacy_policy_title">سحب الموافقة</string>
     <string name="risky_pwd_not_allow">كلمة المرور هذه غير آمنة. استخدم كلمة مرور أخرى.</string>
     <string name="same_new_and_old_pwd">يجب أن تكون كلمة المرور الجديدة مختلفة عن كلمة المرور القديمة</string>
     <string name="saturday">السبت</string>
@@ -859,7 +872,15 @@
     <string name="user_instruction_all_purpose">مرحبًا بك في حساب Mi! يمكنك استخدام حسابك للوصول إلى الخدمات المقدمة من Xiaomi والشركات التابعة لها، مثل Mi.com و Xiaomi Cloud و GetApps. يمكنك الحصول على عملات Mi وشراء سلع افتراضية واستخدام خدمات ذات قيمة مضافة متضمن ذلك الألعاب والثيمات والكتب الإلكترونية.</string>
     <string name="user_instruction_tip">لتسجيل الدخول، اقرأ أولاً ووافق على الشروط والأحكام الخاصة بنا.</string>
     <string name="user_license_with_3rd_app">&lt;Data>بتسجيلي الدخول إلى حساب Mi، أؤكد أنني قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> و&lt;a href=%3$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا موبايل&lt;/a>.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_no_operator">&lt;Data>لقد قرأت وأوافق على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> و&lt;a href=%3$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_telcom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لحساب eSurfing .&lt;/a>&lt;/Data></string>
+    <string name="user_license_with_3rd_app_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
     <string name="user_license_without_3rd_app">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="user_license_without_3rd_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا موبايل.&lt;/a>&lt;/Data></string>
+    <string name="user_license_without_3rd_telcom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi، وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لحساب eSurfing&lt;/a>.&lt;/Data></string>
+    <string name="user_license_without_3rd_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="vip_account_settings">إعدادات VIP</string>

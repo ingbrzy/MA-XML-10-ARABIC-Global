@@ -141,6 +141,8 @@
     <string name="created_successfully">تم الإنشاء بنجاح</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">ضبط</string>
+    <string name="customize_radio_btn_summary">إعطاء الأولوية لمعدل التحديث المحدد</string>
+    <string name="customize_radio_btn_title">تخصيص</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">Its bright blue skin and poisonous glands are defense mechanisms to potential predators.</string>
     <string name="date_picker_label_day" />
@@ -150,7 +152,11 @@
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="dc_light_hint_enable_title">تنبيه</string>
     <string name="dc_light_hint_normal">قد تؤثر وظيفة تعتيم التيار المستمر على عرض بعض العناصر.</string>
+    <string name="dc_light_hint_normal_anit">قد يؤثر وضع منع الوميض على طريقة عرض بعض العناصر.</string>
+    <string name="dc_light_hint_normal_other">قد يؤثر وضع منع الوميض على معدل التحديث وطريقة عرض بعض العناصر.</string>
     <string name="dc_light_hint_other">قد تؤثر وظيفة تعتيم التيار المستمر على معدل التحديث وعرض بعض العناصر.</string>
+    <string name="dc_light_hint_unnormal_low">قد يؤثر وضع منع الوميض في الإضاءة الخافتة على طريقة عرض بعض العناصر.</string>
+    <string name="dc_light_hint_unnormal_other">قد يؤثر وضع منع الوميض في الإضاءة الخافتة على معدل التحديث وطريقة عرض بعض العناصر.</string>
     <string name="dc_lignt_enable_hint">سيكون معدل التحديث في وضع منع الوميض ٦٠ هرتز. هل تريد التبديل إلى هذا الوضع؟</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">انقر لمنح الأذونات لتتمكن من عرض الإحصائيات</string>
@@ -288,13 +294,19 @@
     <string name="focus_mode_timer_pick_dialog_title">ادخل المدة</string>
     <string name="focus_time_exception_tip">يبدو أن وقت النظام تغير. تم إيقاف وضع التركيز.</string>
     <string name="follow_sim1">تعيين إعدادات SIM 1</string>
+    <string name="fps_high">عالي</string>
     <string name="fps_nature_summary">معدل التحديث الأقصى يجعل كل شيء يبدو واضح ونقي</string>
     <string name="fps_nature_title">أقصى</string>
+    <string name="fps_normal">قياسي</string>
+    <string name="fps_radio_btn_title"> معدل التحديث</string>
+    <string name="fps_save_battery_tips">موفر البطارية مشغل. تم تعيين معدل التحديث إلى %d هرتز.</string>
     <string name="fps_smooth_summary">سيؤدي معدل التحديث العالي ​​إلى زيادة جودة عرض التفاصيل</string>
     <string name="fps_smooth_title">عالي</string>
     <string name="fps_standard_summary">يوفر معدل التحديث القياسي البطارية</string>
     <string name="fps_standard_title">قياسي</string>
     <string name="fps_user_tip">- يتم تشغيل هذه الرسوم المتحركة التجريبية بسرعة منخفضة وهي كمرجع فقط. قد تختلف النتيجة الفعلية حسب العوامل المتغيرة.</string>
+    <string name="fps_user_tip_footer">"%1$d. لفهم الفرق بين معدلات التحديث المنخفضة والعالية. سيتم هنا تشغيل نماذج مقاطع فيديو بسرعة أقل. قد يكون من الصعب عليك ملاحظة الفرق أثناء الاستخدام العادي.
+%2$d. في بعض الحالات، قد يتم ضبط معدل التحديث ديناميكيًا حسب المحتوى المعروض."</string>
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
@@ -320,11 +332,14 @@
     <string name="healthy_use_phone">إدارة مدة استخدام الجهاز</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">معدل تحديث الشاشة عالي. استهلاك أعلى للطاقة.</string>
+    <string name="high_fps_tip_footer">يؤدي استخدام معدلات تحديث أعلى إلى جعل تجربة المشاهدة أكثر سلاسة واستهلاك أكبر للطاقة.</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">مساحة اللون HSV</string>
     <string name="hsv_space_color_hue">تدرج اللون</string>
-    <string name="hsv_space_color_saturation">صفاء اللون</string>
+    <string name="hsv_space_color_saturation">تشبع اللون</string>
     <string name="hsv_space_color_value">القيمة</string>
+    <string name="intelligent_radio_btn_summary">ضبط معدل التحديث ديناميكيًا بناء على سيناريوهات لتحقيق التوازن بين الأداء واستهلاك الطاقة</string>
+    <string name="intelligent_radio_btn_title">تلقائي (موصى به)</string>
     <string name="intelligent_recognition_item_summary">استخدم نغمة رنين مخصصة لمكالمات خدمات التوصيل وسيارات الأجرة. ستعمل هذه الميزة عند تعيين %s كنغمة الرنين الافتراضية.</string>
     <string name="intelligent_recognition_item_title">تحديد الخدمات</string>
     <string name="item_anura">Anura</string>
@@ -365,6 +380,8 @@
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">حماية معلوماتك الشخصية</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="low_flicker_mode">إضاءة خافتة</string>
+    <string name="low_flicker_mode_summary">منع الوميض في ظروف الإضاءة المنخفضة لتقليل إجهاد العين</string>
     <string name="low_fps_description">معدل تحديث الشاشة منخفض. استهلاك أقل للطاقة.</string>
     <string name="low_light_preview">معاينة في الإضاءة المنخفضة</string>
     <string name="lynx">Lynx</string>
@@ -374,6 +391,7 @@
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">الليل</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -466,6 +484,7 @@
     <string name="noon">الظهر</string>
     <string name="normal_mode">الوضع العادي</string>
     <string name="normal_mode_summary">لا يمنع وميض الشاشة عند الإضاءة المنخفضة</string>
+    <string name="normal_mode_summary_new">السماح بالوميض في ظروف الإضاءة المنخفضة</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -545,7 +564,7 @@
     <string name="several_days_use_time">مدة استخدام الجهاز: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">هذا الاختصار موجود مسبقاً</string>
-    <string name="silent_ringtone_hint">تم كتم الصوت الآن. ارفع مستوى الصوت وحاول مرة أخرى.</string>
+    <string name="silent_ringtone_hint">أوقف تشغيل الوضع الصامت أولا</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
@@ -557,6 +576,8 @@
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">مرحبا بك في ميزة مدة استخدام الجهاز! يمكنك هنا تعيين مدة وقت استخدام الهاتف وعرض إحصائيات مفصلة. انقر فوق \"ابدأ\" لتشغيل هذه الميزة.</string>
+    <string name="split_page_start">ابدأ</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
@@ -673,12 +694,15 @@
     <string name="usage_app_over_content">لقد استخدمت هذا التطبيق لمدة %s اليوم.</string>
     <string name="usage_app_over_summary">لقد وصلت للحد الأقصى. انتهى الوقت!</string>
     <string name="usage_app_set_limit_time">تعيين حد</string>
+    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
     <string name="usage_app_system_app_summary">لا يمكن تطبيق حدود على تطبيقات النظام</string>
     <string name="usage_app_weekday_limit">أيام الأسبوع</string>
     <string name="usage_app_weekend_limit">نهاية الأسبوع</string>
     <string name="usage_beat_fans">أفضل من %s من محبي Mi</string>
     <string name="usage_continuous_days">سلسلة</string>
     <string name="usage_creating_weekly_report">جارٍ إنشاء التقرير الأسبوعي…</string>
+    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+"</string>
     <string name="usage_current_week_usage">%s متوسط الاستخدام لآخر ٧ أيام</string>
     <string name="usage_device_limit_app_prolong">إضافة وقت</string>
     <string name="usage_device_limit_app_prolong_time1">إضافة ٢٠ دقيقة</string>
@@ -811,7 +835,7 @@
     <string name="usage_state_focus_level1">النجم ساطع</string>
     <string name="usage_state_focus_level_summary">المستوى الحالي: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">يسمح وضع التركيز فقط باستخدام الكاميرا وإجراء مكالمات الطوارئ. لن تتمكن من إيقاف تشغيل وضع التركيز قبل انتهى الوقت المحدد.</string>
-    <string name="usage_state_focus_mode_experience_warning_message_pad">"Focus mode only allows using Camera. You won't be able to turn off Focus mode prematurely."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">يسمح وضع التركيز فقط باستخدام الكاميرا. لن تتمكن من إيقاف تشغيل وضع التركيز نهائيا.</string>
     <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Focus mode only allows using Camera and making emergency calls. You won't be able to turn off Focus mode prematurely."</string>
     <string name="usage_state_focus_mode_summary">تقييد جميع الميزات باستثناء مكالمات الطوارئ والكاميرا</string>
     <string name="usage_state_focus_mode_summary1">البداية الجيدة هي نصف الإنجاز</string>
@@ -819,14 +843,14 @@
     <string name="usage_state_focus_mode_summary3">يتطلب الأمر بعض الجهد للحفاظ على التركيز</string>
     <string name="usage_state_focus_mode_title">وضع التركيز</string>
     <string name="usage_state_focus_mode_warning_message">يسمح وضع التركيز فقط باستخدام الكاميرا وإجراء مكالمات الطوارئ. لن تتمكن من إيقاف تشغيل وضع التركيز قبل انتهى الوقت المحدد.</string>
-    <string name="usage_state_focus_mode_warning_message_pad">"Focus mode only allows using Camera. You won't be able to turn off Focus mode prematurely."</string>
+    <string name="usage_state_focus_mode_warning_message_pad">يسمح وضع التركيز فقط باستخدام الكاميرا. لن تتمكن من إيقاف تشغيل وضع التركيز نهائيا.</string>
     <string name="usage_state_focus_mode_warning_message_sim_pad">"Focus mode only allows using Camera and making emergency calls. You won't be able to turn off Focus mode prematurely."</string>
     <string name="usage_state_focus_mode_warning_title">تنبيه</string>
     <string name="usage_state_focus_success">اكتمل التحدي</string>
     <string name="usage_state_focus_take_photo">الكاميرا</string>
     <string name="usage_state_focus_warning_text">ركز على شيء مهم</string>
     <string name="usage_state_focus_weak_summary">ضع هاتفك جانبا</string>
-    <string name="usage_state_focus_weak_summary_pad">Put your device away</string>
+    <string name="usage_state_focus_weak_summary_pad">ضع جهازك جانبا</string>
     <string name="usage_state_friday">الجمعة</string>
     <string name="usage_state_go_more">المزيد من التطبيقات</string>
     <string name="usage_state_holiday_day_hour_minute">أيام العطلة: %1$s %2$s</string>

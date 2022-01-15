@@ -81,6 +81,5 @@
     <string name="refocus_type_relighting_small_face">تعمل إضاءة الاستوديو في صور يوجد فيها أشخاص أكثر من هنا.</string>
     <string name="refocus_type_static">ضبابي</string>
     <string name="refocus_type_video">مسارات الضوء</string>
-    <string name="save">حفظ</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

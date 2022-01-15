@@ -352,4 +352,20 @@
         <item quantity="few">يتم تأخير الترجمة إلى %.1f ثواني</item>
         <item quantity="many">يتم تأخير الترجمة إلى %.1f ثانية</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">أضف مايصل إلى %d إشارة مرجعية</item>
+        <item quantity="zero">أضف مايصل إلى %d إشارة مرجعية</item>
+        <item quantity="one">أضف مايصل إلى %d إشارة مرجعية</item>
+        <item quantity="two">أضف مايصل إلى %d إشارات مرجعية</item>
+        <item quantity="few">أضف مايصل إلى %d إشارات مرجعية</item>
+        <item quantity="many">أضف مايصل إلى %d إشارة مرجعية</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d مشاهدة</item>
+        <item quantity="zero">%d مشاهدة</item>
+        <item quantity="one">%d مشاهدة</item>
+        <item quantity="two">%d مشاهدين</item>
+        <item quantity="few">%d مشاهدين</item>
+        <item quantity="many">%d مشاهدة</item>
+    </plurals>
 </resources>

@@ -51,6 +51,7 @@
     <string name="calibrate_success">تمت المعايرة</string>
     <string name="calibrate_tip">قم بإمالة جهازك للف الكرة حول الدائرة</string>
     <string name="calibrate_title">معايرة البوصلة</string>
+    <string name="calibrating">معايرة البوصلة</string>
     <string name="cancel">إلغاء</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">مسح</string>
@@ -225,6 +226,7 @@
     <string name="month_september_shortest">سبتمبر</string>
     <string name="more">المزيد</string>
     <string name="morning">الصباح</string>
+    <string name="new_cta_app_purpose">عرض الاتجاهات والإحداثيات</string>
     <string name="new_cta_v2_app_purpose">عرض الاتجاهات والإحداثيات والضغط الجوي والارتفاع الحالي</string>
     <string name="new_permission_camera_desc">للمعايرة</string>
     <string name="new_permission_location_desc">لعرض الإحداثيات</string>
@@ -236,6 +238,7 @@
     <string name="open_perm_msg">تحتاج البوصلة إلى الوصول لمعلومات الموقع والكاميرا. وهذا ضروري لتحديد الإحداثيات وتوفير معاينات مباشرة. السماح؟</string>
     <string name="open_perm_msg_no_camera">تحتاج البوصلة إلى الوصول لمعلومات موقعك لتتمكن من تحديد الإحداثيات. هل تسمح بذلك؟</string>
     <string name="open_perm_title">يتطلب أذونات</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">عرض معلومات التوجيه عند التصوير</string>
     <string name="permission_description">تفاصيل الأذونات</string>
     <string name="permission_location_desc">لعرض الإحداثيات</string>

@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
+    <string name="access_denied_info">محاولات كثيرة. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="account_bind_secure_email_title">إضافة االبريد الإلكتروني لاسترداد الحساب</string>
     <string name="account_bind_secure_phone_title">إضافة رقم الهاتف لاسترداد الحساب</string>
     <string name="account_crop_user_avatar">قص الصورة</string>
@@ -79,6 +80,7 @@
     <string name="confirm_bundled_phone_dialog_title">تأكيد رقم الهاتف المرتبط</string>
     <string name="confirm_new_pwd">تأكيد كلمة المرور الجديدة</string>
     <string name="confirm_unbundled_phone_dialog_message">رقم الهاتف هذا مرتبط بحساب Mi %2$s من %1$s. اذا قمت بالمتابعة لن يكون مرتبط مع حساب Mi %3$s. متابعة؟</string>
+    <string name="copy">نسخ</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -88,6 +90,9 @@
     <string name="diagnosis_log_sent_format">"تم إرسال السجلات بنجاح.
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
+    <string name="doing_login">جارٍ تسجيل الدخول…</string>
+    <string name="doing_query_account">جارٍ التحقق من معلومات الحساب…</string>
+    <string name="doing_register">جارٍ إنشاء الحساب…</string>
     <string name="early_morning">فجر</string>
     <string name="empty" />
     <string name="eras_ad">بعد الميلاد</string>
@@ -96,6 +101,7 @@
     <string name="error_invalid_bind_address">عنوان البريد الإلكتروني الذي أدخلتة غير صالح.</string>
     <string name="evening">عصر</string>
     <string name="exceed_binded_phone_times_notice">تم ربط رقم الهاتف هذا مسبقاً بحساب Mi آخر.</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="failed_dup_secure_phone_number">رقم الهاتف هذا مرتبط مسبقاً بحساب Mi آخر</string>
     <string name="find_psw">نسيت كلمة المرور</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -159,13 +165,20 @@
     <string name="get_phone_bind_exceed_limit">يمكنك ربط ما يصل إلى ٣ حسابات Mi برقم هاتف. لا يمكن إضافة حسابات جديدة.</string>
     <string name="get_phone_verifycode_exceed_limit">تم إرسال الكثير من رموز التحقق إلى هذا الرقم. انتظر 24 ساعة ثم حاول مرة أخرى.</string>
     <string name="goto_sign_up">إنشاء حساب</string>
+    <string name="i_know">فهمت</string>
     <string name="identity">الهوية</string>
     <string name="inconsistent_pwd">كلمة المرور غير متطابقة</string>
     <string name="input_email_address_notice">سيتم استخدام هذا البريد الإلكتروني لتحقق من حسابك</string>
+    <string name="input_length_exceeds_limit">النص طويل جدا</string>
     <string name="input_new_pwd">أدخل كلمة المرور الجديدة</string>
     <string name="isornot_your_mi_account">هل هذا هو حساب Mi الخاص بك؟</string>
     <string name="just_a_second">لحظة من فضلك…</string>
     <string name="loading">لحضة من فضلك…</string>
+    <string name="login_by_local_phone_long_text">تسجيل الدخول الان</string>
+    <string name="login_by_local_phone_short_text">تسجيل الدخول</string>
+    <string name="login_other">حساب Mi آخر</string>
+    <string name="login_register_by_local_phone_long_text">إنشاء حساب</string>
+    <string name="login_with_sns">طرق أخرى لتسجيل الدخول</string>
     <string name="logout_account">تسجيل الخروج</string>
     <string name="midnight">الليل</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
@@ -231,12 +244,16 @@
     <string name="month_september_shortest">سبتمبر</string>
     <string name="more">المزيد</string>
     <string name="morning">الصباح</string>
+    <string name="network_error_info">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="network_timeout_info">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="nick_name">الاسم المستعار</string>
     <string name="night">المساء</string>
     <string name="no_account">لم يتم تسجيل الدخول</string>
     <string name="no_phone">لا يوجد رقم هاتف</string>
     <string name="noon">الظهر</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="ok">موافق</string>
+    <string name="open_settings">الإعدادات</string>
     <string name="passport_access_denied">تم رفض الدخول</string>
     <string name="passport_account_label">حساب Mi</string>
     <string name="passport_account_name">"الحساب: %1$s "</string>
@@ -244,6 +261,7 @@
     <string name="passport_area_code_title">رمز المنطقة</string>
     <string name="passport_bad_authentication">اسم المستخدم أو كلمة المرور غير صحيحة</string>
     <string name="passport_barcode_add_account_prompt">لإضافة حساب، امسح رمز QR مجددا بعد تسجيل الدخول.</string>
+    <string name="passport_can_not_receive_verification_code">لم اتمكن من استلام رمز التحقق؟</string>
     <string name="passport_captcha_title">رمز الحماية</string>
     <string name="passport_checking_account">جارٍ التحقق من كلمة المرور…</string>
     <string name="passport_close">إغلاق</string>
@@ -332,8 +350,19 @@
     <string name="phone_number">رقم الهاتف</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="pm">م</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
+    <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="psw_hint">كلمة المرور</string>
     <string name="psw_sign_in">تسجيل الدخول باستخدام كلمة المرور</string>
+    <string name="register_by_local_phone_long_text">إنشاء حساب</string>
+    <string name="register_by_local_phone_short_text">إنشاء حساب</string>
+    <string name="request_agree">السماح</string>
+    <string name="request_camera_permission_message">نحن نحمي معلوماتك الشخصية وفقًا للقوانين واللوائح ذات الصلة. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذن التالي:&lt;br>&lt;br>&lt;b>استخدام الكاميرا (لتعيين صورة الملف الشخصي)&lt;/b>&lt;br>&lt;br>إذا كنت لا توافق على منح الأذن المذكور أعلاه، فلن تتمكن من استخدام هذا التطبيق؛ ومع ذلك يمكنك استخدام الوظائف الرئيسية. يمكنك تقييد أو منح الأذونات من الإعدادات.</string>
+    <string name="request_cancel">إلغاء</string>
+    <string name="request_error_invalid_token">تعذر التحقق</string>
+    <string name="request_error_network">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="request_error_unknown">حدث خطأ ما في النظام، يرجى الرجوع والمحاولة مجددا.</string>
+    <string name="request_gallery_permission_message">اسمح بالوصول إلى المعرض:&lt;br />لتعيين صورة الملف الشخصي</string>
     <string name="resend_active_email">إعادة إرسال</string>
     <string name="resend_email_reach_limit_message">لقد قمت بطلب الكثير من رسائل التحقق إلى البريد الإلكتروني. تأكد من أن رسالة التحقق ليست في مجلد البريد المزعج.</string>
     <string name="resend_email_reach_limit_title">محاولات كثيرة جدا</string>
@@ -355,13 +384,17 @@
     <string name="sign_in">تسجيل الدخول</string>
     <string name="sign_in_progress">تسجيل الدخول…</string>
     <string name="sign_in_title">تسجيل الدخول بإستخدام حساب Mi</string>
+    <string name="skip_query_account">تخطي</string>
     <string name="sms_send_success">تم الإرسال بنجاح</string>
     <string name="sns_access_token_expired_warning">انتهت الصلاحية. أعد تسجيل الدخول للاتصال بهذا الحساب.</string>
     <string name="sns_bind_limit">محاولات كثيرة جداً. حاول استخدام طريقة أخرى لتسجيل الدخول.</string>
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="system_error_info">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="temporary_not_available">لم تتوفر هذه الميزة بعد</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
@@ -417,13 +450,26 @@
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>
+    <string name="unknown_error_info">خطأ غير معروف</string>
     <string name="update_email_address_dialog_message">تحتاج إلى تأكيد هويتك قبل التمكن من تحديث البريد الإلكتروني لاسترداد الحساب.</string>
     <string name="update_email_address_dialog_title">تحديث البريد الإلكتروني لاسترداد الحساب</string>
     <string name="update_phone_notice">تغيير إعدادات الحماية</string>
     <string name="upload_error_log">رفع السجل</string>
+    <string name="user_agreement_hint_3rd_app">&lt;Data>لقد قرأت وأوافق على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> و&lt;a href=%3$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا موبايل&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لحساب eSurfing .&lt;/a>&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وكذلك &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
+    <string name="user_agreement_hint_default">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="user_agreement_hint_first_login">سيتم إنشاء حساب تلقائي في المرة الأولى التي تستخدم فيها رقم هاتفك.</string>
+    <string name="user_agreement_hint_with_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا موبايل.&lt;/a>&lt;/Data></string>
+    <string name="user_agreement_hint_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi، وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لحساب eSurfing&lt;/a>.&lt;/Data></string>
+    <string name="user_agreement_hint_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
     <string name="user_avatar_update_title">تغيير صورة الملف الشخصي</string>
     <string name="user_avatar_uploading">لحظة من فضلك…</string>
     <string name="user_id_hint">البريد الإلكتروني/الهاتف/معرف حساب Mi</string>
+    <string name="user_name_phone_number">رقم الهاتف</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">تفعيل</string>
     <string name="v_code_title">أدخل رمز التحقق</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>

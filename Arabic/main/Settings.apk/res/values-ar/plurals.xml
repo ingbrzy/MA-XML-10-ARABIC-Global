@@ -184,14 +184,6 @@
         <item quantity="few">%d أجهزة متاحة</item>
         <item quantity="many">%d جهاز متاح</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">كل %d ثانية</item>
-        <item quantity="zero">كل %d ثانية</item>
-        <item quantity="one">كل %d ثانية</item>
-        <item quantity="two">كل %d ثواني</item>
-        <item quantity="few">كل %d ثواني</item>
-        <item quantity="many">كل %d ثانية</item>
-    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d جهاز</item>
         <item quantity="zero">%d جهاز</item>

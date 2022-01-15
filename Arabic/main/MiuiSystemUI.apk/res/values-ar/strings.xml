@@ -131,7 +131,6 @@
     <string name="accessibility_keyguard_face_unlock_view">التعرف على الوجه</string>
     <string name="accessibility_left_control_center_button">إختصار</string>
     <string name="accessibility_left_lock_screen_magazine_button">خلفية كاروسيل</string>
-    <string name="accessibility_left_xmyzl_button">تحكم Xiaomi السحري</string>
     <string name="accessibility_location_active">طلبات الموقع نشطة</string>
     <string name="accessibility_long_click_tile">فتح الإعدادات</string>
     <string name="accessibility_manage_notification">إدارة الإشعارات</string>
@@ -561,7 +560,6 @@
     <string name="cell_data_off">غير مفعّلة</string>
     <string name="cell_data_off_content_description">تم إيقاف بيانات الجوال</string>
     <string name="charge_length_format">قبل %1$s</string>
-    <string name="choose_clock_dual_clock_hint_text">لا يمكن تغيير التنسيق عند تشغيل الساعة المزدوجة</string>
     <string name="choose_clock_panel_title">تخطيط شاشة القفل</string>
     <string name="choose_clock_third_theme_hint_text">تستخدم شاشة القفل الثيم الحالي</string>
     <string name="choose_clock_title_left_top">يمين</string>
@@ -705,9 +703,6 @@
     <string name="development_settings_not_available">لا تتوفر خيارات المطور لهذا المستخدم</string>
     <string name="development_settings_summary">تعيين خيارات تطوير التطبيق</string>
     <string name="development_settings_title">خيارات المطور</string>
-    <string name="device_locked_without_biometric">لا يمكنك إلغاء قفل جهازك ببصمة الإصبع أو بيانات الوجه إذا كنت تستخدم قفل شاشة تابع لجهة خارجية</string>
-    <string name="device_locked_without_biometric_face">لا يمكنك إلغاء قفل جهازك بإستخدام بيانات الوجة إذا كنت تستخدم قفل شاشة تابع لجهة خارجية</string>
-    <string name="device_locked_without_biometric_finger">لا يمكنك إلغاء قفل جهازك ببصمة الإصبع إذا كنت تستخدم قفل شاشة تابع لجهة خارجية</string>
     <string name="device_services">خدمات الأجهزة</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">ملاحظة. بعد إعادة التشغيل، لن يتمكن هذا التطبيق من بدء التشغيل إلا بعد أن تلغي قفل جهازك.</string>
@@ -783,7 +778,6 @@
     <string name="face_unlock_pin_and_fingerprint">ادخل رمز PIN أو استخدم بصمة الإصبع لفتح القفل</string>
     <string name="face_unlock_reveal_eye">اجعل عينيك مرئية</string>
     <string name="face_unlock_reveal_mouth">اجعل شفتيك مرئية</string>
-    <string name="face_unlock_success">تم إلغاء القفل بنجاح</string>
     <string name="failed_to_open_app_settings_toast">تعذر فتح الإعداد لتطبيق %1$s</string>
     <string name="fingerprint_add_text">تم تحديث واجهه بصمة الأصبع. قم بإضافة بصمة الاصبع الخاص بك مرة أخرى.</string>
     <string name="fingerprint_add_title">إضافة بصمة الإصبع</string>
@@ -812,7 +806,6 @@
     <string name="fs_gesture_back_ready_title">الرجوع للخلف</string>
     <string name="fs_gesture_final_over">انتهيت</string>
     <string name="fs_gesture_final_restart">مرة أخرى</string>
-    <string name="fs_gesture_final_see_more">لمزيد من الرسوم المتحركة التوضيحية، انتقل إلى الإعدادات > الشاشة الرئيسية > التنقل في النظام</string>
     <string name="fs_gesture_final_summary">يمكنك اختيار العودة إلى استخدام المفاتيح من الإعدادات> عرض ملء الشاشة</string>
     <string name="fs_gesture_final_title">أنت جاهز للانطلاق!</string>
     <string name="fs_gesture_finish">رائع!</string>
@@ -843,6 +836,28 @@
     <string name="guest_wipe_session_wipe">البدء من جديد</string>
     <string name="gxzw_area">ماسح بصمة الإصبع</string>
     <string name="gxzw_press_harder">اضغط بقوه قليلاََ</string>
+    <string name="gxzw_quick_close">إغلاق</string>
+    <string name="gxzw_quick_open_add_event">إضافة حدث</string>
+    <string name="gxzw_quick_open_add_event_sub">التقويم</string>
+    <string name="gxzw_quick_open_alipay_pay">رمز الدفع</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
+    <string name="gxzw_quick_open_alipay_scan">الماسح</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
+    <string name="gxzw_quick_open_qr_code">رمز QR</string>
+    <string name="gxzw_quick_open_qr_code_sub">الماسح</string>
+    <string name="gxzw_quick_open_search">البحث</string>
+    <string name="gxzw_quick_open_search_sub">المتصفح</string>
+    <string name="gxzw_quick_open_skip_teach">تخطي الدليل التوجيهي</string>
+    <string name="gxzw_quick_open_title">فتح قائمة الاختصار</string>
+    <string name="gxzw_quick_open_wechat_pay">رمز الدفع</string>
+    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
+    <string name="gxzw_quick_open_wechat_scan">الماسح</string>
+    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_title1">قل اسم التطبيق الذي تريد فتحه</string>
+    <string name="gxzw_quick_open_xiaoai_title2">قل اسم الميزة الذي تريد استخدامها</string>
+    <string name="gxzw_quick_tip_press">استمر بالضغط…</string>
+    <string name="gxzw_quick_tip_slide">لا ترفع إصبعك. مرّر للتحديد.</string>
     <string name="gxzw_try_again">حاول مجددا</string>
     <string name="gxzw_try_more_again">حاول مجددا</string>
     <string name="gxzw_use_password">استخدم كلمة المرور لإلغاء القفل</string>
@@ -911,15 +926,13 @@
     <string name="input_lockscreen_password_hint_text">ادخل كلمة المرور</string>
     <string name="input_lockscreen_pattern_hint_text">ارسم نقش</string>
     <string name="input_lockscreen_pin_hint_text">أدخل رمز PIN</string>
-    <string name="input_password_after_boot_msg">يجب عليك إدخال قفل الشاشة لأول مرة عند إعادة تشغيل الجهاز</string>
+    <string name="input_password_after_boot_msg">لفتح قفل جهازك، ادخل كلمة المرور</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">لا يمكن التبديل بين الفضاءات أثناء إجراء مكالمة</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">لا يمكن التبديل بين الواجهتين عندما تكون رقابة الوالدين قيد التشغيل</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">لا يمكن التبديل بين الواجهتين عندما يكون موفر البطارية الأقصى قيد التشغيل</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">تحتاج إلى الدخول إلى الواجهة الاولى بعد إعادة تشغيل الجهاز</string>
     <string name="input_password_hint_text">ادخل كلمة المرور</string>
-    <string name="input_pattern_after_boot_msg">يجب عليك رسم النقش لأول مرة عند إعادة تشغيل الجهاز</string>
     <string name="input_pattern_hint_text">ارسم نقش إلغاء قفل الشاشة</string>
-    <string name="input_pin_after_boot_msg">يجب عليك إدخال رمز PIN لأول مرة عند إعادة تشغيل الجهاز</string>
     <string name="input_pin_code">أدخل رمز PIN</string>
     <string name="input_puk_code">ادخل رمز PUK</string>
     <string name="install_other_apps">تثبيت تطبيقات غير معروفة</string>
@@ -998,7 +1011,6 @@
     <string name="keyguard_charged">تم الشحن</string>
     <string name="keyguard_charging_back_to_lockscreen">الرجوع إلى شاشة القفل</string>
     <string name="keyguard_charging_battery_level">%%%s</string>
-    <string name="keyguard_charging_double_fast_and_level_tip">زيادة سرعة الشحن بمقدار %s</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">اليوم %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">أمس %s</string>
@@ -1025,6 +1037,7 @@
     <string name="keyguard_missing_sim_instructions_long">‏شريحة SIM مفقودة أو غير قابلة للقراءة. أدخل شريحة SIM.</string>
     <string name="keyguard_missing_sim_message">‏ليس هناك شريحة SIM في الهاتف.</string>
     <string name="keyguard_missing_sim_message_short">‏ليست هناك شريحة SIM</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">الشبكة مؤمّنة</string>
     <string name="keyguard_password_enter_password_code">اكتب كلمة المرور لإلغاء التأمين</string>
     <string name="keyguard_password_enter_pin_code">اكتب رمز رقم التعريف الشخصي</string>
@@ -1260,12 +1273,14 @@ d MMMM"</string>
 
 يمكنك الاتصال بالمشرف للحصول على مزيد من المعلومات."</string>
     <string name="monitoring_description_ca_cert_settings">فتح بيانات الاعتماد الموثوق بها</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">تم تثبيت مرجع مصدّق على هذا الجهاز. قد تتم مراقبة حركة بيانات شبكتك الآمنة أو تعديلها.</string>
     <string name="monitoring_description_do_body">يمكن للمشرف مراقبة الإعدادات وإدارتها والدخول إلى المؤسسة والتطبيقات والبيانات المرتبطة بجهازك ومعلومات موقع الجهاز.</string>
     <string name="monitoring_description_do_body_vpn">لقد اتصلت بتطبيق %1$s، الذي يمكن أن يراقب نشاط الشبكة، بما في ذلك رسائل البريد الإلكتروني والتطبيقات والمواقع الإلكترونية.</string>
     <string name="monitoring_description_do_header_generic">تتم إدارة جهازك بواسطة %1$s.</string>
     <string name="monitoring_description_do_header_with_name">تستخدم %1$s تطبيق %2$s لإدارة جهازك.</string>
     <string name="monitoring_description_do_learn_more">مزيد من المعلومات</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">ثبّتت مؤسستك مرجعًا مصدّقًا في ملفك الشخصي للعمل. قد تتم مراقبة حركة بيانات شبكتك الآمنة أو تعديلها.</string>
     <string name="monitoring_description_managed_profile_named_vpn">تم ربط الملف الشخصي للعمل بـ %1$s، الذي يمكنه مراقبة أنشطتك الشخصية على الشبكة، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب.</string>
     <string name="monitoring_description_management">"هذا الجهاز يخص مؤسستك.
@@ -1297,6 +1312,7 @@ d MMMM"</string>
 
 وتجدر الإشارة إلى أنك متصل أيضًا بشبكة افتراضية خاصة يمكن أن تراقب نشاط الشبكة."</string>
     <string name="monitoring_description_vpn_settings">‏فتح إعدادات الشبكة الافتراضية الخاصة (VPN)</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">‏شهادات CA</string>
     <string name="monitoring_subtitle_network_logging">تسجيل بيانات الشبكة</string>
     <string name="monitoring_subtitle_vpn">‏شبكة افتراضية خاصة (VPN)</string>
@@ -1327,11 +1343,11 @@ d MMMM"</string>
     <string name="mr_dialog_transferable_header">تشغيل على مجموعة من الأجهزة</string>
     <string name="mr_system_route_name">النظام</string>
     <string name="mr_user_route_category_name">الأجهزة</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">لا يمكن التعيين أثناء المكالمة</string>
     <string name="music_controls_no_title">بلا عنوان</string>
     <string name="nav_bar">شريط التنقل</string>
     <string name="nav_bar_default">(تلقائي)</string>
     <string name="nav_bar_layout">التنسيق</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">لا شيء</string>
     <string name="no_auto_saver_action">لا، شكرًا</string>
     <string name="no_shortcut">لا يدعم تطبيق %1$s ميزات المحادثات.</string>
@@ -1403,7 +1419,6 @@ d MMMM"</string>
     <string name="open_lock_screen_magazine_hint_text">مرر لليمين لمزيد من الخيارات</string>
     <string name="open_remote_center_hint_text">مرّر لليمين لعرض عناصر التحكم</string>
     <string name="open_saver_setting_action">الإعدادات</string>
-    <string name="open_xmyzl_hint_text">اسحب لأعلى لفتح تحكم Xiaomi السحري</string>
     <string name="orb_search_action">إجراء البحث</string>
     <string name="osu_completing_sign_up">جارٍ إكمال التسجيل…</string>
     <string name="osu_connect_failed">لا يمكن الاتصال</string>
@@ -1429,7 +1444,7 @@ d MMMM"</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>يجب عليك &lt;font color=#a5220e>محو جميع البيانات&lt;/font> على جهازك، بما في ذلك الصور وجهات الاتصال ثم تعيين واحدة جديدة.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">التالي</string>
     <string name="phone_locked_foget_password_ok">فهمت</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>أوقف تشغيل الجهاز، ثم اضغط مطولا على &lt;font color=#e6e6e6>زر الطاقة&lt;/font> و &lt;font color=#e6e6e6>زر رفع مستوى الصوت&lt;/font> معا حتى يظهر &lt;img src=\"\">.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>قم بإيقاف تشغيل جهازك، ثم اضغط باستمرار على &lt;font color=#a5220e>زر الطاقة&lt;/font> و &lt;font color=#a5220e>زر رفع مستوى الصوت&lt;/font> معا حتى تشاهد شعار Mi.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>حدد &lt;font color=#a5220e>\"مسح وإعادة تعيين\"&lt;/font> ثم انتظر حتى يقوم جهاز بإعادة التشغيل.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">كيفية مسح البيانات؟</string>
     <string name="phone_locked_string">هذا الجهاز مقفل</string>
@@ -1515,6 +1530,7 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">اسم مضيف مزوّد نظام أسماء النطاقات الخاص</string>
     <string name="private_dns_mode_provider_failure">لا يمكن الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">أدخل اسم مضيف مزوّد نظام أسماء النطاقات</string>
+    <string name="process_kernel_label">‏نظام تشغيل Android</string>
     <string name="profile_connect_timeout_subtext">حدث خطأ أثناء الاتصال. قم بإيقاف تشغيل الجهاز وتشغيله مرة أخرى.</string>
     <string name="profile_info_settings_title">معلومات الملف الشخصي</string>
     <string name="profile_owned_footer">ربما تتم مراقبة الملف الشخصي</string>
@@ -1648,7 +1664,7 @@ d MMMM"</string>
     <string name="quick_settings_rotation_locked_landscape_label">أفقي</string>
     <string name="quick_settings_rotation_locked_portrait_label">عمودي</string>
     <string name="quick_settings_rotation_unlocked_label">دوران تلقائي</string>
-    <string name="quick_settings_rotationlock_label">قفل التدوير</string>
+    <string name="quick_settings_rotationlock_label">إيقاف التدوير</string>
     <string name="quick_settings_rssi_emergency_only">مكالمات طوارئ فقط</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">تسجيل الشاشة</string>
@@ -1806,8 +1822,6 @@ d MMMM"</string>
     <string name="show_silently">عرض الإشعارات بدون تنبيه صوتي</string>
     <string name="show_touches">عرض النقرات</string>
     <string name="show_touches_summary">عرض الملاحظات المرئية للنقرات</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.</Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font> and tap &lt;font color=#e6e6e6>[Reboot]&lt;/font> after that.</Data></string>
     <string name="sim_state_locked_dialog_title">بطاقة SIM غير صالحة</string>
     <string name="sim_state_locked_puk_dialog_message">لقد تم تعطيل بطاقة SIM لأنك أدخلت رمز PUK خاطئ لأكثر من %d مرات. يرجى استبدال بطاقة SIM هذه بأخرى.</string>
     <string name="simulate_color_space">محاكاة مسافة اللون</string>

@@ -119,6 +119,11 @@
         <item>للتعرف على الجهاز</item>
         <item>لتحديد موقع الجهاز والتبديل إلى وضع الفقدان</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>لتحديد موقع الجهاز والتبديل إلى وضع الفقدان</item>
+        <item>لتحديد موقع هذا الجهاز عندما لا يكون متصلاً بالإنترنت</item>
+        <item>للوصول إلى رقم الهاتف لتحديد موقع هذا الجهاز عندما لا يكون متصل بالإنترنت</item>
+    </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>لمزامنة الأحداث</item>
         <item>لمزامنة الرسائل</item>
@@ -126,6 +131,14 @@
         <item>لمزامنة جهات الاتصال</item>
         <item>لمزامنة جهات الاتصال</item>
         <item>لمزامنة العناصر على جهازك (مثل الصور والفيديوهات والأغاني)</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm_title">
+        <item>الوصول إلى أحداث التقويم</item>
+        <item>إرسال رسائل قصيرة</item>
+        <item>قراءة رسائل الوسائط المتعددة</item>
+        <item>الوصول إلى جهات الاتصال</item>
+        <item>تعديل وحذف جهات الاتصال</item>
+        <item>الوصول إلى الصور والملفات على الجهاز</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>النسخ الاحتياطي</item>

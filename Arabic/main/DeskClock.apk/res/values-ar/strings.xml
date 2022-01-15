@@ -67,6 +67,7 @@
     <string name="alert_vibrate_enable_summary">الاهتزاز عند رنين المنبه</string>
     <string name="alert_volume">مستوى صوت نغمة الرنين</string>
     <string name="alert_volume_summary">تعيين مستوى الصوت للتنبيهات والمؤقتات</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI يتحدث…</string>
     <string name="already_exist">هذا المؤقت موجود مسبقًا</string>
     <string name="am">ص</string>
     <string name="analog_gadget">ساعة تناظرية</string>
@@ -110,6 +111,7 @@
     <string name="channel_name_timer">المؤقت</string>
     <string name="check_theme_app_install">تأكد من تثبيت تطبيق الثيمات على جهازك.</string>
     <string name="check_voice_assist_app_version">قم بتحديث Mi AI إلى أحدث إصدار.</string>
+    <string name="cities_show_limit_desc">لا يمكن عرض المزيد من الساعات</string>
     <string name="city_time_contrast_desc">انقر لمقارنة الوقت في مدن مختلفة</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="clock_bg_button_setting_summary_common">حدد لون الخلفية لتطبيق الساعة</string>
@@ -444,6 +446,7 @@
     <string name="repeat_count_value_ten">١٠</string>
     <string name="repeat_count_value_three">۳</string>
     <string name="repeat_count_value_two">٢</string>
+    <string name="repeat_type">تكرار</string>
     <string name="reset">إعادة تعيين</string>
     <string name="revert">رجوع</string>
     <string name="ringtone_all">كل النغمات</string>
@@ -463,7 +466,9 @@
     <string name="search_stopwatch_keywords">ساعة الإيقاف</string>
     <string name="search_timer_keywords">المؤقت</string>
     <string name="search_worldclock_keywords">الوقت؛ الساعة العالمية؛الساعة</string>
+    <string name="select_all">تحديد الكل</string>
     <string name="select_operation">تحديد</string>
+    <string name="selected">محدد</string>
     <string name="send">مشاركة</string>
     <string name="set_alarm">حدد الوقت</string>
     <string name="set_alarm_choose_ringtone">اختر نغمة الرنين</string>
@@ -486,6 +491,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه إذا تم ضبطة ١٠ دقائق على الأقل بعد إطفاء الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="sleep_analysis">الإحصائيات</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -529,6 +535,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_reset_notification">تم إعادة تعيين ساعة الإيقاف</string>
     <string name="stopwatch_running_notification">ساعة الإيقاف</string>
@@ -537,6 +544,7 @@
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">اسمح لهذا التطبيق بالاتصال بالإنترنت للوصول إلى جميع ميزاته.</string>
     <string name="system_permission_main_purpose">عرض الوقت وضبط التنبيهات والمؤقتات باستخدام ساعة الإيقاف</string>
     <string name="system_permission_purpose">إنشاء تنبيهات أيام الأسبوع وإعداد نغمات مخصصة</string>
@@ -643,6 +651,11 @@
     <string name="tuesday_shortest">الثلاثاء</string>
     <string name="turn_off_a_repeat_alarm">إيقاف تكرار المنبه</string>
     <string name="turn_off_this_repeat_alarm">إيقاف تكرار هذا المنبه</string>
+    <string name="tv_blank_list_other_text">لا شيء هنا بعد</string>
+    <string name="tv_blank_list_show_text">لا شيء هنا حتى الآن. ابحث عن موقع لإضافته إلى ساعتك العالمية.</string>
+    <string name="tv_world_clock_edit_title1">الموقع الظاهر على الشاشة الرئيسية</string>
+    <string name="tv_world_clock_edit_title2">المواقع المضافة مسبقا</string>
+    <string name="unselect_all">إلغاء تحديد الكل</string>
     <string name="upcoming_alarm">المنبه التالي: %s</string>
     <string name="upcoming_alarm_hint">يمكنك إيقاف تشغيل هذا المنبه الآن</string>
     <string name="update_health_app">تحديث Xiaomi Health</string>
@@ -670,8 +683,10 @@
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
     <string name="week_ringtone_recommend_desc">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ المحدد. هل ترغب في تعيينه كنغمة رنين المنبه الافتراضي؟</string>
+    <string name="white_noise">الضوضاء المحيطة</string>
     <string name="white_noise_selector">حدد الملف الصوتي</string>
     <string name="workday_alarm_clock">منبه يوم عمل</string>
+    <string name="worldclock_edit_label">الساعة العالمية</string>
     <string name="worldclock_empty_text">لا توجد أي ساعات</string>
     <string name="worldclock_input_hint_text">البحث عن بلد أو مدينة</string>
     <string name="worldclock_local_time">الوقت المحلي</string>
@@ -689,5 +704,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s س</string>
     <string name="worldcolock_timezone_local">نفس التوقيت المحلي</string>
+    <string name="xiaoai_ringtone_title">نغمات رنين Mi AI</string>
     <string name="yesterday">أمس</string>
 </resources>

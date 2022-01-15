@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">منذ نصف ساعة</item>
-        <item quantity="zero">منذ نصف ساعة</item>
-        <item quantity="one">منذ نصف ساعة</item>
-        <item quantity="two">منذ نصف ساعة</item>
-        <item quantity="few">منذ نصف ساعة</item>
-        <item quantity="many">منذ نصف ساعة</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">في نصف ساعة</item>
-        <item quantity="zero">في نصف ساعة</item>
-        <item quantity="one">في نصف ساعة</item>
-        <item quantity="two">في نصف ساعة</item>
-        <item quantity="few">في نصف ساعة</item>
-        <item quantity="many">في نصف ساعة</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">فوراً</item>
-        <item quantity="zero">فوراً</item>
-        <item quantity="one">فوراً</item>
-        <item quantity="two">فوراً</item>
-        <item quantity="few">فوراً</item>
-        <item quantity="many">فوراً</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">الآن</item>
-        <item quantity="zero">الآن</item>
-        <item quantity="one">الآن</item>
-        <item quantity="two">الآن</item>
-        <item quantity="few">الآن</item>
-        <item quantity="many">الآن</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
-    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">تم التركيز البؤري. تم اكتشاف %d وجه</item>
         <item quantity="zero">تم التركيز البؤري. تم اكتشاف %d وجه</item>
@@ -112,6 +40,22 @@
         <item quantity="few">يمكنك إنشاء ما يصل إلى %d نسخ في المرة الواحدة.</item>
         <item quantity="many">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="zero">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="one">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="two">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="few">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+        <item quantity="many">&lt;Data>لا يمكن الاتصال بالكاميرا.&lt;br> سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. يرجى الانتظار بضع دقائق بعد إغلاق التطبيق والمحاولة مجددا&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="zero">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="one">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="two">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="few">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+        <item quantity="many">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d دقيقة</item>
         <item quantity="zero">%1$d دقيقة</item>
@@ -128,54 +72,6 @@
         <item quantity="few">%1$d ثواني</item>
         <item quantity="many">%1$d ثانية</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">منذ نصف ساعة</item>
-        <item quantity="zero">منذ نصف ساعة</item>
-        <item quantity="one">منذ نصف ساعة</item>
-        <item quantity="two">منذ نصف ساعة</item>
-        <item quantity="few">منذ نصف ساعة</item>
-        <item quantity="many">منذ نصف ساعة</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">في نصف ساعة</item>
-        <item quantity="zero">في نصف ساعة</item>
-        <item quantity="one">في نصف ساعة</item>
-        <item quantity="two">في نصف ساعة</item>
-        <item quantity="few">في نصف ساعة</item>
-        <item quantity="many">في نصف ساعة</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">فوراً</item>
-        <item quantity="zero">فوراً</item>
-        <item quantity="one">فوراً</item>
-        <item quantity="two">فوراً</item>
-        <item quantity="few">فوراً</item>
-        <item quantity="many">فوراً</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">في %d دقيقة</item>
-        <item quantity="zero">في %d دقيقة</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دقائق</item>
-        <item quantity="few">في %d دقائق</item>
-        <item quantity="many">في %d دقيقة</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">الآن</item>
-        <item quantity="zero">الآن</item>
-        <item quantity="one">الآن</item>
-        <item quantity="two">الآن</item>
-        <item quantity="few">الآن</item>
-        <item quantity="many">الآن</item>
-    </plurals>
     <plurals name="live_workspace_delete_dialog_title">
         <item quantity="other">حذف %1$d مسودة؟</item>
         <item quantity="zero">حذف %1$d مسودة؟</item>
@@ -183,22 +79,6 @@
         <item quantity="two">حذف %1$d مسودات؟</item>
         <item quantity="few">حذف %1$d مسودات؟</item>
         <item quantity="many">حذف %1$d مسودة؟</item>
-    </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">تم تحديد %d عنصر</item>
-        <item quantity="zero">تم تحديد %d عنصر</item>
-        <item quantity="one">تم تحديد %d عنصر</item>
-        <item quantity="two">تم تحديد %d عناصر</item>
-        <item quantity="few">تم تحديد %d عناصر</item>
-        <item quantity="many">تم تحديد %d عنصر</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">منذ %d دق</item>
-        <item quantity="zero">منذ %d دق</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دق</item>
-        <item quantity="few">منذ %d دق</item>
-        <item quantity="many">منذ %d دق</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s دقيقة</item>

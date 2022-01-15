@@ -75,12 +75,20 @@
         <item>أخضر</item>
         <item>أزرق</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>غير مهتم</item>
+        <item>متكرر</item>
+        <item>جودة منخفضة</item>
+        <item>صورة غير لائقة</item>
+        <item>معلومات احتيالية</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>محتوى جنسي</item>
         <item>معلومات خاطئة</item>
         <item>أخبار قديمة</item>
         <item>آراء متطرفة</item>
         <item>إعلانات مموهة</item>
+        <item>لا يعجبني</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>السابق/التالي</item>
