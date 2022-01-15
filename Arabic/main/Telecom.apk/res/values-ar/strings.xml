@@ -489,7 +489,6 @@
     <string name="private_dns_mode_provider">اسم مضيف مزوّد \"نظام أسماء النطاقات الخاص\"</string>
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">‏يُرجى إدخال اسم مضيف DNS</string>
-    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="profile_connect_timeout_subtext">حدثت مشكلة أثناء الاتصال. يُرجى إيقاف الجهاز ثم إعادة تشغيله.</string>
     <string name="profile_info_settings_title">معلومات الملف الشخصي</string>
     <string name="remaining_length_format">يتبقى %1$s</string>

@@ -256,7 +256,6 @@
     <string name="settings_guide_title">تحتاج إلى إعدادات أخرى؟</string>
     <string name="show_badge_notifications">شارات الإشعارات</string>
     <string name="show_badge_notifications_short">الشارات</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">شريط الحالة</string>
     <string name="summary_aggregate_default">سيتم تجميع إشعارات الدفع الترويجية والمحتويات ذات الصلة</string>
     <string name="summary_aggregate_home">لن يتم تجميع إشعارات الدفع</string>

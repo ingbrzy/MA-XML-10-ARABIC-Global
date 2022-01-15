@@ -144,8 +144,6 @@
     <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">بتشغيلك ميزة العثور على الجهاز، فإنك توافق على<a href="app://com.miui.cloudservice.gdpr.license"><u>سياسة الخصوصية</u></a>. إذا رغبت في سحب موافقتك، فما عليك سوى إيقاف تشغيل الخدمة.</string>
     <string name="find_device_operation_failure_rpc">تعذر أداء العملية بسبب خطأ في RPC.</string>
     <string name="find_device_privacy_policy_update_msg">تم تحديث سياسة خصوصية العثور على الجهاز:&lt;br/>%1$s&lt;br/>يرجى قراءة والموافقة على الإصدار الجديد من &lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> قبل المتابعة.</string>
@@ -374,13 +372,10 @@
     <string name="micloud_find_device_open_fail">تعذر تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_opened">\"العثور على الجهاز\" مشغل</string>
     <string name="micloud_find_device_opened_content">العثور على جهازك في %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">إعادة تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_close">إيقاف تشغيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_fail">تعذر تفعيل العثور على الجهاز</string>
     <string name="micloud_find_device_verify_progress">جارٍ إعادة تفعيل العثور على الجهاز…</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">تم إلغاء المزامنة. إعد المحاولة.</string>
     <string name="micloud_main_head_menu_cloud_backup">النسخ الاحتياطي</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">إعدادات النظام وتنسيق الشاشة الرئيسية</string>
