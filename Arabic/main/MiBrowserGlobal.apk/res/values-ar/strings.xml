@@ -170,9 +170,9 @@
     <string name="batch_download_tip">يبدو أنه يتم تنزيل العديد من العناصر في نفس الوقت. حظر هذه التنزيلات؟</string>
     <string name="bind_sign_in_title">إضافة حساب Mi</string>
     <string name="block">منع</string>
-    <string name="block_ads_choice_block">منع</string>
+    <string name="block_ads_choice_block">حظر</string>
     <string name="block_ads_choice_continue">متابعة</string>
-    <string name="block_ads_message">هل ترغب في حظر الرسائل الواردة من هذا الموقع ؟</string>
+    <string name="block_ads_message">هل ترغب في حظر الرسائل الواردة من هذا الموقع؟</string>
     <string name="block_ads_title">قد يشتمل المحتوى على إعلانات</string>
     <string name="block_cookies">حظر ملفات تعريف الارتباط للجهات الخارجية</string>
     <string name="block_cookies_tips">منع المواقع من الوصول إلى ملفات تعريف الارتباط وتخزينها. قد لا تعمل بعض الميزات على موقع الويب بشكل صحيح عند تحديد هذا الاختيار.</string>
@@ -265,7 +265,7 @@
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="click_always">انقر على \"دائما\"</string>
     <string name="click_to_refresh">لقد توقفت المرة السابقة هنا، انقر للتحديث</string>
-    <string name="clip_dialog_title">فتح عنوان URL المنسوخ؟</string>
+    <string name="clip_dialog_title">فتح الرابط المنسوخ؟</string>
     <string name="close">إغلاق</string>
     <string name="close_ads_choice_no">السماح</string>
     <string name="close_ads_choice_yes">حظر</string>
@@ -381,7 +381,7 @@
     <string name="current_version_pad">لوحة</string>
     <string name="current_version_pc">الكمبيوتر الشخصي</string>
     <string name="current_version_phone">الهاتف</string>
-    <string name="custom">ادخل عنوان URL</string>
+    <string name="custom">ادخل الرابط</string>
     <string name="custom_head_card_text">دائما تأكد أن شيئا رائعا على وشك الحدوث</string>
     <string name="custom_head_card_text_incognito">"أنت متخفي!
 الصفحات التي قمت بعرضها لن تظهر في السجل."</string>
@@ -749,10 +749,11 @@
     <string name="homepage_get_location">الحصول على الموقع</string>
     <string name="homepage_get_location_failed">تعذر الحصول على المعلومات، اختر مدينة</string>
     <string name="homepage_more_cards">المزيد من الخدمات</string>
-    <string name="homepage_more_sites">المزيد من مواقع الويب</string>
+    <string name="homepage_more_sites">المزيد من المواقع</string>
     <string name="homepage_search_hint">بحث</string>
     <string name="homepage_top_card_menu">أعلى</string>
     <string name="hot_games">مميزة</string>
+    <string name="i_know">إيقاف</string>
     <string name="identity">الهوية</string>
     <string name="if_cancel">هل تريد إلغاء هذه العملية؟</string>
     <string name="ignore_add_game_center_dialog_this_week">لا تظهر هذا الأسبوع</string>
@@ -1002,7 +1003,7 @@
     <string name="mw_miuichromium_error_page_diagnose_banner">تشخيص الشبكة</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">تعذر التحقق من شبكة البروتوكول</string>
     <string name="mw_miuichromium_error_page_diagnose_connection">لا يمكن الاتصال بالشبكة</string>
-    <string name="mw_miuichromium_error_page_diagnose_dns">يبدو ان عنوان URL غير صحيح</string>
+    <string name="mw_miuichromium_error_page_diagnose_dns">يبدو ان الرابط غير صحيح</string>
     <string name="mw_miuichromium_error_page_diagnose_protocol">خطأ في بروتوكول الشبكة</string>
     <string name="mw_miuichromium_error_page_diagnose_proxy_server">خطأ في الخادم الوكيل</string>
     <string name="mw_miuichromium_error_page_diagnose_success">إشارة الشبكة ضعيفة</string>
@@ -1021,10 +1022,10 @@
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">لا يمكن الوصول إلى هذا الصفحة. انقطع اتصال %s0.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">لا يمكن الوصول إلى هذا الصفحة. رفض %s0 الاتصال.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">لا يمكن فتح الصفحة، تمت إعادة تعيين الاتصال.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">لا يمكن فتح الصفحة. عنوان URL غير صالح.</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">لا يمكن فتح الصفحة. الرابط غير صالح.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">لا يمكن فتح هذه الصفحة. لا يمكن الوصول إلى %s0 حالياً.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">لا يمكن فتح هذه الصفحة. يعيد %s0 توجيهك بطريقة غير آمنة.</string>
-    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">لا يمكن الوصول إلى هذا الموقع. هذا الموقع على الإنترانت له نفس عنوان URL كموقع خارجي.</string>
+    <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">لا يمكن الوصول إلى هذا الموقع. هذا الموقع على الإنترانت له نفس رابط موقع خارجي.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">لا يمكن الوصول إلى هذا الموقع. تعذر العثور على عنوان DNS لـ %s0.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">لا يمكن الوصول إلى هذا الموقع. عنوان IP أو رقم المنفذ غير صالح.</string>
     <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">لا يمكن الوصول إلى هذا الموقع. %s0 لا يستجيب لفترة طويلة جدا.</string>
@@ -1053,13 +1054,13 @@
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">تحقق من إعدادات تطبيقات الخادم الوكيل المثبتة على جهازك.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">تحقق من اتصال الإنترنت.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(بيانات الهاتف) قم بإعادة تعيين %s1إعدادات APN%s2.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_url">تحقق من عنوان URL الذي أدخلته.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_url">تحقق من الرابط الذي أدخلته.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) تحقق من %s1 إعدادات الخادم الوكيل %s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">مسح الذاكرة المؤقتة.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">حذف الذاكرة المؤقتة وملفات تعريف الارتباط (قد يتم فقدان معلومات حسابك).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">إعادة التحميل بعد الاتصال بالإنترنت</string>
     <string name="mw_miuichromium_error_page_suggestion_contact_admin">تواصل مع مشرف النظام.</string>
-    <string name="mw_miuichromium_error_page_suggestion_correct_url">تحقق من العنوان الذي أدخلته وحاول مرة أخرى باستخدام عنوان URL الصحيح.</string>
+    <string name="mw_miuichromium_error_page_suggestion_correct_url">تحقق من العنوان الذي أدخلته وحاول مرة أخرى باستخدام الرابط الصحيح.</string>
     <string name="mw_miuichromium_error_page_suggestion_grant_permission">إعادة التحميل بعد منح إذن للمتصفح الوصول إلى الإنترنت.</string>
     <string name="mw_miuichromium_error_page_suggestion_title">جرب هذا:</string>
     <string name="mw_miuichromium_error_page_title">حدث خطأ ما</string>
@@ -1444,7 +1445,7 @@
     <string name="pref_save_bandwidth_mode_title">تقليل استخدام البيانات</string>
     <string name="pref_security_accept_cookies">قبول ملفات تعريف الارتباط</string>
     <string name="pref_security_accept_cookies_summary">السماح للمواقع بتخزين ملفات تعريف الارتباط وقراءتها واستخدامها لتذكر إعداداتك دون الحاجة إلى زيارة صفحات الويب هذه</string>
-    <string name="pref_security_do_not_track">عدم التعقب</string>
+    <string name="pref_security_do_not_track">منع التتبع</string>
     <string name="pref_security_do_not_track_summary">"حدد هذا الخيار لإعلام الموقع بأنك لا تريد جمع بيانات التصفح أو تتبعها. تختلف الاستجابة لمثل هذه الطلبات من موقع إلى آخر.
 فبعض المواقع تستخدم سجل التصفح السابق للمستخدم لتخصيص إعلاناتها لك، بينما البعض قد جمع ويستخدم سجل التصفح الخاصة بك لأغراض مختلفة (لضمان الأمان وتقديم المحتوى وعرض الإعلانات ذات الصلة وما إلى ذلك)."</string>
     <string name="pref_security_passwords_title">كلمات المرور</string>
@@ -1556,7 +1557,7 @@
     <string name="quicklink_no_history">لا توجد عناصر هنا.</string>
     <string name="quicklink_not_saved">تعذر الإضافة إلى صفحة البداية</string>
     <string name="quicklink_push_confirm_message">لن تتلقى تحديثات آخر الأخبار بعد إيقاف تشغيل هذه الميزة. إيقاف التشغيل الآن؟</string>
-    <string name="quicklink_quick_select">إضافة مواقع ويب</string>
+    <string name="quicklink_quick_select">إضافة مواقع</string>
     <string name="quicklink_saved">تم الحفظ إلى صفحة البداية</string>
     <string name="quicklink_saved_before">تم إضافة موقع الويب هذا مسبقا.</string>
     <string name="quicklink_user_define_webpage_title">الاسم</string>
@@ -1908,7 +1909,7 @@
     <string name="url_copy_done">تم نسخ URL إلى الحافظة</string>
     <string name="url_find_on_page_result">عرض في المتصفح</string>
     <string name="url_find_on_page_result_item">عرض كامل النص لـ\"%s\"</string>
-    <string name="url_hint">ابحث أو ادخل عنوان موقع ويب</string>
+    <string name="url_hint">ابحث أو ادخل روابط موقع ويب</string>
     <string name="url_hint_from_search">ادخل الكلمة المفتاحية</string>
     <string name="url_opened_in_background">فتح في علامة التبويب الخلفية</string>
     <string name="url_suggest_indicator_bookmark">إشارات مرجعية/سجل</string>

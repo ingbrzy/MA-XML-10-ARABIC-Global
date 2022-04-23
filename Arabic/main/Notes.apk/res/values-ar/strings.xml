@@ -48,6 +48,7 @@
     <string name="alert_message_delete_excerpt">هل ترغب في حذف هذا المجلد؟ سيتم حذف الاقتباس ايضا.</string>
     <string name="alert_message_delete_note">حذف هذه الملاحظة؟</string>
     <string name="alert_message_edit_anyway">إذا قمت بتعديل هذه الملاحظة، فمن الممكن أن تضيع بعض محتوياتها.</string>
+    <string name="alert_message_edit_anyway_new">تحتوي هذه الملاحظة على محتوى غير مدعوم. قد يؤدي تعديل الملاحظة إلى تغيير التنسيق أو فقدان البيانات.</string>
     <string name="alert_message_restore">تعذر فتح هذه الملاحظة. قم بإستعادتها لتعديل محتواها.</string>
     <string name="alert_title_delete">حذف الملاحظة</string>
     <string name="alert_title_edit_anyway">تتضمن هذه الملاحظة محتويات غير معتمدة</string>
@@ -68,7 +69,7 @@
     <string name="audio_create_will_cancel_state">أفلت للإلغاء</string>
     <string name="audio_dialog_mode_meeting">وضع الاجتماع (بيتا)</string>
     <string name="audio_dialog_mode_meeting_exit">لا شكرا</string>
-    <string name="audio_dialog_mode_meeting_sum">يسمح لك وضع الاجتماع بالتعرف على أصوات تصل إلى 4 أشخاص. في الإصدار التجريبي من هذا الوضع، قد تحدث أخطاء أثناء الاكتشاف.</string>
+    <string name="audio_dialog_mode_meeting_sum">يسمح لك وضع الاجتماع بالتعرف على %1$d-%2$d أصوات لأشخاص مختلفين. قد تحدث أخطاء في التعرف على الصوت في إصدار بيتا.</string>
     <string name="audio_dialog_mode_meeting_use">البدء</string>
     <string name="audio_panel_time_counter_default">٠٠:٠٠</string>
     <string name="audio_toast_file_invalid">الملف الصوتي غير صالح</string>
@@ -202,6 +203,7 @@
     <string name="error_send_empty_note">لا يمكن إخفاء ملاحظة فارغة</string>
     <string name="error_send_empty_note_to_weibo">لا يمكن إرسال ملاحظة فارغة إلى Weibo</string>
     <string name="error_unsupport_content">هذه الملاحظه تحتوي على محتوى غير مدعوم، المس هنا للتحديث</string>
+    <string name="error_unsupport_content_format">تحتوي هذه الملاحظة على محتوى غير مدعوم. قم بتحديث التطبيق إلى %1$s أو اصدار أحدث.</string>
     <string name="error_widget_exist_for_send_to_desktop">هذه الملاحظة موجودة مسبقا على الشاشة الرئيسية</string>
     <string name="evening">عصر</string>
     <string name="exceed_todo_text_limitation">وصف المهمة طويل جدا.</string>
@@ -336,6 +338,7 @@
     <string name="menu_create_folder">مجلد جديد</string>
     <string name="menu_delete">حذف</string>
     <string name="menu_delete_forever">حذف بشكل دائم</string>
+    <string name="menu_edit">تعديل</string>
     <string name="menu_folders">مجلدات</string>
     <string name="menu_group">إنشاء مجلد</string>
     <string name="menu_hide">إخفاء</string>
@@ -493,6 +496,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -549,10 +553,12 @@
     <string name="note_mindnote_entrance_hint_newversion">"ابدأ في الكتابة "</string>
     <string name="note_mindnote_entrance_icon_text">إنشاء خريطة ذهنية</string>
     <string name="note_mindnote_entrance_icon_text_newversion">إنشاء خريطة ذهنية</string>
+    <string name="note_module_name">الملاحظات</string>
     <string name="note_not_text_stub">لا يوجد نص</string>
     <string name="note_sort_way">ترتيب</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">الملاحظات هو أحد تطبيقات النظام. لن تتمكن من استخدامه بعد إلغاء تثبيته.</string>
     <string name="notes_description_title">إلغاء تثبيت الملاحظات؟</string>
     <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>
@@ -618,7 +624,7 @@
     <string name="permission_storage_desc_pad_v12">لإضافة صور إلى الملاحظات وحفظ الملاحظات كصور</string>
     <string name="permission_storage_desc_v12">لإضافة صور إلى الملاحظات وحفظ الملاحظات كصور</string>
     <string name="permission_xiaoai_desc">&lt;Data>سيقوم Mi AI بجمع التسجيلات الصوتية ومعرف الجهاز لتسجيل الصوت وإنشاء ملاحظات صوتية. تعلم المزيد في Mi AI &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_new">&lt;Data>لتقديم خدمات نسخ الكلام إلى نص، يحتاج Mi AI إذت جمع إدخال الصوت ومعرف جهازك. يرجى قراءة وقبول &lt;a href=\"%1$s\">بيان مشاركة بيانات الجهات الخارجية للملاحظات&lt;/a> قبل المتابعة. يمكنك معرفة المزيد بمراجعة &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> Mi AI.&lt;/Data></string>
+    <string name="permission_xiaoai_desc_new">&lt;Data>لتقديم خدمات نسخ الكلام إلى نص، يحتاج Mi AI إذن لجمع مدخلات الصوت ومعرف جهازك. لذا يرجى قراءة وقبول &lt;a href=\"%1$s\">بيان مشاركة بيانات الجهات الخارجية للملاحظات&lt;/a> قبل المتابعة. ويمكنك معرفة المزيد بمراجعة &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> Mi AI.&lt;/Data></string>
     <string name="permission_xiaoai_title">تحويل الكلام إلى نص</string>
     <string name="permlab_accessNote">دخول الملاحظات</string>
     <string name="pm">م</string>
@@ -710,6 +716,13 @@
     <string name="select_account_prompt">مزامنة الملاحظات</string>
     <string name="send">مشاركة</string>
     <string name="set_alarm_description">ضبط المنبه</string>
+    <string name="setting_big_screen_layout_columns">الشريط الجانبي</string>
+    <string name="setting_big_screen_layout_flat">العناوين</string>
+    <string name="setting_big_screen_layout_title">تنسيق الشاشة الكبيرة</string>
+    <string name="setting_cloud_service">خدمات Cloud</string>
+    <string name="setting_layout">التنسيق</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
+    <string name="setting_note_list_layout_title">التنسيق</string>
     <string name="setting_other">أخرى</string>
     <string name="setting_privacy">سياسة الخصوصية</string>
     <string name="single_link_excerpt_saving">جارٍ حفظ العناصر…</string>
@@ -869,7 +882,7 @@
     <string name="todo_float_permission_open_reminder">اسمح للملاحظات في إظهار النوافذ المنبثقة لتتمكن من استخدام هذه الخدمة.</string>
     <string name="todo_item_group_expired">انتهى</string>
     <string name="todo_item_group_finished">اكتمل</string>
-    <string name="todo_item_group_further">لاحقًا</string>
+    <string name="todo_item_group_further">لاحقا</string>
     <string name="todo_item_group_today">اليوم</string>
     <string name="todo_item_group_tomorrow">غداً</string>
     <string name="todo_item_group_unschedule">غير مجدول</string>
@@ -933,6 +946,15 @@
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="view_all_notes">عرض الكل</string>
+    <string name="warn_cannot_add_new_bullet">لا يمكنك إضافة قائمة نقطية أخرى. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_checkbox">لا يمكنك إضافة مربع اختيار آخر. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_doodle">لا يمكن إضافة المزيد من الرسومات. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_element">لا يمكنك إضافة خانة اختيار أخرى. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_link_card">لا يمكن إضافة المزيد من الروابط. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_picture">لا يمكن إضافة المزيد من الصور. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_style">لا يمكنك إضافة المزيد من التنسيقات. الملاحظة طويلة جدًا.</string>
+    <string name="warn_disable_edit_in_browse_mode">لا يمكنك تعديل الملاحظات في وضع القراءة</string>
+    <string name="warn_enter_browse_mode">أنت في وضع القراءة فقط</string>
     <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
     <string name="web_sso_login_message">تسجيل الدخول…</string>
     <string name="webview_reload">حاول مرة أخرى</string>

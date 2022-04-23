@@ -147,6 +147,7 @@
     <string name="calllog_menu_blacklist">حظر</string>
     <string name="calllog_menu_edit_before_call">تعديل</string>
     <string name="calllog_menu_send_sms">إرسال رسالة</string>
+    <string name="calllog_record_none_toast">لا توجد تسجيلات</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dد %2$dث</string>
     <string name="callrecordview_item_op_time_missed">لم يتم الاتصال</string>
     <string name="callrecordview_item_op_time_only_minutes">%d دق</string>
@@ -489,10 +490,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -503,6 +504,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">الاسم</string>
     <string name="gallery">المعرض</string>
     <string name="ghostData_company">الشركة</string>
@@ -628,6 +630,7 @@
     <string name="menu_sync_remove">حذف مجموعة المزامنة</string>
     <string name="midnight">الليل</string>
     <string name="miprofile_account_type">بطاقات جهة اتصال</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
     <string name="miprofile_name">ملفي الشخصي</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -721,6 +724,12 @@
     <string name="name_phonetic_middle">الاسم الأوسط لفظيا</string>
     <string name="name_prefix">بادئة الاسم</string>
     <string name="name_suffix">لاحقة الاسم</string>
+    <string name="new_saf_permission_dialog_content">"تم تحديث أذونات تطبيق جهات الاتصال. اسمح للتطبيق بالوصول إلى جميع تسجيلات المكالمات.
+
+كيفية منح الأذونات
+انقر على \"%1$s\" وحدد \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">التالي</string>
+    <string name="new_saf_permission_dialog_title"><b>الأذونات مطلوبة</b></string>
     <string name="next">التالي</string>
     <string name="next_birthday">عيد الميلاد القادم: %s</string>
     <string name="nfc_vcard_file_name">جهة اتصال مستلمة عبر NFC</string>
@@ -778,6 +787,7 @@
     <string name="permission_retry_dialog_msg_pad">لتتمكن من استخدام بطاقة SIM مع هذا التطبيق وإدارة جهات الاتصال الخاصة بك، اسمح لهذا التطبيق بالوصول إلى جهات الاتصال وتعديلها والوصول إلى معلومات الجهاز.</string>
     <string name="permission_retry_setting">الإعدادات</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">الرقم طويل جداً</string>
     <string name="phone_primary">أساسي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة على الجهاز.</string>
@@ -835,7 +845,7 @@
     <string name="preference_privacy_settings_title">الخصوصية</string>
     <string name="preference_remove_duplicate">دمج جهات الاتصال المكررة</string>
     <string name="preference_show_firewall_calllog">إظهار المكالمات المحظورة في سجل المكالمات</string>
-    <string name="preference_show_yellowpage_tab_description">قد لا تعمل الصفحات الصفراء بشكل صحيح عند إيقاف تشغيل هذه الميزة.</string>
+    <string name="preference_show_yellowpage_tab_description">لن يتم عرض الصفحات الصفراء وخدماتها بعد تعطيل هذه الميزة،</string>
     <string name="preference_show_yellowpage_tab_title">عرض الصفحات الصفراء</string>
     <string name="preference_simple_mode_title">عرض الصور والمعلومات</string>
     <string name="preference_smart_group_company_summary">تصنيف حسب الشركة</string>
@@ -846,6 +856,7 @@
     <string name="preference_smart_group_location_title">المواقع</string>
     <string name="preference_smart_group_title">المجموعات الذكية</string>
     <string name="preference_tone_title">نغمات</string>
+    <string name="preference_yellowpage_function_setting">إعدادات الصفحات الصفراء</string>
     <string name="previous">السابق</string>
     <string name="privacy_password_message1">تعمل كلمة مرور حماية الخصوصية للصور والملاحظات والمجلدات المخفية.</string>
     <string name="privacy_password_message2">الرجاء استخدام كلمة مرور حماية الخصوصية. ستعمل على الصور والملاحظات والمجلدات المخفية.</string>
@@ -855,6 +866,7 @@
     <string name="privacy_password_title2">استخدم كلمة مرور حماية الخصوصية</string>
     <string name="privacy_password_title3">ترقية كلمة المرور</string>
     <string name="privacy_password_title4">تم تحديث كلمة المرور</string>
+    <string name="privacy_settings_blue_scan_connect">الاتصال بالأجهزة القريبة</string>
     <string name="privacy_settings_call_phone">إجراء مكالمات</string>
     <string name="privacy_settings_call_phone_description">لإجراء مكالمات من اختصار الشاشة الرئيسية</string>
     <string name="privacy_settings_call_phone_description_for_pad">لإجراء مكالمات في تطبيقات الجهات الخارجية</string>
@@ -983,7 +995,7 @@
     <string name="share_qrcode">مشاركة رمز QR</string>
     <string name="share_via">إرسال باستخدام</string>
     <string name="share_visible_contacts">مشاركة جهات الاتصال</string>
-    <string name="shortcutActivityTitle">اختر اختصارًا</string>
+    <string name="shortcutActivityTitle">اختر اختصار</string>
     <string name="shortcutContact">جهة اتصال</string>
     <string name="shortcutDialContact">"اتصال مباشر "</string>
     <string name="shortcut_new_contact_label">جهة اتصال جديدة</string>
@@ -1018,6 +1030,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
     <string name="six_letter">ج ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">الشركات</string>
     <string name="smart_group_company_unavailable">لا توجد معلومات عن الشركة</string>
     <string name="smart_group_frequency_1">خلال الشهر الماضي</string>
@@ -1059,6 +1072,7 @@
     <string name="starred_contacts">المفضلة</string>
     <string name="status_available">متاح</string>
     <string name="status_away">بعيدا</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">مشغول</string>
     <string name="strequentList">المفضلة</string>
     <string name="success_message_import_from_account">تم استيراد جهة الاتصال</string>
@@ -1117,6 +1131,7 @@
     <string name="the_united_nations_day">يوم الأمم المتحدة</string>
     <string name="the_valentines_day">عيد الحب</string>
     <string name="the_water_lantern_festival">مهرجان المصابيح</string>
+    <string name="this_folder">استخدام هذا المجلد</string>
     <string name="three_letter">ا ء</string>
     <string name="thursday">الخميس</string>
     <string name="thursday_short">الخميس</string>
@@ -1134,6 +1149,7 @@
     <string name="toast_for_failed_saving_nickname">تعذر حفظ الاسم المستعار</string>
     <string name="toast_for_saving_nickname">تم حفظ الاسم المستعار</string>
     <string name="toast_join_with_empty_contact">اكتب اسم جهة الاتصال قبل دمجها مع أخرى</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">اسمح لهذه الميزة أولا بالاتصال بالأجهزة القريبة عبر البلوتوث لتتمكن من استيراد جهات الاتصال من الأجهزة الأخرى.</string>
     <string name="toast_not_show_camera_perm_req">لتتمكن من استخدام الكاميرا لالتقاط صور الملف الشخصي، اسمح لهذا التطبيق بالتقاط الصور وتسجيل الفيديوهات</string>
     <string name="toast_not_show_location_perm_req">اسمح اولاً لهذا التطبيق بالوصول إلى موقعك لتتمكن من استيراد جهات الاتصال من الأجهزة الأخرى عبر البلوتوث.</string>
     <string name="toast_not_show_read_calllogs_perm_req">اسمح أولاً لهذا التطبيق بالوصول إلى سجل المكالمات لتتمكن من عرض سجل المكالمات.</string>

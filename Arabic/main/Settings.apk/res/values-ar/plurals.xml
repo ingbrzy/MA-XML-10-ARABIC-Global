@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">قبل %d يوم</item>
         <item quantity="zero">قبل %d يوم</item>
@@ -98,8 +170,8 @@
     </plurals>
     <plurals name="auto_startup_count">
         <item quantity="other">%d تطبيق مسموح له بالبدء التلقائي</item>
-        <item quantity="zero">%d تطبيقات مسموح لها بالبدء التلقائي</item>
-        <item quantity="one">%d تطبيقات مسموح لها بالبدء التلقائي</item>
+        <item quantity="zero">%d تطبيق مسموح له بالبدء التلقائي</item>
+        <item quantity="one">%d تطبيق مسموح له بالبدء التلقائي</item>
         <item quantity="two">%d تطبيقات مسموح لها بالبدء التلقائي</item>
         <item quantity="few">%d تطبيقات مسموح لها بالبدء التلقائي</item>
         <item quantity="many">%d تطبيق مسموح له بالبدء التلقائي</item>
@@ -183,6 +255,14 @@
         <item quantity="two">%d أجهزة متاحة</item>
         <item quantity="few">%d أجهزة متاحة</item>
         <item quantity="many">%d جهاز متاح</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">كل %d ثانية</item>
+        <item quantity="zero">كل %d ثانية</item>
+        <item quantity="one">كل %d ثانية</item>
+        <item quantity="two">كل %d ثواني</item>
+        <item quantity="few">كل %d ثواني</item>
+        <item quantity="many">كل %d ثانية</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d جهاز</item>
@@ -296,6 +376,14 @@
         <item quantity="few">%1$d أشخاص متصلين</item>
         <item quantity="many">%1$d شخص متصل</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s ساعة</item>
         <item quantity="zero">%s ساعات</item>
@@ -304,6 +392,38 @@
         <item quantity="few">%s ساعات</item>
         <item quantity="many">%s ساعة</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">تم ربط %d تطبيق.</item>
         <item quantity="zero">تم ربط %d تطبيق.</item>
@@ -311,6 +431,14 @@
         <item quantity="two">تم ربط تطبيقين (%d).</item>
         <item quantity="few">تم ربط %d تطبيقات.</item>
         <item quantity="many">تم ربط %d تطبيقًا.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">يمتلك %1$d تطبيق من إجمالي %2$d تطبيق حق الوصول إلى بيانات الموقع الجغرافي.</item>
@@ -496,6 +624,14 @@
         <item quantity="few">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقائق إذا لم يتم إنشاء اتصال.</item>
         <item quantity="many">سيتم تشغيل Wi-Fi تلقائيًا عندما يتعرف جهازك على الشبكات المخزنة في منطقتك ويتم إيقافها بعد %d دقيقة إذا لم يتم إنشاء اتصال.</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">‏%1$d شريحة SIM</item>
         <item quantity="zero">‏%1$d شريحة SIM</item>
@@ -559,6 +695,14 @@
         <item quantity="two">إشعاران (%d) تقريبًا في الأسبوع</item>
         <item quantity="few">%d إشعارات تقريبًا في الأسبوع</item>
         <item quantity="many">%d إشعارًا تقريبًا في الأسبوع</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d تطبيق نشط</item>
@@ -946,7 +1090,7 @@
     </plurals>
     <plurals name="usage_state_work_day_hour">
         <item quantity="other">أيام الأسبوع: %d ساعة</item>
-        <item quantity="zero">أيام الأسبوع: %d ساعة</item>
+        <item quantity="zero">أيام الأسبوع: %d ساعات</item>
         <item quantity="one">أيام الأسبوع: %d ساعة</item>
         <item quantity="two">أيام الأسبوع: %d ساعات</item>
         <item quantity="few">أيام الأسبوع: %d ساعات</item>

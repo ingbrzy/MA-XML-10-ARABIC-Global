@@ -37,7 +37,7 @@
 انقر للعرض"</string>
     <string name="app_notification_title">مسجل الشاشة</string>
     <string name="auto_stop_title">تم حفظ الفيديو بنجاح</string>
-    <string name="battery_not_allowed" formatted="false">لا يمكن التسجيل لان البطارية أقل من ۳%. تأكد من أن شحن البطارية ۲۰% على الأقل.</string>
+    <string name="battery_not_allowed_warning">لا يمكن التسجيل لان البطارية أقل من %1$s. تأكد من أن شحن البطارية %2$s على الأقل.</string>
     <string name="bit_rate">جودة الفيديو</string>
     <string name="bit_rate_summary">جودة أعلى يعني حجم اكبر للملف</string>
     <string name="bubble_text">اضغط للبدء</string>
@@ -118,10 +118,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -149,8 +149,8 @@
     <string name="low_battery_for_pad">اشحن جهازك قبل بدء التسجيل</string>
     <string name="low_battery_title">البطارية منخفضة</string>
     <string name="low_battery_warning">البطارية منخفضة جداً. توقف عن تسجيل وحفظ الفيديو.</string>
-    <string name="low_memory">لديك أقل من ١ميجابايت من المساحة المتاحة. يمكنك تسجيل ما يصل إلى ٢٠ دقيقة الآن.</string>
     <string name="low_memory_for_pad">المساحة المتوفرة للجهاز أقل من %1$d جيجابايت. يمكنك الآن تسجيل لمدة تصل إلى %2$d دقيقة.</string>
+    <string name="low_memory_for_phone">المساحة المتوفرة للجهاز أقل من %1$d جيجابايت. يمكنك الآن تسجيل لمدة تصل إلى %2$d دقيقة.</string>
     <string name="low_memory_title">لا توجد مساحة تخزين كافية</string>
     <string name="low_momery_warning">لا يوجد مساحة تخزين كافية. توقف عن تسجيل وحفظ الفيديو.</string>
     <string name="memory_not_allowed">لا توجد مساحة تخزين متاحة. قم بتفريغ بعض المساحة للتسجيل.</string>

@@ -1,5 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>
         <item>مقياس الرسوم المتحركة .5x</item>
@@ -85,7 +148,7 @@
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
         <item>صوت Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3</item>
+        <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
     </string-array>
@@ -98,7 +161,7 @@
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
         <item>صوت Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3</item>
+        <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
         <item>تمكين برامج الترميز الإختيارية</item>
@@ -145,19 +208,19 @@
         <item>الألوان المحسنة للمحتوى الرقمي</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>نابض بالحياة (إفتراضي)</item>
+        <item>الإهتزاز (إفتراضي)</item>
         <item>طبيعي</item>
         <item>قياسي</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>متوقف</item>
         <item>عرض مناطق تجاوز الحد</item>
-        <item>عرض مناطق Deuteranomaly</item>
+        <item>عرض مناطق عمى الألوان الثنائي</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>لا شيء</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
+        <item>نظام (رسومات)</item>
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -173,7 +236,7 @@
     <string-array name="overlay_display_devices_entries">
         <item>لا شيء</item>
         <item>٤٨٠ بكسل</item>
-        <item>(آمن) 480p</item>
+        <item>480p (آمن)</item>
         <item>٧٢٠ بكسل</item>
         <item>720p (آمن)</item>
         <item>١٠٨٠ بكسل</item>
@@ -209,13 +272,13 @@
     <string-array name="select_logpersist_summaries">
         <item>متوقف</item>
         <item>كل المخازن المؤقتة للسجلات</item>
-        <item>كل شئ عدا سجلات التخزين المؤقت للراديو</item>
+        <item>الكل ماعدا سجلات التخزين المؤقت للراديو</item>
         <item>تخزين تسجيل kernel المؤقت فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>متوقف</item>
         <item>الكل</item>
-        <item>الكل دون راديو</item>
+        <item>الكل ماعدا الراديو</item>
         <item>‏kernel فقط</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">

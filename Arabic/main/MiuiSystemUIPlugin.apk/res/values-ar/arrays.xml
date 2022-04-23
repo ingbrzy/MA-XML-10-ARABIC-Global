@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>ذكر</item>
-        <item>أنثى</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -66,10 +62,5 @@
         <item>و</item>
         <item>ي</item>
         <item>\#</item>
-    </string-array>
-    <string-array name="feedback_tag_list">
-        <item>خلل</item>
-        <item>إقتراح</item>
-        <item>أخرى</item>
     </string-array>
 </resources>

@@ -48,6 +48,18 @@
     <string name="cant_replace_or_remove_work_profile">يتعذَّر استبدال الملف الشخصي للعمل أو إزالته</string>
     <string name="cant_set_up_device">يتعذر إعداد الجهاز</string>
     <string name="cant_set_up_profile">يتعذر إعداد الملف الشخصي</string>
+    <string name="car_ui_alert_dialog_default_button">إغلاق</string>
+    <string name="car_ui_preference_switch_off">غير مفعَّل</string>
+    <string name="car_ui_preference_switch_on">مفعّل</string>
+    <string name="car_ui_restricted_while_driving">لا تتوفَّر هذه الميزة أثناء القيادة.</string>
+    <string name="car_ui_scrollbar_page_down_button">التمرير للأسفل</string>
+    <string name="car_ui_scrollbar_page_up_button">التمرير للأعلى</string>
+    <string name="car_ui_scrolling_limited_message">هناك حد أقصى للتمرير على الشاشة أثناء القيادة.</string>
+    <string name="car_ui_toolbar_default_search_hint">بحث…</string>
+    <string name="car_ui_toolbar_menu_item_overflow_title">القائمة الكاملة</string>
+    <string name="car_ui_toolbar_menu_item_search_title">بحث</string>
+    <string name="car_ui_toolbar_menu_item_settings_title">إعدادات</string>
+    <string name="car_ui_toolbar_nav_icon_content_description">رجوع</string>
     <string name="change_device_launcher">تغيير مشغّل الجهاز</string>
     <string name="close_list">إغلاق القائمة</string>
     <string name="collapse">تصغير</string>
@@ -152,7 +164,7 @@
     <string name="progress_delete_non_required_apps">جارٍ إزالة تطبيقات النظام غير المطلوبة…</string>
     <string name="progress_download">جارٍ تنزيل تطبيق المشرف…</string>
     <string name="progress_finishing_touches">جارٍ وضع اللمسات النهائية…</string>
-    <string name="progress_initialize">جارٍ تهيئة الجهاز…</string>
+    <string name="progress_initialize">جارٍ إعداد الجهاز…</string>
     <string name="progress_install">جارٍ تثبيت تطبيق المشرف…</string>
     <string name="progress_set_owner">جارٍ تعيين مالك الجهاز...</string>
     <string name="provisioning">جارٍ توفير الشهادات</string>

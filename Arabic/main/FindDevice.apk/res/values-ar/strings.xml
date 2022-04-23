@@ -36,6 +36,7 @@
     <string name="captcha">رمز الحماية</string>
     <string name="change_find_device_status_failed">تعذر إلغاء القفل. %s.</string>
     <string name="clearable_edittext_clear_description">مسح</string>
+    <string name="close">إغلاق</string>
     <string name="copy">نسخ</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">للوصول إلى رقم الهاتف لتحديد موقع هذا الجهاز عندما لا يكون متصل بالإنترنت</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">لتحديد موقع هذا الجهاز عندما لا يكون متصلاً بالإنترنت</string>
@@ -86,6 +87,8 @@
     <string name="find_device_storage_corrupted">تخزين \"العثور على الجهاز\" تالف. جهازك غير آمن الآن.</string>
     <string name="find_device_success_title">\"العثور على الجهاز\" مشغل</string>
     <string name="find_device_telephony_fault">العثور على الجهاز: خطأ هاتفي (%s).</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -101,7 +104,11 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -120,8 +127,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W،D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W،D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
@@ -215,6 +232,7 @@
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
+    <string name="send">مشاركة</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">رمز الحماية لا يمكن أن يكون فارغاً</string>
     <string name="stop_on_empty_password">كلمة المرور لا يمكن ان تكون فارغة</string>
@@ -226,6 +244,9 @@
     <string name="sys_notification_async_open_failed_title">تعذر تشغيل العثور على الجهاز</string>
     <string name="sys_notification_async_verify_content">تتطلب سياسة الأمان المحدثة إعادة تفعيل العثور على الجهاز.</string>
     <string name="sys_notification_async_verify_title">إعادة تفعيل العثور على الجهاز</string>
+    <string name="talkback_back">رجوع</string>
+    <string name="talkback_hide_pwd">إخفاء كلمة المرور</string>
+    <string name="talkback_show_pwd">إظهار كلمة المرور</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
     <string name="the_arbor_day">يوم الشجرة</string>

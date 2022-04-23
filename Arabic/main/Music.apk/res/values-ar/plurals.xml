@@ -164,6 +164,38 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="backpack_gift_timerleft_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="backpack_gift_validtime_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="backpack_gift_validtime_hour">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="zero">%1$d ساعة</item>
+        <item quantity="one">%1$d ساعة</item>
+        <item quantity="two">%1$d ساعات</item>
+        <item quantity="few">%1$d ساعات</item>
+        <item quantity="many">%1$d ساعة</item>
+    </plurals>
+    <plurals name="backpack_gift_validtime_min">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقيقة</item>
+        <item quantity="few">%1$d دقيقة</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d تعليق</item>
         <item quantity="zero">%d تعليق</item>
@@ -171,6 +203,14 @@
         <item quantity="two">%d تعليقات</item>
         <item quantity="few">%d تعليقات</item>
         <item quantity="many">%d تعليق</item>
+    </plurals>
+    <plurals name="cr_background_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">قبل %d يوم</item>
@@ -321,6 +361,14 @@
         <item quantity="two">يتم متابعة %d أشخاص</item>
         <item quantity="few">يتم متابعة %d أشخاص</item>
         <item quantity="many">يتم متابعة %d شخص</item>
+    </plurals>
+    <plurals name="me_visit_number">
+        <item quantity="other">عدد الزيارات: %1$d مرة</item>
+        <item quantity="zero">عدد الزيارات: %1$d مرة</item>
+        <item quantity="one">عدد الزيارات: %1$d مرة</item>
+        <item quantity="two">عدد الزيارات: %1$d مرات</item>
+        <item quantity="few">عدد الزيارات: %1$d مرات</item>
+        <item quantity="many">عدد الزيارات: %1$d مرة</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">تم تحديد %d عنصر</item>

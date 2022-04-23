@@ -189,10 +189,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -346,6 +346,7 @@
     <string name="menuDesc">القائمة</string>
     <string name="midnight">الليل</string>
     <string name="minusDesc">ناقص</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -694,6 +695,7 @@
     <string name="unit_data_display_currency_btn">نغولتروم بوتاني</string>
     <string name="unit_data_display_currency_bwp">بولا بوتسوانية</string>
     <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دولار كندي</string>
     <string name="unit_data_display_currency_cdf">فرنك كنغولي</string>
     <string name="unit_data_display_currency_chf">فرنك سويسري</string>
@@ -1036,12 +1038,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s بايت</string>
     <string name="xiaomi_calculator_delete_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إلغاء تثبيته.</string>
     <string name="xiaomi_calculator_delete_title">هل ترغب في إلغاء تثبيت الآلة الحاسبة؟</string>
     <string name="xiaomi_calculator_remove_icon_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إزالة اختصارة من الشاشة الرئيسية.</string>
     <string name="xiaomi_calculator_remove_icon_title">هل ترغب في إزالة تطبيق \"الآلة الحاسبة\" من الشاشة الرئيسية؟</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s كيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$s ميجابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

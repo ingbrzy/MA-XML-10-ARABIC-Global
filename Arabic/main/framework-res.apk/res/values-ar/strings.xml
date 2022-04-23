@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">تنبيه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">عذرًا، هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
     <string name="selectTextMode">تحديد نص</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">رمز بصمة الإصبع</string>
     <string name="paste_as_plain_text">اللصق كنص عادي</string>
     <string name="autofill">الملء التلقائي</string>
@@ -348,9 +349,9 @@
 • تفعيل \"المظهر الداكن\"
 • إيقاف أو حظر النشاط في الخلفية وبعض التأثيرات المرئية والميزات الأخرى، مثل \"Ok Google\"."</string>
     <string name="battery_saver_description_with_learn_more">"‏لإطالة عمر البطارية، تعمل ميزة \"توفير شحن البطارية\" على:
+·تفعيل \"المظهر الداكن\"
+ إيقاف أو حظر النشاط في الخلفية وبعض التأثيرات المرئية والميزات الأخرى، مثل \"Ok Google\"
 
-• تفعيل \"المظهر الداكن\"
-• إيقاف أو حظر النشاط في الخلفية وبعض التأثيرات المرئية والميزات الأخرى، مثل \"Ok Google\".
 
 "<annotation id="url">مزيد من المعلومات</annotation></string>
     <string name="battery_saver_notification_channel_name">توفير شحن البطارية</string>
@@ -363,7 +364,7 @@
     <string name="biometric_error_user_canceled">تم إلغاء المصادقة.</string>
     <string name="biometric_not_recognized">لم يتم التعرف عليها.</string>
     <string name="bluetooth_a2dp_audio_route_name">صوت بلوتوث</string>
-    <string name="bluetooth_airplane_mode_toast">سيظل البلوتوث مفعَّلاً أثناء استخدام \"وضع الطائرة\".</string>
+    <string name="bluetooth_airplane_mode_toast">سيظل البلوتوث مفعَّلاً أثناء استخدام \"وضع الطيران\".</string>
     <string name="bugreport_message">سيجمع هذا معلومات حول حالة جهازك الحالي لإرسالها كرسالة إلكترونية، ولكنه سيستغرق وقتًا قليلاً من بدء عرض تقرير بالأخطاء. وحتى يكون جاهزًا للإرسال، يُرجى الانتظار.</string>
     <string name="bugreport_option_full_summary">يمكنك استخدام هذا الخيار للحصول على حد أدنى من تدخل النظام عند توقف استجابة الجهاز أو عند بطئها الشديد أو عند الحاجة إلى جميع أقسام التقرير. ولا يسمح لك هذا الخيار بالحصول على مزيد من التفاصيل أو تسجيل لقطات شاشة إضافية.</string>
     <string name="bugreport_option_full_title">تقرير كامل</string>
@@ -558,7 +559,7 @@
     <string name="ext_media_status_bad_removal">تم الإخراج بشكل غير آمن</string>
     <string name="ext_media_status_checking">جارٍ التحقق…</string>
     <string name="ext_media_status_ejecting">جارٍ إنهاء التحميل…</string>
-    <string name="ext_media_status_formatting">جارٍ التهيئة…</string>
+    <string name="ext_media_status_formatting">تجري التهيئة...</string>
     <string name="ext_media_status_missing">لم يتم الإدخال</string>
     <string name="ext_media_status_mounted">جاهز</string>
     <string name="ext_media_status_mounted_ro">للقراءة فقط</string>
@@ -626,6 +627,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
     <string name="fcComplete">اكتمل رمز الميزة.</string>
     <string name="fcError">حدثت مشكلة بالاتصال أو أن رمز الميزة غير صحيح.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">بحث</string>
     <string name="find_next">بحث عن التطابق التالي</string>
     <string name="find_on_page">بحث في الصفحة</string>
@@ -676,9 +678,9 @@
     <string name="global_action_toggle_silent_mode">وضع صامت</string>
     <string name="global_action_voice_assist">المساعد الصوتي</string>
     <string name="global_actions">خيارات الهاتف</string>
-    <string name="global_actions_airplane_mode_off_status">وضع الطائرة متوقف</string>
-    <string name="global_actions_airplane_mode_on_status">وضع الطائرة قيد التفعيل</string>
-    <string name="global_actions_toggle_airplane_mode">وضع الطائرة</string>
+    <string name="global_actions_airplane_mode_off_status">وضع الطيران متوقف</string>
+    <string name="global_actions_airplane_mode_on_status">وضع الطيران قيد التفعيل</string>
+    <string name="global_actions_toggle_airplane_mode">وضع الطيران</string>
     <string name="gnss_nfw_notification_message_carrier">تمكّن مشغّل شبكة الجوّال من معرفة موقعك الجغرافي أثناء جلسة الطوارئ الأخيرة.</string>
     <string name="gnss_nfw_notification_message_oem">تمكّنت الشركة المصنِّعة من معرفة موقعك الجغرافي أثناء جلسة الطوارئ الأخيرة.</string>
     <string name="gnss_nfw_notification_title">تمّ التعرّف على موقعك الجغرافي أثناء حالة طوارئ</string>
@@ -833,6 +835,7 @@
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ فتح قفل شريحة SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
 أعد المحاولة خلال %2$d ثانية."</string>
@@ -878,7 +881,7 @@
     <string name="lockscreen_access_pattern_detected">اكتمل النمط</string>
     <string name="lockscreen_access_pattern_start">بدأ النمط</string>
     <string name="lockscreen_carrier_default">لا خدمة</string>
-    <string name="lockscreen_emergency_call">الطوارئ</string>
+    <string name="lockscreen_emergency_call">مكالمة طوارئ</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">لقد حاولت فتح قفل الهاتف %1$d من المرات. بعد %2$d من المحاولات غير الناجحة، ستتم إعادة ضبط الهاتف إلى الإعدادات الأساسية وسيتم فقد جميع بيانات المستخدم.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"‏لقد رسمت نقش فتح القفل بشكل غير صحيح %1$d مرة. بعد %2$d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام معلومات تسجيل الدخول إلى Google.
 
@@ -1152,6 +1155,7 @@
     <string name="notification_hidden_text">إشعار جديد</string>
     <string name="notification_history_title_placeholder">إشعار تطبيق مخصّص</string>
     <string name="notification_listener_binding_label">برنامج تلقّي الإشعارات الصوتية</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">خدمة ترتيب أهمية الإشعارات</string>
     <string name="notification_reply_button_accessibility">الرد</string>
     <string name="notification_title">حدث خطأ أثناء تسجيل الدخول إلى %1$s</string>
@@ -1196,7 +1200,7 @@
     <string name="permdesc_accessNotifications">يتيح للتطبيق استرجاع الإشعارات وفحصها ومسحها، بما في ذلك تلك التي نشرتها تطبيقات أخرى.</string>
     <string name="permdesc_accessWifiState">‏للسماح للتطبيق بعرض معلومات حول شبكات Wi-Fi، كعرض معلومات حول ما إذا تم تفعيل Wi-Fi واسم أجهزة Wi-Fi المتصلة.</string>
     <string name="permdesc_accessWimaxState">‏للسماح للتطبيق بتحديد ما إذا تم تفعيل WiMAX وتحديد معلومات حول أي شبكات WiMAX متصلة.</string>
-    <string name="permdesc_access_notification_policy">للسماح للتطبيق بقراءة تهيئة \"عدم الإزعاج\" وكتابتها.</string>
+    <string name="permdesc_access_notification_policy">للسماح للتطبيق بقراءة إعداد \"عدم الإزعاج\" وكتابتها.</string>
     <string name="permdesc_activityRecognition">يمكن لهذا التطبيق التعرّف على نشاطك البدني.</string>
     <string name="permdesc_addVoicemail">للسماح للتطبيق بإضافة رسائل إلى صندوق البريد الصوتي.</string>
     <string name="permdesc_answerPhoneCalls">للسماح للتطبيق بالرد على مكالمة هاتفية واردة.</string>
@@ -1209,8 +1213,8 @@
     <string name="permdesc_bindNotificationListenerService">يتيح للمالك الربط بواجهة المستوى العلوي لخدمة تلقّي الإشعارات الصوتية. ولن تكون هناك حاجة إليه مطلقًا مع التطبيقات العادية.</string>
     <string name="permdesc_bind_connection_service">للسماح للتطبيق بالتفاعل مع الخدمات الهاتفية لإجراء/تلقي المكالمات.</string>
     <string name="permdesc_bind_incall_service">للسماح للتطبيق بالتحكم في وقت وكيفية مشاهدة المستخدم للشاشة أثناء الاتصال.</string>
-    <string name="permdesc_bluetooth">للسماح للتطبيق بعرض تهيئة البلوتوث على الهاتف وإجراء اتصالات وقبولها مع الأجهزة المقترنة.</string>
-    <string name="permdesc_bluetoothAdmin">للسماح للتطبيق بتهيئة هاتف البلوتوث المحلي، واكتشاف أجهزة التحكم عن بعد والاقتران بها.</string>
+    <string name="permdesc_bluetooth">للسماح للتطبيق بعرض إعداد البلوتوث على الهاتف وإجراء اتصالات وقبولها مع الأجهزة المقترنة.</string>
+    <string name="permdesc_bluetoothAdmin">للسماح للتطبيق بإعداد هاتف البلوتوث المحلي، واكتشاف أجهزة التحكم عن بعد والاقتران بها.</string>
     <string name="permdesc_bodySensors">للسماح للتطبيق بالدخول إلى البيانات من أجهزة الاستشعار التي تراقب الحالة البدنية، مثل معدل نبضات القلب.</string>
     <string name="permdesc_broadcastSticky">للسماح للتطبيق بإرسال مجموعات بث مستمرة، والتي تظل بعد انتهاء البث. قد يؤدي الاستخدام بكثرة إلى حدوث بطء أو عدم استقرار في الهاتف من خلال التسبب في استخدام الهاتف لمساحة كبيرة للغاية من الذاكرة.</string>
     <string name="permdesc_callCompanionApp">يستطيع التطبيق رؤية المكالمات الجارية على الجهاز والتحكّم فيها. ويشمل ذلك معلومات مثل الأرقام وحالة المكالمات.</string>
@@ -1220,7 +1224,7 @@
     <string name="permdesc_changeNetworkState">للسماح للتطبيق بتغيير حالة اتصال الشبكة.</string>
     <string name="permdesc_changeTetherState">للسماح للتطبيق بتغيير حالة اتصال الشبكة المربوطة.</string>
     <string name="permdesc_changeWifiMulticastState">‏للسماح للتطبيق بتلقي الحزم التي يتم إرسالها إلى جميع الأجهزة على شبكة Wi-Fi باستخدام عناوين بث متعدد، وليس باستخدام هاتفك فقط. ويؤدي ذلك إلى استخدام قدر أكبر من الطاقة يفوق وضع البث غير المتعدد.</string>
-    <string name="permdesc_changeWifiState">‏للسماح للتطبيق بالاتصال بنقاط الوصول إلى Wi-Fi وقطع الاتصال بها، وإجراء تغييرات على تهيئة الجهاز لشبكات Wi-Fi.</string>
+    <string name="permdesc_changeWifiState">‏للسماح للتطبيق بالاتصال بنقاط الوصول إلى Wi-Fi وقطع الاتصال بها، وإجراء تغييرات على إعداد الجهاز لشبكات Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">‏للسماح للتطبيق بتوصيل الهاتف بشبكات WiMAX وقطع اتصاله بها.</string>
     <string name="permdesc_connection_manager">للسماح للتطبيق بإدارة الاتصالات اللاسلكية.</string>
     <string name="permdesc_control_incall_experience">للسماح للتطبيق بتوفير تجربة للمستخدم أثناء الاتصال.</string>
@@ -1236,7 +1240,7 @@
     <string name="permdesc_handoverStatus">‏السماح لهذا التطبيق بتلقي معلومات حول عمليات نقل شعاع Android الحالية</string>
     <string name="permdesc_imagesWrite">للسماح للتطبيق بتعديل مجموعة صورك.</string>
     <string name="permdesc_install_shortcut">للسماح لتطبيق بإضافة اختصارات على الشاشة الرئيسية بدون تدخل المستخدم.</string>
-    <string name="permdesc_invokeCarrierSetup">للسماح للمالك باستدعاء تطبيق التهيئة الذي يوفره مشغل شبكة الجوال. لن تكون هناك حاجة إليه مطلقًا مع التطبيقات العادية.</string>
+    <string name="permdesc_invokeCarrierSetup">للسماح للمالك باستدعاء تطبيق الإعداد الذي يوفره مشغل شبكة الجوال. لن تكون هناك حاجة إليه مطلقًا مع التطبيقات العادية.</string>
     <string name="permdesc_killBackgroundProcesses">للسماح للتطبيق بإنهاء عمليات التطبيقات الأخرى في الخلفية. وقد يؤدي هذا إلى توقف تطبيقات أخرى عن العمل.</string>
     <string name="permdesc_manageFace">السماح للتطبيق باستدعاء طرق لإضافة نماذج من الوجوه وحذفها</string>
     <string name="permdesc_manageFingerprint">للسماح للتطبيق باستدعاء طرق لإضافة نماذج من بصمات الأصابع وحذفها.</string>
@@ -1308,7 +1312,7 @@
     <string name="permdesc_writeContacts">يسمح هذا الإذن للتطبيق بتعديل البيانات حول جهات الاتصال المخزّنة على هاتفك. ويسمح هذا الإذن للتطبيقات بحذف بيانات جهات الاتصال.</string>
     <string name="permdesc_writeGeolocationPermissions">للسماح لأحد التطبيقات بتعديل أذونات الموقع الجغرافي للمتصفح. يمكن أن تستخدم التطبيقات الضارة هذا للسماح بإرسال معلومات الموقع إلى مواقع إلكترونية عشوائية.</string>
     <string name="permdesc_writeHistoryBookmarks">للسماح للتطبيق بتعديل سجل المتصفح أو الإشارات المرجعية المخزنة على هاتفك. وقد يتيح هذا للتطبيق محو بيانات المتصفح أو تعديلها. ملاحظة: لا يجوز فرض هذا الإذن من قِبل متصفحات جهات خارجية أو تطبيقات أخرى بها إمكانيات تصفح الويب.</string>
-    <string name="permdesc_writeSettings">للسماح للتطبيق بتعديل بيانات إعدادات النظام. يمكن أن تتلف التطبيقات الضارة تهيئة نظامك.</string>
+    <string name="permdesc_writeSettings">للسماح للتطبيق بتعديل بيانات إعدادات النظام. يمكن أن تتلف التطبيقات الضارة إعداد نظامك.</string>
     <string name="permdesc_writeSyncSettings">للسماح للتطبيق بتعديل إعدادات المزامنة لحساب ما. على سبيل المثال، يمكن استخدام ذلك لتفعيل مزامنة تطبيق \"الأشخاص\" مع حساب ما.</string>
     <string name="permgroupdesc_activityRecognition">الوصول إلى بيانات نشاطك البدني</string>
     <string name="permgroupdesc_calendar">الوصول تقويمك</string>
@@ -1389,7 +1393,7 @@
     <string name="permlab_handoverStatus">‏تلقي حالة نقل شعاع Android</string>
     <string name="permlab_imagesWrite">تعديل مجموعة صورك</string>
     <string name="permlab_install_shortcut">تثبيت اختصارات</string>
-    <string name="permlab_invokeCarrierSetup">استدعاء تطبيق التهيئة الذي يوفره مشغل شبكة الجوال</string>
+    <string name="permlab_invokeCarrierSetup">استدعاء تطبيق الإعداد الذي يوفره مشغل شبكة الجوال</string>
     <string name="permlab_killBackgroundProcesses">إغلاق التطبيقات الأخرى</string>
     <string name="permlab_manageFace">إدارة أجهزة \"فتح القفل بالوجه\"</string>
     <string name="permlab_manageFingerprint">لإدارة أجهزة بصمة الإصبع</string>
@@ -1645,7 +1649,7 @@
     <string name="select_hours">تحديد الساعات</string>
     <string name="select_input_method">اختيار أسلوب الإدخال</string>
     <string name="select_keyboard_layout_notification_message">انقر لاختيار لغة وتنسيق</string>
-    <string name="select_keyboard_layout_notification_title">تهيئة لوحة المفاتيح الفعلية</string>
+    <string name="select_keyboard_layout_notification_title">إعداد لوحة المفاتيح الفعلية</string>
     <string name="select_minutes">تحديد الدقائق</string>
     <string name="select_year">تحديد العام</string>
     <string name="sendText">اختيار إجراء للنص</string>
@@ -1751,6 +1755,7 @@
     <string name="terabyteShort">تيرابايت</string>
     <string name="test_harness_mode_notification_message">يمكنك إجراء إعادة ضبط على الإعدادات الأصلية لإيقاف وضع \"مفعِّل اختبار\".</string>
     <string name="test_harness_mode_notification_title">تم تفعيل وضع \"مفعّل الاختبار\"</string>
+    <string name="tethered_notification_message">انقر للإعداد.</string>
     <string name="tethered_notification_multi_device_message">الجهاز المتصل: %1$s</string>
     <string name="tethered_notification_no_device_message">لا يوجد جهاز متصل</string>
     <string name="tethered_notification_one_device_message">الجهاز المتصل: %1$s</string>
@@ -1829,7 +1834,7 @@
     <string name="volume_icon_description_ringer">الرنين</string>
     <string name="volume_music">مستوى صوت الوسائط</string>
     <string name="volume_music_hint_playing_through_bluetooth">تشغيل من خلال البلوتوث</string>
-    <string name="volume_music_hint_silent_ringtone_selected">تم تعيين نغمة الرنين الصامتة</string>
+    <string name="volume_music_hint_silent_ringtone_selected">تم ضبط نغمة الرنين الصامتة</string>
     <string name="volume_notification">مستوى صوت التنبيه</string>
     <string name="volume_ringtone">مستوى صوت الرنين</string>
     <string name="volume_unknown">مستوى الصوت</string>
@@ -1917,6 +1922,7 @@
     <string name="zen_mode_feature_name">عدم الإزعاج</string>
     <string name="zen_mode_forever">إلى أن يتم إيقاف الوضع</string>
     <string name="zen_mode_forever_dnd">حتى يتم إيقاف \"عدم الإزعاج\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">حتى %1$s</string>
     <string name="zen_upgrade_notification_content">انقر للاطّلاع على ما تم حظره.</string>
     <string name="zen_upgrade_notification_title">تم تغيير وضع \"الرجاء عدم الإزعاج\".</string>

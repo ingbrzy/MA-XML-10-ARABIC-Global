@@ -64,15 +64,15 @@
         <item>\#</item>
     </string-array>
     <string-array name="screenrecorder_settings_bit_rate">
-        <item>٢٠٠ ميجابايت في الثانية</item>
-        <item>١٠٠ ميجابايت في الثانية</item>
-        <item>٥٠ ميجابايت في الثانية</item>
-        <item>٣٢ ميجابايت في الثانية</item>
-        <item>٢٤ ميجابايت في الثانية</item>
-        <item>١٦ ميجابايت في الثانية</item>
-        <item>٨ ميجابايت في الثانية</item>
-        <item>٤ ميجابايت في الثانية</item>
-        <item>١ ميجابايت في الثانية</item>
+        <item>200Mbps</item>
+        <item>100Mbps</item>
+        <item>50Mbps</item>
+        <item>32Mbps</item>
+        <item>24Mbps</item>
+        <item>16Mbps</item>
+        <item>8Mbps</item>
+        <item>4Mbps</item>
+        <item>1Mbps</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames">
         <item>٢٤ إطار/ث</item>

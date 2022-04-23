@@ -37,6 +37,7 @@
     <string name="add_clock">إضافة ساعة</string>
     <string name="add_common_timer">إضافة مؤقت</string>
     <string name="add_timer">مؤقت متكرر</string>
+    <string name="add_timer_dialog_title">إضافة مؤقت</string>
     <string name="add_timezone_title">إضافة منطقة زمنية</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="agree">أوافق</string>
@@ -279,10 +280,10 @@
     <string name="life_post_setting_wake_up_list_title">سجل الإستيقاظ</string>
     <string name="life_post_wake_up_acumu_day_title">عد اليوم</string>
     <string name="life_post_wake_up_item_acumu_day_title">عد اليوم</string>
-    <string name="life_post_wake_up_item_percentage_title">معجبي Mi خلفك</string>
+    <string name="life_post_wake_up_item_percentage_title">محبي Mi خلفك</string>
     <string name="life_post_wake_up_item_time_title">وقت الاستيقاظ</string>
     <string name="life_post_wake_up_percentage_sign">%</string>
-    <string name="life_post_wake_up_percentage_title">معجبي Mi خلفك</string>
+    <string name="life_post_wake_up_percentage_title">محبي Mi خلفك</string>
     <string name="life_post_wake_up_time_title">وقت الاستيقاظ</string>
     <string name="life_post_weather_invalid">انقر للحصول على معلومات الطقس</string>
     <string name="life_post_weather_no_network">اتصل بالشبكة لتحديث معلومات الطقس</string>
@@ -439,6 +440,10 @@
     <string name="reach_upper_limit">لا يمكن إضافة المزيد من المؤقتات</string>
     <string name="read_external_storage_permission_desc">لإعداد نغمات رنين مخصصة</string>
     <string name="read_internal_storage">الوصول إلى التخزين</string>
+    <string name="read_phone_state">الوصول إلى معلومات الجهاز</string>
+    <string name="read_phone_state_desc">الوصول إلى حالة المكالمة عندما يرن المنبه</string>
+    <string name="read_phone_state_desc_when_request">للوصول إلى حالة المكالمة لإنهاء التسجيل تلقائيًا عند تلقي مكالمات</string>
+    <string name="remark_hint">ادخل الوصف</string>
     <string name="remind_ringtone">النغمة</string>
     <string name="repeat_count">الأوقات</string>
     <string name="repeat_count_value_five">٥</string>
@@ -483,6 +488,8 @@
     <string name="shortcut_new_alarm">ضبط المنبه</string>
     <string name="shortcut_start_timer">بدء المؤقت</string>
     <string name="shortcut_stop_watch">بدء ساعة الإيقاف</string>
+    <string name="show_life_post_desc">لن يتم عرض تقرير صباحي عند إيقاف تشغيل هذه الميزة</string>
+    <string name="show_life_post_lable">عرض تقرير صباحي</string>
     <string name="shut_down_keep_screen">لن يتم تشغيل الشاشة</string>
     <string name="shutdown_alarm_alert_enable_summary">سوف يرن المنبه إذا تم ضبطه بعد 10 دقائق على الأقل من إيقاف تشغيل الجهاز</string>
     <string name="shutdown_alarm_alert_enable_summary_new">عند تشغيل هذه الميزة، ستصدر التنبيهات التي تم ضبطها رنين حتى بعد إيقاف تشغيل الجهاز. فقط التنبيهات التي تم ضبطها على الاقل لمدة %d دقائق بعد إيقاف تشغيل الجهاز ستصدر رنينًا.</string>
@@ -491,10 +498,12 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه إذا تم ضبطة ١٠ دقائق على الأقل بعد إطفاء الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="sleep_analysis">الإحصائيات</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">بيانات النوم مُقدمة من Xiaomi Health</string>
+    <string name="sleep_date_provider_text_new">Sleep data is provided by Mi Fitness</string>
     <string name="sleep_duration">"مدة النوم: "</string>
     <string name="sleep_duration_avg_text_diff">متوسط مدة النوم (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">نمت لمدة %1$s و %2$s</string>
@@ -510,6 +519,7 @@
     <string name="sleep_record">تتبع مواعيد النوم</string>
     <string name="sleep_record_desc">قم بتشغيل لبدء تسجيل بيانات النوم</string>
     <string name="sleep_record_desc_detailed">يتم توفير وظيفة تتبع النوم بواسطة Xiaomi Health. تشغيل الجهاز، تسجل Xiaomi Health تلقائيًا عملية نومك استنادًا إلى استخدام هاتفك وإحصائيات النشاط ،وايضا أوقات الدخول في النوم والاستيقاظ المعينة، مما يعرض لك إحصائيات في شكل مخططات بيانية. اسمح لتطبيق Xiaomi Health ببدء التشغيل التلقائي لتتبع عملية النوم بشكل أكثر دقة. سيتم تخزين جميع البيانات ذات الصلة محليًا على جهازك ليسهل عليك إدارتها.</string>
+    <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
     <string name="sleep_record_no_data">ستظهر إحصائياتك هنا بعد قيام Xiaomi Health بتحليل بيانات كافية</string>
     <string name="sleep_remind">تذكير وقت النوم</string>
     <string name="sleep_time">وقت الدخول في النوم</string>
@@ -534,6 +544,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_reset_notification">تم إعادة تعيين ساعة الإيقاف</string>
     <string name="stopwatch_running_notification">ساعة الإيقاف</string>
@@ -542,6 +553,7 @@
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">اسمح لهذا التطبيق بالاتصال بالإنترنت للوصول إلى جميع ميزاته.</string>
     <string name="system_permission_main_purpose">عرض الوقت وضبط التنبيهات والمؤقتات باستخدام ساعة الإيقاف</string>
     <string name="system_permission_purpose">إنشاء تنبيهات أيام الأسبوع وإعداد نغمات مخصصة</string>
@@ -609,6 +621,7 @@
     <string name="timer_alert_type_beach">شاطئ</string>
     <string name="timer_alert_type_forest">غابات</string>
     <string name="timer_alert_type_mute">إفتراضي</string>
+    <string name="timer_alert_type_no">لا شيء</string>
     <string name="timer_alert_type_rain">رذاذ</string>
     <string name="timer_alert_type_spring_rain">مطر الصيف</string>
     <string name="timer_alert_type_stove_fire">موقد نار</string>
@@ -620,6 +633,9 @@
     <string name="timer_continue">استمر</string>
     <string name="timer_continue_timer">استئناف المؤقت</string>
     <string name="timer_created">تمت إضافة المؤقت بنجاح</string>
+    <string name="timer_desc_use_brush_teeth">فرش الأسنان</string>
+    <string name="timer_desc_use_facial_mask">قناع للوجه</string>
+    <string name="timer_desc_use_sleep">قيلولة</string>
     <string name="timer_end_time">سيتوقف المؤقت في %s</string>
     <string name="timer_end_time_format">dd MMM HH:mm</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -628,6 +644,7 @@
     <string name="timer_is_paused">توقف المؤقت مؤقتاً</string>
     <string name="timer_item_delete">حذف</string>
     <string name="timer_item_duration_display">%1$d دقيقة %2$d ثانية</string>
+    <string name="timer_item_edit">تعديل</string>
     <string name="timer_item_label_hint">اسم المؤقت</string>
     <string name="timer_item_picker_hour">س</string>
     <string name="timer_item_picker_minute">دق</string>
@@ -657,6 +674,8 @@
     <string name="upcoming_alarm_hint">يمكنك إيقاف تشغيل هذا المنبه الآن</string>
     <string name="update_health_app">تحديث Xiaomi Health</string>
     <string name="update_health_app_desc">يتم تزويدك بوظيفة تتبع النوم بواسطة Xiaomi Health. قم بتحديث Xiaomi Health إلى أحدث إصدار للوصول إلى الميزات ذات الصلة.</string>
+    <string name="update_health_app_desc_new">The sleep tracking feature is provided by Mi Fitness. Update Mi Fitness to its latest version to access related features.</string>
+    <string name="update_health_app_new">Update Mi Fitness</string>
     <string name="update_it">تحديث</string>
     <string name="update_notification_info">جارٍ تحديث البيانات في الخلفية…</string>
     <string name="usage_start">البدء</string>
@@ -681,6 +700,7 @@
     <string name="wednesday_shortest">الأربعاء</string>
     <string name="week_ringtone_recommend_desc">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ المحدد. هل ترغب في تعيينه كنغمة رنين المنبه الافتراضي؟</string>
     <string name="white_noise">الضوضاء المحيطة</string>
+    <string name="white_noise_guide_desc">أضف صوت في الخلفية للحفاظ على تركيزك</string>
     <string name="white_noise_selector">حدد الملف الصوتي</string>
     <string name="workday_alarm_clock">منبه يوم عمل</string>
     <string name="worldclock_edit_label">الساعة العالمية</string>
@@ -692,6 +712,7 @@
     <string name="worldclock_search_city">حدد مدينة</string>
     <string name="worldclock_second_time">الوقت في %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">الساعة</string>
     <string name="worldclock_world_time">المناطق الزمنية</string>
     <string name="worldcolock_date_display_prefix">الحالي: </string>

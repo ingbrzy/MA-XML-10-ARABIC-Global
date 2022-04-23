@@ -99,7 +99,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">حسنا</string>
     <string name="icon_add_description">إضافة إختصار على الشاشة الرئيسية</string>
     <string name="icon_remove_confirm">إزالة</string>
     <string name="icon_remove_description_content">\"التعليقات والخدمات\" هي أحد تطبيقات النظام. يمكنك الاستمرار في استخدامه من الإعدادات حتى بعد حذف اختصار الشاشة الرئيسية.</string>
@@ -185,6 +185,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">لا يمكن رفع صور أو فيديوهات أكبر من ۱۰۰ ميجابايت</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">أدخل إسم التطبيق</string>
     <string name="miui_feedback_main_answer_title">هناك إجابة لهذا السؤال</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"الخط الساخن للخدمة: 0120-300-521
+ساعات العمل: 9:00 - 18:00 (باستثناء البنوك والعطلات المجدولة)
+البريد الإلكتروني: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">الأسئلة الشائعة</string>
     <string name="miui_feedback_main_item_catch_full_log">الحصول على سجلات</string>
     <string name="miui_feedback_main_item_customer_service">خدمات مابعد البيع</string>
@@ -343,7 +346,7 @@
     <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
 %2$s
 Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="privacy_policy_update_title">تحديث سياسة الخصوصية</string>
     <string name="public_authorize_now">الإعدادات</string>
     <string name="public_loading_text">لحظة من فضلك…</string>
     <string name="public_net_error_retry">حاول مجدداً</string>
@@ -413,16 +416,16 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">تنبيه</string>
+    <string name="user_must_known_content">لن تتمكن من الاستمرار في استخدام خدماتنا إذا لم توافق على الإصدار الجديد من %s الخاصة بنا. هل توافق على تحديثات سياسة خصوصية الآن؟</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw_consent_failed">تعذر سحب الموافقة</string>
+    <string name="withdraw_consent_failed_hint">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
+    <string name="withdrawing">جارٍ سحب الموافقة…</string>
     <string name="yesterday">أمس</string>
 </resources>

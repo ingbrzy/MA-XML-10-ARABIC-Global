@@ -60,6 +60,7 @@
     <string name="alert_title">إشعارات التقويم</string>
     <string name="all_events">كل الأحداث</string>
     <string name="all_records">كل التسجيلات</string>
+    <string name="already_num">لقد مر على %s</string>
     <string name="am">ص</string>
     <string name="anniversary_event_title">ذكرى سنوية: %1$s</string>
     <string name="anniversary_secondary_tag">ذكرى سنوية</string>
@@ -138,6 +139,7 @@
     <string name="copy">نسخ</string>
     <string name="copy_email">نسخ عنوان البريد الإلكتروني</string>
     <string name="copy_number">نسخ رقم الهاتف</string>
+    <string name="count_down_date_view">العد التنازلي</string>
     <string name="countdown_event_title">العد التنازلي: %1$s</string>
     <string name="countdown_notify_before_3_day_title">العد التنازلي: %1$s بعد %2$d أيام</string>
     <string name="countdown_notify_title">العد التنازلي: %1$s</string>
@@ -175,8 +177,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_today">" (اليوم)"</string>
+    <string name="date_view">التاريخ</string>
     <string name="day">اليوم</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
     <string name="default_reminder_mode">التذكيرات</string>
@@ -374,6 +378,7 @@
     <string name="import_action">استيراد</string>
     <string name="import_birthday">استيراد تواريخ ميلاد</string>
     <string name="imported">تم الاستيراد</string>
+    <string name="in_progress">جاري</string>
     <string name="insert_event_dialog_btn_negative">لا</string>
     <string name="insert_event_dialog_btn_positive">نعم</string>
     <string name="insert_event_dialog_message">إضافة هذا الحدث إلى التقويم؟</string>
@@ -525,6 +530,7 @@
     <string name="movie_card_title">أفلام</string>
     <string name="movie_card_trailer">الإعلان</string>
     <string name="name_title_menstruation_today_end">يتوقع انتهاء الدورة الشهرية اليوم</string>
+    <string name="near_agenda_view">الأحداث القادمة</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="never">لا شيء</string>
     <string name="new_event_description">جديد</string>
@@ -728,9 +734,12 @@
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip">تخطي</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
+    <string name="spec_agenda_view">أحداث خاصة</string>
     <string name="start_date_calculate">أحسب</string>
     <string name="stats_title">الإحصائيات</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_num">باقي لحدث %s</string>
     <string name="storage_permission_denied">السماح بالوصول إلى الذاكرة</string>
     <string name="subscribe_card">الاشتراك الآن</string>
     <string name="subscribe_card_success">تم الاشتراك بنجاح! تحقق من التفاصيل في الصفحة الرئيسية.</string>
@@ -855,6 +864,7 @@
     <string name="today">اليوم</string>
     <string name="today_at_time_fmt">اليوم في %s</string>
     <string name="today_icon_voice_contentdescription">الرجوع إلى اليوم</string>
+    <string name="today_no_event">لا توجد أحداث اليوم.</string>
     <string name="today_no_events">لا توجد أحداث</string>
     <string name="todays_panchang_title">Panchang اليوم</string>
     <string name="todo_audio_event">"[مهمة صوتية] "</string>
@@ -920,7 +930,13 @@
     <string name="widget_events">الحدث التالي</string>
     <string name="widget_get_weather_info">الحصول على معلومات الطقس</string>
     <string name="widget_no_events">لا توجد أحداث</string>
+    <string name="widget_normal_agenda_tip_empty">لا توجد أحداث اليوم.</string>
+    <string name="widget_normal_agenda_today_done">اكتملت أحداث اليوم.</string>
+    <string name="widget_normal_more_event">أحداث إضافية</string>
+    <string name="widget_normal_new_event">إضافة حدث</string>
+    <string name="widget_normal_weekN">الاسبوع %d</string>
     <string name="widget_select_style">اختيار نمط</string>
+    <string name="widget_spec_agenda_birth_today">اليوم</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">التقويم هو تطبيق نظام يتيح لك إنشاء الأحداث وإداراتها. لن تكون بعض ميزات التطبيق متاحة بعد إزالة اختصاره من الشاشة الرئيسيىة.</string>
     <string name="xiaomi_calendar_delete_title">هل ترغب في إزالة تطبيق \"التقويم\" من الشاشة الرئيسية؟</string>

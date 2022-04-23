@@ -31,7 +31,7 @@
     <string name="add_notification_text">إضافة إشعار</string>
     <string name="add_ringtone_text">إضافة نغمة رنين</string>
     <string name="alarm_sound_default">الصوت التلقائي للمنبّه</string>
-    <string name="app_label">Sounds</string>
+    <string name="app_label">الأصوات</string>
     <string name="delete_ringtone_text">حذف</string>
     <string name="notification_sound_default">الصوت التلقائي للإشعارات</string>
     <string name="ringtone_default">نغمة الرنين التلقائية</string>

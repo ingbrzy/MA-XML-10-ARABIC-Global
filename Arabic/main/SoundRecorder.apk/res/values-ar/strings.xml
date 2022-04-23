@@ -296,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -328,6 +329,11 @@
     <string name="network_tip_dialog_title">يتطلب إتصال إنترنت</string>
     <string name="network_unavailable_tip">قم بالاتصال بالإنترنت ثم حاول مجددا.</string>
     <string name="new_record_name">تسجيل جديد</string>
+    <string name="new_saf_permission_dialog_content">"تم تحديث أذونات المسجل. اسمح للمسجل بالوصول إلى جميع تسجيلات المكالمات.
+
+كيفية منح الأذونات
+انقر على \"%1$s\" وحدد \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">التالي</string>
     <string name="night">المساء</string>
     <string name="no_content">لا توجد عناصر بعد</string>
     <string name="no_file">فارغ</string>
@@ -385,6 +391,8 @@
     <string name="permission_desc">تفاصيل الأذونات</string>
     <string name="permission_dialog_cancel">إلغاء</string>
     <string name="permission_dialog_ok">الإعدادت</string>
+    <string name="permission_read_phone_state">الوصول إلى معلومات الجهاز</string>
+    <string name="permission_read_phone_state_description">للوصول إلى حالة المكالمة لإنهاء التسجيل تلقائيًا عند تلقي مكالمة</string>
     <string name="permission_record">تسجيل الصوت</string>
     <string name="permission_record_description">لتوفير خدمات التسجيل الصوتي</string>
     <string name="permission_storage">الوصول إلى التخزين</string>
@@ -624,6 +632,7 @@
     <string name="the_united_nations_day">يوم الأمم المتحدة</string>
     <string name="the_valentines_day">عيد الحب</string>
     <string name="the_water_lantern_festival">مهرجان المصابيح</string>
+    <string name="this_folder">استخدام هذا المجلد</string>
     <string name="thursday">الخميس</string>
     <string name="thursday_short">الخميس</string>
     <string name="thursday_shortest">الخميس</string>

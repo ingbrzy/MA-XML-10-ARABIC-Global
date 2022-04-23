@@ -82,6 +82,7 @@
     <string name="account_verify_guide_bind_mail_desc">قم بإضافة بريد إلكتروني لاسترداد الحساب</string>
     <string name="account_verify_guide_bind_phone_desc">قم بإضافة رقم هاتف لاسترداد الحساب</string>
     <string name="account_verify_guide_set_password_desc">قم بتعيين كلمة مرور</string>
+    <string name="account_verify_guide_verify_phone_desc">تأكيد هاتف الاسترداد</string>
     <string name="account_xiaomi_service">الخدمات</string>
     <string name="action_add_phone">أضف رقم هاتف</string>
     <string name="action_retry">حاول مجددا</string>
@@ -121,6 +122,10 @@
     <string name="cloud_description_closed">مستخدم | المزامنة متوقفة</string>
     <string name="cloud_description_normal">مستخدم</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_status_backup_not_open">النسخ الاحتياطي متوقف</string>
+    <string name="cloud_service_status_cloud_not_open">متوقف</string>
+    <string name="cloud_service_status_storage_full">المساحة ممتلئة</string>
+    <string name="cloud_service_status_storage_not_enough">لا توجد مساحة كافية</string>
     <string name="collect_diagnosis_log">إنشاء سجل التشخيص</string>
     <string name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
     <string name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
@@ -441,6 +446,8 @@
     <string name="notify_network_restricted_content_hidden_state">تم تقييد نشاط خلفية حساب Mi. انقر للسماح.</string>
     <string name="notify_network_restricted_content_mobile_network">تم تقييد وصول حساب Mi للإنترنت. انقر للسماح.</string>
     <string name="notify_network_restricted_title">لا يمكن لحساب Mi الاتصال بالشبكة</string>
+    <string name="notify_verify_again_security_phone">تأكيد</string>
+    <string name="notify_verify_security_phone">الهاتف</string>
     <string name="oauth_get_scopes_failed">تعذر الحصول على معلومات الحساب</string>
     <string name="oauth_getting_scopes">التحقق من الحساب…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> سيحصل على الأذونات التالية:&lt;br> &lt;br> %3$s</string>

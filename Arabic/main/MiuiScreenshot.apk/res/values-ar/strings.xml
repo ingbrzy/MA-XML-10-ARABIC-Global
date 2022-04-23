@@ -35,8 +35,10 @@
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
     <string name="app_name">لقطة شاشة</string>
+    <string name="can_drag">اسحب للإدراج أو الإرسال</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="close">إغلاق</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">لحفظ لقطات الشاشة</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -102,12 +104,16 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="long_screenshot_error">حدث خطأ ما. حاول مجددًا.</string>
     <string name="long_screenshot_guide_text">"انقر لإنشاء
  لقطة شاشة مطولة"</string>
+    <string name="long_screenshot_intercepted_error">تعذر أخذ لقطة للشاشة، حاول مرة أخرى.</string>
     <string name="long_screenshot_out_of_memory_error">الصورة كبيرة جدًا</string>
     <string name="long_screenshot_processing">جارٍ المعالجة…</string>
+    <string name="long_screenshot_processing_description_accessibility">جارٍ المعالجة</string>
     <string name="long_screenshot_stop">تم</string>
     <string name="long_screenshot_top_msg">جارٍ إنشاء لقطة الشاشة…</string>
+    <string name="long_screenshot_top_msg_description_accessibility">جارٍ إنشاء لقطة الشاشة</string>
     <string name="long_screenshot_top_msg_manual">بعد قص لقطة الشاشة، انقر على تم</string>
     <string name="midnight">الليل</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
@@ -176,7 +182,7 @@
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
     <string name="partial_screenshot_edit">تعديل</string>
-    <string name="partial_screenshot_failed_to_capture_title">التطبيق لا يسمح بأخذ لقطات شاشة</string>
+    <string name="partial_screenshot_failed_to_capture_title">التطبيق لا يسمح بأخذ لقطات للشاشة</string>
     <string name="partial_screenshot_failed_to_save_title">تعذر الحفظ. لا توجد مساحة كافية.</string>
     <string name="partial_screenshot_insert_failed">تعذر الحفظ</string>
     <string name="partial_screenshot_repaint">إعادة</string>
@@ -187,11 +193,13 @@
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
+    <string name="save_success">تم الحفظ بنجاح</string>
     <string name="screenshot_edit">تعديل</string>
-    <string name="screenshot_failed_in_landscape_mode">لا يمكن إنشاء لقطة شاشة مطولة في الوضع الأفقي</string>
+    <string name="screenshot_failed_in_landscape_mode">لا يمكن إنشاء لقطات للشاشة مطولة في الوضع الأفقي</string>
     <string name="screenshot_feedback_txt">التعليقات</string>
     <string name="screenshot_insert_failed">تعذر تحميل لقطة الشاشة. إلتقط لقطة جديدة أو اعرض الصورة في المعرض.</string>
     <string name="screenshot_long_screenshot">تمرير</string>
+    <string name="screenshot_save">حفظ</string>
     <string name="screenshot_send">إرسال</string>
     <string name="screenshot_thumbnail">لقطة شاشة مصغرة</string>
     <string name="search_menu_title">البحث</string>

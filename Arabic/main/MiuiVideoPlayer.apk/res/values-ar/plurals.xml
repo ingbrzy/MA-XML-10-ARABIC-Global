@@ -1,5 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">عرض %d رد</item>
         <item quantity="zero">عرض %d رد</item>
@@ -23,6 +95,78 @@
         <item quantity="two">%d متابعين</item>
         <item quantity="few">%d متابعين</item>
         <item quantity="many">%d متابع</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d مجلد</item>
+        <item quantity="zero">%d مجلد</item>
+        <item quantity="one">%d مجلد</item>
+        <item quantity="two">%d مجلدات</item>
+        <item quantity="few">%d مجلدات</item>
+        <item quantity="many">%d مجلد</item>
+    </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">%d دقيقة</item>
+        <item quantity="two">%d دقائق</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d جلسة</item>
+        <item quantity="zero">%d جلسة</item>
+        <item quantity="one">%d جلسة</item>
+        <item quantity="two">%d جلسات</item>
+        <item quantity="few">%d جلسات</item>
+        <item quantity="many">%d جلسة</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">سيتم عرض الترجمات قبل %.1f ثانية</item>
@@ -56,6 +200,30 @@
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="zero">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="one">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="two">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="few">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="many">الحلقات المتوفرة: %1$1d من %2$2d</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="zero">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="one">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="two">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="few">الحلقات المتوفرة: %1$1d من %2$2d</item>
+        <item quantity="many">الحلقات المتوفرة: %1$1d من %2$2d</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">عدد الحلقات: %d</item>
+        <item quantity="zero">عدد الحلقات: %d</item>
+        <item quantity="one">عدد الحلقات: %d</item>
+        <item quantity="two">عدد الحلقات: %d</item>
+        <item quantity="few">عدد الحلقات: %d</item>
+        <item quantity="many">عدد الحلقات: %d</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">تبقى %s ثانية</item>
         <item quantity="zero">تبقى %s ثانية</item>
@@ -63,6 +231,14 @@
         <item quantity="two">تبقى %s ثواني</item>
         <item quantity="few">تبقى %s ثواني</item>
         <item quantity="many">تبقى %s ثانية</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
@@ -79,6 +255,14 @@
         <item quantity="two">سيتم إيقاف تشغيل هذه الميزة لمدة %s أيام</item>
         <item quantity="few">سيتم إيقاف تشغيل هذه الميزة لمدة %s أيام</item>
         <item quantity="many">سيتم إيقاف تشغيل هذه الميزة لمدة %s يوم</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d فيديو</item>
@@ -153,12 +337,12 @@
         <item quantity="many">انقر مرتين للرجوع %d دقيقة</item>
     </plurals>
     <plurals name="s_double_tap_forward">
-        <item quantity="other">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
-        <item quantity="zero">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
-        <item quantity="one">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
-        <item quantity="two">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
-        <item quantity="few">انقر مرتين للتقديم السريع بمقدار %d ثواني</item>
-        <item quantity="many">انقر مرتين للتقديم السريع بمقدار %d ثانية</item>
+        <item quantity="other">انقر مرتين للتقديم %d ثانية</item>
+        <item quantity="zero">انقر مرتين للتقديم %d ثانية</item>
+        <item quantity="one">انقر مرتين للتقديم %d ثانية</item>
+        <item quantity="two">انقر مرتين للتقديم %d ثواني</item>
+        <item quantity="few">انقر مرتين للتقديم %d ثواني</item>
+        <item quantity="many">انقر مرتين للتقديم %d ثانية</item>
     </plurals>
     <plurals name="s_forward_tip">
         <item quantity="other">%1$s ثانية</item>
@@ -191,5 +375,21 @@
         <item quantity="two">يتم تأخير الترجمة إلى %.1f ثواني</item>
         <item quantity="few">يتم تأخير الترجمة إلى %.1f ثواني</item>
         <item quantity="many">يتم تأخير الترجمة إلى %.1f ثانية</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">أضف مايصل إلى %d إشارة مرجعية</item>
+        <item quantity="zero">أضف مايصل إلى %d إشارة مرجعية</item>
+        <item quantity="one">أضف مايصل إلى %d إشارة مرجعية</item>
+        <item quantity="two">أضف مايصل إلى %d إشارات مرجعية</item>
+        <item quantity="few">أضف مايصل إلى %d إشارات مرجعية</item>
+        <item quantity="many">أضف مايصل إلى %d إشارة مرجعية</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d مشاهدة</item>
+        <item quantity="zero">%d مشاهدة</item>
+        <item quantity="one">%d مشاهدة</item>
+        <item quantity="two">%d مشاهدين</item>
+        <item quantity="few">%d مشاهدين</item>
+        <item quantity="many">%d مشاهدة</item>
     </plurals>
 </resources>

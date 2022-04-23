@@ -153,7 +153,7 @@
     <string name="bluetooth_profile_hid">جهاز الإرسال</string>
     <string name="bluetooth_profile_map">الرسائل النصية</string>
     <string name="bluetooth_profile_opp">نقل الملف</string>
-    <string name="bluetooth_profile_pan">الدخول إلى الإنترنت</string>
+    <string name="bluetooth_profile_pan">استخدام الإنترنت</string>
     <string name="bluetooth_profile_pan_nap">مشاركة اتصال الإنترنت</string>
     <string name="bluetooth_profile_pbap">مشاركة جهة الاتصال</string>
     <string name="bluetooth_profile_pbap_summary">استخدام مع مشاركة جهة الاتصال</string>
@@ -237,7 +237,7 @@
     <string name="data_usage_uninstalled_apps">التطبيقات المزالة</string>
     <string name="data_usage_uninstalled_apps_users">التطبيقات والمستخدمون الذين تمت إزالتهم</string>
     <string name="debug_app">اختيار التطبيق لتصحيحه</string>
-    <string name="debug_app_not_set">لم يتم تعيين تطبيق لتصحيحه</string>
+    <string name="debug_app_not_set">لم يتم ضبط تطبيق لتصحيحه</string>
     <string name="debug_app_set">تطبيق التصحيح: %1$s</string>
     <string name="debug_applications_category">التطبيقات</string>
     <string name="debug_debugging_category">تصحيح الأخطاء</string>
@@ -285,7 +285,6 @@
     <string name="enable_verbose_vendor_logging">تفعيل التسجيل المطوَّل للمورّد</string>
     <string name="enable_verbose_vendor_logging_summary">يمكنك تضمين سجلات المورّدين الإضافية الخاصة بالجهاز في تقارير الخطأ، وقد تحتوي على معلومات شخصية و/أو تستهلك المزيد من شحن البطارية و/أو تستهلك المزيد من مساحة التخزين.</string>
     <string name="enabled_by_admin">يفعِّل المشرف هذا الإعداد.</string>
-    <string name="enhanced_connectivity">إمكانية اتصال محسّن</string>
     <string name="enhanced_connectivity_summary">لتفعيل الميزة \"إمكانية اتصال محسّن\"</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="external_source_trusted">مسموح به</string>
@@ -306,8 +305,8 @@
     <string name="guest_nickname">ضيف</string>
     <string name="hdcp_checking_dialog_title">‏تعيين سلوك التحقق من HDCP</string>
     <string name="hdcp_checking_title">‏التحقق من HDCP</string>
-    <string name="help_feedback_label">المساعدة والتعليقات</string>
-    <string name="help_label">المساعدة والتعليقات</string>
+    <string name="help_feedback_label">المساعدة والملاحظات والآراء</string>
+    <string name="help_label">المساعدة والملاحظات والآراء</string>
     <string name="home">الشاشة الرئيسية للإعدادات</string>
     <string name="ime_security_warning">يمكن أن يكون أسلوب الإدخال هذا قادرًا على جمع كل النصوص التي تكتبها، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقات الائتمان. يتم الحصول على هذا الأسلوب من التطبيق %1$s. هل تريد استخدام أسلوب الإدخال هذا؟</string>
     <string name="immediately_destroy_activities">عدم الاحتفاظ بالأنشطة</string>
@@ -315,7 +314,7 @@
     <string name="ims_reg_status_not_registered">غير مُسجَّل</string>
     <string name="ims_reg_status_registered">مُسجَّل</string>
     <string name="ims_reg_title">‏حالة تسجيل IMS</string>
-    <string name="imsi_protection_warning">تتلقّى هذه الشبكة معرّفًا فريدًا يمكن استخدامه لتتبُّع الموقع الجغرافي للجهاز. <annotation id="url">مزيد من المعلومات</annotation></string>
+    <string name="imsi_protection_warning">‏تتلقّى هذه الشبكة رقم تعريف لشريحة SIM يمكن استخدامه لتتبُّع الموقع الجغرافي للجهاز. <annotation id="url">مزيد من المعلومات</annotation></string>
     <string name="inactive_app_active_summary">نشط، انقر للتبديل.</string>
     <string name="inactive_app_inactive_summary">غير نشط، انقر للتبديل.</string>
     <string name="inactive_apps_title">تطبيقات وضع الاستعداد</string>
@@ -324,8 +323,8 @@
     <string name="keep_screen_on_summary">لا يتم مطلقًا دخول الشاشة في وضع السكون أثناء الشحن</string>
     <string name="keywords">‏systrace، التتبّع، الأداء</string>
     <string name="keywords_adb_wireless">‏adb، تصحيح الأخطاء، مطور برامج</string>
-    <string name="launch_defaults_none">لم يتم تعيين إعدادات تلقائية</string>
-    <string name="launch_defaults_some">تم تعيين بعض الإعدادات التلقائية</string>
+    <string name="launch_defaults_none">لم يتم ضبط إعدادات تلقائية</string>
+    <string name="launch_defaults_some">تم ضبط بعض الإعدادات التلقائية</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>
     <string name="lb_guidedaction_continue_title">متابعة</string>
@@ -369,8 +368,8 @@
     <string name="local_backup_password_summary_none">النُسخ الاحتياطية الكاملة لسطح المكتب غير محمية في الوقت الحالي</string>
     <string name="local_backup_password_title">كلمة مرور احتياطية للكمبيوتر</string>
     <string name="local_backup_password_toast_confirmation_mismatch">كلمة المرور الجديدة وتأكيدها لا يتطابقان</string>
-    <string name="local_backup_password_toast_success">تم تعيين كلمة مرور احتياطية جديدة</string>
-    <string name="local_backup_password_toast_validation_failure">تعذّر تعيين كلمة مرور احتياطية</string>
+    <string name="local_backup_password_toast_success">تم ضبط كلمة مرور احتياطية جديدة</string>
+    <string name="local_backup_password_toast_validation_failure">تعذّر ضبط كلمة مرور احتياطية</string>
     <string name="long_traces">آثار الأنشطة طويلة المدة</string>
     <string name="long_traces_summary">يتم الحفظ في مساحة تخزين الجهاز دائمًا</string>
     <string name="managed_user_title">كل تطبيقات العمل</string>
@@ -383,7 +382,7 @@
     <string name="mobile_data_always_on">بيانات الجوّال نشطة دائمًا</string>
     <string name="mobile_data_always_on_summary">‏اجعل بيانات الجوّال نشطة دائمًا، حتى عندما يكون اتصال Wi‑Fi نشطًا (لتبديل الشبكة بسرعة).</string>
     <string name="mock_location_app">اختيار تطبيق الموقع الزائف</string>
-    <string name="mock_location_app_not_set">لم يتم تعيين تطبيق موقع زائف</string>
+    <string name="mock_location_app_not_set">لم يتم ضبط تطبيق موقع زائف</string>
     <string name="mock_location_app_set">تطبيق الموقع الزائف: %1$s</string>
     <string name="mr_button_content_description">زر الإرسال</string>
     <string name="mr_cast_button_connected">زر الإرسال. تم الاتصال</string>
@@ -482,8 +481,8 @@
     <string name="select_logpersist_title">تخزين بيانات المسجِّل باستمرار على الجهاز</string>
     <string name="select_private_dns_configuration_dialog_title">اختيار وضع \"نظام أسماء النطاقات الخاص\"</string>
     <string name="select_private_dns_configuration_title">نظام أسماء النطاقات الخاص</string>
-    <string name="select_usb_configuration_dialog_title">‏حدد تهيئة USB</string>
-    <string name="select_usb_configuration_title">‏حدد تهيئة USB</string>
+    <string name="select_usb_configuration_dialog_title">‏حدد إعداد USB</string>
+    <string name="select_usb_configuration_title">‏حدد إعداد USB</string>
     <string name="select_webview_provider_dialog_title">‏تعيين تطبيق WebView</string>
     <string name="select_webview_provider_title">‏تطبيق WebView</string>
     <string name="select_webview_provider_toast_text">لم يعد هذا الاختيار صالحًا. أعد المحاولة.</string>
@@ -628,10 +627,11 @@
     <string name="wifi_cant_connect">تعذَّر الاتصال</string>
     <string name="wifi_cant_connect_to_ap">"تعذَّر الاتصال بـ '%1$s'"</string>
     <string name="wifi_check_password_try_again">يُرجى التحقق من كلمة المرور وإعادة المحاولة</string>
+    <string name="wifi_connected_low_quality">جودة منخفضة</string>
     <string name="wifi_connected_no_internet">لا يتوفر اتصال إنترنت.</string>
     <string name="wifi_disabled_by_recommendation_provider">الجهاز غير متصل بسبب انخفاض جودة الشبكة</string>
     <string name="wifi_disabled_generic">غير مفعّلة</string>
-    <string name="wifi_disabled_network_failure">‏تعذّرت تهيئة عنوان IP</string>
+    <string name="wifi_disabled_network_failure">‏تعذّر إعداد عنوان IP</string>
     <string name="wifi_disabled_password_failure">حدثت مشكلة في المصادقة</string>
     <string name="wifi_disabled_wifi_failure">‏تعذّر اتصال WiFi</string>
     <string name="wifi_disconnected">غير متصلة</string>
