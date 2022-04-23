@@ -58,7 +58,6 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -349,7 +348,6 @@
     <string name="size_peta_byte">بنتابايت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
