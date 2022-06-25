@@ -496,6 +496,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -557,6 +558,7 @@
     <string name="note_sort_way">ترتيب</string>
     <string name="notealert_enter">فتح ملاحظة</string>
     <string name="notealert_ok">تجاهل</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">الملاحظات هو أحد تطبيقات النظام. لن تتمكن من استخدامه بعد إلغاء تثبيته.</string>
     <string name="notes_description_title">إلغاء تثبيت الملاحظات؟</string>
     <string name="notification_content_add_todo_from_other_app">لقد أضفت مهمة جديدة. انقر للعرض.</string>
@@ -946,6 +948,7 @@
     <string name="view_all_notes">عرض الكل</string>
     <string name="warn_cannot_add_new_bullet">لا يمكنك إضافة قائمة نقطية أخرى. الملاحظة طويلة جدًا.</string>
     <string name="warn_cannot_add_new_checkbox">لا يمكنك إضافة مربع اختيار آخر. الملاحظة طويلة جدًا.</string>
+    <string name="warn_cannot_add_new_content">لا يمكنك إضافة محتوى جديد. الملاحظة طويلة جدًا.</string>
     <string name="warn_cannot_add_new_doodle">لا يمكن إضافة المزيد من الرسومات. الملاحظة طويلة جدًا.</string>
     <string name="warn_cannot_add_new_element">لا يمكنك إضافة خانة اختيار أخرى. الملاحظة طويلة جدًا.</string>
     <string name="warn_cannot_add_new_link_card">لا يمكن إضافة المزيد من الروابط. الملاحظة طويلة جدًا.</string>
@@ -972,6 +975,8 @@
     <string name="widget_size_item_big">كبير</string>
     <string name="widget_size_item_medium">متوسط</string>
     <string name="widget_size_item_small">صغير</string>
+    <string name="widget_size_item_super_big">كبير جداً</string>
+    <string name="widget_size_not_support">الأدوات بهذا الحجم غير مدعومة على هذا الجهاز</string>
     <string name="widget_take_notes_title">الملاحظات</string>
     <string name="yesterday">أمس</string>
 </resources>

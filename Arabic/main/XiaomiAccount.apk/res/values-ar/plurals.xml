@@ -72,6 +72,14 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">تم العثور على %d نتيجة</item>
+        <item quantity="zero">تم العثور على %d نتيجة</item>
+        <item quantity="one">تم العثور على %d نتيجة</item>
+        <item quantity="two">تم العثور على %d نتائج</item>
+        <item quantity="few">تم العثور على %d نتائج</item>
+        <item quantity="many">تم العثور على %d نتيجة</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>

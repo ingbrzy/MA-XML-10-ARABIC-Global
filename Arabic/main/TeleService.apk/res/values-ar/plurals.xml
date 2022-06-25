@@ -206,6 +206,14 @@
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>
         <item quantity="zero">منذ %d دق</item>
@@ -227,5 +235,13 @@
 %d محاولات متبقية."</item>
         <item quantity="many">"
 %d محاولة متبقية."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="zero">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="two">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="few">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="many">‏عدد الأجهزة المتصلة ‎%1$d</item>
     </plurals>
 </resources>

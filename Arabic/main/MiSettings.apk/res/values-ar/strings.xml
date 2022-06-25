@@ -278,10 +278,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -652,6 +652,7 @@
     <string name="time_picker_dialog_title">ضبط الوقت</string>
     <string name="time_picker_label_hour">س</string>
     <string name="time_picker_label_minute">دق</string>
+    <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">الوضع البسيط</string>
     <string name="title_mix_match_sound">Nature mix</string>
     <string name="title_mix_match_tips">Tap animals to listen to demos. You can add up to 5 animals to the mix.</string>
@@ -856,7 +857,7 @@
     <string name="usage_state_go_more">المزيد من التطبيقات</string>
     <string name="usage_state_holiday_day_hour_minute">أيام العطلة: %1$s %2$s</string>
     <string name="usage_state_holiday_time">أيام العطلة: %s</string>
-    <string name="usage_state_hour_minute">%1$dس و %2$dدق</string>
+    <string name="usage_state_hour_minute">%1$d س و %2$d دق</string>
     <string name="usage_state_less_one_minute">&lt; ١ دقيقة</string>
     <string name="usage_state_monday">الإثنين</string>
     <string name="usage_state_mourth_day">مدة استخدام الجهاز في %s</string>
@@ -945,7 +946,7 @@
     <string name="usagestats_device_notification_des_over">لقد وصلت للحد الأقصى لمدة استخدام الجهاز لليوم.</string>
     <string name="usagestats_device_notification_des_reset">الحد اليومي: %1$s | %2$s متبقي</string>
     <string name="usagestats_device_notification_title">منبه مدة استخدام الجهاز</string>
-    <string name="usagestats_device_timeout_des">انت تستخدم جهازك منذ %1$dس و%2$dدق. خذ قسط من الراحة!</string>
+    <string name="usagestats_device_timeout_des">انت تستخدم جهازك منذ %1$d س و%2$d دق. خذ قسط من الراحة!</string>
     <string name="usagestats_device_timeout_negative">تذكير بعد ساعة</string>
     <string name="usagestats_device_timeout_positive">فهمت</string>
     <string name="usagestats_device_timeout_title">منبه مدة استخدام الجهاز</string>

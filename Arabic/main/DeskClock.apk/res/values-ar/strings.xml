@@ -36,6 +36,7 @@
     <string name="add_alarm">إضافة منبه</string>
     <string name="add_clock">إضافة ساعة</string>
     <string name="add_common_timer">إضافة مؤقت</string>
+    <string name="add_new_sound">إضافة نغمة رنين</string>
     <string name="add_timer">مؤقت متكرر</string>
     <string name="add_timer_dialog_title">إضافة مؤقت</string>
     <string name="add_timezone_title">إضافة منطقة زمنية</string>
@@ -64,6 +65,7 @@
     <string name="alarmclock_empty_text">لا توجد أي تنبيهات</string>
     <string name="alarmclock_silent_hint">المنبه صامت</string>
     <string name="alert">نغمة الرنين</string>
+    <string name="alert_page_desc">اضغط مطولا على الشاشة ثم اسحبها لأعلى لإيقاف تشغيل المنبه</string>
     <string name="alert_ringtone">نغمة المنبه</string>
     <string name="alert_vibrate_enable_summary">الاهتزاز عند رنين المنبه</string>
     <string name="alert_volume">مستوى صوت نغمة الرنين</string>
@@ -125,6 +127,7 @@
     <string name="common_timer_selector">حدد المؤقت</string>
     <string name="confirm">تأكيد</string>
     <string name="confirm_abort">تجاهل</string>
+    <string name="confirm_remove_custom_ringtone">سيؤدي إزالة نغمة الرنين هذه إلى استبدالها بنغمة الرنين الافتراضية على جميع التنبيهات والمؤقتات المستخدمة. هل مازلت ترغب في المتابعة؟</string>
     <string name="content_desc_keep_screen">زر \"إبقاء الشاشة نشطة\"</string>
     <string name="continue_operation">متابعة</string>
     <string name="continue_step">التالي</string>
@@ -132,6 +135,7 @@
     <string name="control_set_alarm_with_existing">تم ضبط المنبه: %s</string>
     <string name="copy">نسخ</string>
     <string name="current_stopwatch_time">الوقت الحالي</string>
+    <string name="custom_ringtone_lost_permissions">لا يمكن الوصول إلى لهذا الصوت.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -147,6 +151,7 @@
     <string name="delete_timer_item_title">حذف المؤقت</string>
     <string name="delete_timezone_title">حذف المنطقة الزمنية</string>
     <string name="deskclock_sleep_no_disturbance">الساعة - إدارة وقت النوم - وضع عدم الإزعاج</string>
+    <string name="device_sounds">أصوات الجهاز</string>
     <string name="dialog_confirm_abort">تجاهل التغييرات؟</string>
     <string name="dialog_legal_off_day">&lt;Data>يبدو أنك تستخدم تنبيهات أيام العطل. ستحتاج هذه الميزة إلى الاتصال بالانترنت لتعمل بشكل طبيعي. يجب عليك قبل استخدام هذه الميزة قبول &lt;a href=\"%1$s\">اتفاقية المستخدم&lt;/a> و &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>لدينا. هل توافق؟&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">لا يُسمح للساعة بالاتصال بالإنترنت ليتم تحديث معلومات العطل. سترن تنبيهات أيام العطل في يوم السبت والأحد.</string>
@@ -498,6 +503,7 @@
     <string name="shutdown_alarm_enable_summary">سيرن المنبه إذا تم ضبطة ١٠ دقائق على الأقل بعد إطفاء الجهاز</string>
     <string name="shutdown_alarm_title">إغلاق المنبه</string>
     <string name="silent_alarm_summary">صامت</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">إيقاف لمرة واحدة في %s</string>
     <string name="sleep_analysis">الإحصائيات</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -543,6 +549,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">لا توجد أي دورة</string>
     <string name="stopwatch_reset_notification">تم إعادة تعيين ساعة الإيقاف</string>
     <string name="stopwatch_running_notification">ساعة الإيقاف</string>
@@ -551,6 +558,7 @@
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">اسمح لهذا التطبيق بالاتصال بالإنترنت للوصول إلى جميع ميزاته.</string>
     <string name="system_permission_main_purpose">عرض الوقت وضبط التنبيهات والمؤقتات باستخدام ساعة الإيقاف</string>
     <string name="system_permission_purpose">إنشاء تنبيهات أيام الأسبوع وإعداد نغمات مخصصة</string>
@@ -666,6 +674,7 @@
     <string name="tv_blank_list_show_text">لا شيء هنا حتى الآن. ابحث عن موقع لإضافته إلى ساعتك العالمية.</string>
     <string name="tv_world_clock_edit_title1">الموقع الظاهر على الشاشة الرئيسية</string>
     <string name="tv_world_clock_edit_title2">المواقع المضافة مسبقا</string>
+    <string name="unknown_ringtone_title">غير معروف</string>
     <string name="unselect_all">إلغاء تحديد الكل</string>
     <string name="upcoming_alarm">المنبه التالي: %s</string>
     <string name="upcoming_alarm_hint">يمكنك إيقاف تشغيل هذا المنبه الآن</string>
@@ -698,6 +707,8 @@
     <string name="week_ringtone_recommend_desc">يقوم منبه الطبيعة بتشغيل أصوات مختلفة من الطبيعة على حسب التاريخ المحدد. هل ترغب في تعيينه كنغمة رنين المنبه الافتراضي؟</string>
     <string name="white_noise">الضوضاء المحيطة</string>
     <string name="white_noise_guide_desc">أضف صوت في الخلفية للحفاظ على تركيزك</string>
+    <string name="white_noise_not_selected">غير محدد</string>
+    <string name="white_noise_selected">محدد</string>
     <string name="white_noise_selector">حدد الملف الصوتي</string>
     <string name="workday_alarm_clock">منبه يوم عمل</string>
     <string name="worldclock_edit_label">الساعة العالمية</string>
@@ -721,4 +732,5 @@
     <string name="worldcolock_timezone_local">نفس التوقيت المحلي</string>
     <string name="xiaoai_ringtone_title">نغمات رنين Mi AI</string>
     <string name="yesterday">أمس</string>
+    <string name="your_sounds">أصواتي</string>
 </resources>

@@ -463,7 +463,7 @@
     <string name="network_confirm_content">يحتاج محول العملة والآلات الحاسبة للضرائب والرهن إلى الاتصال بالإنترنت والدخول إلى خدمات الموقع للعمل بشكل طبيعي.</string>
     <string name="network_confirm_title">يتطلب أذونات</string>
     <string name="network_purpose">مرحبا بك في الحاسبة! تتيح لك الحاسبة تحويل العملات وحساب سداد الرهن العقاري والمزيد.</string>
-    <string name="new_privacy_string">&lt;Data>مرحبا بك في الآلة الحاسبة&lt;br/>يحتوي هذا التطبيق على الميزات التالية:&lt;br/>• الحاسبة الأساسية&lt;br/>• الحاسبة العلمية&lt;br/>• المحول العالمي (مثل تحويل العملات ووحدات القياس)&lt;br/>• قوالب الحساب للقروض والاستثمارات والأقساط الشهرية والمزيد.&lt;br/>تحتاج الآلة الحاسبة إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href= \"%1$s\">سياسة الخصوصية&lt;/a>. يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%3$s\">سياسة الخصوصية&lt;/a> قبل استخدام الآلة الحاسبة. يمكنك سحب الموافقة على سياسة خصوصية الآلة الحاسبة في أي وقت من الإعدادات. إذا كنت لا توافق على سياسة الخصوصية الخاصة بنا، فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
+    <string name="new_privacy_string">&lt;Data>مرحبا بك في الآلة الحاسبة&lt;br/>يحتوي هذا التطبيق على الميزات التالية:&lt;br/>• الحاسبة الأساسية&lt;br/>• الحاسبة العلمية&lt;br/>• المحول العالمي (مثل تحويل العملات ووحدات القياس)&lt;br/>• قوالب الحساب للقروض والاستثمارات والأقساط الشهرية والمزيد.&lt;br/>يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%3$s\">سياسة الخصوصية&lt;/a> قبل استخدام الآلة الحاسبة. يمكنك سحب الموافقة على سياسة خصوصية الآلة الحاسبة في أي وقت من الإعدادات. إذا كنت لا توافق على سياسة الخصوصية الخاصة بنا، فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="night">المساء</string>
     <string name="none">لا يوجد</string>
     <string name="noon">الظهر</string>
@@ -602,6 +602,7 @@
     <string name="tax_total_insurance_provident_fund">التأمين وصندوق الإسكان</string>
     <string name="tax_unemployment">البطالة</string>
     <string name="tax_update_time_format">البيانات مقدمة من طرف HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s و %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
     <string name="the_arbor_day">يوم الشجرة</string>
@@ -695,6 +696,7 @@
     <string name="unit_data_display_currency_btn">نغولتروم بوتاني</string>
     <string name="unit_data_display_currency_bwp">بولا بوتسوانية</string>
     <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دولار كندي</string>
     <string name="unit_data_display_currency_cdf">فرنك كنغولي</string>
     <string name="unit_data_display_currency_chf">فرنك سويسري</string>
@@ -1037,12 +1039,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s بايت</string>
     <string name="xiaomi_calculator_delete_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إلغاء تثبيته.</string>
     <string name="xiaomi_calculator_delete_title">هل ترغب في إلغاء تثبيت الآلة الحاسبة؟</string>
     <string name="xiaomi_calculator_remove_icon_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إزالة اختصارة من الشاشة الرئيسية.</string>
     <string name="xiaomi_calculator_remove_icon_title">هل ترغب في إزالة تطبيق \"الآلة الحاسبة\" من الشاشة الرئيسية؟</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s كيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$s ميجابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

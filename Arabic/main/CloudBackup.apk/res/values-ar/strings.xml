@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="about_to_recover">لحظة من فضلك…</string>
+    <string name="access_denied_info">محاولات كثيرة. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="actionbar_button_up_description">رجوع</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
@@ -364,6 +365,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">إذا تابعت استعادة هذه العناصر، فسيتم استخدام بيانات الهاتف للتنزيل.</string>
     <string name="msg_restore_with_metered_network_pattern">"سيتم تنزيل &lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> من الملفات."</string>
     <string name="network_error">الاتصال بالشبكة</string>
+    <string name="network_error_info">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="network_timeout_info">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="night">المساء</string>
     <string name="no_account">لم تقم بتسجيل الدخول إلى حساب Mi.</string>
     <string name="no_backup">لا توجد نُسخ احتياطية في Xiaomi Cloud.</string>
@@ -374,10 +377,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">لا يمكن استعادة العناصر في وضع الكمبيوتر. قم بإيقاف وضع الكمبيوتر وحاول مرة أخرى.</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="process_whole_recovery">الاستعادة \"%s\"</string>
+    <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="provision_back">رجوع</string>
     <string name="provision_background_restore_more_data">إستعادة المزيد من العناصر في الخلفية</string>
     <string name="provision_error_connect_msg">الرجاء التحقق من الشبكة وإعادة المحاولة. النسخ الاحتياطي غير متوفر عندما يكون جهازك غير متصل.</string>
@@ -457,6 +463,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="system_error_info">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
     <string name="the_arbor_day">يوم الشجرة</string>
@@ -514,6 +521,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>
+    <string name="unknown_error_info">خطأ غير معروف</string>
     <string name="unselected">غير محدد</string>
     <string name="unsupported_home">تحديث MIUI إلى أحدث إصدار.</string>
     <string name="v7_preference_off">إيقاف</string>

@@ -148,10 +148,10 @@ dd/MM"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -167,6 +167,7 @@ dd/MM"</string>
     <string name="midnight">الليل</string>
     <string name="mini_time">ساعة صغيرة</string>
     <string name="minimalist_clock">ساعة بسيطة</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
@@ -270,7 +271,7 @@ dd/MM"</string>
     <string name="select_notification_notify_style">حدد تأثير الإشعار</string>
     <string name="send">مشاركة</string>
     <string name="share">مشاركة</string>
-    <string name="share_to_community">مشاركة إلى مجتمع تواصل Mi</string>
+    <string name="share_to_community">مشاركة إلى Xiaomi Community</string>
     <string name="show_battery">عرض حالة البطارية</string>
     <string name="show_battery_status">عرض حالة البطارية</string>
     <string name="show_lunar">عرض التقويم الصيني التقليدي</string>
@@ -283,10 +284,11 @@ dd/MM"</string>
 رائعا على وشك الحدوث"</string>
     <string name="standard_clock_panel">قياسي</string>
     <string name="standard_style">قياسية</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. يرجى الموافقة على شروط وأحكام Xiaomi Health للمتابعة.</string>
     <string name="step_component_info_desc">سيتغير رمز عدد الخطوات إلى كأس عند تحقيق الهدف المطلوب. هذه البيانات مقدمة من Xiaomi Health.</string>
     <string name="step_component_info_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. قم بتثبيت Xiaomi Health والموافقة على الشروط والأحكام للمتابعة</string>
-    <string name="step_to_image_community">اعثر على المزيد في مجتمع تواصل Mi</string>
+    <string name="step_to_image_community">اعثر على المزيد في Xiaomi Community</string>
     <string name="summary">لتقليل استهلاك الطاقة، لن يتم عرض العناصر عندما يكون جهازك في الظلام لفترة طويلة.</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
@@ -338,6 +340,7 @@ dd/MM"</string>
     <string name="the_united_nations_day">يوم الأمم المتحدة</string>
     <string name="the_valentines_day">عيد الحب</string>
     <string name="the_water_lantern_festival">مهرجان المصابيح</string>
+    <string name="theme_manager_other">مزيد من العناصر</string>
     <string name="thursday">الخميس</string>
     <string name="thursday_short">الخميس</string>
     <string name="thursday_shortest">الخميس</string>

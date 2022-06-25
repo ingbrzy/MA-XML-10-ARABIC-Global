@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">إضافة العبارات المتكررة</string>
+    <string name="edit_frequent_phrases">تعديل العبارات المتكررة</string>
+    <string name="frequent_phrases">العبارات المتكررة</string>
+    <string name="query">بحث</string>
+    <string name="select">تحديد</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

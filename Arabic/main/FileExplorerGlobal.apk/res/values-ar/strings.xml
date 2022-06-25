@@ -37,6 +37,7 @@
     <string name="add_private_files">إضافة ملفات</string>
     <string name="add_remote">إضافة جهاز ريموت</string>
     <string name="agree_all">لقد قرأت ووافقت على جميع البنود والشروط.</string>
+    <string name="agree_privacy_policy">الموافقة على سياسة الخصوصية</string>
     <string name="all">الكل</string>
     <string name="already_latest_version">الإصدار الحالي مُحدث.</string>
     <string name="anonymous">مجهول</string>
@@ -207,6 +208,7 @@
     <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="feedback_desc">صف المشكلة التي واجهتها</string>
     <string name="feedback_send_email_body_extra_info">لا تحذف المعلومات التالية. سوف يساعدنا ذلك على إيجاد المشكلة.</string>
+    <string name="feeling_ok">جيد</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">للقراءة: </string>
     <string name="file_info_canwrite">للكتابة: </string>
@@ -232,6 +234,7 @@
     <string name="ftp_username_hint">اسم المستخدم</string>
     <string name="gbk_summary">نظام الترميز الافتراضي باللغة الصينية المبسطة في نظام تشغيل Windows</string>
     <string name="gigabyteShort">جيجابايت</string>
+    <string name="great">راضي جدا</string>
     <string name="grid_order">عرض شبكة</string>
     <string name="homepage_tab_recent">الحديثة</string>
     <string name="host">المضيف</string>
@@ -307,6 +310,7 @@
     <string name="not_connect_user">لا يمكن الاتصال: %1$s و%2$s</string>
     <string name="not_installed_documentsui">DocumentsUI غير مثبت</string>
     <string name="not_support_documentui">DocumentUI غير مدعوم على هذا الجهاز</string>
+    <string name="not_very_dissatisfied">سيئ</string>
     <string name="notif_server_starting">جارٍ بدء خادم FTP‏…</string>
     <string name="notif_title">خادم FTP قيد التشغيل</string>
     <string name="notification_wechat_expired_empty">قام Wechat بحذف مقاطع الفيديو هذه مسبقا.</string>
@@ -436,9 +440,10 @@
     <string name="s2">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
     <string name="s3">قبول</string>
     <string name="s4">رفض</string>
-    <string name="s5">إنشاء حدث في التقويم</string>
-    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث في التقويم؟</string>
+    <string name="s5">إنشاء حدث تقويم</string>
+    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
+    <string name="satisfied">راضي</string>
     <string name="save_seven_day">تنظيف مرة واحدة في الأسبوع</string>
     <string name="scan_code_download_from_play">امسح رمز QR هذا للتنزيل من متجر Play</string>
     <string name="search_description">البحث عن كل الملفات في الجهاز</string>
@@ -494,6 +499,8 @@
     <string name="storage_usb">وحدة تخزين USB</string>
     <string name="storage_warning">لا يمكن استخدام وحدة التخزين الخارجية</string>
     <string name="str_clean">حذف</string>
+    <string name="switch_to_grid_mode">التبديل إلى عرض الشبكة</string>
+    <string name="switch_to_list_mode">التبديل إلى عرض القائمة</string>
     <string name="tab_common_app">التطبيقات والمجلدات</string>
     <string name="tab_more">المزيد</string>
     <string name="terabyteShort">تيرابايت</string>
@@ -528,6 +535,7 @@
     <string name="user_notice_term_of_service">اتفاقية المستخدم</string>
     <string name="utf8_summary">نظام الترميز الافتراضي FTP</string>
     <string name="version_name">الإصدار</string>
+    <string name="very_dissatisfied">سيئ جدا</string>
     <string name="view_by_document">عرض في الملفات</string>
     <string name="wechat_video">فيديو في %s</string>
     <string name="whatsapp_cache_garbage">الذاكرة المؤقتة</string>

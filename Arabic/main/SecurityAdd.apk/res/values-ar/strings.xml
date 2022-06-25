@@ -58,6 +58,7 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -139,10 +140,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -155,7 +156,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
-    <string name="game_booster">مسرّع الألعاب</string>
+    <string name="game_booster">مسرع الألعاب</string>
     <string name="gamebooster_network_dialog_message">السماح للحماية بالاتصال بالشبكة من أجل استخدام جميع ميزات مسرع الألعاب؟</string>
     <string name="gamebooster_network_dialog_message_pad">السماح للحماية بالاتصال بالشبكة من أجل استخدام جميع ميزات مسرع الألعاب؟</string>
     <string name="gamebooster_network_dialog_title">بعض الميزات ليست متاحة</string>
@@ -241,9 +242,9 @@
     <string name="gb_webwindow_schemedialog_title">هل ترغب في فتح الألعاب الآن؟</string>
     <string name="gb_weixinpay_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الهاتف، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام محسن لعبة Xunyou. ستجمع هذه الخدمة معرف حساب Xiaomi الخاص بك لتسجيل مدة عضويتك.</string>
-    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> محسن لعبة Xunyou.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_title">محسن لعبة Xunyou</string>
+    <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام مسرع الألعاب Xunyou. ستجمع هذه الخدمة معرف معرف حسابك Mi لتسجيل مدة عضويتك.</string>
+    <string name="gtb_dialog_privacy_speed_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مسرع الألعاب Xunyou.&lt;/Data></string>
+    <string name="gtb_dialog_privacy_speed_title">مسرع الألعاب Xunyou</string>
     <string name="hybrid_provider">مدعوم بواسطة %1$s</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">ظروف حمراء</string>
@@ -348,6 +349,7 @@
     <string name="size_peta_byte">بنتابايت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>

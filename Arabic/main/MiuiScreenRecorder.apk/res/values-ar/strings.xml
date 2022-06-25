@@ -141,6 +141,7 @@
     <string name="hint_volume_down">خفض مستوى الصوت</string>
     <string name="hint_volume_up">رفع مستوى الصوت</string>
     <string name="home_title_none">تحديد العناصر</string>
+    <string name="invisible_mode_error_tip">أنت في وضع التصفح المتخفي. لايمكن تسجيل الصوت.</string>
     <string name="is_checked">محددة</string>
     <string name="is_go_home">الرجوع الى مسجل الشاشة</string>
     <string name="is_go_home_summary">فتح صفحة البداية لمسجل الشاشة بعد إيقاف التسجيل</string>

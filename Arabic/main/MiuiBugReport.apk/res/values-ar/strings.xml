@@ -697,7 +697,7 @@
     <string name="system_app_select">التطبيقات الافتراضية</string>
     <string name="system_error_info">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="tab_title_chat">الأسئلة الشائعة</string>
-    <string name="tab_title_my_reports">تقاريري</string>
+    <string name="tab_title_my_reports">تعليقاتي</string>
     <string name="tab_title_preferences">الإعدادات</string>
     <string name="tab_title_report">التعليقات</string>
     <string name="temporary_not_available">لم تتوفر هذه الميزة بعد</string>

@@ -920,6 +920,7 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">إنشاء</string>
     <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
     <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
@@ -972,6 +973,8 @@
     <string name="cmcc_app_check_dialog_negative">لاحقا</string>
     <string name="cmcc_app_check_dialog_positive">إعادة التشغيل الآن</string>
     <string name="cmcc_app_check_dialog_title">تم إعادة إصلاح النظام</string>
+    <string name="columbus_ad_flag_text">إعلان</string>
+    <string name="columbus_skip_ad">تخطي</string>
     <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
     <string name="confirmSecondSpacePassword">تأكيد كلمة مرور الواجهة الثانية</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
@@ -1180,6 +1183,7 @@
     <string name="dual_setting_simcard1">1 SIM</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">فجر</string>
+    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty" />
     <string name="empty_app">لا توجد تطبيقات</string>
@@ -1254,7 +1258,9 @@
     <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -1508,6 +1514,7 @@
     <string name="gamebox_app_not_find">ثبت التطبيق أولا.</string>
     <string name="gamebox_brightness">السطوع</string>
     <string name="gamebox_browser_not_find">قم بتثبيت متصفح Mi أولاً</string>
+    <string name="gamebox_bullet_chat">تعليقات على الشاشة</string>
     <string name="gamebox_collimator">سكوب</string>
     <string name="gamebox_display_1">بدون</string>
     <string name="gamebox_display_2">مشبع</string>
@@ -1609,6 +1616,10 @@
     <string name="gb_dialog_record_way_ai">يتم حفظ تسجيلات AI في صندوق الألعاب وتخزينها هناك لمدة ٧ أيام.</string>
     <string name="gb_dialog_record_way_finish">تم</string>
     <string name="gb_dialog_record_way_manual">سجل مايصل إلى ٣٠ ثانية يدويًا</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">يمكنك التسجيل يدويا %d-%d ثانية من الفيديو أثناء اللعب.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">زيادة استهلاك البطارية وبطىء الجهاز</string>
+    <string name="gb_dialog_record_way_setting_tip_title">قد تسبب هذه الميزة المشاكل التالية:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">تعارض مع تطبيق تسجيل شاشة آخر</string>
     <string name="gb_dialog_record_way_setting_tips">ملاحظة: يتطلب تسجيل جلسات اللعب استهلاك عالي للطاقة مما قد يؤدي إلى تباطؤ الجهاز.</string>
     <string name="gb_dialog_record_way_title">حدد طريقة التسجيل</string>
     <string name="gb_first_guide_function_shiled_title">إيقاف تشغيل ميزات النظام أثناء تشغيل مسرع الألعاب</string>
@@ -1637,6 +1648,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_page_null">تسجيل اللحظات المميزة لجلسات الألعاب الخاصة بك</string>
     <string name="gb_game_video_record_finish_tips">تم حفظ الفيديو المسجل يدويا إلى مسرع الألعاب</string>
     <string name="gb_game_video_save">حفظ</string>
+    <string name="gb_game_video_save_tip">تم الحفظ بنجاح</string>
     <string name="gb_game_video_type_ai">AI K</string>
     <string name="gb_game_video_type_ai_record">التسجيل بإستخدام AI</string>
     <string name="gb_game_video_type_manual">يدوي</string>
@@ -1649,6 +1661,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_gpu_driver_update_app_tips">الإصدار الحالي محدث</string>
     <string name="gb_have_signed">عدد تسجيلات الدخول لليوم</string>
     <string name="gb_manual_record_dialog_del_video_message">حذف الفيديوهات المحددة بشكل دائم؟</string>
+    <string name="gb_manual_video_record_title">التسجيلات</string>
     <string name="gb_msg_completely_shielded">إخفاء الرسائل</string>
     <string name="gb_msg_completely_shielded_summary">مخفي</string>
     <string name="gb_msg_not_shielded_summary">عرض</string>
@@ -1668,26 +1681,39 @@ Record sequences and use them anytime!"</string>
     <string name="gb_performance_tips">"على الرغم من أن وضع الأداء يحسن من أداء الرسومات،
 إلا أنه يزيد أيضا من استهلاك الطاقة وقد يتسبب في ارتفاع درجة حرارة الجهاز"</string>
     <string name="gb_shortcut_pref_title">إختصار الشاشة الرئيسية</string>
-    <string name="gb_shoulder_key">الأزرار العلوية</string>
+    <string name="gb_shoulder_guide_message1">حرك الزر الافتراضي [L] لأي موضع وظيفي في اللعبة وشغله عبر الأزرار الميكانيكية.</string>
+    <string name="gb_shoulder_guide_message2">يتم التشغيل الكامل [1] بالضغط على الزر. يتم التشغيل الجزئي [2] بتحرير الزر.</string>
+    <string name="gb_shoulder_guide_tips1">قم بفتح صندوق الأدوات وتعيين الأزرار الميكانيكية</string>
+    <string name="gb_shoulder_guide_title1">تشغيل كامل</string>
+    <string name="gb_shoulder_guide_title2">تشغيل جزئي</string>
+    <string name="gb_shoulder_key">الأزرار الميكانيكية</string>
     <string name="gb_shoulder_key_add_show_btn">إظهار الأزرار الافتراضية أثناء اللعب</string>
-    <string name="gb_shoulder_key_add_tips">حرك زر [L] وزر [R] لموضع التشغيل المناسب لك لإكمال التكوين</string>
+    <string name="gb_shoulder_key_add_tips">حرك زر [L] وزر [R] لأي موضع وظيفي في اللعبة وشغلهم عبر الأزرار الميكانيكية.</string>
     <string name="gb_shoulder_key_btn_cancel">إلغاء</string>
     <string name="gb_shoulder_key_btn_save_exit">حفظ</string>
     <string name="gb_shoulder_key_dialog_message">يمكنك استخدام الأزرار العلوية معا لتشغيل مسرع الألعاب عندما لا تلعب اللعبة</string>
-    <string name="gb_shoulder_key_dialog_txt">يمكنك استخدام الأزرار العلوية لتشغيل مسرع الألعاب.</string>
+    <string name="gb_shoulder_key_dialog_txt">يمكنك استخدام الأزرار الميكانيكية لتشغيل مسرع الألعاب.</string>
     <string name="gb_shoulder_key_guide_btn_done">حسنا</string>
     <string name="gb_shoulder_key_guide_btn_next">التالي</string>
-    <string name="gb_shoulder_key_guide_tips">قم بتعيين الأزرار العلوية للعب كمحترف!</string>
-    <string name="gb_shoulder_key_guide_tips1">قم بفتح صندوق الأدوات وتعيين الأزرار العلوية</string>
+    <string name="gb_shoulder_key_guide_tips">قم بتعيين الأزرار الميكانيكية للعب كمحترف!</string>
+    <string name="gb_shoulder_key_guide_tips1">قم بفتح صندوق الأدوات وتعيين الأزرار الميكانيكية</string>
     <string name="gb_shoulder_key_light_effect">الرسوم المتحركة الملونة</string>
     <string name="gb_shoulder_key_light_effect_color">اللون</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">سترى رسوم متحركة ملونة إذا كنت تلعب اللعبة باستخدام الأزرار العلوية</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">سترى رسوم متحركة ملونة إذا كنت تلعب اللعبة باستخدام الأزرار الميكانيكية</string>
     <string name="gb_shoulder_key_light_effect_title">الرسوم المتحركة</string>
     <string name="gb_shoulder_key_settings_guide_tips1">حرك زر [L] وزر [R] لموضع التشغيل المناسب لك لإكمال التكوين</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">خصص للأزرار العلوية بعض الوظائف التي قد تكون مفيدة لك أثناء اللعب</string>
-    <string name="gb_shoulder_key_settings_summary">استخدم الأزرار العلوية معا لتشغيل مسرع الألعاب عندما لا تلعب اللعبة</string>
-    <string name="gb_shoulder_key_settings_title">استخدم الأزرار العلوية لمسرع الألعاب</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">خصص للأزرار الميكانيكية بعض الوظائف التي قد تكون مفيدة لك أثناء اللعب</string>
+    <string name="gb_shoulder_key_settings_summary">استخدم الأزرار الميكانيكية معا لتشغيل مسرع الألعاب عندما لا تلعب اللعبة</string>
+    <string name="gb_shoulder_key_settings_title">استخدم الأزرار الميكانيكية لمسرع الألعاب</string>
     <string name="gb_shoulder_key_settings_title_new">تشغيل سريع لمسرع الألعاب</string>
+    <string name="gb_shoulder_set_left_right">تعيين زر [%s]</string>
+    <string name="gb_shoulder_set_title">قم بتشغيل الأزرار الميكانيكية لتتمكن من إعادة ضبطها</string>
+    <string name="gb_shoulder_set_title2">حرك الزر الافتراضي [%s] لأي موضع وظيفي في اللعبة وشغله عبر الأزرار الميكانيكية.</string>
+    <string name="gb_shoulder_single_trigger">تشغيل كامل</string>
+    <string name="gb_shoulder_subsection_down">اضغط</string>
+    <string name="gb_shoulder_subsection_trigger">تشغيل جزئي</string>
+    <string name="gb_shoulder_subsection_up">حرر</string>
+    <string name="gb_shoulder_update_left_right">تعديل %s</string>
     <string name="gb_sign_gift">قم بتسجيل الدخول لتحصل على جوائز</string>
     <string name="gb_sign_gift_button_text">استلام</string>
     <string name="gb_sign_notification_summary">ألعب الألعاب بسرعة فائقة</string>
@@ -2183,6 +2209,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">ج.ب</string>
@@ -2191,6 +2218,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_optimize_manage_1">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_ime_not_used">استخدم لوحة مفاتيح مرخصة من Xiaomi</string>
@@ -2607,7 +2635,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_notifi_action_text_on">تسريع</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">تذكير انخفاض ​​شحن البطارية</string>
     <string name="pc_fast_charge_notifi_summary">اشحن بنسبة %s أسرع من المعتاد…</string>
-    <string name="pc_fast_charge_notifi_summary_on">قد تؤدي هذه الميزة إلى سخونة الجهاز</string>
+    <string name="pc_fast_charge_notifi_summary_on">ستزداد سرعة الشحن عند إيقاف تشغيل الشاشة. سوف يسخن الجهاز.</string>
     <string name="pc_fast_charge_notifi_switch_summary">الإعلام عن زيادة سرعة الشحن عند توصيل شاحن بقوة %d واط ومستوى البطارية أقل من القيمة المحددة</string>
     <string name="pc_fast_charge_notifi_switch_title">الإشعار حول التسريع</string>
     <string name="pc_fast_charge_notifi_title">شحن %d واط</string>
@@ -2821,6 +2849,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيقوم MIUI بالتحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -3079,6 +3112,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -3329,6 +3363,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">تسجيل الصوت</string>
     <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
     <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_vpnsdkmanager_label">مسرع الألعاب</string>
     <string name="promotion">اعلان</string>
@@ -3404,6 +3439,7 @@ to join our egg hunt!"</string>
     <string name="result_sms_title_antispam">مهدد من طرف عناوين SMS خبيثة</string>
     <string name="result_sms_title_auth">يوجد خطر تسرب الرسائل (SMS) المالية</string>
     <string name="result_wifi_header">تم اكتشاف مخاطر في الـWi-Fi</string>
+    <string name="resume">استعادة</string>
     <string name="right_precent">١٠٠%</string>
     <string name="risk_app_install_agree_button">الوثوق بهذا التطبيق</string>
     <string name="risk_app_install_agree_checkbox">سأتحمل جميع المخاطر المحتملة.</string>
@@ -4428,7 +4464,7 @@ to join our egg hunt!"</string>
     <string name="vb_video_effects_3d">الصوت المحيط</string>
     <string name="vb_video_effects_3d_summary">تحسين جهير صوت التشغيل عند استخدام السماعات ومكبرات الصوت</string>
     <string name="vb_video_effects_3d_summary_headset">زيادة شعور تناغم الصوت في أذنيك والاستماع الى نغمات تحيط بك من كل صوب عند استخدام السماعات</string>
-    <string name="vb_video_effects_3d_surround">الصوت المحيط</string>
+    <string name="vb_video_effects_3d_surround">صوت غامر افتراضي</string>
     <string name="vb_video_effects_display_style">تأثيرات</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">تحسينات الحوار</string>
@@ -4456,7 +4492,7 @@ to join our egg hunt!"</string>
     <string name="vb_video_effects_settings_stereo">مستوى الصوت</string>
     <string name="vb_video_effects_some_headphone">مدعوم من طرازات سماعات مختارة</string>
     <string name="vb_video_effects_spatial">تتبع حركة الرأس</string>
-    <string name="vb_video_effects_spatial_summary">"ضبط الصوت المحيط وفقًا لحركات الرأس
+    <string name="vb_video_effects_spatial_summary">"ضبط الصوت الغامر وفقًا لحركات الرأس
 *مدعوم فقط في طرز سماعات الألعاب"</string>
     <string name="vb_video_effects_srs_premium_sound">صوت</string>
     <string name="vb_video_super_division">زيادة الدقة</string>

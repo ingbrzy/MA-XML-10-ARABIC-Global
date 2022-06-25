@@ -146,11 +146,6 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>صوت Qualcomm® aptX™ Adaptive</item>
-        <item>صوت Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
@@ -159,13 +154,6 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>صوت Qualcomm® aptX™ Adaptive</item>
-        <item>صوت Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>تمكين برامج الترميز الإختيارية</item>
-        <item>تعطيل برامج الترميز الاختيارية</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -199,8 +187,6 @@
         <item>معطل</item>
         <item>تصفية</item>
         <item>مفعل</item>
-        <item>تصفية العناوين</item>
-        <item>تصفية حزم الوسائط</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
@@ -357,6 +343,20 @@
         <item>غير ناجح</item>
         <item>محظور</item>
         <item>يتم تجنب الاتصال الضعيف مؤقتاً</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>جارٍ البحث عن الشبكات…</item>
+        <item>جارٍ الاتصال بالإنترنت…</item>
+        <item>جارٍ مصادقة الشبكة…</item>
+        <item>‏جارٍ الحصول على عنوان IP…</item>
+        <item>متصلة</item>
+        <item>معلّقة</item>
+        <item>جارٍ قطع الاتصال بالشبكة…</item>
+        <item>غير متصلة</item>
+        <item>تعذّر الاتصال بالشبكة.</item>
+        <item>محظورة</item>
+        <item>يتم مؤقتًا تجنب الاتصال الضعيف بالإنترنت</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>

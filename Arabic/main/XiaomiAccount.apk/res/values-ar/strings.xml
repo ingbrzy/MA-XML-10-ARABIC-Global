@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="about_device_info">عرض تفاصيل الجهاز</string>
     <string name="accept">سماح</string>
+    <string name="access_denied_info">محاولات كثيرة. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="access_token_expired_warning">انتهت صلاحية حساب Weibo</string>
     <string name="access_token_invalid_warning">حساب Weibo غير صالح</string>
     <string name="account">حساب</string>
@@ -95,6 +96,8 @@
     <string name="agreement_and_privacy">الأحكام والشروط</string>
     <string name="am">ص</string>
     <string name="app_name">حساب Mi</string>
+    <string name="area_code_no_search_result">تعذر العثور على نتائج</string>
+    <string name="area_code_search_hint">البحث عن دولة أو بلد</string>
     <string name="auth_fail_warning">انتهت الدورة، قم بتسجيل الدخول لاحقاً</string>
     <string name="authorize_title">ترخيص</string>
     <string name="bind_facebook">ربط حسابك بالفيسبوك</string>
@@ -292,10 +295,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -429,7 +432,10 @@
     <string name="multi_user_not_show_sync_activity_title">لا تقم بتشغيل المزامنة مع cloud</string>
     <string name="my_device_title">الجهاز الحالي</string>
     <string name="need_install_wechat">ثبت التطبيق أولا</string>
+    <string name="network_error_info">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="network_timeout_info">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="night">المساء</string>
+    <string name="no_account_or_forget_password">هل ترغب في إنشاء حساب أم نسيت كلمة المرور؟</string>
     <string name="no_install">غير مثبتة</string>
     <string name="no_network_btn">تحديث</string>
     <string name="no_network_title">لا يمكن الاتصال بالشبكة.</string>
@@ -664,7 +670,9 @@
     <string name="passport_talkback_voice_captcha">تشغيل رمز التحقق الصوتي</string>
     <string name="passport_ticket_login_select_sim_card">اختر بطاقة SIM</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">إلغاء</string>
     <string name="passport_title_reg">إنشاء حساب</string>
     <string name="passport_trust_device">إضافة هذا الجهاز الى الأجهزة التي تم التحقق منها</string>
@@ -722,6 +730,7 @@
     <string name="privacy_policy_reject_confirm_title">لا يمكن استخدام حساب Mi</string>
     <string name="privacy_policy_update_msg">تم تحديث سياسة خصوصية حساب Mi:&lt;br/>%1$s&lt;br/>يرجى قراءة والموافقة على الإصدار الجديد من &lt;a href=%2$s>&lt;u>سياسة الخصوصية&lt;/u>&lt;/a> قبل المتابعة.</string>
     <string name="privacy_policy_update_title">تحديث سياسة الخصوصية</string>
+    <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="provision_back">رجوع</string>
     <string name="provision_next">التالي</string>
     <string name="provision_skip_underline">تخطي</string>
@@ -801,6 +810,7 @@
     <string name="system_ad_summary">"قم بتشغيل هذه الميزة للسماح بعرض عدد قليل من الإعلانات في تطبيقات النظام. تساعدنا هذه الإعلانات في تطوير منتجاتنا وخدماتنا وتحسينها. يمكنك إيقاف تشغيل هذه الميزة في أي وقت. شكرًا لدعمك! "</string>
     <string name="system_ad_switch">إعلانات في تطبيقات النظام</string>
     <string name="system_ad_switch_failed">تعذّر تعيين الإعدادات</string>
+    <string name="system_error_info">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="talkback_scan_barcode">مسح رمز QR</string>
     <string name="temporary_not_available">لم تتوفر هذه الميزة بعد.</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
@@ -865,6 +875,7 @@
     <string name="two_factor_auth_need_code_summary">سترى الرمز على أجهزة Mi الأخرى المتصلة. أدخل الرمز على جهازك الجديد لتسجيل الدخول.</string>
     <string name="two_factor_auth_summary">عند محاولة تسجيل الدخول إلى جهاز أو موقع جديد، سيتم إبلاغك بذلك على الأجهزة الأخرى المتصلة. ستحتاج إلى تأكيد أن محاولة تسجيل الدخول قد حصلت على إذن منك.</string>
     <string name="unbind_sns_description">بعد إلغاء ربط هذا الحساب، لن تتمكن من استخدام معلومات حسابك على %s لتسجيل الدخول لحساب Mi.</string>
+    <string name="unknown_error_info">خطأ غير معروف</string>
     <string name="unlock_help_notice">"مساعدة:
  ١. إذا نسيت كلمة المرور، فانتقل إلى id.mi.com لإعادة تعيينها.
 ٢. إن لم تتمكن من إعادة تعيين كلمة المرور أو قام شخص ما بقفل جهازك، فانتقل إلى i.mi.com لإيقاف ذلك;.

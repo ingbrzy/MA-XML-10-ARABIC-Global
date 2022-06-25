@@ -91,6 +91,6 @@
     <string-array name="thermal_summaries">
         <item>أولوية التحكم في درجة الحرارة</item>
         <item>أولوية الأداء</item>
-        <item>الحد الأقصى لموفر البطارية غير مدعوم</item>
+        <item>موفر البطارية الأقصى غير مدعوم</item>
     </string-array>
 </resources>

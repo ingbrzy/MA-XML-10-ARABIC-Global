@@ -145,10 +145,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -185,7 +185,7 @@ If the two devices can't be connected to the same network, turn on Miracast on y
 ملاحظة: قد لا تدعم طرز التلفزيون القديمة البث عبر شبكات مختلفة.
 %2$dإذا كنت تستخدم أجهزة تلفزيون أو أجهزة فك التشفير أو أجهزة بروجكتور من علامات تجارية أخرى، فقم بتوصيل كل من جهازك وشاشة العرض الخارجية بشبكة Wi-Fi نفسها.
 إذا تعذر توصيل الجهازين بنفس الشبكة، فقم بتشغيل Miracast على الشاشة الخارجية. قد تختلف تسمية وظيفة Miracast."</string>
-    <string name="help_page_text_08">الخطوة %1$d: قم بتشغيا البث</string>
+    <string name="help_page_text_08">الخطوة %1$d: قم بتشغيل البث</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">انقر على مفتاح \"بث الشاشة\" في مركز إشعارات جهازك لتشغيلة. ثم قم بتشغيل كلاً من Wi-Fi والبلوتوث للحصول على اتصال أكثر استقرارًا.</string>
     <string name="help_page_text_10">لبث الصور أو مقاطع الفيديو أو الألعاب أو عروض الشرائح، يمكنك استخدام ميزات نقل الصور في التطبيقات المعنية.</string>
@@ -254,6 +254,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="invisible_mode_dialog_title">أنت في وضع التصفح المتخفي</string>
     <string name="keyguard_security_setting_privacy_policy">سياسة الخصوصية</string>
     <string name="midnight">الليل</string>
+    <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>

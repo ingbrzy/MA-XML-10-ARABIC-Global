@@ -204,6 +204,7 @@
     <string name="low_battery_error_for_pad">البطارية أقل من %s. قم بايقاف وحفظ التسجيل لتجنب فقدانه.</string>
     <string name="low_battery_error_title">البطارية منخفضة</string>
     <string name="lyric_item_point_count">%1$d إلى %2$d</string>
+    <string name="manage_external_storage">الوصول إلى جميع الملفات</string>
     <string name="mark_point_list_title">علامات</string>
     <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
     <string name="material_hour_selection">تحديد الساعة</string>
@@ -296,6 +297,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -570,6 +572,7 @@
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
+    <string name="sync_desc_state_complete">متزامن مع Cloud: %1$s</string>
     <string name="tab_all">الكل</string>
     <string name="tab_apps">التطبيقات</string>
     <string name="tab_call">المكالمات</string>

@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="agps_apn_entries">
-        <item>CMWAP</item>
-        <item>CMNET</item>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>الزرّ</item>
+        <item>الإيماءة</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>عائم فوق التطبيقات الأخرى</item>
+        <item>شريط التنقل</item>
     </string-array>
-    <string-array name="agps_network_entries">
-        <item>الشبكة المحلية</item>
-        <item>كل الشبكات</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>حار</item>
-        <item>دافئ</item>
-        <item>بارد</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="agps_si_mode_entries">
-        <item>MSB</item>
-        <item>MSA</item>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>صغير</item>
+        <item>كبير</item>
     </string-array>
     <string-array name="ai_key_item_name">
         <item>تحدث إلى مساعد Google</item>
@@ -299,9 +281,9 @@
         <item>مطوّل</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
-        <item>تم إنشاؤها منذ أكثر من 30 يومًا</item>
-        <item>تم إنشاؤها منذ أكثر من 60 يومًا</item>
-        <item>تم إنشاؤها منذ أكثر من 90 يومًا</item>
+        <item>تم إنشاؤها قبل أكثر من 30 يومًا.</item>
+        <item>تم إنشاؤها قبل أكثر من 60 يومًا.</item>
+        <item>تم إنشاؤها قبل أكثر من 90 يومًا.</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>رسم بياني</item>
@@ -489,8 +471,6 @@
         <item>معطل</item>
         <item>تصفية</item>
         <item>مفعل</item>
-        <item>تصفية العناوين</item>
-        <item>تصفية حزم الوسائط</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>١ ثانية</item>
@@ -509,11 +489,11 @@
         <item>منخفضة</item>
     </string-array>
     <string-array name="captioning_font_size_selector_summaries">
-        <item>حجم نص صغير جدًا</item>
-        <item>حجم نص صغير</item>
-        <item>حجم النص التلقائي</item>
-        <item>حجم نص كبير</item>
-        <item>حجم نص كبير جدًا</item>
+        <item>نص صغير جدا</item>
+        <item>نص صغير</item>
+        <item>الحجم الافتراضي للنص</item>
+        <item>نص كبير</item>
+        <item>نص كبير جدا</item>
     </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>صغير جدًا</item>
@@ -852,6 +832,31 @@
         <item>باراماريبو</item>
         <item>كيتو</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>ألوان محسنة</item>
         <item>الألوان الطبيعية كما تراها العين</item>
@@ -928,10 +933,9 @@
         <item>۳۰ دقيقة</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>عدم التحقق</item>
+        <item>عدم التحقّق</item>
+        <item>طلب حالة الشهادة</item>
         <item>حالة الشهادة مطلوبة</item>
-        <item>حالة الشهادة مطلوبة</item>
-        <item>جميع حالات الشهادات غير الموثوقة مطلوبة</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>لا شيء</item>
@@ -962,11 +966,6 @@
         <item>٤.٠ بوصة</item>
         <item>٣.٥ بوصة</item>
     </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
-    </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>متوقّف</item>
         <item>خفيف</item>
@@ -986,6 +985,15 @@
     <string-array name="hide_account_list">
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>عدم ايقاظ الشاشة</item>
@@ -1029,6 +1037,48 @@
         <item>بعد ٢ دقائق</item>
         <item>بعد ٥ دقائق</item>
         <item>أبداً</item>
+    </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>قصيرة</item>
+        <item>متوسطة</item>
+        <item>طويلة</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>قصيرة</item>
@@ -1099,6 +1149,14 @@
 
 ملاحظة: فقط لـ Ubuntu 8.04!"</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>أعد تثبيت Mi PC Suite</item>
@@ -1108,7 +1166,6 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
-        <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>الشبكة بطيئة بسبب كثرة حركة الاتصالات</item>
@@ -1116,7 +1173,7 @@
         <item>جار الانتقال…</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
-        <item>بياني</item>
+        <item>رسم بياني</item>
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة)</item>
     </string-array>
@@ -1204,12 +1261,103 @@
         <item>تقليل ضوضاء الميكرفون الواحد</item>
         <item>تقليل ضوضاء الميكرفون المزدوج</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>أداء</item>
         <item>متوازن</item>
     </string-array>
     <string-array name="preferred_app_entries">
-        <item>المُشغل</item>
+        <item>المشغل</item>
         <item>الاتصال الهاتفي</item>
         <item>الرسائل</item>
         <item>المتصفح</item>
@@ -1230,7 +1378,7 @@
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>عام</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
         <item>LTE / WCDMA</item>
         <item>‏TDSCDMA فقط</item>
@@ -1247,7 +1395,7 @@
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>عام</item>
         <item>NR/LTE/WCDMA</item>
         <item>NR/LTE/TDSCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM</item>
@@ -1327,6 +1475,11 @@
         <item>مشبع</item>
         <item>قياسية</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1394,6 +1547,10 @@
         <item>إرسم منطقة قصاصة غير مستطيلة بالأزرق</item>
         <item>إبراز أوامر الرسم التي تم اختبارها بالأخضر</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>دائماً</item>
         <item>٣٠ دقيقة</item>
@@ -1420,6 +1577,36 @@
         <item>1</item>
         <item>0</item>
     </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>هش</item>
+        <item>عميق</item>
+        <item>مرن</item>
+    </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>١٢-ساعة ١:٠٠م</item>
         <item>٢٤-ساعة ١٣:٠٠</item>
@@ -1568,16 +1755,18 @@
         <item>متوسط</item>
         <item>عالي</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="wide_notch_battery_indicator_style_entries">
         <item>رسم بياني</item>
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة في مركز الإشعارات)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
@@ -1700,6 +1889,20 @@
         <item>MSCHAP</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>جارٍ البحث عن الشبكات…</item>
+        <item>جارٍ الاتصال بالإنترنت…</item>
+        <item>جارٍ مصادقة الشبكة…</item>
+        <item>‏جارٍ الحصول على عنوان IP…</item>
+        <item>متصلة</item>
+        <item>معلّقة</item>
+        <item>جارٍ قطع الاتصال بالشبكة…</item>
+        <item>غير متصلة</item>
+        <item>تعذّر الاتصال بالشبكة.</item>
+        <item>محظورة</item>
+        <item>يتم مؤقتًا تجنب الاتصال الضعيف بالإنترنت</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>

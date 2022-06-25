@@ -63,4 +63,30 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
+    <string-array name="auto_process_mode">
+        <item>إشعار</item>
+        <item>تنظيف</item>
+        <item>التنظيف والإشعار</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>الحجم</item>
+        <item>الاسم</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>مستخدمة بشكل متكرر</item>
+        <item>الحجم</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>الحجم</item>
+        <item>الاسم</item>
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>الحجم</item>
+        <item>المستخدم بتكرار</item>
+        <item>وقت التثبيت</item>
+    </string-array>
+    <string-array name="wechat_sort">
+        <item>التاريخ</item>
+        <item>الحجم</item>
+    </string-array>
 </resources>

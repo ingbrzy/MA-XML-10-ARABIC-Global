@@ -63,6 +63,11 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
+    <string-array name="animation_rate_entries">
+        <item>بطيء</item>
+        <item>متوازن</item>
+        <item>سريع</item>
+    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>٤x٤</item>
         <item>٤x٥</item>

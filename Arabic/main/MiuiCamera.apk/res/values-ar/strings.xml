@@ -666,6 +666,7 @@
     <string name="edit_smile">ابتسامة</string>
     <string name="edit_solid">كونتور</string>
     <string name="emoticon">ايموجي شخصي</string>
+    <string name="empty" />
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="error_fail_to_start_audio_capture">تعذر بدء التسجيل الصوتي</string>
@@ -874,6 +875,9 @@
     <string name="live_sticker_updating">جارٍ التحديث…</string>
     <string name="live_workspace_title">المسودات</string>
     <string name="live_workspace_title_edit">قم بتحديد عناصر للحذف</string>
+    <string name="live_workspace_title_pause">إيقاف</string>
+    <string name="live_workspace_title_play">تشغيل</string>
+    <string name="live_workspace_title_pre_edit">حدد عناصر للحذف</string>
     <string name="location_access_allow">أوافق</string>
     <string name="location_fromkeyguard_not_permission">لا تستطيع الكاميرا الوصول إلى معلومات موقعك. افتح الجهاز أولاً.</string>
     <string name="location_permission_des">تذكر موقع الصور والفيديوهات</string>
@@ -1069,6 +1073,10 @@
     <string name="module_name_multi_camera">كاميرات متعددة</string>
     <string name="module_name_new_slow_motion">حركة بطيئة</string>
     <string name="module_name_panorama">بانوراما</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">بورتريه</string>
     <string name="module_name_professional">إحترافي</string>
     <string name="module_name_scanner">الماسح</string>
@@ -1206,6 +1214,7 @@
     <string name="popup_tips_near_range_mode">تركيز قريب</string>
     <string name="popup_tips_privacy_watermark_edit">تعديل العلامة المائية</string>
     <string name="portait_effect_entry_blackwhite">أبيض وأسود</string>
+    <string name="portait_effect_entry_cold_white">ضوء النجوم</string>
     <string name="portait_effect_entry_cool">نعناع</string>
     <string name="portait_effect_entry_dusk">غسق</string>
     <string name="portait_effect_entry_fairytale">طفولي</string>
@@ -1223,6 +1232,7 @@
     <string name="portait_effect_entry_riddle">حلوى</string>
     <string name="portait_effect_entry_romance">رومانسي</string>
     <string name="portait_effect_entry_sepia">بني داكن</string>
+    <string name="portait_effect_entry_shallots">شعاع الشمس</string>
     <string name="portait_effect_entry_story">قصة</string>
     <string name="portait_effect_entry_tea">شاي</string>
     <string name="portrait_bokeh_first_tips">"استخدم وضع البورتريه لتموية
@@ -1285,6 +1295,7 @@
     <string name="pref_camera_auxiliary_close">متوقف</string>
     <string name="pref_camera_auxiliary_exposure_feedback">التحقق من التعرض</string>
     <string name="pref_camera_auxiliary_focus_peak">ذروة التركيز البؤري</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">عالي</string>
     <string name="pref_camera_beautify_entry_low">منخفض</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1415,7 +1426,7 @@
     <string name="pref_camera_portrait_mode_entry_on">وضع بورتريه مشغل</string>
     <string name="pref_camera_portrait_mode_title">وضع بورتريه</string>
     <string name="pref_camera_predictive_shutter_description">تتبع الحركة لتقليل الضبابية على صور الأطفال والحيوانات الأليفة والأشياء النشطة الأخرى</string>
-    <string name="pref_camera_predictive_shutter_title">تتبع الحركة</string>
+    <string name="pref_camera_predictive_shutter_title">التقاط الحركة</string>
     <string name="pref_camera_proximity_lock_summary">قفل إيماءات اللمس أثناء وضع الجهاز في الجيب</string>
     <string name="pref_camera_proximity_lock_title">وضع الجيب</string>
     <string name="pref_camera_quick_settings">الإعدادات السريعة</string>
@@ -1477,10 +1488,12 @@
     <string name="pref_camera_tip_id_card">ماسح الهوية</string>
     <string name="pref_camera_touchafaec_entry_off">متوقف</string>
     <string name="pref_camera_touchafaec_entry_on">مشغل</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+    <string name="pref_camera_track_eye_preferred_description">يمكن أن يساعدك تتبع حركة العين في الحفاظ على مركز التركيز عندما يكون هناك شخص واحد في الصورة</string>
+    <string name="pref_camera_track_eye_preferred_title">تركيز تتبع العين</string>
+    <string name="pref_camera_track_focus_intro_description">عند التقاط صورة أو مقطع فيديو لشيء متحرك، فإنه يكتشف الأشخاص والقطط والكلاب وما إلى ذلك ويركز عليهم تلقائيًا. يمكنك أيضا النقر مرتين على أي شي لتتبع حركته.</string>
+    <string name="pref_camera_track_focus_intro_goto">تشغيل</string>
     <string name="pref_camera_track_focus_preferred_description">التركيز التلقائي على تحرك الأشخاص والقطط والكلاب أو النقر مرتين لتغيير مكان التركيز.</string>
-    <string name="pref_camera_track_focus_preferred_title">تتبع التركيز</string>
+    <string name="pref_camera_track_focus_preferred_title">تركيز تتبع الحركة</string>
     <string name="pref_camera_ubifocus_title">إعادة التركيز البؤري</string>
     <string name="pref_camera_ultra_wide_ldc_description">تصحيح الأجسام المشوهه تلقائيا</string>
     <string name="pref_camera_ultra_wide_ldc_title">تصحيح التشويه في اللقطات الواسعة جداً</string>
@@ -1496,6 +1509,7 @@
     <string name="pref_camera_video_tag_description">انقر على \"إشارة\" أثناء تصوير الفيديو لتتمكن من الرجوع إلى اللحظات المميزة أثناء تشغيل الفيديو</string>
     <string name="pref_camera_volumekey_function_entry_shutter">التصوير</string>
     <string name="pref_camera_volumekey_function_entry_timer">العد التنازلي للقطة الكاميرا</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">مستوى الصوت</string>
     <string name="pref_camera_volumekey_function_entry_zoom">التكبير/التصغير</string>
     <string name="pref_camera_volumekey_function_title">وظيفة أزرار الصوت</string>
@@ -1549,6 +1563,7 @@
     <string name="pref_hdr10_hdr10plus_video_mode_description">قم بتسجيل الفيديوهات عالية الدقة HDR10+/HDR10 لتحسين الألوان والنطاق الديناميكي. يمكن تشغيل الفيديوهات المسجلة فقط على الأجهزة المتوافقة مع HDR10+/HDR10.</string>
     <string name="pref_hdr10_video_mode_description">تحسين اللون وتباين فيديو 4K و 8K تلقائيا. لن يتم تشغيل مقاطع الفيديو المحسنة إلا على أجهزة متوافقة مع جودة HDR10.</string>
     <string name="pref_hdr10plus_video_mode_description">تحسين اللون وضبط تباين فيديوهات 4K و 8K. تعمل هذه الميزة فقط على أجهزة متوافقة مع جودة HDR10+.</string>
+    <string name="pref_hybrid_video_mode_description">ستعمل تقنية HLG على تحسين الألوان والنطاق الديناميكي لمقاطع الفيديو عالية الوضوح</string>
     <string name="pref_i_n_r_b">تقليل الضوضاء الذكي</string>
     <string name="pref_k_h">سماعات داخل الأذن</string>
     <string name="pref_k_s_i">مراقبة الصوت المسجل باستخدام سماعات الأذن السلكية عند توصيلها</string>
@@ -1565,7 +1580,7 @@
     <string name="pref_n_s_o_l">مشغل</string>
     <string name="pref_n_s_o_m">متوقف</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">يمكنك فقط تسجيل فيديوهات 720p بإستخدام 240fps</string>
-    <string name="pref_new_slow_motion_video_quality_960_720only">يمكنك فقط تسجيل فيديوهات 720p بإستخدام 960fps</string>
+    <string name="pref_new_slow_motion_video_quality_960_720only">يمكنك فقط تسجيل فيديوهات 720 إطار/ثانية بإستخدام 960 إطار/ثانية</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_p_d_e">ميزات برو</string>
