@@ -121,12 +121,12 @@
         <item quantity="many">قبل %1$d يوم</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d محدد</item>
-        <item quantity="zero">%1$d محدد</item>
-        <item quantity="one">%1$d محدد</item>
-        <item quantity="two">%1$d محددة</item>
-        <item quantity="few">%1$d محددة</item>
-        <item quantity="many">%1$d محدد</item>
+        <item quantity="other">تم تحديد %1$d عنصر</item>
+        <item quantity="zero">تم تحديد %1$d عنصر</item>
+        <item quantity="one">تم تحديد %1$d عنصر</item>
+        <item quantity="two">تم تحديد %1$d عناصر</item>
+        <item quantity="few">تم تحديد %1$d عناصر</item>
+        <item quantity="many">تم تحديد %1$d عنصر</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">حذف %d مهمة؟</item>
@@ -135,6 +135,22 @@
         <item quantity="two">حذف %d مهام؟</item>
         <item quantity="few">حذف %d مهام؟</item>
         <item quantity="many">حذف %d مهمة؟</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d عنصر</item>
@@ -216,13 +232,29 @@
         <item quantity="few">في %d دقائق</item>
         <item quantity="many">في %d دقيقة</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="zero">%d</item>
+        <item quantity="one">%d</item>
+        <item quantity="two">%d</item>
+        <item quantity="few">%d</item>
+        <item quantity="many">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">تم حماية المتصفح %d مرة</item>
+        <item quantity="zero">تم حماية المتصفح %d مرة</item>
+        <item quantity="one">تم حماية المتصفح %d مرة</item>
+        <item quantity="two">تم حماية المتصفح %d مرات</item>
+        <item quantity="few">تم حماية المتصفح %d مرات</item>
+        <item quantity="many">تم حماية المتصفح %d مرة</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">تم تنزيل %d عنصر بنجاح</item>
-        <item quantity="zero">تم تنزيل %d عنصر بنجاح</item>
-        <item quantity="one">تم تنزيل %d عنصر بنجاح</item>
-        <item quantity="two">تم تنزيل %d عناصر بنجاح</item>
-        <item quantity="few">تم تنزيل %d عناصر بنجاح</item>
-        <item quantity="many">تم تنزيل %d عنصر بنجاح</item>
+        <item quantity="other">تم تنزيل %1$s عنصر بنجاح</item>
+        <item quantity="zero">تم تنزيل %1$s عنصر بنجاح</item>
+        <item quantity="one">تم تنزيل %1$s عنصر بنجاح</item>
+        <item quantity="two">تم تنزيل %1$s عناصر بنجاح</item>
+        <item quantity="few">تم تنزيل %1$s عناصر بنجاح</item>
+        <item quantity="many">تم تنزيل %1$s عنصر بنجاح</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -296,6 +328,14 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">تم حماية المتصفح %s مرة</item>
+        <item quantity="zero">تم حماية المتصفح %s مرة</item>
+        <item quantity="one">تم حماية المتصفح %s مرة</item>
+        <item quantity="two">تم حماية المتصفح %s مرات</item>
+        <item quantity="few">تم حماية المتصفح %s مرات</item>
+        <item quantity="many">تم حماية المتصفح %s مرة</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d لاعب</item>
         <item quantity="zero">%d لاعب</item>
@@ -311,6 +351,14 @@
         <item quantity="two">تم حظر %d إعلانات</item>
         <item quantity="few">تم حظر %d إعلانات</item>
         <item quantity="many">تم حظر %d إعلان</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">تم إيجاد %1$d نتيجة</item>
+        <item quantity="zero">تم إيجاد %1$d نتيجة</item>
+        <item quantity="one">تم إيجاد %1$d نتيجة</item>
+        <item quantity="two">تم إيجاد %1$d نتائج</item>
+        <item quantity="few">تم إيجاد %1$d نتائج</item>
+        <item quantity="many">تم إيجاد %1$d نتيجة</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s طلب بحث</item>
@@ -352,6 +400,14 @@
         <item quantity="few">%d أغاني مشهورة</item>
         <item quantity="many">%d أغنية مشهورة</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d علامة تبويب</item>
+        <item quantity="zero">%d علامة تبويب</item>
+        <item quantity="one">%d علامة تبويب</item>
+        <item quantity="two">%d علامات تبويب</item>
+        <item quantity="few">%d علامات تبويب</item>
+        <item quantity="many">%d علامة تبويب</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">تم تحديد %1$d عنصر</item>
         <item quantity="zero">تم تحديد %1$d عنصر</item>
@@ -367,6 +423,14 @@
         <item quantity="two">لم تشاهد %d فيديو مفضل منذ فترة طويلة.</item>
         <item quantity="few">لم تشاهد %d فيديوهات مفضلة منذ فترة طويلة.</item>
         <item quantity="many">لم تشاهد %d فيديوهات مفضلة منذ فترة طويلة.</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s مشاهدة</item>
+        <item quantity="zero">%s مشاهدة</item>
+        <item quantity="one">%s مشاهدة</item>
+        <item quantity="two">%s مشاهدات</item>
+        <item quantity="few">%s مشاهدات</item>
+        <item quantity="many">%s مشاهدة</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">تحقق من %1$d فيديو جديد</item>
@@ -399,5 +463,85 @@
         <item quantity="two">تم تصويت %d أشخاص</item>
         <item quantity="few">تم تصويت %d أشخاص</item>
         <item quantity="many">تم تصويت %d شخص</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">تم حظر %d إعلان</item>
+        <item quantity="zero">تم حظر %d إعلان</item>
+        <item quantity="one">تم حظر %d إعلان</item>
+        <item quantity="two">تم حظر %d إعلانات</item>
+        <item quantity="few">تم حظر %d إعلانات</item>
+        <item quantity="many">تم حظر %d إعلان</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">تم السماح %d مرة</item>
+        <item quantity="zero">تم السماح %d مرة</item>
+        <item quantity="one">تم السماح %d مرة</item>
+        <item quantity="two">تم السماح %d مرات</item>
+        <item quantity="few">تم السماح %d مرات</item>
+        <item quantity="many">تم السماح %d مرة</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">تم التقييد %d مرة</item>
+        <item quantity="zero">تم التقييد %d مرة</item>
+        <item quantity="one">تم التقييد %d مرة</item>
+        <item quantity="two">تم التقييد %d مرات</item>
+        <item quantity="few">تم التقييد %d مرات</item>
+        <item quantity="many">تم التقييد %d مرة</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">تم الإيقاف %d مرة</item>
+        <item quantity="zero">تم الإيقاف %d مرة</item>
+        <item quantity="one">تم الإيقاف %d مرة</item>
+        <item quantity="two">تم الإيقاف %d مرات</item>
+        <item quantity="few">تم الإيقاف %d مرات</item>
+        <item quantity="many">تم الإيقاف %d مرة</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">تم حظر %s إعلان</item>
+        <item quantity="zero">تم حظر %s إعلان</item>
+        <item quantity="one">تم حظر %s إعلان</item>
+        <item quantity="two">تم حظر %s إعلانات</item>
+        <item quantity="few">تم حظر %s إعلانات</item>
+        <item quantity="many">تم حظر %s إعلان</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">تم السماح %s مرة</item>
+        <item quantity="zero">تم السماح %s مرة</item>
+        <item quantity="one">تم السماح %s مرة</item>
+        <item quantity="two">تم السماح %s مرات</item>
+        <item quantity="few">تم السماح %s مرات</item>
+        <item quantity="many">تم السماح %s مرة</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">تم التقييد %s مرة</item>
+        <item quantity="zero">تم التقييد %s مرة</item>
+        <item quantity="one">تم التقييد %s مرة</item>
+        <item quantity="two">تم التقييد %s مرات</item>
+        <item quantity="few">تم التقييد %s مرات</item>
+        <item quantity="many">تم التقييد %s مرة</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">تم الإيقاف %s مرة</item>
+        <item quantity="zero">تم الإيقاف %s مرة</item>
+        <item quantity="one">تم الإيقاف %s مرة</item>
+        <item quantity="two">تم الإيقاف %s مرات</item>
+        <item quantity="few">تم الإيقاف %s مرات</item>
+        <item quantity="many">تم الإيقاف %s مرة</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s يوم</item>
+        <item quantity="zero">%s يوم</item>
+        <item quantity="one">%s يوم</item>
+        <item quantity="two">%s أيام</item>
+        <item quantity="few">%s أيام</item>
+        <item quantity="many">%s يوم</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s مرة</item>
+        <item quantity="zero">%s مرة</item>
+        <item quantity="one">%s مرة</item>
+        <item quantity="two">%s مرات</item>
+        <item quantity="few">%s مرات</item>
+        <item quantity="many">%s مرة</item>
     </plurals>
 </resources>

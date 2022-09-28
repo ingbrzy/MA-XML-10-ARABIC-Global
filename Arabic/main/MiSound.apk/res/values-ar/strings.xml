@@ -141,10 +141,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -270,6 +270,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>

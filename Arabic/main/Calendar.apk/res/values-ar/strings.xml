@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">غدا، %1$s</string>
     <string name="agenda_view">الأحداث</string>
     <string name="alarm_label">تجاهل</string>
+    <string name="alarm_open_reminder">تشغيل التذكير</string>
+    <string name="alarm_reminder_already">التذكير مشغل</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">انتهت الصلاحية</string>
     <string name="alert_title">إشعارات التقويم</string>
@@ -90,6 +92,7 @@
     <string name="birthday_term">عيد ميلاد</string>
     <string name="button_record_menstruation">تسجيل</string>
     <string name="calendar_permission_desc">إدارة الأحداث</string>
+    <string name="calendar_privacy_policy">سياسة الخصوصية</string>
     <string name="can_not_create_long_event">اسم الحدث طويل جدا</string>
     <string name="can_not_modify_allday_event">لا يمكن تغيير حدث طول اليوم</string>
     <string name="can_not_modify_event">لا يمكن تغيير الحدث</string>
@@ -177,11 +180,13 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="date_view">التاريخ</string>
     <string name="day">اليوم</string>
     <string name="day_view_new_event_hint">حدث جديد</string>
+    <string name="default_reminder_later_time">الفاصل الزمني الافتراضي لـ \"تذكيري لاحقًا\"</string>
     <string name="default_reminder_mode">التذكيرات</string>
     <string name="delete_menstruation_record_confirm">حذف هذا التسجيل؟</string>
     <string name="delete_recurring_event_title">حذف %s؟</string>
@@ -212,16 +217,26 @@
     <string name="edit_event_label">التفاصيل</string>
     <string name="edit_event_no_reminder_value">عدم التذكير</string>
     <string name="edit_event_reminder_3_days_before">والتذكير قبل %d أيام</string>
+    <string name="edit_event_reminder_3_days_before_time">والتذكير قبل %d أيام</string>
     <string name="edit_event_reminder_summary">في ذلك اليوم على الساعة %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">قبل %2$d أيام وفي يوم الحدث على الساعة %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">قبل %1$d أيام، الساعة %1$s في نفس اليوم</string>
     <string name="edit_event_reminder_text">يوم %1$s على الساعة %2$s</string>
     <string name="edit_event_reminder_time">وقت التذكير</string>
     <string name="edit_event_reminder_with_another_day_text">يوم %1$s و%2$s على الساعة %3$s</string>
     <string name="edit_event_show_all">عرض الكل</string>
-    <string name="edit_event_tab_anniversary">ذكرى</string>
+    <string name="edit_event_tab_anniversary">ذكرى سنوية</string>
     <string name="edit_event_tab_birthday">عيد ميلاد</string>
     <string name="edit_event_tab_countdown">عد تنازلي</string>
     <string name="edit_event_tab_event">الحدث</string>
+    <string name="edit_event_title_create_agenda">إنشاء حدث</string>
+    <string name="edit_event_title_create_anniversary">إنشاء ذكرى سنوية</string>
+    <string name="edit_event_title_create_birthday">إنشاء عيد ميلاد</string>
+    <string name="edit_event_title_create_countdown">إنشاء عد تنازلي</string>
+    <string name="edit_event_title_edit_agenda">تعديل الحدث</string>
+    <string name="edit_event_title_edit_anniversary">تعديل الذكرى السنوية</string>
+    <string name="edit_event_title_edit_birthday">تعديل عيد الميلاد</string>
+    <string name="edit_event_title_edit_countdown">تعديل العد التنازلي</string>
     <string name="edit_event_to_label">إلى</string>
     <string name="edit_your_long_holidays">تعديل العُطل</string>
     <string name="ee_dd_short_month">EEE، dd MMM</string>
@@ -390,7 +405,9 @@
     <string name="item_num_selected">%1$d محدّدة</string>
     <string name="language_change_confirmation">تم التغيير بنجاح. يمكنك تغيير اللغة من إعدادات التقويم.</string>
     <string name="launch_weather_comment">انقر هنا للحصول على معلومات الطقس</string>
-    <string name="load_more_hint">تحميل الأحداث من %1$d</string>
+    <string name="load_more_events">عرض أحداث %d</string>
+    <string name="load_more_events_default">عرض أحداث السنة القادمة</string>
+    <string name="load_more_hint">عرض أحداث %1$d</string>
     <string name="loading">لحظة من فضلك…</string>
     <string name="local_calendar_display_name">تقويم محلي</string>
     <string name="local_owner_account_name">تم الحفظ لهذا الجهاز</string>
@@ -543,6 +560,7 @@
     <string name="no_internet_dialog_message">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
     <string name="no_internet_dialog_title">حدث خطأ ما</string>
     <string name="no_long_holidays">لا توجد عطل مقبلة</string>
+    <string name="no_more_events">لا يوجد مزيد من الأحداث لعرضها</string>
     <string name="no_network">"تعذر الاتصال بالشبكة.
 تحقق من إعدادات الشبكة ثم حاول مرة أخرى."</string>
     <string name="no_network_btn">حاول مرة أخرى</string>
@@ -596,6 +614,7 @@
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">توافق الشريك</string>
     <string name="path_calendar_settings">تطبيقات النظام/التقويم/الإعدادات</string>
+    <string name="permission_description">تفاصيل الأذونات</string>
     <string name="picker_day">اليوم المحدد: %1$d. حدد عموديا للتحديد.</string>
     <string name="picker_month">الشهر المحدد: %1$d. اسحب عموديا للتحديد.</string>
     <string name="picker_year">السنة المحددة: %1$d. اسحب عموديًا للتحديد.</string>
@@ -609,14 +628,20 @@
     <string name="pref_title_notification_remind">إشعار تذكير</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">تذكيرات المنبه</string>
+    <string name="preferences_alarms_sound">الصوت</string>
+    <string name="preferences_alarms_vibrateWhen">اهتزاز</string>
     <string name="preferences_alerts_ringtone_title">صوت</string>
     <string name="preferences_alerts_vibrateWhen_title">الاهتزاز</string>
     <string name="preferences_alerts_vibrate_title">اهتزاز مع نغمة الرنين</string>
+    <string name="preferences_allow_remind">السماح بالتذكيرات</string>
     <string name="preferences_default_allday_reminder_title">وقت التذكير الافتراضي طول اليوم</string>
     <string name="preferences_default_reminder_dialog">وقت التذكير الافتراضي</string>
     <string name="preferences_default_reminder_title">وقت التذكير الافتراضي</string>
     <string name="preferences_home_tz_title">المنطقة الزمنية الرئيسية</string>
     <string name="preferences_notification_ringtone_title">الصوت</string>
+    <string name="preferences_popup_alert_smart_summary_new">الأحداث الحساسة للوقت هي أحداث ذات وقت محدد</string>
+    <string name="preferences_popup_alert_title">تذكيرات منبثقة</string>
     <string name="preferences_show_indic_date_title">عرض التقويم الهندي</string>
     <string name="preferences_title">التقويم</string>
     <string name="preferences_use_home_tz_descrip">عرض التقاويم وأوقات الحدث في المنطقة الزمنية المحلية عند السفر</string>
@@ -624,12 +649,18 @@
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">بداية الأسبوع</string>
     <string name="preferences_week_start_day_title">بداية الأسبوع</string>
+    <string name="privacy_and_permissions">الخصوصية والأذونات</string>
     <string name="privacy_card_description">يرجى الموافقة على سياسة الخصوصية لتتمكن من استخدام جميع الميزات.</string>
     <string name="privacy_policy_dialog_agree">أوافق</string>
     <string name="privacy_policy_dialog_dont_agree">لا أوافق</string>
     <string name="privacy_policy_dialog_message">&lt;Data>مرحبا بك في التقويم&lt;br/>يمكنك بإستخدام هذا التطبيق إنشاء وإدارة الأحداث وتعيين تذكيراتك وتلقى معلومات أخرى بناء على موقعك.&lt;br/>يحتاج التقويم إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>.&lt;br/>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%3$s\">سياسة الخصوصية&lt;/a> قبل استخدام التقويم. يمكنك سحب الموافقة على سياسة خصوصية التقويم في أي وقت من الإعدادات.&lt;br/> إذا كنت لا توافق على سياسة الخصوصية الخاصة بنا، فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="privacy_policy_dialog_title">الأحكام والشروط</string>
     <string name="privacy_revoke_switch_text">سحب الموافقة</string>
+    <string name="pull_refresh_events">عرض أحداث %d</string>
+    <string name="pull_refresh_events_default">عرض أحداث السنة السابقة</string>
+    <string name="pull_refresh_progress_load_finish">تم التحميل بنجاح</string>
+    <string name="pull_refresh_progress_loading">لحظة من فضلك…</string>
+    <string name="pull_refresh_progress_release_to_load">حرر للتحميل</string>
     <string name="pull_to_refresh_hint">إسحب لتحميل أحداث %1$d</string>
     <string name="recorded_menstruation">الفترة المسجلة</string>
     <string name="refresh">تحديث</string>
@@ -686,6 +717,8 @@
     <string name="search_calendar">التاريخ؛شروط شمسية؛قمري؛التقويم؛الحظ؛جدول الأعمال؛اجتماع؛تذكير؛عطلة؛عطلة؛تاريخ الميلاد؛۲۰۱٦؛۲۰۱٧؛مهرجان الربيع؛رأس السنة الميلادية؛عيد العمال الدولي؛مهرجان منتصف الخريف</string>
     <string name="search_calendar_edit_event">اجتماع؛تذكير؛جدول الأعمال</string>
     <string name="search_calendar_settings">التقويم؛جدول الأعمال؛تذكير</string>
+    <string name="search_events">البحث عن أحداث</string>
+    <string name="search_history">سجل البحث</string>
     <string name="search_menu_title">البحث</string>
     <string name="second_saturday_holiday">كل يوم سبت ثاني هو يوم عطلة</string>
     <string name="select_date">الانتقال إلى تاريخ</string>
@@ -705,7 +738,9 @@
     <string name="setting_features_title">إعدادات الميزة</string>
     <string name="setting_holiday_display_desc">بطاقات العطلة موجودة تحت جدول الأعمال الخاص بك على الصفحة الرئيسية</string>
     <string name="setting_holiday_reminder">تذكير العطلة</string>
+    <string name="setting_import_events">استيراد أحداث</string>
     <string name="setting_others">إضافي</string>
+    <string name="setting_show_reject_agenda">إظهار الأحداث المرفوضة</string>
     <string name="setting_title_about">معلومات عن</string>
     <string name="setting_title_holiday_display">إظهار العطل</string>
     <string name="setting_title_import_todo">استيراد مهام</string>
@@ -768,6 +803,10 @@
     <string name="tab_title_day">اليوم</string>
     <string name="tab_title_month">الشهر</string>
     <string name="tab_title_week">الأسبوع</string>
+    <string name="tab_view_day">اليوم</string>
+    <string name="tab_view_month">الشهر</string>
+    <string name="tab_view_week">الأسبوع</string>
+    <string name="tab_view_year">السنة</string>
     <string name="talk_back_read_date">%1$s (%2$s وفقا للتقويم القمري).</string>
     <string name="talk_back_setting">الإعدادات</string>
     <string name="talk_back_tab_switch">التبديل بين طرق العرض</string>

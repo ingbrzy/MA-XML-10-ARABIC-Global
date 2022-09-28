@@ -35,6 +35,7 @@
     <string name="ad_download">تنزيل</string>
     <string name="add_private">اجعل الملفات خاصة</string>
     <string name="add_private_files">إضافة ملفات</string>
+    <string name="add_to_widget">إضافة أداة</string>
     <string name="added_category">تمت الإضافة</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="aggree_desc">منح هذا التطبيق أذونات الوصول إلى الإنترنت وجميع الأذونات المطلوبة أعلاه.</string>
@@ -156,6 +157,7 @@
     <string name="delete_folder">حذف هذا المجلد؟</string>
     <string name="des_hide_pwd">إخفاء كلمة المرور</string>
     <string name="des_show_pwd">إظهار كلمة المرور</string>
+    <string name="dialog_keep_choice">تذكر اختياري</string>
     <string name="dialog_select_type">تحديد النوع</string>
     <string name="dialog_type_audio">صوت</string>
     <string name="dialog_type_image">صور</string>
@@ -209,6 +211,7 @@
     <string name="favorite_photo">صور</string>
     <string name="favorite_ringtone">نغمات الرنين</string>
     <string name="favorite_screen_cap">لقطات شاشة</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">للقراءة: </string>
     <string name="file_info_canwrite">للكتابة: </string>
     <string name="file_info_ishidden">مخفي: </string>
@@ -302,7 +305,7 @@
     <string name="guide_one_summary">يتم تجميع العناصر الأخيرة حسب التاريخ.</string>
     <string name="guide_one_title">ترتيب العناصر في جدول زمني</string>
     <string name="guide_three_summary">قم بإضافة الاختصارات وإزالتها وإعادة ترتيبها على الصفحة الرئيسية.</string>
-    <string name="guide_three_title">إعادة ترتيب الإختصارات</string>
+    <string name="guide_three_title">إعادة ترتيب الاختصارات</string>
     <string name="guide_two_summary">يتم إخفاء الصور ولقطات الشاشة من المعرض افتراضيا.</string>
     <string name="guide_two_title">عرض العناصر الأساسية فقط</string>
     <string name="hint_switch_to_grid_mode">تم التبديل إلى عرض الشبكة</string>
@@ -322,6 +325,8 @@
     <string name="instruction_pre_phone">إدارة الملفات على هذا الجهاز باستخدام الكمبيوتر</string>
     <string name="internal_storage">التخزين الداخلي</string>
     <string name="just_now">حاليا</string>
+    <string name="lack_perm_msg">يحتاج مدير الملفات الأذونات التالية ليعمل بشكل طبيعي: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">الأذونات المطلوبة</string>
     <string name="launcher_icon_add_description">إضافة إختصار على الشاشة الرئيسية</string>
     <string name="launcher_icon_remove_description_content">مدير الملفات هو أحد تطبيقات النظام. لن تتمكن من إدارة الملفات الموجودة على جهازك بعد إزالة الاختصار من الشاشة الرئيسية.</string>
     <string name="launcher_icon_remove_description_title">هل ترغب في إزالة \"مدير الملفات\" من الشاشة الرئيسية؟</string>
@@ -332,6 +337,9 @@
     <string name="local_image">الصور</string>
     <string name="local_music">ملفات صوتية</string>
     <string name="local_video">ملفات فيديو</string>
+    <string name="main_button_continue">الإعدادات</string>
+    <string name="main_button_ok">موافق</string>
+    <string name="main_button_quit">إلغاء</string>
     <string name="make_private">اجعلها خاصة</string>
     <string name="make_private_msg_1">هل ترغب في تغييره إلى ملف خاص؟</string>
     <string name="make_private_msg_2">هل ترغب في تغييرها إلى ملفات خاصة؟</string>
@@ -348,6 +356,7 @@
     <string name="menu_item_sort_type">النوع</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">تعيين كخلفية الشاشة</string>
+    <string name="message_request_manage_external_storage_perm">يحتاج مدير الملفات الوصول إلى جميع الملفات لإدارتها على جهازك. يمكنك منح هذا الإذن من الإعدادات.</string>
     <string name="mi_router_label">جهاز التوجيه</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">الليل</string>
@@ -520,6 +529,7 @@
     <string name="partial_delete_failure">تعذر حذف بعض الملفات. حاول مرة اخرى.</string>
     <string name="partial_encrypt_success">فشل في إضافة بعض الملفات إلى خاص. حاول مرة أخرى.</string>
     <string name="path_name_email">البريد الإلكتروني</string>
+    <string name="perm_manage_external_storage">الوصول إلى جميع الملفات</string>
     <string name="permission_denial">تعذر الوصول إلى الملفات. قم بالسماح لبرنامج مدير الملفات بالوصول إلى الملفات من الإعدادات.</string>
     <string name="permission_description">تفاصيل الأذونات</string>
     <string name="permission_required">تعذر الوصول إلى الملفات. قم بالسماح لبرنامج مدير الملفات بالوصول إلى الملفات من الإعدادات.​</string>
@@ -620,6 +630,7 @@
     <string name="set_pattern">تحديث كلمة المرور</string>
     <string name="set_pattern_btn">تعيين</string>
     <string name="set_pattern_msg">يرجى تعيين كلمة المرور مرة أخرى. يمكن استخدام كلمة مرور حماية الخصوصية أيضًا للصور والرسائل والملاحظات.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">أقل من %d كيلوبايت</string>
     <string name="size_lv2" formatted="false">%1d كيلوبايت - %2d ميجابايت</string>
     <string name="size_lv3" formatted="false">%1d ميجابايت - %2d ميجابايت</string>
@@ -710,9 +721,11 @@
     <string name="time_picker_label_hour">س</string>
     <string name="time_picker_label_minute">دق</string>
     <string name="tip">تنبيه</string>
+    <string name="tips_add_to_widget">يمكنك إضافة ما يصل إلى %d ملفات إلى هذه الأداة. إذا قمت بإضافة مزيد من الملفات، فسيتم استبدال العناصر المضافة مسبقا بالجديدة.</string>
     <string name="title_app_tags">التطبيقات</string>
     <string name="title_expire_video">على وشك الانتهاء</string>
     <string name="title_recent">الحديثة</string>
+    <string name="title_request_manage_external_storage_perm">الأذونات مطلوبة</string>
     <string name="title_select_volume">حدد المجلد</string>
     <string name="to_open">الإعدادات</string>
     <string name="to_setting">الإعدادات</string>
@@ -753,6 +766,16 @@
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
+    <string name="widget_add_files">إضافة ملف</string>
+    <string name="widget_added_fail_content">%1$s موجود مسبقا على الشاشة الرئيسية</string>
+    <string name="widget_added_fail_tips">تعذر الإضافة</string>
+    <string name="widget_added_success_content">تم إضافة %1$s إلى الشاشة الرئيسية</string>
+    <string name="widget_added_success_tips">تمت الإضافة بنجاح</string>
+    <string name="widget_choose_document_please">حدد المستند</string>
+    <string name="widget_choose_file">انقر لإضافة ملفات</string>
+    <string name="widget_choose_fragment_title">اختر نوع الملف</string>
+    <string name="widget_finish">تم</string>
+    <string name="widget_name">الملفات المعروضة مؤخرا</string>
     <string name="wifi_state">حالات شبكة Wi-Fi</string>
     <string name="withdraw">سحب</string>
     <string name="withdraw_consent">سحب الموافقة</string>

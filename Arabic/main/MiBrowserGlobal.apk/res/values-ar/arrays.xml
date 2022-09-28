@@ -109,7 +109,7 @@
     </string-array>
     <string-array name="pref_security_do_not_track_keys">
         <item>مشغل</item>
-        <item>فقط في وضع التصفح المخفي</item>
+        <item>فقط في وضع التصفح المتخفي</item>
         <item>متوقف</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
@@ -124,6 +124,19 @@
         <item>الكمبيوتر الشخصي</item>
         <item>iPhone</item>
         <item>أيباد</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>تقييد</item>
+        <item>اسأل اولا</item>
+        <item>سماح</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>تقييد</item>
+        <item>اسأل اولا</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>تقييد</item>
+        <item>سماح</item>
     </string-array>
     <string-array name="setting_swipe_up_target">
         <item>بحث</item>

@@ -198,6 +198,22 @@
         <item quantity="few">لقد شاهدت %d دقائق اليوم</item>
         <item quantity="many">لقد شاهدت %d دقيقة اليوم</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">تم المشاركة بنجاح. لقد حصلت على %d نقطة.</item>
+        <item quantity="zero">تم المشاركة بنجاح. لقد حصلت على %d نقطة.</item>
+        <item quantity="one">تم المشاركة بنجاح. لقد حصلت على %d نقطة.</item>
+        <item quantity="two">تم المشاركة بنجاح. لقد حصلت على %d نقاط.</item>
+        <item quantity="few">تم المشاركة بنجاح. لقد حصلت على %d نقاط.</item>
+        <item quantity="many">تم المشاركة بنجاح. لقد حصلت على %d نقطة.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">تم الاشتراك بنجاح. لقد حصلت على %d نقطة.</item>
+        <item quantity="zero">تم الاشتراك بنجاح. لقد حصلت على %d نقطة.</item>
+        <item quantity="one">تم الاشتراك بنجاح. لقد حصلت على %d نقطة.</item>
+        <item quantity="two">تم الاشتراك بنجاح. لقد حصلت على %d نقاط.</item>
+        <item quantity="few">تم الاشتراك بنجاح. لقد حصلت على %d نقاط.</item>
+        <item quantity="many">تم الاشتراك بنجاح. لقد حصلت على %d نقطة.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">اكسب %d نقطة!</item>
         <item quantity="zero">اكسب %d نقطة!</item>

@@ -178,6 +178,7 @@
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
     <string name="send">مشاركة</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>

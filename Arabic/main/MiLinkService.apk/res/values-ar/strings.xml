@@ -35,13 +35,13 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">۱</string>
     <string name="app_ver_name">1.0</string>
+    <string name="cast_image_des">الدليل التوجيهي لبث الشاشة</string>
     <string name="casting_tips">جارٍ بث الشاشة…</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="close">إغلاق</string>
     <string name="close_hotspot_hint">أوقف تشغيل نقطة الاتصال المحمولة قبل البث</string>
     <string name="close_slave_wifi_hint">اقطع الاتصال بشبكات Wi-Fi المساعدة قبل البث</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
-    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">تعذر الاتصال بالجهاز</string>
@@ -89,7 +89,7 @@
     <string name="dialog_scanning_device">جارٍ البحث عن أجهزة قريبة…</string>
     <string name="dialog_scanning_precondition">قم بتشغيل Wi-Fi والبلوتوث لإستخدام العرض اللاسلكي.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">يجب تشغيل Wi-Fi والبلوتوث وخدمات الموقع لتتمكن من استخدام بث الشاشة، هل ترغب في المتابعة؟</string>
+    <string name="dialog_scanning_precondition_new_global">يجب تشغيل Wi-Fi وخدمات الموقع لتتمكن من استخدام بث الشاشة، هل ترغب في المتابعة؟</string>
     <string name="dialog_select_tv">حدد الجهاز (%1$d)</string>
     <string name="dialog_show_help">المساعدة</string>
     <string name="disconnect">إيقاف بث الشاشة</string>
@@ -164,6 +164,7 @@
     <string name="global_privacy_main">بث العناصر من شاشة هاتفك إلى شاشة خارجية أكبر.</string>
     <string name="global_privacy_negative">لا أوافق</string>
     <string name="global_privacy_positive">أوافق</string>
+    <string name="global_privacy_screencast">أثناء تسجيل الشاشة أو نقل الصور، قد تسجل الخدمة التي توفر هذه الميزة أي محتوى حساس معروض على شاشتك أو يتم تشغيله من جهازك، بما في ذلك الصوت وكلمات المرور ومعلومات الدفع والصور والرسائل.</string>
     <string name="global_privacy_tip">&lt;Data>نحتاج إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات الأساسية وتحسين بث الشاشة. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=%1$s>سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة الخصوصية في أي وقت من الإعدادات.&lt;/Data></string>
     <string name="hang_up">البث مع إيقاف شاشة الجهاز</string>
     <string name="hang_up_alert_dialog_content">الاستمرار في البث عند إيقاف شاشة الجهاز. هذه الميزة تقلل من استهلاك الطاقة. اضغط زر الطاقة لتشغيل شاشة الجهاز مجددا.</string>
@@ -367,6 +368,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_permission_nfc_desc">لإقران الأجهزة باستخدام NFC</string>
     <string name="privacy_permission_optional">الأذونات الاختيارية</string>
     <string name="privacy_permission_optional_desc">يتم استخدام هذه الأذونات أثناء استخدام الميزات الإضافية</string>
+    <string name="privacy_permission_screencast">الوصول إلى المعلومات التي تظهر على الشاشة</string>
+    <string name="privacy_permission_screencast_desc">أثناء تسجيل الشاشة أو نقل الصور، قد تسجل الخدمة التي توفر هذه الميزة أي محتوى حساس معروض على شاشتك أو يتم تشغيله من جهازك، بما في ذلك الصوت وكلمات المرور ومعلومات الدفع والصور والرسائل.</string>
     <string name="privacy_permission_wlan">تشغيل شبكة Wi-Fi وإيقافها</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">للعثور على الأجهزة القريبة المتاحة</string>

@@ -179,6 +179,7 @@
     <string name="callrecordview_menu_show_missed">المكالمات الفائتة</string>
     <string name="callrecordview_menu_show_sim">%s مكالمات</string>
     <string name="callrecordview_menu_show_stranger">المكالمات من أرقام غير معروفة</string>
+    <string name="callrecordview_menu_xiaoaiphone">مساعد المكالمات Mi AI</string>
     <string name="cancel">إلغاء</string>
     <string name="cancel_confirmation_dialog_message">تجاهل هذه التغييرات؟</string>
     <string name="cancel_confirmation_dialog_title">إلغاء</string>
@@ -505,6 +506,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">الاسم</string>
     <string name="gallery">المعرض</string>
     <string name="ghostData_company">الشركة</string>
@@ -638,6 +640,7 @@
     <string name="menu_sync_remove">حذف مجموعة المزامنة</string>
     <string name="midnight">الليل</string>
     <string name="miprofile_account_type">بطاقات جهة اتصال</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">تعديل الملف الشخصي</string>
     <string name="miprofile_name">ملفي الشخصي</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -794,6 +797,7 @@
     <string name="permission_retry_dialog_msg_pad">لتتمكن من استخدام بطاقة SIM مع هذا التطبيق وإدارة جهات الاتصال الخاصة بك، اسمح لهذا التطبيق بالوصول إلى جهات الاتصال وتعديلها والوصول إلى معلومات الجهاز.</string>
     <string name="permission_retry_setting">الإعدادات</string>
     <string name="phoneLabelsGroup">الهاتف</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">الرقم طويل جداً</string>
     <string name="phone_primary">أساسي</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة على الجهاز.</string>
@@ -863,6 +867,9 @@
     <string name="preference_smart_group_title">المجموعات الذكية</string>
     <string name="preference_tone_title">نغمات</string>
     <string name="preference_yellowpage_function_setting">إعدادات الصفحات الصفراء</string>
+    <string name="presentation_payphone">هاتف عمومي</string>
+    <string name="presentation_private">رقم خاص</string>
+    <string name="presentation_unknown">رقم غير معروف</string>
     <string name="previous">السابق</string>
     <string name="privacy_password_message1">تعمل كلمة مرور حماية الخصوصية للصور والملاحظات والمجلدات المخفية.</string>
     <string name="privacy_password_message2">الرجاء استخدام كلمة مرور حماية الخصوصية. ستعمل على الصور والملاحظات والمجلدات المخفية.</string>
@@ -939,7 +946,7 @@
     <string name="remove_duplicate">"سيساعدك MIUI على العثور و دمج جهات الاتصال المكررة. 
 
  للبدء، انقر أيقونة الدمج في أسفل الشاشة."</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_app_btn_cancel">إلغاء</string>
     <string name="restore_app_btn_restore">موافق</string>
     <string name="restore_app_description_content">أضف اختصار لشاشة الرئيسية لتتمكن من الوصول إلى جهات الاتصال بشكل اسرع.</string>
@@ -1036,6 +1043,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">لا توجد أعضاء في المجموعة</string>
     <string name="six_letter">ج ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">الشركات</string>
     <string name="smart_group_company_unavailable">لا توجد معلومات عن الشركة</string>
     <string name="smart_group_frequency_1">خلال الشهر الماضي</string>
@@ -1077,6 +1085,7 @@
     <string name="starred_contacts">المفضلة</string>
     <string name="status_available">متاح</string>
     <string name="status_away">بعيدا</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">مشغول</string>
     <string name="strequentList">المفضلة</string>
     <string name="success_message_import_from_account">تم استيراد جهة الاتصال</string>
@@ -1201,6 +1210,7 @@
     <string name="video_chat">دردشة فيديو</string>
     <string name="viewContactDesription">عرض جهة الاتصال</string>
     <string name="viewContactTitle">تفاصيل جهة الاتصال</string>
+    <string name="view_more_call_logs">عرض المزيد</string>
     <string name="view_updates_from_group">عرض التحديثات</string>
     <string name="voicemail">البريد الصوتي</string>
     <string name="websiteLabelsGroup">موقع ويب</string>

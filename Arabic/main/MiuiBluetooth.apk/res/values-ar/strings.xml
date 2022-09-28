@@ -466,7 +466,9 @@
     <string name="hdcp_checking_dialog_title">‏تعيين سلوك التحقق HDCP</string>
     <string name="hdcp_checking_title">‏التحقق من HDCP</string>
     <string name="headset_battery_fw_failed">اشحن جهازك اولاً</string>
+    <string name="headset_battery_low">البطارية منخفضة، اشحن السماعات الآن.</string>
     <string name="headset_connect_device">قم بتوصيل الجهاز</string>
+    <string name="headset_connect_timeout">انتهت مهلة الاتصال. أبلغ عن المشكلة من جديد.</string>
     <string name="headset_device_check_failed">تعذر التحقق من التحديثات</string>
     <string name="headset_device_donot_move">ابقي الجهاز قريب</string>
     <string name="headset_device_enter_upgrade_failed">تعذر بدء التحديث</string>
@@ -492,6 +494,7 @@
     <string name="headset_loss_notify_summary">يبدو أن هناك سماعة واحدة على الأقل غير موجودة في علبة الشحن. ابحث عنها!</string>
     <string name="headset_loss_notify_summary1">لا يبدو أن سماعات الرأس موجودة في العلبة. ضعهم في علبة الشحن.</string>
     <string name="headset_loss_notify_title">تنبيه السماعة مفقودة</string>
+    <string name="headset_not_in_case">ضع كلتا السماعتين في العلبة وأبلغ عن المشكلة من جديد</string>
     <string name="headset_read_fw_state">تعذر الحصول على معلومات التحديث</string>
     <string name="headset_update_failed">تعذر التحديث</string>
     <string name="headset_update_ok">تم</string>
@@ -683,6 +686,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>

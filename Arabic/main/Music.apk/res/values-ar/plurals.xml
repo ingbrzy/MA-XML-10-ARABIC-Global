@@ -250,6 +250,22 @@
         <item quantity="few">&lt;font color==\"red\">%dاغاني&lt;/font> قيد التحميل</item>
         <item quantity="many">&lt;font color==\"red\">%dاغنية&lt;/font> قيد التحميل</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">تبقى %d تنزيل مجاني</item>
         <item quantity="zero">تبقى %d تنزيل مجاني</item>
@@ -417,6 +433,14 @@
         <item quantity="two">الفاصل الزمني بين مزج الأغاني: %d ثواني</item>
         <item quantity="few">الفاصل الزمني بين مزج الأغاني: %d ثواني</item>
         <item quantity="many">الفاصل الزمني بين مزج الأغاني: %d ثانية</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">اكسب %1$d نقطة اليوم!</item>
+        <item quantity="zero">اكسب %1$d نقطة اليوم!</item>
+        <item quantity="one">اكسب %1$d نقطة اليوم!</item>
+        <item quantity="two">اكسب %1$d نقاط اليوم!</item>
+        <item quantity="few">اكسب %1$d نقاط اليوم!</item>
+        <item quantity="many">اكسب %1$d نقطة اليوم!</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">فيديو</item>

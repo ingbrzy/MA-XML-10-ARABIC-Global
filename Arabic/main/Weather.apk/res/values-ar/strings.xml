@@ -127,6 +127,7 @@
     <string name="content_desc_activity_main_add_city">إضافة مدينة</string>
     <string name="content_desc_activity_main_add_city_manage">إدارة المدن</string>
     <string name="content_desc_activity_main_more_settings">المزيد من الإعدادات</string>
+    <string name="content_desc_activity_main_page">الصفحة %1$d من %2$d</string>
     <string name="content_desc_back_button">رجوع</string>
     <string name="content_desc_city_manage_del">حذف</string>
     <string name="content_desc_close_button">إغلاق</string>
@@ -162,6 +163,7 @@
     <string name="dynamic_weather">الطقس</string>
     <string name="early_morning">فجر</string>
     <string name="edit_city">إدارة المدن</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">جارٍ التحديث…</string>
     <string name="empty_view_net_unavailable">تعذر الاتصال بالشبكة</string>
     <string name="empty_view_refresh">حاول مجددا</string>
@@ -271,13 +273,22 @@
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="hourly_forcast_now">الآن</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">تثبيت الآن</string>
     <string name="indices_title_chance_of_rain">فرصة هطول أمطار</string>
     <string name="indices_title_feel">الشعور الحقيقي</string>
     <string name="indices_title_pressure">الضغط</string>
+    <string name="indices_title_uv">أشعة فوق بنفسجية</string>
     <string name="indices_title_wind_speed">سرعة الرياح</string>
+    <string name="indices_wind_direction_east">ق</string>
+    <string name="indices_wind_direction_north">ش</string>
+    <string name="indices_wind_direction_south">ج</string>
+    <string name="indices_wind_direction_west">غ</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">مؤشر UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">تشغيل خدمات الموقع</string>
     <string name="location_tag">تحديد الموقع</string>
     <string name="manager_city_option_add_home">إضافة إلى صفحة البداية</string>
@@ -377,7 +388,7 @@
     <string name="particulate_matter_not_exceeded">عادي</string>
     <string name="particulate_matter_serious_exceeded">عالي جدا</string>
     <string name="permission_device_info">معلومات الجهاز</string>
-    <string name="permission_device_introduce">التعرف على معرف الجهاز استنادًا إلى موديل الجهاز و IMEI، وتوفير خدمات مترجمة على حسب تفضيلات اللغة</string>
+    <string name="permission_device_introduce">التعرف على الأجهزة بناء على موديل الجهاز وتوفير خدمات مترجمة على حسب تفضيلات اللغة</string>
     <string name="permission_exit">خروج</string>
     <string name="permission_privacy">سياسة الخصوصية (إلزامي)</string>
     <string name="permission_select_all">تحديد الكل</string>
@@ -426,6 +437,8 @@
     <string name="send">مشاركة</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_notification_manager">التنبيهات</string>
+    <string name="setting_used_to_push_reminder">تلقي تنبيهات وتحذيرات الطقس الرسمية</string>
     <string name="settings">الإعدادات</string>
     <string name="settings_atmospheric_pressure_atm">الجو القياسي (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">هيكتوباسكال (hPa)</string>
@@ -437,6 +450,7 @@
     <string name="share_menu_title">مشاركة</string>
     <string name="share_subject">مشاركة</string>
     <string name="share_weather_desc">\#طقس MIUI#اليوم %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">،</string>
     <string name="share_weather_save_pic_fail">تعذر أخذ لقطة للشاشة</string>
     <string name="shortcut_short_label_24_hour_forecast">توقعات ٢٤ ساعة</string>

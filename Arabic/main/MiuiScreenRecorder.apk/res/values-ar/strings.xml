@@ -33,7 +33,7 @@
     <string name="app_name">مسجل الشاشة</string>
     <string name="app_notification_channel_record_complete">إشعارات للتسجيلات المكتملة</string>
     <string name="app_notification_info">مسجل الشاشة يعمل في الخلفية</string>
-    <string name="app_notification_record_complete">"تم حفظ تسجيل الشاشة في المعرض
+    <string name="app_notification_record_saved">"تم التسجيل بنجاح.
 انقر للعرض"</string>
     <string name="app_notification_title">مسجل الشاشة</string>
     <string name="auto_stop_title">تم حفظ الفيديو بنجاح</string>
