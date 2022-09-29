@@ -180,7 +180,6 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
-    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="date_view">التاريخ</string>

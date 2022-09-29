@@ -75,9 +75,7 @@
     <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>

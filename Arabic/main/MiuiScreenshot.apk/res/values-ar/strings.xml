@@ -330,17 +330,12 @@
     <string name="screen_editor_btn_save">حفظ</string>
     <string name="screen_editor_btn_shell_off">إزالة إطار الجهاز</string>
     <string name="screen_editor_btn_shell_on">إضافة إطار الجهاز</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">هل ترغب في حذف لقطة الشاشة هذه؟</string>
     <string name="screen_editor_delete_dialog_picture_msg">هل ترغب في حذف هذه الصورة الآن؟</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">تم</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">لا يمكن إضافة إطار الجهاز على لقطات الشاشة المقطوعة</string>
     <string name="screen_editor_shell_net_error">اتصل بالشبكة لتنزيل إطار الجهاز</string>
     <string name="screen_editor_shell_res_downloading">جارٍ تنزيل إطار الجهاز…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">إلغاء</string>
     <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
     <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>

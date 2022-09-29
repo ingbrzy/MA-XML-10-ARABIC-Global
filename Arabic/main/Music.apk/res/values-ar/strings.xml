@@ -360,9 +360,7 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عندما يكون وضع \"توفير شحن البطارية\" مفعّل</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التنزيل…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_queued">في قائمة الاستماع</string>
@@ -471,9 +469,7 @@
     <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
     <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
     <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -870,7 +866,6 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -1165,7 +1160,6 @@
     <string name="privacy_authorize_revoking">جارٍ إلغاء الترخيص…</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامية)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="privacy_request_desc">"&lt;Data>يحتاج موسيقى Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بخدمات البث عبر الإنترنت. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية لموسيقى Mi في أي وقت من الإعدادات.
 يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام موسيقى Mi.
 أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data>"</string>
@@ -1344,7 +1338,6 @@
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">جارٍ إعداد التشغيل…</string>
     <string name="start_update">جارٍ تثبيت اصدار جديد…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
@@ -1516,7 +1509,6 @@
     <string name="user_agreement_hint_with_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا موبايل.&lt;/a>&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi، وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لحساب eSurfing&lt;/a>.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="user_avatar_update_title">تغيير صورة الملف الشخصي</string>
     <string name="user_avatar_uploading">لحظة من فضلك…</string>
     <string name="user_experience_program_open">بسبب قيود حقوق النشر، يجب عليك أولاً التسجيل في برنامج تجربة المستخدم لتتمكن من تشغيل الأغاني التي تم تنزيلها. يمكنك يمكنك القيام بذلك من الإعدادات > كلمات المرور والحماية > الخصوصية > الانضمام إلى برنامج تجربة المستخدم.</string>

@@ -259,7 +259,6 @@ dd/MM"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -338,7 +337,6 @@ dd/MM"</string>
 رائعاً على وشك الحدوث"</string>
     <string name="standard_clock_panel">قياسي</string>
     <string name="standard_style">قياسية</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. يرجى الموافقة على شروط وأحكام Xiaomi Health للمتابعة.</string>
     <string name="step_component_info_desc">سيتغير رمز عدد الخطوات إلى كأس عند تحقيق الهدف المطلوب. هذه البيانات مقدمة من Xiaomi Health.</string>
     <string name="step_component_info_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. قم بتثبيت Xiaomi Health والموافقة على الشروط والأحكام للمتابعة</string>
