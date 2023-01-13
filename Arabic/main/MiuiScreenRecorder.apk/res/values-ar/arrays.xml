@@ -82,7 +82,7 @@
     </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>تلقائي</item>
-        <item>بورتريه</item>
+        <item>عمودي</item>
         <item>منظر طبيعي</item>
     </string-array>
     <string-array name="screenrecorder_settings_resolution">
@@ -99,6 +99,12 @@
         <item>كتم</item>
         <item>ميكروفون</item>
         <item>أصوات النظام</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>لا يوجد</item>
+        <item>ميكروفون</item>
+        <item>النظام</item>
+        <item>معا</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>التخزين الداخلي</item>

@@ -31,12 +31,12 @@
 هل تريد منا مساعدتك في تجديد اشتراكك؟"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">يمكنك تحميل %1$d أغنية مجانية. تنزيل %2$s الآن؟</item>
-        <item quantity="zero">يمكنك تحميل %1$d أغنية مجانية. تنزيل %2$s الآن؟</item>
-        <item quantity="one">يمكنك تحميل %1$d أغنية مجانية. تنزيل %2$s الآن؟</item>
-        <item quantity="two">يمكنك تحميل %1$d أغاني مجانية. تنزيل %2$s الآن؟</item>
-        <item quantity="few">يمكنك تحميل %1$d أغاني مجانية. تنزيل %2$s الآن؟</item>
-        <item quantity="many">يمكنك تحميل %1$d أغنية مجانية. تنزيل %2$s الآن؟</item>
+        <item quantity="other">يمكنك تحميل %1$d أغنية مجانية. تحميل \"%2$s\" الآن؟</item>
+        <item quantity="zero">يمكنك تحميل %1$d أغنية مجانية. تحميل \"%2$s\" الآن؟</item>
+        <item quantity="one">يمكنك تحميل %1$d أغنية مجانية. تحميل \"%2$s\" الآن؟</item>
+        <item quantity="two">يمكنك تحميل %1$d أغاني مجانية. تحميل \"%2$s\" الآن؟</item>
+        <item quantity="few">يمكنك تحميل %1$d أغاني مجانية. تحميل \"%2$s\" الآن؟</item>
+        <item quantity="many">يمكنك تحميل %1$d أغنية مجانية. تحميل \"%2$s\" الآن؟</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">سيتوقف المشغل خلال %d دقيقة</item>
@@ -164,6 +164,38 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="backpack_gift_timerleft_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="backpack_gift_validtime_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
+    </plurals>
+    <plurals name="backpack_gift_validtime_hour">
+        <item quantity="other">%1$d ساعة</item>
+        <item quantity="zero">%1$d ساعة</item>
+        <item quantity="one">%1$d ساعة</item>
+        <item quantity="two">%1$d ساعات</item>
+        <item quantity="few">%1$d ساعات</item>
+        <item quantity="many">%1$d ساعة</item>
+    </plurals>
+    <plurals name="backpack_gift_validtime_min">
+        <item quantity="other">%1$d دقيقة</item>
+        <item quantity="zero">%1$d دقيقة</item>
+        <item quantity="one">%1$d دقيقة</item>
+        <item quantity="two">%1$d دقيقة</item>
+        <item quantity="few">%1$d دقيقة</item>
+        <item quantity="many">%1$d دقيقة</item>
+    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d تعليق</item>
         <item quantity="zero">%d تعليق</item>
@@ -171,6 +203,14 @@
         <item quantity="two">%d تعليقات</item>
         <item quantity="few">%d تعليقات</item>
         <item quantity="many">%d تعليق</item>
+    </plurals>
+    <plurals name="cr_background_day">
+        <item quantity="other">%1$d يوم</item>
+        <item quantity="zero">%1$d يوم</item>
+        <item quantity="one">%1$d يوم</item>
+        <item quantity="two">%1$d أيام</item>
+        <item quantity="few">%1$d أيام</item>
+        <item quantity="many">%1$d يوم</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">قبل %d يوم</item>
@@ -227,12 +267,12 @@
         <item quantity="many">يبدو أن %d من الأغاني المحددة مخزنة على مجلد خارجي. امنح الأذونات المطلوبة لحذفهم.</item>
     </plurals>
     <plurals name="download_finished">
-        <item quantity="other">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
-        <item quantity="zero">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
-        <item quantity="one">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
-        <item quantity="two">تم تنزيل &lt;font color==\"red\">%d أغاني&lt;/font></item>
-        <item quantity="few">تم تنزيل &lt;font color==\"red\">%d أغاني&lt;/font></item>
-        <item quantity="many">تم تنزيل &lt;font color==\"red\">%d أغنية&lt;/font></item>
+        <item quantity="other">تم تحميل &lt;font color==\"red\">%d أغنية&lt;/font></item>
+        <item quantity="zero">تم تحميل &lt;font color==\"red\">%d أغنية&lt;/font></item>
+        <item quantity="one">تم تحميل &lt;font color==\"red\">%d أغنية&lt;/font></item>
+        <item quantity="two">تم تحميل &lt;font color==\"red\">%d أغاني&lt;/font></item>
+        <item quantity="few">تم تحميل &lt;font color==\"red\">%d أغاني&lt;/font></item>
+        <item quantity="many">تم تحميل &lt;font color==\"red\">%d أغنية&lt;/font></item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">تم حذف %d تنزيل</item>
@@ -266,13 +306,21 @@
         <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
         <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s مشاهدة</item>
+        <item quantity="zero">%s مشاهدة</item>
+        <item quantity="one">%s مشاهدة</item>
+        <item quantity="two">%s مشاهدات</item>
+        <item quantity="few">%s مشاهدات</item>
+        <item quantity="many">%s مشاهدة</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">تبقى %d تنزيل مجاني</item>
-        <item quantity="zero">تبقى %d تنزيل مجاني</item>
-        <item quantity="one">تبقى %d تنزيل مجاني</item>
-        <item quantity="two">تبقى %d تنزيلات مجاني</item>
-        <item quantity="few">تبقى %d تنزيلات مجاني</item>
-        <item quantity="many">تبقى %d تنزيل مجاني</item>
+        <item quantity="other">تبقى لديك %d تحميل مجاني</item>
+        <item quantity="zero">تبقى لديك %d تحميل مجاني</item>
+        <item quantity="one">تبقى لديك %d تحميل مجاني</item>
+        <item quantity="two">تبقى لديك %d تحميلات مجانية</item>
+        <item quantity="few">تبقى لديك %d تحميلات مجانية</item>
+        <item quantity="many">تبقى لديك %d تحميل مجاني</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -314,6 +362,30 @@
         <item quantity="few">في %d دقائق</item>
         <item quantity="many">في %d دقيقة</item>
     </plurals>
+    <plurals name="ktv_card_message_your_turn">
+        <item quantity="other">يمكن للمستخدم التالي الغناء بعد %1$s ث</item>
+        <item quantity="zero">يمكن للمستخدم التالي الغناء بعد %1$s ث</item>
+        <item quantity="one">يمكن للمستخدم التالي الغناء بعد %1$s ث</item>
+        <item quantity="two">يمكن للمستخدم التالي الغناء بعد %1$s ث</item>
+        <item quantity="few">يمكن للمستخدم التالي الغناء بعد %1$s ث</item>
+        <item quantity="many">يمكن للمستخدم التالي الغناء بعد %1$s ث</item>
+    </plurals>
+    <plurals name="ktv_people_queue">
+        <item quantity="other">%1$s شخص في الانتظار</item>
+        <item quantity="zero">%1$s شخص في الانتظار</item>
+        <item quantity="one">%1$s شخص في الانتظار</item>
+        <item quantity="two">%1$s أشخاص في الانتظار</item>
+        <item quantity="few">%1$s أشخاص في الانتظار</item>
+        <item quantity="many">%1$s شخص في الانتظار</item>
+    </plurals>
+    <plurals name="ktv_sung_before_members">
+        <item quantity="other">انتهى %1$s شخص من الغناء</item>
+        <item quantity="zero">انتهى %1$s شخص من الغناء</item>
+        <item quantity="one">انتهى %1$s شخص من الغناء</item>
+        <item quantity="two">انتهى %1$s أشخاص من الغناء</item>
+        <item quantity="few">انتهى %1$s أشخاص من الغناء</item>
+        <item quantity="many">انتهى %1$s شخص من الغناء</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">الآن</item>
         <item quantity="zero">الآن</item>
@@ -338,6 +410,14 @@
         <item quantity="few">يتم متابعة %d أشخاص</item>
         <item quantity="many">يتم متابعة %d شخص</item>
     </plurals>
+    <plurals name="me_visit_number">
+        <item quantity="other">عدد الزيارات: %1$d مرة</item>
+        <item quantity="zero">عدد الزيارات: %1$d مرة</item>
+        <item quantity="one">عدد الزيارات: %1$d مرة</item>
+        <item quantity="two">عدد الزيارات: %1$d مرات</item>
+        <item quantity="few">عدد الزيارات: %1$d مرات</item>
+        <item quantity="many">عدد الزيارات: %1$d مرة</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">تم تحديد %d عنصر</item>
         <item quantity="zero">تم تحديد %d عنصر</item>
@@ -355,12 +435,12 @@
         <item quantity="many">%d إشعارًا جديدًا</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">تم تحديد %d عنصر</item>
-        <item quantity="zero">تم تحديد %d عنصر</item>
-        <item quantity="one">تم تحديد %d عنصر</item>
-        <item quantity="two">تم تحديد %d عناصر</item>
-        <item quantity="few">تم تحديد %d عناصر</item>
-        <item quantity="many">تم تحديد %d عنصر</item>
+        <item quantity="other">%d عنصر محدد</item>
+        <item quantity="zero">%d عنصر محدد</item>
+        <item quantity="one">%d عنصر محدد</item>
+        <item quantity="two">%d عناصر محددة</item>
+        <item quantity="few">%d عناصر محددة</item>
+        <item quantity="many">%d عنصر محدد</item>
     </plurals>
     <plurals name="notif_title_multiple_downloading">
         <item quantity="other">جارٍ تنزيل %1$d ملف</item>

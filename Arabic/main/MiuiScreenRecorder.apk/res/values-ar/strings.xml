@@ -237,6 +237,7 @@
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_settings">الخصوصية</string>
     <string name="quit_recording">الخروج من مسجل الشاشة</string>
+    <string name="record_time_too_short">الفيديو مسجل قصير جدا</string>
     <string name="recording_failure">لا يمكن التسجيل، ابدء من جديد</string>
     <string name="recording_max_size">تم إيقاف التسجيل وحفظه لوصول ملف الفيديو إلى الحجم الأفصى. أبدء التسجيل من حيث توقفت إذا لم تنتهي بعد.</string>
     <string name="recording_without_mic">الميكروفون مشغول الآن ولا يمكنه تسجيل الصوت.</string>

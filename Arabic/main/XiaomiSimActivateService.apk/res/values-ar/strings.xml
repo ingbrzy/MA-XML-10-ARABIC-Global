@@ -260,6 +260,7 @@
     <string name="search_menu_title">البحث</string>
     <string name="send">مشاركة</string>
     <string name="sim_activate_failed">تعذر تفعيل الخدمة</string>
+    <string name="sim_activate_notificat_channel">إشعارات التنشيط</string>
     <string name="sim_activate_prepare">تفعيل الخدمة</string>
     <string name="sim_activated_failed_msg">تعذر تفعيل الخدمة. انقر مجددا.</string>
     <string name="sim_unactivated_feature_title">لم يتم تفعيل \"%s\"</string>

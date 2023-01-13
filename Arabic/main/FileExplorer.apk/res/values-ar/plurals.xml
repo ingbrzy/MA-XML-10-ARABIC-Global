@@ -112,6 +112,14 @@
         <item quantity="few">منذ %1$d أيام</item>
         <item quantity="many">منذ %1$d يوم</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">هل انت متأكد من حذف %1$d ملف من جميع أجهزتك و Cloud؟ يمكن استرداد ملفات Mi Drive من العناصر المحذوفة مؤخرا.</item>
+        <item quantity="zero">هل انت متأكد من حذف %1$d ملف من جميع أجهزتك و Cloud؟ يمكن استرداد ملفات Mi Drive من العناصر المحذوفة مؤخرا.</item>
+        <item quantity="one">هل انت متأكد من حذف %1$d ملف من جميع أجهزتك و Cloud؟ يمكن استرداد ملفات Mi Drive من العناصر المحذوفة مؤخرا.</item>
+        <item quantity="two">هل انت متأكد من حذف %1$d ملفات من جميع أجهزتك و Cloud؟ يمكن استرداد ملفات Mi Drive من العناصر المحذوفة مؤخرا.</item>
+        <item quantity="few">هل انت متأكد من حذف %1$d ملفات من جميع أجهزتك و Cloud؟ يمكن استرداد ملفات Mi Drive من العناصر المحذوفة مؤخرا.</item>
+        <item quantity="many">هل انت متأكد من حذف %1$d ملف من جميع أجهزتك و Cloud؟ يمكن استرداد ملفات Mi Drive من العناصر المحذوفة مؤخرا.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">هل ترغب في حذف %1$d ملف؟</item>
         <item quantity="zero">هل ترغب في حذف %1$d ملف؟</item>
@@ -271,6 +279,30 @@
         <item quantity="two">تحتاج لجمع أكثر من &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> جواهر لتشارك في سحب الحظ.</item>
         <item quantity="few">تحتاج لجمع أكثر من &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> جواهر لتشارك في سحب الحظ.</item>
         <item quantity="many">تحتاج لجمع أكثر من &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> جوهرة لتشارك في سحب الحظ.</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">فشل مزامنة %1$s ملف</item>
+        <item quantity="zero">فشل مزامنة %1$s ملف</item>
+        <item quantity="one">فشل مزامنة %1$s ملف</item>
+        <item quantity="two">فشل مزامنة %1$s ملفات</item>
+        <item quantity="few">فشل مزامنة %1$s ملفات</item>
+        <item quantity="many">فشل مزامنة %1$s ملف</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">تمت مزامنة %1$s ملف بنجاح</item>
+        <item quantity="zero">تمت مزامنة %1$s ملف بنجاح</item>
+        <item quantity="one">تمت مزامنة %1$s ملف بنجاح</item>
+        <item quantity="two">تمت مزامنة %1$s ملفات بنجاح</item>
+        <item quantity="few">تمت مزامنة %1$s ملفات بنجاح</item>
+        <item quantity="many">تمت مزامنة %1$s ملف بنجاح</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">في انتظار اتصال الشبكة. تبقى %1$s ملف.</item>
+        <item quantity="zero">في انتظار اتصال الشبكة. تبقى %1$s ملف.</item>
+        <item quantity="one">في انتظار اتصال الشبكة. تبقى %1$s ملف.</item>
+        <item quantity="two">في انتظار اتصال الشبكة. تبقى %1$s ملفات.</item>
+        <item quantity="few">في انتظار اتصال الشبكة. تبقى %1$s ملفات.</item>
+        <item quantity="many">في انتظار اتصال الشبكة. تبقى %1$s ملف.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d عنصر محدد</item>

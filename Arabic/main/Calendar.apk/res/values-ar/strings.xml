@@ -91,6 +91,7 @@
     <string name="birthday_saved">تم حفظ عيد الميلاد</string>
     <string name="birthday_term">عيد ميلاد</string>
     <string name="button_record_menstruation">تسجيل</string>
+    <string name="calendar_account_settings">إعدادات الحساب</string>
     <string name="calendar_permission_desc">إدارة الأحداث</string>
     <string name="calendar_privacy_policy">سياسة الخصوصية</string>
     <string name="can_not_create_long_event">اسم الحدث طويل جدا</string>
@@ -112,6 +113,7 @@
     <string name="change">تغيير</string>
     <string name="change_response_title">تغيير الإستجابة</string>
     <string name="change_zodiac">تغيير علامة البرج</string>
+    <string name="check_new_version">التحقق من وجود تحديثات</string>
     <string name="chips_action_cancel">إلغاء</string>
     <string name="chips_action_copy">نسخ</string>
     <string name="chips_permission_text">السماح باقتراحات جهات الاتصال</string>
@@ -180,6 +182,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="date_view">التاريخ</string>
@@ -194,6 +197,7 @@
     <string name="description_calendar_edit_event">تطبيقات النظام/التقويم/جدول الأعمال</string>
     <string name="directory_searching_fmt">جارٍ بحث %s…</string>
     <string name="discard_label">إلغاء</string>
+    <string name="display_to_calendar">عرض في التقويم</string>
     <string name="does_not_repeat">حدث لمرة واحدة</string>
     <string name="dropdown_delete_button_desc">إزالة %s من المستلمين</string>
     <string name="early_morning">فجر</string>
@@ -320,10 +324,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -387,6 +391,7 @@
     <string name="horoscope">خريطة الابراج</string>
     <string name="horoscope_card_title">برجك اليوم</string>
     <string name="horoscope_select_activity_label">تحديد علامة البرج</string>
+    <string name="hour_1">%d ساعة</string>
     <string name="image_processing">الصورة ليست جاهزة بعد</string>
     <string name="import_action">استيراد</string>
     <string name="import_birthday">استيراد تواريخ ميلاد</string>
@@ -451,6 +456,10 @@
     <string name="mesens_card_title_today_begin">قد تبدأ الدورة الشهرية اليوم</string>
     <string name="mesens_card_title_tomorrow_begin">قد تبدأ الدورة الشهرية غدا</string>
     <string name="midnight">الليل</string>
+    <string name="minutes_10">%d دقائق</string>
+    <string name="minutes_15">%d دقيقة</string>
+    <string name="minutes_30">%d دقيقة</string>
+    <string name="minutes_5">%d دقائق</string>
     <string name="missing_name">(بدون اسم)</string>
     <string name="missing_required_permission">لقد قيدت الأذونات المطلوبة.</string>
     <string name="miuix_access_state_desc">محدد</string>
@@ -713,7 +722,6 @@
     <string name="save">حفظ</string>
     <string name="saving_event">تم حفظ الحدث</string>
     <string name="saving_event_with_guest">جارٍ ارسال التحديثات…</string>
-    <string name="search_calendar">التاريخ؛شروط شمسية؛قمري؛التقويم؛الحظ؛جدول الأعمال؛اجتماع؛تذكير؛عطلة؛عطلة؛تاريخ الميلاد؛۲۰۱٦؛۲۰۱٧؛مهرجان الربيع؛رأس السنة الميلادية؛عيد العمال الدولي؛مهرجان منتصف الخريف</string>
     <string name="search_calendar_edit_event">اجتماع؛تذكير؛جدول الأعمال</string>
     <string name="search_calendar_settings">التقويم؛جدول الأعمال؛تذكير</string>
     <string name="search_events">البحث عن أحداث</string>
@@ -753,6 +761,9 @@
     <string name="share_image_label">مشاركة عبر</string>
     <string name="share_title">مشاركة</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">إضافة حدث</string>
+    <string name="shortcut_next_agenda">الحدث التالي</string>
+    <string name="shortcut_settings">الإعدادت</string>
     <string name="show_day_view">إظهار اليوم</string>
     <string name="show_indic_date_summary">يتوفر التقويم الهندي إذا تم تعيين إحدى لغات الهند كلغة نظامك</string>
     <string name="show_menstruation_info">عرض معلومات الدورة الشهرية</string>
@@ -792,6 +803,7 @@
     <string name="subtitle_mi_calendar_predict_menstruation">تسجيل وتقدير الدورات الشهرية القادمة باستخدام التقويم</string>
     <string name="subtitle_record_and_start_predict">سجلي دورتك الشهرية لتقدير موعد بدئها في الشهر القادم</string>
     <string name="subtitle_stick_record">سجلي بيانات دوراتك الشهرية لتوقعات أكثر دقة</string>
+    <string name="suggestions_and_feedback">التعليقات</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>

@@ -72,6 +72,14 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d دقيقة متبقية لـ \"%1$s\" اليوم</item>
+        <item quantity="zero">%2$d دقيقة متبقية لـ \"%1$s\" اليوم</item>
+        <item quantity="one">%2$d دقيقة متبقية لـ \"%1$s\" اليوم</item>
+        <item quantity="two">%2$d دقائق متبقية لـ \"%1$s\" اليوم</item>
+        <item quantity="few">%2$d دقائق متبقية لـ \"%1$s\" اليوم</item>
+        <item quantity="many">%2$d دقيقة متبقية لـ \"%1$s\" اليوم</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -152,6 +160,14 @@
         <item quantity="few">لقد استخدمت الجهاز لمدة %d دقائق دون توقف</item>
         <item quantity="many">لقد استخدمت الجهاز لمدة %d دقيقة دون توقف</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">خذ استراحة لمدة %d دقيقة</item>
+        <item quantity="zero">خذ استراحة لمدة %d دقيقة</item>
+        <item quantity="one">خذ استراحة لمدة %d دقيقة</item>
+        <item quantity="two">خذ استراحة لمدة %d دقائق</item>
+        <item quantity="few">خذ استراحة لمدة %d دقائق</item>
+        <item quantity="many">خذ استراحة لمدة %d دقيقة</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d دق</item>
         <item quantity="zero">%d دق</item>
@@ -159,6 +175,22 @@
         <item quantity="two">%d دق</item>
         <item quantity="few">%d دق</item>
         <item quantity="many">%d دق</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">انت تستخدم جهازك منذ %d دقيقة</item>
+        <item quantity="zero">انت تستخدم جهازك منذ %d دقيقة</item>
+        <item quantity="one">انت تستخدم جهازك منذ %d دقيقة</item>
+        <item quantity="two">انت تستخدم جهازك منذ %d دقائق</item>
+        <item quantity="few">انت تستخدم جهازك منذ %d دقائق</item>
+        <item quantity="many">انت تستخدم جهازك منذ %d دقيقة</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">يمكنك إضافة مايصل إلى %d فترة استراحة</item>
+        <item quantity="zero">يمكنك إضافة مايصل إلى %d فترة استراحة</item>
+        <item quantity="one">يمكنك إضافة مايصل إلى %d فترة استراحة</item>
+        <item quantity="two">يمكنك إضافة مايصل إلى %d فترات استراحة</item>
+        <item quantity="few">يمكنك إضافة مايصل إلى %d فترات استراحة</item>
+        <item quantity="many">يمكنك إضافة مايصل إلى %d فترة استراحة</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">مدة استخدام الجهاز اليوم تساوي متوسط %d-يوم</item>

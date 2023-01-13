@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -36,9 +36,7 @@
     <string name="admin_has_ability_to_monitor_device">"لدى مشرف تكنولوجيا المعلومات إمكانية مراقبة وإدارة كل من الإعدادات والوصول إلى الشركة والتطبيقات والأذونات والبيانات المرتبطة بهذا الجهاز، بما في ذلك أنشطة الشبكة والموقع الجغرافي للجهاز وسجلّ المكالمات وسجلّ البحث في جهات الاتصال.
 
 يمكنك التواصل مع مشرف تكنولوجيا المعلومات لمعرفة المزيد، بما في ذلك سياسات خصوصية مؤسستك."</string>
-    <string name="admin_has_ability_to_monitor_profile">"لدى مشرف تكنولوجيا المعلومات إمكانية مراقبة وإدارة كل من الإعدادات والوصول إلى الشركة والتطبيقات والأذونات والبيانات المرتبطة بهذا الملف الشخصي، بما في ذلك أنشطة الشبكة والموقع الجغرافي للجهاز وسجلّ المكالمات وسجلّ البحث في جهات الاتصال.
-
-يمكنك التواصل مع مشرف تكنولوجيا المعلومات لمعرفة المزيد، بما في ذلك سياسات خصوصية مؤسستك."</string>
+    <string name="admin_has_ability_to_monitor_profile">يمكن لمشرف تكنولوجيا المعلومات مراقبة وإدارة الإعدادات، وإمكانية الوصول إلى الشركات، والتطبيقات، والأذونات، والبيانات وأنشطة الشبكة المرتبطة بهذا الملف الشخصي، بالإضافة إلى سجلّ المكالمات وسجلّ البحث في جهات الاتصال. تواصَل مع مشرف تكنولوجيا المعلومات للحصول على مزيد من المعلومات ولمعرفة المزيد حول سياسات الخصوصية التي تُطبّقها مؤسستك.</string>
     <string name="app_label">إعداد الملف الشخصي للعمل</string>
     <string name="back">رجوع</string>
     <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
@@ -55,18 +53,6 @@
     <string name="cant_replace_or_remove_work_profile">يتعذَّر استبدال الملف الشخصي للعمل أو إزالته</string>
     <string name="cant_set_up_device">يتعذر إعداد الجهاز</string>
     <string name="cant_set_up_profile">يتعذر إعداد الملف الشخصي</string>
-    <string name="car_ui_alert_dialog_default_button">إغلاق</string>
-    <string name="car_ui_preference_switch_off">غير مفعَّل</string>
-    <string name="car_ui_preference_switch_on">مفعّل</string>
-    <string name="car_ui_restricted_while_driving">لا تتوفَّر هذه الميزة أثناء القيادة.</string>
-    <string name="car_ui_scrollbar_page_down_button">التمرير للأسفل</string>
-    <string name="car_ui_scrollbar_page_up_button">التمرير للأعلى</string>
-    <string name="car_ui_scrolling_limited_message">هناك حد أقصى للتمرير على الشاشة أثناء القيادة.</string>
-    <string name="car_ui_toolbar_default_search_hint">بحث…</string>
-    <string name="car_ui_toolbar_menu_item_overflow_title">القائمة الكاملة</string>
-    <string name="car_ui_toolbar_menu_item_search_title">بحث</string>
-    <string name="car_ui_toolbar_menu_item_settings_title">إعدادات</string>
-    <string name="car_ui_toolbar_nav_icon_content_description">رجوع</string>
     <string name="change_device_launcher">تغيير مشغّل الجهاز</string>
     <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
     <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
@@ -86,7 +72,6 @@
     <string name="cope_provisioning_step_2_header">التطبيقات الشخصية منفصلة عن تطبيقات العمل ومخفية عنها</string>
     <string name="cope_provisioning_step_3_header">يستطيع مشرف تقنية المعلومات التحكم بالجهاز وحظر التطبيقات</string>
     <string name="cope_provisioning_summary">يتم الاحتفاظ بتطبيقات العمل في ملفك الشخصي للعمل ويديرها مشرف تكنولوجيا المعلومات في مؤسستك. تكون التطبيقات الشخصية منفصلة عن تطبيقات العمل ومخفية عنها. يستطيع مشرف تكنولوجيا المعلومات التحكّم في هذا الجهاز وحظر بعض التطبيقات.</string>
-    <string name="copy">نسخ</string>
     <string name="copying_certs">‏جارٍ إعداد شهادات CA</string>
     <string name="couldnt_set_up_device">تعذر إعداد الجهاز. يمكنك التواصل مع مشرف تكنولوجيا المعلومات للحصول على مساعدة.</string>
     <string name="default_managed_profile_name">الملف الشخصي للعمل</string>
@@ -113,9 +98,11 @@
     <string name="error_icon_content_description">خطأ</string>
     <string name="error_installation_failed">تعذَّر تثبيت تطبيق المشرف.</string>
     <string name="error_package_invalid">تعذّر استخدام تطبيق المشرف. بعض المكونات مفقودة أو تالفة. يمكنك التواصل مع مشرف تكنولوجيا المعلومات للحصول على مساعدة.</string>
+    <string name="error_role_holder_download_install_failed">يُرجى إعادة المحاولة في وقت لاحق أو طلب المساعدة من مشرف تكنولوجيا المعلومات.</string>
+    <string name="error_role_holder_hash_mismatch">يتعذّر ضبط إعدادات الجهاز. يُرجى التواصل مع مشرف تكنولوجيا المعلومات والإشارة إلى ظهور الرسالة \"المجموع الاختباري غير الصالح\".</string>
+    <string name="error_role_holder_package_invalid">يتعذّر ضبط إعدادات الجهاز. يُرجى التواصل مع مشرف تكنولوجيا المعلومات والإشارة إلى ظهور الرسالة \"بعض المكونات مفقودة أو تالفة\".</string>
     <string name="error_wifi">‏تعذّر الاتصال بشبكة Wi-Fi.</string>
     <string name="expand">توسيع</string>
-    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
     <string name="financed_device_screen_header">توفر مؤسسة \"%s\" هذا الجهاز</string>
     <string name="financed_make_payments_subheader_description">يمكن لشركة بيع الأجهزة بالائتمان %1$s تثبيت تطبيق %2$s لتتمكّن من سداد الدفعات مقابل شراء هذا الجهاز.</string>
@@ -177,6 +164,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -205,14 +193,12 @@
     <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
     <string name="navigation_button_description">الانتقال إلى أعلى</string>
     <string name="next">التالي</string>
-    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="ok_setup">حسنًا</string>
     <string name="one_place_for_work_apps">مصدر واحد لتطبيقات العمل</string>
     <string name="opening_paragraph_delete_profile">لديك مسبقًا ملف شخصي للعمل تتم إدارته باستخدام التطبيق التالي:</string>
     <string name="organization_admin">مشرف تكنولوجيا المعلومات</string>
     <string name="password_toggle_content_description">عرض كلمة المرور</string>
     <string name="pick_launcher">حسنًا</string>
-    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="profile_benefits_description">باستخدام ملف شخصي للعمل، يمكنك الفصل بين بيانات العمل والبيانات الشخصية</string>
     <string name="profile_owner_cancel_cancel">لا</string>
     <string name="profile_owner_cancel_message">هل تريد إيقاف الإعداد؟</string>
@@ -232,6 +218,7 @@
     <string name="section_content">محتوى القسم %1$s: %2$s</string>
     <string name="section_heading">عنوان القسم %1$s.</string>
     <string name="set_up_your_device">إعداد الجهاز</string>
+    <string name="setting_up">جارٍ الإعداد…</string>
     <string name="setting_up_workspace">جارٍ إعداد الملف الشخصي للعمل...</string>
     <string name="setup_device">إعداد الجهاز</string>
     <string name="setup_device_encryption">إعداد جهازك. التشفير</string>
@@ -247,7 +234,6 @@
     <string name="something_went_wrong">حدث خطأ.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_setup_reset_device_question">هل تريد إيقاف الإعداد وإعادة ضبط الجهاز؟</string>
-    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sure_you_want_to_delete_profile">سيتم حذف جميع التطبيقات والبيانات في هذا الملف الشخصي عند المتابعة.</string>
     <string name="take_a_few_minutes">قد يستغرق ذلك بضع دقائق.</string>
     <string name="terms">البنود</string>
@@ -258,17 +244,15 @@
     <string name="url_error">لا يمكن عرض هذا الرابط.</string>
     <string name="user_consent_msg">أوافق</string>
     <string name="user_setup_incomplete">إعداد حساب المستخدم غير مكتمل</string>
-    <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
     <string name="view_terms">عرض البنود</string>
     <string name="work_profile_cant_be_added_contact_admin">تتعذَّر إضافة الملف الشخصي للعمل إلى هذا الجهاز. إذا كانت لديك أسئلة، يُرجى التواصل مع مشرف تكنولوجيا المعلومات.</string>
     <string name="work_profile_description">سيتم الاحتفاظ بتطبيقات عملك في هذا الملف الشخصي وستديرها مؤسستك.</string>
     <string name="work_profile_info">معلومات الملف الشخصي للعمل</string>
-    <string name="work_profile_provisioning_accept_header_post_suw">لنبدأ في إعداد الملف الشخصي للعمل.</string>
+    <string name="work_profile_provisioning_accept_header_post_suw">لنبدأ إعداد الملف الشخصي للعمل</string>
     <string name="work_profile_provisioning_progress_label">جارٍ إعداد الملف الشخصي للعمل…</string>
-    <string name="work_profile_provisioning_step_1_header">يتم الاحتفاظ بتطبيقات العمل في ملفك الشخصي للعمل.</string>
+    <string name="work_profile_provisioning_step_1_header">يتم الاحتفاظ بتطبيقات العمل في ملفك الشخصي للعمل</string>
     <string name="work_profile_provisioning_step_2_header">إيقاف تطبيقات العمل مؤقتًا عند انتهاء مهام يوم العمل</string>
-    <string name="work_profile_provisioning_step_3_header">تكون البيانات في ملفك الشخصي للعمل مرئية لمشرف تكنولوجيا المعلومات في مؤسستك.</string>
+    <string name="work_profile_provisioning_step_3_header">البيانات في ملفك الشخصي للعمل تظهر لمشرف تكنولوجيا المعلومات في مؤسستك</string>
     <string name="work_profile_provisioning_summary">يتم الاحتفاظ بتطبيقات العمل في ملفك الشخصي للعمل. يمكنك إيقاف تطبيقات العمل مؤقتًا عند انتهاء مهام يوم العمل. إنّ بيانات ملفك الشخصي للعمل مرئية لمشرف تكنولوجيا المعلومات في مؤسستك.</string>
     <string name="work_profile_setup_later_message">يمكنك إعداد الملف الشخصي للعمل لاحقًا في تطبيق إدارة أجهزة مؤسستك</string>
     <string name="work_profile_setup_later_title">هل تريد إيقاف إعداد الملف الشخصي؟</string>

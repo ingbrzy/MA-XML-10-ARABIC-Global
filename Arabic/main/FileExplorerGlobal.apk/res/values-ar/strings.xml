@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description">التوجه إلى المنزل</string>
     <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
-    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_menu_overflow_description">خيارات أكثر</string>
     <string name="abc_action_mode_done">تم</string>
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_capital_on">تفعيل</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
     <string name="abc_menu_enter_shortcut_label">enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">فضاء</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
-    <string name="abc_searchview_description_query">طلب البحث</string>
-    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_query">طلب بحث</string>
+    <string name="abc_searchview_description_search">البحث</string>
     <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
-    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_searchview_description_voice">بحث صوتي</string>
     <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
@@ -131,9 +131,11 @@
     <string name="confirm_know">موافق</string>
     <string name="connection_error">تعذر الاتصال</string>
     <string name="connection_lost">غير متصل</string>
+    <string name="copy">نسخ</string>
     <string name="copy_failed">تعذر النسخ</string>
     <string name="copy_to">جارٍ النسخ إلى…</string>
     <string name="copy_to_internal_storage_first">قم بنسخ العناصر إلى وحدة التخزين الداخلية أولاً.</string>
+    <string name="copy_toast_msg">تم نسخ الرابط إلى الحافظة.</string>
     <string name="dark_mode">الوضع الداكن</string>
     <string name="dark_mode_notice_message">ثيم الظلام متوفر الآن!</string>
     <string name="decompress_cancel">إلغاء</string>
@@ -172,6 +174,7 @@
     <string name="display_name">عرض الاسم</string>
     <string name="domain">النطاق</string>
     <string name="download_success">تم التنزيل بنجاح</string>
+    <string name="drag_not_support_with_dir">لا يمكن سحب أو إرسال المجلدات</string>
     <string name="empty_by_forbid_access">لا يمكن عرض محتويات هذا المجلد هنا بسبب قيود Android.</string>
     <string name="enable_documentsui">قم بتشغيل %s من الإعدادات > التطبيقات المثبتة اولا</string>
     <string name="enable_sd_card">بطاقة SD تالفة أو غير متصلة</string>
@@ -194,12 +197,16 @@
     <string name="error_invalid_path">مسار غير صحيح</string>
     <string name="error_not_support">غير مدعوم</string>
     <string name="error_open_file_failed_no_app_found">تعذر العثور على تطبيقات لفتح هذا الملف.</string>
+    <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="explicit">صريح</string>
     <string name="extended_storage_file_can_not_open">لا يمكن فتح الملف. قم بنسخ الملف إلى التخزين الداخلي.</string>
     <string name="extract">استخراج</string>
     <string name="fail_to_create_folder_unknown">تعذر إنشاء مجلد بسبب خطأ غير معروف.</string>
     <string name="failed_not_access_sd_card">السماح بالوصول إلى بطاقة SD أولاً</string>
     <string name="failed_obtain_permissions">تعذر الحصول على الإذونات</string>
+    <string name="fallback_menu_item_copy_link">نسخ الرابط</string>
+    <string name="fallback_menu_item_open_in_browser">فتح في المتصفح</string>
+    <string name="fallback_menu_item_share_link">مشاركة الرابط</string>
     <string name="favorite_notice_message">"يمكنك إضافة مجلدات إلى المفضلة الآن.
 اضغط مطولا على مجلد وانقر \"المزيد\" لإضافتة."</string>
     <string name="favorite_photo">الصور</string>
@@ -309,6 +316,7 @@
     <string name="not_connect">لا يمكن الاتصال</string>
     <string name="not_connect_user">لا يمكن الاتصال: %1$s و%2$s</string>
     <string name="not_installed_documentsui">DocumentsUI غير مثبت</string>
+    <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="not_support_documentui">DocumentUI غير مدعوم على هذا الجهاز</string>
     <string name="not_very_dissatisfied">سيئ</string>
     <string name="notif_server_starting">جارٍ بدء خادم FTP‏…</string>
@@ -391,6 +399,7 @@
     <string name="port">المنفذ</string>
     <string name="port_range">يجب أن يكون رقم المنفذ مابين ١٠٢٤–٦٥٥٣٥</string>
     <string name="possible_permissions">أذونات اختيارية</string>
+    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_accept">الموافقة والمتابعة</string>
     <string name="privacy_cancel"><u>لا أوافق</u></string>
     <string name="privacy_desc">مرحبا بك في مدير الملفات! يوفر لك هذا التطبيق بجانب الوظائف الأساسية الخدمات التالية:</string>
@@ -499,6 +508,7 @@
     <string name="storage_usb">وحدة تخزين USB</string>
     <string name="storage_warning">لا يمكن استخدام وحدة التخزين الخارجية</string>
     <string name="str_clean">حذف</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="switch_to_grid_mode">التبديل إلى عرض الشبكة</string>
     <string name="switch_to_list_mode">التبديل إلى عرض القائمة</string>
     <string name="tab_common_app">التطبيقات والمجلدات</string>
@@ -534,6 +544,8 @@
     <string name="user_notice_privacy_policy">سياسة الخصوصية</string>
     <string name="user_notice_term_of_service">اتفاقية المستخدم</string>
     <string name="utf8_summary">نظام الترميز الافتراضي FTP</string>
+    <string name="v7_preference_off">إيقاف</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="version_name">الإصدار</string>
     <string name="very_dissatisfied">سيئ جدا</string>
     <string name="view_by_document">عرض في الملفات</string>

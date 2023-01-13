@@ -43,6 +43,7 @@
     <string name="air_space_exit">مغادرة الواجهة</string>
     <string name="air_space_setting">إعدادات الواجهة</string>
     <string name="airspace_users_full">تعذر إنشاء واجهة عمل آخرى</string>
+    <string name="alwaysUsePrompt">تذكر اختياري</string>
     <string name="am">ص</string>
     <string name="appData">التطبيقات المثبتة</string>
     <string name="app_name">مكونات الحماية الأساسية</string>
@@ -236,10 +237,10 @@
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_date">W، D</string>
+    <string name="fmt_weekday_date_time">W، D T</string>
+    <string name="fmt_weekday_date_time_timezone">W، D T z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -264,8 +265,7 @@
     <string name="green_guard_title3">إدارة التطبيقات</string>
     <string name="greenguard_child_des">قم بإدارة أجهزة أصدقائك والعائلة</string>
     <string name="greenguard_child_des_title">امسح رمز QR لإضافة جهاز</string>
-    <string name="greenguard_functional_description">"قم بإدارة الأجهزة عن بُعد وعرض معلومات الموقع
-والتحكم بالتطبيقات المثبتة وتقييد الاستخدام"</string>
+    <string name="greenguard_functional_description">قم بإدارة الأجهزة عن بُعد وعرض معلومات الموقع والتحكم بالتطبيقات المثبتة</string>
     <string name="greenguard_install_cancle">لا شكراً</string>
     <string name="greenguard_install_confirm">تثبيت</string>
     <string name="greenguard_install_message">الرقابة الأبوية هو تطبيق نظام. لا تحتاج الإنترنت لتثبيته.</string>
@@ -692,6 +692,7 @@
     <string name="xspace_guide_description">"كل حساب
 يستحق تطبيقه الخاص"</string>
     <string name="xspace_guide_title">جرب التطبيقات المزدوجة</string>
+    <string name="xspace_head">التطبيقات المزدوجة</string>
     <string name="xspace_header">التطبيقات المزدوجة</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>تم إنشاء تطبيق مزدوج. &lt;/font>&lt;font color=#0D84FF>افتح الآن&lt;/font>.</string>
@@ -707,6 +708,7 @@
     <string name="xspace_notification_error">سجل الدخول المزدوج إلى WeChat وحاول مجددا</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">حذف حسابات التطبيقات المزدوجة</string>
+    <string name="xspace_resolver_activity_title">تحديد التطبيق</string>
     <string name="xspace_setting_label">إعدادات التطبيق المزدوج</string>
     <string name="xspace_settins">تعيين</string>
     <string name="xspace_start">إنشاء</string>

@@ -63,6 +63,10 @@
     <string name="account_user_phone">رقم الهاتف لاسترداد الحساب</string>
     <string name="account_user_region">البلد</string>
     <string name="action_add_phone">أضف رقم هاتف</string>
+    <string name="action_setting_ab_playing">جارٍ التكرار…</string>
+    <string name="action_setting_ab_reset">إعادة تعيين</string>
+    <string name="action_setting_ab_set_end">حدد نقطة النهاية</string>
+    <string name="action_setting_ab_set_start">حدد نقطة البدء</string>
     <string name="action_update_phone">تغيير رقم الهاتف</string>
     <string name="actionbar_button_up_description">رجوع</string>
     <string name="activate_email_notice">تأكد من تفعيل حسابك خلال ٢٤ ساعة</string>
@@ -135,6 +139,7 @@
     <string name="cast_forward">إلى الأمام</string>
     <string name="cast_forward_10">إلى الأمام عشر ثوانٍ</string>
     <string name="cast_forward_30">إلى الأمام ثلاثين ثانية</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">بث مباشر</string>
     <string name="cast_mute">كتم الصوت</string>
     <string name="cast_notification_connected_message">تم الاتصال بـ %1$s</string>
@@ -180,6 +185,7 @@
     <string name="cloud_online_player">المشغل</string>
     <string name="cloud_online_switch">التوصيات المخصصة</string>
     <string name="cloud_online_switch_open_time">عرض توصيات المحتوى الشخصي</string>
+    <string name="cmp_tier_privacy_policy">سياسات خصوصية الجهات الخارجية</string>
     <string name="collect_diagnosis_log">جمع السجلات</string>
     <string name="columbus_ad_flag_text">إعلان</string>
     <string name="columbus_skip_ad">تخطي</string>
@@ -268,8 +274,11 @@
     <string name="dialog_clearn_title">مسح السجل</string>
     <string name="dialog_confirm">موافق</string>
     <string name="dialog_delete_bookmarks_content">هل ترغب في حذف الإشارات المرجعية الآن؟</string>
+    <string name="dialog_disagree_continue">متابعة</string>
+    <string name="dialog_disagree_info">إذا كنت لا توافق على سياسة خصوصية فيديو Mi، فلن تتمكن من استخدام خدماتنا عبر الإنترنت؛ ستتوفر فقط الفيديوهات المخزنة على جهازك. هل مازلت ترغب في المتابعة؟</string>
     <string name="dialog_disagree_privacychange_info">لن تتمكن من استخدام خدمات البث عبر الإنترنت إذا اخترت عدم الموافقة على سياسة الخصوصية. انقر فوق \"إلغاء\" للعودة إلى صفحة ترخيص الخصوصية أو \"لا أوافق\" للمتابعة واستخدام الميزات المحلية فقط في فيديو Mi.</string>
     <string name="dialog_disagree_privacychange_title">هل أنت متأكد أنك لا توافق؟</string>
+    <string name="dialog_disagree_title">سياسة الخصوصية</string>
     <string name="dialog_edit_bookmarks">تعديل الإشارة المرجعية</string>
     <string name="dialog_edit_hint_bookmarks_name">اسم الإشارة المرجعية</string>
     <string name="dialog_edit_hint_bookmarks_url">الرابط</string>
@@ -329,7 +338,6 @@
     <string name="download_paused">متوقف مؤقتاً</string>
     <string name="download_pending">قيد الانتظار…</string>
     <string name="download_power_off_tips">هذه الميزة غير متاحة حاليًا</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_retry">حاول مجددا</string>
     <string name="download_unable_tip">لا يمكن تنزيل هذا العنصر</string>
     <string name="download_video">جارٍ تنزيل الفيديو</string>
@@ -346,24 +354,40 @@
     <string name="evening">عصر</string>
     <string name="exceed_binded_phone_times_notice">تم ربط رقم الهاتف هذا مسبقاً بحساب Mi آخر.</string>
     <string name="exit">خروج</string>
+    <string name="exo_controls_cc_disabled_description">تفعيل الترجمة</string>
+    <string name="exo_controls_cc_enabled_description">إيقاف الترجمة</string>
     <string name="exo_controls_fastforward_description">تقديم سريع</string>
-    <string name="exo_controls_fullscreen_description">وضع ملء الشاشة</string>
-    <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
+    <string name="exo_controls_fullscreen_enter_description">دخول إلى وضع ملء الشاشة</string>
+    <string name="exo_controls_fullscreen_exit_description">خروج من وضع ملء الشاشة</string>
+    <string name="exo_controls_hide">إخفاء عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_next_description">التالي</string>
+    <string name="exo_controls_overflow_hide_description">إخفاء الإعدادات الإضافية</string>
+    <string name="exo_controls_overflow_show_description">عرض الإعدادات الإضافية</string>
     <string name="exo_controls_pause_description">إيقاف مؤقت</string>
     <string name="exo_controls_play_description">تشغيل</string>
-    <string name="exo_controls_previous_description">المقطع الصوتي السابق</string>
+    <string name="exo_controls_playback_speed">السرعة</string>
+    <string name="exo_controls_playback_speed_normal">عادية</string>
+    <string name="exo_controls_previous_description">السابق</string>
     <string name="exo_controls_repeat_all_description">تكرار الكل</string>
     <string name="exo_controls_repeat_off_description">عدم التكرار</string>
     <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
-    <string name="exo_controls_rewind_description">إرجاع</string>
-    <string name="exo_controls_shuffle_description">ترتيب عشوائي</string>
+    <string name="exo_controls_rewind_description">ترجيع</string>
+    <string name="exo_controls_seek_bar_description">مستوى تقدُّم التشغيل</string>
+    <string name="exo_controls_settings_description">الإعدادات</string>
+    <string name="exo_controls_show">عرض عناصر التحكم بالمشغّل</string>
+    <string name="exo_controls_shuffle_off_description">إيقاف الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_on_description">تفعيل الترتيب العشوائي</string>
     <string name="exo_controls_stop_description">إيقاف</string>
+    <string name="exo_controls_vr_description">وضع VR</string>
     <string name="exo_download_completed">اكتمل التنزيل</string>
     <string name="exo_download_description">تنزيل</string>
     <string name="exo_download_downloading">جارٍ التنزيل.</string>
     <string name="exo_download_failed">تعذّر التنزيل</string>
-    <string name="exo_download_notification_channel_name">التنزيلات</string>
-    <string name="exo_download_removing">جارٍ إزالة التنزيلات</string>
+    <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
+    <string name="exo_download_paused">تمّ إيقاف عمليات التنزيل مؤقتًا.</string>
+    <string name="exo_download_paused_for_network">عمليات التنزيل في انتظار الاتصال بالشبكة</string>
+    <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
+    <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
     <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
     <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
@@ -371,6 +395,10 @@
     <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">بديل</string>
+    <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
+    <string name="exo_track_role_commentary">التعليقات</string>
+    <string name="exo_track_role_supplementary">تكميلي</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="exo_track_selection_title_audio">صوت</string>
@@ -390,6 +418,7 @@
     <string name="fallback_menu_item_copy_link">نسخ الرابط</string>
     <string name="fallback_menu_item_open_in_browser">فتح في المتصفح</string>
     <string name="fallback_menu_item_share_link">مشاركة الرابط</string>
+    <string name="fast_channel_popular">قنوات رائجة</string>
     <string name="favor_movie">أفلام</string>
     <string name="favor_online_video">الفيديوهات</string>
     <string name="favor_playlist">قوائم التشغيل</string>
@@ -399,6 +428,18 @@
     <string name="favorite_fail">تعذر الإضافة إلى المفضلة. حاول مجددا.</string>
     <string name="favorite_success">تمت الإضافة إلى المفضلة بنجاح</string>
     <string name="fcm_push_title">فيديوهات رائجة</string>
+    <string name="fcmpts_dialog_continue">مشاهدة</string>
+    <string name="fcmpts_dialog_not_interested">لا شكرا</string>
+    <string name="fcmpts_dialog_two" formatted="false">شاهد %d فيديو آخر لمدة %d ثانية لتربح كوبون من متجر Mi</string>
+    <string name="fcmpts_popup_final">تم جمع المكافآت بنجاح! انقر لاستبدالها.</string>
+    <string name="fcmpts_popup_final_redeem">استبدال</string>
+    <string name="fcmpts_popup_four" formatted="false">تم جمع النقاط بنجاح! شاهد %d فيديو آخر لمدة %d ثانية لتربح كوبون من متجر Mi.</string>
+    <string name="fcmpts_popup_one" formatted="false">شاهد %d فيديوهات اليوم لتربح كوبون من متجر Mi بقيمة %d نقطة</string>
+    <string name="fcmpts_popup_one_cts">مشاهدة</string>
+    <string name="fcmpts_popup_three" formatted="false">لقد شاهدت لمدة %d ثانية وربحت %d نقاط!</string>
+    <string name="fcmpts_popup_three_claim">جمع النقاط</string>
+    <string name="fcmpts_popup_three_login_claim">تسجيل الدخول</string>
+    <string name="fcmpts_popup_two" formatted="false">شاهد هذا الفيديو لمدة %d ثانية لتربح %d نقاط</string>
     <string name="feedback">التعليقات</string>
     <string name="feedback_activity_title">التعليقات</string>
     <string name="feedback_contact_empty">أدخل معلومات الاتصال الخاصة بك</string>
@@ -669,10 +710,10 @@
     <string name="incentive_popup_window_share">شارك لكسب النقاط</string>
     <string name="incentive_popup_window_subscribe">اشترك لكسب النقاط</string>
     <string name="incentive_rules_title_bar">القواعد</string>
-    <string name="incentive_tab_exchange_recore">المكافأت</string>
+    <string name="incentive_tab_exchange_recore">المكافآت</string>
     <string name="incentive_tab_integral_task">المهام</string>
     <string name="incentive_tab_points_details">السجل</string>
-    <string name="incentive_tab_prize_redemption">المكافأت</string>
+    <string name="incentive_tab_prize_redemption">المكافآت</string>
     <string name="incentive_task_login_receive">تسجيل الدخول</string>
     <string name="incentive_task_receive">جمع</string>
     <string name="incentive_task_title_daily">المهام اليومية</string>
@@ -682,7 +723,7 @@
     <string name="incentive_toast_share_success_new">تمت المشاركة بنجاح</string>
     <string name="incentive_toast_subscribe_success_new">تم الاشتراك بنجاح</string>
     <string name="incentive_ui_tab_earn_credits">النقاط</string>
-    <string name="incentive_view_all_prizes">عرض جميع المكافأت</string>
+    <string name="incentive_view_all_prizes">عرض جميع المكافآت</string>
     <string name="incentive_view_details">التفاصيل</string>
     <string name="inconsistent_pwd">كلمة المرور غير متطابقة</string>
     <string name="init_channels">إستعادة الافتراضية</string>
@@ -884,7 +925,7 @@
     <string name="lv_subtitle_onlinesub_size_string_b">الحجم: %sب</string>
     <string name="lv_subtitle_onlinesub_title">ترجمات عبر الإنترنت</string>
     <string name="lv_subtitle_open_subtitle_file_title">إيجاد ملف ترجمة</string>
-    <string name="lv_subtitle_preoffset_max_new">لا يمكن تحريك الفديو لأكثر من %d ث</string>
+    <string name="lv_subtitle_preoffset_max_new">لا يمكن تحريك الفيديو لأكثر من %d ث</string>
     <string name="lv_subtitle_subonline_non_network">تعذر الاتصال بالشبكة، اتصل و حاول مجدداً.</string>
     <string name="lv_subtitle_synchronization_title">مزامنة</string>
     <string name="lv_subtitle_title">الترجمات</string>
@@ -1029,6 +1070,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -1112,6 +1154,7 @@
     <string name="online_play_start_ready_loading_tip_kb">جارٍ التحميل %.2f كيلوبايت/ث</string>
     <string name="online_play_start_ready_loading_tip_mb">جارٍ التحميل %.2f ميجابايت/ث</string>
     <string name="online_play_title">ادخل الرابط</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">الاشتركات الاخيرة</string>
     <string name="order_recently_updated">محدث مؤخرا</string>
     <string name="out_of_memory_background_playback_is_suspended">توقف التشغيل في الخلفية مؤقتًا بسبب عدم وجود مساحة كافية</string>
@@ -1463,6 +1506,7 @@
     <string name="plus_shortcut_existed">هذا الاختصار موجود مسبقاً</string>
     <string name="plus_sort_title">ترتيب</string>
     <string name="plus_sort_type_default">افتراضية</string>
+    <string name="plus_sort_type_duration">الطول</string>
     <string name="plus_sort_type_name">الاسم</string>
     <string name="plus_sort_type_size">الحجم</string>
     <string name="plus_sort_type_time">الوقت</string>
@@ -1508,6 +1552,7 @@
     <string name="recommend_online_switch">توصيات عبر الإنترنت</string>
     <string name="recommend_online_tips">قم بتشغيل الميزة لتلقي توصيات عبر الإنترنت</string>
     <string name="recommend_page_replay">إعادة التشغيل</string>
+    <string name="recommend_slide_to_more">مرر للمزيد</string>
     <string name="recommend_switch_alert">لإزالة هذا القسم، انتقل إلى الإعدادات في فيديو Mi</string>
     <string name="recommend_to_you">موصى به</string>
     <string name="reload_sub_title">انقر لإعادة المحاولة.</string>
@@ -1609,6 +1654,7 @@
     <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
     <string name="source">"المصدر: "</string>
     <string name="start_download_tip">تمت الإضافة إلى قائمة الانتظار. يمكنك عرض تقدم التنزيل في الملف الشخصي > التنزيلات.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">بطاقة SD</string>
     <string name="storage_internal_sdcard">التخزين الداخلي</string>
     <string name="submit">ارسال</string>
@@ -1656,7 +1702,7 @@
     <string name="t_lv_subtitle_padding_default_hint">جارٍ تعديل الترجمات…</string>
     <string name="t_network_error">حدث خطأ في الشبكة.</string>
     <string name="t_ovp_check_delete_favor">قم بتحديد عناصر للحذف</string>
-    <string name="t_password_limit_new">يجب أن تتكون كلمة المرور من %d من الأحرف على الأقل</string>
+    <string name="t_password_limit_new">يجب أن تتكون كلمة المرور من %d أحرف على الأقل</string>
     <string name="t_password_null">لا يمكن ان تكون كلمة المرور فارغة</string>
     <string name="t_password_wrong">كلمة المرور التي أدخلتها غير صحيحة. حاول مجددا.</string>
     <string name="t_start_download">بدء التنزيل:</string>
@@ -1741,12 +1787,14 @@
     <string name="tip_subscribe_guide_hint_a">عرض الناشرون من قائمة اشتراكات Google</string>
     <string name="tip_subscribe_guide_hint_b">شاهد أحدث مقاطع الفيديو من قنوات YouTube المشترك فيها بدون إعلانات</string>
     <string name="tip_tap_download_button">%d. انقر على \"تنزيل\"</string>
+    <string name="title_ab_loop">تكرار A-B</string>
     <string name="title_bookmarks">الإشارات المرجعية</string>
     <string name="title_continue_to_borwser">فتح في المتصفح</string>
     <string name="title_download_setting">إعدادات التنزيل</string>
     <string name="title_history">السجل</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (الحلقة %d)</string>
     <string name="title_mangotv_subtitle_language">لغة الترجمة</string>
+    <string name="title_more_wonderful_smallvideo">مزيد من الفيديوهات القصيرة</string>
     <string name="title_publisher">الناشرون</string>
     <string name="title_select_directory">اختر المجلد</string>
     <string name="title_selected">محدد</string>
@@ -1878,7 +1926,12 @@
     <string name="welcome_tip_explore_more">اكتشف المزيد</string>
     <string name="welcome_tip_into_mivideo">البدء</string>
     <string name="welcome_tip_skip">تخطي</string>
-    <string name="welcome_tip_title">مرحباً في فيديو Mi</string>
+    <string name="welcome_tip_title">مرحبا بك في فيديو Mi</string>
+    <string name="widget_add_dialog_button_add">إضافة</string>
+    <string name="widget_add_dialog_button_cancel">إلغاء</string>
+    <string name="widget_add_dialog_desc_local">باستخدام هذه الأداة، يمكنك تشغيل ملفات الفيديوه والصوت على جهازك بنقرة واحدة مباشرة من شاشتك الرئيسية. هل ترغب في إضافتها الآن؟</string>
+    <string name="widget_add_dialog_desc_online">باستخدام هذه الأداة، يمكنك مشاهدة الفيديوهات الرائجة بنقرة واحدة مباشرة من شاشتك الرئيسية. هل ترغب في إضافتها الآن؟</string>
+    <string name="widget_add_dialog_title">إضافة الأداة</string>
     <string name="widget_local_video">فيديوهات على الجهاز</string>
     <string name="widget_local_video_click">انقر لمشاهدة فيديوهات مخزنة على جهازك</string>
     <string name="widget_more_channel">مزيد من القنوات</string>

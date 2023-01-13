@@ -300,6 +300,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -447,13 +448,13 @@
     <string name="recognition_error_internal">خطأ داخلي</string>
     <string name="recognition_error_stopped">توقف التحويل إلى نصوص</string>
     <string name="recognition_error_unknown">حدث خطأ غير معروف. قم بالإبلاغ عليه وحاول مجدداً.</string>
-    <string name="recognition_interrupt_current_dialog_body">قد يستغرق التحويل إلى نص بعض الوقت. ستتلقى إشعارًا عند اكتمال هذه المهمة. يتم الآن تحويل \"%s\". هل تريد إضافة هذه المهمة إلى قائمة الانتظار؟</string>
+    <string name="recognition_interrupt_current_dialog_body">قد يستغرق التحويل إلى نص بعض الوقت. ستتلقى إشعار عند الانتهاء يتم الآن تحويل \"%s\". هل ترغب في إضافته إلى قائمة الاستماع؟</string>
     <string name="recognition_notification_channel">التحويل إلى نص</string>
     <string name="recognition_notification_complete_success">تم تحويل \"%s\" إلى نص بنجاح. انقر للعرض.</string>
     <string name="recognition_notification_error">تعذر تحويل \"%s\" إلى نص</string>
     <string name="recognition_notification_running">جارٍ تحويل \"%s\" إلى نص…</string>
     <string name="recognition_process_dialog_body">يتم الآن تحويل التسجيلات الأخرى إلى نصوص (%s). إيقاف المهام الحالية والبدء من جديد؟</string>
-    <string name="recognition_process_dialog_cancel">قائمة الانتظار</string>
+    <string name="recognition_process_dialog_cancel">قائمة الاستماع</string>
     <string name="recognition_process_dialog_confirm">بدء الإيقاف الإجباري</string>
     <string name="recognition_process_dialog_title">المهام الحالية</string>
     <string name="recognition_status_downloaded">تم تنزيل محرك التحويل إلى النصوص بنجاح</string>

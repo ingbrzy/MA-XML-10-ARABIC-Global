@@ -4,6 +4,34 @@
         <item>ذكر</item>
         <item>أنثى</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -66,5 +94,70 @@
         <item>و</item>
         <item>ي</item>
         <item>\#</item>
+    </string-array>
+    <string-array name="customer_service">
+        <item>@string/customer_service_apply</item>
+        <item>@string/customer_service_complain</item>
+        <item>@string/customer_service_station</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>إشارة Wi-Fi ضعيفة. بدل إلى نطاق لاسلكي مختلف أو أعد تشغيل الراوتر.</item>
+        <item>لا يمكن الوصول إلى الشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>المصادقة مطلوبة للوصول إلى الشبكة</item>
+        <item>الوصول إلى الشبكة مقيد. اضبط الوقت على هذا الجهاز وتحقق من إعدادات شبكة الراوتر.</item>
+        <item>خطأ في الشبكة. تحقق من إعدادات وكيل HTTP.</item>
+        <item>خطأ في الشبكة. تحقق مما إذا كان الراوتر متصل بالإنترنت.</item>
+        <item>لا يمكن الاتصال بالشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>المصادقة مطلوبة للوصول إلى الشبكة</item>
+        <item>الوصول إلى الشبكة مقيد. اضبط الوقت على هذا الجهاز وتحقق من إعدادات شبكة الراوتر.</item>
+        <item>خطأ في الشبكة. تحقق من إعدادات وكيل HTTP.</item>
+        <item>خطأ في الشبكة. تحقق مما إذا كان الراوتر متصل بالإنترنت.</item>
+        <item>"Can't connect to the network. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>خطأ في خادم DNS. تحقق من تكوين DNS الخاص بالراوتر.</item>
+        <item>تأخيرات غير طبيعية في خادم DNS. يرجى التحقق من تكوين DNS للراوتر.</item>
+        <item>لا يمكن الوصول إلى البوابة. استخدم شبكة Wi-Fi أخرى أو أعد تشغيل الراوتر.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>حدث خطأ في خادم DNS. تحقق من تكون DNS للراوتر.</item>
+        <item>تأخيرات خادم DNS غير طبيعية. تحقق من تكون DNS للراوتر.</item>
+        <item>"Can't access gateway. Reconnect to WLAN or reboot the router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>تأخيرات غير طبيعية من الشبكة المحلية. أعد تشغيل الراوتر أو اتصل بشبكة أخرى.</item>
+        <item>تأخيرات غير طبيعية من الإنترنت. تحقق من إعدادات شبكة الناقل أو اتصل بشبكة أخرى.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>قم بالتبديل من IP الثابت إلى DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>خطأ في بروتوكول الشبكة. أعد الاتصال بـWi-Fi أو أعد تشغيل جهازك.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Network protocol error. Reconnect to WLAN or reboot the device.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>تحرك إلى مكان فيه تغطية Wi-Fi أفضل</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Move to an area with better WLAN coverage</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>تحقق من إعدادات DHCP الخاصة بالراوتر وتوصيلات الكابلات</item>
+    </string-array>
+    <string-array name="reproductivity">
+        <item>@string/feedback_reproductivity_everytime</item>
+        <item>@string/feedback_reproductivity_often</item>
+        <item>@string/feedback_reproductivity_occasionally</item>
+        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>

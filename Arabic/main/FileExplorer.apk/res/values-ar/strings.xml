@@ -29,8 +29,10 @@
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="access_limit">قيود الوصول</string>
     <string name="access_tips">لا يمكن الوصول إلى هذه العناصر. جرب استخدام إطار عمل الوصول إلى تخزين Android.</string>
+    <string name="action_cache_to_local">تنزيل إلى الجهاز</string>
     <string name="action_mode_deselect_all">إلغاء التحديد</string>
     <string name="action_mode_select_all">تحديد الكل</string>
+    <string name="action_release_file_cache">مسح الذاكرة المؤقتة</string>
     <string name="actionbar_button_up_description">رجوع</string>
     <string name="ad_download">تنزيل</string>
     <string name="add_private">اجعل الملفات خاصة</string>
@@ -66,6 +68,16 @@
     <string name="can_not_send_with_too_many">لا يمكن إرسال العديد من العناصر في نفس الوقت</string>
     <string name="cancel">إلغاء</string>
     <string name="cancel_error">تعذر الحذف، حاول مرة أخرى.</string>
+    <string name="cancel_mi_drive">إلغاء خدمات Mi Drive</string>
+    <string name="cancel_mi_drive_alert_description" formatted="false">احذف جميع العناصر من Mi Drive لتتمكن من إلغاء الخدمات. اتبع هذه الخطوات لحذف العناصر: &lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. في صفحة Mi Drive الرئيسية، اضغط مطولا على عنصر لإظهار زر \"تحديد الكل \". استخدم هذا الزر لتحديد ما يصل إلى 200 ملف في وقت واحد وحذفها. &lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. بعد ذلك، قم بتنظيف العناصر المحذوفة مؤخرا.</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. نوصي بعمل نسخة احتياطية من عناصرك قبل حذفها. للقيام بذلك، قم بزيارة i.mi.com وانقر على Mi Drive، ثم بقم بتنزيل العناصر على كمبيوترك. &lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. يرجى الملاحظة أنه لا يمكن استرداد العناصر المحذوفة مؤخرا بعد حذفها.</string>
+    <string name="cancel_mi_drive_confirm_button">إلغاء الخدمات</string>
+    <string name="cancel_mi_drive_confirm_description">إذا تابعت، فسوف تقوم بإلغاء خدمات Mi Drive. حيث سنتوقف عن جمع معلوماتك الشخصية وحذف المعلومات الشخصية التي تم جمعها وتخزينها خلال الفترة المحددة وفقا للقوانين واللوائح المعمول بها ما لم يطلب خلاف ذلك.</string>
+    <string name="cancel_mi_drive_confirm_hint">لن يؤثر إلغاء خدمة Mi Drive على استخدامك لمنتجات وخدمات Xiaomi الأخرى. إذا كنت تريد حذف حساب Mi الخاص بك، فيمكنك القيام بذلك &lt;font color=#0097FF>&lt;a href=%1$s>هنا&lt;/a>&lt;/font>.</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424> سيتم حذف العناصر التالية نهائيا بعد إلغاء الخدمات: &lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. جميع العناصر الموجودة في Mi Drive، بما في ذلك على سبيل المثال لا الحصر المستندات والملفات الشخصية والعناصر المحذوفة. &lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. سجل تنزيلات وتحميلات Mi Drive.</string>
+    <string name="cancel_mi_drive_privacy_revoked_retry">شغل Mi Drive مجددا وإعد المحاولة</string>
+    <string name="cancel_mi_drive_success">تم إلغاء الخدمات بنجاح</string>
+    <string name="cancel_mi_drive_title">إلغاء الخدمات</string>
     <string name="cancel_msg">إلغاء تحديد الكل؟</string>
     <string name="cancel_operation">إلغاء العملية</string>
     <string name="cancel_success">تم نقل الملفات إلى %s بنجاح</string>
@@ -75,6 +87,7 @@
     <string name="category_all">كل الملفات</string>
     <string name="category_apk">APKs</string>
     <string name="category_bluetooth">البلوتوث</string>
+    <string name="category_cloud_drive">Mi Drive</string>
     <string name="category_document">المستندات</string>
     <string name="category_download">التنزيلات</string>
     <string name="category_editor_mode">تعديل</string>
@@ -110,6 +123,26 @@
     <string name="click_to_switch_volume_pad">انقر للتبديل بين التخزين الداخلي و بطاقة الذاكرة SD</string>
     <string name="clock_in">جارٍ التحقق…</string>
     <string name="close">إغلاق</string>
+    <string name="cloud_copy_to_local_title">حفظ إلى…</string>
+    <string name="cloud_drive_files">ملفات Mi Drive</string>
+    <string name="cloud_drive_not_login_summary">لم تسجل الدخول</string>
+    <string name="cloud_drive_settings">إعدادات Mi Drive</string>
+    <string name="cloud_empty_hint_text">"لا توجد ملفات.
+انقل بعض الملفات من جهازك إلى Mi Drive."</string>
+    <string name="cloud_guide_summary_text">قم بمزامنة عناصرك تلقائيا إلى جميع أجهزتك</string>
+    <string name="cloud_guide_title_text">المزامنة مع Mi Drive</string>
+    <string name="cloud_permission_storage_desc">لحفظ الصور والمستندات على الجهاز</string>
+    <string name="cloud_recycle_bin">العناصر المحذوفة مؤخرا</string>
+    <string name="cloud_space_full">مساحة Cloud ممتلئة. قم بترقية خطة التخزين لتحميل مزيد من العناصر.</string>
+    <string name="cloud_transfer_download_error">تعذر التنزيل</string>
+    <string name="cloud_transfer_download_loading">جارٍ التنزيل</string>
+    <string name="cloud_transfer_downloading">جارٍ التنزيل</string>
+    <string name="cloud_transfer_pause">متوقف مؤقتا</string>
+    <string name="cloud_transfer_upload_error">تعذر التحميل</string>
+    <string name="cloud_transfer_uploading">جارٍ التحميل</string>
+    <string name="cloud_transfer_wait_download">في انتظار التنزيل</string>
+    <string name="cloud_transfer_wait_network">في انتظار الإنترنت</string>
+    <string name="cloud_transfer_wait_upload">في انتظار التحميل</string>
     <string name="compress_fail">تعذر الضغط. يوجد ملف بنفس الاسم مسبقا.</string>
     <string name="compress_fail_unknown">تعذر الضغط. التخزين ممتلأ او حدث خطأ غير معروف.</string>
     <string name="compress_message">جارٍ الضغط الى…</string>
@@ -124,6 +157,10 @@
     <string name="copy_to">النسخ إلى…</string>
     <string name="create_folder">إنشاء</string>
     <string name="create_shortcut_success">تمت إضافة الاختصار بنجاح</string>
+    <string name="cta_function_account_operation">تسجيل الدخول السريع لحساب Mi</string>
+    <string name="data_consume_dialog_message">انت تستخدم حاليا بيانات الهاتف. إذا قمت بالمتابعة، %s من البيانات سيتم استخدامها.</string>
+    <string name="data_consume_dialog_title">استخدام بيانات الهاتف؟</string>
+    <string name="data_consume_dialog_upload_title">تحميل باستخدام بيانات الهاتف</string>
     <string name="data_consumption_cancel">لا أوافق</string>
     <string name="data_consumption_checkbox_hint">عدم الإظهار مرة أخرى</string>
     <string name="data_consumption_confirm">موافق</string>
@@ -157,7 +194,14 @@
     <string name="delete_folder">حذف هذا المجلد؟</string>
     <string name="des_hide_pwd">إخفاء كلمة المرور</string>
     <string name="des_show_pwd">إظهار كلمة المرور</string>
+    <string name="dialog_account_permission_denied_msg">امنح هذا التطبيق إذن الوصول إلى حسابات الجهاز لتتمكن من تسجيل الدخول إلى Mi Drive. يمكنك منح هذا الإذن في الإعدادات.</string>
+    <string name="dialog_account_permission_denied_negative_button">إلغاء</string>
+    <string name="dialog_account_permission_denied_positive_button">الإعدادات</string>
+    <string name="dialog_account_permission_denied_title">الأذونات المطلوبة</string>
     <string name="dialog_keep_choice">تذكر اختياري</string>
+    <string name="dialog_open_mi_drive_button">حسنا</string>
+    <string name="dialog_open_mi_drive_err">أعد تشغيل Mi Drive وحاول مجددا.</string>
+    <string name="dialog_open_mi_drive_title">خطأ في الخادم</string>
     <string name="dialog_select_type">تحديد النوع</string>
     <string name="dialog_type_audio">صوت</string>
     <string name="dialog_type_image">صور</string>
@@ -199,6 +243,7 @@
     <string name="error_not_support">غير مدعوم</string>
     <string name="error_open_file_failed_no_app_found">لا يمكن العثور على تطبيقات لفتح هذا الملف.</string>
     <string name="evening">عصر</string>
+    <string name="exception_net_not_available">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
     <string name="exit">خروج</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="extended_storage_file_can_not_open">لا يمكن فتح الملف. قم بنسخ الملف إلى التخزين الداخلي.</string>
@@ -211,6 +256,7 @@
     <string name="favorite_photo">صور</string>
     <string name="favorite_ringtone">نغمات الرنين</string>
     <string name="favorite_screen_cap">لقطات شاشة</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">للقراءة: </string>
     <string name="file_info_canwrite">للكتابة: </string>
     <string name="file_info_ishidden">مخفي: </string>
@@ -307,6 +353,7 @@
     <string name="guide_three_title">إعادة ترتيب الاختصارات</string>
     <string name="guide_two_summary">يتم إخفاء الصور ولقطات الشاشة من المعرض افتراضيا.</string>
     <string name="guide_two_title">عرض العناصر الأساسية فقط</string>
+    <string name="h5_ppt_to_pdf_introduce_title">حول إنشاء PDFs</string>
     <string name="hint_switch_to_grid_mode">تم التبديل إلى عرض الشبكة</string>
     <string name="hint_switch_to_list_mode">تم التبديل إلى عرض القائمة</string>
     <string name="home_action_up">رجوع</string>
@@ -315,10 +362,14 @@
     <string name="homepage_tab_file_view_phone">التخزبن</string>
     <string name="homepage_tab_recent">الحديثة</string>
     <string name="hot_sticker">ملصقات</string>
+    <string name="hybrid_provider">مدعوم بواسطة %1$s</string>
     <string name="if_cancel">هل تريد إلغاء هذه العملية؟</string>
     <string name="image_loading_error">تعذر تحميل الصورة</string>
     <string name="imm_str_storage">التخزين</string>
     <string name="import_files_from_old_phones">استيراد من الجهاز القديم</string>
+    <string name="install_media_editor_button_text">تنزيل</string>
+    <string name="install_media_editor_message">تحتاج إلى تنزيل المكون الإضافي لتعديل العناصر. هل ترغب في تنزيله الآن؟</string>
+    <string name="install_media_editor_title">المكون الإضافي مطلوب</string>
     <string name="instruction">أدخل العنوان التالي في عميل FTP: </string>
     <string name="instruction_pre_pad">إدارة الملفات على هذا الجهاز باستخدام الكمبيوتر</string>
     <string name="instruction_pre_phone">إدارة الملفات على هذا الجهاز باستخدام الكمبيوتر</string>
@@ -343,6 +394,7 @@
     <string name="make_private_msg_1">هل ترغب في تغييره إلى ملف خاص؟</string>
     <string name="make_private_msg_2">هل ترغب في تغييرها إلى ملفات خاصة؟</string>
     <string name="make_private_msg_3">ستكون جميع الملفات في هذا المجلد خاصة.</string>
+    <string name="manage_cloud_space">إدارة تخزين Cloud</string>
     <string name="menu_item_cleanup">تنظيف</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_router">جهاز التوجيه</string>
@@ -359,6 +411,12 @@
     <string name="mi_router_label">جهاز التوجيه</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">الليل</string>
+    <string name="midrive_display_related">العرض</string>
+    <string name="midrive_get_cloudvideo_file">لحظة من فضلك…</string>
+    <string name="midrive_hide_recent_cloud_files">لا تظهر ملفات Mi Drive في الشاشة الحديثة</string>
+    <string name="midrive_not_found">فشل الوصول إلى هذا العنصر</string>
+    <string name="midrive_overseas_unavailable">هذه الميزة متوفرة فقط في البر الرئيسي الصيني.</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">فشل تشغيل Mi Drive. حاول مجددا.</string>
     <string name="midriver_install_button_text">تثبيت</string>
     <string name="midriver_not_install_title">تم إلغاء تثبيت Mi Drive</string>
     <string name="mirror_can_not_drag_mask">اسحب لاستخدام Mi Share</string>
@@ -464,6 +522,7 @@
     <string name="need_read_storage_permission">يتطلب مدير الملفات الوصول إلى وحدة تخزين الجهاز ليعمل بشكل طبيعي.</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="new_folder_name">مجلد جديد</string>
+    <string name="new_storage_info_detail">المتوفر: %1$s | الاجمالي: %2$s</string>
     <string name="next">التالي</string>
     <string name="night">المساء</string>
     <string name="no">لا</string>
@@ -472,6 +531,9 @@
     <string name="no_enough_storage_indication">مساحة تخزين الجهاز ممتلئة.</string>
     <string name="no_enough_storage_title">لا توجد مساحة تخزين كافية</string>
     <string name="no_file">فارغ</string>
+    <string name="no_network">لا يمكن الاتصال بالشبكة</string>
+    <string name="no_network_error_message">تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
+    <string name="no_network_error_title">تعذر الاتصال بالشبكة</string>
     <string name="no_permission">امنح الأذونات المطلوبة لتتمكن من الوصول لهذا الميزة</string>
     <string name="no_wifi">لا توجد شبكات Wi-Fi</string>
     <string name="noon">الظهر</string>
@@ -481,16 +543,29 @@
     <string name="not_use">ليس الآن</string>
     <string name="notif_server_starting">جارٍ بدء خادم FTP‏…</string>
     <string name="notif_title">خادم FTP قيد التشغيل</string>
+    <string name="notification_title_sync_result">اكتملت المزامنة</string>
+    <string name="notification_title_syncing">جارٍ المزامنة…</string>
+    <string name="notification_title_syncing_with_count">يتم مزامنة العناصر. الملفات المتبقية: %1$s</string>
     <string name="online_not_support">لا يمكن عرض هذا الملف في الوقت الحالي.</string>
+    <string name="open_cloud_drive">تشغيل Mi Drive</string>
     <string name="open_or_close_wlan">تشغيل Wi-Fi وإيقافه</string>
     <string name="open_private_folder">حرر لعرض الملفات الخاصة</string>
     <string name="operation_add_fav">تتم الإضافة إلى المفضلة…</string>
+    <string name="operation_batch_failed_err">تعذر إكمال هذه العملية لملفات متعددة.</string>
+    <string name="operation_cache_use_data">تنزيل</string>
+    <string name="operation_cache_use_free_network">انتظر شبكة Wi-Fi</string>
     <string name="operation_cancel">إلغاء</string>
+    <string name="operation_cloud_copy_to_local">حفظ إلى…</string>
     <string name="operation_compress">ضغط</string>
     <string name="operation_compressing">جارٍ الضغط…</string>
     <string name="operation_copy">نسخ</string>
     <string name="operation_create_folder">إنشاء مجلد جديد</string>
     <string name="operation_create_folder_message">أدخل اسم المجلد</string>
+    <string name="operation_create_folder_name_conflict">تعذر إعادة تسمية المجلد. يوجد مجلد بنفس هذا الاسم.</string>
+    <string name="operation_create_folder_name_illegal_char">تعذر إنشاء المجلد. يحتوي هذا المجلد على رموز أو حروف غير مدعومة.</string>
+    <string name="operation_create_folder_network_not_available">تعذر إنشاء المجلد. تحقق من إعدادات الشبكة ثم حاول مجدداً.</string>
+    <string name="operation_create_folder_not_support_for_overseas">تعذر إنشاء المجلد. هذه الميزة متوفرة فقط في البر الرئيسي الصيني.</string>
+    <string name="operation_create_folder_other">تعذر إنشاء المجلد</string>
     <string name="operation_decompressing">جارٍ الاستخراج…</string>
     <string name="operation_del_fav">حذف من المفضلة…</string>
     <string name="operation_delete">حذف</string>
@@ -498,28 +573,59 @@
     <string name="operation_delete_confirm_message_folder">"سيتم حذف جميع محتويات المجلد.
 "</string>
     <string name="operation_deleting">جارٍ الحذف…</string>
+    <string name="operation_download">تنزيل</string>
+    <string name="operation_download_error_no_space">مساحة غير كافية</string>
+    <string name="operation_download_error_other">حدث خطأ ما في النظام، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="operation_download_error_title">تعذر التنزيل</string>
+    <string name="operation_editor">تعديل</string>
     <string name="operation_encrypt_summary">تشفير الملفات في المجلدات الخاصة. قد يستغرق فك تشفير الملفات الكبيرة وقت أطول من المعتاد.</string>
     <string name="operation_encrypt_title">تشفير الملفات الخاصة</string>
     <string name="operation_favorite">إضافة إلى المفضلة</string>
+    <string name="operation_file_downloading_err">تعذر إكمال هذا الإجراء. انتظر حتى ينتهي تنزيل هذا الملف وحاول مرة أخرى.</string>
+    <string name="operation_file_exist_err">لا يمكن إكمال هذا الإجراء. هذا الملف موجود مسبقا.</string>
+    <string name="operation_file_not_found_err">لا يمكن إكمال هذا الإجراء. تعذر العثور على الملف الأصلي.</string>
+    <string name="operation_gallary">عرض في المعرض</string>
     <string name="operation_hide_sys">عدم إظهار الملفات المخفية</string>
     <string name="operation_info">تفاصيل</string>
     <string name="operation_move">نقل</string>
     <string name="operation_moving">جارٍ النقل…</string>
     <string name="operation_new_folder">إنشاء مجلد</string>
+    <string name="operation_no_network_err">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
+    <string name="operation_not_support_directory_rename">لا يمكن إعادة تسمية هذا المجلد.</string>
+    <string name="operation_not_support_err">لا يمكن إتمام هذا الإجراء</string>
     <string name="operation_open">فتح</string>
     <string name="operation_open_mode">فتح بإستخدام</string>
     <string name="operation_other_apps">فتح في تطبيق آخر</string>
     <string name="operation_paste">لصق</string>
     <string name="operation_paste_to_folder">لصق إلى المجلد</string>
     <string name="operation_pasting">جارٍ النسخ…</string>
+    <string name="operation_pic_to_pdf">إنشاء PDF</string>
     <string name="operation_refresh">تحديث</string>
     <string name="operation_rename">إعادة تسمية</string>
+    <string name="operation_rename_err">تعذر إعادة التسمية</string>
     <string name="operation_rename_message">أدخل اسم جديد</string>
+    <string name="operation_retry">حاول مجددا</string>
     <string name="operation_send">ارسال</string>
     <string name="operation_send_to_pc">نقل إلى الكمبيوتر</string>
+    <string name="operation_set_pic_wallpaper">تعيين كخلفية الشاشة</string>
     <string name="operation_show_privacy_policy">عرض سياسة الخصوصية</string>
     <string name="operation_show_sys">إظهار الملفات المخفية</string>
+    <string name="operation_sync_cloud_data_error">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="operation_unfavorite">إزالة من المفضلة</string>
+    <string name="operation_unknown_err">لا يمكن إكمال هذا الإجراء.</string>
+    <string name="operation_upload_buy_space">ترقية</string>
+    <string name="operation_upload_delete">حذف</string>
+    <string name="operation_upload_err_file_not_found">يبدو أن هذا الملف غير موجود.</string>
+    <string name="operation_upload_err_file_size_zero">لا يمكن تحميل ملفات فارغة.</string>
+    <string name="operation_upload_err_full_space">مساحة Cloud ممتلئة. قم بترقية خطة التخزين لتحميل مزيد من العناصر.</string>
+    <string name="operation_upload_err_illegal_char">يحتوي هذا الملف هلى حروف أو رموز غير مدعومة.</string>
+    <string name="operation_upload_err_larger_than_4g">لا يمكن تحميل ملفات حجمها أكبر من %d ميجابايت.</string>
+    <string name="operation_upload_err_not_support_overseas">يمكن فقط للمستخدمين في البر الرئيسي الصيني تحميل العناصر في هذا الوقت.</string>
+    <string name="operation_upload_err_other">حدث خطأ ما في النظام، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
+    <string name="operation_upload_error_title">تعذر التحميل</string>
+    <string name="operation_upload_retry">حاول مجددا</string>
+    <string name="operation_upload_save_to_local">حفظ إلى…</string>
+    <string name="operation_upload_use_data">تحميل</string>
     <string name="otg_data_transfer_success">تم النقل بنجاح</string>
     <string name="otg_data_transferring">جارٍ نقل الملفات… لا تفصل وحدة التخزين الخارجية.</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -529,9 +635,16 @@
     <string name="partial_encrypt_success">فشل في إضافة بعض الملفات إلى خاص. حاول مرة أخرى.</string>
     <string name="path_name_email">البريد الإلكتروني</string>
     <string name="perm_manage_external_storage">الوصول إلى جميع الملفات</string>
+    <string name="permission_account_desc">للوصول إلى معلومات الحساب المخزنة على الجهاز</string>
+    <string name="permission_account_desc_pad">للوصول إلى معلومات الحساب المخزنة على جهازك</string>
+    <string name="permission_account_title">الوصول إلى حسابات الجهاز</string>
+    <string name="permission_account_title_pad">الوصول إلى حسابات الجهاز</string>
     <string name="permission_denial">تعذر الوصول إلى الملفات. قم بالسماح لبرنامج مدير الملفات بالوصول إلى الملفات من الإعدادات.</string>
     <string name="permission_description">تفاصيل الأذونات</string>
     <string name="permission_required">تعذر الوصول إلى الملفات. قم بالسماح لبرنامج مدير الملفات بالوصول إلى الملفات من الإعدادات.​</string>
+    <string name="permission_storage_desc_pad">لحفظ الصور والمستندات على الجهاز</string>
+    <string name="permission_storage_title">الوصول إلى تخزين الجهاز</string>
+    <string name="permission_storage_title_pad">الوصول إلى تخزين الجهاز</string>
     <string name="phone">التخزبن</string>
     <string name="phone_storage">التخزين</string>
     <string name="phone_storage_apk_title">ملفات APK: </string>
@@ -550,6 +663,7 @@
     <string name="pick_folder">اختر المجلد</string>
     <string name="pm">م</string>
     <string name="port_range">يجب أن يكون رقم المنفذ مابين ١٠٢٤–٦٥٥٣٥</string>
+    <string name="pre_privacy_recall">سحب الموافقة</string>
     <string name="pref_permission_allowed">تم المنح</string>
     <string name="pref_permission_manage_key_storage">الوصول إلى الصور والملفات على الجهاز</string>
     <string name="pref_permission_not_allowed">لم يتم المنح</string>
@@ -557,6 +671,14 @@
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_policy_renew">تحديث سياسة الخصوصية</string>
     <string name="privacy_policy_renew_content">&lt;Data>تم تحديث &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مدير الملفات. لمعرفة حقوقك كمستخدم وطرق استخدامنا لبياناتك، يرجى قراءة والموافقة على الإصدار الجديد من سياسة الخصوصية قبل المتابعة.&lt;/Data></string>
+    <string name="privacy_recall_alert_description" formatted="false">احذف جميع العناصر من Mi Drive لتتمكن من سحب الموافقة. اتبع هذه الخطوات لحذف العناصر: &lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. في صفحة Mi Drive الرئيسية، اضغط مطولا على عنصر لإظهار زر \"تحديد الكل \". استخدم هذا الزر لتحديد ما يصل إلى 200 ملف في وقت واحد وحذفها. &lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. بعد ذلك، قم بتنظيف العناصر المحذوفة مؤخرا.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. نوصي بعمل نسخة احتياطية من عناصرك قبل حذفها. للقيام بذلك، قم بزيارة i.mi.com وانقر على Mi Drive، ثم بقم بتنزيل العناصر على كمبيوترك. &lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. يرجى الملاحظة أنه لا يمكن استرداد العناصر المحذوفة مؤخرا بعد حذفها.</string>
+    <string name="privacy_recall_confirm_button">سحب الموافقة</string>
+    <string name="privacy_recall_confirm_description">إذا قمت بالمتابعة، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية مدير الملفات. سنتوقف عن جمع معلوماتك الشخصية، وسيتم حذف المعلومات شخصية التي جمعها التطبيق خلال الفترة المحددة وفقا للقوانين واللوائح المعمول بها ما لم يكن مطلوب خلاف ذلك.</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>سيتم حذف العناصر التالية نهائيا بعد سحب الموافقة:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. جميع العناصر على Mi Drive بما في ذلك على سبيل المثال لا الحصر المستندات والملفات الخاصة والعناصر المحذوفة. &lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. أذونات الجهاز والإعدادات والمحتويات الأخرى المخزنة مؤقتا. &lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. سجل تنزيلات وتحميلات Mi Drive.</string>
+    <string name="privacy_recall_success">تم سحب الموافقة بنجاح</string>
+    <string name="privacy_recall_title">سحب الموافقة</string>
+    <string name="privacy_recalling">جارٍ سحب الموافقة…</string>
     <string name="private_files">خاص</string>
     <string name="private_folder">الملفات الخاصة</string>
     <string name="private_folder_no_file_hints">اضغط مع الاستمرار على ملف أو مجلد لتغييره إلى ملف خاص</string>
@@ -568,11 +690,15 @@
     <string name="pull_to_enter_private">اسحب لأسفل لفتح المجلد الخاص</string>
     <string name="qq_msg">نظرًا لقيود Android 11، لا يمكن لمدير الملفات عرض معاينات مستندات QQ.</string>
     <string name="qq_title">لا يمكن الوصول إلى مستندات WeChat</string>
+    <string name="query_quota_exception">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
+    <string name="query_quota_searching">لحظة من فضلك…</string>
     <string name="recent_hide_camera_and_screenshots">لا تعرض عناصر المعرض أو لقطات الشاشة في الملفات الحديثة</string>
+    <string name="recent_hide_cloud_drive_files">لا تظهر ملفات Mi Drive في الشاشة الحديثة</string>
     <string name="refresh_success">اكتمل التحديث</string>
     <string name="reinstall_midriver_message">هل ترغب في تثبيته مجددا؟</string>
     <string name="release_enter_private">حرر لفتح المجلد الخاص</string>
     <string name="remainder_size">المتبقي: %s</string>
+    <string name="reminder_card_title">تنبيه</string>
     <string name="rename_alert">إذا قمت بتغيير امتداد هذا الملف، ربما لن تكون قادر على فتحه.</string>
     <string name="rename_alert2">الملفات التي تبدأ بنقطة \".\" سيتم إخفاؤها تلقائيًا. هل مازلت ترغب في استخدام اسم الملف هذا؟</string>
     <string name="rename_failed">تعذر إعادة تسمية %1$s</string>
@@ -629,6 +755,7 @@
     <string name="set_pattern">تحديث كلمة المرور</string>
     <string name="set_pattern_btn">تعيين</string>
     <string name="set_pattern_msg">يرجى تعيين كلمة المرور مرة أخرى. يمكن استخدام كلمة مرور حماية الخصوصية أيضًا للصور والرسائل والملاحظات.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">أقل من %d كيلوبايت</string>
     <string name="size_lv2" formatted="false">%1d كيلوبايت - %2d ميجابايت</string>
     <string name="size_lv3" formatted="false">%1d ميجابايت - %2d ميجابايت</string>
@@ -746,9 +873,12 @@
     <string name="unknown_error">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
     <string name="unlock_pattern_msg">تستخدم كلمة مرور حماية الخصوصية أيضًا للصور والرسائل والملاحظات.</string>
     <string name="unlock_pattern_title">كلمة مرور جديدة</string>
+    <string name="update_no_network">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجدداً.</string>
     <string name="upload_user_photo">تحميل</string>
     <string name="usb_label">USB</string>
     <string name="use">استخدام</string>
+    <string name="use_mobile_data_update_summary">استخدام بيانات الهاتف لمزامنة التغييرات تلقائيا إلى الملفات التي تم تنزيلها من Mi Drive</string>
+    <string name="use_mobile_data_update_title">استخدام بيانات الهاتف للمزامنة</string>
     <string name="use_to_all">التطبيق على الكل</string>
     <string name="used">مستخدم</string>
     <string name="user_guide_continue_use">موافق</string>
@@ -757,7 +887,12 @@
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
+    <string name="video_data_consume_dialog_confirm">متابعة</string>
+    <string name="video_data_consume_dialog_title">استخدام بيانات الهاتف؟</string>
     <string name="view_type">عرض</string>
+    <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
+    <string name="web_sso_login_message">تسجيل الدخول…</string>
+    <string name="webview_reload">حاول مرة أخرى</string>
     <string name="wechat_msg">نظرًا لقيود Android 11، لا يمكن لمدير الملفات عرض معاينات المستندات من WeChat. افتح المستندات واحفظها في WeChat أولاً ليتم عرض المستندات هنا.</string>
     <string name="wechat_title">لا يمكن الوصول إلى مستندات WeChat</string>
     <string name="wechat_video">فيديو في %s</string>

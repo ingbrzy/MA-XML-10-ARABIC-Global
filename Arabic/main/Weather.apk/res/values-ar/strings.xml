@@ -70,8 +70,8 @@
     <string name="aqi_alert_channel_name">تنبيهات جودة الهواء</string>
     <string name="aqi_data_source">مدعوم من Colorful Clouds</string>
     <string name="aqi_desc">مؤشر جودة الهواء</string>
-    <string name="aqi_detail_24_hours">توقعات ٢٤ ساعة</string>
-    <string name="aqi_detail_5_days">توقعات ٥ أيام</string>
+    <string name="aqi_detail_24_hours">توقعات %d ساعة</string>
+    <string name="aqi_detail_5_days">توقعات %d أيام</string>
     <string name="aqi_detail_co_unit">الوحدة: ملغم/م³</string>
     <string name="aqi_detail_title">مؤشر جودة الهواء</string>
     <string name="aqi_detail_unit">الوحدة: µg/m³</string>
@@ -163,6 +163,7 @@
     <string name="dynamic_weather">الطقس</string>
     <string name="early_morning">فجر</string>
     <string name="edit_city">إدارة المدن</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">جارٍ التحديث…</string>
     <string name="empty_view_net_unavailable">تعذر الاتصال بالشبكة</string>
     <string name="empty_view_refresh">حاول مجددا</string>
@@ -272,6 +273,7 @@
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="hourly_forcast_now">الآن</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">تثبيت الآن</string>
     <string name="indices_title_chance_of_rain">فرصة هطول أمطار</string>
@@ -283,15 +285,16 @@
     <string name="indices_wind_direction_north">ش</string>
     <string name="indices_wind_direction_south">ج</string>
     <string name="indices_wind_direction_west">غ</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">مؤشر UV</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">تشغيل خدمات الموقع</string>
     <string name="location_tag">تحديد الموقع</string>
     <string name="manager_city_option_add_home">إضافة إلى صفحة البداية</string>
     <string name="manager_city_option_view_on_home">العرض في صفحة البداية</string>
     <string name="midnight">الليل</string>
     <string name="minute_rain">توقعات هطول الأمطار</string>
-    <string name="minute_rain_after_an_hour">خلال ساعة</string>
-    <string name="minute_rain_after_two_hour">خلال ساعتين</string>
     <string name="minute_rain_feedback_subtitle">أخبرنا ما هو الطقس.</string>
     <string name="minute_rain_feedback_title">يبدو أن معلومات الطقس غير صحيحة.</string>
     <string name="minute_rain_now">الآن</string>
@@ -364,7 +367,6 @@
     <string name="morning">الصباح</string>
     <string name="network_unavailable">لا يمكن الاتصال بالشبكة.</string>
     <string name="night">المساء</string>
-    <string name="night_not_disturb_settings_summary">إيقاف التنبيهات مابين الساعة ٢٣:٠٠ و ٠٧:٠٠</string>
     <string name="night_not_disturb_settings_title">عدم الإزعاج في الليل</string>
     <string name="no_data">لا توجد بيانات</string>
     <string name="no_internet_message">يحتاج الجهاز إلى الاتصال بالشبكة لسحب موافقتك. تحقق من إعدادات الشبكة وحاول مجددا.</string>
@@ -445,9 +447,10 @@
     <string name="share_menu_title">مشاركة</string>
     <string name="share_subject">مشاركة</string>
     <string name="share_weather_desc">\#طقس MIUI#اليوم %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">،</string>
     <string name="share_weather_save_pic_fail">تعذر أخذ لقطة للشاشة</string>
-    <string name="shortcut_short_label_24_hour_forecast">توقعات ٢٤ ساعة</string>
+    <string name="shortcut_short_label_24_hour_forecast">توقعات %d ساعة</string>
     <string name="shortcut_short_label_recent_forecast">التحقق من الطقس</string>
     <string name="size_byte">بايت</string>
     <string name="size_giga_byte">جيجابايت</string>
@@ -564,7 +567,7 @@
     <string name="unit">الوحدات</string>
     <string name="unit_temperature">وحدات درجة الحرارة</string>
     <string name="unit_wind">وحدات سرعة الرياح</string>
-    <string name="update_night_setting_summary_text">تحديث معلومات الطقس مابين الساعة ٢٣:٠٠ و ٠٧:٠٠</string>
+    <string name="update_night_setting_summary_text">تحديث معلومات الطقس مابين الساعة %1$s و %2$s</string>
     <string name="update_night_setting_title_text">التحديث التلقائي ليلاً</string>
     <string name="update_notification_info">جارٍ تحديث البيانات في الخلفية…</string>
     <string name="updated_a_moment_ago">تم التحديث قبل ثواني</string>
@@ -575,10 +578,8 @@
     <string name="video_banner_weather_forecast">توقعات حالة الطقس</string>
     <string name="video_banner_weather_update">آخر التحديثات الجوية</string>
     <string name="view_forecast_item_yesterday">أمس</string>
-    <string name="view_indexes_item_day_after_tommorrow">في يومين</string>
     <string name="view_indexes_item_today">اليوم</string>
     <string name="view_indexes_item_tommorrow">غدا</string>
-    <string name="warning_weather_day_and_night_settings_summary">الحصول على تقارير الطقس اليومية في الساعة ٧:٠٠ و ١٩:٠٠</string>
     <string name="warning_weather_day_and_night_settings_title">تقارير يومية</string>
     <string name="weather_alert_channel_name">التنبيهات</string>
     <string name="weather_aqi_full_air_quality_forcast">تفاصيل توقعات جودة الهواء</string>
@@ -593,6 +594,7 @@
     <string name="wednesday_shortest">الأربعاء</string>
     <string name="welcome_app_title">مرحبا بك في الطقس!</string>
     <string name="wind_direction_no_data">الرياح</string>
+    <string name="wind_power">%d</string>
     <string name="wind_unit">%1$s كم/س</string>
     <string name="xiaomi_weather_description_content">الطقس هو أحد تطبيقات النظام. لن تتمكن من عرض معلومات الطقس أو استخدام الأدوات المرتبطة بالطقس بعد إلغاء تثبيته.</string>
     <string name="xiaomi_weather_description_content_remove">الطقس هو أحد تطبيقات النظام. لن تتمكن من عرض معلومات الطقس أو استخدام الأدوات المرتبطة بعد إزالة اختصاره من الشاشة الرئيسية.</string>

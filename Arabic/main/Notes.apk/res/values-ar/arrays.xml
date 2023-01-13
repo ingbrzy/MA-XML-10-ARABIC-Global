@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -67,6 +95,10 @@
         <item>الكاميرا</item>
         <item>المعرض</item>
     </string-array>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
+    </string-array>
     <string-array name="common_folder_operations">
         <item>新建</item>
         <item>重命名</item>
@@ -116,6 +148,10 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>الملاحظات الصوتية</item>
         <item>يمكنك الآن إنشاء ملاحظات صوتية. فقط انقر على الأيقونة وسجل صوتك واحفظ ملف الصوت داخل الملاحظة.</item>
+    </string-array>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
     <string-array name="system_folder_operations">
         <item>新建</item>

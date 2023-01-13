@@ -58,6 +58,7 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -79,7 +80,7 @@
     <string name="ew_detail_receive_warn_time_message">%s ث</string>
     <string name="ew_detail_receive_warn_time_title">الوقت قبل البدء</string>
     <string name="ew_save_title">حفظ</string>
-    <string name="ew_share_logo_title">تحذير من الزلزال</string>
+    <string name="ew_share_logo_title">تحذير الزلازل</string>
     <string name="ew_share_save_tips">تم الحفظ إلى %s</string>
     <string name="ew_share_title">مشاركة</string>
     <string name="ew_title_back">الرجوع للخلف</string>
@@ -148,14 +149,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">زيادة سرعة الشبكة مجاناً</string>
-    <string name="free_send_net_booster_busniess">احصل على محسن السرعة Xunlei مجانا</string>
-    <string name="free_send_net_booster_busniess_tip">انقر للاستلام</string>
-    <string name="free_send_net_booster_tip">استمتع بالعب بسلاسة مع زيادة سرعة الشبكة مجانا.</string>
+    <string name="free_send_net_booster">جرب مسرع الألعاب مجانا</string>
+    <string name="free_send_net_booster_busniess">جرب مسرع الألعاب مجانا</string>
+    <string name="free_send_net_booster_busniess_tip">استمتع بتجربة ألعاب أفضل وأسرع واربح مظهر جديد للعبة! هذا العرض ساري اليوم فقط!</string>
+    <string name="free_send_net_booster_tip">استمتع بتجربة ألعاب أفضل وأسرع وفرصة للفوز بجهاز Xiaomi!</string>
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="game_booster">مسرع الألعاب</string>
+    <string name="gamebooster_dialog_recover">تجديد</string>
+    <string name="gamebooster_dialog_start_booster">ابدأ</string>
     <string name="gamebooster_network_dialog_message">السماح للحماية بالاتصال بالشبكة من أجل استخدام جميع ميزات مسرع الألعاب؟</string>
     <string name="gamebooster_network_dialog_message_pad">السماح للحماية بالاتصال بالشبكة من أجل استخدام جميع ميزات مسرع الألعاب؟</string>
     <string name="gamebooster_network_dialog_title">بعض الميزات ليست متاحة</string>
@@ -319,7 +322,7 @@
     <string name="morning">الصباح</string>
     <string name="net_booster_expire_notification">جلسة زيادة سرعة الشبكة على وشك الانتهاء</string>
     <string name="net_booster_overdue_notification">جلسة زيادة سرعة الشبكة على وشك الانتهاء</string>
-    <string name="net_booster_overdue_notification_tip">جلسة زيادة سرعة الشبكة على وشك الانتهاء. تجديد الجلسة؟</string>
+    <string name="net_booster_overdue_notification_tip">انتهت جلسة زيادة سرعة الشبكة. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="night">المساء</string>
     <string name="no_network">لا يمكن الاتصال بالشبكة</string>
@@ -331,6 +334,8 @@
     <string name="pc_activity_title">تحسين البطارية</string>
     <string name="pm">م</string>
     <string name="pm_lable_name">معلومات عن مدخل الجذر</string>
+    <string name="power_center_battery_duration_screen_on">مدة استخدام الجهاز المتبقية</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">تبقى %1$s %2$s من مدة استخدام الجهاز</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_declare_dialog_title">شروط الخدمة</string>
     <string name="privacy_prompt_traffic_purchase_message">سيتم تشفير رقم هاتفك وتفاصيل شركة الاتصالات الخاصة بك ورفعها الى خوادم Mi للحصول معلومات حول خيارات الشراء.</string>
@@ -348,6 +353,7 @@
     <string name="size_peta_byte">بنتابايت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>

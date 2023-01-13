@@ -47,6 +47,7 @@
     <string name="calibrate_failed">فشل معايرة الارتفاع</string>
     <string name="calibrate_failed_no_location">لا يمكن المعايرة</string>
     <string name="calibrate_failed_timeout">لا يمكن الاتصال بالخادم</string>
+    <string name="calibrate_new_tip">قم بإمالة جهازك بسرعة للف الكرة حول الدائرة</string>
     <string name="calibrate_rotate_again">حاول مرة أخرى</string>
     <string name="calibrate_success">تمت المعايرة</string>
     <string name="calibrate_tip">قم بإمالة جهازك للف الكرة حول الدائرة</string>
@@ -228,7 +229,7 @@
     <string name="morning">الصباح</string>
     <string name="new_cta_app_purpose">عرض الاتجاهات والإحداثيات</string>
     <string name="new_cta_v2_app_purpose">عرض الاتجاهات والإحداثيات والضغط الجوي والارتفاع الحالي</string>
-    <string name="new_permission_camera_desc">للمعايرة</string>
+    <string name="new_permission_camera_desc">عرض معاينات حيه</string>
     <string name="new_permission_location_desc">لعرض الإحداثيات</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>

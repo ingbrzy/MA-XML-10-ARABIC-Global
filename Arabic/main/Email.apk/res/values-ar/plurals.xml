@@ -88,38 +88,6 @@
         <item quantity="few">%1$d غير مقروءة</item>
         <item quantity="many">%1$d غير مقروءة</item>
     </plurals>
-    <plurals name="confirm_archive_conversation">
-        <item quantity="other">هل تريد أرشفة هذه %1$d محادثة؟</item>
-        <item quantity="zero">هل تريد أرشفة هذه %1$d محادثة؟</item>
-        <item quantity="one">أترغب في أرشفة هذه المحادثة؟</item>
-        <item quantity="two">هل تريد أرشفة هذه %1$d محادثات؟</item>
-        <item quantity="few">هل تريد أرشفة هذه %1$d محادثات؟</item>
-        <item quantity="many">هل تريد أرشفة هذه %1$d محادثة؟</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation">
-        <item quantity="other">هل انت متأكد من حذف هذه %1$d محادثة؟</item>
-        <item quantity="zero">هل انت متأكد من حذف هذه %1$d محادثة؟</item>
-        <item quantity="one">هل انت متأكد من حذف هذه المحادثة؟</item>
-        <item quantity="two">هل انت متأكد من حذف %1$d محادثات؟</item>
-        <item quantity="few">هل انت متأكد من حذف %1$d محادثات؟</item>
-        <item quantity="many">هل انت متأكد من حذف هذه %1$d محادثة؟</item>
-    </plurals>
-    <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">هذه المحادثات تحتوي على عناصر مدمجة. أترغب في حذفها على أية حال؟</item>
-        <item quantity="zero">هذه المحادثة تحتوي على عناصر مدمجة. أترغب في حذفها على أية حال؟</item>
-        <item quantity="one">هذه المحادثة تحتوي على عناصر مدمجة. أترغب في حذفها على أية حال؟</item>
-        <item quantity="two">هذه المحادثات تحتوي على عناصر مدمجة. أترغب في حذفها على أية حال؟</item>
-        <item quantity="few">هذه المحادثات تحتوي على عناصر مدمجة. أترغب في حذفها على أية حال؟</item>
-        <item quantity="many">هذه المحادثات تحتوي على عناصر مدمجة. أترغب في حذفها على أية حال؟</item>
-    </plurals>
-    <plurals name="confirm_delete_draft">
-        <item quantity="other">حذف %1$d مسودات؟</item>
-        <item quantity="zero">حذف %1$d مسودة؟</item>
-        <item quantity="one">حذف %1$d مسودة؟</item>
-        <item quantity="two">حذف %1$d مسودات؟</item>
-        <item quantity="few">حذف %1$d مسودات؟</item>
-        <item quantity="many">حذف %1$d مسودة؟</item>
-    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">تمت إضافة %d جهة اتصال</item>
         <item quantity="zero">تمت إضافة %d جهة اتصال</item>
@@ -127,30 +95,6 @@
         <item quantity="two">تمت إضافة %d جهات اتصال</item>
         <item quantity="few">تمت إضافة %d جهات اتصال</item>
         <item quantity="many">تمت إضافة %d جهة اتصال</item>
-    </plurals>
-    <plurals name="conversation_archived">
-        <item quantity="other">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="zero">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="one">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="two">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="few">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="many">تمت أرشفة &lt;b>%1$d&lt;/b>.</item>
-    </plurals>
-    <plurals name="conversation_deleted">
-        <item quantity="other">تم حذف &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="zero">تم حذف &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="one">تم حذف &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="two">تم حذف &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="few">تم حذف &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="many">تم حذف &lt;b>%1$d&lt;/b>.</item>
-    </plurals>
-    <plurals name="conversation_folder_changed">
-        <item quantity="other">تم تغيير المجلدات.</item>
-        <item quantity="zero">تم تغيير المجلدات.</item>
-        <item quantity="one">تم تغيير المجلد.</item>
-        <item quantity="two">المجلدات التي تم تغييرها.</item>
-        <item quantity="few">تم تغيير المجلدات.</item>
-        <item quantity="many">تم تغيير المجلدات.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">+%1$d شخص آخر</item>
@@ -160,70 +104,6 @@
         <item quantity="few">+%1$d أشخاص آخرين</item>
         <item quantity="many">+%1$d شخص آخر</item>
     </plurals>
-    <plurals name="conversation_muted">
-        <item quantity="other">تم كتم &lt;b>%1$d&lt;/b></item>
-        <item quantity="zero">تم كتم &lt;b>%1$d&lt;/b></item>
-        <item quantity="one">تم كتم &lt;b>%1$d&lt;/b>.</item>
-        <item quantity="two">تم كتم &lt;b>%1$d&lt;/b></item>
-        <item quantity="few">تم كتم &lt;b>%1$d&lt;/b></item>
-        <item quantity="many">تم كتم &lt;b>%1$d&lt;/b></item>
-    </plurals>
-    <plurals name="conversation_not_important">
-        <item quantity="other">تمت إزالة &lt;b>%1$d&lt;/b> رسالة من مجلد \"هام\"</item>
-        <item quantity="zero">تمت إزالة &lt;b>%1$d&lt;/b> رسالة من مجلد \"هام\"</item>
-        <item quantity="one">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"هام\"</item>
-        <item quantity="two">تمت إزالة &lt;b>%1$d&lt;/b> رسالة من مجلد \"هام\"</item>
-        <item quantity="few">تمت إزالة &lt;b>%1$d&lt;/b> رسالة من مجلد \"هام\"</item>
-        <item quantity="many">تمت إزالة &lt;b>%1$d&lt;/b> رسالة من مجلد \"هام\"</item>
-    </plurals>
-    <plurals name="conversation_not_spam">
-        <item quantity="other">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"البريد المزعج\"</item>
-        <item quantity="zero">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"البريد المزعج\"</item>
-        <item quantity="one">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"البريد المزعج\"</item>
-        <item quantity="two">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"البريد المزعج\"</item>
-        <item quantity="few">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"البريد المزعج\"</item>
-        <item quantity="many">تمت إزالة &lt;b>%1$d&lt;/b> من مجلد \"البريد المزعج\"</item>
-    </plurals>
-    <plurals name="conversation_phished">
-        <item quantity="other">تم الإبلاغ عن &lt;b>%1$d&lt;/b> رسالة كبريد مزعج</item>
-        <item quantity="zero">تم الإبلاغ عن &lt;b>%1$d&lt;/b> رسالة كبريد مزعج</item>
-        <item quantity="one">تم الإبلاغ عن &lt;b>%1$d&lt;/b> رسالة كبريد مزعج</item>
-        <item quantity="two">تم الإبلاغ عن &lt;b>%1$d&lt;/b> رسائل كبريد مزعج</item>
-        <item quantity="few">تم الإبلاغ عن &lt;b>%1$d&lt;/b> رسائل كبريد مزعج</item>
-        <item quantity="many">تم الإبلاغ عن &lt;b>%1$d&lt;/b> رسالة كبريد مزعج</item>
-    </plurals>
-    <plurals name="conversation_spammed">
-        <item quantity="other">تم وضع علامة على &lt;b>%1$d&lt;/b> كبريد مزعج</item>
-        <item quantity="zero">تم وضع علامة على &lt;b>%1$d&lt;/b> كبريد مزعج</item>
-        <item quantity="one">تم وضع علامة على &lt;b>%1$d&lt;/b> كبريد مزعج</item>
-        <item quantity="two">تم وضع علامة على &lt;b>%1$d&lt;/b> كبريد مزعج</item>
-        <item quantity="few">تم وضع علامة على &lt;b>%1$d&lt;/b> كبريد مزعج</item>
-        <item quantity="many">تم وضع علامة على &lt;b>%1$d&lt;/b> كبريد مزعج</item>
-    </plurals>
-    <plurals name="day">
-        <item quantity="other">%d يوم</item>
-        <item quantity="zero">%d يوم</item>
-        <item quantity="one">%d يوم</item>
-        <item quantity="two">%d أيام</item>
-        <item quantity="few">%d أيام</item>
-        <item quantity="many">%d يوم</item>
-    </plurals>
-    <plurals name="day_after">
-        <item quantity="other">في %d يوم</item>
-        <item quantity="zero">في %d يوم</item>
-        <item quantity="one">في %d يوم</item>
-        <item quantity="two">في %d أيام</item>
-        <item quantity="few">في %d أيام</item>
-        <item quantity="many">في %d يوم</item>
-    </plurals>
-    <plurals name="day_before">
-        <item quantity="other">منذ %d يوم</item>
-        <item quantity="zero">منذ %d يوم</item>
-        <item quantity="one">منذ %d يوم</item>
-        <item quantity="two">منذ %d أيام</item>
-        <item quantity="few">منذ %d أيام</item>
-        <item quantity="many">منذ %d يوم</item>
-    </plurals>
     <plurals name="draft">
         <item quantity="other">مسودة</item>
         <item quantity="zero">مسودة</item>
@@ -231,14 +111,6 @@
         <item quantity="two">مسودات</item>
         <item quantity="few">مسودات</item>
         <item quantity="many">مسودة</item>
-    </plurals>
-    <plurals name="empty_folder_dialog_message">
-        <item quantity="other">سيتم حذف %1$d رسالة بشكل دائم.</item>
-        <item quantity="zero">سيتم حذف %1$d رسالة بشكل دائم.</item>
-        <item quantity="one">سيتم حذف %1$d رسالة بشكل دائم.</item>
-        <item quantity="two">سيتم حذف %1$d رسائل بشكل دائم.</item>
-        <item quantity="few">سيتم حذف %1$d رسائل بشكل دائم.</item>
-        <item quantity="many">سيتم حذف %1$d رسالة بشكل دائم.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -296,14 +168,6 @@
         <item quantity="few">الآن</item>
         <item quantity="many">الآن</item>
     </plurals>
-    <plurals name="local_search_result">
-        <item quantity="other">%s نتيجة في الرسائل المتزامنة</item>
-        <item quantity="zero">%s نتيجة في الرسائل المتزامنة</item>
-        <item quantity="one">%s نتيجة في الرسائل المتزامنة</item>
-        <item quantity="two">%s نتائج في الرسائل المتزامنة</item>
-        <item quantity="few">%s نتائج في الرسائل المتزامنة</item>
-        <item quantity="many">%s نتيجة في الرسائل المتزامنة</item>
-    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">تم تحديد %d عنصر</item>
         <item quantity="zero">تم تحديد %d عنصر</item>
@@ -319,14 +183,6 @@
         <item quantity="two">%1$d مرفقات متبقية</item>
         <item quantity="few">%1$d مرفقات متبقية</item>
         <item quantity="many">%1$d مرفقات متبقية</item>
-    </plurals>
-    <plurals name="new_incoming_messages_many">
-        <item quantity="other">عرض %1$d رسالة جديدة.</item>
-        <item quantity="zero">عرض %1$d رسالة جديدة.</item>
-        <item quantity="one">عرض %1$d رسالة جديدة.</item>
-        <item quantity="two">عرض %1$d رسائل جديدة.</item>
-        <item quantity="few">عرض %1$d رسائل جديدة.</item>
-        <item quantity="many">عرض %1$d رسالة جديدة.</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">%1$d رسالة جديدة</item>
@@ -431,29 +287,5 @@
         <item quantity="two">قبل %1$d أسابيع</item>
         <item quantity="few">قبل %1$d أسابيع</item>
         <item quantity="many">قبل %1$d أسبوع</item>
-    </plurals>
-    <plurals name="remote_search_result">
-        <item quantity="other">%s نتيجة في جميع الحسابات</item>
-        <item quantity="zero">%s نتيجة في جميع الحسابات</item>
-        <item quantity="one">%s نتيجة في جميع الحسابات</item>
-        <item quantity="two">%s نتائج في جميع الحسابات</item>
-        <item quantity="few">%s نتائج في جميع الحسابات</item>
-        <item quantity="many">%s نتيجة في جميع الحسابات</item>
-    </plurals>
-    <plurals name="show_messages_read">
-        <item quantity="other">%1$d رسالة أقدم</item>
-        <item quantity="zero">%1$d رسالة قديمة</item>
-        <item quantity="one">%1$d رسالة أقدم</item>
-        <item quantity="two">%1$d رسائل قديمة</item>
-        <item quantity="few">%1$d رسائل اقدم</item>
-        <item quantity="many">%1$d رسالة قديمة</item>
-    </plurals>
-    <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%1$s رسالة غير مرسلة في %2$s</item>
-        <item quantity="zero">%1$s رسالة غير مرسلة في %2$s</item>
-        <item quantity="one">%1$s رسالة غير مرسلة في %2$s</item>
-        <item quantity="two">%1$s رسائل غير مرسلة في %2$s</item>
-        <item quantity="few">%1$s رسائل غير مرسلة في %2$s</item>
-        <item quantity="many">%1$s رسالة غير مرسلة في %2$s</item>
     </plurals>
 </resources>

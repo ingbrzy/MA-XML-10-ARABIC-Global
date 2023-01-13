@@ -23,6 +23,5 @@
     <string name="holiday_update_summary">انقر لتحديث معلومات التقويم.</string>
     <string name="holiday_update_title">تحديث متاح</string>
     <string name="provider_label">التقويم</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">جارٍ تحديث قاعدة بيانات التقويم…</string>
 </resources>

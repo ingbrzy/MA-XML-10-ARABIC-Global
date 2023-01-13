@@ -88,6 +88,30 @@
         <item quantity="few">%s نجمات محددة</item>
         <item quantity="many">%s نجمة محددة</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
+        <item quantity="zero">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
+        <item quantity="one">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
+        <item quantity="two">شاهد لمدة %s ثواني آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
+        <item quantity="few">شاهد لمدة %s ثواني آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
+        <item quantity="many">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
         <item quantity="zero">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
@@ -103,6 +127,14 @@
         <item quantity="two">منذ نصف ساعة</item>
         <item quantity="few">منذ نصف ساعة</item>
         <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s مشاهدة</item>
+        <item quantity="zero">%s مشاهدة</item>
+        <item quantity="one">%s مشاهدة</item>
+        <item quantity="two">%s مشاهدات</item>
+        <item quantity="few">%s مشاهدات</item>
+        <item quantity="many">%s مشاهدة</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">خلال ١ ساعة</item>
@@ -390,6 +422,14 @@
         <item quantity="few">%d إشعارات جديدة</item>
         <item quantity="many">%d إشعارًا جديدًا</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d أغنية</item>
+        <item quantity="zero">%d أغنية</item>
+        <item quantity="one">%d أغنية</item>
+        <item quantity="two">%d أغاني</item>
+        <item quantity="few">%d أغاني</item>
+        <item quantity="many">%d أغنية</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">تم المشاركة بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
         <item quantity="zero">تم المشاركة بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
@@ -557,6 +597,14 @@
         <item quantity="two">أضف مايصل إلى %d إشارات مرجعية</item>
         <item quantity="few">أضف مايصل إلى %d إشارات مرجعية</item>
         <item quantity="many">أضف مايصل إلى %d إشارة مرجعية</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">إخفاء %d ملف محدد؟</item>
+        <item quantity="zero">إخفاء %d ملف محدد؟</item>
+        <item quantity="one">إخفاء %d ملف محدد؟</item>
+        <item quantity="two">إخفاء %d ملفات محددة؟</item>
+        <item quantity="few">إخفاء %d ملفات محددة؟</item>
+        <item quantity="many">إخفاء %d ملف محدد؟</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s أعجاب</item>

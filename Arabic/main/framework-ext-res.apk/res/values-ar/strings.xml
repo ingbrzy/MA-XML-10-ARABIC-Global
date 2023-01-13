@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">نغمة الافتراضية (%1$s)</string>
     <string name="android_ringtone_silent">لا شيء</string>
     <string name="android_ringtone_unknown">نغمة غير معروفة</string>
+    <string name="app_continuity_channel_name">تخصيص تخطيط التطبيق</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">لا يمكن فتح رمز دفع AliPay</string>
     <string name="application_cannot_open_alipay_scanner">لا يمكن فتح ماسح AliPay</string>
@@ -111,6 +112,10 @@
     <string name="crystal">كريستال</string>
     <string name="cut">قص</string>
     <string name="dance">رقص</string>
+    <string name="dark_mode_enable">تشغيل</string>
+    <string name="dark_mode_suggest_message">يمكنك التبديل إلى الوضع الداكن تلقائيًا عند غروب الشمس للاستمتاع بتجربة مشاهدة أكثر راحة</string>
+    <string name="dark_mode_suggest_title">المكان يزداد ظلام</string>
+    <string name="dark_mode_suggest_toast">سيتم تشغيل الوضع الداكن تلقائيًا عند غروب الشمس وإيقافه عند شروق الشمس</string>
     <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="daydream">أحلام اليقظة</string>
     <string name="default_device_name">جهاز غير معروف</string>
@@ -130,6 +135,7 @@
     <string name="dewdrops">صباح الندى</string>
     <string name="digitaluniverse">العالم الرقمي (ستيريو)</string>
     <string name="disable_nfc">تم إيقاف تشغيل NFC للشحن اللاسلكي</string>
+    <string name="disable_nfc_haptic_reverse">تم إيقاف تشغيل NFC والاهتزاز للشحن اللاسلكي العكسي</string>
     <string name="disable_nfc_reverse">تم إيقاف تشغيل NFC للشحن اللاسلكي العكسي</string>
     <string name="echo">صدى</string>
     <string name="eighthours">٨ ساعات</string>
@@ -137,6 +143,7 @@
     <string name="enable_livetalk_title">تفعيل حزمة شحن الرصيد</string>
     <string name="enable_midrop">تشغيل</string>
     <string name="enable_nfc">لا يتم شحن الجهاز. تم تشغيل NFC مرة أخرى.</string>
+    <string name="enable_nfc_haptic_reverse">توقف الشحن اللاسلكي العكسي. تم تشغيل NFC مرة أخرى.</string>
     <string name="enable_nfc_reverse">لا يتم الشحن اللاسلكي العكسي. تم تشغيل NFC مرة أخرى.</string>
     <string name="expect">إثارة</string>
     <string name="fadein">تلاشي لداخل</string>
@@ -154,6 +161,7 @@
     <string name="flip_screen_camera_tip">قم بتدوير الجهاز لاستخدام الكاميرا</string>
     <string name="flute">مزمار</string>
     <string name="fm_record_smaple_prefix_miui">تسجيل FM</string>
+    <string name="fold_small_not_split">تقسيم الشاشة غير مدعوم على الشاشة الخارجية</string>
     <string name="force_exit_message">الإيقاف الإجباري %1$s</string>
     <string name="force_exit_skip_message">لا يمكن إغلاق %1$s لأن النظام يحتاج إليه.</string>
     <string name="fourhours">ساعتين</string>
@@ -163,6 +171,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">تشغيل النقر السريعة</string>
     <string name="freeform_exchange_tip">حرر إصبعك لفتح التطبيق</string>
     <string name="freeform_exchange_tip2">اسحب للزاوية للإلغاء</string>
+    <string name="freeform_exchange_tip3">افتح النافذة المنبثقة في وضع ملء الشاشة</string>
     <string name="frenchchic">شيك</string>
     <string name="frequent_email">البريد الإلكتروني مستخدم دائما</string>
     <string name="frequent_phrases">العبارات المتكررة</string>
@@ -204,6 +213,13 @@
     <string name="international_livetalk_enable">استخدام حزمة شحن الرصيد للمكالمات الدولية</string>
     <string name="key_btn_ok">موافق</string>
     <string name="key_btn_space">مسافة</string>
+    <string name="keyboard_connect_failed">تعذر الاتصال بلوحة المفاتيح. يرجى إعادة توصيله.</string>
+    <string name="keyboard_identity_reject_confirm">حسنا</string>
+    <string name="keyboard_identity_reject_message">يبدو أن لوحة مفاتيحك غير متوافقة مع هذا الجهاز.</string>
+    <string name="keyboard_identity_transfer_error_message">تعذر الاتصال بلوحة المفاتيح. يرجى إعادة المحاولة.</string>
+    <string name="keyboard_upgrade_failed">تعذر تحديث لوحة المفاتيح</string>
+    <string name="keyboard_upgrade_start">جارٍ تحديث لوحة المفاتيح…</string>
+    <string name="keyboard_upgrade_success">تم تحديث لوحة المفاتيح بنجاح</string>
     <string name="kungfu">كونج فو</string>
     <string name="leisure">وقت الفراغ</string>
     <string name="livetalk_not_enable">حزمة شحن الرصيد غير مفعلة</string>
@@ -235,6 +251,8 @@
     <string name="miremix">ريميكس Mi</string>
     <string name="miui_forbid_poweroff_when_device_locked">لا يمكن إيقاف التشغيل، يتم قفل الجهاز.</string>
     <string name="miui_multiwindow_not_support_cvw">لا يمكن تعديل حجم النافذة لهذا التطبيق</string>
+    <string name="miui_multiwindow_not_support_small_window">لا يدعم %1$s النوافذ المنبثقة</string>
+    <string name="miui_multiwindow_not_support_split">لا يدعم %1$s وضع تقسيم الشاشة</string>
     <string name="miui_screen_ratio_hint">مشاكل أبعاد الشاشة</string>
     <string name="miui_screen_ratio_hint_dont_show_again">لا تظهر مرة اخرى</string>
     <string name="miui_screen_ratio_hint_go_to_settings">انتقل إلى الإعدادات</string>
@@ -262,6 +280,7 @@
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">حسنا</string>
     <string name="open_close_tip_content">لإغلاق النافذة المنبثقة، اضغط مطولا على الشريط اسفل النافذة ثم اسحب لأعلى</string>
+    <string name="open_miui_optimization">شغل تحسين MIUI أولا</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">برتقالي</string>
@@ -309,8 +328,19 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">إعادة التشغيل</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">تذكر اختياري</string>
+    <string name="relaunch_dialog_button_cancel">إلغاء</string>
+    <string name="relaunch_dialog_button_confirm">إعادة التشغيل</string>
+    <string name="relaunch_dialog_message">لا يمكنك تغيير حجم هذا التطبيق إلا بعد إعادة تشغيله. ستفقد جميع التغييرات غير المحفوظة إذا أعدت تشغيل التطبيق الآن. هل ترغب في المتابعة؟</string>
+    <string name="relaunch_dialog_title">هل ترعب في إعادة تشغيل \"%s\" الآن؟</string>
+    <string name="relaunch_fold_notification_content">قد لا يتم عرض التطبيق بشكل صحيح على هذه الشاشة. أعد تشغيل التطبيق لتخصيص التخطيط.</string>
+    <string name="relaunch_notification_title">إعادة تشغيل \"%s\"</string>
+    <string name="relaunch_unfold_notification_content">قد لا يتم عرض التطبيق بشكل صحيح على هذه الشاشة. أعد تشغيل التطبيق لتخصيص التخطيط.</string>
     <string name="remain">المتبقي: %s</string>
     <string name="replace">استبدال</string>
+    <string name="rescuepartyplus_config_reset_context">قد يتم مسح بعض البيانات، انقر لعرض التفاصيل.</string>
+    <string name="rescuepartyplus_config_reset_title">اكتمل إصلاح النظام</string>
     <string name="resolver_app_recommend_flag">موصى به</string>
     <string name="resolver_checkbox_always">دائماً</string>
     <string name="resolver_checkbox_once">مرة</string>
@@ -325,6 +355,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">سامسونج</string>
     <string name="samsung_phone">هاتف سامسونج</string>
+    <string name="sc_notification_warning_content">إذا لم يتم عرض التطبيق بشكل صحيح، يمكنك استعادة طريقة العرض الافتراضية أو تغيير تفضيلات عرض التطبيق في الإعدادات.</string>
+    <string name="sc_notification_warning_restore">استعادة</string>
+    <string name="sc_notification_warning_settings">الإعدادات</string>
+    <string name="sc_notification_warning_title">تفضيلات عرض التطبيق</string>
+    <string name="sc_relaunch_dialog_message">قد لا يتم عرض التطبيق بشكل صحيح على هذه الشاشة. أعد تشغيل التطبيق لتخصيص التخطيط.</string>
     <string name="scanning_device_tips">جارٍ البحث عن أجهزة قريبة…تأكد من أن الجهاز الآخر في وضع الاكتشاف.</string>
     <string name="screen_button_notification_text">لتشغيلها، اضغط على زري الصفحة الرئيسية والطاقة معاً.</string>
     <string name="screen_button_notification_title">تم إيقاف تشغيل أزرار التنقل</string>
@@ -357,6 +392,7 @@
     <string name="set_password_action">تعيين كلمة المرور</string>
     <string name="set_password_message">قم بتعيين كلمة مرور لإستخدام هذه الميزة.</string>
     <string name="set_password_title">تعيين كلمة المرور</string>
+    <string name="shortcut_no_support_on_pc_mode">هذه الإيماءة غير مدعومة في وضع الكمبيوتر</string>
     <string name="shutdown_confirm_title">إيقاف تشغيل الجهاز الان؟</string>
     <string name="shutdown_progress">جار إيقاف التشغيل…</string>
     <string name="silence_mode">الوضع الصامت</string>
@@ -413,6 +449,8 @@
     <string name="status_bar_toggle_wifi_ap">نقطة اتصال</string>
     <string name="stoneskimming_preview">خطوات هادئة</string>
     <string name="stop_operate_camera_frequently">انت تفتح الكاميرا الأمامية كثيرا.</string>
+    <string name="stylus_pen_mask_screenshot">انقر على الشاشة لالتقاط لقطات شاشة</string>
+    <string name="stylus_pen_mask_text">انقر على الشاشة لبدء الكتابة</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">ضبط السطوع لتعزيز الإضاءة المحيطة تلقائيا</string>
     <string name="sunlight_notification_title">تشغيل وضع ضوء الشمس</string>
@@ -441,6 +479,7 @@
     <string name="unknown_caller">رقم غير معروف</string>
     <string name="unrecognized_manufacture">غير معروف</string>
     <string name="unrecognized_model">جهاز غير معروف</string>
+    <string name="unreplace_freeform_count_max">لا يمكن فتح عدة نوافذ منبثقة</string>
     <string name="user_authentication_failed">فشل المصادقة -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">جارٍ التبديل إلى واجهة الطفل…</string>
     <string name="user_switching_dialog_switch_out_kid_space">جارٍ مغادرة واجهة الطفل…</string>

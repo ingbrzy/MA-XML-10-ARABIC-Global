@@ -112,6 +112,13 @@
         <item>الافتراضي</item>
         <item>كلاسيكي</item>
     </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>الافتراضي</item>
+        <item>أزرق</item>
+        <item>أخضر</item>
+        <item>بنفسجي</item>
+        <item>بني</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>تمرير</item>
         <item>تضاؤل</item>

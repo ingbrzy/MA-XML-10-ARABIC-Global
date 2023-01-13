@@ -129,12 +129,12 @@
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d يوم متبقي قبل انتهاء دورة تسريع الشبكة. قم بتجديد الدورة لتجنب مشاكل سرعة الشبكة.</item>
-        <item quantity="zero">%d يوم متبقي قبل انتهاء دورة تسريع الشبكة. قم بتجديد الدورة لتجنب مشاكل سرعة الشبكة.</item>
-        <item quantity="one">%d يوم متبقي قبل انتهاء دورة تسريع الشبكة. قم بتجديد الدورة لتجنب مشاكل سرعة الشبكة.</item>
-        <item quantity="two">%d أيام متبقي قبل انتهاء دورة تسريع الشبكة. قم بتجديد الدورة لتجنب مشاكل سرعة الشبكة.</item>
-        <item quantity="few">%d أيام متبقي قبل انتهاء دورة تسريع الشبكة. قم بتجديد الدورة لتجنب مشاكل سرعة الشبكة.</item>
-        <item quantity="many">%d يوم متبقي قبل انتهاء دورة تسريع الشبكة. قم بتجديد الدورة لتجنب مشاكل سرعة الشبكة.</item>
+        <item quantity="other">ستنتهي جلسة زيادة سرعة الشبكة بعد %d يوم. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</item>
+        <item quantity="zero">ستنتهي جلسة زيادة سرعة الشبكة بعد %d يوم. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</item>
+        <item quantity="one">ستنتهي جلسة زيادة سرعة الشبكة بعد %d يوم. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</item>
+        <item quantity="two">ستنتهي جلسة زيادة سرعة الشبكة بعد %d أيام. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</item>
+        <item quantity="few">ستنتهي جلسة زيادة سرعة الشبكة بعد %d أيام. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</item>
+        <item quantity="many">ستنتهي جلسة زيادة سرعة الشبكة بعد %d يوم. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>
@@ -143,5 +143,29 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s س</item>
+        <item quantity="zero">%s س</item>
+        <item quantity="one">%s س</item>
+        <item quantity="two">%s س</item>
+        <item quantity="few">%s س</item>
+        <item quantity="many">%s س</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s دق</item>
+        <item quantity="zero">%s دق</item>
+        <item quantity="one">%s دق</item>
+        <item quantity="two">%s دق</item>
+        <item quantity="few">%s دق</item>
+        <item quantity="many">%s دق</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">تبقى %s دقيقة من مدة استخدام الجهاز</item>
+        <item quantity="zero">تبقى %s دقيقة من مدة استخدام الجهاز</item>
+        <item quantity="one">تبقى %s دقيقة من مدة استخدام الجهاز</item>
+        <item quantity="two">تبقى %s دقائق من مدة استخدام الجهاز</item>
+        <item quantity="few">تبقى %s دقائق من مدة استخدام الجهاز</item>
+        <item quantity="many">تبقى %s دقيقة من مدة استخدام الجهاز</item>
     </plurals>
 </resources>

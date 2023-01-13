@@ -72,6 +72,22 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d جهاز</item>
+        <item quantity="zero">%1$d جهاز</item>
+        <item quantity="one">%1$d جهاز</item>
+        <item quantity="two">%1$d أجهزة</item>
+        <item quantity="few">%1$d أجهزة</item>
+        <item quantity="many">%1$d جهاز</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d جهاز</item>
+        <item quantity="zero">%1$d جهاز</item>
+        <item quantity="one">%1$d جهاز</item>
+        <item quantity="two">%1$d أجهزة</item>
+        <item quantity="few">%1$d أجهزة</item>
+        <item quantity="many">%1$d جهاز</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -127,6 +143,14 @@
         <item quantity="two">تم تحديد %d عناصر</item>
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>

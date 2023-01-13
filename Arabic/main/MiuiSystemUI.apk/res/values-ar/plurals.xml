@@ -75,7 +75,7 @@
     <plurals name="abc_slice_duration_days">
         <item quantity="other">قبل %d يوم</item>
         <item quantity="zero">قبل %d يوم</item>
-        <item quantity="one">قبل %d يوم</item>
+        <item quantity="one">قبل يوم واحد (%d)</item>
         <item quantity="two">قبل يومين (%d)</item>
         <item quantity="few">قبل %d أيام</item>
         <item quantity="many">قبل %d يومًا</item>
@@ -83,7 +83,7 @@
     <plurals name="abc_slice_duration_min">
         <item quantity="other">قبل %d دقيقة</item>
         <item quantity="zero">قبل %d دقيقة</item>
-        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="one">قبل دقيقة واحدة (%d)</item>
         <item quantity="two">قبل دقيقتين (%d)</item>
         <item quantity="few">قبل %d دقائق</item>
         <item quantity="many">قبل %d دقيقة</item>
@@ -103,6 +103,14 @@
         <item quantity="two">تمت إضافة عنصرَي تحكّم (%s).</item>
         <item quantity="few">تمت إضافة %s عناصر تحكّم.</item>
         <item quantity="many">تمت إضافة %s عنصر تحكّم.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s تطبيق نشط</item>
+        <item quantity="zero">%s تطبيق نشط</item>
+        <item quantity="one">تطبيق واحد نشط (%s)</item>
+        <item quantity="two">تطبيقَان نشطَان (%s)</item>
+        <item quantity="few">%s تطبيقات نشطة</item>
+        <item quantity="many">%s تطبيقًا نشطًا</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -145,12 +153,12 @@
         <item quantity="many">في %d دقيقة</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
-        <item quantity="other">رمز PIN غير صحيح، تبقى %d محاولات</item>
+        <item quantity="other">رمز PIN غير صحيح، تبقى %d محاولة</item>
         <item quantity="zero">رمز PIN غير صحيح، تبقى %d محاولة</item>
         <item quantity="one">رمز PIN غير صحيح، تبقى %d محاولة</item>
         <item quantity="two">رمز PIN غير صحيح، تبقى %d محاولات</item>
         <item quantity="few">رمز PIN غير صحيح، تبقى %d محاولات</item>
-        <item quantity="many">رمز PIN غير صحيح، تبقى %d محاولات</item>
+        <item quantity="many">رمز PIN غير صحيح، تبقى %d محاولة</item>
     </plurals>
     <plurals name="incorrect_pukcode_remaining_attempts">
         <item quantity="other">رمز PUK غير صحيح، تبقى %d محاولة</item>
@@ -173,24 +181,24 @@
         <item quantity="zero">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
         <item quantity="one">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
         <item quantity="two">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
-        <item quantity="few">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
-        <item quantity="many">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعة لتتذكرها دائما</item>
+        <item quantity="few">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعات لتتذكرها دائما</item>
+        <item quantity="many">ادخل كلمة المرور مرة واحدة على الأقل كل %d ساعات لتتذكرها دائما</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
-        <item quantity="other">"باقي حوالي %d  ساعة"</item>
-        <item quantity="zero">"باقي حوالي %d  ساعة"</item>
-        <item quantity="one">"باقي حوالي %d  ساعة"</item>
-        <item quantity="two">"باقي حوالي %d  ساعات"</item>
-        <item quantity="few">"باقي حوالي %d  ساعات"</item>
-        <item quantity="many">"باقي حوالي %d  ساعة"</item>
+        <item quantity="other">حوالي %d ساعة متبقية</item>
+        <item quantity="zero">حوالي %d ساعة متبقية</item>
+        <item quantity="one">حوالي %d ساعة متبقية</item>
+        <item quantity="two">حوالي %d ساعات متبقية</item>
+        <item quantity="few">حوالي %d ساعات متبقية</item>
+        <item quantity="many">حوالي %d ساعة متبقية</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_min_time_text">
-        <item quantity="other">"باقي حوالي %d  دقيقة"</item>
-        <item quantity="zero">"باقي حوالي %d  دقيقة"</item>
-        <item quantity="one">"باقي حوالي %d  دقيقة"</item>
-        <item quantity="two">"باقي حوالي %d  دقائق"</item>
-        <item quantity="few">"باقي حوالي %d  دقائق"</item>
-        <item quantity="many">"باقي حوالي %d  دقيقة"</item>
+        <item quantity="other">حوالي %d دقيقة متبقية</item>
+        <item quantity="zero">حوالي %d دقيقة متبقية</item>
+        <item quantity="one">حوالي %d دقيقة متبقية</item>
+        <item quantity="two">حوالي %d دقائق متبقية</item>
+        <item quantity="few">حوالي %d دقائق متبقية</item>
+        <item quantity="many">حوالي %d دقيقة متبقية</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
         <item quantity="other">%1$d ساعة و %2$d دقيقة متبقية</item>
@@ -233,12 +241,12 @@
         <item quantity="many">تبقى %d ساعة</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-        <item quantity="other">تبقى %d دقيقة</item>
-        <item quantity="zero">تبقى %d دقيقة</item>
-        <item quantity="one">تبقى %d دقيقة</item>
-        <item quantity="two">تبقى %d دقائق</item>
-        <item quantity="few">تبقى %d دقائق</item>
-        <item quantity="many">تبقى %d دقيقة</item>
+        <item quantity="other">%d دقيقة متبقية</item>
+        <item quantity="zero">%d دقيقة متبقية</item>
+        <item quantity="one">%d دقيقة متبقية</item>
+        <item quantity="two">%d دقائق متبقية</item>
+        <item quantity="few">%d دقائق متبقية</item>
+        <item quantity="many">%d دقيقة متبقية</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
         <item quantity="other">تبقى %1$d س %2$d دق</item>
@@ -280,38 +288,6 @@
         <item quantity="few">‏رمز PUK لشريحة SIM غير صحيح، ويتبقى لديك %d محاولات تصبح بعدها شريحة SIM غير صالحة للاستخدام بشكل دائم.</item>
         <item quantity="many">‏رمز PUK لشريحة SIM غير صحيح، ويتبقى لديك %d محاولة تصبح بعدها شريحة SIM غير صالحة للاستخدام بشكل دائم.</item>
     </plurals>
-    <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
-        <item quantity="zero">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
-        <item quantity="one">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
-        <item quantity="two">لم يتم فتح قفل الجهاز لمدة ساعتين (%d). تأكيد كلمة المرور.</item>
-        <item quantity="few">لم يتم فتح قفل الجهاز لمدة %d ساعات. تأكيد كلمة المرور.</item>
-        <item quantity="many">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد النقش.</item>
-        <item quantity="zero">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد النقش.</item>
-        <item quantity="one">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد النقش.</item>
-        <item quantity="two">لم يتم فتح قفل الجهاز لمدة ساعتين (%d). تأكيد النقش.</item>
-        <item quantity="few">لم يتم فتح قفل الجهاز لمدة %d ساعات. تأكيد النقش.</item>
-        <item quantity="many">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد النقش.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
-        <item quantity="zero">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
-        <item quantity="one">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
-        <item quantity="two">لم يتم فتح قفل الجهاز لمدة ساعتين (%d). تأكيد رقم التعريف الشخصي.</item>
-        <item quantity="few">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
-        <item quantity="many">لم يتم فتح قفل الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
-    </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">حاول مرة أخرى خلال %d ثانية.</item>
-        <item quantity="zero">حاول مرة أخرى خلال %d ثانية.</item>
-        <item quantity="one">حاول مرة أخرى خلال ثانية واحدة.</item>
-        <item quantity="two">حاول مرة أخرى خلال ثانيتين (%d).</item>
-        <item quantity="few">حاول مرة أخرى خلال %d ثوانٍ.</item>
-        <item quantity="many">حاول مرة أخرى خلال %d ثانية.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">الآن</item>
         <item quantity="zero">الآن</item>
@@ -341,7 +317,7 @@
         <item quantity="zero">%d إشعار جديد</item>
         <item quantity="one">%d إشعار جديد</item>
         <item quantity="two">%d إشعارات جديدة</item>
-        <item quantity="few">%d إشعار جديد</item>
+        <item quantity="few">%d إشعارات جديدة</item>
         <item quantity="many">%d إشعار جديد</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
@@ -407,13 +383,5 @@
         <item quantity="two">يمكنك إضافة ما يصل إلى مستخدمينِ (%d).</item>
         <item quantity="few">يمكنك إضافة ما يصل إلى %d مستخدمين.</item>
         <item quantity="many">يمكنك إضافة ما يصل إلى %d مستخدمًا.</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
-        <item quantity="zero">‏عدد الأجهزة المتصلة ‎%1$d</item>
-        <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
-        <item quantity="two">‏عدد الأجهزة المتصلة ‎%1$d</item>
-        <item quantity="few">‏عدد الأجهزة المتصلة ‎%1$d</item>
-        <item quantity="many">‏عدد الأجهزة المتصلة ‎%1$d</item>
     </plurals>
 </resources>

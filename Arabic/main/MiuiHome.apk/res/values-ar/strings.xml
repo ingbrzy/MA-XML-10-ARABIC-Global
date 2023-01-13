@@ -301,6 +301,7 @@
     <string name="dual_app">التطبيقات المزدوجة</string>
     <string name="early_morning">فجر</string>
     <string name="edit">تعديل</string>
+    <string name="edit_folder">تعديل المجلد</string>
     <string name="edit_folder_title">تعديل اسم المجلد</string>
     <string name="edit_mode_dual_app">إنشاء تطبيق مزدوج</string>
     <string name="edit_mode_group">مجموعة</string>
@@ -387,9 +388,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">تم الإنشاء بنجاح</string>
     <string name="fold_pair_install_shortcut_long_click">اضغط مطولاً لإضافته للشاشة الرئيسية</string>
     <string name="fold_pair_installed_shortcut_launcher">هذا الاختصار موجود مسبقاً</string>
     <string name="folder_name">مجلد</string>
+    <string name="folder_picker_big_2x2_9_text">ضخم</string>
+    <string name="folder_picker_big_text">كبير</string>
+    <string name="folder_picker_default_text">قياسي</string>
+    <string name="folder_picker_options_tab_text">الحجم</string>
+    <string name="folder_picker_sliding_button_tab_text">اقتراح التطبيقات المميزة</string>
+    <string name="folder_picker_tab_text">المجلد</string>
     <string name="frame_load_failed">لا يمكن تحميل الإطار</string>
     <string name="free_style_apps_title">اختر التطبيق</string>
     <string name="free_style_drawer_title">كل التطبيقات</string>
@@ -469,6 +477,7 @@
     <string name="icon_style">الشكل</string>
     <string name="image_too_small_message">الصورة الأصلية ليست كبيرة بما فيه الكفاية.</string>
     <string name="install">تثبيت</string>
+    <string name="intelligent_exposed_button_summary_text">استخدام الاقتراحات الذكية بناء على استخدامك للتطبيقات لتمييز هذه التطبيقات في مجلدات كبيرة</string>
     <string name="invalid_contact_shortcut">جهة اتصال غير صالحة</string>
     <string name="is_setting_wallpaper_message">جارٍ تعيين خلفية الشاشة…</string>
     <string name="is_system_wallpaper_message">لا يمكن حذف موارد النظام</string>
@@ -554,6 +563,7 @@
     <string name="minus_one_screen">منصة التطبيقات</string>
     <string name="miui_screen_config_title">إعدادات الشاشة الرئيسية</string>
     <string name="miui_widget_menu_replace_text">تبديل</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">لا تدعم منصة التطبيقات أدوات بهذا الحجم</string>
     <string name="miuix_access_state_desc">محدد</string>
     <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
@@ -580,6 +590,8 @@
     <string name="monday">الإثنين</string>
     <string name="monday_short">الإثنين</string>
     <string name="monday_shortest">الإثنين</string>
+    <string name="monochrome_summary">قم بتغيير ألوان الخلفية للأيقونات المتوافقة</string>
+    <string name="monochrome_title">لون الخلفية</string>
     <string name="month_april">أبريل</string>
     <string name="month_april_short">أبريل</string>
     <string name="month_april_shortest">أبريل</string>
@@ -624,6 +636,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -795,6 +808,8 @@
     <string name="quick_search_guide_quick_search">البحث السريع</string>
     <string name="quick_search_guide_title">اختر الوضع الافتراضي</string>
     <string name="recent_apps">الحديثة</string>
+    <string name="recent_menu_item_add_pair">قم بإنشاء اختصار على الشاشة الرئيسية لمجموعة تقسيم الشاشة هذه</string>
+    <string name="recent_menu_item_add_pair_first_toast">قم بإنشاء اختصار على الشاشة الرئيسية لمجموعة تقسيم الشاشة هذه</string>
     <string name="recent_menu_item_info">المعلومات</string>
     <string name="recent_menu_item_lock">قفل</string>
     <string name="recent_menu_item_multi_window">تقسيم</string>
@@ -901,6 +916,7 @@
     <string name="sort_by_not_defined">ترتيب تلقائي</string>
     <string name="start_activity_failed">لا يمكن بدء المشغل</string>
     <string name="starting_preset_app">بدء…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s جيجابايت</string>
     <string name="status_bar_recent_memory_info1">%1$s من %2$s متاح</string>
     <string name="status_bar_recent_memory_info2" />
@@ -983,6 +999,8 @@
     <string name="title_select_shortcut">اختر الاختصار</string>
     <string name="toast_drag_to_assistant_reject">جارٍ بدء تشغيل منصة التطبيقات…</string>
     <string name="toast_screen_icons_misplaced">تم الإستعادته من مصدر آخر، بعض الأيقونات قد تكون في غير مكانها.</string>
+    <string name="toast_split_app_unsupported">هذا التطبيق لا يدعم وضع تقسيم الشاشة</string>
+    <string name="toast_split_select_app">انقر على تطبيق ما لاستخدام تقسيم الشاشة</string>
     <string name="today">اليوم</string>
     <string name="toggle_select_title">اختر مفتاح</string>
     <string name="toggle_title">مفاتيح التشغيل/الإيقاف</string>
@@ -1033,8 +1051,12 @@
     <string name="widget_global_search">بحث</string>
     <string name="widget_quick_function">الوظائف السريعة</string>
     <string name="widgets_preview_title">إضافة أدوات</string>
+    <string name="work_mode_off_detailed_text">لا يمكن لتطبيقات العمل إرسال إشعارات إليك أو استخدام بطاريتك أو الوصول إلى موقعك الجغرافي.</string>
     <string name="work_mode_off_label">الإشعارات متوقفة والتطبيقات غير متوفرة حاليًا</string>
+    <string name="work_mode_off_text">تطبيقات العمل متوقفة مؤقتا</string>
     <string name="work_mode_on_label">تديره مؤسستك</string>
+    <string name="work_mode_toggle_off">إيقاف تطبيقات العمل</string>
+    <string name="work_mode_toggle_on">تشغيل تطبيقات العمل</string>
     <string name="work_profile_first_content">يمكن فصل البيانات الشخصية وإخفائها من تطبيقات العمل</string>
     <string name="work_profile_got_button">حسنا</string>
     <string name="work_profile_next_button">التالي</string>

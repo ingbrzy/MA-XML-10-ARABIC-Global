@@ -79,10 +79,6 @@
         <item>برج الحمل</item>
         <item>21/3 - 19/4</item>
     </string-array>
-    <string-array name="bundesliga">
-        <item>٢</item>
-        <item>الدوري الألماني</item>
-    </string-array>
     <string-array name="cancer_info">
         <item>cancer</item>
         <item>برج السرطان</item>
@@ -100,39 +96,6 @@
     <string-array name="date_calculate_spinner">
         <item>بعد</item>
         <item>قبل</item>
-    </string-array>
-    <string-array name="dates">
-        <item>١</item>
-        <item>٢</item>
-        <item>۳</item>
-        <item>٤</item>
-        <item>٥</item>
-        <item>٦</item>
-        <item>٧</item>
-        <item>٨</item>
-        <item>۹</item>
-        <item>١٠</item>
-        <item>١١</item>
-        <item>١٢</item>
-        <item>١٣</item>
-        <item>١٤</item>
-        <item>١٥</item>
-        <item>١٦</item>
-        <item>١٧</item>
-        <item>١٨</item>
-        <item>١٩</item>
-        <item>٢٠</item>
-        <item>٢١</item>
-        <item>٢٢</item>
-        <item>٢٣</item>
-        <item>٢٤</item>
-        <item>٢٥</item>
-        <item>٢٦</item>
-        <item>٢٧</item>
-        <item>٢٨</item>
-        <item>٢٩</item>
-        <item>٣٠</item>
-        <item>۳۱</item>
     </string-array>
     <string-array name="default_reminder_labels">
         <item>في وقت الحدث</item>
@@ -169,10 +132,6 @@
         <item>ذو القعدة</item>
         <item>ذو الحجة</item>
     </string-array>
-    <string-array name="la_liga">
-        <item>۳</item>
-        <item>الدوري الإسباني</item>
-    </string-array>
     <string-array name="leo_info">
         <item>leo</item>
         <item>برج الأسد</item>
@@ -182,10 +141,6 @@
         <item>libra</item>
         <item>برج الميزان</item>
         <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>٥</item>
-        <item>الدوري الأول</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>الأحد</item>
@@ -354,10 +309,6 @@
         <item>برج العقرب</item>
         <item>24/10 - 22/11</item>
     </string-array>
-    <string-array name="serie_a">
-        <item>١</item>
-        <item>الدوري الإيطالي الدرجة الأولى</item>
-    </string-array>
     <string-array name="taurus_info">
         <item>taurus</item>
         <item>برج الثور</item>
@@ -451,15 +402,8 @@
         <item>فيجي</item>
         <item>تونغا</item>
     </string-array>
-    <string-array name="travel_reminder_minutes_labels">
-        <item>قبل ٣ ساعات</item>
-        <item>قبل ٤ ساعات</item>
-        <item>قبل ٥ ساعات</item>
-        <item>قبل ٦ ساعات</item>
-        <item>قبل ١ يوم</item>
-    </string-array>
     <string-array name="vikrami_samvat_month_names">
-        <item>"تشايترا "</item>
+        <item>تشايترا</item>
         <item>فايساكها</item>
         <item>جايستا</item>
         <item>آشادا</item>

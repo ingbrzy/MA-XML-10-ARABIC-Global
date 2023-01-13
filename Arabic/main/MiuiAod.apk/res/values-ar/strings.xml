@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -259,6 +259,8 @@ dd/MM"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">حسنًا</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -285,6 +287,8 @@ dd/MM"</string>
     <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
     <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">حسنًا</string>
     <string name="my_style_title">مكتبتي</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
@@ -323,6 +327,8 @@ dd/MM"</string>
     <string name="select_notification_animation_style">تحديد تأثير خاص</string>
     <string name="select_notification_notify_style">حدد تأثير الإشعار</string>
     <string name="send">مشاركة</string>
+    <string name="settings_view_btn_check_off">متوقف</string>
+    <string name="settings_view_btn_check_on">مشغل</string>
     <string name="share">مشاركة</string>
     <string name="share_to_community">مشاركة إلى Xiaomi Community</string>
     <string name="show_battery">عرض حالة البطارية</string>
@@ -337,6 +343,7 @@ dd/MM"</string>
 رائعاً على وشك الحدوث"</string>
     <string name="standard_clock_panel">قياسي</string>
     <string name="standard_style">قياسية</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. يرجى الموافقة على شروط وأحكام Xiaomi Health للمتابعة.</string>
     <string name="step_component_info_desc">سيتغير رمز عدد الخطوات إلى كأس عند تحقيق الهدف المطلوب. هذه البيانات مقدمة من Xiaomi Health.</string>
     <string name="step_component_info_tip">يتم حساب إجمالي الخطوات بواسطة تطبيق Xiaomi Health. قم بتثبيت Xiaomi Health والموافقة على الشروط والأحكام للمتابعة</string>

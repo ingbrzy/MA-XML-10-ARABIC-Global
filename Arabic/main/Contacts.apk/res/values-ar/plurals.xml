@@ -336,6 +336,14 @@
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d مكالمة فائتة</item>
+        <item quantity="zero">%d مكالمة فائتة</item>
+        <item quantity="one">%d مكالمة فائتة</item>
+        <item quantity="two">%d مكالمات فائتة</item>
+        <item quantity="few">%d مكالمات فائتة</item>
+        <item quantity="many">%d مكالمة فائتة</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">تم تحديد %1$d</item>
         <item quantity="zero">تم تحديد %1$d</item>

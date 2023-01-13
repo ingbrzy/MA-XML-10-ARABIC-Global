@@ -146,13 +146,21 @@
     <string name="am">ص</string>
     <string name="app_cache">الذاكرة المؤقتة</string>
     <string name="app_library_category_entertainment">ترفيه</string>
+    <string name="app_library_category_financial_management">مالية</string>
     <string name="app_library_category_games">ألعاب</string>
+    <string name="app_library_category_health_and_exercise">صحة</string>
+    <string name="app_library_category_individualization">التخصيص</string>
     <string name="app_library_category_information">وسائط</string>
     <string name="app_library_category_lifestyle">أسلوب حياة</string>
+    <string name="app_library_category_originality">إبداع</string>
     <string name="app_library_category_others">أخرى</string>
     <string name="app_library_category_productivity">إنتاجية</string>
+    <string name="app_library_category_reading_and_information">أخبار</string>
+    <string name="app_library_category_shopping_and_food">تسوق</string>
     <string name="app_library_category_social">اجتماعية</string>
+    <string name="app_library_category_travel">سفر</string>
     <string name="app_library_category_utility">أدوات</string>
+    <string name="app_library_category_work_and_efficiency">إنتاجية</string>
     <string name="app_library_title">التطبيقات</string>
     <string name="app_name_bluetooth">البلوتوث</string>
     <string name="app_name_camera">الكاميرا</string>
@@ -171,6 +179,7 @@
     <string name="app_update_install">جاهز لتثبيت التحديث.</string>
     <string name="application">التطبيقات</string>
     <string name="application_name">المتصفح</string>
+    <string name="application_upgrade">التحديثات</string>
     <string name="aqi_quality_index_break">شديد الخطورة</string>
     <string name="aqi_quality_index_dangerous">خطير</string>
     <string name="aqi_quality_index_good">جيد</string>
@@ -202,6 +211,7 @@
     <string name="bookmark_btn_select_all">تحديد الكل</string>
     <string name="bookmark_btn_select_none">إلغاء الكل</string>
     <string name="bookmark_cannot_save_url">لا يمكن أن يكون URL هذا إشارة مرجعية.</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">يمكن العثور على اختصارات الميزات وأوضاع التصفح هنا</string>
     <string name="bookmark_folder_needs_title">أدخل اسم مجموعة</string>
     <string name="bookmark_group_lable">مجموعة</string>
     <string name="bookmark_needs_title">يجب أن تحمل الإشارة المرجعية اسمًا</string>
@@ -296,9 +306,12 @@
     <string name="choose_to_signin">نعم</string>
     <string name="choose_to_signup">لا، سأقوم بإنشاء واحد</string>
     <string name="choosertitle_sharevia">مشاركة عبر</string>
+    <string name="clean_cache">مسح الذاكرة المؤقتة</string>
     <string name="clear">تنظيف</string>
     <string name="clear_history">مسح السجل</string>
     <string name="clear_most_visited">السجل الحديث</string>
+    <string name="clear_result_page_more_content">اكتشف المزيد</string>
+    <string name="clear_result_page_show_more">عرض المزيد</string>
     <string name="clear_search_history">مسح السجل</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="cleared_garbage">تم مسح %d ميجابايت من المهملات</string>
@@ -317,6 +330,7 @@
     <string name="close_all_tab_alert_title">إغلاق كل علامات التبويب</string>
     <string name="close_cant_recommand">لن تتلقى خدمات محتوى مخصصة إذا قمت بإيقاف هذه الميزة.</string>
     <string name="close_cloud_tab_tip">إغلاق علامات تبويب Cloud في %s؟</string>
+    <string name="close_desktop">إصدار سطح المكتب معطل</string>
     <string name="cloud_loading_tips">اسحب لأسفل للمزامنة</string>
     <string name="cloud_no_new_data_toast">كل شيء محدث</string>
     <string name="cloud_sync_closed_toast">لا يمكن التحديث لأن المزامنة متوقفة</string>
@@ -415,6 +429,7 @@
     <string name="contextmenu_webpage_snapshot">حفظ الصفحة</string>
     <string name="continue_reading">متابعة القراءة</string>
     <string name="copy">نسخ</string>
+    <string name="copy_toast_msg">تم نسخ الرابط إلى الحافظة.</string>
     <string name="copy_url">نسخ URL</string>
     <string name="core_functions_of_browser">الميزات الرئيسية في متناول يدك</string>
     <string name="could_not_load_data">تعذر التحميل، قم بالتحديث و حاول مجددا</string>
@@ -426,7 +441,7 @@
     <string name="current_version_pc">الكمبيوتر الشخصي</string>
     <string name="current_version_phone">الهاتف</string>
     <string name="custom">ادخل الرابط</string>
-    <string name="custom_head_card_text">دائما تأكد أن شيئا رائعا على وشك الحدوث</string>
+    <string name="custom_head_card_text">تأكد دائماً أن شيء رائعاً على وشك الحدوث</string>
     <string name="custom_head_card_text_incognito">"أنت متخفي!
 الصفحات التي قمت بعرضها لن تظهر في السجل."</string>
     <string name="custom_page_guide_content">يمكنك العثور على الإشارات المرجعية والإعدادات والأدوات هنا!</string>
@@ -473,6 +488,7 @@
     <string name="display__quick_entry_of_search">عرض اختصارات ميزات التطبيق في مركز الإشعارات</string>
     <string name="doc_viewer_label">القارئ (متصفح Mi)</string>
     <string name="doc_viewer_open_out_file_prompt">لفتح وعرض ملف وارد من مصادر خارجية، يحتاج هذا التطبيق أولا لإنشاء نسخه من الملف. هل ترغب في المتابعة؟</string>
+    <string name="doc_viewer_user_guide_profile">شاهد المحتوى الذي تصفحته من هنا</string>
     <string name="document_download_background_btn">التحميل في الخلفية</string>
     <string name="document_download_cancel_btn">إلغاء</string>
     <string name="document_download_failed">تعذر التنزيل</string>
@@ -646,17 +662,16 @@
     <string name="exo_controls_pause_description">إيقاف مؤقت</string>
     <string name="exo_controls_play_description">تشغيل</string>
     <string name="exo_controls_playback_speed">السرعة</string>
-    <string name="exo_controls_playback_speed_normal">عادية</string>
     <string name="exo_controls_previous_description">السابق</string>
-    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
-    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
-    <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_controls_repeat_all_description">الوضع الحالي: تكرار الكل. تبديل وضع التكرار</string>
+    <string name="exo_controls_repeat_off_description">الوضع الحالي: عدم التكرار. تبديل وضع التكرار</string>
+    <string name="exo_controls_repeat_one_description">الوضع الحالي: التكرار مرة واحدة. تبديل وضع التكرار</string>
     <string name="exo_controls_rewind_description">ترجيع</string>
     <string name="exo_controls_seek_bar_description">مستوى تقدُّم التشغيل</string>
     <string name="exo_controls_settings_description">الإعدادات</string>
     <string name="exo_controls_show">عرض عناصر التحكم بالمشغّل</string>
-    <string name="exo_controls_shuffle_off_description">إيقاف الترتيب العشوائي</string>
-    <string name="exo_controls_shuffle_on_description">تفعيل الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_off_description">تفعيل وضع الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_on_description">إيقاف وضع الترتيب العشوائي</string>
     <string name="exo_controls_stop_description">إيقاف</string>
     <string name="exo_controls_vr_description">وضع VR</string>
     <string name="exo_download_completed">اكتمل التنزيل</string>
@@ -664,6 +679,9 @@
     <string name="exo_download_downloading">جارٍ التنزيل.</string>
     <string name="exo_download_failed">تعذّر التنزيل</string>
     <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
+    <string name="exo_download_paused">تمّ إيقاف عمليات التنزيل مؤقتًا.</string>
+    <string name="exo_download_paused_for_network">عمليات التنزيل في انتظار الاتصال بالشبكة</string>
+    <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
     <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
@@ -687,11 +705,13 @@
     <string name="experience_improve">برنامج تجربة المستخدم</string>
     <string name="external_app_restricted_access_error">لا يمكن لمتصفح Mi الوصول لهذا العنصر.</string>
     <string name="failed_dup_secure_phone_number">رقم الهاتف هذا مرتبط مسبقاً بحساب Mi آخر</string>
+    <string name="fallback_menu_item_copy_link">نسخ الرابط</string>
+    <string name="fallback_menu_item_open_in_browser">فتح في المتصفح</string>
+    <string name="fallback_menu_item_share_link">مشاركة الرابط</string>
     <string name="fast_search_title">البحث السريع</string>
     <string name="fast_than">متقدم على %1$s%% من المستخدمين</string>
     <string name="fb_login_tips">سجل الدخول لتنزيل الفيديوهات من الفيسبوك</string>
     <string name="fb_register_btn">إنشاء حساب</string>
-    <string name="fcm_fallback_notification_channel_label">متنوعة</string>
     <string name="featured_this_week">مميزة لهذا الأسبوع</string>
     <string name="feedback_bad">لا</string>
     <string name="feedback_general">لا بأس</string>
@@ -724,6 +744,7 @@
     <string name="file_picker">تحديد المسار</string>
     <string name="filename_empty_alert_message">أدخل اسم الملف</string>
     <string name="filename_illegal_alert_message">تمت إزالة حرف غير صحيح من اسم الملف</string>
+    <string name="files_stored_in_the_phone">الملفات المخزنة على هذا الجهاز</string>
     <string name="find_garbage">تم العثور على %d ميجابايت من المهملات</string>
     <string name="find_new_version">تحديث جديد متوفر</string>
     <string name="find_on_page_cancel">إلغاء</string>
@@ -801,6 +822,7 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
+    <string name="game_center">الألعاب</string>
     <string name="game_center_recommend_play">تشغيل</string>
     <string name="game_center_recommend_title">موصى به</string>
     <string name="game_play">لعب</string>
@@ -858,7 +880,7 @@
     <string name="home_feed_channel">عرض \"الأخبار\" على شريط التنقل</string>
     <string name="home_game_channel">عرض \"الألعاب\" على شريط التنقل</string>
     <string name="home_nf">أحدث المحتويات</string>
-    <string name="home_nf_recommend_on">موصى به</string>
+    <string name="home_nf_recommend_on">خصيصا لك</string>
     <string name="home_page_simple">البسيط</string>
     <string name="homepage_default">الافتراضي</string>
     <string name="homepage_delete_card_menu">حذف</string>
@@ -870,6 +892,10 @@
     <string name="homepage_setting">إعدادات صفحة البداية</string>
     <string name="homepage_top_card_menu">أعلى</string>
     <string name="hot_games">مميزة</string>
+    <string name="hot_news_notify_summary">إشعارات الدفع لآخر الأخبار</string>
+    <string name="hot_news_notify_tips_light">يمكنك إيقاف تشغيل إشعارات آخر الأخبار من &lt;font color=\"#0D84FF\">&lt;font color=\"#0D84FF\">الإعدادات&lt;/font>&lt;/font></string>
+    <string name="hot_news_notify_title">إشعارات آخر الأخبار</string>
+    <string name="hour_minute">%1$s %2$s</string>
     <string name="i_know">إيقاف</string>
     <string name="identity">الهوية</string>
     <string name="if_cancel">هل تريد إلغاء هذه العملية؟</string>
@@ -952,6 +978,8 @@
     <string name="loading_tips">إسحب لأسفل للتحديث</string>
     <string name="local_apps">تطبيقات الجهاز</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">الملفات المحلية</string>
+    <string name="local_video_player_label">مشغل الفيديو (متصفح Mi)</string>
     <string name="location_permission_name">الوصول إلى الموقع</string>
     <string name="lockpattern_continue_button_text">التالي</string>
     <string name="lockpattern_need_to_confirm">قم بتأكيد نقش إلغاء القفل</string>
@@ -980,6 +1008,7 @@
     <string name="media_error_video_not_exist">الفيديو غير موجود</string>
     <string name="memory_clear_nothing_result">لا توجد عناصر للمسح</string>
     <string name="memory_clear_result">تم مسح %1$s</string>
+    <string name="memory_management">إدارة المساحة</string>
     <string name="memory_usage">الذاكرة</string>
     <string name="menu_addtodesk">إضافة إلى الشاشة الرئيسية</string>
     <string name="menu_exit_nightmode">خروج</string>
@@ -1079,6 +1108,7 @@
     <string name="month_september_short">سبتمبر</string>
     <string name="month_september_shortest">سبتمبر</string>
     <string name="more">المزيد</string>
+    <string name="more_convenient_features_and_content">جرب أحدث ميزات وأدوات المتصفح!</string>
     <string name="more_description">القائمة</string>
     <string name="more_info">معرفة المزيد</string>
     <string name="more_option">المزيد من الخيارات</string>
@@ -1265,6 +1295,7 @@
     <string name="my_account">حسابي</string>
     <string name="my_cahnnel">قنواتي</string>
     <string name="my_channel">قنواتي</string>
+    <string name="my_prize_entry">مكافآتي</string>
     <string name="name_empty">يجب إدخال اسم.</string>
     <string name="nav_bottom_bar_back">رجوع</string>
     <string name="nav_bottom_bar_close_all">إغلاق الكل</string>
@@ -1318,6 +1349,7 @@
     <string name="no_network">تحقق من اتصال الشبكة ثم حاول مرة أخرى.</string>
     <string name="no_phone">لا يوجد رقم هاتف</string>
     <string name="no_recent_files">لا توجد ملفات حديثة</string>
+    <string name="no_scalable_applications">كل التطبيقات محدثة</string>
     <string name="no_space_alert_cancel">لاحقا</string>
     <string name="no_space_alert_clean">تفريغ مساحة</string>
     <string name="no_space_alert_text">لا توجد مساحة تخزين كافية</string>
@@ -1349,6 +1381,7 @@
     <string name="novel_continue_read_popup">قراءة</string>
     <string name="novel_tab_popup">تصفح أحدث الكتب من هنا</string>
     <string name="novel_tab_popup_ok">موافق</string>
+    <string name="occupy">%s مستخدم</string>
     <string name="offline_notification_text">انقر لفتح الإعلان</string>
     <string name="offline_notification_title">عرض الإعلان الذي حفظته عند عدم الاتصال بالإنترنت</string>
     <string name="offline_opt_in_confirm">حسنًا</string>
@@ -1359,6 +1392,7 @@
     <string name="ok">موافق</string>
     <string name="one_prefect_author">المؤلف</string>
     <string name="open_app_confirm_message">السماح لهذه الصفحة بفتح %s؟</string>
+    <string name="open_desktop">تم التبديل إلى إصدار سطح المكتب بنجاح</string>
     <string name="open_google_gaid">لاستخدام هذه الميزة،تأكد من ترك خيار تخصيص الإعلان قيد التشغيل من الإعدادات > Google > إعلانات.</string>
     <string name="open_personalized_services">قم بتشغيل الخدمات الشخصية لاستخدام هذه الميزة.</string>
     <string name="open_private_folder">حرر لعرض المجلدات المخفية</string>
@@ -1371,6 +1405,7 @@
     <string name="operation_rename">إعادة التسمية</string>
     <string name="operation_rename_message">أدخل اسم جديد</string>
     <string name="operation_send">ارسال</string>
+    <string name="opr_activity_title">شاهد الموسم واكسب مكافآت</string>
     <string name="other_channel">انقر لإضافة المزيد من القنوات.</string>
     <string name="page_info">معلومات الصفحة</string>
     <string name="page_info_address">العنوان:</string>
@@ -1537,6 +1572,7 @@
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">هل تريد السماح لهذا الموقع فتح نافذة منبثقة؟</string>
     <string name="positive_confirm_message">إيقاف التشغيل على أية حال</string>
+    <string name="power_saving_settings">موفر البطارية</string>
     <string name="pref_accessibility">إمكانية الوصول</string>
     <string name="pref_accessibility_title">إمكانية الوصول</string>
     <string name="pref_adblock_summary">قد يتم تحميل الصفحات ببطئ عند تشغيل هذه الميزة</string>
@@ -1652,7 +1688,7 @@
     <string name="pref_set_default_browser_sure_to_clear">تبديل المتصفحات؟</string>
     <string name="pref_set_default_browser_switch">تبديل</string>
     <string name="pref_set_default_browser_tab">انقر \"المتصفح\"</string>
-    <string name="pref_set_default_browser_toast">تم تعيين المتصفح الافتراضي بنجاح</string>
+    <string name="pref_set_default_browser_toast">تم تعيينه كمتصفح افتراضي</string>
     <string name="pref_set_homepage_to">تعيين إلى</string>
     <string name="pref_setting_title">إعدادات الصفحة</string>
     <string name="pref_show_ads">إظهار الإعلانات</string>
@@ -1728,7 +1764,7 @@
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_reset_fail">تعذر إعادة تعيين. حاول مجددا.</string>
     <string name="privacy_sub_title">الأحكام والشروط</string>
-    <string name="privacy_title">مرحباً في متصفح Mi</string>
+    <string name="privacy_title">مرحبا بك في متصفح Mi</string>
     <string name="private_title">الملفات المخفية</string>
     <string name="progress_dialog_setting_wallpaper">تعيين خلفية الشاشة …</string>
     <string name="protected_content_permission_name">تشغيل المحتوى المحمي</string>
@@ -1750,6 +1786,7 @@
     <string name="pwa_hint_added_success">تمت الاضافة بنجاح</string>
     <string name="qr_code_title">رمز QR</string>
     <string name="qr_description">مسح رمز QR</string>
+    <string name="quick_access_to_common_functions">الوصول السريع إلى الميزات المفضلة لديك</string>
     <string name="quick_search_and_access_to_functions">يتيح لك البحث السريع الوصول بسهولة إلى الميزات التي تستخدمها كثيرا.</string>
     <string name="quicklink_bookmark_save">حفظ في</string>
     <string name="quicklink_cannot_save_url">لا يمكن إضافة عنوان URL هذا.</string>
@@ -1767,6 +1804,9 @@
     <string name="quicklinks_most_visited">إضافة إلى صفحة البداية</string>
     <string name="quicklinks_most_visited_subtitle">عرض المواقع التي تمت زيارتها مؤخرا في علامة تبويب جديدة</string>
     <string name="quicklinks_most_visited_title">إضافة إلى صفحة البداية</string>
+    <string name="reading__business_recommend_at_end_more">عرض المزيد</string>
+    <string name="reading__business_recommend_at_end_other_docs">المزيد من الكتب</string>
+    <string name="reading__business_recommend_at_end_title">المحتوى الموصى به</string>
     <string name="reading__cancel">إلغاء</string>
     <string name="reading__menu_open_with_another_app">فتح في تطبيق آخر</string>
     <string name="reading__menu_play">عرض الشرائح</string>
@@ -1774,6 +1814,7 @@
     <string name="reading__menu_search">بحث</string>
     <string name="reading__menu_share">مشاركة</string>
     <string name="reading__menu_thumbnail">صور مصغرة للصفحة</string>
+    <string name="reading__reading_end">إنهاء</string>
     <string name="reading__reading_first_page">هذه الصفحة الأولى</string>
     <string name="reading__reading_last_page">هذه الصفحة الأخيرة</string>
     <string name="reading__search_cancel">إلغاء</string>
@@ -1892,6 +1933,9 @@
     <string name="search_bar_hint_content">ابحث عن تطبيقات ومحتويات</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">اذهب</string>
+    <string name="search_card_online_rec_app">متجر التطبيقات</string>
+    <string name="search_card_online_rec_app_install">تثبيت</string>
+    <string name="search_card_online_rec_app_open">فتح</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">تعذر العثور على أي شيء</string>
@@ -1966,6 +2010,8 @@
     <string name="setting_searchable_content">عناصر قابلة للبحث</string>
     <string name="setting_sms_content">محتوى الرسالة النصية</string>
     <string name="setting_swipe_up">مرر لأعلى على الشاشة الرئيسية</string>
+    <string name="settings_search_online_apps">متجر التطبيقات</string>
+    <string name="settings_search_online_apps_desc">محتويات من متجر التطبيقات</string>
     <string name="share_image_text">انظر ماذا شاركت! @MIUI</string>
     <string name="share_page_text">انظر ماذا شاركت: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">انظر ماذا شاركت: %1$s</string>
@@ -2002,6 +2048,11 @@
     <string name="speed_test_no_network">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="speed_test_ping">تأخير</string>
     <string name="speed_test_upload">تحميل</string>
+    <string name="sport_card_match_week">الأسبوع %d</string>
+    <string name="sports_card_match_season">الموسم</string>
+    <string name="sports_card_match_status_1">لم يبدأ</string>
+    <string name="sports_card_match_status_2">جاري</string>
+    <string name="sports_card_match_status_3">انتهى</string>
     <string name="ssl_bad_clock_date_settings">تعيين التاريخ</string>
     <string name="ssl_bad_clock_warning" formatted="false">لا يمكن إنشاء اتصال خاص إلى %s1 لأن تاريخ ووقت الجهاز الخاص بك (%s2) غير صحيحين.</string>
     <string name="ssl_bad_expired_warning">هذه القناة مقدمة من %1$s. ومع ذلك، لا يمكن إنشاء اتصال آمن مع %1$s بسبب اختلاف التاريخ والوقت على جهازك (%2$s). يمكنك إما تعيين التاريخ والوقت الصحيحين أو النقر فوق \"متابعة\" إذا مازلت ترغب في زيارة هذه القناة.</string>
@@ -2118,6 +2169,7 @@
     <string name="the_united_nations_day">يوم الأمم المتحدة</string>
     <string name="the_valentines_day">عيد الحب</string>
     <string name="the_water_lantern_festival">مهرجان المصابيح</string>
+    <string name="third_image_viewer_label">عارض الصور (متصفح Mi)</string>
     <string name="thursday">الخميس</string>
     <string name="thursday_short">الخميس</string>
     <string name="thursday_shortest">الخميس</string>
@@ -2150,6 +2202,11 @@
     <string name="translation_query_error_network">فشلت الترجمة. يرجى التحقق من إعدادات الشبكة والمحاولة مرة أخرى.</string>
     <string name="translation_result_empty">لا يمكن الترجمة. حاول مجدداً.</string>
     <string name="translation_to">ترجمة إلى</string>
+    <string name="trash_cleaner_unit_b">بايت</string>
+    <string name="trash_cleaner_unit_gb">جيجابايت</string>
+    <string name="trash_cleaner_unit_kb">كيلوبايت</string>
+    <string name="trash_cleaner_unit_mb">ميجابايت</string>
+    <string name="trash_cleaner_unit_tb">تيرابايت</string>
     <string name="trending_apps_more">المزيد</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
@@ -2168,6 +2225,7 @@
     <string name="update_no_network_toast">لا يمكن الاتصال بالشبكة</string>
     <string name="update_now">التحديث الآن</string>
     <string name="update_phone_notice">تغيير إعدادات الحماية</string>
+    <string name="upgrade">تحديث</string>
     <string name="upload_error_log">رفع السجل</string>
     <string name="upload_usage_statistics">قم بتشغيل مشاركة إحصائيات الاستخدام عند تشغيل وضع التصفح المتخفي</string>
     <string name="uploads_disabled">تحميل الملفات مقيد</string>
@@ -2356,10 +2414,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">إظهار الصور المصغرة للصفحات التي تمت زيارتها مسبقا</string>
     <string name="web_tag_tips">انقر هنا لإعادة زيارة الصفحة</string>
     <string name="web_tag_title">الصور المصغرة لصفحة الويب</string>
+    <string name="web_tools_moved_here">تم نقل أدوات الويب هنا</string>
     <string name="web_video_accelerate">السرعة</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">تنزيل</string>
     <string name="web_video_download_no_access">الأذونات مطلوبة لتنزيل العناصر</string>
     <string name="web_video_enable_long_click_toast">تشغيل على سرعة %dX</string>
+    <string name="web_video_float_drag_msg">اسحب لتعديل الحجم</string>
     <string name="web_video_list_more">المزيد</string>
     <string name="web_video_list_playing">تشغيل</string>
     <string name="web_video_list_replay">إعادة تشغيل</string>

@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -32,7 +32,7 @@
     <string name="accessibility_data_signal_full">إشارة البيانات كاملة.</string>
     <string name="accessibility_data_three_bars">إشارة البيانات تتكون من ثلاثة أشرطة.</string>
     <string name="accessibility_data_two_bars">إشارة البيانات تتكون من شريطين.</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">‏يمكنك تعديل كيفية عرض الألوان على جهازك. يساعدك هذا الخيار عندما تريد تنفيذ ما يلي:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;عرض الألوان بمزيد من الدقة&lt;/li> &lt;li>&amp;nbsp;إزالة الألوان لمساعدتك على التركيز&lt;/li> &lt;/ol></string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">‏يمكنك الاستفادة من ميزة \"تصحيح الألوان\" من أجل:&lt;br/> &lt;ol> &lt;li>&amp;nbsp;رؤية الألوان بدقة أكبر&lt;/li> &lt;li>&amp;nbsp;إزالة الألوان لمساعدتك على التركيز&lt;/li> &lt;/ol></string>
     <string name="accessibility_display_daltonizer_preference_title">تصحيح الألوان</string>
     <string name="accessibility_ethernet_connected">إيثرنت</string>
     <string name="accessibility_ethernet_disconnected">‏تم قطع اتصال Ethernet.</string>
@@ -87,6 +87,7 @@
     <string name="adb_wireless_verifying_qrcode_text">جارٍ إقران الجهاز…</string>
     <string name="adbwifi_warning_message">تم تصميم ميزة \"تصحيح الأخطاء اللاسلكي\" لأغراض التطوير فقط. ويمكن استخدامها لنسخ البيانات بين الكمبيوتر والجهاز ، وتثبيت التطبيقات على جهازك بدون إرسال إشعار، وقراءة بيانات السجلّ.</string>
     <string name="adbwifi_warning_title">هل تريد السماح بتفعيل ميزة \"تصحيح الأخطاء اللاسلكي\"؟</string>
+    <string name="add_guest_failed">تعذّر إنشاء جلسة ضيف جديدة.</string>
     <string name="add_user_failed">تعذّر إنشاء مستخدم جديد.</string>
     <string name="alarm_template">الساعة %1$s</string>
     <string name="alarm_template_far">يوم %1$s</string>
@@ -99,6 +100,8 @@
     <string name="all_traces_will_be_deleted">‏سيتم حذف جميع آثار الأنشطة من /data/local/traces</string>
     <string name="allow_mock_location">السماح بمواقع وهمية</string>
     <string name="allow_mock_location_summary">السماح بمواقع وهمية</string>
+    <string name="allow_turn_screen_on">السماح بتشغيل الشاشة</string>
+    <string name="allow_turn_screen_on_description">يمكنك السماح لأحد التطبيقات بتشغيل الشاشة. في حال منحت هذا الإذن، قد يشغِّل التطبيق الشاشة في أي وقت بدون إذن صريح منك.</string>
     <string name="animator_duration_scale_title">طول مدة الرسوم المتحركة</string>
     <string name="apn_settings_not_available">إعدادات اسم نقطة الوصول ليست متوفرة لهذا المستخدم</string>
     <string name="app_process_limit_title">حد العمليات بالخلفية</string>
@@ -110,12 +113,17 @@
     <string name="attaching_to_report">جارٍ إرفاق آثار الأنشطة إلى تقرير الخطأ.</string>
     <string name="available_via_carrier">‏متوفرة عبر %1$s</string>
     <string name="available_via_passpoint">‏متوفرة عبر %1$s</string>
+    <string name="avatar_picker_title">اختيار صورة الملف الشخصي</string>
+    <string name="back_navigation_animation">صور متحركة تعرض إيماءة الرجوع إلى الخلف التنبؤية</string>
+    <string name="back_navigation_animation_dialog">‏يفعّل هذا الإعداد الصور المتحركة في النظام للصور المتحركة التي تعرض إيماءة الرجوع إلى الخلف التنبؤية. يتطلب الإعداد ضبط enableOnBackInvokedCallback إلى true لكل تطبيق في ملف البيان.</string>
+    <string name="back_navigation_animation_summary">فعِّل الصور المتحركة في النظام لإيماءة الرجوع إلى الخلف التنبؤية.</string>
     <string name="battery_info_status_charging">جارٍ الشحن</string>
     <string name="battery_info_status_charging_fast">جارٍ الشحن سريعًا</string>
     <string name="battery_info_status_charging_slow">جارٍ الشحن ببطء</string>
     <string name="battery_info_status_charging_wireless">جارٍ الشحن لاسلكيًا</string>
     <string name="battery_info_status_discharging">لا يتم الشحن</string>
-    <string name="battery_info_status_full">تم الشحن</string>
+    <string name="battery_info_status_full">مشحونة</string>
+    <string name="battery_info_status_full_charged">البطارية مشحونة بالكامل.</string>
     <string name="battery_info_status_not_charging">الجهاز متصل بالشاحن، ولا يتم الشحن.</string>
     <string name="battery_info_status_unknown">غير معروف</string>
     <string name="blob_expires_text">تنتهي صلاحيتها في %s.</string>
@@ -145,14 +153,15 @@
     <string name="bluetooth_enable_gabeldorsche_summary">‏تفعيل حِزم ميزة Bluetooth Gabeldorsche</string>
     <string name="bluetooth_headset_profile_summary_connected">متصل بالإعدادات الصوتية للهاتف</string>
     <string name="bluetooth_headset_profile_summary_use_for">الاستخدام لإعدادات الهاتف الصوتية</string>
+    <string name="bluetooth_hearing_aid_left_active">السمّاعة الطبية اليسرى فقط مفعَّلة</string>
+    <string name="bluetooth_hearing_aid_left_and_right_active">السمّاعتان اليسرى واليمنى مفعَّلتان</string>
     <string name="bluetooth_hearing_aid_profile_summary_connected">تمّ التوصيل بسماعات الأذن الطبية</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">استخدام سماعات الأذن الطبية</string>
-    <string name="bluetooth_hearingaid_left_battery_level">اليسرى - مستوى طاقة البطارية %1$s</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">جارٍ إقران سماعة الأذن الطبية اليسرى…</string>
-    <string name="bluetooth_hearingaid_right_battery_level">اليمنى - مستوى طاقة البطارية %1$s</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">جارٍ إقران سماعة الأذن الطبية اليمنى…</string>
+    <string name="bluetooth_hearing_aid_right_active">السمّاعة الطبية اليمنى فقط مفعَّلة</string>
     <string name="bluetooth_hid_profile_summary_connected">متصل بجهاز الإدخال</string>
     <string name="bluetooth_hid_profile_summary_use_for">استخدام للإدخال</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">‏متصل بـ LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">‏الاستخدام لـ LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">تم الاتصال بملف تعريف الدخول إلى الرسائل</string>
     <string name="bluetooth_map_profile_summary_use_for">استخدام لملف تعريف الدخول إلى الرسائل</string>
     <string name="bluetooth_opp_profile_summary_connected">متصل بخادم نقل الملف</string>
@@ -176,11 +185,12 @@
     <string name="bluetooth_profile_headset">المكالمات الهاتفية</string>
     <string name="bluetooth_profile_hearing_aid">سماعات الأذن الطبية</string>
     <string name="bluetooth_profile_hid">جهاز الإرسال</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">الرسائل النصية</string>
     <string name="bluetooth_profile_opp">نقل الملف</string>
     <string name="bluetooth_profile_pan">استخدام الإنترنت</string>
     <string name="bluetooth_profile_pan_nap">مشاركة اتصال الإنترنت</string>
-    <string name="bluetooth_profile_pbap">مشاركة جهة الاتصال</string>
+    <string name="bluetooth_profile_pbap">مشاركة جهات الاتصال</string>
     <string name="bluetooth_profile_pbap_summary">استخدام مع مشاركة جهة الاتصال</string>
     <string name="bluetooth_profile_sap">‏الوصول إلى شريحة SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">‏تم الاتصال بـ SAP</string>
@@ -218,10 +228,13 @@
     <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
     <string name="bt_hci_snoop_log">تفعيل سجلّ تطفل بواجهة وحدة تحكم المضيف في بلوتوث</string>
     <string name="bt_hci_snoop_log_summary">رَقمِن محتوى حزم بيانات البلوتوث. (تبديل البلوتوث بعد تغيير هذا الإعداد)</string>
+    <string name="bt_le_audio_broadcast_dialog_different_output">تغيير جهاز الإخراج</string>
+    <string name="bt_le_audio_broadcast_dialog_sub_title">إذا أجريت بث تطبيق %1$s أو غيَّرت جهاز الإخراج، سيتوقَف البث الحالي.</string>
+    <string name="bt_le_audio_broadcast_dialog_switch_app">بث تطبيق %1$s</string>
+    <string name="bt_le_audio_broadcast_dialog_title">هل تريد إيقاف بث تطبيق %1$s؟</string>
     <string name="buffer_size">حجم ذاكرة التخزين المؤقت لكل وحدة معالجة مركزية</string>
     <string name="bugreport_in_power">اختصار تقرير الأخطاء</string>
     <string name="bugreport_in_power_summary">عرض زر في قائمة زر التشغيل لإعداد تقرير بالأخطاء</string>
-    <string name="button_convert_fbe">مسح وتحويل…</string>
     <string name="cached_apps_freezer_device_default">الإعداد التلقائي للجهاز</string>
     <string name="cached_apps_freezer_disabled">غير مفعّل</string>
     <string name="cached_apps_freezer_enabled">مفعّل</string>
@@ -229,8 +242,8 @@
     <string name="cancel">إلغاء</string>
     <string name="carrier_network_change_mode">جارٍ تغيير شبكة مشغِّل شبكة الجوّال.</string>
     <string name="categories">الفئات</string>
-    <string name="category_personal">شخصي</string>
-    <string name="category_work">للعمل</string>
+    <string name="category_personal">التطبيقات الشخصية</string>
+    <string name="category_work">تطبيقات العمل</string>
     <string name="cell_data_off_content_description">تم إيقاف بيانات الجوال</string>
     <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
     <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
@@ -251,14 +264,8 @@
     <string name="connected_via_network_scorer_default">تم الاتصال تلقائيًا عبر مقدم خدمة تقييم الشبكة</string>
     <string name="connected_via_passpoint">‏تم الاتصال عبر %1$s</string>
     <string name="content_description_menu_button">القائمة</string>
-    <string name="convert_to_fbe_warning">"تحويل قسم البيانات إلى ترميز على الملف.
- !!تحذير!! سيؤدي هذا إلى محو جميع بياناتك.
- لا تزال هذه الميزة في مرحلة ألفا، وقد لا تعمل على نحو سليم.
- للمتابعة، اضغط على \"مسح وتحويل…\"."</string>
-    <string name="convert_to_file_encryption">التحويل إلى ترميز ملفات</string>
-    <string name="convert_to_file_encryption_done">تم استخدام ترميز ملفات من قبل</string>
-    <string name="convert_to_file_encryption_enabled">تحويل…</string>
     <string name="copy">نسخ</string>
+    <string name="creating_new_guest_dialog_message">جارٍ إنشاء جلسة ضيف جديدة…</string>
     <string name="creating_new_user_dialog_message">جارٍ إنشاء مستخدم جديد…</string>
     <string name="daltonizer_mode_deuteranomaly">العجز في رؤية اللونين الأخضر والأحمر</string>
     <string name="daltonizer_mode_disabled">غير مفعّل</string>
@@ -296,6 +303,7 @@
     <string name="debug_view_attributes">تفعيل فحص سمة العرض</string>
     <string name="default_categories">تلقائي</string>
     <string name="default_categories_restored">تمت استعادة الفئات التلقائية.</string>
+    <string name="default_user_icon_description">رمز المستخدم التلقائي</string>
     <string name="delete_blob_confirmation_text">هل فعلاً تريد حذف هذه البيانات المشتركة؟</string>
     <string name="delete_blob_text">حذف البيانات المشتركة</string>
     <string name="dev_logpersist_clear_warning_message">عندما نتوقف عن رصد أي أخطاء باستخدام المسجِّل الدائم مرة أخرى، يتعين علينا محو بيانات المسجِّل الموجودة على جهازك.</string>
@@ -312,7 +320,14 @@
     <string name="disabled">غير مفعّل</string>
     <string name="disabled_by_admin">أوقف المشرف هذا الإعداد.</string>
     <string name="disabled_by_admin_summary_text">إعدادات يتحكم فيها المشرف</string>
+    <string name="disabled_by_app_ops_text">يتحكّم فيه إعداد محظور</string>
+    <string name="done">تم</string>
     <string name="dont_show_again">عدم الإظهار مرة أخرى</string>
+    <string name="dream_complication_title_aqi">جودة الهواء</string>
+    <string name="dream_complication_title_cast_info">معلومات البث</string>
+    <string name="dream_complication_title_date">التاريخ</string>
+    <string name="dream_complication_title_time">الوقت</string>
+    <string name="dream_complication_title_weather">الطقس</string>
     <string name="eight_hours">8 ساعات</string>
     <string name="eight_thousand_kb">8192 كيلوبايت</string>
     <string name="enable_adb">‏تصحيح أخطاء USB</string>
@@ -335,6 +350,10 @@
     <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
     <string name="external_source_trusted">مسموح به</string>
     <string name="external_source_untrusted">غير مسموح به</string>
+    <string name="failed_attempts_now_wiping_device">لقد استنفدت عدد المحاولات غير الصحيحة وسيتم حذف بيانات هذا الجهاز.</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">إغلاق</string>
+    <string name="failed_attempts_now_wiping_profile">لقد استنفدت عدد المحاولات غير الصحيحة وسيتم حذف الملف الشخصي للعمل وبياناته.</string>
+    <string name="failed_attempts_now_wiping_user">لقد استنفدت عدد المحاولات غير الصحيحة وسيتم حذف حساب هذا المستخدم.</string>
     <string name="failed_to_open_app_settings_toast">تعذّر فتح الإعدادات لـ %1$s</string>
     <string name="five_gb">5 غيغابايت</string>
     <string name="force_allow_on_external">السماح بإدراج التطبيقات في وحدة تخزين خارجية</string>
@@ -348,15 +367,16 @@
     <string name="four_thousand_kb">4096 كيلوبايت</string>
     <string name="guest_exit_guest">إزالة جلسة الضيف</string>
     <string name="guest_new_guest">إضافة ضيف</string>
-    <string name="guest_nickname">ضيف</string>
+    <string name="guest_remove_guest_confirm_button">إزالة</string>
+    <string name="guest_remove_guest_dialog_title">هل تريد إزالة حساب الضيف؟</string>
     <string name="guest_reset_guest">إعادة ضبط جلسة الضيف</string>
     <string name="guest_reset_guest_confirm_button">إعادة الضبط</string>
     <string name="guest_reset_guest_dialog_title">هل تريد إعادة ضبط جلسة الضيف؟</string>
     <string name="guest_resetting">جارٍ إعادة ضبط جلسة الضيف…</string>
     <string name="hdcp_checking_dialog_title">‏تعيين سلوك التحقق من HDCP</string>
     <string name="hdcp_checking_title">‏التحقق من HDCP</string>
-    <string name="help_feedback_label">المساعدة والملاحظات والآراء</string>
-    <string name="help_label">المساعدة والملاحظات والآراء</string>
+    <string name="help_feedback_label">المساعدة والملاحظات</string>
+    <string name="help_label">المساعدة والملاحظات</string>
     <string name="home">الشاشة الرئيسية للإعدادات</string>
     <string name="icon_content_description">رمز مربع الحوار</string>
     <string name="ime_security_warning">يمكن أن يكون أسلوب الإدخال هذا قادرًا على جمع كل النصوص التي تكتبها، بما في ذلك البيانات الشخصية مثل كلمات المرور وأرقام بطاقات الائتمان. يتم الحصول على هذا الأسلوب من التطبيق %1$s. هل تريد استخدام أسلوب الإدخال هذا؟</string>
@@ -372,6 +392,8 @@
     <string name="item_view_role_description">علامة تبويب</string>
     <string name="keep_screen_on">البقاء في الوضع النشط</string>
     <string name="keep_screen_on_summary">لا يتم مطلقًا دخول الشاشة في وضع السكون أثناء الشحن.</string>
+    <string name="keyboard_layout_default_label">التنسيق التلقائي</string>
+    <string name="keyboard_layout_dialog_title">اختيار تنسيق لوحة مفاتيح</string>
     <string name="keywords">‏systrace، التتبّع، الأداء</string>
     <string name="keywords_adb_wireless">‏adb، تصحيح الأخطاء، مطور برامج</string>
     <string name="keywords_alarms_and_reminders">جدول زمني، جدولة، منبّه، تذكير، ساعة</string>
@@ -425,6 +447,7 @@
     <string name="local_backup_password_toast_validation_failure">تعذّر ضبط كلمة مرور احتياطية</string>
     <string name="long_traces">آثار الأنشطة طويلة المدة</string>
     <string name="long_traces_summary">يتم الحفظ في مساحة تخزين الجهاز دائمًا</string>
+    <string name="long_traces_summary_betterbug">يتم الحفظ باستمرار في مساحة تخزين الجهاز (لن يتم الإرفاق بتقارير الخطأ تلقائيًا)</string>
     <string name="managed_user_title">كل تطبيقات العمل</string>
     <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
     <string name="material_hour_selection">تحديد الساعة</string>
@@ -441,7 +464,7 @@
     <string name="max_long_trace_duration">الحد الأقصى لمدة آثار الأنشطة طويلة المدة</string>
     <string name="max_long_trace_size">الحد الأقصى لمدة آثار الأنشطة طويلة المدة</string>
     <string name="media_category">الوسائط</string>
-    <string name="media_transfer_this_device_name">مكبر صوت الهاتف</string>
+    <string name="media_transfer_this_device_name">هذا الهاتف</string>
     <string name="media_transfer_this_phone">هذا الهاتف</string>
     <string name="media_transfer_wired_device_name">جهاز سماعي سلكي</string>
     <string name="media_transfer_wired_usb_device_name">سمّاعة سلكية</string>
@@ -481,6 +504,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -511,6 +535,7 @@
     <string name="no_debuggable_apps">لا تتوفر تطبيقات يمكن تصحيح الأخطاء بها</string>
     <string name="not_default_data_content_description">لم يتم الضبط على استخدام البيانات</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="num_categories_selected">{count,plural, =1{تمّ اختيار #.}zero{تمّ اختيار #.}two{تمّ اختيار #.}few{تمّ اختيار #.}many{تمّ اختيار #.}other{تمّ اختيار #.}}</string>
     <string name="oem_unlock_enable">فتح قفل المصنّع الأصلي للجهاز</string>
     <string name="oem_unlock_enable_summary">‏السماح بإلغاء قفل برنامج bootloader</string>
     <string name="okay">حسنًا</string>
@@ -524,6 +549,7 @@
     <string name="osu_sign_up_failed">تعذّر إكمال الاشتراك. انقر للمحاولة مرة أخرى.</string>
     <string name="overlay_display_devices_title">محاكاة الشاشات الثانوية</string>
     <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="physical_keyboard_title">لوحة مفاتيح خارجية</string>
     <string name="picture_color_mode">نمط لون الصورة</string>
     <string name="picture_color_mode_desc">‏استخدام sRGB</string>
     <string name="pointer_location">موقع المؤشر</string>
@@ -587,6 +613,7 @@
     <string name="select_webview_provider_dialog_title">‏تعيين تطبيق WebView</string>
     <string name="select_webview_provider_title">‏تطبيق WebView</string>
     <string name="select_webview_provider_toast_text">لم يعد هذا الاختيار صالحًا. أعد المحاولة.</string>
+    <string name="settings_label">الإعدادات</string>
     <string name="settingslib_learn_more_text">مزيد من المعلومات</string>
     <string name="share">مشاركة</string>
     <string name="share_trace">مشاركة ملف التتبّع؟</string>
@@ -620,6 +647,7 @@
     <string name="speed_label_very_fast">سريعة جدًا</string>
     <string name="speed_label_very_slow">بطيئة جدًا</string>
     <string name="standby_bucket_summary">حالة تطبيق وضع الاستعداد: %s</string>
+    <string name="start_new_trace">بدء عملية تتبّع جديدة</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">غير متاح</string>
     <string name="stop_on_bugreport">إيقاف التتبع لتقارير الأخطاء</string>
@@ -648,7 +676,6 @@
     <string name="thirty_minutes">30 دقائق</string>
     <string name="thirtytwo_thousand_kb">32768 كيلوبايت</string>
     <string name="time_unit_just_now">للتو</string>
-    <string name="title_convert_fbe">التحويل إلى ترميز على الملف</string>
     <string name="trace_debuggable_applications">تتبّع التطبيقات التي يمكن تصحيح الأخطاء بها</string>
     <string name="trace_is_being_recorded">يتم تسجيل التتبّع</string>
     <string name="trace_saved">تم حفظ آثار الأنشطة.</string>
@@ -689,6 +716,7 @@
     <string name="tts_status_ok">%1$s متوافقة تمامًا</string>
     <string name="tts_status_requires_network">%1$s تتطلب اتصالاً بالشبكة</string>
     <string name="tts_status_title">حالة اللغة التلقائية</string>
+    <string name="turn_screen_on_title">تشغيل الشاشة</string>
     <string name="twelve_hours">12 ساعة</string>
     <string name="twenty_gb">20 غيغابايت</string>
     <string name="twentyfour_hours">24 ساعة</string>
@@ -700,9 +728,10 @@
     <string name="use_system_language_to_select_input_method_subtypes">استخدام لغات النظام</string>
     <string name="user_add_profile_item_summary">يمكنك تقييد الدخول إلى التطبيقات والمحتوى من حسابك</string>
     <string name="user_add_profile_item_title">ملف شخصي محظور</string>
+    <string name="user_add_user">إضافة حساب مستخدم</string>
     <string name="user_add_user_item_summary">المستخدمون لديهم تطبيقات ومحتوى خاص بهم</string>
     <string name="user_add_user_item_title">المستخدم</string>
-    <string name="user_add_user_message_long">"‏يمكنك مشاركة هذا الجهاز مع أشخاص آخرين من خلال إنشاء حسابات لمستخدمين إضافيين. وسيحصل كل مستخدم على مساحته الخاصة التي يمكنه تخصيصها بتطبيقاته وخلفياته التي يريدها وغيرها. كما يمكن للمستخدمين أيضًا ضبط إعدادات الجهاز مثل Wi-Fi والتي تؤثر في جميع المستخدمين.
+    <string name="user_add_user_message_long">"‏يمكنك مشاركة هذا الجهاز مع أشخاص آخرين من خلال إنشاء حسابات لمستخدمين إضافيين. وسيحصل كل مستخدم على مساحته الخاصة التي يمكنه تخصيصها بتطبيقاته وخلفياته التي يريدها وغير ذلك. ويمكن أيضًا للمستخدمين ضبط إعدادات الجهاز مثل Wi-Fi والتي تؤثر في جميع المستخدمين.
 
 عند إضافة مستخدم جديد، عليه إعداد مساحته.
 
@@ -712,7 +741,6 @@
 ويمكن لأي مستخدم تحديث التطبيقات لجميع المستخدمين الآخرين."</string>
     <string name="user_add_user_title">هل تريد إضافة مستخدم جديد؟</string>
     <string name="user_add_user_type_title">إضافة</string>
-    <string name="user_guest">ضيف</string>
     <string name="user_image_choose_photo">اختيار صورة</string>
     <string name="user_image_photo_selector">اختيار صورة</string>
     <string name="user_image_take_photo">التقاط صورة</string>
@@ -729,7 +757,7 @@
     <string name="user_setup_profile_dialog_message">هل ترغب في إعداد ملف شخصي الآن؟</string>
     <string name="user_switch_to_user">التبديل إلى %s</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="verify_apps_over_usb_summary">‏التحقق من التطبيقات المثبتة عبر ADB/ADT لكشف السلوك الضار</string>
     <string name="verify_apps_over_usb_title">‏التحقق من التطبيقات عبر USB</string>
     <string name="vpn_settings_not_available">‏لا تتوفر إعدادات VPN لهذا المستخدم</string>
@@ -749,8 +777,6 @@
     <string name="wifi_disconnected">غير متصلة</string>
     <string name="wifi_display_certification">شهادة عرض شاشة لاسلكي</string>
     <string name="wifi_display_certification_summary">عرض خيارات شهادة عرض شاشة لاسلكي</string>
-    <string name="wifi_enhanced_mac_randomization">‏التوزيع العشوائي لعناوين MAC غير الثابتة لشبكة Wi‑Fi.</string>
-    <string name="wifi_enhanced_mac_randomization_summary">‏عند تفعيل هذا الوضع، قد يتم تغيير عنوان MAC لهذا الجهاز في كل مرة تتصل فيها بشبكة تم تفعيل التوزيع العشوائي لعناوين MAC عليها.</string>
     <string name="wifi_fail_to_scan">لا يمكن فحص الشبكات</string>
     <string name="wifi_hotspot_switch_off_text">إيقاف</string>
     <string name="wifi_hotspot_switch_on_text">مفعّلة</string>
@@ -758,23 +784,52 @@
     <string name="wifi_metered_label">تفرض تكلفة استخدام</string>
     <string name="wifi_no_internet">لا يتوفّر اتصال بالإنترنت</string>
     <string name="wifi_no_internet_no_reconnect">لن يتم الاتصال تلقائيًا</string>
+    <string name="wifi_non_persistent_mac_randomization">‏التوزيع العشوائي لعناوين MAC غير الثابتة لشبكة Wi‑Fi</string>
+    <string name="wifi_non_persistent_mac_randomization_summary">‏عند تفعيل هذا الوضع، قد يتم تغيير عنوان MAC لهذا الجهاز في كل مرة تتصل فيها بشبكة تم تفعيل التوزيع العشوائي لعناوين MAC عليها.</string>
     <string name="wifi_not_in_range">ليست في النطاق</string>
     <string name="wifi_passpoint_expired">منتهية الصلاحية</string>
     <string name="wifi_remembered">تم الحفظ</string>
     <string name="wifi_scan_throttling">‏تقييد البحث عن شبكات Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">لتقليل استهلاك البطارية وتحسين أداء الشبكة</string>
+    <string name="wifi_security_eap">WPA/WPA2/WPA3-Enterprise</string>
+    <string name="wifi_security_eap_suiteb">‏WPA3-Enterprise ‏192 بت</string>
+    <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
+    <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa3">WPA3-Enterprise</string>
+    <string name="wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
     <string name="wifi_security_none">بلا أمان</string>
+    <string name="wifi_security_none_owe">بدون أمان/مفتوحة ومحسّنة</string>
+    <string name="wifi_security_owe">مفتوحة ومحسّنة</string>
+    <string name="wifi_security_passpoint">نقطة مرور</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
+    <string name="wifi_security_sae">WPA3-Personal</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
+    <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
+    <string name="wifi_security_short_none_owe">‏بدون أمان/OWE</string>
+    <string name="wifi_security_short_owe">OWE</string>
+    <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
+    <string name="wifi_security_short_sae">WPA3</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA-Personal</string>
+    <string name="wifi_security_wpa2">WPA2-Personal</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
     <string name="wifi_status_mac_randomized">‏يتم اختيار عنوان MAC بشكل انتقائي.</string>
     <string name="wifi_status_no_internet">لا يتوفر اتصال إنترنت.</string>
     <string name="wifi_status_sign_in_required">يلزم تسجيل الدخول</string>
+    <string name="wifi_tether_connected_summary">{count,plural, =0{لم يتم اتصال أي أجهزة.}=1{تم اتصال جهاز واحد.}two{تم اتصال جهازين.}few{تم اتصال # أجهزة.}many{تم اتصال # جهازًا.}other{تم اتصال # جهاز.}}</string>
     <string name="wifi_unmetered_label">بدون قياس</string>
     <string name="wifi_verbose_logging">‏تفعيل تسجيل Wi‑Fi Verbose</string>
     <string name="wifi_verbose_logging_summary">‏زيادة مستوى تسجيل Wi-Fi، وعرض لكل SSID RSSI في منتقي Wi-Fi</string>
+    <string name="wifitrackerlib_admin_restricted_network">لا تسمح بها مؤسستك</string>
     <string name="wifitrackerlib_auto_connect_disable">الاتصال التلقائي غير مُفعَّل.</string>
     <string name="wifitrackerlib_available_via_app">متاحة من خلال %1$s.</string>
     <string name="wifitrackerlib_connected_via_app">تم الاتصال من خلال %1$s.</string>
-    <string name="wifitrackerlib_connected_via_network_scorer">تم الاتصال تلقائيًا بشبكة %1$s.</string>
-    <string name="wifitrackerlib_connected_via_network_scorer_default">تم الاتصال تلقائيًا من خلال مقدّم خدمة تقييم الشبكة.</string>
     <string name="wifitrackerlib_imsi_protection_warning">‏تتلقّى هذه الشبكة رقم تعريف لشريحة SIM يمكن استخدامه لتتبُّع الموقع الجغرافي للجهاز. <annotation id="url">مزيد من المعلومات</annotation></string>
     <string name="wifitrackerlib_osu_completing_sign_up">جارٍ إكمال الاشتراك…</string>
     <string name="wifitrackerlib_osu_connect_failed">تعذّر الاتصال بالإنترنت.</string>
@@ -783,12 +838,6 @@
     <string name="wifitrackerlib_osu_sign_up_failed">تعذّر إكمال الاشتراك. انقر لإعادة المحاولة.</string>
     <string name="wifitrackerlib_private_dns_broken">لا يمكن الوصول إلى خادم أسماء نظام نطاقات خاص</string>
     <string name="wifitrackerlib_saved_network">تم الحفظ من قِبل %1$s.</string>
-    <string name="wifitrackerlib_speed_label_fast">سريعة</string>
-    <string name="wifitrackerlib_speed_label_medium">متوسطة</string>
-    <string name="wifitrackerlib_speed_label_okay">جيدة</string>
-    <string name="wifitrackerlib_speed_label_slow">بطيئة</string>
-    <string name="wifitrackerlib_speed_label_very_fast">سريعة جدًا</string>
-    <string name="wifitrackerlib_speed_label_very_slow">بطيئة جدًا</string>
     <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">انقر لتجديد الاشتراك والاتصال بالشبكة.</string>
     <string name="wifitrackerlib_tap_to_sign_up">انقر للاشتراك.</string>
@@ -810,7 +859,32 @@
     <string name="wifitrackerlib_wifi_passpoint_expired">منتهية الصلاحية</string>
     <string name="wifitrackerlib_wifi_poor_channel_conditions">الاتصال بشبكات الإنترنت سيئ حاليًا</string>
     <string name="wifitrackerlib_wifi_remembered">شبكة محفوظة</string>
+    <string name="wifitrackerlib_wifi_security_eap_suiteb">‏WPA3-Enterprise ‏192 بت</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_none">بدون أمان</string>
+    <string name="wifitrackerlib_wifi_security_owe">مفتوحة ومحسّنة</string>
+    <string name="wifitrackerlib_wifi_security_passpoint">نقطة مرور</string>
+    <string name="wifitrackerlib_wifi_security_sae">WPA3-Personal</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_suiteb">Suite-B-192</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa3">WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2">WPA/WPA2-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
+    <string name="wifitrackerlib_wifi_security_short_owe">OWE</string>
+    <string name="wifitrackerlib_wifi_security_short_sae">WPA3</string>
+    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2_wpa3">WPA/WPA2/WPA3</string>
+    <string name="wifitrackerlib_wifi_security_wep">WEP</string>
+    <string name="wifitrackerlib_wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
+    <string name="wifitrackerlib_wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
+    <string name="wifitrackerlib_wifi_standard_11ac">‏شبكة Wi‑Fi 5</string>
+    <string name="wifitrackerlib_wifi_standard_11ad">‏معيار WiGig</string>
+    <string name="wifitrackerlib_wifi_standard_11ax">‏شبكة Wi‑Fi 6</string>
+    <string name="wifitrackerlib_wifi_standard_11be">‏شبكة Wi‑Fi 7</string>
+    <string name="wifitrackerlib_wifi_standard_11n">‏شبكة Wi‑Fi 4</string>
+    <string name="wifitrackerlib_wifi_standard_legacy">معيار قديم</string>
+    <string name="wifitrackerlib_wifi_standard_unknown">معيار غير معروف</string>
     <string name="wifitrackerlib_wifi_unmetered_label">لا تفرض تكلفة استخدام</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">‏لن يتم الاتصال بشبكة Wi-Fi تلقائيًا في الوقت الحالي.</string>
     <string name="window_animation_scale_title">حجم الرسوم المتحركة للنافذة</string>

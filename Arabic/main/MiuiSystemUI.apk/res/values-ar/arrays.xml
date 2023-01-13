@@ -80,6 +80,7 @@
         <item>3 عمليات بحد أقصى</item>
         <item>٤ عمليات بحد أقصى</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
     <string-array name="battery_labels">
         <item>٠‏٪</item>
         <item>٥٠٪</item>
@@ -145,6 +146,8 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ Adaptive</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>استخدام اختيار النظام (تلقائي)</item>
@@ -153,6 +156,8 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ Adaptive</item>
+        <item>ﺹﻮﺗ Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -327,6 +332,11 @@
         <item>الميزة غير مفعّلة</item>
         <item>الميزة مفعّلة</item>
     </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>غير متوفّر</item>
+        <item>غير مفعّل</item>
+        <item>مفعّل</item>
+    </string-array>
     <string-array name="tile_states_controls">
         <item>الميزة غير متاحة</item>
         <item>الميزة غير مفعّلة</item>
@@ -376,6 +386,16 @@
         <item>الميزة غير متاحة</item>
         <item>الميزة غير مفعّلة</item>
         <item>الميزة مفعّلة</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>غير متاح</item>
+        <item>غير مفعّل</item>
+        <item>مفعّل</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>غير متوفّر</item>
+        <item>غير مفعّل</item>
+        <item>مفعّل</item>
     </string-array>
     <string-array name="tile_states_reduce_brightness">
         <item>الميزة غير متاحة</item>
@@ -441,6 +461,12 @@
         <item>خاطف</item>
         <item>خاطف جدًا</item>
         <item>الأسرع</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>نقل لليسار</item>
+        <item>نقل للأسفل</item>
+        <item>نقل لليمين</item>
+        <item>نقل للأعلى</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>الشحن</item>

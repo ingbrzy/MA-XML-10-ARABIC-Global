@@ -150,7 +150,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">سيستغرق الاختبار حوالي ٣ دقائق.</string>
+    <string name="four_note">سيستغرق الاختبار %d دقائق تقريبا.</string>
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
@@ -270,6 +270,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -307,7 +308,7 @@
     <string name="music_audio_effect_settings">إعدادات التأثيرت</string>
     <string name="music_audio_visual_wake_lock">إبقاء الشاشة مفتوحة</string>
     <string name="music_audio_visual_wake_lock_summary">عدم إيقاف تشغيل الشاشة عندما يتم عرض المؤثرات البصرية</string>
-    <string name="music_below_thirty_years">أقل من ٣٠ سنة</string>
+    <string name="music_below_thirty_years">حتى سن %d سنة</string>
     <string name="music_customized_sound_summary">اضبط مستوى الصوت ليناسب إدراكك السمعي</string>
     <string name="music_customized_sound_title">التحكم في مستوى الصوت</string>
     <string name="music_delete">حذف</string>
@@ -404,10 +405,10 @@
     <string name="music_sound_num">إعدادات مخصصة %s</string>
     <string name="music_sound_sample">إعدادات النظام</string>
     <string name="music_sure_to_delete_sound_msg">حذف الإعداد المحدد الآن؟</string>
-    <string name="music_thirty_to_sixty_years">مابين ٣٠-٦٠ سنة</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d - %d سنة</string>
     <string name="music_title_dolby_control">تقنية Dolby digital plus</string>
     <string name="music_unsupport_effect_summary">سماعات USB غير مدعومة</string>
-    <string name="music_upper_sixty_years">فوق ٦٠ سنة</string>
+    <string name="music_upper_sixty_years">أكبر من %d سنة</string>
     <string name="name">الاسم</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
@@ -512,7 +513,8 @@
     <string name="sound_transmission_start">ابدأ</string>
     <string name="sound_transmission_stop">إيقاف مؤقت</string>
     <string name="sound_transmission_title">ميكروفون لاسلكي</string>
-    <string name="spatial_audio_summary">ضبط الصوت المحيط بناء على حركات الرأس</string>
+    <string name="spatial_audio">صوت غامر</string>
+    <string name="spatial_audio_summary">انغمس في الصوت المحيط عند تشغيل الصوت من السماعات</string>
     <string name="speaker_scenario_resume">استعادة التأثيرات الأصلية</string>
     <string name="start_test_sound">بدء الاختبار</string>
     <string name="status_bar_notification_info_overflow">999+</string>
