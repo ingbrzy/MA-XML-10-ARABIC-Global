@@ -194,7 +194,6 @@
     <string name="b_contacts_remove_tips">هل ترغب في إزالة هذه العناوين من قائمة الحظر؟</string>
     <string name="back">رجوع</string>
     <string name="bcc">نسخة مخفية</string>
-    <string name="bcc_heading">"نسخة مخفية: "</string>
     <string name="blank_feedback_toast">تحتاج إلى كتابة تعليق</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">إنشاء رسالة بريد إلكتروني</string>
@@ -205,7 +204,6 @@
     <string name="cancel">إلغاء</string>
     <string name="cancel_action">إلغاء</string>
     <string name="cc">نسخة</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">نسخة/نسخة مخفية</string>
     <string name="cc_heading">"نسخة إلى: "</string>
     <string name="certificate_add_failed">تعذر تم إضافة \"%s\" شهادة</string>
@@ -229,7 +227,6 @@
     <string name="click_to_reload">انقر الشاشة للتحديث</string>
     <string name="close">إغلاق</string>
     <string name="collapse_recipient_details">عدم عرض تفاصيل المستلم بالكامل</string>
-    <string name="colon">:</string>
     <string name="compose">إنشاء رسالة</string>
     <string name="compose_event">دعوة</string>
     <string name="compose_paste_address_oob">أحرف كثيرة جداً</string>
@@ -470,7 +467,6 @@
     <string name="installation_failed">تعذّر تثبيت التطبيق.</string>
     <string name="installing_module">جارٍ تثبيت الوحدة:</string>
     <string name="kilobytes">%s كيلوبايت</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">البحث في صندوق البريد على الخادم</string>
     <string name="load_more">تحميل المزيد</string>
     <string name="loading_conversation">جارٍ التحميل…</string>
@@ -871,7 +867,6 @@
     <string name="size_tera_byte">تيرابايت</string>
     <string name="smtp_password_error">كلمة المرور لخادم البريد الصادر غير صحيحة</string>
     <string name="sort_attachment">ترتيب حسب</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">تحديد الكل</string>
     <string name="str_select_none">الغاء تحديد الكل</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>

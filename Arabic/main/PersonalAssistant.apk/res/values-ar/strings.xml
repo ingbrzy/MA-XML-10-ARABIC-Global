@@ -195,7 +195,6 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -233,7 +232,6 @@
     <string name="saturday_shortest">السبت</string>
     <string name="search_menu_title">البحث</string>
     <string name="send">مشاركة</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>

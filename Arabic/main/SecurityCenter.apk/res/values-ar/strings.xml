@@ -989,7 +989,6 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">إنشاء</string>
     <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
     <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
@@ -1275,7 +1274,6 @@
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">فجر</string>
     <string name="edit_phone_num">تعديل رقم هاتف بطاقة SIM</string>
-    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty" />
     <string name="empty_app">لا توجد تطبيقات</string>
@@ -1354,9 +1352,7 @@
     <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -2434,7 +2430,6 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
-    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">ج.ب</string>
@@ -2443,7 +2438,6 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_optimize_manage_1">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_ime_not_used">استخدم لوحة مفاتيح مرخصة من Xiaomi</string>
@@ -2548,7 +2542,6 @@ to join our egg hunt!"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -3124,11 +3117,6 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيقوم MIUI بالتحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
-    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -3414,7 +3402,6 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -3690,7 +3677,6 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">تسجيل الصوت</string>
     <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
     <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_vpnsdkmanager_label">مسرع الألعاب</string>
     <string name="promotion">اعلان</string>

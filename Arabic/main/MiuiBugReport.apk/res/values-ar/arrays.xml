@@ -95,11 +95,6 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
-    </string-array>
     <string-array name="net_diag_err_link_quality">
         <item>إشارة Wi-Fi ضعيفة. بدل إلى نطاق لاسلكي مختلف أو أعد تشغيل الراوتر.</item>
         <item>لا يمكن الوصول إلى الشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
@@ -153,11 +148,5 @@
     </string-array>
     <string-array name="net_diag_err_network_topology">
         <item>تحقق من إعدادات DHCP الخاصة بالراوتر وتوصيلات الكابلات</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>
