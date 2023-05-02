@@ -72,6 +72,30 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">تم رفض %2$d ملف، بما في ذلك %1$s</item>
+        <item quantity="zero">تم رفض %2$d ملف، بما في ذلك %1$s</item>
+        <item quantity="one">تم رفض %2$d ملف، بما في ذلك %1$s</item>
+        <item quantity="two">تم رفض %2$d ملفات، بما في ذلك %1$s</item>
+        <item quantity="few">تم رفض %2$d ملفات، بما في ذلك %1$s</item>
+        <item quantity="many">تم رفض %2$d ملف، بما في ذلك %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">تم استلام %2$d ملف، يتضمن %1$s</item>
+        <item quantity="zero">تم استلام %2$d ملف، يتضمن %1$s</item>
+        <item quantity="one">تم استلام %2$d ملف، يتضمن %1$s</item>
+        <item quantity="two">تم استلام %2$d ملفات، يتضمن %1$s</item>
+        <item quantity="few">تم استلام %2$d ملفات، يتضمن %1$s</item>
+        <item quantity="many">تم استلام %2$d ملف، يتضمن %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d ملف، يتضمن %1$s</item>
+        <item quantity="zero">%2$d ملف، يتضمن %1$s</item>
+        <item quantity="one">%2$d ملف، يتضمن %1$s</item>
+        <item quantity="two">%2$d ملفات، يتضمن %1$s</item>
+        <item quantity="few">%2$d ملفات، يتضمن %1$s</item>
+        <item quantity="many">%2$d ملف، يتضمن %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>

@@ -68,10 +68,49 @@
         <item>متوازن</item>
         <item>سريع</item>
     </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>٤x٤</item>
+        <item>٤x٥</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>٤x٤</item>
+        <item>٤x٥</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>خلفية الشاشة</item>
         <item>الإضافات</item>
         <item>الإعدادت</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>صافٍ</item>
+        <item>غائم</item>
+        <item>ضبابي</item>
+        <item>ضبابي</item>
+        <item>عاصفة ممطرة شديدة</item>
+        <item>عاصفة ممطرة</item>
+        <item>مطر غزير</item>
+        <item>عاصفة رعدية</item>
+        <item>مطر خفيف</item>
+        <item>مطر غزير</item>
+        <item>مطر</item>
+        <item>رذاذ</item>
+        <item>صقيع</item>
+        <item>عاصفة ثلجية</item>
+        <item>ثلج كثيف</item>
+        <item>ثلج كثيف</item>
+        <item>ثلج</item>
+        <item>ثلج خفيف</item>
+        <item>عاصفة رملية قوية</item>
+        <item>عاصفة رملية</item>
+        <item>عاصفة رملية خفيفة</item>
+        <item>عاصفة رملية</item>
+        <item>برَد</item>
+        <item>غبار</item>
+        <item>ضباب</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>الافتراضي</item>
+        <item>كلاسيكي</item>
     </string-array>
     <string-array name="monochrome_color_entries">
         <item>الافتراضي</item>
@@ -88,5 +127,11 @@
         <item>تتالي</item>
         <item>تدوير</item>
         <item>مكعب</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>الثيم الافتراضي</item>
+        <item>وسط</item>
+        <item>يسار</item>
+        <item>يمين</item>
     </string-array>
 </resources>

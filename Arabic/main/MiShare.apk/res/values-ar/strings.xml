@@ -396,7 +396,6 @@
     <string name="somepc_send_muchfile_files">يرسل %1$s اكثر من %2$d ملف إلى جهازك…</string>
     <string name="start_receive_much_files_from_pc">جارٍ استلام اكثر من %2$d ملف من %1$s…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="sub_title_mishare_switch">سيتوقف تشغيل هذه الميزة تلقائيا بعد %d دقائق.</string>
     <string name="success_receive_much_file_from_pc">تم استلام اكثر من %2$d ملف من %1$s. انقر للعرض.</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
@@ -458,8 +457,6 @@
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">الإبلاغ</string>
-    <string name="toast_auto_close_in_minutes">سيتوقف تشغيل Mi Share بعد %d دقائق</string>
-    <string name="toast_transfering">جارٍ نقل العناصر. حاول لاحقا.</string>
     <string name="today">اليوم</string>
     <string name="tomorrow">غدا</string>
     <string name="transfer_intercept_to_remote">تعذر الإرسال: %1$s</string>
@@ -467,10 +464,8 @@
     <string name="transfer_to_pc_summary_new">&lt;Data>أحدث إصدار من برنامج MIUI+ المثبت على أجهزة كمبيوتر Mi المحمولة متوافق مع Mi Share. يمكنك الحصول على قائمة طرزات الأجهزة المدعومة من موقع MIUI+ &lt;a href=%1$s>%2$s&lt;/a>). إذا كان الكمبيوتر المحمول في القائمة ومازال MIUI+ غير مثبت عليه، فقم بتحديث BIOS وبرامج تشغيل محول الشبكة ومن ثم قم بتنزيل MIUI+.&lt;/Data></string>
     <string name="transfer_to_pc_title">إرسال الملفات إلى الكمبيوتر</string>
     <string name="transfer_to_phone_summary">قم بتشغيل Mi Share بإستخدام مفتاح تشغيل/إيقاف في مركز الإشعارات. بعد ذلك، ستتمكن من رؤية الأجهزة القريبة عند بدء مشاركة صورة أو ملف. انقر فوق جهاز المستلم لإرسال العنصر الذي تشاركه.</string>
-    <string name="transfer_to_phone_summary_new">قم بتشغيل Mi Share في مركز التحكم لتتمكن من إرسال العناصر واستقبالها. ستتمكن بعد تشغيله من مشاركة العناصر مع الأجهزة القريبة لمدة %d دقائق.</string>
     <string name="transfer_to_phone_title">إرسال الملفات إلى الهواتف</string>
     <string name="transfer_to_summary">قم بتشغيل Mi Share بإستخدام مفتاح تشغيل/إيقاف في مركز الإشعارات. بعد ذلك، ستتمكن من رؤية الأجهزة القريبة عند بدء مشاركة صورة أو ملف. انقر فوق جهاز المستلم لإرسال العنصر الذي تشاركه.</string>
-    <string name="transfer_to_summary_new">قم بتشغيل Mi Share في مركز التحكم لتتمكن من إرسال العناصر واستقبالها. ستتمكن بعد تشغيله من مشاركة العناصر مع الأجهزة القريبة لمدة %d دقائق.</string>
     <string name="transfer_to_title">إرسال الملفات على الأجهزة المحمولة</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
