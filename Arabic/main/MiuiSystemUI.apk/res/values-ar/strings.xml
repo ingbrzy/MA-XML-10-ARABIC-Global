@@ -629,6 +629,10 @@
     <string name="daltonizer_mode_protanomaly">غطش الأحمر (الأحمر والأخضر)</string>
     <string name="daltonizer_mode_tritanomaly">غمش الأزرق (الأزرق والأصفر)</string>
     <string name="daltonizer_type_overridden">تم الاستبدال بـ %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">حسنا</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"بعد إيقاف تشغيل تحسين MIUI وتشغيل موفر البطارية، سيتم تشغيل الوضع الداكن تلقائيا.
+يمكنك إيقاف تشغيل الوضع الداكن أو إيقاف تشغيل موفر البطارية أو تشغيل تحسين MIUI من الإعدادات > خيارات المطور > تشغيل تحسين MIUI."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">الوضع الداكن</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+‎</string>
     <string name="data_connection_3g">شبكة الجيل الثالث</string>
@@ -1452,6 +1456,7 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">‏تطبيقاتك الشخصية متّصلة بالإنترنت من خلال %1$s. تظهر أنشطة الشبكة، بما في ذلك الرسائل الإلكترونية وبيانات التصفُّح، لمزوّد خدمة الشبكة الافتراضية الخاصة (VPN).</string>
     <string name="monitoring_description_two_named_vpns">هذا الجهاز متّصل بالإنترنت من خلال %1$s و%2$s. يمكن لمشرف تكنولوجيا المعلومات رؤية أنشطة الشبكة، بما في ذلك الرسائل الإلكترونية وبيانات التصفُّح.</string>
     <string name="monitoring_description_vpn_settings">‏فتح إعدادات الشبكة الافتراضية الخاصة (VPN)</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"قد تتمكّن مؤسسة %1$s من الوصول إلى البيانات المرتبطة بهذا الجهاز وإدارة التطبيقات وتغيير إعدادات الجهاز.
 
 إذا كان لديك أسئلة، يُرجى التواصل مع %2$s."</string>
@@ -1530,6 +1535,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -1559,6 +1565,7 @@ mm"</string>
     <string name="music_controls_no_title">بلا عنوان</string>
     <string name="nav_bar">شريط التنقل</string>
     <string name="nav_bar_layout">التنسيق</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">تم إرسال صورة من %1$s.</string>
     <string name="new_notification_text_content_description">تم إرسال رسالة من %1$s: %2$s</string>
     <string name="new_status_content_description">تم تعديل حالة %1$s: %2$s</string>
@@ -1764,6 +1771,7 @@ mm"</string>
     <string name="private_dns_mode_provider">اسم مضيف مزوّد \"نظام أسماء النطاقات الخاص\"</string>
     <string name="private_dns_mode_provider_failure">تعذّر الاتصال</string>
     <string name="private_dns_mode_provider_hostname_hint">‏يُرجى إدخال اسم مضيف DNS</string>
+    <string name="process_kernel_label">‏نظام التشغيل Android</string>
     <string name="profile_connect_timeout_subtext">حدثت مشكلة أثناء الاتصال. يُرجى إيقاف الجهاز ثم إعادة تشغيله.</string>
     <string name="profile_info_settings_title">معلومات الملف الشخصي</string>
     <string name="qr_code_scanner_title">مسح رمز الاستجابة السريعة ضوئيًا</string>
@@ -1929,9 +1937,9 @@ mm"</string>
     <string name="reboot_info_auto_boot_global">المنبه القادم: %s</string>
     <string name="reboot_info_shutdown_alarm_global">سيرن المنبه %s بعد إيقاف تشغيل الجهاز</string>
     <string name="recent_conversations">المحادثات الحديثة</string>
-    <string name="recent_used_camera">هذا التطبيق استخدم الكاميرا</string>
-    <string name="recent_used_camera_and_microphone">هذا التطبيق سجل الصوت واستخدم الكاميرا</string>
-    <string name="recent_used_microphone">هذا التطبيق سجل الصوت</string>
+    <string name="recent_used_camera">وصل هذا التطبيق إلى الكاميرا</string>
+    <string name="recent_used_camera_and_microphone">وصل هذا التطبيق إلى الكاميرا والميكروفون</string>
+    <string name="recent_used_microphone">وصل هذا التطبيق إلى الميكروفون</string>
     <string name="remaining_length_format">يتبقى %1$s</string>
     <string name="remote_input_image_insertion_text">أرسَل صورة</string>
     <string name="remove_from_settings">إزالة من الإعدادات</string>
@@ -2103,6 +2111,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE، dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE، dd MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -2352,9 +2362,9 @@ d MMM"</string>
     <string name="user_setup_dialog_title">هل تريد إعداد المستخدم الآن؟</string>
     <string name="user_setup_profile_dialog_message">هل ترغب في إعداد ملف شخصي الآن؟</string>
     <string name="user_switch_to_user">التبديل إلى %s</string>
-    <string name="using_camera">هذا التطبيق يستخدم الكاميرا</string>
-    <string name="using_camera_and_microphone">هذا التطبيق يسجل الصوت ويستخدم الكاميرا</string>
-    <string name="using_microphone">هذا التطبيق يسجل الصوت</string>
+    <string name="using_camera">يقوم هذا التطبيق بالوصول إلى الكاميرا</string>
+    <string name="using_camera_and_microphone">يقوم هذا التطبيق بالوصول إلى الكاميرا والميكروفون</string>
+    <string name="using_microphone">يقوم هذا التطبيق بالوصول إلى الميكرفون</string>
     <string name="v7_preference_off">إيقاف</string>
     <string name="v7_preference_on">تفعيل</string>
     <string name="verify_apps_over_usb_summary">‏التحقق من التطبيقات المثبتة عبر ADB/ADT لكشف السلوك الضار</string>

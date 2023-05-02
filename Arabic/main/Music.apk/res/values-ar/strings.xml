@@ -42,36 +42,9 @@
     <string name="abc_shareactionprovider_share_with_application">مشاركة مع %s</string>
     <string name="abc_toolbar_collapse_description">تصغير</string>
     <string name="accept_failure">فشل قبول الدعوة ~</string>
-    <string name="access_denied_info">محاولات كثيرة. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="account_and_cloud">الحساب</string>
     <string name="account_blocked_by_user_tips">لقد تم حظرك من قبل الطرف الآخر ولا يمكنك أداء السلوك التالي</string>
-    <string name="account_crop_user_avatar">قص الصورة</string>
-    <string name="account_empty_user_name">أدخل اسم مستخدم حساب Mi</string>
-    <string name="account_error_all_space_user_name">لا يمكن أن يحتوي اسم المستخدم على أحرف مسافة فقط</string>
-    <string name="account_error_invalid_user_name">لا يمكن أن يحتوي الاسم على &lt; أو > أو /</string>
-    <string name="account_error_longer_user_name">يجب أن يكون الاسم أطول من ٢٠ حرف</string>
-    <string name="account_error_shorter_user_name">يجب أن يكون الاسم أطول من حرفين</string>
-    <string name="account_error_user_birthday">تاريخ الميلاد الذي أدخلته غير صالح</string>
-    <string name="account_error_user_name">اسم مستعار هذا غير صالح. جرب اسم أخر.</string>
-    <string name="account_invalid_user_avatar">هذه الصورة غير صالحة. اختر واحدة أخرى.</string>
-    <string name="account_limit_update_birthday">لايمكن تحديث تاريخ الميلاد حالياُ</string>
     <string name="account_logout">تسجيل خروج</string>
-    <string name="account_no_set">لا شيء</string>
-    <string name="account_none_bind_info">لا يوجد</string>
-    <string name="account_none_user_name">لا شيء</string>
-    <string name="account_secure_info_pref_title">معلومات الحساب</string>
-    <string name="account_security_info_pref_title">معلومات الحماية</string>
-    <string name="account_user_avatar">صورة الملف الشخصي</string>
-    <string name="account_user_avatar_from_album">المعرض</string>
-    <string name="account_user_avatar_from_camera">الكاميرا</string>
-    <string name="account_user_base_info">المعلومات الأساسية</string>
-    <string name="account_user_details">المعلومات الشخصية</string>
-    <string name="account_user_email">البريد الإلكتروني لاسترداد الحساب</string>
-    <string name="account_user_gender">نوع الجنس</string>
-    <string name="account_user_id">معرف حساب Mi</string>
-    <string name="account_user_name">الاسم المستعار</string>
-    <string name="account_user_name_dialog_title">أدخل اسم المستخدم</string>
-    <string name="account_user_phone">رقم الهاتف لاسترداد الحساب</string>
     <string name="action_item_add">إضافة إلى</string>
     <string name="action_item_add_song">إضافة الى قائمة التشغيل</string>
     <string name="action_item_add_to_current_playlist">قائمة الاستماع</string>
@@ -85,15 +58,15 @@
     <string name="action_item_play_all">خلط الكل</string>
     <string name="action_item_play_next">التشغيل التالي</string>
     <string name="action_item_play_video">تشغيل الفيديو كليب</string>
+    <string name="action_item_podcast">تفاصيل البودكاست</string>
+    <string name="action_item_podcast_speed">سرعة التشغيل</string>
     <string name="action_item_remove">إزالة</string>
     <string name="action_item_remove_from_favorite">حذف من المفضلة</string>
     <string name="action_item_share">مشاركة</string>
     <string name="action_settings">الإعدادات</string>
     <string name="actionbar_button_up_description">رجوع</string>
-    <string name="activate_email_notice">تأكد من تفعيل حسابك خلال ٢٤ ساعة</string>
     <string name="activity_Premium_family">عائلة مميزة</string>
     <string name="activity_Premium_family_Description">يتم اختيار العائلة المميزة من قبل المسؤول وستظهر على اللافتة انضم إلى عائلة متميزة ، يمكنك المشاركة في الأنشطة العائلية مع أفراد الأسرة الآخرين ، والحصول على هدايا كبيرة ستحصل عائلات مميزة على دعم رسمي ، ولكل عائلة مواضيع مختلفة ، بما في ذلك كرة القدم والألعاب والموسيقى وما إلى ذلك اختر العائلة التي ترغب في الانضمام إليها واللعب معهم الآن</string>
-    <string name="activity_not_found_notice">لا يمكن العثور على التطبيق</string>
     <string name="ad_close">إغلاق</string>
     <string name="ad_data_exception">خطأ في بيانات الإعلان</string>
     <string name="ad_recommend">إظهار الإعلانات</string>
@@ -104,7 +77,6 @@
     <string name="add_to_last_of_playlist">إضافة الى اخر قائمة التشغيل</string>
     <string name="add_to_playlist">إضافة إلى قائمة الانتظار</string>
     <string name="add_to_playlist_successful">تمت الإضافة بنجاح</string>
-    <string name="add_to_trust_device">هذا جهاز موثوق به</string>
     <string name="added_next_play">تمت الإضافة إلى التشغيل التالي</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="agreement_desc">اتفاقية المستخدم (إلزامية)</string>
@@ -147,7 +119,7 @@
     <string name="app_permission_use_group_account_desc">للحصول على معلومات حساب Mi</string>
     <string name="app_permission_use_group_phone">الهاتف</string>
     <string name="app_permission_use_group_phone_desc">لخدمات Google Push</string>
-    <string name="app_permission_use_group_storage">التخزبن</string>
+    <string name="app_permission_use_group_storage">التخزين</string>
     <string name="app_permission_use_group_storage_desc">لتشغيل والعثور على الأغاني المحفوظة على الجهاز</string>
     <string name="app_push_game_invite_title">يدعوك%1$s للعب%2$s</string>
     <string name="apply_failure">فشل تحميل الميكروفون ~</string>
@@ -183,7 +155,6 @@
     <string name="audio_ad_countdown">يمكن تخطي الإعلان بعد %sث</string>
     <string name="audio_ad_pass">تخطي الإعلان</string>
     <string name="audio_picker_title">اختر أغنية</string>
-    <string name="auth_fail_warning">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
     <string name="auth_pay_fail">فشلت عملية إعادة الشحن ، يرجى إعادة إدخال الصفحة للتحقق من رصيد العملة الذهبية أو الاتصال بخدمة العملاء للاستشارة</string>
     <string name="auto_play_switch">تشغيل الفيديوهات تلقائيا</string>
     <string name="auto_play_toast">التشغيل التلقائي مفعل. يمكنك تعطيل هذه الميزة من الإعدادات.</string>
@@ -194,6 +165,7 @@
     <string name="autoplay_is_off">التشغيل التلقائي متوقف</string>
     <string name="autoplay_is_on">التشغيل التلقائي مشغل</string>
     <string name="available_playlist_name_format">قائمة تشغيل جديدة %d</string>
+    <string name="avatar">صورة الملف الشخصي</string>
     <string name="avoid_to_use_traffic_summary">لا تستخدم شبكة الهاتف لتشغيل الموسيقى</string>
     <string name="avoid_to_use_traffic_title">التنبيه عند استخدام بيانات الهاتف لتشغيل الأغاني</string>
     <string name="back">رجوع</string>
@@ -259,9 +231,7 @@
     <string name="cancel_apply_queue">إلغاء صف الميكروفون</string>
     <string name="cancel_running_download">إلغاء</string>
     <string name="cannot_download_to_sdcard_hint">لا يمكن تنزيل العناصر على بطاقة SD بسبب قيود حقوق الطبع والنشر. سيتم تنزيل العناصر إلى وحدة التخزين الداخلية.</string>
-    <string name="change_activate_email">تغيير عنوان البريد الإلكتروني</string>
     <string name="change_download_quality">تغيير جودة التحميل</string>
-    <string name="change_password">تغيير كلمة المرور</string>
     <string name="changepassword_hint_input1">كلمة المرور الحالية</string>
     <string name="changepassword_toast_passworderror">كلمة المرور غير صحيحة</string>
     <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
@@ -321,7 +291,6 @@
     <string name="coin_withdraw">سحب إيداع</string>
     <string name="coins_hint_help_whatsapp">الحسابات الرسمية لخدمة كبار العملاء على الواتس أب</string>
     <string name="coins_newer_text">خصم سوبر للمستخدمين الجدد</string>
-    <string name="collect_diagnosis_log">جمع السجلات</string>
     <string name="columbus_ad_flag_text">إعلان</string>
     <string name="columbus_skip_ad">تخطي</string>
     <string name="comment_format" formatted="false">%s: %s</string>
@@ -347,7 +316,6 @@
     <string name="common_signin_button_text">تسجل الدخول</string>
     <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
     <string name="confirm">موافق</string>
-    <string name="confirm_activate_email">تم التحقق</string>
     <string name="confirm_exit">حفظ التغييرات؟</string>
     <string name="confirm_hide_income_content">تأكد من إيقاف تشغيل قيمة نبضات القلب ، بعد الإغلاق ، سيتم مسح قيمة نبضات القلب على الميكروفون الحالي</string>
     <string name="connect_now">اتصال</string>
@@ -537,10 +505,6 @@
     <string name="destroy_room_sure">يتأكد</string>
     <string name="device_connected">متصل</string>
     <string name="device_not_connected">غير متصل</string>
-    <string name="diagnosis_log_send_failed">لا يمكن إرسال السجلات، حاول مجددا.</string>
-    <string name="diagnosis_log_sent_format">"تم إرسال السجلات بنجاح.
-المعرف:%s
-ارسل هذا الرمز إلى المشرف."</string>
     <string name="dialog_cannot_resume">انقطع التنزيل. لا يمكن استئنافه.</string>
     <string name="dialog_clear_history">هل تريد مسح قائمة التشغيل الحديثة؟</string>
     <string name="dialog_confirm_delete_checkbox_message">حذف الملفات على الجهاز أيضا</string>
@@ -602,7 +566,6 @@
     <string name="do_not_disturb">كتم صوت الإشعارات</string>
     <string name="do_not_remind_this_version">لا تذكرني بهذا الإصدار</string>
     <string name="do_not_support_google_voice_search">لا يتم دعم جهازك بحث Google الصوتي.</string>
-    <string name="doing_query_account">جارٍ التحقق من معلومات الحساب…</string>
     <string name="download">تحميل</string>
     <string name="download_added_to_list">تمت اضافته الى قائمة التحميل</string>
     <string name="download_apk_desktop_installing">تثبيت</string>
@@ -639,7 +602,9 @@
     <string name="download_method">تحميل</string>
     <string name="download_no_application_title">لا يمكن فتح الملف</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عند تشغيل موفر البطارية</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">جارٍ التحميل…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_queued">في قائمة الاستماع</string>
@@ -725,12 +690,10 @@
     <string name="equalizer">المعادل</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
-    <string name="error_dup_binded_email">عنوان البريد الإلكتروني هذا مرتبط مسبقا بحساب Mi آخر.</string>
     <string name="error_hint_noavatar">اختر صورة رمزية أو حمل صورة من هاتفك</string>
     <string name="error_hint_nodata">لا توجد بيانات الآن</string>
     <string name="error_hint_typesupport_emoji">لا يدعم الرموز التعبيرية أو الأحرف الخاصة</string>
     <string name="error_icon_content_description">خطأ</string>
-    <string name="error_invalid_bind_address">عنوان البريد الإلكتروني الذي أدخلتة غير صالح.</string>
     <string name="error_not_support">غير مدعوم</string>
     <string name="error_toast_error">خطأ في النظام، يرجى إعادة المحاولة لاحقا.</string>
     <string name="error_toast_network">يرجى التحقق من اتصال الشبكة</string>
@@ -747,7 +710,6 @@
     <string name="error_toast_serverdes_459">لم ينشئ المستخدم كلمة مرور</string>
     <string name="error_toast_serverdes_500">خطأ في الخادم</string>
     <string name="evening">عصر</string>
-    <string name="exceed_binded_phone_times_notice">تم ربط رقم الهاتف هذا مسبقاً بحساب Mi آخر.</string>
     <string name="exit_game_confirm">تأكيد للإغلاق؟</string>
     <string name="exit_group_chat">الخروج</string>
     <string name="exit_group_chat_desc">هل أنت متأكد أنك تريد ترك العائلة؟ ملاحظة: يستغرق الأمر 24 ساعة للانضمام مرة أخرى بعد ترك العائلة</string>
@@ -764,17 +726,16 @@
     <string name="exo_controls_pause_description">إيقاف مؤقت</string>
     <string name="exo_controls_play_description">تشغيل</string>
     <string name="exo_controls_playback_speed">السرعة</string>
-    <string name="exo_controls_playback_speed_normal">عادية</string>
     <string name="exo_controls_previous_description">السابق</string>
-    <string name="exo_controls_repeat_all_description">تكرار الكل</string>
-    <string name="exo_controls_repeat_off_description">عدم التكرار</string>
-    <string name="exo_controls_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_controls_repeat_all_description">الوضع الحالي: تكرار الكل. تبديل وضع التكرار</string>
+    <string name="exo_controls_repeat_off_description">الوضع الحالي: عدم التكرار. تبديل وضع التكرار</string>
+    <string name="exo_controls_repeat_one_description">الوضع الحالي: التكرار مرة واحدة. تبديل وضع التكرار</string>
     <string name="exo_controls_rewind_description">ترجيع</string>
     <string name="exo_controls_seek_bar_description">مستوى تقدُّم التشغيل</string>
     <string name="exo_controls_settings_description">الإعدادات</string>
     <string name="exo_controls_show">عرض عناصر التحكم بالمشغّل</string>
-    <string name="exo_controls_shuffle_off_description">إيقاف الترتيب العشوائي</string>
-    <string name="exo_controls_shuffle_on_description">تفعيل الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_off_description">تفعيل وضع الترتيب العشوائي</string>
+    <string name="exo_controls_shuffle_on_description">إيقاف وضع الترتيب العشوائي</string>
     <string name="exo_controls_stop_description">إيقاف</string>
     <string name="exo_controls_vr_description">وضع VR</string>
     <string name="exo_download_completed">اكتمل التنزيل</string>
@@ -782,12 +743,17 @@
     <string name="exo_download_downloading">جارٍ التنزيل.</string>
     <string name="exo_download_failed">تعذّر التنزيل</string>
     <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
+    <string name="exo_download_paused">تمّ إيقاف عمليات التنزيل مؤقتًا.</string>
+    <string name="exo_download_paused_for_network">عمليات التنزيل في انتظار الاتصال بالشبكة</string>
+    <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
     <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
     <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
     <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -805,7 +771,6 @@
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="expired">انتهت الصلاحية</string>
     <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
-    <string name="facebook_login_btn_content_description">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="facebook_not_installed">قم بتثبيت الفيسبوك أولاً.</string>
     <string name="fail_to_fetch_payment_page_url">تعذر الحصول على بيانات الدفع</string>
     <string name="fail_to_play">لا يمكن تشغيل أغنية</string>
@@ -965,7 +930,6 @@
     <string name="follow_list_empty">أنت لا تتابع أي شخص حتى الآن</string>
     <string name="follow_room_suc">اتبع غرفة الصوت بنجاح</string>
     <string name="followed">متابع</string>
-    <string name="for_diagnosis_usage_only">تستخدم التسجيلات فقط للتشخيص.</string>
     <string name="forbidden">تمتم ~</string>
     <string name="format_not_support">هذة الصيغة غير مدعومة.</string>
     <string name="format_unsupported_or_corrupted">هذة الصيغة غير مدعومة أو أن الملف تالف</string>
@@ -1021,7 +985,6 @@
     <string name="get_more_favorite_content_after_login">سجل الدخول لاستكشاف المزيد من الأغاني والفيديوهات.</string>
     <string name="get_one_day_vip">لقد حصلت على %d يوم VIP!</string>
     <string name="get_one_hour_vip">لقد حصلت على %d ساعة VIP!</string>
-    <string name="get_phone_verifycode_exceed_limit">تم إرسال الكثير من رموز التحقق إلى هذا الرقم. انتظر 24 ساعة ثم حاول مرة أخرى.</string>
     <string name="get_vip">احصل على عضوية VIP</string>
     <string name="gift">هدايا</string>
     <string name="gift_amount_format">x %d</string>
@@ -1047,7 +1010,6 @@
     <string name="go_agree">موافق</string>
     <string name="gold_center">مركز العملات</string>
     <string name="google_account_login">تسجيل الدخول بإستخدام Google</string>
-    <string name="google_login_btn_content_description">تسجيل الدخول باستخدام Google</string>
     <string name="goto_local_search">البحث في الجهاز</string>
     <string name="goto_online_search">البحث على الانترنت</string>
     <string name="group_del_members">إزالة المستخدمين</string>
@@ -1060,10 +1022,12 @@
     <string name="handle_later">ليس الآن</string>
     <string name="has_to_bottom">إنها النهاية</string>
     <string name="hd_quality_audio">جودة الصوت HD</string>
-    <string name="header_help">المساعدة</string>
     <string name="headset_and_audio_effect_category">سماعات الرأس ومؤثرات الصوت</string>
     <string name="headset_and_audio_effect_summary">سماعات الرأس والمعادل</string>
     <string name="headset_and_audio_effect_title">سماعات الرأس ومؤثرات الصوت</string>
+    <string name="hgm_vip_btn_desc">بدء تجربته مجانا</string>
+    <string name="hgm_vip_high_quality">تنزيلات بجودة عالية</string>
+    <string name="hgm_vip_no_ads">لا إعلانات ولا قيود</string>
     <string name="hide_album">إخفاء غلاف الألبوم</string>
     <string name="hide_lyric">إخفاء الكلمات</string>
     <string name="hifi_quality">جودة Hi-Fi</string>
@@ -1085,6 +1049,7 @@
     <string name="home_tab_local">مكتبتك</string>
     <string name="home_tab_more_music">مزيد من الأغاني</string>
     <string name="home_tab_online">موسيقى على الإنترنت</string>
+    <string name="home_tab_podcast">بودكاست</string>
     <string name="home_tab_recommend">تصفح</string>
     <string name="home_tab_search">بحث</string>
     <string name="home_toast_error">حدث خطأ ما، أعد المحاولة لاحقا.</string>
@@ -1139,7 +1104,6 @@
     <string name="individuation_setting_title">توصيات مخصصة</string>
     <string name="init_expel_failure">فشل تنزيل الميكروفون ، يرجى المحاولة مرة أخرى في وقت لاحق ~</string>
     <string name="input_content_is_empty">لا يمكن أن يكون محتوى الإدخال فارغًا</string>
-    <string name="input_email_address_notice">سيتم استخدام هذا البريد الإلكتروني لتحقق من حسابك</string>
     <string name="input_hint_prefix">أدخل %1$s</string>
     <string name="input_room_name">الرجاء إدخال اسم الغرفة</string>
     <string name="installing_apk">جارٍ التثبيت…</string>
@@ -1279,7 +1243,7 @@
     <string name="listen_anywhere">استمع من أي مكان</string>
     <string name="load_shuffle">جارٍ التحميل…</string>
     <string name="loadercontainer_loading">لحظة من فضلك…</string>
-    <string name="loading">لحضة من فضلك…</string>
+    <string name="loading">لحظة من فضلك…</string>
     <string name="loading_bottom_empty">لا يوجد مزيد من البيانات</string>
     <string name="loading_error">فشل التحميل، انقر لإعادة المحاولة</string>
     <string name="loading_hint">لحظة من فضلك…</string>
@@ -1295,8 +1259,6 @@
     <string name="lock_failure">فشل القفل ، يرجى المحاولة مرة أخرى في وقت لاحق ~~</string>
     <string name="lock_seat">مقاعد قفل</string>
     <string name="login_button_login">تسجيل الدخول</string>
-    <string name="login_by_local_phone_long_text">تسجيل الدخول الان</string>
-    <string name="login_by_local_phone_short_text">تسجيل الدخول</string>
     <string name="login_dialog_agree_privacy">"يرجى قراءة اتفاقية مستخدمين جوجو و سياسة الخصوصية والنقر على أنك قمت بالقراءة "</string>
     <string name="login_dialog_content">مرحبًا ، مرحبًا بك في GoGo Voice Room ، تعال إلى هنا للاستمتاع بالموسيقى مع الأصدقاء. الرجاء تسجيل الدخول قبل الاستخدام</string>
     <string name="login_dialog_privacy_desc">&lt;Data>لقد قرأت ووافقت على &lt;a href=\"%1$s\">GOGO اتفاقية مستخدم&lt;/a> and &lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a>&lt;/Data></string>
@@ -1305,13 +1267,9 @@
     <string name="login_hint_userid">ID اللاعب</string>
     <string name="login_instantly">تسجيل الدخول</string>
     <string name="login_mi_account_and_gain_more_rights">سجل الدخول إلى حساب Mi للحصول على المزيد من الميزات.</string>
-    <string name="login_other">حساب Mi آخر</string>
     <string name="login_out_tip">"Can't sign out for now. You can clear all app data instead."</string>
-    <string name="login_register_by_local_phone_long_text">إنشاء حساب</string>
     <string name="login_toast_noinput">أدخل ID الخاصة بك وكلمة المرور</string>
-    <string name="login_with_sns">طرق أخرى لتسجيل الدخول</string>
     <string name="logintitle_login">تسجيل الدخول</string>
-    <string name="logout_account">تسجيل الخروج</string>
     <string name="logout_confirm">تسجيل الخروج</string>
     <string name="long_press_to_select_lyric">اضغط مطولا لتحديد ملف الكلمات على الجهاز</string>
     <string name="lots_of_songs_for_free">استمع إلى ملايين من الأغاني مجانا</string>
@@ -1488,6 +1446,7 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -1538,6 +1497,8 @@
     <string name="my_playlist_set_to_public">عام</string>
     <string name="nav_app_bar_navigate_up_description">التنقل إلى أعلى</string>
     <string name="nav_app_bar_open_drawer_description">فتح لائحة التنقل</string>
+    <string name="need_to_close">عرض أقل</string>
+    <string name="need_to_show">عرض المزيد</string>
     <string name="net_work_error_leave_room">بسبب الشبكة ، تم قطع اتصالك ، يرجى إعادة الدخول إلى الغرفة ~</string>
     <string name="netdefault_noseat">مواضع الميكروفون مقفلة ، يرجى انتظار الميكروفون</string>
     <string name="netdefault_quick">إرسال بشكل متكرر ، يرجى المحاولة مرة أخرى في وقت لاحق</string>
@@ -1548,10 +1509,8 @@
     <string name="network_disable">لا يمكن الاتصال بالشبكة</string>
     <string name="network_error">فشل التحميل ، يرجى إعادة التحميل</string>
     <string name="network_error_and_retry">تعذر الاتصال، انقر للمحاولة مجدداً</string>
-    <string name="network_error_info">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
     <string name="network_request_error">لا يمكن الاتصال بالشبكة</string>
     <string name="network_settings_error">لا يمكن الاتصال بالشبكة</string>
-    <string name="network_timeout_info">لا يمكن الاتصال بالشبكة. حاول مرة أخرى.</string>
     <string name="network_traffic">استخدام البيانات</string>
     <string name="new_avatar_title_create">اختر صورة</string>
     <string name="new_button_female">أنثى</string>
@@ -1585,7 +1544,6 @@
     <string name="nickname_too_long">لا يمكنك أدخال أكثر من 15 حرفًا</string>
     <string name="night">المساء</string>
     <string name="no">لا</string>
-    <string name="no_account">لم يتم تسجيل الدخول</string>
     <string name="no_album_info">لا توجد معلومات عن الألبوم</string>
     <string name="no_apply">لا تطبيق</string>
     <string name="no_artist_info">لا توجد معلومات عن الفنان</string>
@@ -1691,7 +1649,6 @@
     <string name="open_mic">ميكروفون مفتوح</string>
     <string name="open_online_service">تحتاج إلى تشغيل الخدمات عبر الإنترنت لإستخدام هذه الميزة. تشغيل الآن؟</string>
     <string name="open_service">تشغيل</string>
-    <string name="open_settings">الإعدادات</string>
     <string name="operation_done_close">إغلاق</string>
     <string name="other_login">طرق أخرى لتسجيل الدخول</string>
     <string name="other_song_in_album">أغاني أخرى من هذا الألبوم</string>
@@ -1700,12 +1657,43 @@
     <string name="owner_set_host_for_you">تهانينا ، لقد تم تعيينك كمسؤول بواسطة المالك</string>
     <string name="party">حفلة</string>
     <string name="passport_access_denied">تم رفض الدخول</string>
+    <string name="passport_account_crop_user_avatar">قص الصورة</string>
+    <string name="passport_account_empty_user_name">أدخل اسمك</string>
+    <string name="passport_account_error_all_space_user_name">الاسم لا يمكن ان يكون متكون من رموز المسافة فقط</string>
+    <string name="passport_account_error_invalid_user_name">لا يمكن أن يحتوي الاسم على &lt; أو > أو /</string>
+    <string name="passport_account_error_longer_user_name">لا يمكن أن يتجاوز الاسم %d حرف</string>
+    <string name="passport_account_error_shorter_user_name">يجب أن يحتوي الاسم على %d حروف</string>
+    <string name="passport_account_error_user_name">الاسم المستعار هذا غير صالح. جرب اسم أخر.</string>
+    <string name="passport_account_invalid_user_avatar">هذه الصورة غير صالحة. اختر واحدة أخرى.</string>
     <string name="passport_account_name">"الحساب: %1$s "</string>
+    <string name="passport_account_no_set">لا يوجد</string>
+    <string name="passport_account_none_bind_info">لا يوجد</string>
+    <string name="passport_account_none_user_name">لا يوجد</string>
+    <string name="passport_account_secure_info_pref_title">معلومات الحساب</string>
+    <string name="passport_account_security_info_pref_title">معلومات الحماية</string>
+    <string name="passport_account_user_avatar">صورة الملف الشخصي</string>
+    <string name="passport_account_user_avatar_from_album">المعرض</string>
+    <string name="passport_account_user_avatar_from_camera">الكاميرا</string>
+    <string name="passport_account_user_base_info">المعلومات الأساسية</string>
+    <string name="passport_account_user_details">المعلومات الشخصية</string>
+    <string name="passport_account_user_email">البريد الإلكتروني لاسترداد الحساب</string>
+    <string name="passport_account_user_gender">الجنس</string>
+    <string name="passport_account_user_id">معرف حساب Mi</string>
+    <string name="passport_account_user_name">الاسم المستعار</string>
+    <string name="passport_account_user_name_dialog_title">أدخل الاسم</string>
+    <string name="passport_account_user_phone">رقم هاتف استرداد الحساب</string>
+    <string name="passport_activity_not_found_notice">لا يمكن العثور على التطبيق</string>
+    <string name="passport_agree">أوافق</string>
     <string name="passport_area_code_title">رمز المنطقة</string>
+    <string name="passport_attention">تنبيه</string>
+    <string name="passport_auth_fail_warning">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
+    <string name="passport_back">رجوع</string>
     <string name="passport_bad_authentication">اسم المستخدم أو كلمة المرور غير صحيحة</string>
     <string name="passport_can_not_recevie_verify_code">لم استلم إي رمز؟</string>
+    <string name="passport_change_password">تغيير كلمة المرور</string>
+    <string name="passport_check_security">جارٍ التحقق من مشاكل الحماية…</string>
     <string name="passport_checking_account">جارٍ التحقق من كلمة المرور…</string>
-    <string name="passport_clear_input">Clear entered content</string>
+    <string name="passport_clear_input">مسح المحتوى المدخل</string>
     <string name="passport_copy_link">نسخ URL</string>
     <string name="passport_copy_to_clipboard_successful">تم النسخ بنجاح</string>
     <string name="passport_dialog_captcha_title">الرمز</string>
@@ -1717,16 +1705,14 @@
     <string name="passport_dialog_nick_name_prefix">الاسم المستعار: %s</string>
     <string name="passport_dialog_phone_number_prefix">رقم الهاتف: %s</string>
     <string name="passport_dialog_register_other">لا، سأقوم بإنشاء واحد</string>
-    <string name="passport_email">عنوان البريد الإلكتروني</string>
-    <string name="passport_empty_password">لا يمكن أن تكون كلمة المرور فارغة</string>
+    <string name="passport_doing_query_account">جارٍ التحقق من معلومات الحساب…</string>
     <string name="passport_error_auth_fail">انتهت الجلسة. سجل الدخول مرة أخرى.</string>
     <string name="passport_error_device_id">تعذر الحصول على معرف الجهاز</string>
-    <string name="passport_error_dynamic_token_error">رمز التحقق غير صحيح</string>
-    <string name="passport_error_email">عنوان البريد الإلكتروني الذي ادخلته غير صحيح</string>
-    <string name="passport_error_empty_email">ادخل عنوان البريد الإلكتروني</string>
+    <string name="passport_error_dup_binded_email">عنوان البريد الإلكتروني هذا مرتبط مسبقا بحساب Mi آخر.</string>
     <string name="passport_error_empty_password">ادخل كلمة المرور</string>
     <string name="passport_error_empty_pwd">لا يمكن أن تكون كلمة المرور فارغة</string>
     <string name="passport_error_empty_user_id">ادخل اسم المستخدم</string>
+    <string name="passport_error_invalid_bind_address">عنوان البريد الإلكتروني الذي أدخلتة غير صالح.</string>
     <string name="passport_error_length_limit">النص طويل جدا</string>
     <string name="passport_error_network">تعذر الاتصال بالشبكة</string>
     <string name="passport_error_no_password_user">لم تقم بتعيين كلمة المرور حتى الآن. تسجيل الدخول باستخدام SMS.</string>
@@ -1740,40 +1726,73 @@
     <string name="passport_error_unknow_host_network_error">لا يمكن الاتصال بالشبكة</string>
     <string name="passport_error_unknow_network_error">حدث خطأ في الشبكة</string>
     <string name="passport_error_unknown">خطأ غير معروف</string>
-    <string name="passport_error_user_agreement">وافق على اتفاقية المستخدم أولاً</string>
     <string name="passport_error_user_name">اسم المستخدم الذي أدخلته غير صالح</string>
     <string name="passport_error_user_password">كلمة المرور غير متطابقة</string>
+    <string name="passport_exceed_binded_phone_times_notice">تم ربط رقم الهاتف هذا مسبقا بحساب Mi آخر.</string>
+    <string name="passport_facebook_login_btn_content_description">تسجيل الدخول بالفيسبوك</string>
+    <string name="passport_frequency_try_later">محاولات كثيرة. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="passport_get_login_type_next">التالي</string>
-    <string name="passport_header_back">Back</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">تم إرسال الكثير من رموز التحقق إلى هذا الرقم. انتظر 24 ساعة ثم حاول مرة أخرى.</string>
+    <string name="passport_google_login_btn_content_description">تسجيل الدخول بـ Google</string>
+    <string name="passport_help">المساعدة</string>
+    <string name="passport_i_know">حسنا</string>
     <string name="passport_identification_expired">انتهت صلاحية رمز التحقق، ابدأ من جديد.</string>
     <string name="passport_input_captcha_hint">أدخل الرمز</string>
+    <string name="passport_input_email_address_notice">سيتم استخدام هذا البريد الإلكتروني لتحقق من حسابك</string>
     <string name="passport_input_password_hint">ادخل كلمة المرور</string>
     <string name="passport_input_phone_number_hint">أدخل رقم الهاتف</string>
     <string name="passport_input_verify_code">أدخل رمز التحقق</string>
     <string name="passport_input_voice_captcha_hint">أدخل رمز التحقق الصوتي</string>
     <string name="passport_input_voice_hint">أدخل رمز الصوت</string>
+    <string name="passport_login_by_local_phone_long_text">تسجيل الدخول الان</string>
+    <string name="passport_login_by_local_phone_short_text">تسجيل الدخول</string>
+    <string name="passport_login_other">حساب Mi آخر</string>
+    <string name="passport_login_register_by_local_phone_long_text">إنشاء حساب</string>
+    <string name="passport_login_with_sns">طرق أخرى لتسجيل الدخول</string>
+    <string name="passport_logout_account">تسجيل الخروج</string>
     <string name="passport_mi_account_first_title">سيتم إنشاء حساب تلقائي في المرة الأولى التي تستخدم فيها رقم هاتفك.</string>
     <string name="passport_mi_account_title">تسجيل الدخول باستخدام حساب Mi</string>
-    <string name="passport_network_error">حدث خطأ في الشبكة.</string>
+    <string name="passport_network_error">حدث خطأ ما. تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
     <string name="passport_network_error_hint">يرجى التحقق من عنوان URL والمحاولة مرة أخرى، أو نسخ وفتح URL في المتصفح.</string>
+    <string name="passport_network_timeout">لا يمكن الاتصال بالشبكة. حاول مجددا.</string>
     <string name="passport_next">التالي</string>
+    <string name="passport_no_account">لم تسجل الدخول</string>
+    <string name="passport_open_settings">الإعدادات</string>
     <string name="passport_page_load_failed">لا يمكن فتح الصفحة</string>
     <string name="passport_password_login_btn">تسجيل الدخول</string>
-    <string name="passport_password_not_show">"Don't show password"</string>
-    <string name="passport_password_req_notice">كلمة المرور يجب أن تكون ۸-۱٦ حرفاً وتحتوي ۲ على الأقل من مايلي: أرقام، حروف، ورموز خاصة (مثل: 123abc@#, or 123abc, or abc@#).</string>
-    <string name="passport_password_show">Show password</string>
+    <string name="passport_password_not_show">أخفاء كلمة المرور</string>
+    <string name="passport_password_show">إظهار كلمة المرور</string>
+    <string name="passport_phone_auto_login_register_with_local_number">إنشاء حساب</string>
+    <string name="passport_photo_picker_not_found">لا توجد صور متاحة.</string>
+    <string name="passport_qq_login_btn_content_description">تسجيل الدخول بـ QQ</string>
     <string name="passport_querying_phone_info">جارٍ طلب معلومات الحساب…</string>
     <string name="passport_quick_login_title">ادخل كلمة المرور</string>
     <string name="passport_reging">جارٍ إنشاء الحساب…</string>
+    <string name="passport_register_by_local_phone_long_text">إنشاء حساب</string>
+    <string name="passport_register_by_local_phone_short_text">إنشاء حساب</string>
     <string name="passport_register_restricted">تم ربط الكثير من الحسابات بهذا الرقم، حاول استخدام رقم آخر.</string>
     <string name="passport_relogin_notice">تحتاج إلى تسجيل الدخول مرة أخرى</string>
+    <string name="passport_request_agree">سماح</string>
+    <string name="passport_request_camera_permission_message">نحن نحمي معلوماتك الشخصية وفقًا للقوانين واللوائح ذات الصلة. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذن التالي:&lt;br>&lt;br>&lt;b>استخدام الكاميرا (لتعيين صورة الملف الشخصي)&lt;/b>&lt;br>&lt;br>إذا كنت لا توافق على منح الأذن المذكور أعلاه، فلن تتمكن من استخدام هذا التطبيق؛ ومع ذلك يمكنك استخدام الوظائف الرئيسية. يمكنك تقييد أو منح الأذونات من الإعدادات.</string>
+    <string name="passport_request_cancel">إلغاء</string>
+    <string name="passport_request_error_invalid_token">تعذر التحقق</string>
+    <string name="passport_request_error_network">حدث خطأ ما. تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
+    <string name="passport_request_error_unknown">حدث خطأ ما في النظام، يرجى الرجوع والمحاولة مجددا.</string>
+    <string name="passport_request_gallery_permission_message">اسمح بالوصول إلى المعرض:&lt;br />لتعيين صورة الملف الشخصي</string>
+    <string name="passport_resend_email_reach_limit_message">لقد قمت بطلب الكثير من رسائل التحقق إلى البريد الإلكتروني. تأكد من أن رسالة التحقق ليست في مجلد البريد المزعج.</string>
+    <string name="passport_resend_email_reach_limit_title">محاولات كثيرة جدا</string>
     <string name="passport_resend_ticket">إعادة إرسال</string>
     <string name="passport_retry">حاول مجدداً</string>
+    <string name="passport_same_new_and_old_pwd">لا يمكن أن تكون نفس كلمة المرور الحالية</string>
     <string name="passport_send_sms_to">تم إرسال الرمز إلى %1$s</string>
     <string name="passport_send_too_many_code">تم إرسال الكثير من رموز التحقق إلى هذا الرقم. انتظر ٢٤ ساعة ثم حاول مرة أخرى.</string>
     <string name="passport_sending_vcode">جار إرسال الرمز…</string>
-    <string name="passport_set_password">تعيين كلمة المرور</string>
+    <string name="passport_service_error">خطأ في الخادم</string>
     <string name="passport_set_password_no_phone_msg">قم بإضافة رقم هاتفك لحماية حسابك.</string>
+    <string name="passport_skip_query_account">تخطي</string>
+    <string name="passport_sns_access_token_expired_warning">انتهت الصلاحية. أعد تسجيل الدخول للاتصال بهذا الحساب.</string>
+    <string name="passport_sns_bind_limit">محاولات كثيرة جداً. حاول استخدام طريقة أخرى لتسجيل الدخول.</string>
+    <string name="passport_system_error">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="passport_talkback_image_captcha">رمز التحقق من الصورة</string>
     <string name="passport_talkback_switch_image_captcha">التبديل إلى رمز التحقق من الصورة</string>
     <string name="passport_talkback_switch_voice_captcha">التبديل إلى رمز التحقق الصوتي</string>
@@ -1782,11 +1801,26 @@
     <string name="passport_to_forget_password">نسيت كلمة المرور؟</string>
     <string name="passport_to_password_login">تسجيل الدخول باستخدام كلمة المرور</string>
     <string name="passport_to_verify_code_login">تسجيل الدخول عبر SMS</string>
-    <string name="passport_unknow_host_network_error">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
+    <string name="passport_unknown_error">خطأ غير معروف</string>
+    <string name="passport_unknown_host_network_error">تحقق من إعدادات الشبكة ثم حاول مجددا</string>
+    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>لقد قرأت وأوافق على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> و&lt;a href=%3$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا موبايل&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لحساب eSurfing .&lt;/a>&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وكذلك &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
+    <string name="passport_user_agreement_hint_default">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_first_login">سيتم إنشاء حساب تلقائي في المرة الأولى التي تستخدم فيها رقم هاتفك.</string>
+    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا موبايل.&lt;/a>&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi، وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لحساب eSurfing&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
+    <string name="passport_user_avatar_update_title">تغيير صورة الملف الشخصي</string>
+    <string name="passport_user_avatar_uploading">لحظة من فضلك…</string>
     <string name="passport_user_id_hint">البريد الإلكتروني/رقم الهاتف/معرف حساب Mi</string>
-    <string name="passport_user_id_intro">أدخل كلمة مرور %1$s</string>
+    <string name="passport_user_name_phone_number">رقم الهاتف</string>
     <string name="passport_user_password_hint">كلمة المرور</string>
+    <string name="passport_vcode_what_app_send_prompt">سيتم إرسال رمز تحقق الواتساب إلى رقم هاتف استرداد حسابك (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">قم بتثبيت تطبيق WeChat أولاً</string>
+    <string name="passport_weibo_login_btn_content_description">تسجيل الدخول بـ Weibo</string>
+    <string name="passport_weixin_login_btn_content_description">تسجيل الدخول بـ WeChat</string>
     <string name="passport_wrong_captcha">الرمز الذي أدخلته غير صحيح</string>
     <string name="passport_wrong_phone_number_format">تنسيق رقم الهاتف الذي أدخلته غير صالح</string>
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
@@ -1822,8 +1856,6 @@
     <string name="permission_declaration_title">السماح بالدخول</string>
     <string name="permission_open">السماح</string>
     <string name="permission_required">الأذونات مطلوبة</string>
-    <string name="phone_auto_login_register_with_local_number">إنشاء حساب</string>
-    <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="pick_favorite_song">المفضلة</string>
     <string name="pick_local_song">الأغاني المحلية</string>
     <string name="pick_recent_song">الحديثة</string>
@@ -1868,6 +1900,7 @@
     <string name="privacy_dialog_desc">إمرحبًا ، مرحبًا بك في GoGo Voice Room ، تعال إلى هنا للاستمتاع بالموسيقى مع الأصدقاء. الرجاء الموافقة على &lt;a href=\"%1$s\">اتفاقية مستخدم GoGo&lt;/a> و&lt;a href=\"%2$s\">سياسة الخصوصية&lt;/a> قبل الاستخدام&lt;/Data></string>
     <string name="privacy_dialog_disapproval">رفض</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="privacy_request_desc">"&lt;Data>يحتاج موسيقى Mi إلى جمع البيانات الشخصية الضرورية لتزويدك بخدمات البث عبر الإنترنت. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>. يمكنك سحب الموافقة على سياسة خصوصية لموسيقى Mi في أي وقت من الإعدادات.
 يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام موسيقى Mi.
 أذا كنت لا توافق على الخدمات المذكورة أعلاه. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data>"</string>
@@ -1877,11 +1910,8 @@
     <string name="privacy_request_subtitle_offline">مرحبًا بك في موسيقى Mi! يعمل هذا التطبيق كمشغل موسيقي على جهازك.</string>
     <string name="privacy_request_title">الأحكام والشروط</string>
     <string name="pro_member">اشتراك ذهبي</string>
-    <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="project_device">هاتف Mi</string>
     <string name="prompt_grant_write_settings_permission">السماح بتغيير إعدادات النظام</string>
-    <string name="protocal_dialog_confirm">أوافق</string>
-    <string name="protocal_dialog_title">تنبيه</string>
     <string name="publish">أداة</string>
     <string name="pulluprefreshrecyclerview_loading_error">تعذر التحميل</string>
     <string name="pulluprefreshrecyclerview_loading_finished">تم التحميل بنجاح</string>
@@ -1889,7 +1919,6 @@
     <string name="purchase">الشراء</string>
     <string name="push_family_link">اذهب>></string>
     <string name="push_task_finish_title">تمت المهمة</string>
-    <string name="qq_login_btn_content_description">تسجيل الدخول باستخدام QQ</string>
     <string name="queue_is_empty">قائمة الاستماع فارغة.</string>
     <string name="raised_room">طرد</string>
     <string name="rank_format">Lv%1$s</string>
@@ -1914,8 +1943,6 @@
     <string name="refresh_error">تعذر التحديث، يرجى إعادة المحاولة لاحقا.</string>
     <string name="refresh_success">تم التحديث بنجاح</string>
     <string name="region">البلد:</string>
-    <string name="register_by_local_phone_long_text">إنشاء حساب</string>
-    <string name="register_by_local_phone_short_text">إنشاء حساب</string>
     <string name="registered_mailhint2">الرجاء إدخال عنوان بريدك الإلكتروني</string>
     <string name="registered_passwordhint1">الرجاء إدخال كلمة السر</string>
     <string name="registered_wrong_mailhint">تنسيق البريد الإلكتروني غير صحيح. الرجاء الدخول مرة أخرى.</string>
@@ -1939,15 +1966,8 @@
     <string name="report_successful">تم تقديم التقرير وسنتعامل معه في أسرع وقت ممكن</string>
     <string name="report_title">وصف البلاغ</string>
     <string name="report_title_desc">(مطلوب)</string>
-    <string name="request_agree">السماح</string>
-    <string name="request_camera_permission_message">نحن نحمي معلوماتك الشخصية وفقًا للقوانين واللوائح ذات الصلة. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذن التالي:&lt;br>&lt;br>&lt;b>استخدام الكاميرا (لتعيين صورة الملف الشخصي)&lt;/b>&lt;br>&lt;br>إذا كنت لا توافق على منح الأذن المذكور أعلاه، فلن تتمكن من استخدام هذا التطبيق؛ ومع ذلك يمكنك استخدام الوظائف الرئيسية. يمكنك تقييد أو منح الأذونات من الإعدادات.</string>
-    <string name="request_cancel">إلغاء</string>
-    <string name="request_error_invalid_token">تعذر التحقق</string>
-    <string name="request_error_network">حدث خطأ ما،تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
-    <string name="request_error_unknown">حدث خطأ ما في النظام، يرجى الرجوع والمحاولة مجددا.</string>
     <string name="request_fail">خطأ في طلب الخادم، يرجى إعادة المحاولة.</string>
     <string name="request_failure">الطلب فشل</string>
-    <string name="request_gallery_permission_message">اسمح بالوصول إلى المعرض:&lt;br />لتعيين صورة الملف الشخصي</string>
     <string name="request_overlay_permission_desc">اسمح لموسيقى Mi في إظهار النوافذ المنبثقة لتتمكن من استخدام هذه الخدمة.</string>
     <string name="request_permission_record_audio">تقدم بطلب للحصول على إذن التسجيل</string>
     <string name="request_permission_write_storage">تقدم بطلب للحصول على إذن تخزين الهاتف</string>
@@ -1956,10 +1976,6 @@
     <string name="request_share_info">لحظة من فضلك…</string>
     <string name="request_subscription_status">لحظة من فضلك…</string>
     <string name="request_window_overlay_content">بعد فتح إذن النافذة العائمة ، يمكن تصغير غرفة الدردشة</string>
-    <string name="resend_active_email">إعادة إرسال</string>
-    <string name="resend_email_reach_limit_message">لقد قمت بطلب الكثير من رسائل التحقق إلى البريد الإلكتروني. تأكد من أن رسالة التحقق ليست في مجلد البريد المزعج.</string>
-    <string name="resend_email_reach_limit_title">محاولات كثيرة جدا</string>
-    <string name="resend_email_success">تم الإرسال بنجاح</string>
     <string name="reset_locked">الغاء القفل</string>
     <string name="restart_immediate">إعادة تشغيل</string>
     <string name="retry">حاول مجددا</string>
@@ -2039,7 +2055,6 @@
     <string name="s5">إنشاء حدث تقويم</string>
     <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="s7">إعلان تجريبي</string>
-    <string name="same_new_and_old_pwd">لا يمكن أن تكون نفس كلمة المرور الحالية</string>
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
@@ -2070,6 +2085,7 @@
     <string name="search_toast_reul">عذرا ، لم يتم العثور على محتوى ذي صلة</string>
     <string name="searching">مطابقة...</string>
     <string name="seat_full">لا توجد مواقف ميكروفون مجانية</string>
+    <string name="see_more_videos">مزيد من الفيديوهات</string>
     <string name="select">تحديد</string>
     <string name="select_all">تحديد الكل</string>
     <string name="select_clip_desc">حدد مقطع من الأغنية</string>
@@ -2086,12 +2102,9 @@
     <string name="select_three_languages">يمكنك تحديد مايصل إلى %d لغات</string>
     <string name="selected_count">%1$d من %2$d محدد</string>
     <string name="send">إرسال</string>
-    <string name="send_diagnosis_log">إرسال سجلات</string>
-    <string name="send_email_activate_message">تم إرسال رسالة التحقق بنجاح</string>
     <string name="send_to_title">إرسال إلى (%1$s)</string>
     <string name="server_error">أرجع الخادم خطأ ~</string>
     <string name="service_and_settings">الخدمة والإعدادات</string>
-    <string name="service_error">خطأ في الخادم</string>
     <string name="set_as_alarm_clock_ringtone">منبه</string>
     <string name="set_as_ring">تعيين كنغمة رنين</string>
     <string name="set_online_home_subtitle">فتح اقتراحات وتوصيات الأغاني عند تشغيل التطبيق</string>
@@ -2124,6 +2137,8 @@
     <string name="share_text">! تعال و انضم إلينا.GoGo نلعب في</string>
     <string name="share_text_list">"قائمة التشغيل من موسيقى Mi: "</string>
     <string name="share_text_song">"أغنية في موسيقى Mi: "</string>
+    <string name="shortcut_get">عرض</string>
+    <string name="shortcut_success">تم الإنشاء بنجاح. عرض في الشاشة الرئيسية.</string>
     <string name="show_float_first_hint">تصغير المشغل</string>
     <string name="show_more">عرض %s أكثر</string>
     <string name="shuffle_music">تشغيل عشوائي</string>
@@ -2139,18 +2154,15 @@
     <string name="signout_popup_title_nopassword">تنبيه</string>
     <string name="similar_albums">البومات ذات صلة</string>
     <string name="similar_playlists">قوائم ذات صلة</string>
+    <string name="similar_podcasts">عروض بودكاست مشابهة</string>
     <string name="similar_songs">أغاني مماثلة</string>
     <string name="similar_videos">فيديوهات مشابهة</string>
     <string name="skip">تخطي</string>
-    <string name="skip_query_account">تخطي</string>
     <string name="sleep_mode">مؤقت السكون</string>
     <string name="sleep_mode_canceled">تم إيقاف وضع السكون</string>
     <string name="sleep_mode_summary">إيقاف المشغل بعد وقت معين</string>
     <string name="sleep_mode_title">مؤقت السكون</string>
     <string name="sliding_pro_center">hungama ذهبي</string>
-    <string name="sns_access_token_expired_warning">انتهت الصلاحية. أعد تسجيل الدخول للاتصال بهذا الحساب.</string>
-    <string name="sns_bind_limit">محاولات كثيرة جداً. حاول استخدام طريقة أخرى لتسجيل الدخول.</string>
-    <string name="sns_sign_in">طرق أخرى لتسجيل الدخول</string>
     <string name="song_already_in_playlist">هذه الأغنية موجودة مسبقا</string>
     <string name="song_exist_in_playlist">هذه الأغنية موجودة مسبقا</string>
     <string name="song_info">تفاصيل الأغنية</string>
@@ -2172,6 +2184,7 @@
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">جارٍ إعداد التشغيل…</string>
     <string name="start_update">جارٍ تثبيت اصدار جديد…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_internal">التخزين الداخلي</string>
     <string name="storage_sd_card">بطاقة SD</string>
@@ -2185,8 +2198,8 @@
     <string name="sunday_shortest">الأحد</string>
     <string name="supplementary_songs">أغاني إضافية</string>
     <string name="sure">يتأكد</string>
+    <string name="swipe_for_more">مرر لأعلى لمزيد من الفيديوهات</string>
     <string name="switch_success">تم التبديل بنجاح</string>
-    <string name="system_error_info">النظام مشغول. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="tab_album">الألبومات</string>
     <string name="tab_album_list">الألبومات</string>
     <string name="tab_artist">الفنانين</string>
@@ -2239,7 +2252,6 @@
     <string name="task_title">مركز المهام</string>
     <string name="taskcenter_signin">تسجيل الدخول</string>
     <string name="telephone_permissions_for_push">أذونات الاتصال: لتقديم خدمات إشعارات الدفع من Google</string>
-    <string name="temporary_not_available">لم تتوفر هذه الميزة بعد</string>
     <string name="terms_of_service">شروط الخدمة</string>
     <string name="test_voice_queue">قائمة انتظار الاختبار</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
@@ -2361,7 +2373,6 @@
     <string name="unknown">غير معروف</string>
     <string name="unknown_album_name">ألبوم غير معروف</string>
     <string name="unknown_artist_name">فنان غير معروف</string>
-    <string name="unknown_error_info">خطأ غير معروف</string>
     <string name="unlimited_downloads">تحميلات غير محدودة</string>
     <string name="unlimited_offline_songs">أغاني دون إنترنت غير محدودة</string>
     <string name="unlimited_skips">تخطي الخطوات غير ضرورية</string>
@@ -2373,8 +2384,6 @@
     <string name="unrecharge">لم تقم بإعادة الشحن بعد</string>
     <string name="unsupport_msg">&lt;font color=\"%1$s\">&lt;a href=\"\">قم بتحديث التطبيق لقراءة هذا النوع من الرسائل&lt;/a>&lt;/Data>.</string>
     <string name="update_button">التحديث</string>
-    <string name="update_email_address_dialog_message">تحتاج إلى تأكيد هويتك قبل التمكن من تحديث البريد الإلكتروني لاسترداد الحساب.</string>
-    <string name="update_email_address_dialog_title">تحديث البريد الإلكتروني لاسترداد الحساب</string>
     <string name="update_no_gp">Google playرجاء تثبيت</string>
     <string name="update_note">يرجى المحاولة مرة أخرى بعد التحديث</string>
     <string name="update_now">التحديث الآن</string>
@@ -2391,22 +2400,11 @@
     <string name="upload_playlist_to_hungama_toast">سيتم مزامنة الأغاني عبر الإنترنت إلى hungama</string>
     <string name="user_account_cancel_toast">تم حذف هذا الحساب</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
-    <string name="user_agreement_hint_3rd_app">&lt;Data>لقد قرأت وأوافق على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a> و&lt;a href=%3$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا موبايل&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%5$s>أحكام وشروط خدمات التحقق لحساب eSurfing .&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و&lt;a href=%2$s>سياسة الخصوصية&lt;/a>؛ و&lt;a href=%3$s>اتفاقية مستخدم &lt;/a> و&lt;a href=%4$s>سياسة خصوصية&lt;/a> حساب Mi؛ وكذلك &lt;a href=%5$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_default">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi.&lt;/Data></string>
-    <string name="user_agreement_hint_first_login">سيتم إنشاء حساب تلقائي في المرة الأولى التي تستخدم فيها رقم هاتفك.</string>
-    <string name="user_agreement_hint_with_mobile">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا موبايل.&lt;/a>&lt;/Data></string>
-    <string name="user_agreement_hint_with_telecom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و&lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi، وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لحساب eSurfing&lt;/a>.&lt;/Data></string>
-    <string name="user_agreement_hint_with_unicom">&lt;Data>لقد قرأت ووافقت على &lt;a href=%1$s>اتفاقية مستخدم&lt;/a> و &lt;a href=%2$s>سياسة خصوصية&lt;/a> حساب Mi؛ وايضا &lt;a href=%3$s>أحكام وشروط خدمات التحقق لتشاينا يونيكوم.&lt;/a>&lt;/Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="user_already_seated">أنت بالفعل على الميكروفون ، هذه العملية غير صالحة ~</string>
-    <string name="user_avatar_update_title">تغيير صورة الملف الشخصي</string>
-    <string name="user_avatar_uploading">لحظة من فضلك…</string>
     <string name="user_experience_program_open">بسبب قيود حقوق النشر، يجب عليك أولاً التسجيل في برنامج تجربة المستخدم لتتمكن من تشغيل الأغاني التي تم تنزيلها. يمكنك يمكنك القيام بذلك من الإعدادات > كلمات المرور والحماية > الخصوصية > الانضمام إلى برنامج تجربة المستخدم.</string>
     <string name="user_followtoast">تم المتابعة</string>
     <string name="user_followtoast_fail">تعذر المتابعة</string>
-    <string name="user_name_phone_number">رقم الهاتف</string>
     <string name="user_playlist_plaza">قوائم التشغيل</string>
     <string name="user_privacy_dialog_negative_text">إلغاء</string>
     <string name="user_privacy_dialog_positive_count_down_text">سحب (%s ث)</string>
@@ -2544,8 +2542,6 @@
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
-    <string name="weibo_login_btn_content_description">تسجيل الدخول باستخدام Weibo</string>
-    <string name="weixin_login_btn_content_description">تسجيل الدخول باستخدام WeChat</string>
     <string name="welcome_to_entertainment">اكتشف ميزات الترفيه الجديدة لألعاب الموسيقى والمزيد!</string>
     <string name="whats_app">واتساب</string>
     <string name="wifi_required_body" formatted="false">"اتصل بشبكة Wi-Fi لإكمال تنزيل %s. 
@@ -2570,6 +2566,7 @@
     <string name="you">أنت</string>
     <string name="you_can_switch_mode_in_settings">يمكنك التبديل بين الأوضاع من الإعدادات</string>
     <string name="you_may_like">قد يعجبك أيضاً</string>
+    <string name="you_might_like_it">قد يعجبك أيضا</string>
     <string name="youtube_download_canl">إلغاء</string>
     <string name="youtube_download_fail_net">تعذر الاتصال بالشبكة. تحقق من الإعدادات وحاول مجددا.</string>
     <string name="youtube_download_fail_source">حدث خطأ ما، انتظر دقيقة أو دقيقتين ثم حاول مرة أخرى.</string>
@@ -2582,4 +2579,5 @@
     <string name="youtube_play_history">سجل الأغاني</string>
     <string name="youtube_share_guide_tip">يمكنك الآن مشاركة الفيديوهات مع أصدقائك</string>
     <string name="youtube_tab_explore">اكتشف</string>
+    <string name="youtube_tab_playlist">قوائم التشغيل</string>
 </resources>

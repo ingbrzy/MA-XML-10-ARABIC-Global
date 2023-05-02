@@ -82,32 +82,14 @@
     <string name="backup_hint_pad">لا تقم بإعادة تشغيل الجهاز أو إيقاف تشغيله</string>
     <string name="backup_is_running">النسخ الاحتياطي للجهاز</string>
     <string name="backup_new">جديد:</string>
+    <string name="backup_notice_content">لن يتم تشفير النسخ الاحتياطية، مما يعني أنه يمكن لتطبيقات الجهات الخارجية الوصول إلى هذه النسخه أو معالجتها. يمكن أن يؤدي إيقاف تشغيل التشفير أيضا إلى حدوث مخاطر أمنية إضافية. تأكد من تخزين العناصر التي تم نسخها احتياطيا في بيئة محمية جيدا.</string>
+    <string name="backup_notice_title">تنبيه</string>
     <string name="backup_progress">جارٍ النسخ الاحتياطي…</string>
     <string name="backup_report">عرض التفاصيل</string>
     <string name="backup_security_tips_message">بعض التطبيقات قد لا يمكن نسخها احتياطيا أو استعادتها.</string>
     <string name="backup_security_tips_title">قد لا يعمل النسخ الاحتياطي</string>
     <string name="backup_update">تحديث</string>
     <string name="batch_delete_backup_confirm">حذف النسخ الاحتياطية المحددة؟</string>
-    <string name="broken_screen_rescue_service">النسخ الاحتياطي عند تلف الشاشة</string>
-    <string name="broken_screen_rescue_service_content">تسمح لك هذه الميزة بنسخ العناصر احتياطيا عند تلف شاشتك أو عدم استجابة الجهاز باستخدام كبل USB. يجب تشغيل هذه الميزة مسبقا من قبل أن تتلف الشاشة (أي بينما شاشتك تعمل بشكل طبيعي)</string>
-    <string name="broken_screen_rescue_service_disable">إيقاف تشغيل النسخ الاحتياطي عند تلف الشاشة</string>
-    <string name="broken_screen_rescue_service_enable">تشغيل النسخ الاحتياطي عند تلف الشاشة</string>
-    <string name="broken_screen_rescue_service_learn_subcontent1">اطلب من أي شخص من جهات اتصالك بإرسال رسالة نصية لجهازك بالتنسيق التالي مع استبدال الأحرف بقفل شاشتك: *#*#قفل الشاشة#*#*.</string>
-    <string name="broken_screen_rescue_service_learn_subcontent2">بعد إرسال الرسالة القصيرة، قم بتوصيل هذا الجهاز بالكمبيوتر باستخدام كبل USB لبدء النسخ الاحتياطي.</string>
-    <string name="broken_screen_rescue_service_learn_subtitle1">تفعيل هذه الخدمة</string>
-    <string name="broken_screen_rescue_service_learn_subtitle2">نسخ العناصر احتياطيا</string>
-    <string name="broken_screen_rescue_service_learn_title">كيفية استخدام هذه الميزة</string>
-    <string name="broken_screen_rescue_service_tips_1">%1$d. إذا كان قفل الشاشة هو %2$d، فمحتوى الرسالة يجب أن يبدو كما يلي: *#*#%3$d#*#*. إذا كنت تستخدم كلمة مرور تحتوي على أحرف وأرقام معا، فاطلب من الشخص الآخر تضمين كل من الأحرف والأرقام في الرسالة النصية.</string>
-    <string name="broken_screen_rescue_service_tips_2">%1$d. إذا كنت تستخدم النقش كقفل للشاشة، فيمكن التعبير عنه باستخدام الأرقام في الرسالة النصية. تعتبر أول نقطة موجودة في الزاوية اليسرى العلوية للنقش هي الرقم %2$d، ثم تستمر الأرقام التالية بالتسلسل من اليسار إلى اليمين، سطر بسطر، وتنتهي بالرقم %3$d والذي يعبر عن آخر نقطة في الزاوية السفلية للنقش.</string>
-    <string name="broken_screen_rescue_service_tips_3">%1$d. إذا كنت لا تستخدم أي قفل شاشة، فاستخدم عبارة \"nopassword\" بدلاً من الأحرف التي تمثل قفل الشاشة.</string>
-    <string name="broken_screen_rescue_service_tips_4">%1$d. لديك فقط %2$d محاولة لتفعيل هذه الميزة. تأكد من صحة محتوى الرسالة النصية وأن الشخص الآخر موجود في قائمة جهات اتصالك لتنجح العملية.</string>
-    <string name="broken_screen_rescue_service_tips_5">%1$d. نوصي بتفعيل هذه الميزة في وجود موظفي دعم العملاء لدينا.</string>
-    <string name="broken_screen_rescue_service_tips_6">%1$d. إذا كنت تواجه مشكلة في نسخ العناصر احتياطيا إلى جهاز الكمبيوتر، فراجع وثائق التعليمات للحصول على حلول ممكنة.</string>
-    <string name="broken_screen_rescue_service_tips_title">نصائح</string>
-    <string name="broken_screen_rescue_service_turn_off">إيقاف تشغيل الميزة</string>
-    <string name="broken_screen_rescue_service_turn_off_confirm">هل ترغب في إيقاف تشغيل النسخ الاحتياطي عند تلف الشاشة الآن؟</string>
-    <string name="broken_screen_rescue_service_turn_on">تشغيل الميزة</string>
-    <string name="broken_screen_rescue_service_turn_on_confirm">هل ترغب في تشغيل النسخ الاحتياطي عند تلف الشاشة الآن؟</string>
     <string name="btn_got_it">فهمت</string>
     <string name="button_backup">نسخ احتياطي</string>
     <string name="button_cancel">إلغاء</string>
@@ -196,6 +178,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_backup_password_change_machine_tips">لا يمكنك نقل النُسخ الاحتياطية المحمية بكلمة مرور. قم بتعطيل كلمة المرور قبل استخدام ناقل Mi.</string>
     <string name="dialog_backup_password_restore_tips">لا يمكن استعادة العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
     <string name="dialog_backup_password_to_settings">الإعدادات</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">غير مشفر</string>
     <string name="disable_encrypt_title">إيقاف التشفير</string>
@@ -355,6 +338,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="import_data_from_icloud">استيراد البيانات من iCloud</string>
     <string name="import_from_xiaomi_account_hint2">إذا كان لديك نسخة احتياطية مسبقة. المس التالي.</string>
     <string name="import_from_xiaomi_account_hint_title">استخدم Mi Talk لنسخ جهات الاتصال احتياطيًا عبر الأجهزة.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
     <string name="lack_perm_msg">يحتاج ناقل Mi الأذونات التالية: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">يتطلب أذونات</string>
@@ -1045,8 +1029,11 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
     <string name="wifi_title">إعدادات Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sبايت</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
     <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sكيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$sميجابايت</string>
     <string name="xiaomi_router">جهاز توجيه Mi</string>
     <string name="xiaomi_router_location">جهاز توجيه Mi%s</string>
     <string name="xiaomi_update_dialog_message">"تقديم حجم النسخة: %1$s

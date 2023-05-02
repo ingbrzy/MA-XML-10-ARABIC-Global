@@ -72,22 +72,6 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
-    <plurals name="announce_for_drag">
-        <item quantity="other">سحب %1$d عنصر</item>
-        <item quantity="zero">سحب %1$d عنصر</item>
-        <item quantity="one">سحب %1$d عنصر</item>
-        <item quantity="two">سحب %1$d عناصر</item>
-        <item quantity="few">سحب %1$d عناصر</item>
-        <item quantity="many">سحب %1$d عنصر</item>
-    </plurals>
-    <plurals name="announce_for_unread">
-        <item quantity="other">%2$s غير مقروء من %1$s</item>
-        <item quantity="zero">%2$s غير مقروء من %1$s</item>
-        <item quantity="one">%2$s غير مقروء من %1$s</item>
-        <item quantity="two">%2$s غير مقروء من %1$s</item>
-        <item quantity="few">%2$s غير مقروء من %1$s</item>
-        <item quantity="many">%2$s غير مقروء من %1$s</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -144,14 +128,6 @@
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d إشعار جديد</item>
-        <item quantity="zero">%d إشعار جديد</item>
-        <item quantity="one">إشعار جديد واحد (%d)</item>
-        <item quantity="two">إشعاران جديدان (%d)</item>
-        <item quantity="few">%d إشعارات جديدة</item>
-        <item quantity="many">%d إشعارًا جديدًا</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>
         <item quantity="zero">منذ %d دق</item>
@@ -159,45 +135,5 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
-    </plurals>
-    <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
-        <item quantity="zero">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
-        <item quantity="one">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
-        <item quantity="two">هل ترغب في إزالة %1$d عناصر من الشاشة الرئيسية؟</item>
-        <item quantity="few">هل ترغب في إزالة %1$d عناصر من الشاشة الرئيسية؟</item>
-        <item quantity="many">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
-    </plurals>
-    <plurals name="scroll_tip_format_when_announce_accessibility">
-        <item quantity="other">الصفحة %1$d، %2$d تطبيق.</item>
-        <item quantity="zero">الصفحة %1$d، %2$d تطبيق.</item>
-        <item quantity="one">الصفحة %1$d، %2$d تطبيق.</item>
-        <item quantity="two">الصفحة %1$d، %2$d تطبيقات.</item>
-        <item quantity="few">الصفحة %1$d، %2$d تطبيقات.</item>
-        <item quantity="many">الصفحة %1$d، %2$d تطبيق.</item>
-    </plurals>
-    <plurals name="uninstall_dialog_title_multi_format">
-        <item quantity="other">إلغاء تثبيت %1$d تطبيق؟</item>
-        <item quantity="zero">إلغاء تثبيت %1$d تطبيق؟</item>
-        <item quantity="one">إلغاء تثبيت %1$d تطبيق؟</item>
-        <item quantity="two">إلغاء تثبيت %1$d تطبيقات؟</item>
-        <item quantity="few">إلغاء تثبيت %1$d تطبيقات؟</item>
-        <item quantity="many">إلغاء تثبيت %1$d تطبيق؟</item>
-    </plurals>
-    <plurals name="uninstall_result_multi_failed">
-        <item quantity="other">لا يمكن إلغاء تثبيت %1$d تطبيق</item>
-        <item quantity="zero">لا يمكن إلغاء تثبيت %1$d تطبيق</item>
-        <item quantity="one">لا يمكن إلغاء تثبيت %1$d تطبيق</item>
-        <item quantity="two">لا يمكن إلغاء تثبيت %1$d تطبيقات</item>
-        <item quantity="few">لا يمكن إلغاء تثبيت %1$d تطبيقات</item>
-        <item quantity="many">لا يمكن إلغاء تثبيت %1$d تطبيق</item>
-    </plurals>
-    <plurals name="uninstall_result_multi_succeeded">
-        <item quantity="other">تم إلغاء تثبيت %1$d تطبيق</item>
-        <item quantity="zero">تم إلغاء تثبيت %1$d تطبيق</item>
-        <item quantity="one">تم إلغاء تثبيت %1$d تطبيق</item>
-        <item quantity="two">تم إلغاء تثبيت %1$d تطبيقات</item>
-        <item quantity="few">تم إلغاء تثبيت %1$d تطبيقات</item>
-        <item quantity="many">تم إلغاء تثبيت %1$d تطبيق</item>
     </plurals>
 </resources>

@@ -42,7 +42,7 @@
     <string name="app_name">الآلة الحاسبة</string>
     <string name="app_notification_info">تعمل الآلة الحاسبة في الخلفية</string>
     <string name="base_rate">سعر الفائدة الأساسي</string>
-    <string name="bmi_error_text">مؤشر كتلة الجسم لا يبدو صحيحا. تأكد من صحة الطول والوزن الذي أدخلته.</string>
+    <string name="bmi_error_text">أدخل معلمات صالحة</string>
     <string name="bmi_label_information">معلومات</string>
     <string name="bmi_label_normal">عادي</string>
     <string name="bmi_label_overweight">وزن زائد</string>
@@ -220,6 +220,7 @@
     <string name="global_search_key_word_figure">أرقام مالية</string>
     <string name="golbal_search_calculator_setting">الآلة الحاسبة؛ إعدادات الآلة حاسبة؛ الإعدادات</string>
     <string name="golbal_search_path_calculator_setting">تطبيقات النظام/الآلة الحاسبة/الإعدادات</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">الطول</string>
     <string name="help_content_desc">المساعدة</string>
@@ -235,6 +236,7 @@
     <string name="install_scanner_to_continued_use">تم إلغاء تثبيت الماسح. هل تريد التثبيت مرة أخرى؟</string>
     <string name="interest_rate_hint">ادخل سعر الفائدة</string>
     <string name="investment_invalid_duration">يجب أن تكون مدة الاستثمار أكبر من صفر</string>
+    <string name="investment_loan_result">التفاصيل</string>
     <string name="investment_type_once">مرة واحدة</string>
     <string name="investment_type_recurring">تكرار</string>
     <string name="item_page_title_investment">حاسبة الاستثمار</string>
@@ -593,7 +595,6 @@
     <string name="tax_result_real_get">بعد الضريبه</string>
     <string name="tax_social_insurance">التأمين الأجتماعي</string>
     <string name="tax_thershold_foreign">%s (الرعايا الأجانب)</string>
-    <string name="tax_thershold_native">%s (البر الرئيسي للصين)</string>
     <string name="tax_thershold_native_new">%s (جديد)</string>
     <string name="tax_thershold_native_new_description">سيتم احتساب الضرائب وفقا لقانون الضرائب الجديد ابتداء من ١ أكتوبر ٢٠١٨</string>
     <string name="tax_threshold">الحد المعفى من الضرائب</string>
@@ -696,6 +697,7 @@
     <string name="unit_data_display_currency_btn">نغولتروم بوتاني</string>
     <string name="unit_data_display_currency_bwp">بولا بوتسوانية</string>
     <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دولار كندي</string>
     <string name="unit_data_display_currency_cdf">فرنك كنغولي</string>
     <string name="unit_data_display_currency_chf">فرنك سويسري</string>
@@ -801,7 +803,7 @@
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">القامة</string>
     <string name="unit_data_display_length_ft">قدم</string>
-    <string name="unit_data_display_length_fur">فيرلونج</string>
+    <string name="unit_data_display_length_fur">فرلنغ</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">بوصة</string>
@@ -1038,12 +1040,15 @@
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s بايت</string>
     <string name="xiaomi_calculator_delete_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إلغاء تثبيته.</string>
     <string name="xiaomi_calculator_delete_title">هل ترغب في إلغاء تثبيت الآلة الحاسبة؟</string>
     <string name="xiaomi_calculator_remove_icon_description">الآلة الحاسبة هي أحدى تطبيقات النظام. لن تتمكن من استخدام المحولات والميزات الاضافية بعد إزالة اختصارة من الشاشة الرئيسية.</string>
     <string name="xiaomi_calculator_remove_icon_title">هل ترغب في إزالة تطبيق \"الآلة الحاسبة\" من الشاشة الرئيسية؟</string>
     <string name="xiaomi_connect_download_manager_fail">تعذر الاتصال بالتنزيلات. تأكد من أن التطبيق يحتوي على جميع الأذونات اللازمة من الإعدادات> التطبيقات المثبتة.</string>
     <string name="xiaomi_external_storage_unavailable">الذاكرة غير متوفرة. تحقق من بطاقة SD.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s كيلوبايت</string>
+    <string name="xiaomi_megabytes_unit">%1$s ميجابايت</string>
     <string name="xiaomi_update_dialog_message">"الإصدار المقدم: %1$s
 الحجم: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"الإصدار المقدم: %1$s

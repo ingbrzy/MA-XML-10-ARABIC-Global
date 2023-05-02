@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">منذ ساعة واحدة</item>
+        <item quantity="zero">منذ ساعة واحدة</item>
+        <item quantity="one">منذ ساعة واحدة</item>
+        <item quantity="two">منذ ساعة واحدة</item>
+        <item quantity="few">منذ ساعة واحدة</item>
+        <item quantity="many">منذ ساعة واحدة</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">في %d دق</item>
+        <item quantity="zero">في %d دق</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دق</item>
+        <item quantity="few">في %d دق</item>
+        <item quantity="many">في %d دق</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">منذ %d دقيقة</item>
+        <item quantity="zero">منذ %d دقيقة</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دقائق</item>
+        <item quantity="few">منذ %d دقائق</item>
+        <item quantity="many">منذ %d دقيقة</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">مناسب لعمر +%1$d</item>
+        <item quantity="zero">مناسب لعمر +%1$d</item>
+        <item quantity="one">مناسب لعمر +%1$d</item>
+        <item quantity="two">مناسب لعمر +%1$d</item>
+        <item quantity="few">مناسب لعمر +%1$d</item>
+        <item quantity="many">مناسب لعمر +%1$d</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">%1$s تنزيل</item>
+        <item quantity="zero">%1$s تنزيل</item>
+        <item quantity="one">%1$s تنزيل</item>
+        <item quantity="two">%1$s تنزيلات</item>
+        <item quantity="few">%1$s تنزيلات</item>
+        <item quantity="many">%1$s تنزيل</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s طلب مسبق</item>
+        <item quantity="zero">%1$s طلب مسبق</item>
+        <item quantity="one">%1$s طلب مسبق</item>
+        <item quantity="two">%1$s طلبات مسبقة</item>
+        <item quantity="few">%1$s طلبات مسبقة</item>
+        <item quantity="many">%1$s طلب مسبق</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">%1$d تطبيق محدد</item>
+        <item quantity="zero">%1$d تطبيق محدد</item>
+        <item quantity="one">%1$d تطبيق محدد</item>
+        <item quantity="two">%1$d تطبيقات محددة</item>
+        <item quantity="few">%1$d تطبيقات محددة</item>
+        <item quantity="many">%1$d تطبيق محدد</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">قم بالتبديل إلى وضع التصحيح في %1$d خطوة</item>
+        <item quantity="zero">قم بالتبديل إلى وضع التصحيح في %1$d خطوة</item>
+        <item quantity="one">قم بالتبديل إلى وضع التصحيح في %1$d خطوة</item>
+        <item quantity="two">قم بالتبديل إلى وضع التصحيح في %1$d خطوات</item>
+        <item quantity="few">قم بالتبديل إلى وضع التصحيح في %1$d خطوات</item>
+        <item quantity="many">قم بالتبديل إلى وضع التصحيح في %1$d خطوة</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">انقر لعرض جميع %1$d تطبيق</item>
+        <item quantity="zero">انقر لعرض جميع %1$d تطبيق</item>
+        <item quantity="one">انقر لعرض جميع %1$d تطبيق</item>
+        <item quantity="two">انقر لعرض جميع %1$d تطبيقات</item>
+        <item quantity="few">انقر لعرض جميع %1$d تطبيقات</item>
+        <item quantity="many">انقر لعرض جميع %1$d تطبيق</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">من %1$d شخص، من بينهم @%2$s و @%3$s</item>
+        <item quantity="zero">من %1$d شخص، من بينهم @%2$s و @%3$s</item>
+        <item quantity="one">من %1$d شخص، من بينهم @%2$s و @%3$s</item>
+        <item quantity="two">من %1$d أشخاص، من بينهم @%2$s و @%3$s</item>
+        <item quantity="few">من %1$d أشخاص، من بينهم @%2$s و @%3$s</item>
+        <item quantity="many">من %1$d شخص، من بينهم @%2$s و @%3$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">لديك %1$d رسالة غير مقروءة</item>
+        <item quantity="zero">لديك %1$d رسالة غير مقروءة</item>
+        <item quantity="one">لديك %1$d رسالة غير مقروءة</item>
+        <item quantity="two">لديك %1$d رسائل غير مقروءة</item>
+        <item quantity="few">لديك %1$d رسائل غير مقروءة</item>
+        <item quantity="many">لديك %1$d رسالة غير مقروءة</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s تقييم</item>
+        <item quantity="zero">%1$s تقييم</item>
+        <item quantity="one">%1$s تقييم</item>
+        <item quantity="two">%1$s تقييمات</item>
+        <item quantity="few">%1$s تقييمات</item>
+        <item quantity="many">%1$s تقييم</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s يوم</item>
+        <item quantity="zero">%1$s يوم</item>
+        <item quantity="one">%1$s يوم</item>
+        <item quantity="two">%1$s أيام</item>
+        <item quantity="few">%1$s أيام</item>
+        <item quantity="many">%1$s يوم</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">هل تريد حذف %1$s عنصر؟</item>
+        <item quantity="zero">هل تريد حذف %1$s عنصر محدد؟</item>
+        <item quantity="one">هل تريد حذف %1$s عنصر محدد؟</item>
+        <item quantity="two">هل تريد حذف %1$s عناصر؟</item>
+        <item quantity="few">هل تريد حذف %1$s عناصر؟</item>
+        <item quantity="many">هل تريد حذف %1$s عنصر؟</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">يجب أن تحتوي التعليق على %1$d حرف على الأقل</item>
+        <item quantity="zero">يجب أن تحتوي التعليق على %1$d حرف على الأقل</item>
+        <item quantity="one">يجب أن تحتوي التعليق على %1$d حرف على الأقل</item>
+        <item quantity="two">يجب أن تحتوي التعليق على %1$d أحرف على الأقل</item>
+        <item quantity="few">يجب أن تحتوي التعليق على %1$d أحرف على الأقل</item>
+        <item quantity="many">يجب أن تحتوي التعليق على %1$d حرف على الأقل</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">لا يمكن أن تتجاوز المراجعة %1$d حرف</item>
+        <item quantity="zero">لا يمكن أن تتجاوز المراجعة %1$d حرف</item>
+        <item quantity="one">لا يمكن أن تتجاوز المراجعة %1$d حرف</item>
+        <item quantity="two">لا يمكن أن تتجاوز المراجعة %1$d أحرف</item>
+        <item quantity="few">لا يمكن أن تتجاوز المراجعة %1$d أحرف</item>
+        <item quantity="many">لا يمكن أن تتجاوز المراجعة %1$d حرف</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">هل ترغب في حذف %1$d تنزيل بما في ذلك %2$s؟</item>
+        <item quantity="zero">هل ترغب في حذف %1$d تنزيل بما في ذلك %2$s؟</item>
+        <item quantity="one">هل ترغب في حذف %1$d تنزيل بما في ذلك %2$s؟</item>
+        <item quantity="two">هل ترغب في حذف %1$d تنزيلات بما في ذلك %2$s؟</item>
+        <item quantity="few">هل ترغب في حذف %1$d تنزيلات بما في ذلك %2$s؟</item>
+        <item quantity="many">هل ترغب في حذف %1$d تنزيل بما في ذلك %2$s؟</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">تقديم سريع للفيديو بمقدار %d ثانية</item>
+        <item quantity="one">تقديم سريع للفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">تقديم سريع للفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">تقديم سريع للفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">تقديم سريع للفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="zero">ترجيع الفيديو بمقدار %d ثانية</item>
+        <item quantity="one">ترجيع الفيديو بمقدار ثانية واحدة (%d)</item>
+        <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
+        <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
+        <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s طلب مسبق</item>
+        <item quantity="zero">%s طلب مسبق</item>
+        <item quantity="one">%s طلب مسبق</item>
+        <item quantity="two">%s طلبات مسبقة</item>
+        <item quantity="few">%s طلبات مسبقة</item>
+        <item quantity="many">%s طلب مسبق</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">%1$d تطبيق محدد</item>
+        <item quantity="zero">%1$d تطبيق محدد</item>
+        <item quantity="one">%1$d تطبيق محدد</item>
+        <item quantity="two">%1$d تطبيقات محددة</item>
+        <item quantity="few">%1$d تطبيقات محددة</item>
+        <item quantity="many">%1$d تطبيق محدد</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">منذ نصف ساعة</item>
+        <item quantity="zero">منذ نصف ساعة</item>
+        <item quantity="one">منذ نصف ساعة</item>
+        <item quantity="two">منذ نصف ساعة</item>
+        <item quantity="few">منذ نصف ساعة</item>
+        <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">خلال ١ ساعة</item>
+        <item quantity="zero">خلال ١ ساعة</item>
+        <item quantity="one">خلال ١ ساعة</item>
+        <item quantity="two">خلال ١ ساعة</item>
+        <item quantity="few">خلال ١ ساعة</item>
+        <item quantity="many">خلال ١ ساعة</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">في نصف ساعة</item>
+        <item quantity="zero">في نصف ساعة</item>
+        <item quantity="one">في نصف ساعة</item>
+        <item quantity="two">في نصف ساعة</item>
+        <item quantity="few">في نصف ساعة</item>
+        <item quantity="many">في نصف ساعة</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="zero">فوراً</item>
+        <item quantity="one">فوراً</item>
+        <item quantity="two">فوراً</item>
+        <item quantity="few">فوراً</item>
+        <item quantity="many">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">في %d دقيقة</item>
+        <item quantity="zero">في %d دقيقة</item>
+        <item quantity="one">في دقيقة</item>
+        <item quantity="two">في %d دقائق</item>
+        <item quantity="few">في %d دقائق</item>
+        <item quantity="many">في %d دقيقة</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">هل ترغب في متابعة تثبيت %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="zero">هل ترغب في متابعة تثبيت %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="one">هل ترغب في متابعة تثبيت %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="two">هل ترغب في متابعة تثبيت %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="few">هل ترغب في متابعة تثبيت %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="many">هل ترغب في متابعة تثبيت %1$s تطبيق بما في ذلك %2$s؟</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">قد تضاف رسوم خدمة إضافية عند تنزيل التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تنزيل %1$s تطبيق يتضمن ذلك %2$s؟</item>
+        <item quantity="zero">قد تضاف رسوم خدمة إضافية عند تنزيل التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تنزيل %1$s تطبيق يتضمن ذلك %2$s؟</item>
+        <item quantity="one">قد تضاف رسوم خدمة إضافية عند تنزيل التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تنزيل %1$s تطبيق يتضمن ذلك %2$s؟</item>
+        <item quantity="two">قد تضاف رسوم خدمة إضافية عند تنزيل التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تنزيل %1$s تطبيقات يتضمن ذلك %2$s؟</item>
+        <item quantity="few">قد تضاف رسوم خدمة إضافية عند تنزيل التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تنزيل %1$s تطبيقات يتضمن ذلك %2$s؟</item>
+        <item quantity="many">قد تضاف رسوم خدمة إضافية عند تنزيل التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تنزيل %1$s تطبيق يتضمن ذلك %2$s؟</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به. هل مازلت ترغب في تنزيل %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="zero">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به. هل مازلت ترغب في تنزيل %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="one">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به. هل مازلت ترغب في تنزيل %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="two">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به. هل مازلت ترغب في تنزيل %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="few">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به. هل مازلت ترغب في تنزيل %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="many">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به. هل مازلت ترغب في تنزيل %1$s تطبيق بما في ذلك %2$s؟</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s عنصر محدد</item>
+        <item quantity="zero">%1$s عنصر محدد</item>
+        <item quantity="one">%1$s عنصر محدد</item>
+        <item quantity="two">%1$s عناصر محددة</item>
+        <item quantity="few">%1$s عناصر محددة</item>
+        <item quantity="many">%1$s عنصر محدد</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">الآن</item>
+        <item quantity="zero">الآن</item>
+        <item quantity="one">الآن</item>
+        <item quantity="two">الآن</item>
+        <item quantity="few">الآن</item>
+        <item quantity="many">الآن</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">تم إجراء %d اختبار توافق يدوي لأكثر التطبيقات شهرة</item>
+        <item quantity="zero">تم إجراء %d اختبار توافق يدوي لأكثر التطبيقات شهرة</item>
+        <item quantity="one">تم إجراء %d اختبار توافق يدوي لأكثر التطبيقات شهرة</item>
+        <item quantity="two">تم إجراء %d اختبارات توافق يدوية لأكثر التطبيقات شهرة</item>
+        <item quantity="few">تم إجراء %d اختبارات توافق يدوية لأكثر التطبيقات شهرة</item>
+        <item quantity="many">تم إجراء %d اختبار توافق يدوي لأكثر التطبيقات شهرة</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s مراجعة</item>
+        <item quantity="zero">%s مراجعة</item>
+        <item quantity="one">%s مراجعة</item>
+        <item quantity="two">%s مراجعات</item>
+        <item quantity="few">%s مراجعات</item>
+        <item quantity="many">%s مراجعة</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">تم تحديد %d عنصر</item>
+        <item quantity="zero">تم تحديد %d عنصر</item>
+        <item quantity="one">تم تحديد %d عنصر</item>
+        <item quantity="two">تم تحديد %d عناصر</item>
+        <item quantity="few">تم تحديد %d عناصر</item>
+        <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">%s تنزيل</item>
+        <item quantity="zero">%s تنزيل</item>
+        <item quantity="one">%s تنزيل</item>
+        <item quantity="two">%s تنزيلات</item>
+        <item quantity="few">%s تنزيلات</item>
+        <item quantity="many">%s تنزيل</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">يمكنك تحديث &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> تطبيق</item>
+        <item quantity="zero">يمكنك تحديث &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> تطبيق</item>
+        <item quantity="one">يمكنك تحديث &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> تطبيق</item>
+        <item quantity="two">يمكنك تحديث &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> تطبيقات</item>
+        <item quantity="few">يمكنك تحديث &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> تطبيقات</item>
+        <item quantity="many">يمكنك تحديث &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> تطبيق</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">جارٍ تثبيت %1$s تطبيق</item>
+        <item quantity="zero">جارٍ تثبيت %1$s تطبيق</item>
+        <item quantity="one">جارٍ تثبيت %1$s تطبيق</item>
+        <item quantity="two">جارٍ تثبيت %1$s تطبيقات</item>
+        <item quantity="few">جارٍ تثبيت %1$s تطبيقات</item>
+        <item quantity="many">جارٍ تثبيت %1$s تطبيق</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">منذ %d دق</item>
+        <item quantity="zero">منذ %d دق</item>
+        <item quantity="one">منذ دقيقة</item>
+        <item quantity="two">منذ %d دق</item>
+        <item quantity="few">منذ %d دق</item>
+        <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d عملة</item>
+        <item quantity="zero">%1$3d عملة</item>
+        <item quantity="one">%1$3d عملة</item>
+        <item quantity="two">%1$3d عملات</item>
+        <item quantity="few">%1$3d عملات</item>
+        <item quantity="many">%1$3d عملة</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">أغلق التصويت. قام %1$d شخص بالتصويت.</item>
+        <item quantity="zero">أغلق التصويت. قام %1$d شخص بالتصويت.</item>
+        <item quantity="one">أغلق التصويت. قام %1$d شخص بالتصويت.</item>
+        <item quantity="two">أغلق التصويت. قام %1$d أشخاص بالتصويت.</item>
+        <item quantity="few">أغلق التصويت. قام %1$d أشخاص بالتصويت.</item>
+        <item quantity="many">أغلق التصويت. قام %1$d شخص بالتصويت.</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"قام %1$d شخص بالتصويت. "</item>
+        <item quantity="zero">"قام %1$d شخص بالتصويت. "</item>
+        <item quantity="one">"قام %1$d شخص بالتصويت. "</item>
+        <item quantity="two">"قام %1$d أشخاص بالتصويت. "</item>
+        <item quantity="few">"قام %1$d أشخاص بالتصويت. "</item>
+        <item quantity="many">"قام %1$d شخص بالتصويت. "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">سيتم الإعلان عن النتيجة خلال %1$d ساعة.</item>
+        <item quantity="zero">سيتم الإعلان عن النتيجة خلال %1$d ساعة.</item>
+        <item quantity="one">سيتم الإعلان عن النتيجة خلال %1$d ساعة.</item>
+        <item quantity="two">سيتم الإعلان عن النتيجة خلال %1$d ساعات.</item>
+        <item quantity="few">سيتم الإعلان عن النتيجة خلال %1$d ساعات.</item>
+        <item quantity="many">سيتم الإعلان عن النتيجة خلال %1$d ساعة.</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">إلغاء تثبيت %1$s تطبيق</item>
+        <item quantity="zero">إلغاء تثبيت %1$s تطبيق</item>
+        <item quantity="one">إلغاء تثبيت %1$s تطبيق</item>
+        <item quantity="two">إلغاء تثبيت %1$s تطبيقات</item>
+        <item quantity="few">إلغاء تثبيت %1$s تطبيقات</item>
+        <item quantity="many">إلغاء تثبيت %1$s تطبيق</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d تحديث</item>
+        <item quantity="zero">%1$d تحديث</item>
+        <item quantity="one">%1$d تحديث</item>
+        <item quantity="two">%1$d تحديثات</item>
+        <item quantity="few">%1$d تحديثات</item>
+        <item quantity="many">%1$d تحديث</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">قد تضاف رسوم خدمة إضافية عند تحديث التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تحديث %1$s تطبيق يتضمن ذلك %2$s؟</item>
+        <item quantity="zero">قد تضاف رسوم خدمة إضافية عند تحديث التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تحديث %1$s تطبيق يتضمن ذلك %2$s؟</item>
+        <item quantity="one">قد تضاف رسوم خدمة إضافية عند تحديث التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تحديث %1$s تطبيق يتضمن ذلك %2$s؟</item>
+        <item quantity="two">قد تضاف رسوم خدمة إضافية عند تحديث التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تحديث %1$s تطبيقات يتضمن ذلك %2$s؟</item>
+        <item quantity="few">قد تضاف رسوم خدمة إضافية عند تحديث التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تحديث %1$s تطبيقات يتضمن ذلك %2$s؟</item>
+        <item quantity="many">قد تضاف رسوم خدمة إضافية عند تحديث التطبيقات باستخدام بيانات الهاتف. هل مازلت ترغب في تحديث %1$s تطبيق يتضمن ذلك %2$s؟</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به عند تحديث التطبيقات. هل مازلت ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="zero">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به عند تحديث التطبيقات. هل مازلت ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="one">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به عند تحديث التطبيقات. هل مازلت ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="two">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به عند تحديث التطبيقات. هل مازلت ترغب في تحديث %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="few">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به عند تحديث التطبيقات. هل مازلت ترغب في تحديث %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="many">أنت متصل حاليا بنقطة اتصال Wi-Fi. قد تضاف رسوم خدمة إضافية على الجهاز المتصل به عند تحديث التطبيقات. هل مازلت ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">قبل %1$d يوم</item>
+        <item quantity="zero">قبل %1$d يوم</item>
+        <item quantity="one">قبل %1$d يوم</item>
+        <item quantity="two">قبل %1$d أيام</item>
+        <item quantity="few">قبل %1$d أيام</item>
+        <item quantity="many">قبل %1$d يوم</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">هل ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="zero">هل ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="one">هل ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+        <item quantity="two">هل ترغب في تحديث %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="few">هل ترغب في تحديث %1$s تطبيقات بما في ذلك %2$s؟</item>
+        <item quantity="many">هل ترغب في تحديث %1$s تطبيق بما في ذلك %2$s؟</item>
+    </plurals>
+</resources>

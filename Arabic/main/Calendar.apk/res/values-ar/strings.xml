@@ -48,10 +48,11 @@
     <string name="add_holiday_desc">إضافة عطل هنا</string>
     <string name="add_holiday_title">إضافة عطلة</string>
     <string name="additional_cal_dialog_title">حدد تقويم</string>
-    <string name="additional_cal_pref_title">تقويم إضافي</string>
+    <string name="additional_cal_pref_title">تقويمات إضافية</string>
     <string name="additional_calendar_note">قد لا تتوفر بعض التقويمات الأضافية أو قد تختلف لأسباب متعددة.</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="agenda_month_empty_hint">لا توجد أحداث اليوم</string>
+    <string name="agenda_not_today_empty_hint">لا توجد أحداث بعد. أنقر للإنشاء.</string>
     <string name="agenda_tomorrow">غدا، %1$s</string>
     <string name="agenda_view">الأحداث</string>
     <string name="alarm_label">تجاهل</string>
@@ -182,6 +183,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">التقويم الصيني التقليدي</string>
+    <string name="date_time_fmt" formatted="false">%s ،%s</string>
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="date_today">" (اليوم)"</string>
     <string name="date_view">التاريخ</string>
@@ -194,6 +196,8 @@
     <string name="delete_this_event_title">حذف هذا الحدث؟</string>
     <string name="description_calendar">تطبيقات النظام/التقويم</string>
     <string name="description_calendar_edit_event">تطبيقات النظام/التقويم/جدول الأعمال</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">جارٍ بحث %s…</string>
     <string name="discard_label">إلغاء</string>
     <string name="display_to_calendar">عرض في التقويم</string>
@@ -270,6 +274,7 @@
     <string name="event_info_when">متى</string>
     <string name="event_info_where">أين</string>
     <string name="event_reminder_allday_day_zero">في ذلك اليوم على الساعة %2$s</string>
+    <string name="event_reminder_custom">تخصيص</string>
     <string name="event_reminder_value_zero">قبل الحدث</string>
     <string name="event_title">العنوان</string>
     <string name="event_view">عرض الحدث</string>
@@ -389,6 +394,7 @@
     <string name="holidays_title">عُطل</string>
     <string name="horoscope">خريطة الابراج</string>
     <string name="horoscope_card_title">برجك اليوم</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">تحديد علامة البرج</string>
     <string name="hour_1">%d ساعة</string>
     <string name="image_processing">الصورة ليست جاهزة بعد</string>
@@ -422,6 +428,8 @@
     <string name="long_holiday_week_off">أيام العطلة الاسبوعية</string>
     <string name="long_month_date_format">dd MMMM yyyy</string>
     <string name="lunar_date">التاريخ القمري</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">إدارة العُطل</string>
     <string name="manage_title">إدارة</string>
     <string name="mark_end">الدورة الشهرية انتهت</string>
@@ -579,7 +587,7 @@
     <string name="no_visiable_calendar_title">إضافة حساب</string>
     <string name="none">لا شيء</string>
     <string name="noon">الظهر</string>
-    <string name="not_more_than_three_weekday">يمكنك تحديد ما يصل إلى ٣ أيام</string>
+    <string name="not_more_than_three_weekday">يمكنك اختيار مايصل إلى %d أيام.</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="notes_hint">انقر لإضافة مهمة</string>
     <string name="notes_reminders_channel">تذكيرات الملاحظات</string>
@@ -594,6 +602,10 @@
     <string name="notes_weekly">اسبوعي</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">تذكيرات التقويم</string>
+    <string name="notification_open_setting_button_exit">لا شكرا</string>
+    <string name="notification_open_setting_button_ok">سماح</string>
+    <string name="notification_open_setting_message">لن تتمكن من استلام إشعارات عن الأحداث إذا لم تمنح التقويم إذن إرسال الإشعارات.</string>
+    <string name="notification_open_setting_title">هل تسمح بإشعارات التقويم؟</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">Amanta</string>
@@ -621,6 +633,7 @@
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">توافق الشريك</string>
     <string name="path_calendar_settings">تطبيقات النظام/التقويم/الإعدادات</string>
+    <string name="permission_denial">امنح الإذن لاستخدام هذه الميزة</string>
     <string name="permission_description">تفاصيل الأذونات</string>
     <string name="picker_day">اليوم المحدد: %1$d. حدد عموديا للتحديد.</string>
     <string name="picker_month">الشهر المحدد: %1$d. اسحب عموديا للتحديد.</string>
@@ -634,7 +647,6 @@
     <string name="pref_title_no_remind">بدون تذكيرات</string>
     <string name="pref_title_notification_remind">إشعار تذكير</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alarms_category_title">تذكيرات المنبه</string>
     <string name="preferences_alarms_sound">الصوت</string>
     <string name="preferences_alarms_vibrateWhen">اهتزاز</string>
@@ -653,9 +665,9 @@
     <string name="preferences_title">التقويم</string>
     <string name="preferences_use_home_tz_descrip">عرض التقاويم وأوقات الحدث في المنطقة الزمنية المحلية عند السفر</string>
     <string name="preferences_use_home_tz_title">استخدام المنطقة الزمنية المحلية</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">بداية الأسبوع</string>
     <string name="preferences_week_start_day_title">بداية الأسبوع</string>
+    <string name="premission_description_notice">لإرسال إشعارات حول الأحداث والعطلات</string>
     <string name="privacy_and_permissions">الخصوصية والأذونات</string>
     <string name="privacy_card_description">يرجى الموافقة على سياسة الخصوصية لتتمكن من استخدام جميع الميزات.</string>
     <string name="privacy_policy_dialog_agree">أوافق</string>
@@ -681,6 +693,8 @@
     <string name="remind_title_menstruation_start">تذكيرك عند بدء الدورة الشهرية</string>
     <string name="remind_title_record">تذكير لتسجيل الدورة</string>
     <string name="repeat_activity_label">التكرار</string>
+    <string name="repeat_alarm_close_title">هذا حدث مكرر. هل ترغب في إيقاف تذكير المنبه؟</string>
+    <string name="repeat_alarm_open_title">هذا حدث مكرر. هل ترغب في ضبط تذكير منبه؟</string>
     <string name="repeat_custom_activity_label">تخصيص</string>
     <string name="repeat_custom_prompt_daily">كل %1$s</string>
     <string name="repeat_custom_prompt_sentence">الحدث سيتكرر %1$s</string>
@@ -702,6 +716,7 @@
     <string name="repeat_label_frequency">التكرار</string>
     <string name="repeat_label_interval">مدة التكرار</string>
     <string name="repeat_label_week">أسبوع</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">التكرار</string>
@@ -722,7 +737,9 @@
     <string name="saving_event">تم حفظ الحدث</string>
     <string name="saving_event_with_guest">جارٍ ارسال التحديثات…</string>
     <string name="search_calendar_edit_event">اجتماع؛تذكير؛جدول الأعمال</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">التقويم؛جدول الأعمال؛تذكير</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">البحث عن أحداث</string>
     <string name="search_history">سجل البحث</string>
     <string name="search_menu_title">البحث</string>
@@ -740,7 +757,7 @@
     <string name="setting_about_summary">الإصدار:</string>
     <string name="setting_accounts">حسابات التقويم</string>
     <string name="setting_change_language">اختر لغة التقويم</string>
-    <string name="setting_desc_import_todo">استيراد مهام مجدولة من الملاحظات</string>
+    <string name="setting_desc_import_todo">استيراد المهام المجدولة من الملاحظاتك</string>
     <string name="setting_features_title">إعدادات الميزة</string>
     <string name="setting_holiday_display_desc">بطاقات العطلة موجودة تحت جدول الأعمال الخاص بك على الصفحة الرئيسية</string>
     <string name="setting_holiday_reminder">تذكير العطلة</string>
@@ -777,6 +794,10 @@
     <string name="size_tera_byte">تيرابايت</string>
     <string name="skip">تخطي</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">أحداث خاصة</string>
     <string name="start_date_calculate">أحسب</string>
