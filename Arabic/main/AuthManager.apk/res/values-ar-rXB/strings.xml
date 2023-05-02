@@ -406,6 +406,7 @@
     <string name="size_peta_byte">‏‮PB‬‏</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">‏‮TB‬‏</string>
+    <string name="static_cache_db_md5">‏‮ca8b2bf664b02208f1bbe2344e93a705‬‏</string>
     <string name="status_bar_notification_info_overflow">‏‮999+‬‏</string>
     <string name="stop_blur_location">‏‮Yes‬‏</string>
     <string name="storage_policy_notify_both_title">"%1$s ‏‮isn't‬‏ ‏‮allowed‬‏ ‏‮to‬‏ ‏‮access‬‏ ‏‮Gallery‬‏ ‏‮and‬‏ ‏‮messages‬‏ ‏‮in‬‏ ‏‮social‬‏ ‏‮media‬‏ ‏‮apps‬‏"</string>

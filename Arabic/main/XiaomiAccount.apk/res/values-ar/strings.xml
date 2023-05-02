@@ -138,11 +138,6 @@
     <string name="cloud_member_vipname_premium">ذهبي</string>
     <string name="cloud_member_vipname_ultra">ماسي</string>
     <string name="cloud_service">Xiaomi Cloud</string>
-    <string name="cloud_service_cloud_open">تشغيل</string>
-    <string name="cloud_service_space_full">المساحة ممتلئة</string>
-    <string name="cloud_service_space_not_enough">لا توجد مساحة كافية</string>
-    <string name="cloud_service_space_used">المستخدم</string>
-    <string name="cloud_service_state_error">فشل التحميل</string>
     <string name="cloud_service_status_backup_not_open">النسخ الاحتياطي متوقف</string>
     <string name="cloud_service_status_cloud_not_open">متوقف</string>
     <string name="cloud_service_status_storage_full">المساحة ممتلئة</string>
@@ -222,8 +217,6 @@
     <string name="diagnosis_log_sent_format">"تم إرسال السجل بنجاح.
 المعرف:%s
 ارسل هذا الرمز إلى المشرف."</string>
-    <string name="dind_device_service_not_open">متوقف</string>
-    <string name="dind_device_service_opened">مشغل</string>
     <string name="download_file">جارٍ تنزيل %s…</string>
     <string name="early_morning">فجر</string>
     <string name="empty" />
@@ -242,7 +235,6 @@
     <string name="facebook_login">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="failed_dup_secure_phone_number">رقم الهاتف هذا مرتبط مسبقاً بحساب MI آخر</string>
     <string name="family_service">خدمات العائلة</string>
-    <string name="family_service_not_open">إضافة أعضاء</string>
     <string name="family_share">مشاركة عائلية</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_access_denied">لا يمكن الحصول على الحالة، غير مسموح بالدخول</string>
@@ -374,7 +366,6 @@
     <string name="login_with_other">المزيد من الخيارات</string>
     <string name="logout_account">تسجيل الخروج</string>
     <string name="logout_failed">لا يمكن تسجيل الخروج</string>
-    <string name="mi_account">حسابي</string>
     <string name="mi_account_identity_title">التحقق من هويتك</string>
     <string name="mi_finance">مواردي المالية</string>
     <string name="mi_finance_info">مكافآت للمستخدمين الجدد</string>
@@ -772,11 +763,6 @@
     <string name="push_notify_dialog_title">التحقق من الحساب</string>
     <string name="pwd_width_phone_number_or_mail_num">لا يمكن أن تحتوي كلمة المرور على رقم هاتفك أو بريدك الإلكتروني أو معرف حساب Mi</string>
     <string name="qq">QQ</string>
-    <string name="qrcode_login_entry_text">&lt;Data>هل سجلت الدخول على جهاز آخر؟ استخدم &lt;a href=>تسجيل الدخول السريع&lt;/a>&lt;/Data></string>
-    <string name="qrcode_login_load_refresh">&lt;Data>انتهت صلاحية رمز QR. انقر &lt;a href=>تحديث&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_load_retry">&lt;Data>فشل التحميل. &lt;a href=>حاول مجددا&lt;/a>.&lt;/Data></string>
-    <string name="qrcode_login_message">امسح الرمز باستخدام تطبيق الماسح على هاتف Xiaomi أو الجهاز اللوحي، أو أستخدم أي تطبيق Xiaomi آخر كتطبيق منزل Mi لتسجيل الدخول.</string>
-    <string name="qrcode_login_title">امسح الرمز لتسجيل الدخول</string>
     <string name="recycle_phone_notification_msg">يبدو انه تم إعادة استخدام رقم هاتفك. انقر للتحديث.</string>
     <string name="recycle_phone_notification_title">مخاطر حساب Mi الأمنية</string>
     <string name="removing_account">جارٍ تسجيل الخروج…</string>
@@ -911,8 +897,6 @@
     <string name="two_factor_auth_need_code_summary">سترى الرمز على أجهزة Mi الأخرى المتصلة. أدخل الرمز على جهازك الجديد لتسجيل الدخول.</string>
     <string name="two_factor_auth_summary">عند محاولة تسجيل الدخول إلى جهاز أو موقع جديد، سيتم إبلاغك بذلك على الأجهزة الأخرى المتصلة. ستحتاج إلى تأكيد أن محاولة تسجيل الدخول قد حصلت على إذن منك.</string>
     <string name="unbind_sns_description">بعد إلغاء ربط هذا الحساب، لن تتمكن من استخدام معلومات حسابك على %s لتسجيل الدخول لحساب Mi.</string>
-    <string name="unit_gb">" ج.ب"</string>
-    <string name="unit_mb">" م.ب"</string>
     <string name="unknown_error_info">خطأ غير معروف</string>
     <string name="unlock_help_notice">"مساعدة:
  ١. إذا نسيت كلمة المرور، فانتقل إلى id.mi.com لإعادة تعيينها.
@@ -966,6 +950,5 @@
     <string name="weixin">WeChat</string>
     <string name="weixin_login">تسجيل الدخول بإستخدام WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="yesterday">أمس</string>
 </resources>

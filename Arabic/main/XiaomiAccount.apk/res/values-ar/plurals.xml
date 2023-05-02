@@ -80,14 +80,6 @@
         <item quantity="few">تم العثور على %d نتائج</item>
         <item quantity="many">تم العثور على %d نتيجة</item>
     </plurals>
-    <plurals name="family_service_member_count">
-        <item quantity="other">%d شخص</item>
-        <item quantity="zero">%d شخص</item>
-        <item quantity="one">%d شخص</item>
-        <item quantity="two">%d أشخاص</item>
-        <item quantity="few">%d أشخاص</item>
-        <item quantity="many">%d شخص</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
