@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">تنبيه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">عذرًا، هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
     <string name="selectTextMode">تحديد نص</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">رمز بصمة الإصبع</string>
     <string name="paste_as_plain_text">اللصق كنص عادي</string>
     <string name="autofill">الملء التلقائي</string>
@@ -676,7 +675,6 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
     <string name="fcComplete">اكتمل رمز الميزة.</string>
     <string name="fcError">حدثت مشكلة بالاتصال أو أن رمز الميزة غير صحيح.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_count">{count,plural, =1{{file_name} + ملف واحد}zero{{file_name} + # ملف}two{{file_name} + ملفان}few{{file_name} + # ملفات}many{{file_name} + # ملفًا}other{{file_name} + # ملف}}</string>
     <string name="find">بحث</string>
     <string name="find_next">بحث عن التطابق التالي</string>
@@ -919,7 +917,6 @@
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
     <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ فتح قفل شريحة SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
 أعد المحاولة خلال %2$d ثانية."</string>
@@ -1289,7 +1286,6 @@
     <string name="notification_hidden_text">إشعار جديد</string>
     <string name="notification_history_title_placeholder">إشعار تطبيق مخصّص</string>
     <string name="notification_listener_binding_label">برنامج تلقّي الإشعارات الصوتية</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">تنبيه بشأن تصيّد احتيالي</string>
     <string name="notification_ranker_binding_label">خدمة ترتيب أهمية الإشعارات</string>
     <string name="notification_reply_button_accessibility">الرد</string>
@@ -2137,7 +2133,6 @@
     <string name="zen_mode_feature_name">عدم الإزعاج</string>
     <string name="zen_mode_forever">إلى أن يتم إيقاف الوضع</string>
     <string name="zen_mode_forever_dnd">حتى يتم إيقاف \"عدم الإزعاج\"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">حتى %1$s</string>
     <string name="zen_mode_until_next_day">حتى %1$s</string>
     <string name="zen_upgrade_notification_content">انقر للاطّلاع على ما تم حظره.</string>

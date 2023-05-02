@@ -321,11 +321,6 @@
         <item>Iceland</item>
         <item>Kenya</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>نقل</item>
-        <item>نسخ</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>يناير</item>
         <item>فبراير</item>
