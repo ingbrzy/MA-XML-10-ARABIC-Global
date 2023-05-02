@@ -130,7 +130,7 @@
     <string name="adb_install_open_error">تعذر السماح، تحقق من اتصال الشبكة</string>
     <string name="adb_install_reject_notiy">لم يتم السماح بتثبيت %s عبر USB</string>
     <string name="adb_install_reject_notiy_desc">يمكنك السماح التثبيت عبر USB في خيارات المطور</string>
-    <string name="adb_login_xiaomi_account">سجل الدخول إلى حساب Mi أولا</string>
+    <string name="adb_login_xiaomi_account">قم بتسجيل الدخول لحساب Mi أولاً</string>
     <string name="add_bill_reminder_alarm">إعداد تحذير رصيد الهاتف</string>
     <string name="add_done">تمت الإضافة بنجاح</string>
     <string name="add_game">إضافة لعبة</string>
@@ -562,7 +562,7 @@
     <string name="applock_add_account_ignore_with_seconds">ليس الآن (%d ث)</string>
     <string name="applock_add_account_info">قم بإضافة حساب Mi الخاص بك لتتمكن من إعادة تعيين كلمة المرور في حال نسيانها.</string>
     <string name="applock_add_account_setting">الحساب والخصوصية</string>
-    <string name="applock_add_account_tips">إذا نسيت قفل التطبيق الخاص بك، فستتمكن من استعادته باستخدام حساب Mi.</string>
+    <string name="applock_add_account_tips">إذا نسيت قفل التطبيق الخاص بك، فستتمكن من استعادته باستخدام حساب Xiaomi.</string>
     <string name="applock_add_account_title">أضف حساب Mi</string>
     <string name="applock_already_add_account">الحساب الحالي: %s</string>
     <string name="applock_app_recommend_lock_title">يمكنك قفل التطبيقات التالية</string>
@@ -989,6 +989,7 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">إنشاء</string>
     <string name="card_main_xspace_summary">إنشاء حسابات مزدوجة لأي تطبيق</string>
     <string name="card_main_xspace_title">التطبيقات المزدوجة</string>
@@ -1274,6 +1275,7 @@
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">فجر</string>
     <string name="edit_phone_num">تعديل رقم هاتف بطاقة SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty" />
     <string name="empty_app">لا توجد تطبيقات</string>
@@ -1309,6 +1311,7 @@
     <string name="exit_dialog_garbage_clean_title">تفريغ مساحة التخزين</string>
     <string name="exit_dialog_homepage_optimise_message">نقاط أداء جهازك أقل من ٨٠ نقطة. التحسين الآن؟</string>
     <string name="exit_dialog_release_memory_positive_button">إغلاق</string>
+    <string name="exit_dialog_release_memory_title">&lt;Data>يمكنك زيادة سرعة الجهاز بنسبة &lt;font color=#0099ff>%d%%&lt;/font>&lt;/Data></string>
     <string name="exit_dialog_release_memory_title_new">&lt;Data>يمكنك زيادة سرعة الجهاز بنسبة &lt;font color=#0099ff>%s&lt;/font>&lt;/Data></string>
     <string name="exit_dialog_release_storage_message">أكثر من ٨٠% من تخزين جهازك ممتلئ. قم بتفريغ مساحة من خلال إلغاء تثبيت التطبيقات التي لا تستخدمها ابداً.</string>
     <string name="exit_dialog_release_storage_message_new">أكثر من %s من مساحة تخزين جهازك ممتلئة. قم بتفريغ مساحة عن طريق إلغاء تثبيت التطبيقات التي لا تستخدمها.</string>
@@ -1352,7 +1355,9 @@
     <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -1925,7 +1930,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_user_status_expired">انتهاء صلاحية الاشتراك</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"احصل على %d أيام تجربه مجانية
 واستمتع بتجربة مغير الصوت الخاص بنا!"</string>
-    <string name="gb_voice_changer_user_status_no_login">تسجيل الدخول باستخدام حساب Mi</string>
+    <string name="gb_voice_changer_user_status_no_login">تسجيل الدخول إلى حساب Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">تاريخ الانتهاء: %s</string>
     <string name="gb_voice_changer_user_status_renew">تجديد</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">انتهت صلاحية اشتراكاتك. جدد الاشتراك الآن لتحصل على ميزات اضافية!</string>
@@ -2037,10 +2042,10 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_close">إيقاف</string>
     <string name="gtb_dialog_btn_open">تشغيل</string>
     <string name="gtb_dialog_hint_smart_5g">يمكنك تشغيل هذه الميزة أو إيقافها من مسرع الألعاب > الإعدادات.</string>
-    <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام مسرع الألعاب Xunyou. ستجمع هذه الخدمة معرف معرف حساب Mi لتسجيل مدة عضويتك.</string>
+    <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام مسرع الألعاب Xunyou. ستجمع هذه الخدمة معرف معرف حسابك Mi لتسجيل مدة عضويتك.</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مسرع الألعاب Xunyou.&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">مسرع الألعاب Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
+    <string name="gtb_dialog_privacy_voice_message">أنت على وشك استخدام مغير صوت لعبة Xunyou. ستجمع هذه الخدمة معرف حساب Xiaomi الخاص بك لتسجيل مدة عضويتك.</string>
     <string name="gtb_dialog_privacy_voice_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مغير صوت لعبة Xunyou.&lt;/Data></string>
     <string name="gtb_dialog_privacy_voice_title">مغير صوت لعبة Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">عندما يكتشف مسرع الألعاب شبكة 5G، فأنه يقوم بتوصيل جهازك بأفضل شبكة متاحة لتقليل تأخير اللعبة. هل ترغب في تشغيل هذه الميزة الآن؟</string>
@@ -2364,6 +2369,8 @@ to join our egg hunt!"</string>
     <string name="memory_check_content">حررت %s</string>
     <string name="memory_clean_memory_size_tip">ذاكرة التخزين المؤقت</string>
     <string name="memory_clean_no_need_clean">كل شيء يبدو جيداً</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">"تم تفريغ %s من المساحة.
+جهازك الآن أسرع بنسبة %d%%."</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"فرغ %s من المساحة.
 جهازك الآن أسرع بنسبة %s."</string>
     <string name="memory_clear_unused">حذف ذاكرة التخزين المؤقت (%s)</string>
@@ -2388,6 +2395,7 @@ to join our egg hunt!"</string>
     <string name="menu_item_notification_antispam_text_avail">قائمة الحظر</string>
     <string name="menu_item_notification_antispam_text_normal">قائمة الحظر</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% مستخدم</string>
     <string name="menu_item_notification_optimize_text_new">%s مستخدم</string>
     <string name="menu_item_notification_power_text">تحسين البطارية</string>
     <string name="menu_item_notification_title">إظهار القائمة في مركز الإشعارات</string>
@@ -2415,6 +2423,7 @@ to join our egg hunt!"</string>
     <string name="menu_summary_networkassistants_3">بيانات كافية</string>
     <string name="menu_summary_networkassistants_4">البيانات على وشك النفاذ</string>
     <string name="menu_summary_optimize_manage">تنظيف الذاكرة</string>
+    <string name="menu_summary_optimize_manage_1">اجعل جهازك اسرع بنسبة %d%%</string>
     <string name="menu_summary_optimize_manage_1_new">اجعل جهازك اسرع بنسبة %s</string>
     <string name="menu_summary_power_manager">يمنحك موفر البطارية مزيدًا من الوقت بين فترات الشحن</string>
     <string name="menu_summary_power_manager_1">البطارية مشحونة بالكامل</string>
@@ -2430,6 +2439,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">ج.ب</string>
@@ -2438,6 +2448,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_optimize_manage_1">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_ime_not_used">استخدم لوحة مفاتيح مرخصة من Xiaomi</string>
@@ -2542,6 +2553,7 @@ to join our egg hunt!"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -2708,6 +2720,7 @@ to join our egg hunt!"</string>
     <string name="notification_link_cleaner_3001">قم بتنظيف مجلد مهملات WeChat لتسريع جهازك</string>
     <string name="notification_link_cleaner_3002">تنظيف مهملات WeChat</string>
     <string name="notification_link_cleaner_4000">تنظيف مهملات QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% من مساحة الذاكرة ممتلئة. امسح الذاكرة الآن.</string>
     <string name="notification_link_optimizemanage_1011_new">%s من مساحة الذاكرة ممتلئة. امسح الذاكرة الآن.</string>
     <string name="notification_low_battery_need_charge">قم بتوصيل الشاحن</string>
     <string name="notification_low_battery_open_save_mode">تشغيل موفر البطارية</string>
@@ -2724,6 +2737,7 @@ to join our egg hunt!"</string>
     <string name="notification_masked_subtitle">يمكن لقفل التطبيقات القيام بذلك.</string>
     <string name="notification_optimize_button_text">مسح</string>
     <string name="notification_optimize_message">امسح ذاكرة الجهاز لزيادة السرعة</string>
+    <string name="notification_optimize_title">%d%% من مساحة التخزين ممتلئة</string>
     <string name="notification_optimize_title_new">%s من مساحة التخزين ممتلئة</string>
     <string name="notification_power_consume_issue_summary">استهلاك طاقة عالي</string>
     <string name="notification_power_consume_suggest_summary">اصلاح المشاكل لحفظ البطارية</string>
@@ -2869,7 +2883,7 @@ to join our egg hunt!"</string>
     <string name="password_forget_pattern_title">تنبيه</string>
     <string name="password_promotion_not_login_xiaomi_account_message">قم بإضافة حساب Mi الخاص بك لتتمكن من إعادة تعيين كلمة المرور في حال نسيانها.</string>
     <string name="password_promotion_postbutton_text">إضافة</string>
-    <string name="password_promotion_title">استخدام حساب Mi</string>
+    <string name="password_promotion_title">إضافة حساب Mi</string>
     <string name="password_toggle_content_description">عرض كلمة المرور</string>
     <string name="password_type">تغيير كلمة المرور</string>
     <string name="password_type_underline"><u>تغيير كلمة المرور</u></string>
@@ -3117,6 +3131,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيقوم MIUI بالتحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -3402,6 +3421,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -3677,6 +3697,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">تسجيل الصوت</string>
     <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
     <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_vpnsdkmanager_label">مسرع الألعاب</string>
     <string name="promotion">اعلان</string>
@@ -3817,6 +3838,7 @@ to join our egg hunt!"</string>
     <string name="scan_open_shut_down_password_title">تأكيد إيقاف تشغيل الجهاز</string>
     <string name="scan_status_risk">ذو خطورة</string>
     <string name="scan_status_safe">آمن</string>
+    <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">قم بتثبيت أحدث إصدار من مسجل الشاشة وحاول مرة أخرى.</string>
     <string name="sd_eject">إخراج بطاقة الذاكرة SD</string>
@@ -4302,7 +4324,7 @@ to join our egg hunt!"</string>
     <string name="storage_item_doc_name">المستندات</string>
     <string name="storage_item_other_name">أخرى</string>
     <string name="storage_item_picture_name">الصور</string>
-    <string name="storage_item_system_data">ملفات النظام</string>
+    <string name="storage_item_system_data">النظام</string>
     <string name="storage_item_system_name">النظام</string>
     <string name="storage_item_video_name">الفيديو</string>
     <string name="storage_menu_mount">تحميل</string>
@@ -4382,6 +4404,7 @@ to join our egg hunt!"</string>
     <string name="superpower_dialog_button_ok">موافق</string>
     <string name="superpower_dialog_massage">يعمل موفر البطارية الأقصى على تقييد معظم الميزات التي تستهلك الطاقة وتقلل من أداء جهازك وذلك لترك الوظائف الأساسية تعمل (مثل المكالمات والرسائل النصية واتصال الشبكة) لأطول فترة ممكنة. تشغيله؟</string>
     <string name="superpower_dialog_title">موفر البطارية الأقصى</string>
+    <string name="superpower_notification_new_title">تبقى أقل من %d%% من شحن البطارية</string>
     <string name="superpower_notification_new_title_new">تبقى أقل من %s من شحن البطارية</string>
     <string name="superpower_notification_summary">اشحن الجهاز أو قم بتشغيل موفر البطارية الأقصى</string>
     <string name="superpower_notification_time_12">EEEE، dd MMMM</string>

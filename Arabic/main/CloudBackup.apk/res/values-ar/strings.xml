@@ -152,8 +152,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">يجب أن يكون الجهاز متصل بشبكة Wi-Fi وعلى الشاحن والشاشة مقفله</string>
     <string name="cloud_backup_detail_time">اخر نسخ احتياطي: %1$s</string>
     <string name="cloud_backup_detail_title">عناصر النسخ الاحتياطي</string>
-    <string name="cloud_backup_get_installed_apps_summary">لنسخ تطبيقات الشاشة الرئيسية احتياطيا واستعادتها</string>
-    <string name="cloud_backup_get_installed_apps_title">الوصول إلى قائمة التطبيقات المثبتة على هذا الجهاز</string>
     <string name="cloud_backup_have_data">تم إيجاد نسخة احتياطية في Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">إلغاء</string>
     <string name="cloud_backup_in_process">جارٍ النسخ الاحتياطي</string>
@@ -172,9 +170,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">سيتم إعادة تشغيل الشاشة الرئيسية وتنزيل التطبيقات التي تم نسخها احتياطيًا تلقائيًا.</string>
     <string name="confirm_restore_title">استعادة</string>
     <string name="copy">نسخ</string>
-    <string name="cta_dialog_all_purpose">مرحبا بك في نسخ Cloud الاحتياطي! يمكنك استخدام هذا التطبيق لعمل نسخة احتياطية من تخطيط الشاشة الرئيسية والتطبيقات وإعدادات النظام وبيانات الويتشات على Cloud. تأكد من أنك تستخدم أحدث إصدار لتتمكن من الاستفادة من جميع ميزاتنا.</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">لنسخ التطبيقات احتياطيا واستعادتها</string>
-    <string name="cta_dialog_permission_description_storage">لنسخ العناصر احتياطيا واستعادتها</string>
     <string name="customization"><u>تخصيص</u></string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="date_picker_label_day" />
@@ -402,6 +397,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">تشغيل مفتاح تشغيل/إيقاف للنسخ الأحتياطي</string>
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">لا يمكن استعادة العناصر في وضع الكمبيوتر. قم بإيقاف وضع الكمبيوتر وحاول مرة أخرى.</string>
     <string name="permission_to_use">تفاصيل الأذونات</string>
     <string name="pm">م</string>
