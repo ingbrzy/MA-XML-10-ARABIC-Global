@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -77,6 +77,7 @@
     <string name="backup_failed">تعذر النسخ الاحتياطي</string>
     <string name="backup_file_error">تعذر النسخ الاحتياطي</string>
     <string name="backup_finished">تم الاحتفاظ بنسخة احتياطية نجاح</string>
+    <string name="backup_for_broken_screen">النسخ الاحتياطي عند تلف الشاشة</string>
     <string name="backup_hint">حافظ على جهازك قيد التشغيل</string>
     <string name="backup_hint_onpad">حافظ على جهازك قيد التشغيل</string>
     <string name="backup_hint_pad">لا تقم بإعادة تشغيل الجهاز أو إيقاف تشغيله</string>
@@ -84,12 +85,34 @@
     <string name="backup_new">جديد:</string>
     <string name="backup_notice_content">لن يتم تشفير النسخ الاحتياطية، مما يعني أنه يمكن لتطبيقات الجهات الخارجية الوصول إلى هذه النسخه أو معالجتها. يمكن أن يؤدي إيقاف تشغيل التشفير أيضا إلى حدوث مخاطر أمنية إضافية. تأكد من تخزين العناصر التي تم نسخها احتياطيا في بيئة محمية جيدا.</string>
     <string name="backup_notice_title">تنبيه</string>
+    <string name="backup_notification_title">تطبيق \"النسخ الاحتياطي\" قيد التشغيل…</string>
     <string name="backup_progress">جارٍ النسخ الاحتياطي…</string>
     <string name="backup_report">عرض التفاصيل</string>
     <string name="backup_security_tips_message">بعض التطبيقات قد لا يمكن نسخها احتياطيا أو استعادتها.</string>
     <string name="backup_security_tips_title">قد لا يعمل النسخ الاحتياطي</string>
     <string name="backup_update">تحديث</string>
     <string name="batch_delete_backup_confirm">حذف النسخ الاحتياطية المحددة؟</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="broken_screen_rescue_service">النسخ الاحتياطي عند تلف الشاشة</string>
+    <string name="broken_screen_rescue_service_content">تسمح لك هذه الميزة بنسخ العناصر احتياطيا عند تلف شاشتك أو عدم استجابة الجهاز باستخدام كبل USB. يجب تشغيل هذه الميزة مسبقا من قبل أن تتلف الشاشة (أي بينما شاشتك تعمل بشكل طبيعي)</string>
+    <string name="broken_screen_rescue_service_disable">إيقاف تشغيل النسخ الاحتياطي عند تلف الشاشة</string>
+    <string name="broken_screen_rescue_service_enable">تشغيل النسخ الاحتياطي عند تلف الشاشة</string>
+    <string name="broken_screen_rescue_service_learn_subcontent1">اطلب من أي شخص من جهات اتصالك بإرسال رسالة نصية لجهازك بالتنسيق التالي مع استبدال الأحرف بقفل شاشتك: *#*#قفل الشاشة#*#*.</string>
+    <string name="broken_screen_rescue_service_learn_subcontent2">بعد إرسال الرسالة القصيرة، قم بتوصيل هذا الجهاز بالكمبيوتر باستخدام كبل USB لبدء النسخ الاحتياطي.</string>
+    <string name="broken_screen_rescue_service_learn_subtitle1">تفعيل هذه الخدمة</string>
+    <string name="broken_screen_rescue_service_learn_subtitle2">نسخ العناصر احتياطيا</string>
+    <string name="broken_screen_rescue_service_learn_title">كيفية استخدام هذه الميزة</string>
+    <string name="broken_screen_rescue_service_tips_1">%1$d. إذا كان قفل الشاشة هو %2$d، فمحتوى الرسالة يجب أن يبدو كما يلي: *#*#%3$d#*#*. إذا كنت تستخدم كلمة مرور تحتوي على أحرف وأرقام معا، فاطلب من الشخص الآخر تضمين كل من الأحرف والأرقام في الرسالة النصية.</string>
+    <string name="broken_screen_rescue_service_tips_2">%1$d. إذا كنت تستخدم النقش كقفل للشاشة، فيمكن التعبير عنه باستخدام الأرقام في الرسالة النصية. تعتبر أول نقطة موجودة في الزاوية اليسرى العلوية للنقش هي الرقم %2$d، ثم تستمر الأرقام التالية بالتسلسل من اليسار إلى اليمين، سطر بسطر، وتنتهي بالرقم %3$d والذي يعبر عن آخر نقطة في الزاوية السفلية للنقش.</string>
+    <string name="broken_screen_rescue_service_tips_3">%1$d. إذا كنت لا تستخدم أي قفل شاشة، فاستخدم عبارة \"nopassword\" بدلاً من الأحرف التي تمثل قفل الشاشة.</string>
+    <string name="broken_screen_rescue_service_tips_4">%1$d. لديك فقط %2$d محاولة لتفعيل هذه الميزة. تأكد من صحة محتوى الرسالة النصية وأن الشخص الآخر موجود في قائمة جهات اتصالك لتنجح العملية.</string>
+    <string name="broken_screen_rescue_service_tips_5">%1$d. نوصي بتفعيل هذه الميزة في وجود موظفي دعم العملاء لدينا.</string>
+    <string name="broken_screen_rescue_service_tips_6">%1$d. إذا كنت تواجه مشكلة في نسخ العناصر احتياطيا إلى جهاز الكمبيوتر، فراجع وثائق التعليمات للحصول على حلول ممكنة.</string>
+    <string name="broken_screen_rescue_service_tips_title">نصائح</string>
+    <string name="broken_screen_rescue_service_turn_off">إيقاف تشغيل الميزة</string>
+    <string name="broken_screen_rescue_service_turn_off_confirm">هل ترغب في إيقاف تشغيل النسخ الاحتياطي عند تلف الشاشة الآن؟</string>
+    <string name="broken_screen_rescue_service_turn_on">تشغيل الميزة</string>
+    <string name="broken_screen_rescue_service_turn_on_confirm">هل ترغب في تشغيل النسخ الاحتياطي عند تلف الشاشة الآن؟</string>
     <string name="btn_got_it">فهمت</string>
     <string name="button_backup">نسخ احتياطي</string>
     <string name="button_cancel">إلغاء</string>
@@ -111,7 +134,12 @@
     <string name="cancel_moving_dialog_message">إيقاف الاستيراد الآن؟</string>
     <string name="cancel_moving_dialog_title">إيقاف الاستيراد</string>
     <string name="cancel_restore">إيقاف</string>
+    <string name="category_contacts">جهات الاتصال</string>
+    <string name="category_message_contacts">الرسائل وجهات الاتصال</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
     <string name="check_privacy_policy">عرض سياسة الخصوصية</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="click_soft_ap_to_link">حدد نقطة اتصال للاتصال</string>
     <string name="click_to_view">انقر للعرض</string>
@@ -178,6 +206,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="dialog_backup_password_change_machine_tips">لا يمكنك نقل النُسخ الاحتياطية المحمية بكلمة مرور. قم بتعطيل كلمة المرور قبل استخدام ناقل Mi.</string>
     <string name="dialog_backup_password_restore_tips">لا يمكن استعادة العناصر عند تفعيل كلمة المرور. قم بإيقاف تشغيل كلمة مرور النسخ الاحتياطي أولاً.</string>
     <string name="dialog_backup_password_to_settings">الإعدادات</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">غير مشفر</string>
     <string name="disable_encrypt_title">إيقاف التشفير</string>
@@ -215,11 +244,13 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="err_user_abort">تم الإلغاء من قبل المستخدم.</string>
     <string name="err_version_too_old">ملف النسخ الاحتياطي قديم جداً.</string>
     <string name="err_version_unsupported">إصدار النسخة الاحتياطية غير مدعومة.</string>
+    <string name="error_icon_content_description">خطأ</string>
     <string name="error_permissions">لا يمتلك هذا التطبيق الأذونات المطلوبة للوصول إلى التقويم. انتقل إلى الإعدادات وتحقق من الأذونات للمتابعة.</string>
     <string name="evening">عصر</string>
     <string name="every_day">كل يوم</string>
     <string name="exchange_account">تبديل الحسابات</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
     <string name="fail">فشل</string>
     <string name="failed_description">فشل</string>
     <string name="feature_title_account">حساب Mi</string>
@@ -333,11 +364,14 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
 يجب عليك إنشاء نسخ iCloud احتياطي أولا."</string>
     <string name="icloud_need_wifi_message">انت غير متصل بشبكة Wi-Fi الآن. لاستيراد البيانات من iCloud، اتصل بشبكة Wi-Fi.</string>
     <string name="icloud_need_wifi_title">الإتصال بشبكة Wi-Fi</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
     <string name="import_again">الاستيراد مرة أخرى</string>
     <string name="import_data_from_icloud">استيراد البيانات من iCloud</string>
     <string name="import_from_xiaomi_account_hint2">إذا كان لديك نسخة احتياطية مسبقة. المس التالي.</string>
     <string name="import_from_xiaomi_account_hint_title">استخدم Mi Talk لنسخ جهات الاتصال احتياطيًا عبر الأجهزة.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">بسبب مشاكل في التوافق، يمكنك فقط نقل البيانات جزئيا من أجهزة iOS. يجب عليك إنشاء نسخ iCloud احتياطي قبل بدأ النقل.</string>
+    <string name="item_view_role_description">علامة تبويب</string>
     <string name="lack_perm_msg">يحتاج ناقل Mi الأذونات التالية: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">يتطلب أذونات</string>
     <string name="list_footer_tip_title">نصائح:</string>
@@ -387,18 +421,30 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="login">تسجيل الدخول</string>
     <string name="login_failed">تعذر تسجيل الدخول، حاول مجددا.</string>
     <string name="logining">جارٍ تسجيل الدخول…</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
     <string name="midnight">الليل</string>
     <string name="miliao_account_guide">استخدم حساب Mi لتسجيل الدخول إلى Xiaomi Cloud، ثيمات MIUI وغيرها من خدمات Mi من أي مكان.</string>
     <string name="miliao_account_login">تسجيل الدخول مع Mi Talk</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -455,6 +501,39 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="month_september_shortest">سبتمبر</string>
     <string name="more">المزيد</string>
     <string name="morning">الصباح</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
     <string name="multi_select_title">%1$s محدد</string>
     <string name="multi_user_mode_backup_message">لا يمكن استخدام النسخ الاحتياطي في وضع تعدد المستخدمين. قم بإيقاف وضع تعدد المستخدمين للمتابعة.</string>
     <string name="multi_user_mode_dialog_message">لا يمكن استخدام ناقل Mi في وضع تعدد المستخدمين. قم بإيقاف وضع تعدد المستخدمين للمتابعة.</string>
@@ -562,6 +641,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="page_loading">لحظة من فضلك…</string>
     <string name="password">كلمة المرور</string>
     <string name="password_null">لا يمكن أن تكون كلمة المرور فارغة</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
     <string name="pause">إيقاف مؤقت</string>
     <string name="perm_camera">الكاميرا</string>
     <string name="perm_location">الموقع</string>
@@ -586,6 +666,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="permission_management_entrance">إدارة الأذونات</string>
     <string name="permission_not_admit">غير ممنوح</string>
     <string name="permission_purpose">تتيح لك هذه الميزة نسخ العناصر احتياطيا واستعادتها باستخدام الأجهزة المحمولة وأجهزة الكمبيوتر ومحركات أقراص USB.</string>
+    <string name="permission_purpose_pad">تتيح لك هذه الميزة نسخ العناصر احتياطيا واستعادتها باستخدام الأجهزة المحمولة وأجهزة الكمبيوتر ومحركات أقراص USB.</string>
     <string name="permission_read_apps">قم بالوصول إلى قائمة التطبيقات المثبتة على هذا الجهاز</string>
     <string name="permission_read_calendar">الوصول إلى أحداث التقويم</string>
     <string name="permission_read_calllog">الوصول إلى سجل المكالمات</string>
@@ -593,8 +674,11 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="permission_read_sms">الوصول إلى الرسائل</string>
     <string name="permission_read_storage">الوصول إلى الذاكرة وحفظ العناصر</string>
     <string name="permission_read_storage_global">الوصول إلى التخزين</string>
+    <string name="permission_read_storage_global_pad">الوصول إلى التخزين</string>
     <string name="permission_read_write_storage">اسمح أولاً لهذه الميزة بالوصول إلى التخزين لتتمكن من نسخ العناصر احتياطيا.</string>
     <string name="permission_read_write_sys_app">اسمح أولاً لهذه الميزة بالوصول إلى العناصر لتتمكن من النسخ الاحتياطي للرسائل وجهات الاتصال وسجل المكالمات ثم استردادها.</string>
+    <string name="permission_read_write_sys_app1">اسمح لهذه الميزة بالوصول إلى رسائلك وجهات اتصالك لنسخها احتياطيا واستعادتها لاحقا.</string>
+    <string name="permission_read_write_sys_app2">اسمح لهذه الميزة بالوصول إلى جهات الاتصال الخاصة بك لنسخها احتياطيا واستعادتها لاحقا.</string>
     <string name="permission_related">الأذونات</string>
     <string name="permission_restore_calendar">لاسترداد أحداث التقويم</string>
     <string name="permission_restore_calendar_desc">اسمح أولاً لهذا التطبيق بتعديل أحداث التقويم لتتمكن من استرداد أحداث التقويم.</string>
@@ -607,6 +691,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="permission_write_calllog">تعديل سجل المكالمات</string>
     <string name="permission_write_contacts">تعديل جهات الاتصال</string>
     <string name="permission_write_storage">حفظ العناصر في تخزين الجهاز</string>
+    <string name="permission_write_storage_pad">حفظ العناصر في تخزين الجهاز</string>
     <string name="phone_title">إعدادات الهاتف</string>
     <string name="platform_chooser_item_android_mi">هاتف Mi</string>
     <string name="platform_chooser_item_android_others">ماركات أخرى</string>
@@ -1017,7 +1102,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="user_notice_message">بعض الميزات تتطلب الإتصال بالإنترنت لتعمل بشكل طبيعي.</string>
     <string name="user_notice_title">تنبيه</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="view_password_description">إظهار كلمة المرور</string>
     <string name="wait_link">"افتح ناقل Mi على الجهاز القديم،
 انقر على \"أنا المرسل\" وحدد نقطة اتصال. 
@@ -1027,14 +1112,7 @@ https://appleid.apple.com/#!&amp;page=signin لإيقاف المصادقة ذا�
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>
     <string name="wifi_title">إعدادات Wi-Fi</string>
-    <string name="xiaomi_connect_download_manager_fail">تعذر بداية التنزيل. كن متاكدا من أن مدير التنزيلات يعمل بصفة طبيعية.</string>
-    <string name="xiaomi_external_storage_unavailable">التخزين غير متاح، تحقق من بطاقة الذاكرة SD الخاصة بك.</string>
     <string name="xiaomi_router">جهاز توجيه Mi</string>
     <string name="xiaomi_router_location">جهاز توجيه Mi%s</string>
-    <string name="xiaomi_update_dialog_message">"تقديم حجم النسخة: %1$s
-الحجم: %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"تقديم حجم النسخة: %1$s
-حجم تحديث دلتا: %2$s"</string>
-    <string name="xiaomi_update_dialog_title">تحديث متاح</string>
     <string name="yesterday">أمس</string>
 </resources>

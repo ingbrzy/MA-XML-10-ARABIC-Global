@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -36,7 +36,7 @@
     <string name="activate_feature_mi_roaming">تجوال Mi</string>
     <string name="activate_feature_mms_sync">مزامنة الرسائل</string>
     <string name="activate_feature_mx">رسالة Mi</string>
-    <string name="activate_feature_register_xiaomi_account">تثبيت حساب Mi</string>
+    <string name="activate_feature_register_xiaomi_account">إعداد حساب Mi</string>
     <string name="activate_feature_remote_assist">مساعد الريموت</string>
     <string name="activate_feature_verify_mx_token">التحقق من حساب Mi</string>
     <string name="activate_feature_voip">رسالة Mi VoIP</string>
@@ -60,8 +60,8 @@
     <string name="activate_popup_confirm_failed_receive_sms">حاول مجدداً</string>
     <string name="activate_popup_confirm_failed_send_sms">ارسل مجدداُ</string>
     <string name="activate_popup_confirm_failed_server">حاول مجدداً</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>رسالة نصية دولية مدفوعة&lt;/font>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>رسالة نصية محلية مدفوعة&lt;/font>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"لا يمكن إيجاد رقم اهاتفك. تأكد من أن بطاقة SIM الخاصة بك مفعّلة.
 أدخل رقم الهاتف المقترن ببطاقة SIM الجديدة لإعادة تفعيل %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"تعذر إرسال رسالة التفعيل. تأكد من أن بطاقة SIM الخاصة بك مفعّلة.
@@ -74,16 +74,17 @@
     <string name="activate_popup_desc_failed_receive_sms">تأكد من أن رقم الهاتف الذي أدخلته صحيح وبطاقة SIM الخاصة بك مفعّلة.</string>
     <string name="activate_popup_desc_failed_server">تحقق من اتصال الشبكة ثم حاول مرة أخرى.</string>
     <string name="activate_popup_desc_failed_server_msg">حدث خطأ ما في الخادم. تحقق من إعدادات الشبكة ثم حاول مجددا.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. لتفعيل \"%3$s\"، ادخل رقم الهاتف لبطاقة SIM %2$d. إذا قمت بتبديل بطاقة SIM هذه، سيتم إرسال رسالة SMS اخرى للتفعيل.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. لتفعيل \"%2$s\"، ادخل رقم هاتفك. إذا قمت بتبديل بطاقة SIM هذه، فسيتم إرسال رسالة SMS أخرى للتفعيل.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data>راجع &lt;a href=https://account.xiaomi.com/helpcenter/faq>دليل مستخدم حساب Mi&lt;/a>إذا كانت لديك أي اسئلة.&lt;/Data></string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">لتفعيل\"%3$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية محلية مدفوعة&lt;/b> و &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>رسالة نصية دولية مدفوعة&lt;/b>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s لتفعيل \"%3$s\"، ادخل رقم الهاتف لبطاقة SIM %2$d. إذا قمت بتبديل بطاقة SIM هذه، سيتم إرسال رسالة SMS اخرى للتفعيل.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s لتفعيل \"%2$s\"، ادخل رقم هاتفك. إذا قمت بتبديل بطاقة SIM هذه، فسيتم إرسال رسالة SMS أخرى للتفعيل.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>رسالة نصية دولية مدفوعة&lt;/font>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+ &lt;Data>راجع &lt;a href=https://account.xiaomi.com/helpcenter/faq>دليل مستخدم حساب Mi&lt;/a>إذا كانت لديك أي اسئلة.&lt;/Data>"</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">لتفعيل\"%3$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>رسالة نصية محلية مدفوعة&lt;/font> و &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>رسالة نصية دولية مدفوعة&lt;/font>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">لتفعيل \"%2$s\"، قم بإدخال رقم هاتف SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">لتفعيل %s، أدخل رقم هاتفك.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">لتفعيل \"%2$s\"، سيتم إرسال &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>رسالة نصية مدفوعة&lt;/font>. ستفرض عليك شركة الاتصالات رسوم على هذه الرسالة.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. لتفعيل \"%3$s\"، ادخل رقم الهاتف لبطاقة SIM %2$d. تم توفير الدعم الفني جزئيًا بواسطة Weihuitel. راجع سياسة خصوصية Weihuitel للحصول على التفاصيل.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. لتفعيل \"%2$s\"، ادخل رقم هاتفك. تم توفير الدعم الفني جزئيًا من Weihuitel. راجع سياسة خصوصية Weihuitel لمزيد من التفاصيل.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s لتفعيل \"%3$s\"، ادخل رقم الهاتف لبطاقة SIM %2$d. تم توفير الدعم الفني جزئيًا بواسطة Weihuitel. راجع سياسة خصوصية Weihuitel للحصول على التفاصيل.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s لتفعيل \"%2$s\"، ادخل رقم هاتفك. تم توفير الدعم الفني جزئيًا من Weihuitel. راجع سياسة خصوصية Weihuitel لمزيد من التفاصيل.</string>
     <string name="activate_popup_failed_send_sms_desc">تعذر أرسال رسالة SMS للتفعيل. يرجى التأكد من أن بطاقة SIM %d تعمل بشكل صحيح وحاول مجددا</string>
     <string name="activate_popup_failed_send_sms_desc_one_sim">تعذر إرسال رسالة SMS للتفعيل. يرجى التأكد من أن بطاقة SIM تعمل بشكل صحيح وحاول مجددا.</string>
     <string name="activate_progress_status_title">جارٍ تفعيل \"%s\"…</string>
@@ -186,14 +187,14 @@
     <string name="friday_shortest">الجمعة</string>
     <string name="midnight">الليل</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>

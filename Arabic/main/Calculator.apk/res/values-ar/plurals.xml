@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,36 +65,20 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d يوم</item>
-        <item quantity="zero">%d يوم</item>
-        <item quantity="one">%d يوم</item>
-        <item quantity="two">%d أيام</item>
-        <item quantity="few">%d أيام</item>
-        <item quantity="many">%d يوم</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d شهر</item>
-        <item quantity="zero">%d شهر</item>
-        <item quantity="one">%d شهر</item>
-        <item quantity="two">%d أشهر</item>
-        <item quantity="few">%d أشهر</item>
-        <item quantity="many">%d شهر</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">سنة</item>
-        <item quantity="zero">سنة</item>
-        <item quantity="one">سنة</item>
-        <item quantity="two">سنوات</item>
-        <item quantity="few">سنوات</item>
-        <item quantity="many">سنة</item>
+    <plurals name="delete_msg">
+        <item quantity="other">هل ترغب في حذف %d عنصر الآن؟</item>
+        <item quantity="zero">هل ترغب في حذف %d عنصر الآن؟</item>
+        <item quantity="one">هل ترغب في حذف %d عنصر الآن؟</item>
+        <item quantity="two">هل ترغب في حذف %d عناصر الآن؟</item>
+        <item quantity="few">هل ترغب في حذف %d عناصر الآن؟</item>
+        <item quantity="many">هل ترغب في حذف %d عنصر الآن؟</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d عنصر</item>
@@ -152,14 +136,6 @@
         <item quantity="few">الآن</item>
         <item quantity="many">الآن</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">تفاصيل السداد (%d سنة)</item>
-        <item quantity="zero">تفاصيل السداد (%d سنة)</item>
-        <item quantity="one">تفاصيل السداد (%d سنة)</item>
-        <item quantity="two">تفاصيل السداد (%d سنوات)</item>
-        <item quantity="few">تفاصيل السداد (%d سنوات)</item>
-        <item quantity="many">تفاصيل السداد (%d سنة)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">تفاصيل السداد (%d سنة)، يوان صيني</item>
         <item quantity="zero">تفاصيل السداد (%d سنة)، يوان صيني</item>
@@ -192,6 +168,14 @@
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">%d عنصر محدد</item>
+        <item quantity="zero">%d عنصر محدد</item>
+        <item quantity="one">%d عنصر محدد</item>
+        <item quantity="two">%d عناصر محددة</item>
+        <item quantity="few">%d عناصر محددة</item>
+        <item quantity="many">%d عنصر محدد</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d شهر</item>
         <item quantity="zero">%d شهر</item>
@@ -207,5 +191,53 @@
         <item quantity="two">%d سنوات</item>
         <item quantity="few">%d سنوات</item>
         <item quantity="many">%d سنة</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">بايت</item>
+        <item quantity="zero">بايت</item>
+        <item quantity="one">بايت</item>
+        <item quantity="two">بايت</item>
+        <item quantity="few">بايت</item>
+        <item quantity="many">بايت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">جيجابايت</item>
+        <item quantity="zero">جيجابايت</item>
+        <item quantity="one">جيجابايت</item>
+        <item quantity="two">جيجابايت</item>
+        <item quantity="few">جيجابايت</item>
+        <item quantity="many">جيجابايت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">كيلوبايت</item>
+        <item quantity="zero">كيلوبايت</item>
+        <item quantity="one">كيلوبايت</item>
+        <item quantity="two">كيلوبايت</item>
+        <item quantity="few">كيلوبايت</item>
+        <item quantity="many">كيلوبايت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">ميجابايت</item>
+        <item quantity="zero">ميجابايت</item>
+        <item quantity="one">ميجابايت</item>
+        <item quantity="two">ميجابايت</item>
+        <item quantity="few">ميجابايت</item>
+        <item quantity="many">ميجابايت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">بيتابايت</item>
+        <item quantity="zero">بيتابايت</item>
+        <item quantity="one">بيتابايت</item>
+        <item quantity="two">بيتابايت</item>
+        <item quantity="few">بيتابايت</item>
+        <item quantity="many">بيتابايت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">تيرابايت</item>
+        <item quantity="zero">تيرابايت</item>
+        <item quantity="one">تيرابايت</item>
+        <item quantity="two">تيرابايت</item>
+        <item quantity="few">تيرابايت</item>
+        <item quantity="many">تيرابايت</item>
     </plurals>
 </resources>

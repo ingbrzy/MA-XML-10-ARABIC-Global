@@ -4,6 +4,34 @@
         <item>ذكر</item>
         <item>أنثى</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -67,6 +95,10 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>ذكر</item>
+        <item>أنثى</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>الحسابات</item>
         <item>إضافة وإدارة حسابات الجهة الخارجية</item>
@@ -82,15 +114,20 @@
         <item>تغيير كلمة مرور حساب Mi</item>
         <item>تغيير كلمة المرور;تحديث كلمة المرور;حساب Mi;حساب</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>مساحة تخزين العائلة</item>
+        <item>عرض/تشغيل مساحة تخزين العائلة</item>
+        <item>مساحة تخزين العائلة;مساحه تخزين العائله;تخزين مشترك;مشاركه التخزين;مشاركه تخزين</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>خدمات العائلة</item>
+        <item>عرض/تشغيل خدمات العائلة</item>
+        <item>عائلة;العائله;العائلة;خدمات العائلة;خدمات العائله;مشاركة عائلية;مشاركه العائله;مشاركه العائلة</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>المساعدة</item>
         <item>احصل على المساعدة والدعم لحساب Mi</item>
         <item>حساب;حساب Mi;حساب المساعده;حساب المساعدة;مساعدة;مزكز المساعدة</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>التحقق بخطوتين</item>
-        <item>إعداد التحقق بخطوتين لحساب Mi</item>
-        <item>تسجيل الدخول;سجل الدخول;تحقق بخطوتين;تحقق;مصادقة;حساب;Xiaomi;حساب Mi</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>حماية الحساب</item>

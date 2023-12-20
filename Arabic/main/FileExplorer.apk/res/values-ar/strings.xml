@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -44,6 +44,7 @@
     <string name="agree">أوافق</string>
     <string name="am">ص</string>
     <string name="app_all_purpose">مرحبًا بك في مدير الملفات! يمكنك استخدام هذا التطبيق لإدارة الملفات المخزنة على الجهاز.</string>
+    <string name="app_all_purpose_global">مرحبًا بك في مدير الملفات! يمكنك استخدام هذا التطبيق لمعاينة وإدارة الملفات المخزنة على الجهاز.</string>
     <string name="app_all_purpose_pad">مرحبًا بك في مدير الملفات! يمكنك استخدام هذا التطبيق لإدارة الملفات المخزنة على الجهاز.</string>
     <string name="app_function">إدارة الملفات على الجهاز</string>
     <string name="app_name">مدير الملفات</string>
@@ -52,7 +53,7 @@
     <string name="app_name_downloadedrom">الحزم</string>
     <string name="app_name_downloads">التنزيلات</string>
     <string name="app_name_market">متجر التطبيقات</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">موارد النظام</string>
     <string name="app_name_miuimusic">الموسيقى</string>
     <string name="app_name_miuiringtone">نغمة الرنين</string>
     <string name="app_name_miuiwallpaper">خلفيات الشاشة</string>
@@ -65,6 +66,13 @@
     <string name="by_name">الاسم</string>
     <string name="by_size">الحجم</string>
     <string name="by_type">النوع</string>
+    <string name="call_notification_answer_action">ردّ</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">قطع الاتصال</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
     <string name="can_not_send_with_too_many">لا يمكن إرسال العديد من العناصر في نفس الوقت</string>
     <string name="cancel">إلغاء</string>
     <string name="cancel_error">تعذر الحذف، حاول مرة أخرى.</string>
@@ -145,6 +153,7 @@
     <string name="cloud_transfer_wait_download">في انتظار التنزيل</string>
     <string name="cloud_transfer_wait_network">في انتظار الإنترنت</string>
     <string name="cloud_transfer_wait_upload">في انتظار التحميل</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
     <string name="compress_fail">تعذر الضغط. يوجد ملف بنفس الاسم مسبقا.</string>
     <string name="compress_fail_unknown">تعذر الضغط. التخزين ممتلأ او حدث خطأ غير معروف.</string>
     <string name="compress_message">جارٍ الضغط الى…</string>
@@ -160,6 +169,7 @@
     <string name="create_folder">إنشاء</string>
     <string name="create_shortcut_success">تمت إضافة الاختصار بنجاح</string>
     <string name="cta_function_account_operation">تسجيل الدخول السريع لحساب Mi</string>
+    <string name="cta_use_sync_midrive_file">لمزامنة الملفات إلى Mi Drive</string>
     <string name="data_consume_dialog_message">انت تستخدم حاليا بيانات الهاتف. إذا قمت بالمتابعة، %s من البيانات سيتم استخدامها.</string>
     <string name="data_consume_dialog_title">استخدام بيانات الهاتف؟</string>
     <string name="data_consume_dialog_upload_title">تحميل باستخدام بيانات الهاتف</string>
@@ -179,6 +189,7 @@
     <string name="decompress_destination_error">لا يمكن استخراج الملفات إلى هذا الموقع.</string>
     <string name="decompress_encrypted_rar_not_supported">ملفات RAR المشفرة غير مدعومة.</string>
     <string name="decompress_fail">تعذر الإستخراج.</string>
+    <string name="decompress_fail_contains_special_characters">لا يمكن فك ضغط الملف. لا يمكن أن يحتوي أسماء الملفات المضغوطة على أحرف خاصة.</string>
     <string name="decompress_input_password">ادخل كلمة المرور</string>
     <string name="decompress_password_error">كلمة المرور التي أدخلتها غير صحيحة.</string>
     <string name="decompress_success">تم الانتهاء من الاستخراج</string>
@@ -211,6 +222,9 @@
     <string name="dialog_type_video">فيديوهات</string>
     <string name="disk_available">متوفر: </string>
     <string name="disk_total">الإجمالي: </string>
+    <string name="display_all_dirs">كل المجلدات</string>
+    <string name="display_hide_sys_dirs">مجلدات النظام المخفية</string>
+    <string name="display_mode">العرض</string>
     <string name="display_setting">العناصر المعروضة</string>
     <string name="doc_all">الكل</string>
     <string name="downloading">جارٍ التحميل</string>
@@ -261,6 +275,7 @@
     <string name="favorite_photo">صور</string>
     <string name="favorite_ringtone">نغمات الرنين</string>
     <string name="favorite_screen_cap">لقطات شاشة</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">للقراءة: </string>
     <string name="file_info_canwrite">للكتابة: </string>
     <string name="file_info_ishidden">مخفي: </string>
@@ -330,10 +345,11 @@
     <string name="friday">الجمعة</string>
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
-    <string name="ftp_account_req_notice">اسم المستخدم وكلمة المرور حساسان لحالة الأحرف ويجب أن يتراوح طولهما مابين %1$d-%2$d حرف. يمكنك الجمع بين الأحرف الإنجليزية والأحرف الخاصة والأرقام.</string>
+    <string name="ftp_account_req_notice">يجب أن يحتوي اسم المستخدم وكلمة المرور %1$d إلى %2$d من الأحرف. حساس لحالة الأحرف ولا يمكن أن يحتوي على أحرف خاصة.</string>
     <string name="ftp_anonymous_login">تسجيل الدخول كمجهول</string>
     <string name="ftp_anonymous_warning_msg">يمكن أن تشكل ميزة إخفاء الهوية مخاطر أمنية. هل مازلت ترغب في المتابعة؟</string>
     <string name="ftp_anonymous_warning_title">تنبيه</string>
+    <string name="ftp_invalid_username">لا يمكن أن يحتوي اسم المستخدم على أحرف مميزة. أدخل اسم آخر.</string>
     <string name="ftp_invalid_username_or_password">اسم المستخدم أو كلمة السر التي ادخلتها غير صالحة.</string>
     <string name="ftp_open_port_error">تعذر فتح المنفذ. تحقق من الاتصال أو أعد تعيين رقم المنفذ.</string>
     <string name="ftp_password_hint">كلمة المرور</string>
@@ -341,6 +357,7 @@
     <string name="ftp_transfer_secure">الحماية</string>
     <string name="ftp_username_and_passworld">تسجيل الدخول</string>
     <string name="ftp_username_hint">اسم المستخدم</string>
+    <string name="func_settings">إعدادات الميزة</string>
     <string name="function_file_operation">لعرض وتحرير الملفات</string>
     <string name="function_set_private">لعرض الملفات وتشفيرها</string>
     <string name="function_use_imei">للوصول إلى IMEI والملفات المشفرة</string>
@@ -363,7 +380,7 @@
     <string name="home_action_up">رجوع</string>
     <string name="home_title">مدير الملفات</string>
     <string name="homepage_tab_category">الفئات</string>
-    <string name="homepage_tab_file_view_phone">التخزبن</string>
+    <string name="homepage_tab_file_view_phone">التخزين</string>
     <string name="homepage_tab_recent">الحديثة</string>
     <string name="hot_sticker">ملصقات</string>
     <string name="hybrid_provider">مدعوم بواسطة %1$s</string>
@@ -378,6 +395,7 @@
     <string name="instruction_pre_pad">إدارة الملفات على هذا الجهاز باستخدام الكمبيوتر</string>
     <string name="instruction_pre_phone">إدارة الملفات على هذا الجهاز باستخدام الكمبيوتر</string>
     <string name="internal_storage">التخزين الداخلي</string>
+    <string name="internal_storage_device">الجهاز</string>
     <string name="just_now">حاليا</string>
     <string name="lack_perm_msg">يحتاج مدير الملفات الأذونات التالية ليعمل بشكل طبيعي: &lt;b>%s&lt;/b></string>
     <string name="lack_perm_title">الأذونات المطلوبة</string>
@@ -400,7 +418,8 @@
     <string name="make_private_msg_3">ستكون جميع الملفات في هذا المجلد خاصة.</string>
     <string name="manage_cloud_space">إدارة تخزين Cloud</string>
     <string name="menu_item_cleanup">تنظيف</string>
-    <string name="menu_item_ftp">FTP</string>
+    <string name="menu_item_ftp">الاتصال بالكمبيوتر</string>
+    <string name="menu_item_midrop">نقل الملفات</string>
     <string name="menu_item_router">جهاز التوجيه</string>
     <string name="menu_item_search">بحث</string>
     <string name="menu_item_sort">ترتيب حسب</string>
@@ -448,20 +467,23 @@
     <string name="mirror_tip_refresh">تحديث</string>
     <string name="mirror_tip_show_type">ترتيب حسب</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
     <string name="miuix_appcompat_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_select_all_description">تحديد الكل</string>
     <string name="miuix_appcompat_select_item">تحديد العناصر</string>
+    <string name="miuix_navigator_content_switch_description">عرض الشريط الجانبي</string>
+    <string name="miuix_navigator_multiple_choice">تحديد</string>
+    <string name="miuix_navigator_navigator_switch_description">إخفاء الشريط الجانبي</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">اسحب لأسفل للتحديث</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">تم التحديث بنجاح</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">جارٍ التحديث…</string>
@@ -521,6 +543,8 @@
     <string name="mtp_device">جهاز وسائل الاعلام (MTP)</string>
     <string name="mtp_label">MTP</string>
     <string name="name_empty">ادخل اسم</string>
+    <string name="navigator_label_all_files">كل الملفات</string>
+    <string name="navigator_label_external_devices">الأجهزة الخارجية</string>
     <string name="need_open_content">امنح مدير الملفات إذن الوصول إلى الصور والملفات لتتمكن من استخدام هذه الميزة.</string>
     <string name="need_open_permission">الأذونات مطلوبة</string>
     <string name="need_read_storage_permission">يتطلب مدير الملفات الوصول إلى وحدة تخزين الجهاز ليعمل بشكل طبيعي.</string>
@@ -563,6 +587,8 @@
     <string name="operation_compress">ضغط</string>
     <string name="operation_compressing">جارٍ الضغط…</string>
     <string name="operation_copy">نسخ</string>
+    <string name="operation_copy_clipboard">نسخ إلى الحافظة</string>
+    <string name="operation_copy_local">نسخ إلى المجلد</string>
     <string name="operation_create_folder">إنشاء مجلد جديد</string>
     <string name="operation_create_folder_message">أدخل اسم المجلد</string>
     <string name="operation_create_folder_name_conflict">تعذر إعادة تسمية المجلد. يوجد مجلد بنفس هذا الاسم.</string>
@@ -573,6 +599,7 @@
     <string name="operation_decompressing">جارٍ الاستخراج…</string>
     <string name="operation_del_fav">حذف من المفضلة…</string>
     <string name="operation_delete">حذف</string>
+    <string name="operation_delete_confirm_dcim_message_folder">DCIM هو مجلد تطبيق المعرض. سيؤدي حذف المجلد إلى حذف جميع الملفات الموجودة في المعرض ولا يمكن استعادته. هل مازلت ترغب في المتابعة؟</string>
     <string name="operation_delete_confirm_message">هل ترغب في الحذف؟</string>
     <string name="operation_delete_confirm_message_folder">"سيتم حذف جميع محتويات المجلد.
 "</string>
@@ -648,11 +675,15 @@
     <string name="permission_account_title_pad">الوصول إلى حسابات الجهاز</string>
     <string name="permission_denial">تعذر الوصول إلى الملفات. قم بالسماح لبرنامج مدير الملفات بالوصول إلى الملفات من الإعدادات.</string>
     <string name="permission_description">تفاصيل الأذونات</string>
+    <string name="permission_group_description_phone">عندما تقوم بتعيين ملف كملف خاص، سيقوم هذا التطبيق بجمع IMEI لجهازك لأغراض التعرف عليه وتخزينه وفتحه</string>
+    <string name="permission_group_description_storage_space">الوصول إلى الذاكرة وإضافة عناصر</string>
+    <string name="permission_group_name_phone">الهاتف</string>
+    <string name="permission_group_name_storage_space">التخزين</string>
     <string name="permission_required">تعذر الوصول إلى الملفات. قم بالسماح لبرنامج مدير الملفات بالوصول إلى الملفات من الإعدادات.​</string>
     <string name="permission_storage_desc_pad">لحفظ الصور والمستندات على الجهاز</string>
     <string name="permission_storage_title">الوصول إلى تخزين الجهاز</string>
     <string name="permission_storage_title_pad">الوصول إلى تخزين الجهاز</string>
-    <string name="phone">التخزبن</string>
+    <string name="phone">التخزين</string>
     <string name="phone_storage">التخزين</string>
     <string name="phone_storage_apk_title">ملفات APK: </string>
     <string name="phone_storage_audio_title">الموسيقى: </string>
@@ -670,6 +701,7 @@
     <string name="pick_folder">اختر المجلد</string>
     <string name="pm">م</string>
     <string name="port_range">يجب أن يكون رقم المنفذ مابين ١٠٢٤–٦٥٥٣٥</string>
+    <string name="positive_order">إعادة توجيه</string>
     <string name="pre_privacy_recall">سحب الموافقة</string>
     <string name="pref_permission_allowed">تم المنح</string>
     <string name="pref_permission_manage_key_storage">الوصول إلى الصور والملفات على الجهاز</string>
@@ -677,7 +709,7 @@
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_policy_renew">تحديث سياسة الخصوصية</string>
-    <string name="privacy_policy_renew_content">&lt;Data>تم تحديث &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مدير الملفات. لمعرفة حقوقك كمستخدم وطرق استخدامنا لبياناتك، يرجى قراءة والموافقة على الإصدار الجديد من سياسة الخصوصية قبل المتابعة.&lt;/Data></string>
+    <string name="privacy_policy_renew_content"><Data>تم تحديث &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مدير الملفات. لمعرفة حقوقك كمستخدم وطرق استخدامنا لبياناتك، يرجى قراءة والموافقة على الإصدار الجديد من سياسة الخصوصية قبل المتابعة.</Data></string>
     <string name="privacy_recall_alert_description" formatted="false">احذف جميع العناصر من Mi Drive لتتمكن من سحب الموافقة. اتبع هذه الخطوات لحذف العناصر: &lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. في صفحة Mi Drive الرئيسية، اضغط مطولا على عنصر لإظهار زر \"تحديد الكل \". استخدم هذا الزر لتحديد ما يصل إلى 200 ملف في وقت واحد وحذفها. &lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. بعد ذلك، قم بتنظيف العناصر المحذوفة مؤخرا.</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. نوصي بعمل نسخة احتياطية من عناصرك قبل حذفها. للقيام بذلك، قم بزيارة i.mi.com وانقر على Mi Drive، ثم بقم بتنزيل العناصر على كمبيوترك. &lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. يرجى الملاحظة أنه لا يمكن استرداد العناصر المحذوفة مؤخرا بعد حذفها.</string>
     <string name="privacy_recall_confirm_button">سحب الموافقة</string>
@@ -699,6 +731,9 @@
     <string name="qq_title">لا يمكن الوصول إلى مستندات WeChat</string>
     <string name="query_quota_exception">حدث خطأ في الخادم، انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="query_quota_searching">لحظة من فضلك…</string>
+    <string name="recent_file_by_source">مصدر الملف</string>
+    <string name="recent_file_sort_by_date">التاريخ</string>
+    <string name="recent_file_sort_type">ترتيب حسب</string>
     <string name="recent_hide_camera_and_screenshots">لا تعرض عناصر المعرض أو لقطات الشاشة في الملفات الحديثة</string>
     <string name="recent_hide_cloud_drive_files">لا تظهر ملفات Mi Drive في الشاشة الحديثة</string>
     <string name="refresh_success">اكتمل التحديث</string>
@@ -720,6 +755,7 @@
     <string name="request_timeout">انتهت مهلة الاتصال بالشبكة</string>
     <string name="reset_password">تغيير كلمة المرور</string>
     <string name="restoring">جارٍ الاسترداد…</string>
+    <string name="reverse_order">عكس</string>
     <string name="rlv_last_refreshing_time">تم التحديث في %1$s</string>
     <string name="rlv_loading_more">لحظة من فضلك…</string>
     <string name="rlv_pull_to_refresh">اسحب لأسفل للتحديث</string>
@@ -733,6 +769,7 @@
     <string name="search_app_more">المزيد</string>
     <string name="search_category">الفئات</string>
     <string name="search_category_folder">المجلدات</string>
+    <string name="search_category_type">بحث عن فئات</string>
     <string name="search_description">البحث عن كل الملفات في الجهاز</string>
     <string name="search_empty_view_hint">تعذر العثور على أي شيء</string>
     <string name="search_error_hint">بحث</string>
@@ -748,11 +785,13 @@
     <string name="search_more_category">المزيد</string>
     <string name="search_result">النتائج</string>
     <string name="search_result_more">المزيد</string>
+    <string name="search_text_hint">بحث عن ملفات</string>
     <string name="search_title">البحث</string>
     <string name="search_title_hint">بحث</string>
     <string name="select_dest_folder">حدد المجلد</string>
     <string name="select_image">الصور</string>
     <string name="select_music">ملفات صوتية</string>
+    <string name="select_pdf">تحديد PDF</string>
     <string name="select_video">ملفات الفيديو</string>
     <string name="select_volume">حدد موقع التخزين</string>
     <string name="send">مشاركة</string>
@@ -762,6 +801,7 @@
     <string name="set_pattern">تحديث كلمة المرور</string>
     <string name="set_pattern_btn">تعيين</string>
     <string name="set_pattern_msg">يرجى تعيين كلمة المرور مرة أخرى. يمكن استخدام كلمة مرور حماية الخصوصية أيضًا للصور والرسائل والملاحظات.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">أقل من %d كيلوبايت</string>
     <string name="size_lv2" formatted="false">%1d كيلوبايت - %2d ميجابايت</string>
     <string name="size_lv3" formatted="false">%1d ميجابايت - %2d ميجابايت</string>
@@ -774,8 +814,10 @@
     <string name="sort_hint_name">مرتبة بحسب الاسم</string>
     <string name="sort_hint_time">مرتبة بحسب الوقت</string>
     <string name="sort_hint_type">مرتبة بحسب النوع</string>
+    <string name="sort_mode">ترتيب الفرز</string>
     <string name="sort_size_asc">من الأصغر الى الأكبر</string>
     <string name="sort_size_desc">من الأكبر إلى الأصغر</string>
+    <string name="sort_type">تصفية</string>
     <string name="start_all">عرض الكل</string>
     <string name="start_doc">المستندات</string>
     <string name="start_phone">الملفات</string>
@@ -863,6 +905,7 @@
     <string name="title_select_volume">حدد المجلد</string>
     <string name="to_open">الإعدادات</string>
     <string name="to_setting">الإعدادات</string>
+    <string name="toast_copy_clipboard">تمت الإضافة إلى الحافظة</string>
     <string name="toast_file_not_can_read">لم يتم العثور على اي تطبيق للتعامل مع هذا الإجراء.</string>
     <string name="today">اليوم</string>
     <string name="tomorrow">غدا</string>
@@ -895,10 +938,13 @@
     <string name="utf8_summary">نظام الترميز الافتراضي FTP</string>
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="video_data_consume_dialog_confirm">متابعة</string>
     <string name="video_data_consume_dialog_title">استخدام بيانات الهاتف؟</string>
+    <string name="view_mode_grid">شبكة</string>
+    <string name="view_mode_list">قائمة</string>
     <string name="view_type">عرض</string>
+    <string name="view_type_mode">التنسيق</string>
     <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
     <string name="web_sso_login_message">تسجيل الدخول…</string>
     <string name="webview_reload">حاول مرة أخرى</string>

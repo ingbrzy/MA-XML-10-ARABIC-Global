@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -63,42 +91,15 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
-    <string-array name="height_array">
-        <item>سنتيمتر</item>
-        <item>متر</item>
-        <item>قدم</item>
-        <item>بوصة</item>
-    </string-array>
     <string-array name="mortgage_repayment">
         <item>أقساط متساوية</item>
         <item>تقليل الأقساط</item>
     </string-array>
-    <string-array name="operatorDescs">
-        <item>قوس أيسر</item>
-        <item>قوس أيمن</item>
-        <item>عاملي</item>
-        <item>خوارزمية طبيعية</item>
-        <item>خوارزمية</item>
-        <item>جذر تربيعي</item>
-        <item>مقسوم على</item>
-        <item>مضروب في</item>
-        <item>زائد</item>
-        <item>ناقص</item>
-        <item>فاصلة</item>
-        <item>أس</item>
-        <item>المماس</item>
-        <item>sine</item>
-        <item>جيب التمام</item>
-        <item>pi</item>
-        <item>يساوي</item>
-    </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
         <item>EUR</item>
+        <item>HKD</item>
         <item>JPY</item>
-    </string-array>
-    <string-array name="weight_array">
-        <item>كيلوغرام</item>
-        <item>رطل</item>
+        <item>CNY</item>
     </string-array>
 </resources>

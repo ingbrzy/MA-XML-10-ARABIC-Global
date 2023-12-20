@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -89,6 +117,20 @@
     <string-array name="gb_gpu_custom_cut_texture">
         <item>متوازن</item>
         <item>جودة عالية</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_fps_gear">
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Low</item>
+        <item>Standard</item>
+        <item>High</item>
+        <item>Highest</item>
+        <item>Default</item>
     </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>سرعة عالية</item>

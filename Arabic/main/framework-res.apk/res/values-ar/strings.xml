@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">تنبيه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">عذرًا، هذا الفيديو غير صالح للبث على هذا الجهاز.</string>
     <string name="selectTextMode">تحديد نص</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="fingerprint_icon_content_description">رمز بصمة الإصبع</string>
     <string name="paste_as_plain_text">اللصق كنص عادي</string>
     <string name="autofill">الملء التلقائي</string>
@@ -175,7 +176,7 @@
     <string name="accessibility_dialog_button_deny">رفض</string>
     <string name="accessibility_edit_shortcut_menu_button_title">اختيار الميزات التي تريد استخدامها مع زر أدوات تمكين الوصول</string>
     <string name="accessibility_edit_shortcut_menu_volume_title">اختيار الميزات التي تريد استخدامها مع اختصار مفتاح التحكّم في مستوى الصوت</string>
-    <string name="accessibility_enable_service_title">هل تريد السماح لخدمة %1$s بالتحكّم الكامل في جهازك؟</string>
+    <string name="accessibility_enable_service_title">هل تريد السماح لـ \"%1$s\" بالتحكّم الكامل في جهازك؟</string>
     <string name="accessibility_freeform_caption">شريط الشرح لتطبيق %1$s.</string>
     <string name="accessibility_gesture_3finger_instructional_text">للتبديل بين الميزات، مرّر سريعًا من أسفل الشاشة لأعلاها بثلاثة أصابع مع تثبيتها.</string>
     <string name="accessibility_gesture_3finger_prompt_text">يمكنك اختيار إحدى الميزات التالية لاستخدامها مع إيماءة أدوات تمكين الوصول (مرّر سريعًا إلى الأعلى من أسفل الشاشة باستخدام ثلاثة أصابع):</string>
@@ -183,11 +184,11 @@
     <string name="accessibility_gesture_prompt_text">يمكنك اختيار إحدى الميزات لاستخدامها مع إيماءة أدوات تمكين الوصول (مرّر سريعًا إلى الأعلى من أسفل الشاشة باستخدام إصبعين):</string>
     <string name="accessibility_magnification_chooser_text">التكبير</string>
     <string name="accessibility_select_shortcut_menu_title">انقر على ميزة لبدء استخدامها:</string>
-    <string name="accessibility_service_action_perform_description">يمكنها تتبّع تفاعلاتك مع تطبيق أو جهاز استشعار والتفاعل مع التطبيقات نيابةً عنك.</string>
+    <string name="accessibility_service_action_perform_description">قد يؤدي ذلك إلى السماح للميزة بتتبّع تفاعلاتك مع تطبيق أو جهاز استشعار والتفاعل مع التطبيقات نيابةً عنك.</string>
     <string name="accessibility_service_action_perform_title">عرض الإجراءات وتنفيذها</string>
     <string name="accessibility_service_screen_control_description">يمكنها قراءة كل المحتوى على الشاشة وعرض المحتوى فوق تطبيقات أخرى.</string>
     <string name="accessibility_service_screen_control_title">قراءة محتوى الشاشة والتحكم به</string>
-    <string name="accessibility_service_warning_description">إنّ التحكّم الكامل ليس ملائمًا لمعظم التطبيقات، باستثناء التطبيقات المعنية بسهولة الاستخدام.</string>
+    <string name="accessibility_service_warning_description">إنّ التحكّم الكامل ليس ملائمًا لمعظم التطبيقات، باستثناء التطبيقات المعنية بتسهيل الاستخدام.</string>
     <string name="accessibility_shortcut_disabling_service">تم الضغط مع الاستمرار على مفتاحَي التحكّم في مستوى الصوت. تم إيقاف %1$s.</string>
     <string name="accessibility_shortcut_enabling_service">تم الضغط مع الاستمرار على مفتاحَي التحكّم في مستوى الصوت. تم تفعيل %1$s.</string>
     <string name="accessibility_shortcut_menu_item_status_off">غير مفعّل</string>
@@ -206,7 +207,7 @@
 
 يمكنك تغيير هذا الاختصار لاستخدامه مع ميزة أخرى في الإعدادات > أدوات تمكين الوصول."</string>
     <string name="accessibility_shortcut_single_service_warning_title">هل تريد تفعيل اختصار %1$s؟</string>
-    <string name="accessibility_shortcut_spoken_feedback">اضغط مع الاستمرار على مفتاحي مستوى الصوت لمدة 3 ثوانٍ لاستخدام %1$s.</string>
+    <string name="accessibility_shortcut_spoken_feedback">ارفع إصبعَيك عن مفتاحَي مستوى الصوت. لتفعيل خدمة \"%1$s\"، اضغط مع الاستمرار على كلا مفتاحَي مستوى الصوت مجددًا لمدة 3 ثوانٍ.</string>
     <string name="accessibility_shortcut_toogle_warning">عند تفعيل الاختصار، يؤدي الضغط على زرّي التحكّم في مستوى الصوت معًا لمدة 3 ثوانٍ إلى تفعيل إحدى ميزات إمكانية الوصول.</string>
     <string name="accessibility_shortcut_warning_dialog_title">هل تريد استخدام اختصار \"سهولة الاستخدام\"؟</string>
     <string name="accessibility_system_action_back_label">رجوع</string>
@@ -257,7 +258,7 @@
     <string name="aerr_mute">كتم الصوت حتى إعادة تشغيل الجهاز</string>
     <string name="aerr_process">توقفت %1$s</string>
     <string name="aerr_process_repeated">تستمر عملية %1$s في التوقف.</string>
-    <string name="aerr_report">إرسال تعليقات</string>
+    <string name="aerr_report">إرسال ملاحظات</string>
     <string name="aerr_restart">فتح التطبيق مرة أخرى</string>
     <string name="aerr_wait">انتظار</string>
     <string name="alert_windows_notification_channel_group_name">إظهار فوق التطبيقات الأخرى</string>
@@ -270,9 +271,7 @@
     <string name="android_preparing_apk">جارٍ تحضير %1$s.</string>
     <string name="android_start_title">جارٍ بدء تشغيل الهاتف…</string>
     <string name="android_system_label">‏نظام Android</string>
-    <string name="android_upgrading_apk">جارٍ تحسين التطبيق %1$d من %2$d.</string>
     <string name="android_upgrading_complete">جارٍ إعادة التشغيل.</string>
-    <string name="android_upgrading_fstrim">جارٍ تحسين مساحة التخزين.</string>
     <string name="android_upgrading_notification_title">جارٍ إنهاء تحديث النظام…</string>
     <string name="android_upgrading_starting_apps">بدء التطبيقات.</string>
     <string name="android_upgrading_title">جارٍ تحديث الهاتف…</string>
@@ -296,14 +295,15 @@
     <string name="app_not_found">لم يتم العثور على تطبيق يمكنه التعامل مع هذا الإجراء.</string>
     <string name="app_running_notification_text">انقر للحصول على مزيد من المعلومات أو لإيقاف التطبيق.</string>
     <string name="app_running_notification_title">%1$s قيد التشغيل</string>
-    <string name="app_streaming_blocked_message">لا يمكن الوصول إلى هذا التطبيق على %1$s. بدلاً من ذلك، جرِّب استخدام هاتفك.</string>
+    <string name="app_streaming_blocked_message">لا يمكن الوصول إلى هذا التطبيق على %1$s في الوقت الحالي. حاوِل الوصول إليه على هاتفك بدلاً من ذلك.</string>
     <string name="app_streaming_blocked_message_for_fingerprint_dialog">يطلب هذا التطبيق الحصول على ميزات أمان إضافية. بدلاً من ذلك، جرِّب استخدام هاتفك.</string>
-    <string name="app_streaming_blocked_message_for_permission_dialog">لا يمكن الوصول إلى هذا التطبيق على %1$s في الوقت الحالي. بدلاً من ذلك، جرِّب استخدام هاتفك.</string>
+    <string name="app_streaming_blocked_message_for_settings_dialog">لا يمكن الوصول إلى هذه الإعدادات على %1$s. بدلاً من ذلك، جرِّب استخدام هاتفك.</string>
     <string name="app_streaming_blocked_title">تطبيق %1$s غير متاح</string>
     <string name="app_streaming_blocked_title_for_camera_dialog">الكاميرا غير متاحة</string>
     <string name="app_streaming_blocked_title_for_fingerprint_dialog">الاستمرار على الهاتف</string>
     <string name="app_streaming_blocked_title_for_microphone_dialog">الميكروفون غير متاح</string>
     <string name="app_streaming_blocked_title_for_permission_dialog">مطلوب منح الإذن</string>
+    <string name="app_streaming_blocked_title_for_playstore_dialog">‏متجر Play غير متوفّر</string>
     <string name="app_streaming_blocked_title_for_settings_dialog">إعدادات الهاتف غير متاحة</string>
     <string name="app_suspended_default_message">التطبيق %1$s غير متاح الآن، وهو مُدار بواسطة %2$s.</string>
     <string name="app_suspended_more_details">مزيد من المعلومات</string>
@@ -311,25 +311,13 @@
     <string name="app_suspended_unsuspend_message">استئناف تشغيل التطبيق</string>
     <string name="app_upgrading_toast">جارٍ ترقية %1$s…</string>
     <string name="as_app_forced_to_restricted_bucket">تم وضع %1$s في الحزمة \"محظورة\".</string>
-    <string name="autofill_address_name_separator">" "</string>
-    <string name="autofill_address_summary_format">$1$2$3</string>
-    <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">"، "</string>
-    <string name="autofill_area">المنطقة</string>
+    <string name="auto_data_switch_content">يمكنك تغيير هذه الميزة في أي وقت في الإعدادات.</string>
+    <string name="auto_data_switch_title">تم تبديل البيانات إلى %s</string>
     <string name="autofill_continue_yes">متابعة</string>
-    <string name="autofill_county">المقاطعة</string>
-    <string name="autofill_department">القسم</string>
-    <string name="autofill_district">المنطقة</string>
-    <string name="autofill_emirate">الإمارة</string>
     <string name="autofill_error_cannot_autofill">يتعذر إجراء ملء تلقائي للمحتويات</string>
-    <string name="autofill_island">جزيرة</string>
-    <string name="autofill_parish">الدائرة</string>
     <string name="autofill_picker_accessibility_title">خيارات الملء التلقائي</string>
     <string name="autofill_picker_no_suggestions">لا توجد اقتراحات للملء التلقائي</string>
     <string name="autofill_picker_some_suggestions">{count,plural, =1{اقتراح واحد للملء التلقائي}zero{# اقتراح للملء التلقائي}two{اقتراحان للملء التلقائي}few{# اقتراحات للملء التلقائي}many{# اقتراحًا للملء التلقائي}other{# اقتراح للملء التلقائي}}</string>
-    <string name="autofill_postal_code">الرمز البريدي</string>
-    <string name="autofill_prefecture">المحافظة</string>
-    <string name="autofill_province">الإقليم</string>
     <string name="autofill_save_accessibility_title">حفظ المعلومات للملء التلقائي لاحقًا</string>
     <string name="autofill_save_never">أبدًا</string>
     <string name="autofill_save_no">لا، شكرًا</string>
@@ -347,15 +335,12 @@
     <string name="autofill_save_type_payment_card">بطاقة الدفع</string>
     <string name="autofill_save_type_username">اسم المستخدم</string>
     <string name="autofill_save_yes">حفظ</string>
-    <string name="autofill_state">الولاية</string>
-    <string name="autofill_this_form">ملء تلقائي</string>
     <string name="autofill_update_title">هل تريد التحديث في <b>%1$s</b>؟</string>
     <string name="autofill_update_title_with_2types">هل تريد تحديث %1$s و%2$s في <b>%3$s</b>؟</string>
     <string name="autofill_update_title_with_3types">هل تريد تحديث هذه العناصر في <b>%4$s</b>: %1$s و%2$s و%3$s؟</string>
     <string name="autofill_update_title_with_type">هل تريد تحديث %1$s في <b>%2$s</b>؟</string>
     <string name="autofill_update_yes">تعديل</string>
     <string name="autofill_window_title">الملء التلقائي من خلال %1$s</string>
-    <string name="autofill_zip_code">الرمز البريدي</string>
     <string name="back_button_label">رجوع</string>
     <string name="badPin">‏رمز PIN القديم الذي كتبته غير صحيح.</string>
     <string name="badPuk">‏رمز PUK الذي كتبته غير صحيح.</string>
@@ -429,10 +414,18 @@
     <string name="chooser_no_direct_share_targets">ما مِن أشخاص مقترحين للمشاركة معهم.</string>
     <string name="chooser_wallpaper">تغيير الخلفية</string>
     <string name="clearDefaultHintMsg">‏يمكنك محو الإعدادات التلقائية في إعدادات النظام > التطبيقات > ما تم تنزيله.</string>
+    <string name="clone_profile_label_badge">نسخة طبق الأصل عن \"%1$s\"</string>
     <string name="close_button_text">إغلاق</string>
     <string name="color_correction_feature_name">تصحيح الألوان</string>
     <string name="color_inversion_feature_name">قلب الألوان</string>
     <string name="common_name">الاسم الشائع:</string>
+    <string name="concurrent_display_notification_active_content">يستخدم \"%1$s\" كلتا الشاشتين لعرض المحتوى.</string>
+    <string name="concurrent_display_notification_active_title">ميزة \"استخدام الشاشتين\" مفعّلة</string>
+    <string name="concurrent_display_notification_name">استخدام الشاشتين</string>
+    <string name="concurrent_display_notification_power_save_content">‏ميزة Dual Screen غير متاحة لأن ميزة \"توفير شحن البطارية\" مفعّلة. ويمكنك إيقاف هذا الإجراء من خلال \"الإعدادات\".</string>
+    <string name="concurrent_display_notification_power_save_title">‏ميزة Dual Screen غير متاحة</string>
+    <string name="concurrent_display_notification_thermal_content">ميزة \"استخدام الشاشتين\" غير متاحة لأن هاتفك ساخن للغاية.</string>
+    <string name="concurrent_display_notification_thermal_title">الجهاز ساخن للغاية</string>
     <string name="condition_provider_service_binding_label">موفر الحالة</string>
     <string name="conference_call">مكالمة جماعية</string>
     <string name="config_pdp_reject_dialog_title" />
@@ -455,6 +448,12 @@
     <string name="create_contact_using">"إنشاء جهة اتصال
 باستخدام %s"</string>
     <string name="crossSimFormat_spn_cross_sim_calling">%s الاتصال الاحتياطي</string>
+    <string name="csd_dose_reached_warning">"هل تريد مواصلة الاستماع بصوت عالٍ؟
+
+كان مستوى صوت سمّاعة الرأس مرتفعًا لمدة أطول مما يُنصَح به، وقد يضر هذا بسمعك."</string>
+    <string name="csd_momentary_exposure_warning">"تم رصد صوت مرتفع.
+
+كان مستوى صوت سمّاعة الرأس مرتفعًا لمدة أطول مما يُنصَح به، وقد يضر هذا بسمعك."</string>
     <string name="data_saver_description">للمساعدة في خفض استخدام البيانات، تمنع ميزة \"توفير البيانات\" بعض التطبيقات من إرسال البيانات وتلقّيها في الخلفية. يمكن للتطبيقات المتاحة لديك الآن استخدام البيانات، ولكن لا يمكنها الإكثار من ذلك. وهذا يعني أن الصور مثلاً لا تظهر حتى تنقر عليها.</string>
     <string name="data_saver_enable_button">تفعيل</string>
     <string name="data_saver_enable_title">هل تريد تفعيل ميزة \"توفير البيانات\"؟</string>
@@ -491,9 +490,10 @@
     <string name="default_audio_route_category_name">النظام</string>
     <string name="default_audio_route_name">الهاتف</string>
     <string name="default_audio_route_name_dock_speakers">مكبرات صوت للإرساء</string>
-    <string name="default_audio_route_name_hdmi">HDMI</string>
+    <string name="default_audio_route_name_external_device">جهاز خارجي</string>
     <string name="default_audio_route_name_headphones">سماعات رأس</string>
     <string name="default_audio_route_name_usb">USB</string>
+    <string name="default_card_name">‏رقم البطاقة ‎%d</string>
     <string name="default_notification_channel_label">غير مصنفة</string>
     <string name="delete">حذف</string>
     <string name="deleteText">حذف</string>
@@ -501,11 +501,14 @@
     <string name="demo_restarting_message">جارٍ إعادة ضبط الجهاز…</string>
     <string name="demo_starting_message">جارٍ بدء العرض التوضيحي…</string>
     <string name="deny">رفض</string>
+    <string name="deprecated_abi_message">‏هذا التطبيق غير متوافق مع أحدث إصدار من Android. ابحث عن تحديث أو تواصَل مع مطوّر التطبيق.</string>
     <string name="deprecated_target_sdk_app_store">البحث عن تحديث</string>
-    <string name="deprecated_target_sdk_message">‏تمّ إنشاء هذا التطبيق لإصدار قديم من Android وقد لا يعمل بشكل صحيح. جرِّب البحث عن تحديثات أو الاتصال بمطوّر البرامج.</string>
+    <string name="deprecated_target_sdk_message">‏تم إنشاء هذا التطبيق لإصدار قديم من Android. قد لا يعمل بشكل صحيح كما أنه لا يشتمِل على أحدث الإجراءات لحماية الأمان والخصوصية. ابحث عن تحديث أو تواصَل مع مطوّر التطبيق.</string>
     <string name="description_target_unlock_tablet">مرر بسرعة لإلغاء التأمين.</string>
     <string name="device_ownership_relinquished">تنازل المشرف عن الجهاز للاستخدام الشخصي</string>
     <string name="device_policy_manager_service">خدمة مدير سياسات الجهاز</string>
+    <string name="device_state_notification_settings_button">الانتقال إلى الإعدادات</string>
+    <string name="device_state_notification_turn_off_button">إيقاف</string>
     <string name="device_storage_monitor_notification_channel">مساحة التخزين للجهاز</string>
     <string name="dial_number_using">"طلب رقم
 باستخدام %s"</string>
@@ -516,16 +519,18 @@
     <string name="display_manager_overlay_display_name">المركب #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">آمن</string>
     <string name="display_manager_overlay_display_title">‏%1$s: %2$dx%3$d، %4$d نقطة لكل بوصة</string>
+    <string name="display_rotation_camera_compat_toast_after_rotation">يمكنك تدوير الجهاز لرؤية شاشة معاينة الكاميرا بشكل أوضح.</string>
+    <string name="display_rotation_camera_compat_toast_in_multi_window">عليك فتح \"%s\" في وضع ملء الشاشة لرؤية شاشة معاينة الكاميرا بشكل أوضح.</string>
     <string name="dlg_ok">حسنًا</string>
     <string name="done_accessibility_shortcut_menu_button">تم</string>
     <string name="done_label">تم</string>
-    <string name="double_tap_toast">نصيحة: اضغط مرتين للتكبير والتصغير.</string>
+    <string name="dream_preview_title">نسخة حصرية، \"%1$s\"</string>
     <string name="dump_heap_notification">لقد تجاوزت %1$s حد الذاكرة.</string>
     <string name="dump_heap_notification_detail">تم جمع مقدار كبير من بيانات الذاكرة. انقر للمشاركة.</string>
     <string name="dump_heap_ready_notification">نَسْخ الذاكرة %1$s جاهز</string>
     <string name="dump_heap_ready_text">يتوفّر نَسْخ ذاكرة من عملية %1$s حتى تتمكّن من مشاركته. تحذير: قد يحتوي نَسْخ الذاكرة هذا على معلومات شخصية حسّاسة يمكن للعملية الوصول إليها، وقد يتضمن معلومات سبق لك كتابتها.</string>
     <string name="dump_heap_system_text">تجاوزت عملية %1$s القيد المفروض على الذاكرة الذي يبلغ %2$s. ويتوفّر نَسْخ ذاكرة يمكنك مشاركته. تحذير: قد يحتوي نَسْخ الذاكرة هذا على معلومات شخصية حسّاسة يمكن للعملية الوصول إليها، وقد يتضمن معلومات سبق لك كتابتها.</string>
-    <string name="dump_heap_text">تجاوزت عملية %1$s حد الذاكرة المخصص لها وقدره %2$s، ويتوفر نَسْخ للذاكرة لمشاركته مع مطور برامج العملية ولكن توخ الحذر حيث قد يحتوي نَسْخ الذاكرة هذا على معلومات شخصية يملك التطبيق حق الوصول إليها.</string>
+    <string name="dump_heap_text">تجاوزت عملية %1$s حد الذاكرة المخصص لها وقدره %2$s، ويتوفر نَسْخ للذاكرة لمشاركته مع مطور برامج العملية ولكن توخ الحذر حيث قد يحتوي نَسْخ الذاكرة هذا على معلومات شخصية يملك التطبيق الإذن بالوصول إليها.</string>
     <string name="dump_heap_title">هل تريد مشاركة نَسْخ الذاكرة؟</string>
     <string name="duration_days_relative">{count,plural, =1{قبل يوم واحد}zero{قبل # يوم}two{قبل يومين}few{قبل # أيام}many{قبل # يومًا}other{قبل # يوم}}</string>
     <string name="duration_days_relative_future">{count,plural, =1{يوم واحد}zero{# يوم}two{يومان}few{# أيام}many{# يومًا}other{# يوم}}</string>
@@ -544,8 +549,8 @@
     <string name="duration_years_shortest">%d سنة</string>
     <string name="duration_years_shortest_future">خلال %d سنة</string>
     <string name="dynamic_mode_notification_channel_name">إشعار معلومات \"وضع سلسلة الإجراءات\"</string>
-    <string name="dynamic_mode_notification_summary">تم تفعيل \"توفير شحن البطارية\" لإطالة عمرها.</string>
-    <string name="dynamic_mode_notification_title">قد تنفد طاقة البطارية قبل الشحن المعتاد</string>
+    <string name="dynamic_mode_notification_summary">يتم تقليل استخدام البطارية لإطالة عمرها.</string>
+    <string name="dynamic_mode_notification_title">تم تفعيل ميزة توفير شحن البطارية</string>
     <string name="editTextMenuTitle">إجراءات النص</string>
     <string name="edit_accessibility_shortcut_menu_button">تعديل الاختصارات</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
@@ -593,7 +598,7 @@
     <string name="ext_media_new_notification_title">%s جديدة</string>
     <string name="ext_media_nomedia_notification_message">قد لا تعمل بعض الوظائف بشكل صحيح. أدخل وحدة تخزين جديدة.</string>
     <string name="ext_media_nomedia_notification_title">تمت إزالة %s.</string>
-    <string name="ext_media_ready_notification_message">لنقل الصور والوسائط</string>
+    <string name="ext_media_ready_notification_message">لتخزين الصور والفيديوهات والموسيقى وغير ذلك.</string>
     <string name="ext_media_seamless_action">تبديل جهاز إخراج الصوت</string>
     <string name="ext_media_status_bad_removal">تم الإخراج بشكل غير آمن</string>
     <string name="ext_media_status_checking">جارٍ التحقق…</string>
@@ -606,34 +611,37 @@
     <string name="ext_media_status_unmountable">تالف</string>
     <string name="ext_media_status_unmounted">تم إنهاء التحميل</string>
     <string name="ext_media_status_unsupported">غير متوافق</string>
-    <string name="ext_media_unmount_action">إلغاء</string>
+    <string name="ext_media_unmount_action">إخراج</string>
     <string name="ext_media_unmountable_notification_message">انقر للإصلاح</string>
     <string name="ext_media_unmountable_notification_title">هناك مشكلة في %s.</string>
     <string name="ext_media_unmounting_notification_message">عدم الإزالة</string>
     <string name="ext_media_unmounting_notification_title">جارٍ إخراج %s</string>
-    <string name="ext_media_unsupported_notification_message">هذا الجهاز غير متوافق مع %s هذا. انقر للإعداد بتنسيق متوافق.</string>
-    <string name="ext_media_unsupported_notification_title">%s غير متوافق</string>
+    <string name="ext_media_unsupported_notification_message">انقر لبدء عملية إعداد الوسائط الخارجية.</string>
+    <string name="ext_media_unsupported_notification_title">تم رصد %s.</string>
     <string name="extract_edit_menu_button">تعديل</string>
-    <string name="face_acquired_insufficient">تعذّر تسجيل بيانات دقيقة للوجه. حاول مرة أخرى.</string>
-    <string name="face_acquired_not_detected">ضع وجهك أمام الهاتف مباشرة.</string>
-    <string name="face_acquired_obscured">عليك بإزالة أي شيء يُخفي وجهك.</string>
-    <string name="face_acquired_pan_too_extreme">حرّك رأسك قليلاً نحو الأمام مباشرة.</string>
+    <string name="face_acquired_dark_glasses_detected_alt">تمّ رصد نظارة شمسية. يجب أن يكون وجهك ظاهرًا بالكامل.</string>
+    <string name="face_acquired_insufficient">يتعذّر إنشاء نموذج الوجه. يُرجى إعادة المحاولة.</string>
+    <string name="face_acquired_mouth_covering_detected_alt">تمّ رصد قناع على الوجه في حين يجب ظهور وجهك بالكامل</string>
+    <string name="face_acquired_not_detected">ارفع هاتفك إلى مستوى العينَين لأنّه تتعذّر رؤية وجهك</string>
+    <string name="face_acquired_obscured">يجب إزالة أي شيء يُخفي وجهك</string>
+    <string name="face_acquired_pan_too_extreme">يُرجى النظر إلى هاتفك مباشرةً</string>
     <string name="face_acquired_poor_gaze">يُرجى النظر إلى جهازك مباشرة أكثر.</string>
     <string name="face_acquired_recalibrate">يُرجى إعادة تسجيل وجهك.</string>
-    <string name="face_acquired_roll_too_extreme">حرّك رأسك قليلاً نحو الوسط.</string>
+    <string name="face_acquired_recalibrate_alt">يتعذّر إنشاء نموذج الوجه. يُرجى إعادة المحاولة.</string>
+    <string name="face_acquired_roll_too_extreme">يُرجى النظر إلى هاتفك مباشرةً</string>
     <string name="face_acquired_sensor_dirty">يُرجى تنظيف الجزء العلوي من الشاشة، بما في ذلك الشريط الأسود.</string>
-    <string name="face_acquired_tilt_too_extreme">يُرجى إمالة رأسك أقل قليلاً.</string>
-    <string name="face_acquired_too_bright">ساطع للغاية. تجربة مستوى سطوع أقلّ.</string>
-    <string name="face_acquired_too_close">يُرجى نقل الهاتف مسافة أبعد.</string>
-    <string name="face_acquired_too_dark">الصورة معتمة للغاية. يُرجى زيادة السطوع.</string>
-    <string name="face_acquired_too_different">لم يعُد يمكن التعرّف على الوجه. حاول مرة أخرى.</string>
-    <string name="face_acquired_too_far">انقل الهاتف إلى مكان قريب.</string>
-    <string name="face_acquired_too_high">يُرجى رفع الهاتف للأعلى.</string>
-    <string name="face_acquired_too_left">يُرجى نقل الهاتف إلى اليسار.</string>
-    <string name="face_acquired_too_low">يُرجى خفض الهاتف للأسفل.</string>
-    <string name="face_acquired_too_much_motion">حركة أكثر من اللازم يُرجى حمل بدون حركة.</string>
-    <string name="face_acquired_too_right">يُرجى نقل الهاتف إلى اليمين.</string>
-    <string name="face_acquired_too_similar">الوجه مشابه جدًا، يُرجى تغيير وضعيتك.</string>
+    <string name="face_acquired_tilt_too_extreme">يُرجى النظر إلى هاتفك مباشرةً</string>
+    <string name="face_acquired_too_bright">ساطع للغاية. يُرجى تجربة مستوى سطوع أقلّ</string>
+    <string name="face_acquired_too_close">يُرجى إبعاد الهاتف عنك.</string>
+    <string name="face_acquired_too_dark">الإضاءة غير كافية</string>
+    <string name="face_acquired_too_different">يتعذّر التعرّف على الوجه. يُرجى إعادة المحاولة.</string>
+    <string name="face_acquired_too_far">يُرجى تقريب الهاتف منك</string>
+    <string name="face_acquired_too_high">يُرجى رفع الهاتف للأعلى</string>
+    <string name="face_acquired_too_left">يُرجى تحريك الهاتف لجهة اليمين</string>
+    <string name="face_acquired_too_low">يُرجى خفض الهاتف للأسفل</string>
+    <string name="face_acquired_too_much_motion">حركة أكثر من اللازم. يُرجى حمل الهاتف بثبات.</string>
+    <string name="face_acquired_too_right">يُرجى تحريك الهاتف لجهة اليسار</string>
+    <string name="face_acquired_too_similar">غيِّر موضع رأسك قليلاً.</string>
     <string name="face_app_setting_name">فتح الجهاز بالتعرف على الوجه</string>
     <string name="face_authenticated_confirmation_required">تمّت مصادقة الوجه، يُرجى الضغط على \"تأكيد\".</string>
     <string name="face_authenticated_no_confirmation_required">تمّت مصادقة الوجه</string>
@@ -642,7 +650,7 @@
     <string name="face_error_hw_not_available">يتعذّر التحقُّق من الوجه. الجهاز غير مُتاح.</string>
     <string name="face_error_hw_not_present">ميزة \"فتح الجهاز بالتعرف على الوجه\" غير متوافقة على هذا الجهاز.</string>
     <string name="face_error_lockout">تمّ إجراء محاولات كثيرة. أعِد المحاولة لاحقًا.</string>
-    <string name="face_error_lockout_permanent">تم إجراء عدد كبير جدًا من المحاولات، لذا تم إيقاف ميزة \"فتح الجهاز بالتعرف على الوجه\".</string>
+    <string name="face_error_lockout_permanent">أجريت محاولات كثيرة جدًا. ميزة \"فتح الجهاز بالتعرف على الوجه\" غير متاحة.</string>
     <string name="face_error_lockout_screen_lock">تم إجراء عدد كبير جدًا من المحاولات. أدخِل قفل الشاشة بدلاً من ذلك.</string>
     <string name="face_error_no_space">يتعذَّر تخزين بيانات الوجه الجديد. احذف الوجه القديم أولاً.</string>
     <string name="face_error_not_enrolled">لم يسبق لك إعداد ميزة \"فتح الجهاز بالتعرف على الوجه\".</string>
@@ -675,6 +683,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789 أ ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ف ق ك ل م ن ه و ي"</string>
     <string name="fcComplete">اكتمل رمز الميزة.</string>
     <string name="fcError">حدثت مشكلة بالاتصال أو أن رمز الميزة غير صحيح.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_count">{count,plural, =1{{file_name} + ملف واحد}zero{{file_name} + # ملف}two{{file_name} + ملفان}few{{file_name} + # ملفات}many{{file_name} + # ملفًا}other{{file_name} + # ملف}}</string>
     <string name="find">بحث</string>
     <string name="find_next">بحث عن التطابق التالي</string>
@@ -683,11 +692,12 @@
     <string name="fingerprint_acquired_already_enrolled">يمكنك تجربة بصمة إصبع أخرى.</string>
     <string name="fingerprint_acquired_imager_dirty">يُرجى تنظيف مستشعر بصمات الإصبع ثم إعادة المحاولة.</string>
     <string name="fingerprint_acquired_imager_dirty_alt">تنظيف المستشعر ثم إعادة المحاولة</string>
-    <string name="fingerprint_acquired_immobile">غيِّر موضع إصبعك قليلاً في كل مرة.</string>
-    <string name="fingerprint_acquired_insufficient">تعذرت معالجة بصمة الإصبع. يُرجى إعادة المحاولة.</string>
-    <string name="fingerprint_acquired_partial">اضغط بقوة على المستشعر</string>
+    <string name="fingerprint_acquired_immobile">غيِّر موضع إصبعك قليلاً في كل مرة</string>
+    <string name="fingerprint_acquired_insufficient">يتعذّر التعرّف على بصمة الإصبع. يُرجى إعادة المحاولة.</string>
+    <string name="fingerprint_acquired_partial">اضغط بقوة على أداة الاستشعار</string>
+    <string name="fingerprint_acquired_power_press">تم رصد الضغط على زر التشغيل.</string>
     <string name="fingerprint_acquired_too_bright">الصورة ساطعة للغاية.</string>
-    <string name="fingerprint_acquired_too_fast">اضغط بقوة على المستشعر</string>
+    <string name="fingerprint_acquired_too_fast">اضغط بقوة على أداة الاستشعار</string>
     <string name="fingerprint_acquired_too_slow">تم تحريك الإصبع ببطء شديد. يُرجى إعادة المحاولة.</string>
     <string name="fingerprint_acquired_try_adjusting">حاوِل تعديل بصمة الإصبع.</string>
     <string name="fingerprint_app_setting_name">استخدام بصمة الإصبع</string>
@@ -697,14 +707,15 @@
     <string name="fingerprint_error_canceled">تم إلغاء تشغيل بصمة الإصبع.</string>
     <string name="fingerprint_error_hw_not_available">جهاز بصمة الإصبع غير متاح.</string>
     <string name="fingerprint_error_hw_not_present">لا يحتوي هذا الجهاز على مستشعِر بصمات إصبع.</string>
-    <string name="fingerprint_error_lockout">تم إجراء عدد كبير من المحاولات. أعد المحاولة لاحقًا.</string>
-    <string name="fingerprint_error_lockout_permanent">تم إجراء عدد كبير جدًا من المحاولات. لذا تم إيقاف جهاز استشعار بصمات الإصبع.</string>
+    <string name="fingerprint_error_lockout">تم إجراء عدد كبير جدًا من المحاولات. عليك استخدام قفل الشاشة بدلاً من ذلك.</string>
+    <string name="fingerprint_error_lockout_permanent">تم إجراء عدد كبير جدًا من المحاولات. عليك استخدام قفل الشاشة بدلاً من ذلك.</string>
     <string name="fingerprint_error_no_fingerprints">ليست هناك بصمات إصبع مسجَّلة.</string>
     <string name="fingerprint_error_no_space">يتعذّر إعداد بصمة الإصبع.</string>
     <string name="fingerprint_error_not_match">لم يتمّ التعرّف على البصمة.</string>
+    <string name="fingerprint_error_power_pressed">تم الضغط على زر التشغيل</string>
     <string name="fingerprint_error_security_update_required">تم إيقاف جهاز الاستشعار مؤقتًا.</string>
-    <string name="fingerprint_error_timeout">تم بلوغ مهلة إدخال بصمة الإصبع. أعد المحاولة.</string>
-    <string name="fingerprint_error_unable_to_process">أعد المحاولة.</string>
+    <string name="fingerprint_error_timeout">انتهت مهلة إعداد بصمة الإصبع. يُرجى إعادة المحاولة.</string>
+    <string name="fingerprint_error_unable_to_process">تتعذّر معالجة بصمة الإصبع. يُرجى إعادة المحاولة.</string>
     <string name="fingerprint_error_user_canceled">تم إلغاء تشغيل بصمة الإصبع بواسطة المستخدم.</string>
     <string name="fingerprint_error_vendor_unknown">حدث خطأ، يُرجى إعادة المحاولة.</string>
     <string name="fingerprint_name_template">الإصبع %d</string>
@@ -732,15 +743,13 @@
     <string name="fp_power_button_bp_negative_button">متابعة</string>
     <string name="fp_power_button_bp_positive_button">إيقاف الشاشة</string>
     <string name="fp_power_button_bp_title">هل تريد مواصلة تأكيد بصمة إصبعك؟</string>
+    <string name="fp_power_button_enrollment_button_text">إيقاف</string>
     <string name="fp_power_button_enrollment_message">"ضغطت على زر التشغيل، يؤدي هذا عادةً إلى إيقاف الشاشة.
 
 جرِّب النقر بخفة أثناء إعداد بصمتك."</string>
-    <string name="fp_power_button_enrollment_negative_button">مواصلة عملية الإعداد</string>
-    <string name="fp_power_button_enrollment_positive_button">إيقاف الشاشة</string>
-    <string name="fp_power_button_enrollment_title">هل تريد مواصلة عملية الإعداد؟</string>
+    <string name="fp_power_button_enrollment_title">لإيقاف عملية الإعداد، أغلِق الشاشة.</string>
     <string name="gadget_host_error_inflating">تعذرت إضافة أداة.</string>
     <string name="geofencing_service">خدمة \"وضع حدود جغرافية\"</string>
-    <string name="gigabyteShort">غيغابايت</string>
     <string name="global_action_assist">مساعدة</string>
     <string name="global_action_bug_report">تقرير الأخطاء</string>
     <string name="global_action_emergency">الطوارئ</string>
@@ -779,6 +788,7 @@
     <string name="harmful_app_warning_open_anyway">الفتح على أي حال</string>
     <string name="harmful_app_warning_title">تم العثور على تطبيق ضار</string>
     <string name="harmful_app_warning_uninstall">إلغاء التثبيت</string>
+    <string name="hearing_aids_feature_name">سماعات الأذن الطبية</string>
     <string name="heavy_weight_notification">%1$s يعمل</string>
     <string name="heavy_weight_notification_detail">انقر للعودة إلى اللعبة</string>
     <string name="heavy_weight_switcher_text">للحصول على أداء أفضل، يمكن فتح لعبة واحدة فقط من هذه الألعاب في كل مرة.</string>
@@ -849,6 +859,13 @@
     <string name="js_dialog_before_unload_title">تأكيد الانتقال</string>
     <string name="js_dialog_title">تعرض الصفحة في \"%s\":</string>
     <string name="js_dialog_title_default">JavaScript</string>
+    <string name="keyboard_layout_notification_more_than_three_selected_message">تم ضبط تنسيق لوحة المفاتيح على %1$s و%2$s و%3$s… انقر لتغييره.</string>
+    <string name="keyboard_layout_notification_multiple_selected_message">انقر لعرض لوحات المفاتيح.</string>
+    <string name="keyboard_layout_notification_multiple_selected_title">تم إعداد لوحات المفاتيح الخارجية</string>
+    <string name="keyboard_layout_notification_one_selected_message">تم ضبط تنسيق لوحة المفاتيح على %s. انقر لتغيير الإعدادات.</string>
+    <string name="keyboard_layout_notification_selected_title">تم ضبط \"%s\"</string>
+    <string name="keyboard_layout_notification_three_selected_message">تم ضبط تنسيق لوحة المفاتيح على %1$s و%2$s و%3$s. انقر لتغيير الإعدادات.</string>
+    <string name="keyboard_layout_notification_two_selected_message">تم ضبط تنسيق لوحة المفاتيح على %1$s و%2$s. انقر لتغيير الإعدادات.</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">إلغاء</string>
     <string name="keyboardview_keycode_delete">حذف</string>
@@ -916,7 +933,8 @@
     <string name="kg_puk_enter_puk_hint">‏شريحة SIM غير مفعّلة الآن. أدخل رمز PUK للمتابعة. اتصل بمشغل شبكة الجوال للاطلاع على التفاصيل.</string>
     <string name="kg_reordering_delete_drop_target_text">إزالة</string>
     <string name="kg_sim_pin_instructions">‏أدخل رمز PIN لبطاقة SIM</string>
-    <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ فتح قفل شريحة SIM…</string>
+    <string name="kg_sim_unlock_progress_dialog_message">‏جارٍ إلغاء قفل شريحة SIM…</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"لقد كتبت كلمة المرور بشكل غير صحيح %1$d مرة. 
 
 أعد المحاولة خلال %2$d ثانية."</string>
@@ -929,9 +947,10 @@
     <string name="kg_wrong_password">كلمة مرور خاطئة</string>
     <string name="kg_wrong_pattern">النقش غير صحيح.</string>
     <string name="kg_wrong_pin">رقم تعريف شخصي خاطئ</string>
-    <string name="kilobyteShort">كيلوبايت</string>
+    <string name="language_picker_regions_section_suggested">الاقتراحات</string>
     <string name="language_picker_section_all">جميع اللغات</string>
     <string name="language_picker_section_suggested">اللغات المقترَحة</string>
+    <string name="language_picker_section_suggested_bilingual">اللغات المُقترَحة</string>
     <string name="language_selection_title">إضافة لغة</string>
     <string name="last_month">الشهر الماضي</string>
     <string name="last_num_days">{count,plural, =1{آخر يوم}zero{آخر # يوم}two{آخر يومين}few{آخر # أيام}many{آخر # يومًا}other{آخر # يوم}}</string>
@@ -996,10 +1015,10 @@
     <string name="lockscreen_permanent_disabled_sim_message_short">بطاقة SIM غير صالحة للإستعمال.</string>
     <string name="lockscreen_return_to_call">العودة إلى الاتصال</string>
     <string name="lockscreen_screen_locked">الشاشة مؤمّنة.</string>
-    <string name="lockscreen_sim_locked_message">‏شريحة SIM مؤمّنة.</string>
+    <string name="lockscreen_sim_locked_message">‏شريحة SIM مُقفَلة.</string>
     <string name="lockscreen_sim_puk_locked_instructions">راجع دليل المستخدم أو اتصل بخدمة العملاء.</string>
-    <string name="lockscreen_sim_puk_locked_message">‏شريحة SIM مؤمّنة بكود PUK.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">‏جارٍ فتح قفل شريحة SIM…</string>
+    <string name="lockscreen_sim_puk_locked_message">‏شريحة SIM مُقفَلة برمز PUK.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">‏جارٍ إلغاء قفل شريحة SIM…</string>
     <string name="lockscreen_sound_off_label">الصوت متوقف</string>
     <string name="lockscreen_sound_on_label">تشغيل الصوت</string>
     <string name="lockscreen_storage_locked">فتح قفل جميع الميزات والبيانات</string>
@@ -1021,19 +1040,11 @@
     <string name="lockscreen_transport_rew_description">ترجيع</string>
     <string name="lockscreen_transport_stop_description">إيقاف</string>
     <string name="lockscreen_unlock_label">فتح قفل</string>
-    <string name="log_access_confirmation_allow">السماح بالوصول إلى السجلّ لمرة واحدة</string>
-    <string name="log_access_confirmation_body">"ترصد سجلّات الجهاز ما يحدث على جهازك. يمكن أن تستخدم التطبيقات هذه السجلّات لتحديد المشاكل وحلها.
-
-قد تحتوي بعض السجلّات على معلومات حساسة، ولذلك يجب عدم السماح بالوصول إلى جميع سجلّات الجهاز إلا للتطبيقات التي تثق بها. 
-
-إذا لم تسمح بوصول هذا التطبيق إلى جميع سجلّات الجهاز، يظل بإمكان التطبيق الوصول إلى سجلّاته. ويظل بإمكان الشركة المصنّعة لجهازك الوصول إلى بعض السجلّات أو المعلومات المتوفّرة على جهازك. مزيد من المعلومات"</string>
-    <string name="log_access_confirmation_deny">عدم السماح</string>
-    <string name="log_access_confirmation_title">هل تريد السماح لتطبيق %s بالوصول إلى جميع سجلّات الجهاز؟</string>
-    <string name="log_access_do_not_show_again">عدم الإظهار مرة أخرى</string>
     <string name="low_internal_storage_view_text">قد لا تعمل بعض وظائف النظام</string>
     <string name="low_internal_storage_view_text_no_boot">ليست هناك مساحة تخزين كافية للنظام. تأكد من أنه لديك مساحة خالية تبلغ ٢٥٠ ميغابايت وأعد التشغيل.</string>
     <string name="low_internal_storage_view_title">مساحة التخزين منخفضة</string>
     <string name="low_memory">مساحة تخزين الهاتف ممتلئة. احذف بعض الملفات لإخلاء مساحة.</string>
+    <string name="managed_profile_app_label">التبديل إلى تطبيق \"%1$s\" في الملف الشخصي للعمل</string>
     <string name="managed_profile_label">التبديل إلى الملف الشخصي للعمل</string>
     <string name="managed_profile_label_badge">%1$s المخصص للعمل</string>
     <string name="managed_profile_label_badge_2">العمل الثاني %1$s</string>
@@ -1147,7 +1158,6 @@
     <string name="mediasize_na_tabloid">Tabloid</string>
     <string name="mediasize_unknown_landscape">أفقي غير معروف</string>
     <string name="mediasize_unknown_portrait">عمودي غير معروف</string>
-    <string name="megabyteShort">ميغابايت</string>
     <string name="meid">MEID</string>
     <string name="menu_alt_shortcut_label">Alt+</string>
     <string name="menu_ctrl_shortcut_label">Ctrl+</string>
@@ -1158,6 +1168,8 @@
     <string name="menu_shift_shortcut_label">Shift+</string>
     <string name="menu_space_shortcut_label">مسافة</string>
     <string name="menu_sym_shortcut_label">Sym+</string>
+    <string name="mic_access_off_toast">تم حظر الميكروفون.</string>
+    <string name="mic_access_on_toast">الميكروفون متاح.</string>
     <string name="midnight">منتصف الليل</string>
     <string name="mime_type_apk">‏تطبيق Android</string>
     <string name="mime_type_audio">صوت</string>
@@ -1177,8 +1189,15 @@
     <string name="mime_type_spreadsheet_ext">جدول بيانات: %1$s</string>
     <string name="mime_type_video">فيديو</string>
     <string name="mime_type_video_ext">فيديو: %1$s</string>
-    <string name="miniresolver_open_in_personal">هل تريد فتح %s في ملفك الشخصي؟</string>
-    <string name="miniresolver_open_in_work">هل تريد فتح %s في ملفك الشخصي للعمل؟</string>
+    <string name="miniresolver_call">الاتصال</string>
+    <string name="miniresolver_call_in_work">هل تريد الاتصال من تطبيق العمل؟</string>
+    <string name="miniresolver_call_information">تسمح لك مؤسستك بإجراء المكالمات من تطبيقات العمل فقط.</string>
+    <string name="miniresolver_open_in_personal">هل تريد فتح المحتوى في تطبيق \"%s\" في الملف الشخصي؟</string>
+    <string name="miniresolver_open_in_work">هل تريد فتح المحتوى في تطبيق \"%s\" في الملف الشخصي للعمل؟</string>
+    <string name="miniresolver_open_work">هل تريد فتح تطبيق \"%s\" في الملف الشخصي للعمل؟</string>
+    <string name="miniresolver_sms_information">تسمح لك مؤسستك بإرسال الرسائل من تطبيقات العمل فقط.</string>
+    <string name="miniresolver_switch">انتقال</string>
+    <string name="miniresolver_switch_to_work">هل تريد الانتقال إلى تطبيق العمل؟</string>
     <string name="miniresolver_use_personal_browser">استخدام المتصفّح الشخصي</string>
     <string name="miniresolver_use_work_browser">استخدام متصفّح العمل</string>
     <string name="minute">دقيقة</string>
@@ -1195,6 +1214,7 @@
     <string name="mmcc_imsi_unknown_in_hlr_msim_template">‏لم يتم توفير شريحة SIM %d</string>
     <string name="mmiComplete">‏اكتمل MMI.</string>
     <string name="mmiError">‏حدثت مشكلة في الاتصال أو أن رمز MMI غير صحيح.</string>
+    <string name="mmiErrorNotSupported">الميزة غير متاحة.</string>
     <string name="mmiErrorWhileRoaming">يتعذر تغيير إعدادات إعادة توجيه المكالمات من هاتفك أثناء التجوال.</string>
     <string name="mmiFdnError">تم تقييد التشغيل لأرقام الاتصال الثابت فقط.</string>
     <string name="mobile_no_internet">شبكة الجوّال هذه غير متصلة بالإنترنت</string>
@@ -1212,8 +1232,8 @@
 
 يمكن للإشعارات المحسّنة الوصول إلى محتوى الإشعارات، بما في ذلك المعلومات الشخصية، مثلاً أسماء جهات الاتصال والرسائل. يمكن لهذه الميزة أيضًا إغلاق الإشعارات أو الاستجابة لها، مثلاً الردّ على مكالمات الهاتف والتحكّم في ميزة \"عدم الإزعاج\"."</string>
     <string name="nas_upgrade_notification_title">الإشعارات المحسّنة</string>
-    <string name="needPuk">‏شريحة SIM مؤمّنة برمز PUK. اكتب رمز PUK لإلغاء تأمينها.</string>
-    <string name="needPuk2">‏اكتب PUK2 لإلغاء تأمين شريحة SIM.</string>
+    <string name="needPuk">‏شريحة SIM مُقفَلة برمز PUK. اكتب رمز PUK لإلغاء قفلها.</string>
+    <string name="needPuk2">‏اكتب رمز PUK2 لإلغاء قفل شريحة SIM.</string>
     <string name="negative_duration">−%1$s</string>
     <string name="network_available_sign_in">تسجيل الدخول إلى الشبكة</string>
     <string name="network_logging_notification_text">تدير مؤسستك هذا الجهاز ويمكنها مراقبة حركة بيانات الشبكة. يمكنك النقر للحصول على تفاصيل.</string>
@@ -1272,7 +1292,6 @@
     <string name="notification_channel_system_changes">تغييرات النظام</string>
     <string name="notification_channel_updates">التحديثات</string>
     <string name="notification_channel_usb">‏اتصال USB</string>
-    <string name="notification_channel_virtual_keyboard">لوحة المفاتيح الافتراضية</string>
     <string name="notification_channel_voice_mail">رسائل البريد الصوتي</string>
     <string name="notification_channel_vpn">حالة الشبكة الافتراضية الخاصة</string>
     <string name="notification_channel_wfc">‏الاتصال عبر Wi-Fi</string>
@@ -1286,6 +1305,7 @@
     <string name="notification_hidden_text">إشعار جديد</string>
     <string name="notification_history_title_placeholder">إشعار تطبيق مخصّص</string>
     <string name="notification_listener_binding_label">برنامج تلقّي الإشعارات الصوتية</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">تنبيه بشأن تصيّد احتيالي</string>
     <string name="notification_ranker_binding_label">خدمة ترتيب أهمية الإشعارات</string>
     <string name="notification_reply_button_accessibility">الرد</string>
@@ -1303,7 +1323,6 @@
     <string name="older">أقدم</string>
     <string name="oneMonthDurationPast">قبل شهر واحد</string>
     <string name="one_handed_mode_feature_name">وضع \"التصفح بيد واحدة\"</string>
-    <string name="open_permission_deny">ليس لديك إذن بفتح هذه الصفحة.</string>
     <string name="orgTypeCustom">مخصص</string>
     <string name="orgTypeOther">آخر</string>
     <string name="orgTypeWork">عمل</string>
@@ -1318,11 +1337,7 @@
     <string name="password_keyboard_label_alpha_key">ب ت ث</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
-    <string name="pasted_content">لصق تطبيق %1$s المحتوى الذي نسخته.</string>
-    <string name="pasted_from_app">تم لصق محتوى في %1$s من %2$s.</string>
     <string name="pasted_from_clipboard">لصَق تطبيق %1$s محتوىً من الحافظة.</string>
-    <string name="pasted_image">لصق تطبيق %1$s الصورة التي نسختها.</string>
-    <string name="pasted_text">لصق تطبيق %1$s النص الذي نسخته.</string>
     <string name="peerTtyModeFull">‏طلب النظير وضع TTY الكامل</string>
     <string name="peerTtyModeHco">‏طلب النظير وضع TTY على HCO</string>
     <string name="peerTtyModeOff">‏طلب النظير وضع TTY على إيقاف</string>
@@ -1363,7 +1378,7 @@
     <string name="permdesc_bodySensors_background">يتيح هذا الإذن للتطبيق الوصول إلى بيانات أجهزة استشعار الجسم، مثل معدّل نبضات القلب ودرجة الحرارة ونسبة الأكسجين في الدم، وذلك عند استخدام التطبيق في الخلفية.</string>
     <string name="permdesc_broadcastSticky">للسماح للتطبيق بإرسال مجموعات بث مستمرة، والتي تظل بعد انتهاء البث. قد يؤدي الاستخدام بكثرة إلى حدوث بطء أو عدم استقرار في الهاتف من خلال التسبب في استخدام الهاتف لمساحة كبيرة للغاية من الذاكرة.</string>
     <string name="permdesc_callCompanionApp">يستطيع التطبيق رؤية المكالمات الجارية على الجهاز والتحكّم فيها. ويشمل ذلك معلومات مثل الأرقام وحالة المكالمات.</string>
-    <string name="permdesc_callPhone">للسماح للتطبيق بطلب أرقام هاتفية بدون تدخل منك. وقد يؤدي ذلك إلى تحمل رسوم غير متوقعة أو إجراء مكالمات غير متوقعة. ومن الجدير بالذكر أن ذلك لا يتيح للتطبيق الاتصال بأرقام الطوارئ. وقد تؤدي التطبيقات الضارة إلى تحملك تكاليف مالية من خلال إجراء مكالمات بدون موافقة منك.</string>
+    <string name="permdesc_callPhone">يسمح هذا الإذن للتطبيق بالاتصال بأرقام الهواتف بدون تدخل منك. وقد يؤدي ذلك إلى تحصيل رسوم غير متوقّعة أو إجراء مكالمات غير متوقّعة. يُرجى العلم أنّ هذا الإذن لا يسمح للتطبيق بالاتصال بأرقام الطوارئ. قد يؤدي منح الإذن للتطبيقات الضارة إلى تحصيل رسوم منك عن طريق إجراء مكالمات بدون الحصول على موافقتك أو الاتصال برموز مشغّل شبكة الجوال والتي تتسبّب في إعادة توجيه المكالمات الواردة تلقائيًا إلى رقم آخر.</string>
     <string name="permdesc_camera">يمكن لهذا التطبيق التقاط صور وتسجيل فيديوهات باستخدام الكاميرا عندما يكون التطبيق قيد الاستخدام.</string>
     <string name="permdesc_cameraOpenCloseListener">يمكن أن يتلقّى هذا التطبيق استدعاءات عندما تكون هناك كاميرا مفتوحة (بواسطة هذا التطبيق) أو مغلقة.</string>
     <string name="permdesc_changeNetworkState">للسماح للتطبيق بتغيير حالة اتصال الشبكة.</string>
@@ -1371,19 +1386,36 @@
     <string name="permdesc_changeWifiMulticastState">‏للسماح للتطبيق بتلقي الحزم التي يتم إرسالها إلى جميع الأجهزة على شبكة Wi-Fi باستخدام عناوين بث متعدد، وليس باستخدام هاتفك فقط. ويؤدي ذلك إلى استخدام قدر أكبر من الطاقة يفوق وضع البث غير المتعدد.</string>
     <string name="permdesc_changeWifiState">‏للسماح للتطبيق بالاتصال بنقاط الوصول إلى Wi-Fi وقطع الاتصال بها، وإجراء تغييرات على إعداد الجهاز لشبكات Wi-Fi.</string>
     <string name="permdesc_changeWimaxState">‏للسماح للتطبيق بتوصيل الهاتف بشبكات WiMAX وقطع اتصاله بها.</string>
+    <string name="permdesc_companionProfileWatch">يسمح هذا الإذن للتطبيق المصاحب بإدارة الساعات.</string>
     <string name="permdesc_connection_manager">للسماح للتطبيق بإدارة الاتصالات اللاسلكية.</string>
     <string name="permdesc_control_incall_experience">للسماح للتطبيق بتوفير تجربة للمستخدم أثناء الاتصال.</string>
     <string name="permdesc_createNetworkSockets">للسماح للتطبيق بإنشاء مقابس شبكات واستخدام بروتوكولات شبكات مخصصة. ويوفر المتصفح وتطبيقات أخرى طرقًا لإرسال البيانات إلى الإنترنت، ولذلك لا يعد هذا الإذن مطلوبًا لإرسال البيانات إلى الإنترنت.</string>
+    <string name="permdesc_deliverCompanionMessages">يسمح هذا الإذن للتطبيق المصاحب بتسليم الرسائل المصاحبة إلى الأجهزة الأخرى.</string>
+    <string name="permdesc_detectScreenCapture">سيتم إشعار هذا التطبيق عند التقاط لقطة شاشة أثناء استخدام التطبيق.</string>
     <string name="permdesc_disableKeyguard">للسماح للتطبيق بإيقاف تأمين المفاتيح وأي أمان لكلمة مرور مرتبطة. على سبيل المثال، يعطل الهاتف تأمين المفاتيح عند استقبال مكالمة هاتفية واردة، ثم يعيد تفعيل تأمين المفاتيح عند انتهاء المكالمة.</string>
     <string name="permdesc_enableCarMode">للسماح للتطبيق بتفعيل وضع السيارة.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">إعفاء التطبيق من القيود على تسجيل الصوت</string>
     <string name="permdesc_expandStatusBar">للسماح للتطبيق بتوسيع شريط الحالة أو تصغيره.</string>
     <string name="permdesc_foregroundService">للسماح للتطبيق بالاستفادة من الخدمات التي تعمل في المقدمة.</string>
+    <string name="permdesc_foregroundServiceCamera">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"camera\".</string>
+    <string name="permdesc_foregroundServiceConnectedDevice">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"connectedDevice\".</string>
+    <string name="permdesc_foregroundServiceDataSync">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"dataSync\".</string>
+    <string name="permdesc_foregroundServiceFileManagement">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"fileManagement\"</string>
+    <string name="permdesc_foregroundServiceHealth">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"health\".</string>
+    <string name="permdesc_foregroundServiceLocation">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"location\".</string>
+    <string name="permdesc_foregroundServiceMediaPlayback">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"mediaPlayback\".</string>
+    <string name="permdesc_foregroundServiceMediaProjection">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"mediaProjection\".</string>
+    <string name="permdesc_foregroundServiceMicrophone">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"microphone\".</string>
+    <string name="permdesc_foregroundServicePhoneCall">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"phoneCall\".</string>
+    <string name="permdesc_foregroundServiceRemoteMessaging">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"remoteMessaging\".</string>
+    <string name="permdesc_foregroundServiceSpecialUse">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"specialUse\".</string>
+    <string name="permdesc_foregroundServiceSystemExempted">‏يسمح هذا الإذن للتطبيق بالاستفادة من الخدمات التي تعمل في المقدّمة ذات النوع \"systemExempted\".</string>
     <string name="permdesc_fullScreenIntent">السماح للتطبيق بعرض الإشعارات كأنشطة بملء الشاشة على الأجهزة المُقفَلة</string>
     <string name="permdesc_getAccounts">للسماح للتطبيق بالحصول على قائمة بالحسابات التي يعرفها الهاتف. وقد يتضمن ذلك أي حسابات تم إنشاؤها بواسطة التطبيقات التي ثبتها.</string>
     <string name="permdesc_getPackageSize">للسماح للتطبيق باسترداد شفرته وبياناته وأحجام ذاكرات التخزين المؤقت</string>
     <string name="permdesc_getTasks">للسماح للتطبيق باسترداد معلومات حول المهام التي يجري تشغيلها حاليًا والتي تم تشغيلها مؤخرًا. وقد يسمح هذا للتطبيق باكتشاف معلومات حول التطبيقات المستخدمة على الجهاز.</string>
     <string name="permdesc_handoverStatus">‏السماح لهذا التطبيق بتلقي معلومات حول عمليات نقل شعاع Android الحالية</string>
+    <string name="permdesc_hideOverlayWindows">يمكن أن يطلب هذا التطبيق من النظام إخفاء النوافذ المركّبة التي تنشأ من التطبيقات حتى لا تظهر فوقه.</string>
     <string name="permdesc_highSamplingRateSensors">يسمح هذا الأذن للتطبيق بزيادة بيانات جهاز الاستشعار بمعدّل بيانات في الملف الصوتي أكبر من 200 هرتز.</string>
     <string name="permdesc_imagesWrite">للسماح للتطبيق بتعديل مجموعة صورك.</string>
     <string name="permdesc_install_shortcut">السماح لتطبيق بإضافة اختصارات على الشاشة الرئيسية بدون تدخل المستخدم.</string>
@@ -1399,6 +1431,7 @@
     <string name="permdesc_modifyNetworkAccounting">للسماح للتطبيق بتعديل كيفية حساب استخدام الشبكة في التطبيقات. ليس للاستخدام بواسطة التطبيقات العادية.</string>
     <string name="permdesc_nearby_wifi_devices">‏للسماح للتطبيق بعرض الإعلانات والاتصال بالأجهزة الأخرى وتحديد الموقع النسبي لأجهزة Wi-Fi المجاورة.</string>
     <string name="permdesc_nfc">‏للسماح للتطبيق بالاتصال بعلامات الاتصال قريب المدى (NFC)، والبطاقات وبرامج القراءة.</string>
+    <string name="permdesc_observeCompanionDevicePresence">يسمح هذا الإذن للتطبيق المصاحب بملاحظة توفّر الأجهزة المرتبطة عندما تكون قريبة أو بعيدة.</string>
     <string name="permdesc_persistentActivity">للسماح للتطبيق بجعل أجزاء منه ثابتة في الذاكرة. وقد يؤدي هذا إلى تقييد الذاكرة المتاحة للتطبيقات الأخرى مما يؤدي إلى حدوث بطء في الهاتف.</string>
     <string name="permdesc_postNotification">السماح للتطبيق بعرض إشعارات</string>
     <string name="permdesc_preferredPaymentInfo">‏يسمح هذا الإذن للتطبيق بالحصول على معلومات الخدمات المدفوعة باستخدام الاتصال قصير المدى NFC المفضّل، مثلاً المساعدات المسجّلة ووجهة المسار.</string>
@@ -1409,7 +1442,6 @@
     <string name="permdesc_readCallLog">يمكن لهذا التطبيق قراءة سجل المكالمات.</string>
     <string name="permdesc_readCellBroadcasts">السماح للتطبيق بقراءة رسائل بث الخلية التي يتلقاها هذا الجهاز. يتم تسليم اشعارات بث الخلية في بعض المواقع لتحذيرك من حالات طارئة. يمكن أن تتداخل التطبيقات الضارة مع أداء أو تشغيل الجهاز عندما يتم تلقي بث خلية طارئ.</string>
     <string name="permdesc_readContacts">يسمح هذا الإذن للتطبيق بقراءة بيانات حول جهات الاتصال المخزّنة على هاتفك. ويمكن للتطبيقات أيضًا الوصول إلى الحسابات التي تم إنشاء جهات الاتصال من خلالها على هاتفك. ويمكن أن يشمل ذلك الحسابات التي أنشأتها التطبيقات التي ثبتّها. ويتيح هذا الإذن للتطبيقات حفظ بيانات جهة الاتصال، وقد تشارك التطبيقات الضارة بيانات جهة الاتصال بدون علمك.</string>
-    <string name="permdesc_readHistoryBookmarks">‏للسماح للتطبيق بقراءة سجل جميع عناوين URL التي زارها المتصفح، وجميع الإشارات المرجعية في المتصفح. ملاحظة: لا يجوز فرض هذا الإذن من قِبل متصفحات جهة خارجية أو تطبيقات أخرى تتوفر بها إمكانيات تصفح الويب.</string>
     <string name="permdesc_readInstallSessions">للسماح لأحد التطبيقات بقراءة جلسات التثبيت. ويسمح لك هذا بالاطلاع على تفاصيل بشأن عمليات تثبيت الحزم النشطة.</string>
     <string name="permdesc_readMediaAudio">يسمح للتطبيق بقراءة الملفات الصوتية من مساحة التخزين المشتركة.</string>
     <string name="permdesc_readMediaImages">يسمح هذا الإذن للتطبيق بقراءة ملفات الصور من مساحة التخزين المشتركة.</string>
@@ -1420,6 +1452,7 @@
     <string name="permdesc_readSms">‏يمكن لهذا التطبيق قراءة جميع الرسائل النصية القصيرة (SMS) المخزّنة على الهاتف.</string>
     <string name="permdesc_readSyncSettings">للسماح للتطبيق بقراءة الإعدادات المتزامنة لحساب ما. على سبيل المثال، يمكن أن يؤدي هذا إلى تحديد ما إذا تمت مزامنة تطبيق \"الأشخاص\" مع حساب ما.</string>
     <string name="permdesc_readSyncStats">للسماح للتطبيق بقراءة إحصاءات المزامنة لحساب ما، بما في ذلك سجل الأحداث المتزامنة ومقدار البيانات التي تمت مزامنتها.</string>
+    <string name="permdesc_readVisualUserSelect">يسمح هذا الإذن للتطبيق بقراءة ملفات الفيديو والصور التي تختارها من مساحة التخزين المشتركة.</string>
     <string name="permdesc_receiveBootCompleted">للسماح للتطبيق ببدء تشغيل نفسه عقب انتهاء النظام من التشغيل. قد يؤدي ذلك إلى استغراق المزيد من الوقت عن بدء الهاتف والسماح للتطبيق بإبطاء الأداء الإجمالي للهاتف حيث يتم تشغيله دائمًا.</string>
     <string name="permdesc_receiveMms">للسماح للتطبيق بتلقي ومعالجة رسائل الوسائط المتعددة. وهذا يعني أنه يمكن للتطبيق مراقبة الرسائل التي يتم إرسالها لجهازك أو حذفها بدون عرضها لك.</string>
     <string name="permdesc_receiveSms">‏للسماح للتطبيق بتلقي ومعالجة الرسائل القصيرة SMS. وهذا يعني أنه يمكن للتطبيق مراقبة الرسائل التي يتم إرسالها إلى جهازك أو حذفها بدون عرضها لك.</string>
@@ -1436,6 +1469,7 @@
     <string name="permdesc_requestPasswordComplexity">للسماح للتطبيق بمعرفة مستوى صعوبة قفل الشاشة (عالي أو متوسط أو منخفض الصعوبة أو بدون)، والذي يحدّد النطاق المحتمل لطول ونوع قفل الشاشة. ويمكن أن يقترح التطبيق للمستخدمين أيضًا تعديل قفل الشاشة إلى مستوى معيّن، ولهم مطلق الحرية في تجاهل هذا الاقتراح ورفضه. وتجدر الإشارة إلى أنه لا يتم حفظ قفل الشاشة في نص عادي، لذا لا يعرف التطبيق كلمة المرور تحديدًا.</string>
     <string name="permdesc_route_media_output">للسماح للتطبيق بتوجيه إخراج الوسائط إلى أجهزة خارجية أخرى.</string>
     <string name="permdesc_runInBackground">يمكن أن يعمل هذا التطبيق في الخلفية. وهذا قد يستنفد البطارية بشكل أسرع.</string>
+    <string name="permdesc_schedule_exact_alarm">يمكن لهذا التطبيق جدولة العمل لتنفيذه في الوقت الذي تريده في المستقبل. ويعني هذا أيضًا أنه يمكن تشغيل التطبيق في حال عدم استخدامك للجهاز بشكل نشط.</string>
     <string name="permdesc_sdcardRead">للسماح للتطبيق بقراءة محتوى مساحة التخزين المشتركة.</string>
     <string name="permdesc_sdcardWrite">للسماح للتطبيق بالكتابة إلى محتوى مساحة التخزين المشتركة.</string>
     <string name="permdesc_sendSms">‏للسماح للتطبيق بإرسال رسائل قصيرة SMS. وقد يؤدي هذا إلى تحمل رسوم غير متوقعة. وقد تكلفك التطبيقات الضارة أموالاً من خلال إرسال رسائل بدون موافقة منك.</string>
@@ -1445,6 +1479,7 @@
     <string name="permdesc_setWallpaper">للسماح للتطبيق بتعيين خلفية النظام.</string>
     <string name="permdesc_setWallpaperHints">للسماح للتطبيق بتعيين تلميحات حجم خلفية النظام.</string>
     <string name="permdesc_sim_communication">‏السماح للتطبيق بإرسال أوامر إلى شريحة SIM. وهذا أمر بالغ الخطورة.</string>
+    <string name="permdesc_startForegroundServicesFromBackground">يسمح هذا الإذن للتطبيق المصاحب ببدء الخدمات التي تعمل في المقدّمة من الخلفية.</string>
     <string name="permdesc_startReviewPermissionDecisions">يمكنك السماح للمالك ببدء الشاشة لمراجعة القرارات المتعلقة بالأذونات. لا حاجة لذلك مع التطبيقات العادية.</string>
     <string name="permdesc_startViewAppFeatures">للسماح للمالك ببدء عرض معلومات عن ميزات التطبيق.</string>
     <string name="permdesc_startViewPermissionUsage">للسماح للمالك ببدء استخدام الإذن لأحد التطبيقات. ولن تكون هناك حاجة إليه مطلقًا مع التطبيقات العادية.</string>
@@ -1454,10 +1489,13 @@
     <string name="permdesc_systemAlertWindow">يمكن لهذا التطبيق الظهور في مقدمة التطبيقات أو أجزاء الشاشة الأخرى. وقد يتداخل هذا مع الاستخدام العادي للتطبيقات أو يؤدي إلى تغيير طريقة ظهور التطبيقات الأخرى.</string>
     <string name="permdesc_systemCamera">‏إنّ تطبيق النظام هذا، أو التطبيق المزوّد بأذونات مميّزة، يمكنه التقاط صور وتسجيل فيديوهات باستخدام كاميرا النظام في أي وقت. ويجب أن يحصل التطبيق أيضًا على الإذن android.permission.CAMERA.</string>
     <string name="permdesc_transmitIr">للسماح للتطبيق باستخدام مرسل الأشعة تحت الحمراء الخاص بالهاتف.</string>
+    <string name="permdesc_turnScreenOn">يسمح هذا الإذن للتطبيق بتفعيل الشاشة.</string>
     <string name="permdesc_uninstall_shortcut">للسماح للتطبيق بإزالة اختصارات من الشاشة الرئيسية بدون تدخل المستخدم.</string>
+    <string name="permdesc_updatePackagesWithoutUserAction">يسمح هذا الإذن للمالك بتحديث التطبيق المثبّت مسبقًا بدون تأكيد المستخدم.</string>
     <string name="permdesc_useBiometric">للسماح للتطبيق باستخدام الأجهزة البيومترية للمصادقة</string>
     <string name="permdesc_useDataInBackground">يمكن أن يستخدم هذا التطبيق البيانات في الخلفية. وهذا قد يؤدي إلى زيادة استخدام البيانات.</string>
     <string name="permdesc_useFingerprint">للسماح للتطبيق باستخدام أجهزة بصمة الإصبع للمصادقة</string>
+    <string name="permdesc_use_exact_alarm">يمكن لهذا التطبيق جدولة إجراءات، مثل التنبيهات والتذكيرات لإعلامك في الوقت الذي تريده في المستقبل.</string>
     <string name="permdesc_use_sip">‏للسماح للتطبيق بإجراء مكالمات SIP وتلقيها.</string>
     <string name="permdesc_uwb_ranging">يسمح هذا الإذن للتطبيق بتحديد الموضع النسبي بين الأجهزة المجاورة التي تستخدم النطاق الواسع جدًا.</string>
     <string name="permdesc_vibrate">للسماح للتطبيق بالتحكم في الهزّاز.</string>
@@ -1467,8 +1505,6 @@
     <string name="permdesc_writeCalendar">يمكن لهذا التطبيق إضافة أحداث تقويم أو إزالتها أو تغييرها على الهاتف. كما يمكنه إرسال رسائل يبدو أنها واردة من مالكي التقويم، ويمكنه كذلك تغيير الأحداث بدون إشعار مالكيها.</string>
     <string name="permdesc_writeCallLog">للسماح للتطبيق بتعديل سجل مكالمات الهاتف، بما في ذلك البيانات عن المكالمات الواردة والصادرة. وربما تستخدم التطبيقات الضارة هذا لمحو سجل المكالمات أو تعديله.</string>
     <string name="permdesc_writeContacts">يسمح هذا الإذن للتطبيق بتعديل البيانات حول جهات الاتصال المخزّنة على هاتفك. ويسمح هذا الإذن للتطبيقات بحذف بيانات جهات الاتصال.</string>
-    <string name="permdesc_writeGeolocationPermissions">للسماح لأحد التطبيقات بتعديل أذونات الموقع الجغرافي للمتصفح. يمكن أن تستخدم التطبيقات الضارة هذا للسماح بإرسال معلومات الموقع إلى مواقع إلكترونية عشوائية.</string>
-    <string name="permdesc_writeHistoryBookmarks">للسماح للتطبيق بتعديل سجل المتصفح أو الإشارات المرجعية المخزنة على هاتفك. وقد يتيح هذا للتطبيق محو بيانات المتصفح أو تعديلها. ملاحظة: لا يجوز فرض هذا الإذن من قِبل متصفحات جهات خارجية أو تطبيقات أخرى بها إمكانيات تصفح الويب.</string>
     <string name="permdesc_writeSettings">للسماح للتطبيق بتعديل بيانات إعدادات النظام. يمكن أن تتلف التطبيقات الضارة إعداد نظامك.</string>
     <string name="permdesc_writeSyncSettings">للسماح للتطبيق بتعديل إعدادات المزامنة لحساب ما. على سبيل المثال، يمكن استخدام ذلك لتفعيل مزامنة تطبيق \"الأشخاص\" مع حساب ما.</string>
     <string name="permgroupdesc_activityRecognition">الوصول إلى بيانات نشاطك البدني</string>
@@ -1549,19 +1585,36 @@
     <string name="permlab_changeWifiMulticastState">‏السماح باستقبال بث Wi-Fi متعدد</string>
     <string name="permlab_changeWifiState">‏التوصيل والفصل من Wi-Fi</string>
     <string name="permlab_changeWimaxState">‏تغيير حالة WiMAX</string>
+    <string name="permlab_companionProfileWatch">‏إذن الملف الشخصي في Companion Watch لإدارة الساعات</string>
     <string name="permlab_connection_manager">إدارة الاتصالات اللاسلكية</string>
     <string name="permlab_control_incall_experience">توفير تجربة للمستخدم أثناء الاتصال</string>
-    <string name="permlab_createNetworkSockets">حق الوصول الكامل إلى الشبكة</string>
+    <string name="permlab_createNetworkSockets">الإذن بالوصول الكامل إلى الشبكة</string>
+    <string name="permlab_deliverCompanionMessages">تسليم الرسائل المصاحبة</string>
+    <string name="permlab_detectScreenCapture">رصد لقطات الشاشة لنوافذ التطبيق</string>
     <string name="permlab_disableKeyguard">إيقاف قفل الشاشة</string>
     <string name="permlab_enableCarMode">تفعيل وضع السيارة</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">الإعفاء من القيود على تسجيل الصوت</string>
     <string name="permlab_expandStatusBar">توسيع/تصغير شريط الحالة</string>
     <string name="permlab_foregroundService">تشغيل الخدمة في المقدمة</string>
+    <string name="permlab_foregroundServiceCamera">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"camera\"</string>
+    <string name="permlab_foregroundServiceConnectedDevice">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"connectedDevice\"</string>
+    <string name="permlab_foregroundServiceDataSync">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"dataSync\"</string>
+    <string name="permlab_foregroundServiceFileManagement">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"fileManagement\"</string>
+    <string name="permlab_foregroundServiceHealth">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"health\"</string>
+    <string name="permlab_foregroundServiceLocation">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"location\"</string>
+    <string name="permlab_foregroundServiceMediaPlayback">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"mediaPlayback\"</string>
+    <string name="permlab_foregroundServiceMediaProjection">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"mediaProjection\"</string>
+    <string name="permlab_foregroundServiceMicrophone">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"microphone\"</string>
+    <string name="permlab_foregroundServicePhoneCall">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"phoneCall\"</string>
+    <string name="permlab_foregroundServiceRemoteMessaging">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"remoteMessaging\"</string>
+    <string name="permlab_foregroundServiceSpecialUse">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"specialUse\"</string>
+    <string name="permlab_foregroundServiceSystemExempted">‏تشغيل الخدمة التي تعمل في المقدّمة ذات النوع \"systemExempted\"</string>
     <string name="permlab_fullScreenIntent">عرض الإشعارات كأنشطة بملء الشاشة على الأجهزة المُقفَلة</string>
     <string name="permlab_getAccounts">البحث عن حسابات على الجهاز</string>
     <string name="permlab_getPackageSize">قياس مساحة تخزين التطبيق</string>
     <string name="permlab_getTasks">استرداد التطبيقات التي قيد التشغيل</string>
     <string name="permlab_handoverStatus">‏تلقي حالة نقل شعاع Android</string>
+    <string name="permlab_hideOverlayWindows">إخفاء النوافذ المركّبة الخاصة بالتطبيقات الأخرى</string>
     <string name="permlab_highSamplingRateSensors">الوصول إلى بيانات جهاز الاستشعار بمعدّل مرتفع للبيانات في الملف الصوتي</string>
     <string name="permlab_imagesWrite">تعديل مجموعة صورك</string>
     <string name="permlab_install_shortcut">تثبيت اختصارات</string>
@@ -1577,6 +1630,7 @@
     <string name="permlab_modifyNetworkAccounting">تعديل حساب استخدام الشبكة</string>
     <string name="permlab_nearby_wifi_devices">‏التفاعل مع أجهزة Wi‑Fi المجاورة</string>
     <string name="permlab_nfc">التحكم في اتصال الحقل القريب</string>
+    <string name="permlab_observeCompanionDevicePresence">ملاحظة توفّر الأجهزة المرتبطة</string>
     <string name="permlab_persistentActivity">تشغيل التطبيق دائمًا</string>
     <string name="permlab_postNotification">عرض الإشعارات</string>
     <string name="permlab_preferredPaymentInfo">‏معلومات الخدمات المدفوعة باستخدام الاتصال قصير المدى NFC المفضّل</string>
@@ -1587,7 +1641,6 @@
     <string name="permlab_readCallLog">قراءة سجل المكالمات</string>
     <string name="permlab_readCellBroadcasts">قراءة رسائل بث الخلية</string>
     <string name="permlab_readContacts">قراءة جهات الاتصال</string>
-    <string name="permlab_readHistoryBookmarks">قراءة إشارات ويب والسجل</string>
     <string name="permlab_readInstallSessions">قراءة جلسات التثبيت</string>
     <string name="permlab_readMediaAudio">قراءة الملفات الصوتية من مساحة التخزين المشتركة</string>
     <string name="permlab_readMediaImages">قراءة ملفات الصور من مساحة التخزين المشتركة</string>
@@ -1598,6 +1651,7 @@
     <string name="permlab_readSms">‏قراءة الرسائل النصية (الرسائل القصيرة SMS أو رسائل الوسائط المتعددة)</string>
     <string name="permlab_readSyncSettings">قراءة إعدادات المزامنة</string>
     <string name="permlab_readSyncStats">قراءة إحصاءات المزامنة</string>
+    <string name="permlab_readVisualUserSelect">قراءة ملفات الفيديو والصور من مساحة التخزين المشتركة</string>
     <string name="permlab_receiveBootCompleted">العمل عند بدء التشغيل</string>
     <string name="permlab_receiveMms">تلقي رسائل نصية (رسائل وسائط متعددة)</string>
     <string name="permlab_receiveSms">‏تلقي رسائل نصية (رسائل قصيرة SMS)</string>
@@ -1614,6 +1668,7 @@
     <string name="permlab_requestPasswordComplexity">طلب معرفة مستوى صعوبة قفل الشاشة</string>
     <string name="permlab_route_media_output">توجيه إخراج الوسائط</string>
     <string name="permlab_runInBackground">العمل في الخلفية</string>
+    <string name="permlab_schedule_exact_alarm">جدولة الإجراءات المحددة بوقت بدقة</string>
     <string name="permlab_sdcardRead">قراءة محتوى مساحة التخزين المشتركة</string>
     <string name="permlab_sdcardWrite">تعديل محتوى مساحة التخزين المشتركة أو حذفه</string>
     <string name="permlab_sendSms">‏إرسال رسائل قصيرة SMS وعرضها</string>
@@ -1623,6 +1678,7 @@
     <string name="permlab_setWallpaper">ضبط الخلفية</string>
     <string name="permlab_setWallpaperHints">تعديل حجم الخلفية</string>
     <string name="permlab_sim_communication">‏إرسال أوامر إلى شريحة SIM</string>
+    <string name="permlab_startForegroundServicesFromBackground">بدء الخدمات التي تعمل في المقدّمة من الخلفية</string>
     <string name="permlab_startReviewPermissionDecisions">بدء اتخاذ القرارات المتعلقة بالإذن بعرض البيانات</string>
     <string name="permlab_startViewAppFeatures">بدء عرض ميزات التطبيق</string>
     <string name="permlab_startViewPermissionUsage">بدء استخدام إذن العرض</string>
@@ -1632,10 +1688,13 @@
     <string name="permlab_systemAlertWindow">يمكن لهذا التطبيق الظهور في مقدمة التطبيقات الأخرى</string>
     <string name="permlab_systemCamera">السماح لتطبيق أو خدمة بالوصول إلى كاميرات النظام لالتقاط صور وتسجيل فيديوهات</string>
     <string name="permlab_transmitIr">إرسال الأشعة تحت الحمراء</string>
+    <string name="permlab_turnScreenOn">تفعيل الشاشة</string>
     <string name="permlab_uninstall_shortcut">إزالة الاختصارات</string>
+    <string name="permlab_updatePackagesWithoutUserAction">تحديث التطبيق بدون تأكيد المستخدم</string>
     <string name="permlab_useBiometric">استخدام الأجهزة البيومترية</string>
     <string name="permlab_useDataInBackground">استخدام البيانات في الخلفية</string>
     <string name="permlab_useFingerprint">استخدام أجهزة بصمة الإصبع</string>
+    <string name="permlab_use_exact_alarm">جدولة التنبيهات أو تذكيرات الأحداث</string>
     <string name="permlab_use_sip">‏إجراء/تلقي مكالمات SIP</string>
     <string name="permlab_uwb_ranging">تحديد الموضع النسبي بين الأجهزة المجاورة التي تستخدم النطاق الواسع جدًا</string>
     <string name="permlab_vibrate">التحكم في الاهتزاز</string>
@@ -1644,8 +1703,6 @@
     <string name="permlab_writeCalendar">إضافة أو تعديل أحداث التقويم وإرسال رسالة إلكترونية إلى المدعوين بدون معرفة المالكين</string>
     <string name="permlab_writeCallLog">كتابة سجل المكالمات</string>
     <string name="permlab_writeContacts">تعديل جهات الاتصال</string>
-    <string name="permlab_writeGeolocationPermissions">تعديل أذونات الموقع الجغرافي للمتصفح</string>
-    <string name="permlab_writeHistoryBookmarks">كتابة إشارات ويب والسجل</string>
     <string name="permlab_writeSettings">تعديل إعدادات النظام</string>
     <string name="permlab_writeSyncSettings">التبديل بين تفعيل المزامنة وإيقافها</string>
     <string name="perms_description_app">يقدمه %1$s.</string>
@@ -1654,7 +1711,6 @@
     <string name="personal_apps_suspension_soon_text">سيتم حظر التطبيقات الشخصية في %1$s في %2$s. لا يسمح مشرف تكنولوجيا المعلومات في مؤسستك بإيقاف الملف الشخصي للعمل أكثر من %3$d يوم.</string>
     <string name="personal_apps_suspension_text">تم حظر تطبيقاتك الشخصية إلى أن تفعِّل ملفك الشخصي للعمل.</string>
     <string name="personal_apps_suspension_title">تفعيل الملف الشخصي للعمل</string>
-    <string name="petabyteShort">بيتابايت</string>
     <string name="phoneTypeAssistant">مساعد</string>
     <string name="phoneTypeCallback">هاتف معاودة الاتصال</string>
     <string name="phoneTypeCar">هاتف سيارة</string>
@@ -1721,6 +1777,7 @@
     <string name="profile_encrypted_title">قد تكون بعض الوظائف مُقيّدة.</string>
     <string name="progress_erasing">جارٍ محو بيانات مساحة التخزين المشتركة…</string>
     <string name="quick_contacts_not_available">لم يتم العثور على تطبيق لعرض جهة الاتصال هذه.</string>
+    <string name="rating_label">{rating,plural, =1{نجمة واحدة من {max}}zero{# نجمة من {max}}two{نجمتان من {max}}few{# نجوم من {max}}many{# نجمة من {max}}other{# نجمة من {max}}}</string>
     <string name="reason_service_unavailable">خدمة الطباعة ليست مفعّلة</string>
     <string name="reason_unknown">غير معروف</string>
     <string name="reboot_safemode_confirm">هل تريد إعادة تشغيل الكمبيوتر في الوضع الآمن؟ سيؤدي ذلك إلى إيقاف جميع تطبيقات الجهات الخارجية التي تم تثبيتها. ستتم استعادتها عند إعادة التشغيل مرة أخرى.</string>
@@ -1735,6 +1792,7 @@
     <string name="redo">إعادة</string>
     <string name="reduce_bright_colors_feature_name">زيادة تعتيم الشاشة</string>
     <string name="region_picker_section_all">كل المناطق</string>
+    <string name="region_picker_section_suggested_bilingual">المناطق المُقترَحة</string>
     <string name="relationTypeAssistant">مساعد</string>
     <string name="relationTypeBrother">أخ</string>
     <string name="relationTypeChild">طفل</string>
@@ -1763,8 +1821,8 @@
     <string name="resolver_no_work_apps_available">ما مِن تطبيقات عمل.</string>
     <string name="resolver_personal_tab">شخصي</string>
     <string name="resolver_personal_tab_accessibility">عرض المحتوى الشخصي</string>
-    <string name="resolver_switch_on_work">انقر لتفعيل الميزة</string>
-    <string name="resolver_turn_on_work_apps">الملف الشخصي للعمل متوقف مؤقتًا.</string>
+    <string name="resolver_switch_on_work">إلغاء الإيقاف المؤقت</string>
+    <string name="resolver_turn_on_work_apps">تطبيقات العمل متوقفة مؤقتًا.</string>
     <string name="resolver_work_tab">للعمل</string>
     <string name="resolver_work_tab_accessibility">عرض محتوى العمل</string>
     <string name="restr_pin_confirm_pin">‏تأكيد رمز PIN الجديد</string>
@@ -1807,11 +1865,6 @@
     <string name="safe_media_volume_warning">"هل تريد رفع مستوى الصوت فوق المستوى الموصى به؟
 
 قد يضر سماع صوت عالٍ لفترات طويلة بسمعك."</string>
-    <string name="save_password_label">تأكيد</string>
-    <string name="save_password_message">هل تريد من المتصفح تذكر كلمة المرور هذه؟</string>
-    <string name="save_password_never">مطلقًا</string>
-    <string name="save_password_notnow">ليس الآن</string>
-    <string name="save_password_remember">تذكّر</string>
     <string name="screen_compat_mode_hint">‏يمكنك إعادة تفعيل هذا في إعدادات النظام > التطبيقات > ما تم تنزيله.</string>
     <string name="screen_compat_mode_scale">تدرج</string>
     <string name="screen_compat_mode_show">الإظهار دائمًا</string>
@@ -1833,8 +1886,9 @@
     <string name="select_hours">تحديد الساعات</string>
     <string name="select_input_method">اختيار أسلوب الإدخال</string>
     <string name="select_keyboard_layout_notification_message">انقر لاختيار لغة وتنسيق</string>
-    <string name="select_keyboard_layout_notification_title">إعداد لوحة المفاتيح الفعلية</string>
+    <string name="select_keyboard_layout_notification_title">إعداد %s</string>
     <string name="select_minutes">تحديد الدقائق</string>
+    <string name="select_multiple_keyboards_layout_notification_title">إعداد لوحات المفاتيح الخارجية</string>
     <string name="select_year">تحديد العام</string>
     <string name="selected">محدّد</string>
     <string name="sendText">اختيار إجراء للنص</string>
@@ -1860,7 +1914,6 @@
     <string name="serviceErased">لم يتم المسح بنجاح.</string>
     <string name="serviceNotProvisioned">الخدمة غير متوفرة.</string>
     <string name="serviceRegistered">تم التسجيل بنجاح.</string>
-    <string name="setup_autofill">إعداد الملء التلقائي</string>
     <string name="sha1_fingerprint">‏بصمة إصبع SHA-1:</string>
     <string name="sha256_fingerprint">‏بصمة إصبع SHA-256:</string>
     <string name="share">مشاركة</string>
@@ -1876,7 +1929,7 @@
     <string name="shortcut_restore_signature_mismatch">تعذّرت استعادة الاختصار بسبب عدم تطابق توقيع التطبيق</string>
     <string name="shortcut_restore_unknown_issue">تعذّرت استعادة الاختصار</string>
     <string name="shortcut_restored_on_lower_version">إصدار التطبيق أقدم من إصداره على الجهاز الآخر أو أنه ليس متوافقًا مع هذا الاختصار.</string>
-    <string name="show_ime">استمرار عرضها على الشاشة أثناء نشاط لوحة المفاتيح الفعلية</string>
+    <string name="show_ime">استمرار عرضها على الشاشة عندما تكون لوحة المفاتيح الخارجية متصلة</string>
     <string name="shutdown_confirm">سيتم إيقاف هاتفك.</string>
     <string name="shutdown_confirm_question">هل تريد إيقاف التشغيل؟</string>
     <string name="shutdown_progress">جارٍ إيقاف التشغيل...</string>
@@ -1887,7 +1940,7 @@
     <string name="sim_added_message">أعد تشغيل جهازك للدخول إلى شبكة الجوال.</string>
     <string name="sim_added_title">‏تمت إضافة شريحة SIM</string>
     <string name="sim_done_button">تم</string>
-    <string name="sim_removed_message">‏لن تكون شبكة الجوال متاحة حتى تتم إعادة التشغيل وإدخال شريحة SIM صالحة.</string>
+    <string name="sim_removed_message">‏لن تتوفّر شبكة الجوال إلى أن تتم إعادة تشغيل الهاتف باستخدام شريحة SIM صالحة.</string>
     <string name="sim_removed_title">‏تمت إزالة شريحة SIM</string>
     <string name="sim_restart_button">إعادة التشغيل</string>
     <string name="sipAddressTypeCustom">مخصص</string>
@@ -1947,7 +2000,6 @@
     <string name="system_error_wipe_data">حدثت مشكلة داخلية في جهازك، وقد لا يستقر وضعه حتى إجراء إعادة الضبط على الإعدادات الأصلية.</string>
     <string name="system_locale_title">الإعداد التلقائي للنظام</string>
     <string name="taking_remote_bugreport_notification_title">جارٍ الحصول على تقرير الخطأ…</string>
-    <string name="terabyteShort">تيرابايت</string>
     <string name="test_harness_mode_notification_message">يمكنك إجراء إعادة ضبط على الإعدادات الأصلية لإيقاف وضع \"مفعِّل اختبار\".</string>
     <string name="test_harness_mode_notification_title">تم تفعيل وضع \"مفعّل الاختبار\"</string>
     <string name="tethered_notification_message">انقر للإعداد.</string>
@@ -1956,7 +2008,6 @@
     <string name="tethered_notification_one_device_message">الجهاز المتصل: %1$s</string>
     <string name="tethered_notification_title">الربط أو نقطة اتصال مفعلة</string>
     <string name="textSelectionCABTitle">تحديد النص</string>
-    <string name="text_copied">تم نسخ النص إلى الحافظة.</string>
     <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
     <string name="time_picker_decrement_hour_button">تقليل الساعات</string>
     <string name="time_picker_decrement_minute_button">تقليل الدقائق</string>
@@ -2012,15 +2063,19 @@
     <string name="usb_tether_notification_title">ربط USB مشغل</string>
     <string name="usb_unsupported_audio_accessory_message">الجهاز المتصل غير متوافق مع هذا الهاتف. انقر لعرض المزيد.</string>
     <string name="usb_unsupported_audio_accessory_title">تم اكتشاف ملحق صوت تناظري</string>
+    <string name="usb_uvc_notification_title">الجهاز متصل ككاميرا ويب</string>
     <string name="use_a_different_app">استخدام تطبيق آخر</string>
     <string name="user_creation_account_exists">هل تسمح لتطبيق %1$s بإنشاء مستخدم جديد باستخدام %2$s (يوجد مستخدم بهذا الحساب مسبقًا)؟</string>
     <string name="user_creation_adding">هل تسمح لتطبيق %1$s بإنشاء مستخدم جديد باستخدام %2$s ؟</string>
     <string name="user_logging_out_message">جارٍ الخروج %1$s…</string>
+    <string name="user_owner_app_label">التبديل إلى تطبيق \"%1$s\" في الملف الشخصي</string>
     <string name="user_owner_label">التبديل إلى الملف الشخصي</string>
     <string name="user_switched">المستخدم الحالي %1$s.</string>
     <string name="user_switching_message">جارٍ التبديل إلى %1$s…</string>
     <string name="validity_period">الصلاحية:</string>
     <string name="vdm_camera_access_denied">يتعذّر الوصول إلى كاميرا الهاتف من على جهاز %1$s.</string>
+    <string name="vdm_pip_blocked">لا يمكن عرض نافذة ضمن النافذة أثناء البث.</string>
+    <string name="vdm_secure_window">لا يمكن الوصول إلى هذا المحتوى أثناء البث. بدلاً من ذلك، جرِّب استخدام هاتفك.</string>
     <string name="view_and_control_notification_content">يمكن لخدمة %s الاطّلاع على شاشتك والتحكّم فيها. انقر لمراجعة الإعدادات.</string>
     <string name="view_and_control_notification_title">التحقّق من إعدادات الوصول</string>
     <string name="volume_alarm">مستوى صوت المنبّه</string>
@@ -2065,6 +2120,7 @@
     <string name="wfcSpnFormat_spn_wlan_call">‏مكالمة عبر شبكة WLAN التابعة لـ %s</string>
     <string name="wfcSpnFormat_vowifi">VoWifi</string>
     <string name="wfcSpnFormat_wifi">Wi-Fi</string>
+    <string name="wfcSpnFormat_wifi_call">‏مكالمة عبر Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling">‏الاتصال عبر Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling_bar_spn">‏الاتصال عبر شبكة WiFi | %s</string>
     <string name="wfcSpnFormat_wifi_calling_wo_hyphen">‏الاتصال عبر WiFi</string>
@@ -2105,13 +2161,16 @@
     <string name="window_magnification_prompt_content">يمكنك الآن تكبير جزء من الشاشة.</string>
     <string name="window_magnification_prompt_title">إعدادات التكبير الجديدة</string>
     <string name="wireless_display_route_description">عرض شاشة لاسلكي</string>
-    <string name="work_mode_off_message">الوصول إلى تطبيقات العمل وإشعاراتها</string>
-    <string name="work_mode_off_title">هل تريد تفعيل تطبيقات العمل؟</string>
-    <string name="work_mode_turn_on">تفعيل</string>
+    <string name="work_mode_emergency_call_button">الطوارئ</string>
+    <string name="work_mode_off_title">أتريد إعادة تفعيل تطبيقات العمل؟</string>
+    <string name="work_mode_turn_on">إعادة التفعيل</string>
     <string name="work_profile_deleted">تم حذف الملف الشخصي للعمل.</string>
     <string name="work_profile_deleted_description_dpm_wipe">لم يعد ملفك الشخصي للعمل متاحًا على هذا الجهاز</string>
     <string name="work_profile_deleted_details">تطبيق المشرف للملف الشخصي للعمل مفقود أو تالف لذا تم حذف الملف الشخصي للعمل والبيانات ذات الصلة. اتصل بالمشرف للحصول على المساعدة.</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">تم إجراء محاولات كثيرة جدًا لإدخال كلمة المرور</string>
+    <string name="work_profile_telephony_paused_text">لقد أوقفت تطبيقات العمل مؤقتًا. لن تتلقّى مكالمات هاتفية أو رسائل نصية.</string>
+    <string name="work_profile_telephony_paused_title">المكالمات والرسائل غير مفعّلة</string>
+    <string name="work_profile_telephony_paused_turn_on_button">إلغاء الإيقاف المؤقت لتطبيقات العمل</string>
     <string name="write_fail_reason_cancelled">ملغاة</string>
     <string name="write_fail_reason_cannot_write">حدث خطأ أثناء كتابة المحتوى</string>
     <string name="year">سنة</string>
@@ -2133,6 +2192,7 @@
     <string name="zen_mode_feature_name">عدم الإزعاج</string>
     <string name="zen_mode_forever">إلى أن يتم إيقاف الوضع</string>
     <string name="zen_mode_forever_dnd">حتى يتم إيقاف \"عدم الإزعاج\"</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">حتى %1$s</string>
     <string name="zen_mode_until_next_day">حتى %1$s</string>
     <string name="zen_upgrade_notification_content">انقر للاطّلاع على ما تم حظره.</string>

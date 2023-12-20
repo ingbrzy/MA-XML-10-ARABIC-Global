@@ -88,22 +88,6 @@
         <item quantity="few">%2$s غير مقروء من %1$s</item>
         <item quantity="many">%2$s غير مقروء من %1$s</item>
     </plurals>
-    <plurals name="delete_wallpapers_message">
-        <item quantity="other">حذف %1$d خلفية شاشة؟</item>
-        <item quantity="zero">حذف %1$d خلفية شاشة؟</item>
-        <item quantity="one">حذف %1$d خلفية شاشة؟</item>
-        <item quantity="two">حذف %1$d خلفيات شاشة؟</item>
-        <item quantity="few">حذف %1$d خلفيات شاشة؟</item>
-        <item quantity="many">حذف %1$d خلفية شاشة؟</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">تم تحديد %1$d عنصر</item>
-        <item quantity="zero">تم تحديد %1$d عنصر</item>
-        <item quantity="one">تم تحديد %1$d عنصر</item>
-        <item quantity="two">تم تحديد %1$d عناصر</item>
-        <item quantity="few">تم تحديد %1$d عناصر</item>
-        <item quantity="many">تم تحديد %1$d عنصر</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
         <item quantity="zero">منذ نصف ساعة</item>
@@ -177,12 +161,12 @@
         <item quantity="many">منذ %d دق</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
-        <item quantity="zero">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
-        <item quantity="one">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
-        <item quantity="two">هل ترغب في إزالة %1$d تطبيقات من الشاشة الرئيسية؟</item>
-        <item quantity="few">هل ترغب في إزالة %1$d تطبيقات من الشاشة الرئيسية؟</item>
-        <item quantity="many">هل ترغب في إزالة %1$d تطبيق من الشاشة الرئيسية؟</item>
+        <item quantity="other">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
+        <item quantity="zero">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
+        <item quantity="one">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
+        <item quantity="two">هل ترغب في إزالة %1$d عناصر من الشاشة الرئيسية؟</item>
+        <item quantity="few">هل ترغب في إزالة %1$d عناصر من الشاشة الرئيسية؟</item>
+        <item quantity="many">هل ترغب في إزالة %1$d عنصر من الشاشة الرئيسية؟</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">الصفحة %1$d، %2$d تطبيق.</item>

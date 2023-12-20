@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -47,7 +47,7 @@
     <string name="date_time_picker_dialog_title">تعيين التاريخ والوقت</string>
     <string name="dialog_market_score_cancel">إلغاء</string>
     <string name="dialog_market_score_dislike">تعليق</string>
-    <string name="dialog_market_score_like">٥ نجوم!</string>
+    <string name="dialog_market_score_like">خمس نجوم!</string>
     <string name="dialog_market_score_positive_button">تعليق</string>
     <string name="dialog_market_score_submit">إرسال</string>
     <string name="dialog_market_score_subtitle_step1">انقر على النجوم لتقييم هذا التطبيق</string>
@@ -58,6 +58,7 @@
     <string name="dual_app_title">التطبيقات المزدوجة</string>
     <string name="dual_app_words">كل حساب يستحق تطبيق خاص به</string>
     <string name="early_morning">فجر</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
@@ -87,14 +88,14 @@
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="fastboot_locked_answer_1">Fastboot هو الطريقة التقليدية لفلاش أجهزة Mi. عندما يكون الجهاز في وضع Fastboot، فانه يمكن الوصول إلى جميع البيانات المخزنة فيه ومحوها مباشرة. نحن نقوم بقفل وضع Fastboot للتأكد من بقاء بياناتك الخاصة آمنة في حالة فقدان الجهاز، بالإضافة إلى ضمان موثوقية العثور على ميزات الجهاز.</string>
     <string name="fastboot_locked_answer_2">في حال فقدت جهازك، يضمن وضع Fastboot أمان العناصر المخزنة فيه. إذا قمت بإلغاء قفل وضع Fastboot، فلن تكون قادرا على قفل جهازك عن بعد أو محو البيانات باستخدام العثور على الجهاز. ولهذا السبب لا ننصح بإلغاء قفل وضع Fastboot على جهازك.</string>
-    <string name="fastboot_locked_answer_3">يجب عليك استخدام أداة إلغاء القفل من موقع MIUI. لإلغاء قفل الجهاز، نحن بحاجة للتأكد من أن الجهاز لك. لهذا السبب يجب عليك تسجيل الدخول باستخدام حساب Mi وتشغيل العثور على الجهاز.</string>
+    <string name="fastboot_locked_answer_3">يجب عليك استخدام أداة إلغاء القفل من Xiaomi. لإلغاء قفل الجهاز، نحن بحاجة للتأكد من أن الجهاز لك. لهذا السبب يجب عليك تسجيل الدخول باستخدام حساب Mi وتشغيل العثور على الجهاز.</string>
     <string name="fastboot_locked_question_1">لماذا يجب قفل وضع Fastboot؟</string>
     <string name="fastboot_locked_question_2">هل هناك أي مخاطر تتعلق بالغاء قفل وضع Fastboot؟</string>
     <string name="fastboot_locked_question_3">أنا أعرف عن المخاطر، ولكن ما زلت بحاجة إلى إلغاء قفل الجهاز. ماذا علي أن أفعل؟</string>
     <string name="fastboot_status_locked_info">وضع Fastboot غير مقفل على هذا الجهاز</string>
     <string name="fastboot_status_locked_summary">لا يمكن الوصول إلى مدخل الجذر</string>
     <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
-    <string name="fastboot_unlock_web_title">اذهب إلى الموقع الرسمي لـ MIUI للحصول على أداة إلغاء القفل.</string>
+    <string name="fastboot_unlock_web_title">اذهب إلى الموقع الرسمي للحصول على أداة إلغاء القفل.</string>
     <string name="fingerprint_not_remind">لا تسأل مجدداً</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -233,17 +234,25 @@
     <string name="gb_gputuner_lod_deviation">Mipmap LOD bias</string>
     <string name="gb_gputuner_multi_render">عرض متعدد مؤشرات الترابط</string>
     <string name="gb_not_support_on_device">"This app can't be used on the outer screen"</string>
+    <string name="gb_pannel_control_frame_rate_dialog_message">To be able to use this feature, change display resolution to WQHD+ in Settings.</string>
+    <string name="gb_pannel_control_frame_rate_dialog_positive">Settings</string>
+    <string name="gb_pannel_control_frame_rate_dialog_title">Change display resolution</string>
     <string name="gb_pannel_control_mode_balance">متوازن</string>
     <string name="gb_pannel_control_mode_custom">تخصيص</string>
+    <string name="gb_pannel_control_mode_frame_rate">Frame rate priority</string>
     <string name="gb_pannel_control_mode_high_quality">جودة عالية</string>
     <string name="gb_pannel_control_mode_normal">الافتراضية</string>
+    <string name="gb_pannel_control_mode_picture">Picture priority</string>
     <string name="gb_pannel_control_mode_power_saving">حفظ الطاقة</string>
+    <string name="gb_web_panel_failure_retry">تعذر تحميل العناصر، انقر للمحاولة مجدداً.</string>
+    <string name="gb_web_panel_game_loading">لحظة من فضلك…</string>
+    <string name="gb_web_panel_network_exception">لا يمكن التوصية بالألعاب الآن بسبب خطأ في الشبكة. تحقق من إعدادات الشبكة ثم إعد المحاولة.</string>
     <string name="gb_webwindow_schemedialog_accept">فتح</string>
     <string name="gb_webwindow_schemedialog_cancel">إلغاء</string>
     <string name="gb_webwindow_schemedialog_title">هل ترغب في فتح الألعاب الآن؟</string>
     <string name="gb_weixinpay_can_not_complete">لا يمكن اكمال الدفع. التثبيت للمتابعة.</string>
     <string name="gdpr_msg">&lt;Data>لإستخدام ميزات الحماية الأساسية، يجب عليك أن توافق على قيام Xiaomi بجمع ومعالجة واستخدام بياناتك الشخصية. بما في ذلك معلومات عن الطرق التي تستخدم بها ميزات الحماية (مثل: إحصائيات استخدام بيانات الهاتف، ومعلومات عن البرامج الضارة، وكذلك المعلومات الأساسية حول الجهاز) وأنواع أخرى من المعلومات المحددة في &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سياسة الخصوصية&lt;/a>.&lt;/Data></string>
-    <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام مسرع الألعاب Xunyou. ستجمع هذه الخدمة معرف معرف حسابك Mi لتسجيل مدة عضويتك.</string>
+    <string name="gtb_dialog_privacy_speed_message">أنت على وشك استخدام مسرع الألعاب Xunyou. ستجمع هذه الخدمة معرف معرف حساب Mi لتسجيل مدة عضويتك.</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>يرجى القراءة والموافقة على &lt;a href=\"%1$s\">سياسة خصوصية&lt;/a> مسرع الألعاب Xunyou.&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">مسرع الألعاب Xunyou</string>
     <string name="hybrid_provider">مدعوم بواسطة %1$s</string>
@@ -256,14 +265,14 @@
     <string name="miuishare_wechat_timeline_title">لحظات WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -322,6 +331,7 @@
     <string name="net_booster_expire_notification">جلسة زيادة سرعة الشبكة على وشك الانتهاء</string>
     <string name="net_booster_overdue_notification">جلسة زيادة سرعة الشبكة على وشك الانتهاء</string>
     <string name="net_booster_overdue_notification_tip">انتهت جلسة زيادة سرعة الشبكة. قد تبدأ في مواجهة بطىء في الشبكة. هل ترغب في تجديد الجلسة الآن؟</string>
+    <string name="network_error">حدث خطأ ما في الشبكة.</string>
     <string name="network_not_available">لا يمكن الاتصال بالشبكة</string>
     <string name="night">المساء</string>
     <string name="no_network">لا يمكن الاتصال بالشبكة</string>
@@ -330,7 +340,20 @@
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
     <string name="ok_button">موافق</string>
     <string name="open_browser">فتح في المتصفح</string>
+    <string name="page_load_failed">لا يمكن فتح الصفحة</string>
     <string name="pc_activity_title">تحسين البطارية</string>
+    <string name="pc_entered_extreme_mode">وضع الإسبات مشغل</string>
+    <string name="pc_entered_extreme_mode_summary">لقد نفدت البطارية ودخل جهازك في وضع الإسبات. ستشتغل التطبيقات في الخلفية ولن ترسل إشعارات.</string>
+    <string name="pc_entered_extreme_mode_summary2">البطارية على وشك النفاذ. في وضع الإسبات، لن تتلقى أي إشعارات من التطبيقات التي تعمل في الخلفية.</string>
+    <string name="pc_extreme_exit_and_power_off">خروج</string>
+    <string name="pc_extreme_mode_bg_toast">في وضع الإسبات. ستشتغل التطبيقات في الخلفية ولن ترسل إشعارات</string>
+    <string name="pc_extreme_mode_exit_risk_title">تنبيه</string>
+    <string name="pc_extreme_mode_exit_risk_title_summary">نفدت بطارية جهازك. إذا خرجت من وضع الإسبات، سينطفئ الجهاز.</string>
+    <string name="pc_extreme_mode_find_charger">اشحن جهازك في أقرب وقت ممكن.</string>
+    <string name="pc_extreme_mode_runtime">وضع الإسبات قيد التشغيل لمدة %1$s و %2$s.</string>
+    <string name="pc_extreme_mode_title">وضع الإسبات</string>
+    <string name="pc_going_to_exit_extreme_mode">الخروج من وضع الإسبات</string>
+    <string name="pc_going_to_exit_extreme_mode_summary">جهازك قيد الشحن. وضع الإسبات متوقف.</string>
     <string name="pm">م</string>
     <string name="pm_lable_name">معلومات عن مدخل الجذر</string>
     <string name="power_center_battery_duration_screen_on">مدة استخدام الجهاز المتبقية</string>
@@ -339,6 +362,7 @@
     <string name="privacy_declare_dialog_title">شروط الخدمة</string>
     <string name="privacy_prompt_traffic_purchase_message">سيتم تشفير رقم هاتفك وتفاصيل شركة الاتصالات الخاصة بك ورفعها الى خوادم Mi للحصول معلومات حول خيارات الشراء.</string>
     <string name="renew_now">تجديد</string>
+    <string name="retry_action">حاول مجدداً</string>
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
     <string name="saturday_shortest">السبت</string>
@@ -352,6 +376,7 @@
     <string name="size_peta_byte">بنتابايت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">تيرابايت</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
@@ -369,6 +394,7 @@
     <string name="superpower_date">EEEE، dd MMMM</string>
     <string name="superpower_dialog_app_select_content">تستهلك تطبيقات الجهات الخارجية عادة طاقة أكثر من تطبيقات النظام. إضافة على أي حال؟</string>
     <string name="superpower_dialog_app_select_title">تنبيه</string>
+    <string name="superpower_dialog_button_ok">موافق</string>
     <string name="superpower_exit_hint">جارٍ إيقاف موفر البطارية الأقصى…</string>
     <string name="superpower_incharging">يتم الشحن</string>
     <string name="superpower_progress_battery_last">%s متبقي</string>
@@ -381,7 +407,7 @@
     <string name="superpower_third">تطبيقات الجهات الخارجية</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
-    <string name="superpower_toast_app_select_full">يمكنك إضافة ما يصل إلى ٦ عناصر للتطبيقات المستخدمة بشكل متكرر</string>
+    <string name="superpower_toast_app_select_full_new">يمكنك إضافة مايصل إلى %d عناصر للتطبيقات المستخدمة بشكل متكرر</string>
     <string name="the_anniversary_of_lifting_martial_law">ذكرى إلغاء الأحكام العرفية</string>
     <string name="the_anti_aggression_day">يوم مكافحة العدوان</string>
     <string name="the_arbor_day">يوم الشجرة</string>
@@ -431,7 +457,7 @@
     <string name="title_share_link">مشاركة URL</string>
     <string name="today">اليوم</string>
     <string name="tomorrow">غدا</string>
-    <string name="tool_box_active_loading">لحضة من فضلك…</string>
+    <string name="tool_box_active_loading">لحظة من فضلك…</string>
     <string name="tool_box_active_no_networ">لا يمكن الاتصال بالشبكة</string>
     <string name="tool_box_active_reload">تحديث</string>
     <string name="tuesday">الثلاثاء</string>
@@ -439,7 +465,7 @@
     <string name="tuesday_shortest">الثلاثاء</string>
     <string name="usage_sorted_loading_text">لحظة من فضلك…</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="web_sso_login_fail">تحتاج إلى تسجيل الدخول مرة أخرى</string>
     <string name="web_sso_login_message">تسجيل الدخول…</string>
     <string name="webview_reload">حاول مرة أخرى</string>

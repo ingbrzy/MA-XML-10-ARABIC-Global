@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">قبول</string>
+    <string name="apm_enabled_first_time_message">‏يتذكر جهازك إبقاء شبكة Wi‑Fi مفعَّلة في \"وضع الطيران\". يمكنك إيقاف شبكة Wi‑Fi إذا لم تكن تريد مواصلة تفعيلها.</string>
+    <string name="apm_enabled_first_time_title">‏تظل شبكة Wi-Fi مفعّلة</string>
     <string name="decline">رفض</string>
     <string name="dlg_ok">حسنًا</string>
+    <string name="notification_channel_apm_alerts">‏تنبيهات APM</string>
     <string name="notification_channel_network_alerts">تنبيهات الشبكة</string>
     <string name="notification_channel_network_available">الشبكة متوفرة</string>
     <string name="notification_channel_network_status">حالة الشبكة</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"تاريخ انتهاء صلاحية الشهادة:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"ننصحك بعدم السماح لهذه الشبكة بالاتصال إلا إذا كانت المعلومات أدناه تبدو صحيحة:
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"التوقيع:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"‏بصمة إصبع SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">عدم الاتصال</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">الاتصال على أي حال</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">إلغاء الاتصال الآن</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">البقاء على اتصال</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">تفتقد هذه الشبكة %1$s شهادة.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">تعرّف على كيفية إضافة شهادات.</string>
     <string name="wifi_ca_cert_dialog_preT_title">يتعذّر التحقّق من هذه الشبكة.</string>
@@ -82,14 +89,29 @@
     <string name="wifi_enable_request_dialog_negative_button">عدم السماح</string>
     <string name="wifi_enable_request_dialog_positive_button">السماح</string>
     <string name="wifi_enable_request_dialog_title">‏هل تريد السماح لتطبيق %1$s بتفعيل Wi-Fi؟</string>
+    <string name="wifi_enabled_apm_first_time_message">‏إذا واصلت تفعيل شبكة Wi‑Fi، سيتذكر جهازك إبقاءها مفعَّلة في المرة القادمة التي تفعِّل فيها \"وضع الطيران\".</string>
+    <string name="wifi_enabled_apm_first_time_title">‏شبكة Wi‑Fi مفعَّلة في \"وضع الطيران\"</string>
     <string name="wifi_interface_priority_approve">السماح</string>
+    <string name="wifi_interface_priority_interface_name_ap">‏نقطة اتصال Wi‑Fi</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">‏نقطة اتصال Wi‑Fi</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">‏اتصال Wi-Fi مباشر</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">قد يتسبب هذا الإجراء في مشاكل للتطبيق %3$s.</string>
     <string name="wifi_interface_priority_message_plural">قد يتسبب هذا الإجراء في حدوث مشاكل لهذه التطبيقات: %3$s.</string>
     <string name="wifi_interface_priority_reject">عدم السماح</string>
     <string name="wifi_interface_priority_title">يريد التطبيق %1$s استخدام مورد للاتصال بالشبكات.</string>
+    <string name="wifi_network_disabled_by_admin_button">إغلاق</string>
+    <string name="wifi_network_disabled_by_admin_message">تم إيقاف معرّف %1$s من قِبل المشرف.</string>
+    <string name="wifi_network_disabled_by_admin_title">شبكة غير متوفّرة</string>
+    <string name="wifi_network_switch_dialog_negative_button">عدم التبديل</string>
+    <string name="wifi_network_switch_dialog_positive_button">تبديل</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">جودة شبكة \"%1$s\" منخفضة. هل تريد التبديل إلى \"%2$s\"؟</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">يبدو أنّ شبكة \"%1$s\" غير متصلة بالإنترنت. هل تريد التبديل إلى \"%2$s\"؟</string>
     <string name="wifi_p2p_enter_pin_message">‏اكتب رمز PIN المطلوب:</string>
     <string name="wifi_p2p_frequency_conflict_message">‏سيتم قطع اتصال الهاتف مؤقتًا بشبكة Wi-Fi في الوقت الذي يكون فيه متصلاً بـ %1$s</string>
     <string name="wifi_p2p_from_message">من:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{القبول خلال ثانية واحدة}zero{القبول خلال # ثانية}two{القبول خلال ثانيتَين}few{القبول خلال # ثوانٍ}many{القبول خلال # ثانية}other{القبول خلال # ثانية}}</string>
     <string name="wifi_p2p_invitation_sent_title">تم إرسال الدعوة</string>
     <string name="wifi_p2p_invitation_to_connect_title">دعوة للاتصال</string>
     <string name="wifi_p2p_show_pin_message">رقم التعريف الشخصي:</string>

@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,12 +65,20 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">المساحة غير كافية. تعذر تنزيل %d صورة</item>
+        <item quantity="zero">المساحة غير كافية. تعذر تنزيل %d صورة</item>
+        <item quantity="one">المساحة غير كافية. تعذر تنزيل %d صورة</item>
+        <item quantity="two">المساحة غير كافية. تعذر تنزيل %d صور</item>
+        <item quantity="few">المساحة غير كافية. تعذر تنزيل %d صور</item>
+        <item quantity="many">المساحة غير كافية. تعذر تنزيل %d صورة</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d عنصر في قائمة الحظر</item>
@@ -216,6 +224,14 @@
         <item quantity="few">حاول مرة اخرى بعد %d ثواني</item>
         <item quantity="many">حاول مرة اخرى بعد %d ثانية</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">تعذر مزامنة &lt;font color=#F22424>%s عنصر&lt;/font></item>
+        <item quantity="zero">تعذر مزامنة &lt;font color=#F22424>%s عنصر&lt;/font></item>
+        <item quantity="one">تعذر مزامنة &lt;font color=#F22424>%s عنصر&lt;/font></item>
+        <item quantity="two">تعذر مزامنة &lt;font color=#F22424>%s عناصر&lt;/font></item>
+        <item quantity="few">تعذر مزامنة &lt;font color=#F22424>%s عناصر&lt;/font></item>
+        <item quantity="many">تعذر مزامنة &lt;font color=#F22424>%s عنصر&lt;/font></item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">تعذر مزامنة %s عنصر</item>
         <item quantity="zero">تعذر مزامنة %s عنصر</item>
@@ -311,6 +327,14 @@
         <item quantity="two">تم تحديد %d عناصر</item>
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">المساحة ممتلئة. تعذر مزامنة &lt;font color=#F22424>%d تطبيق&lt;/font>.</item>
+        <item quantity="zero">المساحة ممتلئة. تعذر مزامنة &lt;font color=#F22424>%d تطبيق&lt;/font>.</item>
+        <item quantity="one">المساحة ممتلئة. تعذر مزامنة &lt;font color=#F22424>%d تطبيق&lt;/font>.</item>
+        <item quantity="two">المساحة ممتلئة. تعذر مزامنة &lt;font color=#F22424>%d تطبيقات&lt;/font>.</item>
+        <item quantity="few">المساحة ممتلئة. تعذر مزامنة &lt;font color=#F22424>%d تطبيقات&lt;/font>.</item>
+        <item quantity="many">المساحة ممتلئة. تعذر مزامنة &lt;font color=#F22424>%d تطبيق&lt;/font>.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">منذ %d دق</item>

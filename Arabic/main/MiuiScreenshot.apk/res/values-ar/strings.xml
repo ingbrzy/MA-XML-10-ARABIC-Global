@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -34,6 +34,8 @@
     <string name="actionbar_button_up_description">رجوع</string>
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
+    <string name="annotation_open">إظهار الأدوات</string>
+    <string name="annotation_stow">إخفاء الأدوات</string>
     <string name="app_name">لقطة شاشة</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -59,6 +61,10 @@
     <string name="confirm_cancel_task_files">إلغاء إرسال الملفات إلى %1$s؟</string>
     <string name="confirm_cancel_task_images">إلغاء إرسال الصور إلى %1$s؟</string>
     <string name="copy">نسخ</string>
+    <string name="copy_dialog_confirm">حسنا</string>
+    <string name="copy_dialog_content">ستتم إضافة لقطات الشاشة تلقائيًا إلى الحافظة ويمكن لصقها. يمكنك إيقاف تشغيل هذه الميزة في الإعدادات من خلال البحث عن \"إضافة عناصر إلى الحافظة\".</string>
+    <string name="copy_dialog_title">تنبيه</string>
+    <string name="copy_success_toast">تم النسخ بنجاح</string>
     <string name="cta_agree_desc">امنح هذا التطبيق أذونات الاتصال بالإنترنت وجميع الأذونات المطلوبة أعلاه.</string>
     <string name="cta_btn_agree">أوافق</string>
     <string name="cta_btn_disagree">لا أوافق</string>
@@ -167,7 +173,7 @@
     <string name="long_screenshot_error">حدث خطأ ما. حاول مجددًا.</string>
     <string name="long_screenshot_guide_text">"انقر لإنشاء
  لقطة شاشة مطولة"</string>
-    <string name="long_screenshot_intercepted_error">تعذر أخذ لقطة للشاشة، حاول مرة أخرى.</string>
+    <string name="long_screenshot_intercepted_error">حدث خطأ ما. تم حفظ لقطة الشاشة في المعرض.</string>
     <string name="long_screenshot_out_of_memory_error">الصورة كبيرة جدًا</string>
     <string name="long_screenshot_processing">جارٍ المعالجة…</string>
     <string name="long_screenshot_processing_description_accessibility">جارٍ المعالجة</string>
@@ -194,14 +200,14 @@
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="midnight">الليل</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -273,7 +279,7 @@
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="partial_screenshot_edit">تعديل</string>
-    <string name="partial_screenshot_failed_to_capture_title">التطبيق لا يسمح بأخذ لقطات للشاشة</string>
+    <string name="partial_screenshot_failed_to_capture_title">لا يمكن أخذ لقطات شاشة لهذه الصفحة</string>
     <string name="partial_screenshot_failed_to_save_title">تعذر الحفظ. لا توجد مساحة كافية.</string>
     <string name="partial_screenshot_insert_failed">تعذر الحفظ</string>
     <string name="partial_screenshot_repaint">إعادة</string>
@@ -303,6 +309,12 @@
     <string name="photo_save_to_msg">تم الحفظ إلى %s</string>
     <string name="pm">م</string>
     <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
+    <string name="privacy_mosaic_result_done">تم ترميز المعلومات الخاصة</string>
+    <string name="privacy_mosaic_result_fail">تعذر ترميز المعلومات الخاصة. حاول مجددا.</string>
+    <string name="privacy_mosaic_result_none">لم يتم العثور على معلومات خاصة</string>
+    <string name="privacy_mosaic_tip">انقر لترميز المعلومات الخاصة</string>
+    <string name="privacy_mosaic_tip_long">لقطات الشاشة القابلة للتمرير غير مدعومة</string>
+    <string name="privacy_mosaic_tip_partial">لقطات الشاشة الجزئية غير مدعومة</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>
@@ -352,12 +364,17 @@
     <string name="screen_editor_btn_save">حفظ</string>
     <string name="screen_editor_btn_shell_off">إزالة إطار الجهاز</string>
     <string name="screen_editor_btn_shell_on">إضافة إطار الجهاز</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">هل ترغب في حذف لقطة الشاشة هذه؟</string>
     <string name="screen_editor_delete_dialog_picture_msg">هل ترغب في حذف هذه الصورة الآن؟</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">تم</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">لا يمكن إضافة إطار الجهاز على لقطات الشاشة المقطوعة</string>
     <string name="screen_editor_shell_net_error">اتصل بالشبكة لتنزيل إطار الجهاز</string>
     <string name="screen_editor_shell_res_downloading">جارٍ تنزيل إطار الجهاز…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">إلغاء</string>
     <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
     <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
@@ -376,6 +393,8 @@
     <string name="screen_talkback_shape">شكل</string>
     <string name="screen_talkback_small">صغير جداً</string>
     <string name="screen_talkback_text">نص</string>
+    <string name="screenshot_detected_multiple_template">اكتشفت عديد من التطبيقات بما في ذلك %1$s لقطة الشاشة هذه</string>
+    <string name="screenshot_detected_template">لقد اكتشف %1$s لقطة الشاشة هذه</string>
     <string name="screenshot_edit">تعديل</string>
     <string name="screenshot_failed_in_landscape_mode">لا يمكن إنشاء لقطات للشاشة مطولة في الوضع الأفقي</string>
     <string name="screenshot_feedback_txt">التعليقات</string>
@@ -384,6 +403,9 @@
     <string name="screenshot_save">حفظ</string>
     <string name="screenshot_send">إرسال</string>
     <string name="screenshot_thumbnail">لقطة شاشة مصغرة</string>
+    <string name="scroll_annotation">تمرير وإضافة تعليق توضيحي</string>
+    <string name="scroll_annotation_btn_quit">الخروج من التعليقات التوضيحية</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">هل ترغب في حفظ التعليقات التوضيحية قبل الخروج؟</string>
     <string name="search_menu_title">البحث</string>
     <string name="send">مشاركة</string>
     <string name="send_files_by">مشاركة الملفات عبر</string>
@@ -482,7 +504,7 @@
     <string name="unrecognized_manufacture">غير معروف</string>
     <string name="unrecognized_model">جهاز غير معروف</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
     <string name="wednesday">الأربعاء</string>

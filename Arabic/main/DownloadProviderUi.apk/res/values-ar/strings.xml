@@ -74,6 +74,7 @@
     <string name="continue_download">متابعة</string>
     <string name="copy">نسخ</string>
     <string name="copy_info">تم النسخ إلى الحافظة. يمكنك مشاركته مع الإصدقاء!</string>
+    <string name="copy_toast_msg">تم نسخ الرابط إلى الحافظة.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -131,8 +132,20 @@
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
+    <string name="exo_download_completed">اكتمل التنزيل</string>
+    <string name="exo_download_description">تنزيل</string>
+    <string name="exo_download_downloading">جارٍ التنزيل.</string>
+    <string name="exo_download_failed">تعذّر التنزيل</string>
+    <string name="exo_download_notification_channel_name">عمليات التنزيل</string>
+    <string name="exo_download_paused">تمّ إيقاف عمليات التنزيل مؤقتًا.</string>
+    <string name="exo_download_paused_for_network">عمليات التنزيل في انتظار الاتصال بالشبكة</string>
+    <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
+    <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="expand_button_title">إعدادات متقدمة</string>
     <string name="extend">المزيد</string>
+    <string name="fallback_menu_item_copy_link">نسخ الرابط</string>
+    <string name="fallback_menu_item_open_in_browser">فتح في المتصفح</string>
+    <string name="fallback_menu_item_share_link">مشاركة الرابط</string>
     <string name="file_size">الحجم:</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -190,6 +203,9 @@
     <string name="friday_short">الجمعة</string>
     <string name="friday_shortest">الجمعة</string>
     <string name="gigabyteShort_per_seconds">غ.ب/ث</string>
+    <string name="icon_create_failure">تعذر إضافة الاختصار</string>
+    <string name="icon_create_success">تمت إضافة الاختصار بنجاح</string>
+    <string name="icon_restore">انقر لإضافة اختصار تنزيلات الشاشة الرئيسية</string>
     <string name="info_download_progress">عرض تقدم التنزيل</string>
     <string name="info_flow_show">إظهار المحتوى الموصى به</string>
     <string name="insufficient_space">لا توجد مساحة تخزين كافية</string>
@@ -212,14 +228,14 @@
     <string name="midnight">الليل</string>
     <string name="missing_title">&lt;غير معروف></string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -306,6 +322,7 @@
     <string name="preferences_title">الإعدادات</string>
     <string name="privacy_agree_dialog_msg">&lt;Data>مرحبا بك في التنزيلات! يمكنك إستخدام هذا التطبيق لتنزيل الملفات.&lt;BR>يحتاج التنزيلات إلى جمع البيانات الشخصية الضرورية لتزويدك بالخدمات التي تنشئ إحصائيات التنزيل. يمكنك التعرف على كيفية تعاملنا مع البيانات التي نجمعها في &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a>.&lt;BR>يجب أن تقرأ وتوافق على &lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> و&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> قبل استخدام التنزيلات.&lt;BR> يمكنك سحب الموافقة على سياسة خصوصية التنزيلات في أي وقت من الإعدادات. أذا كنت لا توافق على سياسة الخصوصية الخاصة بنا. فلن تعمل بعض الوظائف بشكل صحيح ولكنها لن تؤثر على استخدامك للوظائف الأساسية لهذا التطبيق.&lt;/Data></string>
     <string name="privacy_agree_dialog_title">الأحكام والشروط</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
     <string name="privacy_revoke_dialog_later">إلغاء</string>
     <string name="privacy_revoke_dialog_msg">إذا قمت بإيقاف تشغيل المفتاح، فسيعتبر ذلك سحب لموافقتك على سياسة خصوصية التنزيلات، وسنتوقف عن جمع بياناتك الشخصية وحذف المعلومات الشخصية التي جمعها التطبيق خلال الفترة التي تحددها القوانين المعمول بها. نظرًا لأن الخدمات الأساسية التي تقدمها التنزيلات تتطلب جمع البيانات الشخصية الضرورية، فأن سحب موافقتك يعتبر عدم موافقتك على استمرارنا في تزويدك بالخدمات التي تعمل على أساس جمع البيانات.</string>
     <string name="privacy_revoke_dialog_ok">سحب</string>

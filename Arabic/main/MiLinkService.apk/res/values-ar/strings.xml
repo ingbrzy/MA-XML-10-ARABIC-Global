@@ -71,11 +71,13 @@
     <string name="dialog_connect_verify_perssion_fail">لم يتمكن بث شاشة الجهاز على التلفزيون. انتظر دقيقة أو دقيقتين ثم حاول مجددا.</string>
     <string name="dialog_connected">متصل</string>
     <string name="dialog_connecting">جارٍ الاتصال…</string>
-    <string name="dialog_location_permission_message">يتطلب التطبيق إذن للوصول إلى موقعك للعثور على شاشات خارجية في منطقتك. حدد خيار \"السماح دائما\" عند منح هذا الإذن لتجنب مشكلات البحث المحتملة.</string>
+    <string name="dialog_location_permission_message">يتطلب التطبيق إذن الوصول إلى موقعك للعثور على شاشات خارجية في منطقتك. حدد خيار \"السماح دائما\" عند منح هذا الإذن لتجنب مشكلات البحث المحتملة.</string>
     <string name="dialog_location_permission_title">الأذونات مطلوبة</string>
     <string name="dialog_miplay_permission_message">اسمح لبث الشاشة بتسجيل الصوت والوصول إلى الملفات الموجودة في الذاكرة الداخلية والوصول إلى موقعك حتى تتمكن من استخدام هذه الميزة بشكل طبيعي. انقر على \"الإعدادات\" واختر \"أذونات التطبيقات\" للمتابعة.</string>
     <string name="dialog_miplay_permission_positive">الإعدادات</string>
     <string name="dialog_miplay_permission_title">الأذونات مطلوبة</string>
+    <string name="dialog_nearbydevice_permission_message">اسمح لهذا الجهاز بالوصول إلى الأجهزة القريبة لتتمكن من استخدام ميزات بث الشاشة.</string>
+    <string name="dialog_nearbydevice_permission_title">الأذونات مطلوبة</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
     <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. قم بتوصيل الجهاز والتلفزيون بنفس شبكة Wi-Fi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. في بعض طرزات التلفزيون، تتوفر هذه الميزة فقط عند تشغيل عكس الشاشة. راجع &lt;a href=milink://com.milink.service/specification>\"المساعدة\"&lt;/a> لمزيد من المعلومات.&lt;/Data></string>
     <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
@@ -348,6 +350,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -562,6 +565,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="toast_msg_for_multi_window">لا يمكن استخدام هذه الميزة مع تقسيم الشاشة</string>
     <string name="toast_msg_for_small_window">يمكنك تصغير نافذة البث لتتمكن من إستخدام الميزات الأخرى على الجهاز دون مقاطعة عملية البث.</string>
     <string name="toast_nfc_dont_move">لا تحرك هاتفك بعيدا</string>
+    <string name="toast_nfc_same_wifi">قم بتوصيل التلفزيون وهذا الجهاز بنفس الشبكة</string>
     <string name="toast_title_for_small_window">اختر \"تصغير النافذة\" في التطبيق</string>
     <string name="toast_turn_off_hotspot_before_cast">أوقف تشغيل نقطة الاتصال المحمولة قبل البث</string>
     <string name="today">اليوم</string>
