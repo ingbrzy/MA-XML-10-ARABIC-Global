@@ -368,7 +368,6 @@
     <string name="download_method">تحميل</string>
     <string name="download_paused_in_power_save_mode">إيقاف مؤقت للتنزيلات عند تشغيل موفر البطارية</string>
     <string name="download_processing">جارٍ التحميل…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">جودة التحميل</string>
     <string name="download_quality_summary">الإعدادات الإضافية للاغاني التي تم تحميلها</string>
     <string name="download_song_quality_title">جودة تحميل الأغاني</string>
@@ -464,9 +463,7 @@
     <string name="exo_media_action_repeat_all_description">تكرار الكل</string>
     <string name="exo_media_action_repeat_off_description">عدم التكرار</string>
     <string name="exo_media_action_repeat_one_description">تكرار مقطع صوتي واحد</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -884,7 +881,6 @@
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -1245,7 +1241,6 @@
     <string name="privacy_authorize_revoking">جارٍ إلغاء الترخيص…</string>
     <string name="privacy_desc">سياسة الخصوصية (إلزامي)</string>
     <string name="privacy_policy">سياسة الخصوصية</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ar_EG</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
 If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
@@ -1422,7 +1417,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_to_download">جارٍ التحميل…</string>
     <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">جارٍ تثبيت اصدار جديد…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">التخزين للتطبيقات المزدوجة</string>
     <string name="storage_space_permissions_for_display">الوصول إلى تخزين الجهاز: لمسح الملفات على الجهاز ضوئيا وعرضها وتشغيلها</string>
     <string name="streamloadingtext">Connecting to %s</string>
@@ -1703,7 +1697,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">مزامنة الأغاني عبر الإنترنت إلى hungama والوصول إليها من أي جهاز قمت بتسجيل الدخول منه إلى حساب Mi.</string>
     <string name="upload_playlist_to_hungama_toast">سيتم مزامنة الأغاني عبر الإنترنت إلى hungama</string>
     <string name="user_agreement">اتفاقية المستخدم</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=ar_EG</string>
     <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">قوائم التشغيل</string>
     <string name="user_privacy_dialog_negative_text">إلغاء</string>

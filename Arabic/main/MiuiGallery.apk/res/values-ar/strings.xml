@@ -847,7 +847,6 @@
     <string name="face_name_edit">تعديل</string>
     <string name="face_name_input">ادخل اسم</string>
     <string name="face_recommend">التوصيات</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="fail_hint">تعذر اكمال العملية</string>
     <string name="fail_reason_migrate">جارٍ المعالجة… انتظر دقيقة أو دقيقتين وحاول مجددا.</string>
@@ -863,7 +862,6 @@
     <string name="feedback_my_reports">التعليقات</string>
     <string name="feedback_problem">الإبلاغ عن مشكلة</string>
     <string name="feedback_suggest">إرسال اقتراح</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">لا يمكن طباعة هذا العنصر.</string>
     <string name="file_cannot_screen_throw">لا يمكن بث هذا العنصر.</string>
     <string name="file_sending">جارٍ نقل الملفات…</string>
@@ -960,7 +958,6 @@
     <string name="grant_permission_go_and_set">ضبط</string>
     <string name="grant_permission_go_and_set_2">الإعدادت</string>
     <string name="grant_permission_go_and_set_3">الإعدادت</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">الأذونات المطلوبة</string>
     <string name="grant_permission_manage_storage_unlock">افتح جهازك واسمح لهذا التطبيق بالوصول إلى جميع الملفات لتتمكن من عرض العناصر.</string>
     <string name="grant_permission_shortcut">اسمح لهذا التطبيق بإنشاء اختصارات على الشاشة الرئيسية أولاً.</string>
@@ -1618,7 +1615,6 @@
     <string name="people_page_label">الأشخاص</string>
     <string name="people_page_photo">صورة مصغرة لشخص</string>
     <string name="people_page_unname">غير مسمى</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">لتسجيل الدخول وإدارة حساب النظام</string>
     <string name="permission_account_name">الوصول إلى الحسابات</string>
     <string name="permission_clipboard_desc">للوصول إلى العناصر وحفظها في الحافظة</string>
@@ -2085,7 +2081,6 @@
     <string name="share_album_cancel_share">إيقاف المشاركة</string>
     <string name="share_album_change_background">تغيير صورة الخلفية</string>
     <string name="share_album_create_failed">تعذر إنشاء ألبوم مشترك</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">إيقاف المشاركة</string>
     <string name="share_album_exit_confirm">إذا تابعت، فستفقد إمكانية الوصول إلى جميع العناصر الموجودة في هذا الألبوم. نوصي بتنزيل جميع العناصر المهمة قبل المغادرة.</string>
     <string name="share_album_exit_confirm_title">مغادرة هذه المجموعة؟</string>
@@ -2172,7 +2167,6 @@
     <string name="share_with_family">مشاركة مع الأسرة</string>
     <string name="sharer_quota_fulfiled">لقد قمت بمشاركة هذا الألبوم مسبقا مع أقصى عدد من الأشخاص.</string>
     <string name="show_cloud_albumlist_summary">لن يتم تحميل العناصر الجديدة من الألبومات المحددة إلى Cloud بعد إيقاف تشغيل المزامنة.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">عرض وإدارة الألبومات المخفية</string>
     <string name="show_hidden_album_title">عرض الألبومات المخفية</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">تم إزالته بنجاح. يمكنك عرض هذا العنصر في \"الألبومات\" الآن.</string>

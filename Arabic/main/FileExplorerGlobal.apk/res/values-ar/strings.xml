@@ -875,7 +875,6 @@
     <string name="set_pattern">تحديث كلمة المرور</string>
     <string name="set_pattern_btn">تعيين</string>
     <string name="set_pattern_msg">يرجى تعيين كلمة المرور مرة أخرى. يمكن استخدام كلمة مرور حماية الخصوصية أيضًا للصور والرسائل والملاحظات.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">أقل من %d كيلوبايت</string>
     <string name="size_lv2" formatted="false">%1d كيلوبايت - %2d ميجابايت</string>
     <string name="size_lv3" formatted="false">%1d ميجابايت - %2d ميجابايت</string>

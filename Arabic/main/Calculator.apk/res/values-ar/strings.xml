@@ -574,7 +574,6 @@
     <string name="unit_data_display_currency_btn">نغولتروم بوتاني</string>
     <string name="unit_data_display_currency_bwp">بولا بوتسوانية</string>
     <string name="unit_data_display_currency_byn">روبل بلاروسي</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دولار كندي</string>
     <string name="unit_data_display_currency_cdf">فرنك كنغولي</string>
     <string name="unit_data_display_currency_chf">فرنك سويسري</string>

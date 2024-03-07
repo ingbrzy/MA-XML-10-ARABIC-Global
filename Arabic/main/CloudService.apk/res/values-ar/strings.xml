@@ -182,8 +182,6 @@
     <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">بتشغيلك ميزة العثور على الجهاز، فإنك توافق على <u><a href="app://com.miui.cloudservice.gdpr.license">سياسة الخصوصية</a></u>. إذا رغبت في سحب موافقتك، فما عليك سوى إيقاف تشغيل الخدمة.</string>
     <string name="find_device_operation_failure_rpc">تعذر أداء العملية بسبب خطأ في RPC.</string>
     <string name="find_device_permissions_footer">انقر على \"منح\" لمنح الأذونات المحددة.</string>

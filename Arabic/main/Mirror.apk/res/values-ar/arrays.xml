@@ -91,14 +91,6 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
-    <string-array name="buffer_size_values">
-        <item>\@null</item>
-        <item>%1$d كيلوبايت</item>
-        <item>%1$d كيلوبايت</item>
-        <item>%1$d كيلوبايت</item>
-        <item>%1$d كيلوبايت</item>
-        <item>%1$d ميجابايت</item>
-    </string-array>
     <string-array name="miui15_settings_search_mirror">
         <item>خدمات ربط الأجهزة</item>
         <item>خدمات الاتصال والمشاركة/الربط بين الأجهزة</item>

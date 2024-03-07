@@ -253,9 +253,7 @@
     <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -396,7 +394,6 @@
     <string name="incompatible_dialog_ok">فهمت</string>
     <string name="incompatible_dialog_title">مشاكل التوافق</string>
     <string name="is_setting_wallpaper_message">جارٍ إعداد خلفية الشاشة…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">التنبيهات</string>
     <string name="item_resource_audio_optional_color_ring">نغمة الرنة</string>
     <string name="item_resource_audio_optional_notification_ring">الإشعارات</string>
@@ -566,7 +563,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -835,7 +831,6 @@ mm"</string>
     <string name="resource_pack_price_info">السعر الأصلي: %1$s</string>
     <string name="resource_pack_warning">لقد اشتريت %1$d من مكونات هذا الثيم مسبقا. انه أرخص إذا اشتريت المكونات المتبقية على حدة.</string>
     <string name="resource_present">هدية</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">مجاني</string>
     <string name="resource_price_unit"> رصيد Mi</string>
     <string name="resource_purchase_common_error">حدث خطأ ما، حاول مجدداً</string>
@@ -973,7 +968,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">تشعر به %s°</string>
     <string name="special_topic">الفئات</string>
     <string name="start_all">استئناف الكل</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">تعيين</string>
     <string name="storage_file">لحفظ العناصر التي تم تنزيلها</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
@@ -1106,7 +1100,6 @@ mm"</string>
     <string name="theme_is_external_priority_storage">حفظ إلى بطاقة SD</string>
     <string name="theme_is_external_priority_storage_summary">ستتم إعادة تشغيل تطبيق الثيمات مباشرة لتطبيق هذا الإعداد.</string>
     <string name="theme_multiple_button_title_customize">تخصيص</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">لا</string>
     <string name="theme_on_the_phone_alert">لا يمكن اللعب أثناء مكالمة جارية</string>
     <string name="theme_recommend">ثيمات مشابهة</string>
