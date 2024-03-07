@@ -6,7 +6,7 @@
 يجب أن يكون معرف الجهاز عبارة عن عنوان IMEI أو MAC صالح. بدون معرف الجهاز، لن تكون بعض ميزات حساب Mi و Xiaomi Cloud متاحة."</string>
     <string name="error_device_id_title">لا يمكن الحصول على معرف صالح للجهاز</string>
     <string name="explain_send_sms_permission_button">تحقق</string>
-    <string name="explain_send_sms_permission_msg">لتشغيل %s، سيرسل إطار خدمة Mi اليك رسالة قصيرة (SMS) للتحقق من رقم هاتفك. سيتم احتساب رسوم الرسالة القصيرة عادية من قبل شركة الاتصالات.</string>
+    <string name="explain_send_sms_permission_msg">لتشغيل %s، سيرسل إطار خدمة Xiaomi اليك رسالة قصيرة للتحقق من رقم هاتفك. سيتم فرض رسوم على هذه الرسالة من قبل شركة الاتصالات.</string>
     <string name="explain_send_sms_permission_title">تحقق من رقم الهاتف الخاص بك</string>
     <string name="pop_up_allow_notify_dialog">السماح</string>
     <string name="pop_up_deny_notify_dialog">رفض</string>

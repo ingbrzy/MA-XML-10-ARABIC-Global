@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">منع الوميض</string>
     <string name="anti_flicker_mode_categroy">الأوضاع</string>
     <string name="anti_flicker_mode_summary">تجنب الوميض المفرط ونقليل إجهاد العين في ظروف الإضاءة المنخفضة</string>
+    <string name="anti_flicker_mode_summary_new">استخدام تعتيم DC في الإضاءة الخافتة لتقليل إجهاد العين</string>
     <string name="anti_flicker_title">وضع منع الوميض</string>
     <string name="app_name">الإعدادات</string>
+    <string name="app_use">مدة استخدام التطبيق</string>
     <string name="application_sound">إشعارات التطبيقات</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -111,7 +113,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
     <string name="calendar_sound">تذكيرات الأحداث</string>
-    <string name="calendar_tip">تٌستخدم أصوات تذكير الأحداث في تذكيرات التقويم والملاحظات والمهام</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
@@ -307,6 +308,10 @@
     <string name="focus_time_exception_tip">يبدو أن وقت النظام تغير. تم إيقاف وضع التركيز.</string>
     <string name="follow_apps_settings">يعتمد على إعدادات التطبيق</string>
     <string name="follow_sim1">تعيين إعدادات SIM 1</string>
+    <string name="footer_global_fps">"
+%1$dعند تشغيل وضع الأداء، سيتم تحويل معدل التحديث إلى الحد الأقصى للنظام وهو %2$d هرتز. لن تكون إعدادات التطبيق ذات معدل التحديث العالي متاحة مؤقتًا."</string>
+    <string name="footer_max_fps" formatted="false">"
+%d يمكن ضبط معدل التحديث مايصل إلى %s هرتز لدعم التطبيقات والألعاب."</string>
     <string name="force_rest">استخدام فترات راحة</string>
     <string name="force_rest_summary">أخذ فترات راحة إلزامية عند وصول الجلسة إلى حد معين</string>
     <string name="force_rest_time">فترة الراحة</string>
@@ -419,17 +424,20 @@
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">The marabou stork is a massive bird, a frequent scavenger.</string>
     <string name="masked_palm_civet">Masked palm civet</string>
+    <string name="max_fps_string">حتى %s هرتز</string>
     <string name="medium_tree_finch">Medium tree finch</string>
+    <string name="mi_transfer_banner_summary">يتم دعم عدة علامات تجارية للأجهزة</string>
+    <string name="mi_transfer_banner_title">نقل العناصر من جهازك القديم</string>
     <string name="midnight">الليل</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -582,6 +590,7 @@
     <string name="screen_fps_unit">%d هرتز</string>
     <string name="screen_fps_unit_power_save">%d هرتز (موفر للبطارية)</string>
     <string name="screen_fps_unit_smooth">%d هرتز (جودة أفضل)</string>
+    <string name="screen_fps_unit_string">%s هرتز</string>
     <string name="screen_original_gamut">مُحسن</string>
     <string name="screen_original_gamut_summary">عرض كل محتوى الشاشة بأقصى قدر ممكن من التدرج اللوني</string>
     <string name="screen_paper_mode_apps_loading">لحظة من فضلك…</string>
@@ -640,6 +649,7 @@
     <string name="stop_summary">سيتم حذف جميع إحصائيات مدة استخدام الجهاز عند إيقاف تشغيل هذه الميزة</string>
     <string name="suggestion">التعليقات</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="summary_max_fps_for_intelligent">ضبط معدل التحديث ديناميكيًا ما يصل إلى %s  هرتز بناءً على السيناريوهات لتحقيق التوازن بين الأداء واستهلاك الطاقة</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
@@ -794,7 +804,7 @@
 يحتاج هذا التطبيق أيضًا إلى الاتصال بالإنترنت ويتطلب الأذونات التالية لجمع معلوماتك الشخصية:"</string>
     <string name="usage_home_premission_second_summary">ليعمل التطبيق بشكل طبيعي، يحتاج إلى الاتصال بالإنترنت وجمع المعلومات الشخصية اللازمة. نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. إذا لم توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية وتحميلها، فلن تتمكن من استخدام هذا التطبيق. يمكنك إلغاء الترخيص بالانتقال إلى مدة استخدام الجهاز > الإعدادات > إيقاف تشغيل مدة استخدام الجهاز.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>قبل استخدام هذا التطبيق، يجب أن تقرأ وتوافق على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و&lt;a href='%2s'>سياسة الخصوصية&lt;/a>.&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"قبل استخدام هذا التطبيق، يجب أن تقرأ وتوافق على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و&lt;a href='%2s'>سياسة الخصوصية&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">نحن نحمي معلوماتك الشخصية وفقًا للقوانين والقواعد وسياسات الخصوصية ذات الصلة. إذا لم توافق على منح هذه الأذونات أو مشاركة معلوماتك الشخصية وتحميلها، فلن تتمكن من استخدام هذا التطبيق. يمكنك إلغاء الترخيص بالانتقال إلى مدة استخدام الجهاز > الإعدادات > إيقاف تشغيل مدة استخدام الجهاز. إذا كان لديك المزيد من الأسئلة حول الخصوصية، يمكنك التواصل معنا عبر privacy@xiaomi.com.</string>
     <string name="usage_new_category_limit_summary">تعيين حدود الاستخدام اليومية لجميع التطبيقات في هذه الفئة</string>
     <string name="usage_new_category_limit_title">تقييد استخدام فئة التطبيق</string>
@@ -842,7 +852,7 @@
     <string name="usage_optional_title">الأذونات الاختيارية</string>
     <string name="usage_permisison_agree_desc_o">لتزويدك بإحصائيات مدة استخدام الجهاز ووضع التركيز، يحتاج هذا التطبيق لجمع المعلومات التالية: عدد المرات التي تقوم فيها فتح قفل جهازك وأسماء التطبيقات مع مدة استخدامها وعدد مرات إضاءة الشاشة و إعدادات وضع التركيز.</string>
     <string name="usage_permisison_agree_desc_p">لتزويدك بإحصائيات مدة استخدام الجهاز ووضع التركيز، يحتاج هذا التطبيق لجمع المعلومات التالية: عدد المرات التي تقوم فيها فتح قفل جهازك وأسماء التطبيقات مع مدة استخدامها وعدد مرات إضاءة الشاشة وإعدادات وضع التركيز.</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>يحتاج هذا التطبيق إلى الاتصال بالإنترنت وجمع البيانات الشخصية ليعمل بشكل طبيعي. لمعرفة أيضا حقوقك كمستخدم وطرق استخدامنا لبياناتك، يجب عليك القراءة والموافقة على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و &lt;a href='%2s'>سياسة الخصوصية&lt;/a>.لدينا&lt;/Data>"</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"يحتاج هذا التطبيق إلى الاتصال بالإنترنت وجمع البيانات الشخصية ليعمل بشكل طبيعي. لمعرفة أيضا حقوقك كمستخدم وطرق استخدامنا لبياناتك، يجب عليك القراءة والموافقة على &lt;a href='%1s'>اتفاقية المستخدم&lt;/a> و &lt;a href='%2s'>سياسة الخصوصية&lt;/a>.لدينا"</Data></string>
     <string name="usage_permission_main_desc">"مرحبًا بك في مدة استخدام الجهاز!
 يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذونات التاليه ليعمل بشكل طبيعي:"</string>
     <string name="usage_permission_title">تنبيه</string>
@@ -886,18 +896,18 @@
     <string name="usage_state_device_unlock_today_tip_title">تم فتح قفل الجهاز مابين الساعة %1$d:00 و %2$d:00</string>
     <string name="usage_state_download">حفظ إلى المعرض</string>
     <string name="usage_state_duration_title">هذه الجلسة</string>
-    <string name="usage_state_focus_call">مكالمات الطوارئ</string>
+    <string name="usage_state_focus_call">مكالمة الطوارئ</string>
     <string name="usage_state_focus_level1">النجم ساطع</string>
     <string name="usage_state_focus_level_summary">المستوى الحالي: %s</string>
-    <string name="usage_state_focus_mode_experience_warning_message">يسمح وضع التركيز فقط باستخدام الكاميرا وإجراء مكالمات الطوارئ. لن تتمكن من إيقاف تشغيل وضع التركيز قبل انتهى الوقت المحدد.</string>
+    <string name="usage_state_focus_mode_experience_warning_message">يسمح وضع التركيز فقط باستخدام الكاميرا وإجراء مكالمة الطوارئ. لن تتمكن من إيقاف تشغيل وضع التركيز قبل انتهى الوقت المحدد.</string>
     <string name="usage_state_focus_mode_experience_warning_message_pad">يسمح وضع التركيز فقط باستخدام الكاميرا. لن تتمكن من إيقاف تشغيل وضع التركيز نهائيا.</string>
     <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Focus mode only allows using Camera and making emergency calls. You won't be able to turn off Focus mode prematurely."</string>
-    <string name="usage_state_focus_mode_summary">تقييد جميع الميزات باستثناء مكالمات الطوارئ والكاميرا</string>
+    <string name="usage_state_focus_mode_summary">تقييد جميع الميزات باستثناء مكالمة الطوارئ والكاميرا</string>
     <string name="usage_state_focus_mode_summary1">البداية الجيدة هي نصف الإنجاز</string>
     <string name="usage_state_focus_mode_summary2">استمر في التركيز</string>
     <string name="usage_state_focus_mode_summary3">يتطلب الأمر بعض الجهد للحفاظ على التركيز</string>
     <string name="usage_state_focus_mode_title">وضع التركيز</string>
-    <string name="usage_state_focus_mode_warning_message">يسمح وضع التركيز فقط باستخدام الكاميرا وإجراء مكالمات الطوارئ. لن تتمكن من إيقاف تشغيل وضع التركيز قبل انتهى الوقت المحدد.</string>
+    <string name="usage_state_focus_mode_warning_message">يسمح وضع التركيز فقط باستخدام الكاميرا وإجراء مكالمة الطوارئ. لن تتمكن من إيقاف تشغيل وضع التركيز قبل انتهى الوقت المحدد.</string>
     <string name="usage_state_focus_mode_warning_message_pad">يسمح وضع التركيز فقط باستخدام الكاميرا. لن تتمكن من إيقاف تشغيل وضع التركيز نهائيا.</string>
     <string name="usage_state_focus_mode_warning_message_sim_pad">"Focus mode only allows using Camera and making emergency calls. You won't be able to turn off Focus mode prematurely."</string>
     <string name="usage_state_focus_mode_warning_title">تنبيه</string>
@@ -1004,7 +1014,7 @@
     <string name="usagestats_device_timeout_positive">فهمت</string>
     <string name="usagestats_device_timeout_title">منبه مدة استخدام الجهاز</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="vampire_finch">Vampire ground finch</string>
     <string name="vervet_monkey">Green monkey</string>
     <string name="wait_tip">لحظة من فضلك…</string>

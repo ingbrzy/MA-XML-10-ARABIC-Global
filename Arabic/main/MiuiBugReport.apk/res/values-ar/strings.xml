@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -79,6 +79,7 @@
     <string name="bugreport_dump_start_notification_title">جارٍ إنشاء تقرير عن خلل…</string>
     <string name="bugreport_tool_log_dumping_desc">يستغرق حوالي دقيقة</string>
     <string name="bugreport_tool_log_dumping_title">إنشاء تقرير عن الخلل</string>
+    <string name="can_not_add_more_image">لا يمكن إضافة مزيد من الصور والفيديوهات</string>
     <string name="catch_full_log_action_cancel">إلغاء</string>
     <string name="catch_full_log_action_complete">إنهاء وتحميل</string>
     <string name="catch_full_log_action_start">ابدأ</string>
@@ -156,6 +157,15 @@
     <string name="discard_draft_dialog_content">ستفقد أي تغييرات أجريتها على هذا التقرير.</string>
     <string name="discard_draft_dialog_title">تجاهل المسودة؟</string>
     <string name="doing_query_account">جارٍ التحقق من معلومات الحساب…</string>
+    <string name="dynamic_dialog_content">أنت على وشك البدء في إنشاء سجلات ديناميكية. تحتوي هذه السجلات على سجلات عمليات البرامج (مثل مكالمات النظام). أثناء إنشاء السجلات الديناميكية، قد يتوقف جهازك فجأه عن الاستجابة أو يسخن وهذا أمر طبيعي. سيتم إيقاف تشغيل هذه الميزة بعد إنشاء السجلات. تذكر أن تبلغ عن الخلل في الوقت المناسب إذا تكررت المشكلة. بالنقر على \"أوافق\" أدناة، فإنك توافق على أننا سنجمع البيانات أعلاه، ثم نرفع السجلات إلى خوادمنا للعثور على المشاكل التي تبلغ عنها ونحلها.</string>
+    <string name="dynamic_dialog_negative_text">لا أوافق</string>
+    <string name="dynamic_dialog_notification_text">سيتم إيقاف تشغيل هذه الميزة بعد إنشاء السجلات</string>
+    <string name="dynamic_dialog_notification_title">جارٍ إنشاء سجلات ديناميكية…</string>
+    <string name="dynamic_dialog_positive_text">أوافق</string>
+    <string name="dynamic_dialog_title">بيان الخصوصية</string>
+    <string name="dynamic_log_load_text">لحظة من فضلك…</string>
+    <string name="dynamic_log_restore_toast_text">جارٍ استعادة السجلات الديناميكية…</string>
+    <string name="dynamic_log_title">السجلات الديناميكية</string>
     <string name="early_morning">فجر</string>
     <string name="empty" />
     <string name="eras_ad">بعد الميلاد</string>
@@ -187,7 +197,7 @@
     <string name="facebook_login_btn_content_description">تسجيل الدخول باستخدام الفيسبوك</string>
     <string name="failed_to_fetch_fql">تعذر الحصول على الأسئلة الشائعة، تحقق من اتصال الشبكة</string>
     <string name="feedback_account_inconsistent_login_hint">يبدو أنك قمت بتبديل الحسابات. يرجى تسجيل الدخول إلى حساب Mi السابق.</string>
-    <string name="feedback_account_login_hint">سجل الدخول إلى حساب Mi أولا</string>
+    <string name="feedback_account_login_hint">تسجيل الدخول الى حساب Mi!</string>
     <string name="feedback_answer_detail_feedback_resolved">نعم</string>
     <string name="feedback_answer_detail_feedback_result">شكرا لك!</string>
     <string name="feedback_answer_detail_feedback_title">هل ساعدك ذلك؟</string>
@@ -212,7 +222,7 @@
 %1$d. في أي تطبيق أو صفحة ظهرت فيها المشكلة؟
 %2$d. ماهي الخطوات التي أدت إلى ظهور المشكله؟
 %3$d. أضف أي معلومات أخرى قد تساعدنا في حل المشكلة."</string>
-    <string name="feedback_description_hint_suggestion">أخبرنا كيف تريد تحسين MIUI.</string>
+    <string name="feedback_description_hint_suggestion">أخبرنا كيف يمكننا التحسين.</string>
     <string name="feedback_description_suggest_hint">ارغب في إضافة ميزة جديدة () وذلك لاني احتاج ().</string>
     <string name="feedback_detail_copy_toast">تم النسخ إلى الحافظة</string>
     <string name="feedback_detail_feedback_attach">المرفقات</string>
@@ -366,6 +376,10 @@
     <string name="hint_feedback_main">قم بوصف المشكلة</string>
     <string name="i_get_it">حسنا</string>
     <string name="i_know">فهمت</string>
+    <string name="icon_add_description">إضافة إختصار على الشاشة الرئيسية</string>
+    <string name="icon_remove_confirm">إزالة</string>
+    <string name="icon_remove_description_content">\"التعليقات والخدمات\" هي أحد تطبيقات النظام. يمكنك الاستمرار في استخدامه من الإعدادات حتى بعد حذف اختصار الشاشة الرئيسية.</string>
+    <string name="icon_remove_description_title">هل ترغب في إزالة تطبيق التعليقات والخدمات من الشاشة الرئيسية؟</string>
     <string name="input_email_address_notice">سيتم استخدام هذا البريد الإلكتروني لتحقق من حسابك</string>
     <string name="issue_search">بحث</string>
     <string name="jump_full_log_dialog_cancel">إلغاء</string>
@@ -373,7 +387,7 @@
     <string name="jump_full_log_dialog_content">ستساعدنا السجلات في تحديد وحل المشكلة التي توشك على الإبلاغ عنها بشكل أسرع. قم بإنشاء سجلات وإرفاقها بتعليقاتك.</string>
     <string name="jump_full_log_dialog_title">إنشاء سجلات</string>
     <string name="kr_authorization_agree">قبول</string>
-    <string name="kr_authorization_contact">الحسابات</string>
+    <string name="kr_authorization_contact">الحساب</string>
     <string name="kr_authorization_contact_desc">للوصول إلى معلومات حساب Mi لتحديد الجهاز</string>
     <string name="kr_authorization_exit">خروج</string>
     <string name="kr_authorization_function">إرسال ملاحظات وإنشاء سجلات وعرض الأسئلة الشائعة</string>
@@ -400,20 +414,115 @@
     <string name="logout_account">تسجيل الخروج</string>
     <string name="menu_copy">نسخ</string>
     <string name="message_label">رسالة</string>
+    <string name="mi_service_app_name">الخدمات والتعليقات</string>
+    <string name="mi_service_back">رجوع</string>
     <string name="mi_service_dialog_cancel">خروج</string>
     <string name="mi_service_dialog_confirm">فتح</string>
     <string name="mi_service_dialog_content">تم نقل جميع ميزات الإبلاغ عن خلل إلى تطبيق \"الخدمات والتعليقات\". ستتم إزالة تطبيق الإبلاغ عن خلل من الشاشة الرئيسية. انقر على \"فتح\" لتجربة تطبيق \"الخدمات والتعليقات\".</string>
     <string name="mi_service_dialog_title">تقديم \"الخدمات والتعليقات\"</string>
     <string name="midnight">الليل</string>
+    <string name="miui_feedback_answer_detail_community">يمكنك العتور على إجابات لأسئلتك في Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">نعم</string>
+    <string name="miui_feedback_answer_detail_feedback_result">شكراً لملاحظاتك!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">هل ساعدتك هذة المعلومات؟</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">لا</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">احصل على مساعدة مباشرة</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">اتصل بخدمة العملاء</string>
+    <string name="miui_feedback_answer_detail_relative_tip">معلومات ذات صله</string>
+    <string name="miui_feedback_answer_detail_title">تفاصيل</string>
+    <string name="miui_feedback_edit_action_submit">إرسال</string>
+    <string name="miui_feedback_edit_add_original_images">إضافة صورة</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">إذا كانت المشكلة التي تبلغ عنها مرتبطة بجودة صورة الكاميرا، أضف عينة من الصورة (بدون اقتصاص) لمساعدتنا في العثور عليها. أضافة صورة الآن؟</string>
+    <string name="miui_feedback_edit_choose_module">تحديد عنصر</string>
+    <string name="miui_feedback_edit_choose_module_hint">مطلوب</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">الوقت</string>
+    <string name="miui_feedback_edit_choose_reproductivity">تكرار المشكلة</string>
+    <string name="miui_feedback_edit_choose_third_app_name">حدد اسم التطبيق</string>
+    <string name="miui_feedback_edit_contact_info_hint">رقم الهاتف/البريد الإلكتروني</string>
+    <string name="miui_feedback_edit_delete_images">حذف الصور</string>
+    <string name="miui_feedback_edit_desc_hint">صف المشكلة التي واجهتها</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">أخبرنا كيف تريد تحسين MIUI</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">إلغاء</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">تجاهل</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">ستفقد أي تغييرات أجريتها على هذا التقرير.</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">تجاهل المسودة؟</string>
+    <string name="miui_feedback_edit_hint">قم بالإبلاغ عن المشاكل في كل مرة تواجهك لمساعدتنا في حلها بشكل أسرع</string>
+    <string name="miui_feedback_edit_hint_gone">رسالة مغلقة</string>
+    <string name="miui_feedback_edit_hint_optional">حدد</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">انتظر شبكة Wi-Fi</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">رفع</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">يبدو أنك متصل بشبكة مدفوعة. قد يؤدي تحميل السجلات إلى فرض رسوم إضافية.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">تحذير استخدام البيانات</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">اسمح للتطبيق بالوصول إلى معلومات الجهاز لقراءة IMEI، حيث سيساعد ذلك في تحديد موقع المشاكل. انقر على\"موافق\" لفتح الإعدادات.</string>
+    <string name="miui_feedback_edit_need_storage_permission">اسمح للتطبيق بالوصول إلى تخزين الجهاز لتتمكن من إرفاق صور وفيديوهات في تعليقاتك، انقر على\"موافق\" لفتح الإعدادات.</string>
+    <string name="miui_feedback_edit_permission_denied_title">الأذونات المقيدة: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">الوصول إلى معلومات الجهاز</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">كل مرة</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">احیاناً</string>
+    <string name="miui_feedback_edit_reproductivity_often">غالبا</string>
+    <string name="miui_feedback_edit_reproductivity_once">مرة</string>
+    <string name="miui_feedback_edit_select_images">اضف صورة أو فيديو قصير</string>
+    <string name="miui_feedback_edit_select_modem_log">إضافة سجلات المودم</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">لم يتم تحديد \"إضافة سجلات المودم\"</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">تم تحديد \"إضافة سجلات المودم\"</string>
+    <string name="miui_feedback_edit_select_original_images">اضف الصورة الأصلية أو فيديو قصير</string>
+    <string name="miui_feedback_edit_select_problem">مشاكل</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">لم يتم تحديد \"مشاكل\"</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">تم تحديد \"مشاكل\"</string>
+    <string name="miui_feedback_edit_select_suggestion">الإقتراحات</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">لم يتم تحديد \"إقتراحات\"</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">تم تحديد \"إقتراحات\"</string>
+    <string name="miui_feedback_edit_select_upload_log">إضافة سجلات</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">لم يتم تحديد \"إضافة سجلات\"</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">تم تحديد \"إضافة سجلات\"</string>
+    <string name="miui_feedback_edit_storage_permission_name">الوصول إلى تخزين الجهاز</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">لا أوافق</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">أوافق</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>You must agree to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a> to be able to use Feedback. The issues you report along with the items you attach (might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacy Policy&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">User Agreement&lt;/a>.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">لا تظهر مرة اخرى</string>
+    <string name="miui_feedback_edit_submit_dialog_title">ارسال تقرير</string>
+    <string name="miui_feedback_edit_submit_directly">إرسال</string>
+    <string name="miui_feedback_edit_title_occurrence_time">حدد الوقت</string>
+    <string name="miui_feedback_edit_title_reproductivity">حدد مرات تكرار المشكلة</string>
+    <string name="miui_feedback_edit_toast_description_required">قم بوصف المشكلة أولاً.</string>
+    <string name="miui_feedback_edit_toast_module_required">تحديد عنصر</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">يجب أن يكون الوصف أطول</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">تحديد فئة</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">أدخل إسم التطبيق</string>
+    <string name="miui_feedback_main_answer_title">هناك إجابة لهذا السؤال</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"الخط الساخن للخدمة: 0120-300-521
+ساعات العمل: 9:00 - 18:00 (باستثناء البنوك والعطلات المجدولة)
+البريد الإلكتروني: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">الأسئلة الشائعة</string>
+    <string name="miui_feedback_main_item_catch_full_log">السجلات</string>
+    <string name="miui_feedback_main_item_customer_service">خدمات مابعد البيع</string>
+    <string name="miui_feedback_main_item_feedback_list">تعليقاتي</string>
+    <string name="miui_feedback_main_item_official_progress">تقدم الإصلاح</string>
+    <string name="miui_feedback_main_item_official_progress_hint">قم بتحديث تقدم الإصلاح بانتظام في Xiaomi Community</string>
+    <string name="miui_feedback_main_menu_view_privacy">سياسة الخصوصية</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">سحب الموافقة</string>
+    <string name="miui_feedback_main_search_footer">هذه ليست الأسئلة التي تريد أن تسألها؟</string>
+    <string name="miui_feedback_main_search_footer_submit">إرسال تعليق</string>
+    <string name="miui_feedback_main_search_issue">أدخل كلمات مفتاحية للبحث</string>
+    <string name="miui_feedback_main_search_no_answer">تعذر إيجاد نتائج</string>
+    <string name="miui_feedback_main_start_submit">إرسال التعليق</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">إرسال</string>
+    <string name="miui_feedback_main_submit_dialog_content">يبدو أننا لم نتمكن من إيجاد حل لمشكلتك. يمكنك إرسال تعليق إلينا.</string>
+    <string name="miui_feedback_main_submit_dialog_title">إرسال التعليق</string>
+    <string name="miui_feedback_main_title">التعليقات</string>
+    <string name="miui_feedback_main_withdraw">سحب</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">إذا قمت بالمتابعة، فسيعتبر ذلك سحب لموافقتك على سياسة الخصوصية لـ %1$s. سيتم حذف المعلومات شخصية التي جمعها التطبيق خلال الفترة المحددة وفقا للقوانين واللوائح المعمول بها ما لم يكن مطلوبًا بخلاف ذلك. نظرًا لأن %2$s توفر خدماتها بناءً على جمع البيانات الشخصية الضرورية، فسيتم اعتبار سحب موافقتك رفض لقبول خدمات %3$s. هل ترغب في سحب الموافقة الآن؟</string>
+    <string name="miui_feedback_note_install_xiaomi_community">ثبت Xiaomi Community أولا لتتمكن من استخدام هذه الميزة.</string>
     <string name="miuix_access_state_desc">محدد</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -495,6 +604,7 @@
     <string name="month_september_shortest">سبتمبر</string>
     <string name="more">المزيد</string>
     <string name="morning">الصباح</string>
+    <string name="net_daig_network_repair">إصلاح الشبكة</string>
     <string name="net_diag_cancel">إلغاء</string>
     <string name="net_diag_continue">متابعة</string>
     <string name="net_diag_dialog_msg">سيساعدك اختبار الشبكة في اكتشاف المشكلات وتحسين الاتصال. البدء الآن؟</string>
@@ -509,9 +619,15 @@
     <string name="net_diag_entry_network_protocol">بروتوكول الشبكة</string>
     <string name="net_diag_entry_network_rssi">جودة الاشارة</string>
     <string name="net_diag_entry_router_topology">توجيه الشبكة</string>
+    <string name="net_diag_fix_guide_window_msg">حدث خطأ في الشبكة، انقر لاستكشاف الخطأ.</string>
+    <string name="net_diag_fixing">جارٍ إصلاح الشبكة. قد يستغرق ذلك دقيقة.</string>
     <string name="net_diag_header_internet">الإنترنت</string>
     <string name="net_diag_header_router">جهاز التوجيه (الراوتر)</string>
     <string name="net_diag_header_this_device">هذا الجهاز</string>
+    <string name="net_diag_repair_msg">أثناء هذه العملية، سينقطع اتصال Wi-Fi ويعاد اتصاله مجددا. هل ترغب في تصليحه الآن؟</string>
+    <string name="net_diag_repair_msg_china">أثناء هذه العملية، سينقطع اتصال Wi-Fi ويعاد اتصاله مجددا. هل ترغب في تصليحه الآن؟</string>
+    <string name="net_diag_repair_static_ip_msg">قد يتم إعادة ضبط تكوينات الشبكة أثناء هذه العملية. إصلاح الآن؟</string>
+    <string name="net_diag_repair_title">إصلاح الشبكة؟</string>
     <string name="net_diag_title">اختبار الشبكة</string>
     <string name="net_diag_toast_cellular_data">لاختبار الشبكة، قم بإيقاف تشغيل بيانات الهاتف أولا.</string>
     <string name="net_diag_toast_other_networks">لاختبار الشبكة، اتصل أولا بـ Wi-Fi واقطع اتصال جميع الشبكات الأخرى.</string>
@@ -530,6 +646,7 @@
     <string name="non_system_app_select">التطبيقات التي تم تنزيلها</string>
     <string name="noon">الظهر</string>
     <string name="not_set">لم يتمّ تحديد قيمة.</string>
+    <string name="not_support_service_in_maintenance_mode">لا تتوفر هذه الميزة في وضع الصيانة</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">المزيد</string>
     <string name="open_settings">الإعدادات</string>
@@ -626,6 +743,26 @@
     <string name="passport_wrong_phone_number_format">تنسيق رقم الهاتف الذي أدخلته غير صالح</string>
     <string name="passport_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
     <string name="passport_wrong_voice">الرمز الذي أدخلته غير صحيح</string>
+    <string name="permission_agree">أوافق</string>
+    <string name="permission_china_version_msg">&lt;Data>قبل استخدامك تطبيق \"الخدمات والتعليقات\"، يجب عليك أن توافق على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href=%2$s>سياسة الخصوصية&lt;/a>. هذا التطبيق يحتاج إلى الاتصال بالانترنت ليعمل بشكل طبيعي.&lt;/Data></string>
+    <string name="permission_complete">تم</string>
+    <string name="permission_contacts_info">الوصول إلى معلومات الحساب</string>
+    <string name="permission_contacts_introduce">لتسجيل الدخول باستخدام حساب Mi</string>
+    <string name="permission_device_info">الوصول إلى معلومات الجهاز</string>
+    <string name="permission_device_introduce">لتحديد مدة الضمان</string>
+    <string name="permission_exit">خروج</string>
+    <string name="permission_external_storage_introduce">لحفظ ملاحظاتك وتسجيلها</string>
+    <string name="permission_first_start_network_title">الأحكام والشروط</string>
+    <string name="permission_imei_disable_desc">السماح لهذا التطبيق بالاتصال بالإنترنت.</string>
+    <string name="permission_imei_enable_desc">اسمح لهذا التطبيق الاتصال بالإنترنت ومنحه الأذونات أعلاة</string>
+    <string name="permission_location_introduce">لعرض مراكز الخدمة في المنطقة</string>
+    <string name="permission_main_purpose">عرض العروض التوضيحية للميزة، وتقديم الملاحظات، والتقدم بطلب للحصول على خدمات ما بعد البيع.</string>
+    <string name="permission_privacy">سياسة الخصوصية (إلزامي)</string>
+    <string name="permission_region_version_msg">&lt;Data>قبل استخدامك تطبيق \"الخدمات والتعليقات\"، يجب عليك قراءة والموافقة على &lt;a href=%1$s>اتفاقية المستخدم&lt;/a> و &lt;a href=%2$s>سياسة الخصوصية&lt;/a>.&lt;/Data></string>
+    <string name="permission_select_all">تحديد الكل</string>
+    <string name="permission_storage">التخزين</string>
+    <string name="permission_storage_introduce">لحفظ العناصر على الجهاز</string>
+    <string name="permission_user_protocol">اتفاقية المستخدم (إلزامي)</string>
     <string name="phone_auto_login_register_with_local_number">إنشاء حساب</string>
     <string name="photoPickerNotFoundText">لا توجد صور متاحة.</string>
     <string name="please_download_gallery">قم بتثبيت المعرض أولا</string>
@@ -641,6 +778,14 @@
     <string name="progressbar_title">جارٍ التحقق من مشاكل في الحماية…</string>
     <string name="protocal_dialog_confirm">أوافق</string>
     <string name="protocal_dialog_title">تنبيه</string>
+    <string name="public_authorize_now">الإعدادات</string>
+    <string name="public_loading_text">لحظة من فضلك…</string>
+    <string name="public_net_error_retry">حاول مجدداً</string>
+    <string name="public_net_error_sub_title">تحقق من إعدادات الشبكة ثم حاول مجدداً</string>
+    <string name="public_net_error_title">تعذر الاتصال بالشبكة</string>
+    <string name="public_open_feedback_service">البدء</string>
+    <string name="public_please_authorize">الأذونات مطلوبة للمتابعة</string>
+    <string name="public_welcome_use_feedback_service">مرحبا بك في تطبيق \"الخدمات والتعليقات\"! يمكنك استخدام هذا التطبيق لإرسال تعليقاتك وأقترحاتك والإبلاغ عن مشكلة وعرض الأسئلة الشائعة وتقديم طلب إرجاع المنتج واستبداله والمزيد.</string>
     <string name="qq_login_btn_content_description">تسجيل الدخول باستخدام QQ</string>
     <string name="refresh">تحديث</string>
     <string name="register_by_local_phone_long_text">إنشاء حساب</string>
@@ -650,7 +795,7 @@
     <string name="reply_option_log_hint">اختياري</string>
     <string name="reply_select_log_hint">اختر سجل</string>
     <string name="reply_successful">تم الرد بنجاح</string>
-    <string name="report_miui">الإبلاغ عن خلل</string>
+    <string name="report_miui">إرسال تعليق</string>
     <string name="request_agree">السماح</string>
     <string name="request_camera_permission_message">نحن نحمي معلوماتك الشخصية وفقًا للقوانين واللوائح ذات الصلة. يحتاج هذا التطبيق إلى الاتصال بالإنترنت ومنحه الأذن التالي:&lt;br>&lt;br>&lt;b>استخدام الكاميرا (لتعيين صورة الملف الشخصي)&lt;/b>&lt;br>&lt;br>إذا كنت لا توافق على منح الأذن المذكور أعلاه، فلن تتمكن من استخدام هذا التطبيق؛ ومع ذلك يمكنك استخدام الوظائف الرئيسية. يمكنك تقييد أو منح الأذونات من الإعدادات.</string>
     <string name="request_cancel">إلغاء</string>
@@ -685,9 +830,9 @@
     <string name="stop_full_log_dialog_title">جارٍ إنشاء السجلات…</string>
     <string name="submit_dialog_cancel">لا أوافق</string>
     <string name="submit_dialog_confirm">أوافق</string>
-    <string name="submit_dialog_content">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> لدينا قبل ارسال تقريرك. سيتم تحميل المشاكل التي تقوم بالإبلاغ عنها مع العناصر المرفقة (يتضمن ذلك سجلات قد تحتوي على البيانات الشخصية، بالإضافة إلى معلومات حول جهازك وشبكتك) إلى خوادم MIUI. سيساعدنا ذلك في العثور على المشاكل التي تبلغ عنها وحلها. إذا أبلغت عن مشاكل تتعلق بأجهزة متعددة، فسيتم ايضا تحميل سجلات الأجهزة الأخرى المستخدم فيها حساب Mi الخاص بك.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>سيتم إرسال تقريرك مع المرفقات (إذا وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد رفعها) إلى خوادم MIUI. وقد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>سيتم إرسال تقريرك مع المرفقات (إذا وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد رفعها) إلى خوادم MIUI. قد تحتوي السجلات على معلوماتك الشخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك تقر أتك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>يرجى قراءة والموافقة على &lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a> لدينا قبل ارسال تقريرك. سيتم تحميل المشاكل التي تقوم بالإبلاغ عنها مع العناصر المرفقة (يتضمن ذلك سجلات قد تحتوي على البيانات الشخصية، بالإضافة إلى معلومات حول جهازك وشبكتك) إلى خوادمنا. سيساعدنا ذلك في العثور على المشاكل التي تبلغ عنها وحلها. إذا أبلغت عن مشاكل تتعلق بأجهزة متعددة، فسيتم ايضا تحميل سجلات الأجهزة الأخرى المستخدم فيها حساب Mi الخاص بك.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>سيتم إرسال تقريرك مع المرفقات (إذا وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد رفعها) إلى خوادمنا. وقد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>سيتم إرسال تقريرك مع المرفقات (إذا وجدت) والسجلات (يمكنك إلغاء تحديد المربعات المقابلة للعناصر التي لا تريد رفعها) إلى خوادمنا. وقد تحتوي السجلات على معلومات شخصية ومعلومات موقعك. بالنقر على \"آوافق\" فأنك قرأت ووافقت على&lt;a href=\"%1$s\">سياسة الخصوصية&lt;/a> و&lt;a href=\"%2$s\">اتفاقية المستخدم&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">لا تظهر مرة اخرى</string>
     <string name="submit_dialog_title">ارسال تقرير</string>
     <string name="submit_feedback_info_failed">تعذر ارسال التقرير</string>
@@ -816,7 +961,7 @@
     <string name="user_must_known_content">لن تتمكن من الاستمرار في استخدام خدماتنا إذا لم توافق على الإصدار الجديد من %s الخاصة بنا. هل توافق على تحديثات سياسة خصوصية الآن؟</string>
     <string name="user_name_phone_number">رقم الهاتف</string>
     <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
+    <string name="v7_preference_on">مفعّلة</string>
     <string name="wednesday">الأربعاء</string>
     <string name="wednesday_short">الأربعاء</string>
     <string name="wednesday_shortest">الأربعاء</string>

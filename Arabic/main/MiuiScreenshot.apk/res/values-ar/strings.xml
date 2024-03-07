@@ -68,7 +68,7 @@
     <string name="cta_agree_desc">امنح هذا التطبيق أذونات الاتصال بالإنترنت وجميع الأذونات المطلوبة أعلاه.</string>
     <string name="cta_btn_agree">أوافق</string>
     <string name="cta_btn_disagree">لا أوافق</string>
-    <string name="cta_main_purpose">مرحبا بك في محرر لقطة الشاشة! يمكنك استخدام هذا التطبيق لقص لقطات الشاشة وتعديلها.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">لحفظ لقطات الشاشة</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -170,6 +170,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">جارٍ إزالة المعلومات الخاصة من الصور (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">جارٍ إنشاء لقطة الشاشة…</string>
+    <string name="long_screenshot_content_loading">لحظة من فضلك…</string>
+    <string name="long_screenshot_content_manual">اضبط نقطة نهاية لقطة الشاشة يدويًا، ثم اضغط على \"تم\".</string>
+    <string name="long_screenshot_done">تم</string>
     <string name="long_screenshot_error">حدث خطأ ما. حاول مجددًا.</string>
     <string name="long_screenshot_guide_text">"انقر لإنشاء
  لقطة شاشة مطولة"</string>
@@ -178,6 +182,7 @@
     <string name="long_screenshot_processing">جارٍ المعالجة…</string>
     <string name="long_screenshot_processing_description_accessibility">جارٍ المعالجة</string>
     <string name="long_screenshot_stop">تم</string>
+    <string name="long_screenshot_title">لقطة شاشة مطولة</string>
     <string name="long_screenshot_top_msg">جارٍ إنشاء لقطة الشاشة…</string>
     <string name="long_screenshot_top_msg_description_accessibility">جارٍ إنشاء لقطة الشاشة</string>
     <string name="long_screenshot_top_msg_manual">بعد قص لقطة الشاشة، انقر على تم</string>
@@ -209,6 +214,7 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
+    <string name="miuix_appcompat_edit">تعديل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
     <string name="miuix_appcompat_select_all">تحديد الكل</string>
@@ -364,12 +370,17 @@
     <string name="screen_editor_btn_save">حفظ</string>
     <string name="screen_editor_btn_shell_off">إزالة إطار الجهاز</string>
     <string name="screen_editor_btn_shell_on">إضافة إطار الجهاز</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">هل ترغب في حذف لقطة الشاشة هذه؟</string>
     <string name="screen_editor_delete_dialog_picture_msg">هل ترغب في حذف هذه الصورة الآن؟</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">تم</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">لا يمكن إضافة إطار الجهاز على لقطات الشاشة المقطوعة</string>
     <string name="screen_editor_shell_net_error">اتصل بالشبكة لتنزيل إطار الجهاز</string>
     <string name="screen_editor_shell_res_downloading">جارٍ تنزيل إطار الجهاز…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">إلغاء</string>
     <string name="screen_save_dialog_btn_delete">حذف لقطة الشاشة</string>
     <string name="screen_save_dialog_btn_save">حفظ إلى المعرض</string>
@@ -397,6 +408,7 @@
     <string name="screenshot_long_screenshot">تمرير</string>
     <string name="screenshot_save">حفظ</string>
     <string name="screenshot_send">إرسال</string>
+    <string name="screenshot_succeed">تم أخذ لقطة شاشة بنجاح</string>
     <string name="screenshot_thumbnail">لقطة شاشة مصغرة</string>
     <string name="scroll_annotation">تمرير وإضافة تعليق توضيحي</string>
     <string name="scroll_annotation_btn_quit">الخروج من التعليقات التوضيحية</string>

@@ -10,6 +10,7 @@
     <string name="download_queued">في قائمة الانتظار</string>
     <string name="download_remaining">%s متبقية</string>
     <string name="download_running">جارٍ التنزيل</string>
+    <string name="download_running_percent">جارٍ التنزيل %s</string>
     <string name="download_unknown_title">&lt;بدون عنوان></string>
     <string name="notif_title_file_size">إجمالي %1$d</string>
     <string name="notif_title_single_downloading">جارٍ تنزيل %1$s</string>
@@ -32,7 +33,6 @@
     <string name="permlab_downloadManager">الوصول للتنزيلات.</string>
     <string name="permlab_downloadManagerAdvanced">الميزات المتقدمة للتنزيلات.</string>
     <string name="permlab_downloadWithoutNotification">تنزيل الملفات بدون أي إشعارات</string>
-    <string name="permlab_seeAllExternal">مشاهدة كل التنزيلات إلى وحدة تخزين USB</string>
     <string name="root_downloads">التنزيلات</string>
     <string name="wifi_recommended_body">"قد يؤدي بدء هذا %1$s التنزيل الآن إلى التقليل من عمر البطارية و/أو يؤدي إلى الاستخدام المفرط لاتصال بيانات الهاتف مما قد يسبب إلى تحمل رسوم إضافية من شركة الاتصالات طبقا لخطة بياناتك.
 

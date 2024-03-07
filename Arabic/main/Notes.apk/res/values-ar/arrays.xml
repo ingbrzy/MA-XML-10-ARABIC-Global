@@ -95,10 +95,9 @@
         <item>الكاميرا</item>
         <item>المعرض</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>الإسم</item>
@@ -113,20 +112,6 @@
         <item>العنوان</item>
         <item>ملاحظة</item>
     </string-array>
-    <string-array name="first_guide_contents">
-        <item>مرحبا بك في الملاحظات!</item>
-        <item>دون الملاحظات</item>
-        <item>يمكنك استخدام النصوص والصور والتسجيلات الصوتية في ملاحظاتك. ستجعل المكتبة الغنية من الأنماط والخطوط نماذجك البسيطة تبدو مذهلة.</item>
-        <item>تساعدك القوائم والتذكيرات عندما تحتاج إلى أدوات أساسية وفعّالة لتخطيط رحلتك القادمة أو لطلب قائمة مشترياتك.</item>
-        <item>مشاركة الملاحظات</item>
-        <item>يمكنك إنشاء لقطات شاشة قابلة للتمرير في الملاحظات ومن ثم مشاركتها مع أصدقائك.</item>
-        <item>إنشاء والتبديل بين المجلدات</item>
-        <item>اضغط على السهم أدناه لإنشاء مجلد جديد أو التبديل بين المجلدات الموجودة.</item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>إعادة التسمية</item>
-        <item>حذف</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>صغير</item>
         <item>متوسط</item>
@@ -137,15 +122,8 @@
         <item>حسب تاريخ الإنشاء</item>
         <item>حسب تاريخ التعديل</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>ملاحظات صوتية</item>
-        <item>قم بإنشاء الملاحظات باستخدام محرك الكلام إلى النص المدمج مع إرفاق التسجيلات الأصلية لصوتك إلى الملاحظات.</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>الملاحظات الصوتية</item>
-        <item>يمكنك الآن إنشاء ملاحظات صوتية. فقط انقر على الأيقونة وسجل صوتك واحفظ ملف الصوت داخل الملاحظة.</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
 </resources>

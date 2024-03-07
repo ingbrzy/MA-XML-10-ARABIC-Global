@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,12 +65,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="category_limit_notify_content">
         <item quantity="other">%2$d دقيقة متبقية لـ \"%1$s\" اليوم</item>

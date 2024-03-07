@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -65,10 +93,10 @@
     </string-array>
     <string-array name="aqi_detail_title">
         <item>(جيد)</item>
-        <item>(معتدل)</item>
-        <item>(غير صحي للأشخاص الحساسة)</item>
+        <item>جيد</item>
+        <item>معتدل</item>
         <item>(غير صحي)</item>
-        <item>(خطير)</item>
+        <item>ضار</item>
         <item>(خطير جدا)</item>
     </string-array>
     <string-array name="aqi_title">
@@ -97,11 +125,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>جيد</item>
-        <item>مُرضِ</item>
-        <item>تلوث باعتدال</item>
-        <item>ضعيف</item>
-        <item>ضعيف جدا</item>
-        <item>شديد</item>
+        <item>جيد</item>
+        <item>معتدل</item>
+        <item>غير صحي</item>
+        <item>ضار</item>
+        <item>خطير</item>
         <item>تجاوز المؤشر</item>
     </string-array>
     <string-array name="hot_city">
@@ -133,29 +161,60 @@
         <item>معتدل</item>
         <item>خفيف</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>جاف</item>
+        <item>معتدل</item>
+        <item>رطب</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>مرتفع</item>
+        <item>متوسط</item>
+        <item>منخفض</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>بارد جدا</item>
+        <item>بارد</item>
+        <item>معتدل</item>
+        <item>دافئ</item>
+        <item>حار</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>منخفض</item>
+        <item>متوسط</item>
+        <item>مرتفع</item>
+        <item>مرتفع جدًا</item>
+        <item>خطير</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
+    </string-array>
     <string-array name="weather_type">
         <item>صافٍ</item>
         <item>غائم</item>
         <item>غائم جزئيا</item>
-        <item>ضبابي</item>
+        <item>ضباب</item>
         <item>عاصفة ممطرة</item>
-        <item>هطول</item>
+        <item>مطر غزير</item>
         <item>عاصفة ممطرة</item>
         <item>عاصفة رعدية</item>
-        <item>مطر</item>
+        <item>أمطار خفيفة</item>
         <item>أمطار غزيرة</item>
         <item>أمطار متوسطة</item>
         <item>أمطار خفيفة</item>
-        <item>أمطار وثلوج</item>
+        <item>صقيع</item>
         <item>عاصفة ثلجية عنيفة</item>
-        <item>ثلج</item>
+        <item>ثلوج</item>
         <item>ثلج كثيف</item>
         <item>ثلوج متوسطة</item>
         <item>ثلوج خفيفة</item>
         <item>عاصفة رملية قوية</item>
         <item>عاصفة رملية</item>
-        <item>رمل</item>
-        <item>رياح عاصفة</item>
+        <item>عاصفة رملية خفيفة</item>
+        <item>عاصفة ترابية</item>
         <item>برد</item>
         <item>غبار</item>
         <item>ضباب</item>

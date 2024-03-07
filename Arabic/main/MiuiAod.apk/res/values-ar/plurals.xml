@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,12 +65,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$sساعة %2$s"</item>
@@ -79,6 +79,14 @@
         <item quantity="two">" %1$sساعات %2$s"</item>
         <item quantity="few">" %1$sساعات %2$s"</item>
         <item quantity="many">" %1$sساعة %2$s"</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">الضغط الجوي: %s هكتوباسكال</item>
+        <item quantity="zero">الضغط الجوي: %s هكتوباسكال</item>
+        <item quantity="one">الضغط الجوي: %s هكتوباسكال</item>
+        <item quantity="two">الضغط الجوي: %s هكتوباسكال</item>
+        <item quantity="few">الضغط الجوي: %s هكتوباسكال</item>
+        <item quantity="many">الضغط الجوي: %s هكتوباسكال</item>
     </plurals>
     <plurals name="character_pitch_minus">
         <item quantity="other">تم تقليل تباعد الأحرف بنسبة %s</item>
@@ -125,6 +133,102 @@
         <item quantity="two">منذ نصف ساعة</item>
         <item quantity="few">منذ نصف ساعة</item>
         <item quantity="many">منذ نصف ساعة</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">تم حرق %1$s سعرة</item>
+        <item quantity="zero">تم حرق %1$s سعرة</item>
+        <item quantity="one">تم حرق %1$s سعرة</item>
+        <item quantity="two">تم حرق %1$s سعرات</item>
+        <item quantity="few">تم حرق %1$s سعرات</item>
+        <item quantity="many">تم حرق %1$s سعرة</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">هدف السعرات: %1$s سعرة</item>
+        <item quantity="zero">هدف السعرات: %1$s سعرة</item>
+        <item quantity="one">هدف السعرات: %1$s سعرة</item>
+        <item quantity="two">هدف السعرات: %1$s سعرات</item>
+        <item quantity="few">هدف السعرات: %1$s سعرات</item>
+        <item quantity="many">هدف السعرات: %1$s سعرات</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s سعرة</item>
+        <item quantity="zero">%1$s/%2$s سعرة</item>
+        <item quantity="one">%1$s/%2$s سعرة</item>
+        <item quantity="two">%1$s/%2$s سعرات</item>
+        <item quantity="few">%1$s/%2$s سعرات</item>
+        <item quantity="many">%1$s/%2$s سعرة</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">وقت النشاط: %1$s دقيقة</item>
+        <item quantity="zero">وقت النشاط: %1$s دقيقة</item>
+        <item quantity="one">وقت النشاط: %1$s دقيقة</item>
+        <item quantity="two">وقت النشاط: %1$s دقائق</item>
+        <item quantity="few">وقت النشاط: %1$s دقائق</item>
+        <item quantity="many">وقت النشاط: %1$s دقيقة</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">هدف النشاط: %1$s دقيقة</item>
+        <item quantity="zero">هدف النشاط: %1$s دقيقة</item>
+        <item quantity="one">هدف النشاط: %1$s دقيقة</item>
+        <item quantity="two">هدف النشاط: %1$s دقائق</item>
+        <item quantity="few">هدف النشاط: %1$s دقائق</item>
+        <item quantity="many">هدف النشاط: %1$s دقيقة</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s دقيقة</item>
+        <item quantity="zero">%1$s/%2$s دقيقة</item>
+        <item quantity="one">%1$s/%2$s دقيقة</item>
+        <item quantity="two">%1$s/%2$s دقائق</item>
+        <item quantity="few">%1$s/%2$s دقائق</item>
+        <item quantity="many">%1$s/%2$s دقيقة</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">تم الوقوف %1$s ساعة</item>
+        <item quantity="zero">تم الوقوف %1$s ساعة</item>
+        <item quantity="one">تم الوقوف %1$s ساعة</item>
+        <item quantity="two">تم الوقوف %1$s ساعات</item>
+        <item quantity="few">تم الوقوف %1$s ساعات</item>
+        <item quantity="many">تم الوقوف %1$s ساعة</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">هدف الوقوف: %1$s ساعة</item>
+        <item quantity="zero">هدف الوقوف: %1$s ساعة</item>
+        <item quantity="one">هدف الوقوف: %1$s ساعة</item>
+        <item quantity="two">هدف الوقوف: %1$s ساعات</item>
+        <item quantity="few">هدف الوقوف: %1$s ساعات</item>
+        <item quantity="many">هدف الوقوف: %1$s ساعة</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ساعة</item>
+        <item quantity="zero">%1$s/%2$s ساعة</item>
+        <item quantity="one">%1$s/%2$s ساعة</item>
+        <item quantity="two">%1$s/%2$s ساعات</item>
+        <item quantity="few">%1$s/%2$s ساعات</item>
+        <item quantity="many">%1$s/%2$s ساعة</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">عدد الخطوات الحالية: %1$s خطوة</item>
+        <item quantity="zero">عدد الخطوات الحالية: %1$s خطوة</item>
+        <item quantity="one">عدد الخطوات الحالية: %1$s خطوة</item>
+        <item quantity="two">عدد الخطوات الحالية: %1$s خطوات</item>
+        <item quantity="few">عدد الخطوات الحالية: %1$s خطوات</item>
+        <item quantity="many">عدد الخطوات الحالية: %1$s خطوة</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">هدف الخطوة: %1$s خطوة</item>
+        <item quantity="zero">هدف الخطوة: %1$s خطوة</item>
+        <item quantity="one">هدف الخطوة: %1$s خطوة</item>
+        <item quantity="two">هدف الخطوة: %1$s خطوات</item>
+        <item quantity="few">هدف الخطوة: %1$s خطوات</item>
+        <item quantity="many">هدف الخطوة: %1$s خطوة</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s خطوة</item>
+        <item quantity="zero">%1$s/%2$s خطوة</item>
+        <item quantity="one">%1$s/%2$s خطوة</item>
+        <item quantity="two">%1$s/%2$s خطوات</item>
+        <item quantity="few">%1$s/%2$s خطوات</item>
+        <item quantity="many">%1$s/%2$s خطوة</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">خلال ١ ساعة</item>
@@ -205,5 +309,13 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">درجة الحرارة: %1$s درجة، %2$s</item>
+        <item quantity="zero">درجة الحرارة: %1$s درجة، %2$s</item>
+        <item quantity="one">درجة الحرارة: %1$s درجة، %2$s</item>
+        <item quantity="two">درجة الحرارة: %1$s درجات، %2$s</item>
+        <item quantity="few">درجة الحرارة: %1$s درجات، %2$s</item>
+        <item quantity="many">درجة الحرارة: %1$s درجة، %2$s</item>
     </plurals>
 </resources>

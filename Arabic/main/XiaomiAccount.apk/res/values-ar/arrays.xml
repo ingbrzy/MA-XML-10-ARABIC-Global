@@ -106,8 +106,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>الحسابات</item>
-        <item>إضافة وإدارة حسابات الجهة الخارجية</item>
-        <item>حسابات;QQ;WeChat;ويتشات;SNS;حساب Mi;حساب</item>
+        <item>عرض حسابات WeChat المتصلة وحسابات SNS الأخرى</item>
+        <item>الأذونات؛SNS؛WeChat;حساب Mi;Xiaomi Account;حساب</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>تغيير كلمة المرور</item>

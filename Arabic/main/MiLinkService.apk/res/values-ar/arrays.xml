@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>ه</item>
+        <item>و</item>
+        <item>ي</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -62,5 +90,55 @@
         <item>و</item>
         <item>ي</item>
         <item>\#</item>
+    </string-array>
+    <string-array name="settings_search_connect_car">
+        <item>دمج التطبيقات</item>
+        <item>الاتصال/دمج التطبيقات</item>
+        <item>مميزات السيارة</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>الاتصال</item>
+        <item>الاتصال/اتصال</item>
+        <item>ربط الاجهزة، خدمات ربط الاجهزة، شاومي، Xiaomi، Xiaomi AIoT، AIoT، Screen Combo، اتصال ذكي، Mi Smart Hub، اتصال، الاتصال، Duo، هاتف Xiaomi، هاتف شاومي، Multiscreen، Duet، بث الشاشة، بث، دمج التطبيقات، handoff، Handoff، تطبيقات handoff، عكس،Xiaomi Ecosystem، اتصال الجهاز</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>الخصوصية</item>
+        <item>الاتصال/الخصوصية</item>
+        <item>الخصوصية والاتصال، الخصوصية</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>اتصال Xiaomi</item>
+        <item>الاتصال/اتصال Xiaomi، اتصال شاومي</item>
+        <item>خدمات اتصال Xiaomi، اتصال Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Handoff التطبيق</item>
+        <item>الاتصال/Handoff التطبيق</item>
+        <item>نقل التطبيقات، handoff، نقل</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>المكالمات</item>
+        <item>الاتصال/المكالمات</item>
+        <item>المكالمات</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>مساعد الشبكة</item>
+        <item>الاتصال/مساعد الشبكة</item>
+        <item>مساعد الشبكة، ربط، مشاركة نقطة الاتصال</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>الشاشة الرئيسية+</item>
+        <item>الاتصال/الشاشة الرئيسية+</item>
+        <item>الشاشة الرئيسية+، Mi Smart Hub، مشاركة الشاشة</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>الحافظة</item>
+        <item>الاتصال/الحافظة</item>
+        <item>الحافظة</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>الإشعارات عبر الأجهزة</item>
+        <item>الاتصال/الإشعارات</item>
+        <item>الإشعارات عبر الأجهزة</item>
     </string-array>
 </resources>

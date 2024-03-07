@@ -91,4 +91,23 @@
         <item>ي</item>
         <item>\#</item>
     </string-array>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d كيلوبايت</item>
+        <item>%1$d كيلوبايت</item>
+        <item>%1$d كيلوبايت</item>
+        <item>%1$d كيلوبايت</item>
+        <item>%1$d ميجابايت</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>خدمات ربط الأجهزة</item>
+        <item>خدمات الاتصال والمشاركة/الربط بين الأجهزة</item>
+        <item>Screen Combo;Duet;شاشات متعددة;Multiscreen;Duo;كمبيوتر;انعكاس;عكس;خدمات ربط الأجهزة</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>لا يمكنك الاتصال باستخدام رمز QR؟</item>
+        <item>لا تظهر أجهزة الهاتف المحمول على الكمبيوتر؟</item>
+        <item>لا يمكنك قفل شاشة هاتفك المحمول؟</item>
+        <item>التوافق</item>
+    </string-array>
 </resources>

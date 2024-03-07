@@ -940,6 +940,8 @@
     <string name="keyguard_indication_charging_time_wireless">%2$s • جارٍ الشحن لاسلكيًا • ستمتلئ البطارية خلال %1$s</string>
     <string name="keyguard_indication_trust_unlocked">‏فتح القفل باستمرار بواسطة TrustAgent</string>
     <string name="keyguard_left_mi_wallet">محفظة Mi</string>
+    <string name="keyguard_left_remotecentral">ريموت Mi</string>
+    <string name="keyguard_left_smarthome">منزل Mi</string>
     <string name="keyguard_left_torch">المصباح</string>
     <string name="keyguard_left_view_lock_wallpaper">خلفية كاروسيل</string>
     <string name="keyguard_loading_to_editor_tips">فتح محرر قفل الشاشة …</string>
@@ -1221,6 +1223,7 @@ mm"</string>
     <string name="monitoring_description_personal_profile_named_vpn">‏تطبيقاتك الشخصية متّصلة بالإنترنت من خلال %1$s. تظهر أنشطة الشبكة، بما في ذلك الرسائل الإلكترونية وبيانات التصفُّح، لمزوّد خدمة الشبكة الافتراضية الخاصة (VPN).</string>
     <string name="monitoring_description_two_named_vpns">هذا الجهاز متّصل بالإنترنت من خلال %1$s و%2$s. يمكن لمشرف تكنولوجيا المعلومات رؤية أنشطة الشبكة، بما في ذلك الرسائل الإلكترونية وبيانات التصفُّح.</string>
     <string name="monitoring_description_vpn_settings">‏فتح إعدادات شبكة VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"قد تتمكّن مؤسسة %1$s من الوصول إلى البيانات المرتبطة بهذا الجهاز وإدارة التطبيقات وتغيير إعدادات الجهاز.
 
 إذا كان لديك أسئلة، يُرجى التواصل مع %2$s."</string>
@@ -1420,8 +1423,6 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>حدد &lt;font color=#a5220e>\"مسح وإعادة تعيين\"&lt;/font> ثم انتظر حتى يقوم جهاز بإعادة التشغيل.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">كيفية مسح البيانات؟</string>
     <string name="phone_locked_string">هذا الجهاز مقفل</string>
-    <string name="phone_locked_string_owner_user">عدد كبير جدا من المحاولات الفاشلة لإدخال كلمة مرور الواجهة الأولى. تم قفل الجهاز الآن.</string>
-    <string name="phone_locked_string_second_user">عدد كبير جدًا من المحاولات الفاشلة لإدخال كلمة مرور الواجهة الثانية. تم قفل الجهاز الآن.</string>
     <string name="pip_close">إغلاق</string>
     <string name="pip_collapse">تصغير</string>
     <string name="pip_edu_text">انقر مرتين على <annotation icon="home_icon"> الرئيسية </annotation> للوصول لعناصر التحكم.</string>
@@ -1823,6 +1824,8 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E، d MMM</string>
     <string name="status_bar_clock_date_time_format">E، d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">إيثرنت</string>
     <string name="status_bar_settings_auto_rotation">التدوير التلقائي للشاشة</string>
     <string name="status_bar_work">الملف الشخصي للعمل</string>

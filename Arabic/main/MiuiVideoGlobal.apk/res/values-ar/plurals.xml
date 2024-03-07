@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,12 +65,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">عرض %d رد</item>
@@ -103,14 +103,6 @@
         <item quantity="two">ترجيع الفيديو بمقدار ثانيتَين (%d)</item>
         <item quantity="few">ترجيع الفيديو بمقدار %d ثوانٍ</item>
         <item quantity="many">ترجيع الفيديو بمقدار %d ثانية</item>
-    </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
-        <item quantity="zero">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
-        <item quantity="one">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
-        <item quantity="two">شاهد لمدة %s ثواني آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
-        <item quantity="few">شاهد لمدة %s ثواني آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
-        <item quantity="many">شاهد لمدة %s ثانية آخرى من أي فيديو لتكسب نقاط وتستبدل المكافآت</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">جارٍ العودة إلى الصفحة الرئيسية في %1$d ثانية…</item>
@@ -168,68 +160,6 @@
         <item quantity="few">في %d دقائق</item>
         <item quantity="many">في %d دقيقة</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">لقد حصلت على %d نقطة!</item>
-        <item quantity="zero">لقد حصلت على %d نقطة!</item>
-        <item quantity="one">لقد حصلت على %d نقطة!</item>
-        <item quantity="two">لقد حصلت على %d نقاط!</item>
-        <item quantity="few">لقد حصلت على %d نقاط!</item>
-        <item quantity="many">لقد حصلت على %d نقطة!</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d نقطة</item>
-        <item quantity="zero">%d نقطة</item>
-        <item quantity="one">%d نقطة</item>
-        <item quantity="two">%d نقاط</item>
-        <item quantity="few">%d نقاط</item>
-        <item quantity="many">%d نقطة</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">سجل الدخول لجمع والحصول على %d نقطة إضافية</item>
-        <item quantity="zero">سجل الدخول لجمع والحصول على %d نقطة إضافية</item>
-        <item quantity="one">سجل الدخول لجمع والحصول على %d نقطة إضافية</item>
-        <item quantity="two">سجل الدخول لجمع والحصول على %d نقاط إضافية</item>
-        <item quantity="few">سجل الدخول لجمع والحصول على %d نقاط إضافية</item>
-        <item quantity="many">سجل الدخول لجمع والحصول على %d نقطة إضافية</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d ثانية</item>
-        <item quantity="zero">%d ثانية</item>
-        <item quantity="one">%d ثانية</item>
-        <item quantity="two">%d ثواني</item>
-        <item quantity="few">%d ثواني</item>
-        <item quantity="many">%d ثانية</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">شاهد %d دقيقة لتتمكن من كسب النقاط! هل ترغب في اكمال المهمة الآن؟</item>
-        <item quantity="zero">شاهد %d دقيقة لتتمكن من كسب النقاط! هل ترغب في اكمال المهمة الآن؟</item>
-        <item quantity="one">شاهد %d دقيقة لتتمكن من كسب النقاط! هل ترغب في اكمال المهمة الآن؟</item>
-        <item quantity="two">شاهد %d دقائق لتتمكن من كسب النقاط! هل ترغب في اكمال المهمة الآن؟</item>
-        <item quantity="few">شاهد %d دقائق لتتمكن من كسب النقاط! هل ترغب في اكمال المهمة الآن؟</item>
-        <item quantity="many">شاهد %d دقيقة لتتمكن من كسب النقاط! هل ترغب في اكمال المهمة الآن؟</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"لديك %d نقطة لجمعها
-متوفرة اليوم فقط"</item>
-        <item quantity="zero">"لديك %d نقطة جمعها
-متوفرة اليوم فقط"</item>
-        <item quantity="one">"لديك %d نقطة لجمعها
-متوفرة اليوم فقط"</item>
-        <item quantity="two">"لديك %d نقاط لجمعها
-متوفرة اليوم فقط"</item>
-        <item quantity="few">"لديك %d نقاط لجمعها
-متوفرة اليوم فقط"</item>
-        <item quantity="many">"لديك %d نقطة لجمعها
-متوفرة اليوم فقط"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">لقد شاهدت %d دقيقة اليوم</item>
-        <item quantity="zero">لقد شاهدت %d دقيقة اليوم</item>
-        <item quantity="one">لقد شاهدت %d دقيقة اليوم</item>
-        <item quantity="two">لقد شاهدت %d دقائق اليوم</item>
-        <item quantity="few">لقد شاهدت %d دقائق اليوم</item>
-        <item quantity="many">لقد شاهدت %d دقيقة اليوم</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">تم المشاركة بنجاح. لقد حصلت على %d نقطة.</item>
         <item quantity="zero">تم المشاركة بنجاح. لقد حصلت على %d نقطة.</item>
@@ -246,62 +176,6 @@
         <item quantity="few">تم الاشتراك بنجاح. لقد حصلت على %d نقاط.</item>
         <item quantity="many">تم الاشتراك بنجاح. لقد حصلت على %d نقطة.</item>
     </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">اكسب %d نقطة!</item>
-        <item quantity="zero">اكسب %d نقطة!</item>
-        <item quantity="one">اكسب %d نقطة!</item>
-        <item quantity="two">اكسب %d نقاط!</item>
-        <item quantity="few">اكسب %d نقاط!</item>
-        <item quantity="many">اكسب %d نقطة!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">لقد اكملت مهام اليوم! وحصلت على %d نقطة.</item>
-        <item quantity="zero">لقد اكملت مهام اليوم! وحصلت على %d نقطة.</item>
-        <item quantity="one">لقد اكملت مهام اليوم! وحصلت على %d نقطة.</item>
-        <item quantity="two">لقد اكملت مهام اليوم! وحصلت على %d نقاط.</item>
-        <item quantity="few">لقد اكملت مهام اليوم! وحصلت على %d نقاط.</item>
-        <item quantity="many">لقد اكملت مهام اليوم! وحصلت على %d نقطة.</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">لقد شاهدت %1$1d ث من الفيديو وكسبت %2$2d نقطة!</item>
-        <item quantity="zero">لقد شاهدت %1$1d ث من الفيديو وكسبت %2$2d نقطة!</item>
-        <item quantity="one">لقد شاهدت %1$1d ث من الفيديو وكسبت %2$2d نقطة!</item>
-        <item quantity="two">لقد شاهدت %1$1d ث من الفيديو وكسبت %2$2d نقاط!</item>
-        <item quantity="few">لقد شاهدت %1$1d ث من الفيديو وكسبت %2$2d نقاط!</item>
-        <item quantity="many">لقد شاهدت %1$1d ث من الفيديو وكسبت %2$2d نقطة!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">شاهد أي فيديو لتحصل على %d نقطة</item>
-        <item quantity="zero">شاهد أي فيديو لتحصل على %d نقطة</item>
-        <item quantity="one">شاهد أي فيديو لتحصل على %d نقطة</item>
-        <item quantity="two">شاهد أي فيديو لتحصل على %d نقاط</item>
-        <item quantity="few">شاهد أي فيديو لتحصل على %d نقاط</item>
-        <item quantity="many">شاهد أي فيديو لتحصل على %d نقطة</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">شاهد لمدة %1$1d ثانية من أي فيديو لتكسب %2$2d نقطة</item>
-        <item quantity="zero">شاهد لمدة %1$1d ثانية من أي فيديو لتكسب %2$2d نقطة</item>
-        <item quantity="one">شاهد لمدة %1$1d ثانية من أي فيديو لتكسب %2$2d نقطة</item>
-        <item quantity="two">شاهد لمدة %1$1d ثواني من أي فيديو لتكسب %2$2d نقاط</item>
-        <item quantity="few">شاهد لمدة %1$1d ثواني من أي فيديو لتكسب %2$2d نقاط</item>
-        <item quantity="many">شاهد لمدة %1$1d ثانية من أي فيديو لتكسب %2$2d نقطة</item>
-    </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">لقد حصلت على %d نقطة. استمر في المشاركة لزيادة نقاطك!</item>
-        <item quantity="zero">لقد حصلت على %d نقطة. استمر في المشاركة لزيادة نقاطك!</item>
-        <item quantity="one">لقد حصلت على %d نقطة. استمر في المشاركة لزيادة نقاطك!</item>
-        <item quantity="two">لقد حصلت على %d نقاط. استمر في المشاركة لزيادة نقاطك!</item>
-        <item quantity="few">لقد حصلت على %d نقاط. استمر في المشاركة لزيادة نقاطك!</item>
-        <item quantity="many">لقد حصلت على %d نقطة. استمر في المشاركة لزيادة نقاطك!</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">لقد حصلت على %d نقطة. استمر في الاشتراك لزيادة نقاطك!</item>
-        <item quantity="zero">لقد حصلت على %d نقطة. استمر في الاشتراك لزيادة نقاطك!</item>
-        <item quantity="one">لقد حصلت على %d نقطة. استمر في الاشتراك لزيادة نقاطك!</item>
-        <item quantity="two">لقد حصلت على %d نقاط. استمر في الاشتراك لزيادة نقاطك!</item>
-        <item quantity="few">لقد حصلت على %d نقاط. استمر في الاشتراك لزيادة نقاطك!</item>
-        <item quantity="many">لقد حصلت على %d نقطة. استمر في الاشتراك لزيادة نقاطك!</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">الآن</item>
         <item quantity="zero">الآن</item>
@@ -317,6 +191,14 @@
         <item quantity="two">%d فيديوهات</item>
         <item quantity="few">%d فيديوهات</item>
         <item quantity="many">%d فيديو</item>
+    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">التشغيل بسرعة %sX. لا تستمر بالضغط للعب بالسرعة العادية.</item>
+        <item quantity="zero">التشغيل بسرعة %sX. لا تستمر بالضغط للعب بالسرعة العادية.</item>
+        <item quantity="one">التشغيل بسرعة %sX. لا تستمر بالضغط للعب بالسرعة العادية.</item>
+        <item quantity="two">التشغيل بسرعة %sX. لا تستمر بالضغط للعب بالسرعة العادية.</item>
+        <item quantity="few">التشغيل بسرعة %sX. لا تستمر بالضغط للعب بالسرعة العادية.</item>
+        <item quantity="many">التشغيل بسرعة %sX. لا تستمر بالضغط للعب بالسرعة العادية.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d مجلد</item>
@@ -365,14 +247,6 @@
         <item quantity="two">الحجم: %.2fك.ب</item>
         <item quantity="few">الحجم: %.2fك.ب</item>
         <item quantity="many">الحجم: %.2fك.ب</item>
-    </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">%d فيديو</item>
-        <item quantity="zero">%d فيديو</item>
-        <item quantity="one">%d فيديو</item>
-        <item quantity="two">%d فيديوهات</item>
-        <item quantity="few">%d فيديوهات</item>
-        <item quantity="many">%d فيديو</item>
     </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">الحلقات المتوفرة: %1$1d من %2$2d</item>
@@ -430,22 +304,6 @@
         <item quantity="few">%d أغاني</item>
         <item quantity="many">%d أغنية</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">تم المشاركة بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="zero">تم المشاركة بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="one">تم المشاركة بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="two">تم المشاركة بنجاح. لقد حصلت على %d نقاط. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="few">تم المشاركة بنجاح. لقد حصلت على %d نقاط. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="many">تم المشاركة بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">تم الاشتراك بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="zero">تم الاشتراك بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="one">تم الاشتراك بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="two">تم الاشتراك بنجاح. لقد حصلت على %d نقاط. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="few">تم الاشتراك بنجاح. لقد حصلت على %d نقاط. قم بجمعها الآن في مركز النقاط!</item>
-        <item quantity="many">تم الاشتراك بنجاح. لقد حصلت على %d نقطة. قم بجمعها الآن في مركز النقاط!</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
         <item quantity="zero">يحتوي محتواك على عناصر (%1$s) تنتهك معايير مجتمعنا. تم تعليق حسابك لمدة %2$s يوم حتى تاريخ %3$d.</item>
@@ -469,22 +327,6 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d فيديو</item>
-        <item quantity="zero">%d فيديو</item>
-        <item quantity="one">%d فيديو</item>
-        <item quantity="two">%d فيديوهات</item>
-        <item quantity="few">%d فيديوهات</item>
-        <item quantity="many">%d فيديو</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d فيديو</item>
-        <item quantity="zero">%d فيديو</item>
-        <item quantity="one">%d فيديو</item>
-        <item quantity="two">%d فيديوهات</item>
-        <item quantity="few">%d فيديوهات</item>
-        <item quantity="many">%d فيديو</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">حذف %s عنصر الآن؟</item>
@@ -597,14 +439,6 @@
         <item quantity="two">أضف مايصل إلى %d إشارات مرجعية</item>
         <item quantity="few">أضف مايصل إلى %d إشارات مرجعية</item>
         <item quantity="many">أضف مايصل إلى %d إشارة مرجعية</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">إخفاء %d ملف محدد؟</item>
-        <item quantity="zero">إخفاء %d ملف محدد؟</item>
-        <item quantity="one">إخفاء %d ملف محدد؟</item>
-        <item quantity="two">إخفاء %d ملفات محددة؟</item>
-        <item quantity="few">إخفاء %d ملفات محددة؟</item>
-        <item quantity="many">إخفاء %d ملف محدد؟</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s أعجاب</item>

@@ -16,7 +16,6 @@
     <string name="provider_label">جهات الاتصال</string>
     <string name="sharedUserLabel">تطبيقات Android الأساسية</string>
     <string name="sim_state_changed">تم تغيير بطاقة SIM</string>
-    <string name="third_party_delete_contact_info">يحاول \"%s\" حذف جهات اتصالك. لا يمكن أن يتم هذا الإجراء من قِبل تطبيقات جهات الخارجية. لحذف جهات الاتصال، استخدم تطبيق جهات اتصال MIUI الافتراضية.</string>
     <string name="update_accounts_changed">تم تغيير الحسابات</string>
     <string name="upgrade_out_of_memory_notification_text">انقر لإكمال التحديث.</string>
     <string name="upgrade_out_of_memory_notification_ticker">التحديث يتطلب المزيد من الذاكرة.</string>

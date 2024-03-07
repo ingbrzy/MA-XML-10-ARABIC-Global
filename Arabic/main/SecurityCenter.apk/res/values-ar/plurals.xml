@@ -1013,12 +1013,12 @@
         <item quantity="many">حذف %d APKs غير ضرورية</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d مشكلة في استخدام البطارية</item>
-        <item quantity="zero">%d مشكلة في استخدام البطارية</item>
-        <item quantity="one">%d مشكلة في استخدام البطارية</item>
-        <item quantity="two">%d مشاكل في استخدام البطارية</item>
-        <item quantity="few">%d مشاكل في استخدام البطارية</item>
-        <item quantity="many">%d مشكلة في استخدام البطارية</item>
+        <item quantity="other">%d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="zero">%d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="one">%d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="two">%d عناصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="few">%d عناصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="many">%d عنصر ذات استهلاك عالي للطاقة</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">تحسين %d عنصر لحفظ البطارية</item>
@@ -1317,12 +1317,12 @@
         <item quantity="many">مرة</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d مشكلة في استخدام البطارية</item>
-        <item quantity="zero">%d مشكلة في استخدام البطارية</item>
-        <item quantity="one">%d مشكلة في استخدام البطارية</item>
-        <item quantity="two">%d مشاكل في استخدام البطارية</item>
-        <item quantity="few">%d مشاكل في استخدام البطارية</item>
-        <item quantity="many">%d مشكلة في استخدام البطارية</item>
+        <item quantity="other">%d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="zero">%d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="one">%d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="two">%d عناصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="few">%d عناصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="many">%d عنصر ذات استهلاك عالي للطاقة</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d يوم "</item>
@@ -1381,12 +1381,12 @@
         <item quantity="many">إصلاح %d مشكلة في استخدام البطارية</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
-        <item quantity="zero">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
-        <item quantity="one">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
-        <item quantity="two">يمكنك إصلاح %d مشاكل في استخدام البطارية</item>
-        <item quantity="few">يمكنك إصلاح %d مشاكل في استخدام البطارية</item>
-        <item quantity="many">يمكنك إصلاح %d مشكلة في استخدام البطارية</item>
+        <item quantity="other">يمكن تحسين استهلاك الطاقة لـ %d عنصر</item>
+        <item quantity="zero">يمكن تحسين استهلاك الطاقة لـ %d عنصر</item>
+        <item quantity="one">يمكن تحسين استهلاك الطاقة لـ %d عنصر</item>
+        <item quantity="two">يمكن تحسين استهلاك الطاقة لـ %d عناصر</item>
+        <item quantity="few">يمكن تحسين استهلاك الطاقة لـ %d عناصر</item>
+        <item quantity="many">يمكن تحسين استهلاك الطاقة لـ %d عنصر</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" يمكن تحسين %d عنصر"</item>
@@ -1491,6 +1491,14 @@
         <item quantity="two">ستضاف %s دق من مدة استخدام الجهاز عند تشغيل هذه الميزة</item>
         <item quantity="few">ستضاف %s دق من مدة استخدام الجهاز عند تشغيل هذه الميزة</item>
         <item quantity="many">ستضاف %s دق من مدة استخدام الجهاز عند تشغيل هذه الميزة</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">حسنا (%d)</item>
+        <item quantity="zero">حسنا (%d)</item>
+        <item quantity="one">حسنا (%d)</item>
+        <item quantity="two">حسنا (%d)</item>
+        <item quantity="few">حسنا (%d)</item>
+        <item quantity="many">حسنا (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">حسنا (%dث)</item>
@@ -1677,12 +1685,12 @@
         <item quantity="many">تم العثور على %d مشكل في البطارية، قم بإصلاحها</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">تم حل %d مشكلة في البطارية</item>
-        <item quantity="zero">تم حل %d مشكلة في البطارية</item>
-        <item quantity="one">تم حل %d مشكلة في البطارية</item>
-        <item quantity="two">تم حل %d مشاكل في البطارية</item>
-        <item quantity="few">تم حل %d مشاكل في البطارية</item>
-        <item quantity="many">تم حل %d مشكلة في البطارية</item>
+        <item quantity="other">تم تحسين %d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="zero">تم تحسين %d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="one">تم تحسين %d عنصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="two">تم تحسين %d عناصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="few">تم تحسين %d عناصر ذات استهلاك عالي للطاقة</item>
+        <item quantity="many">تم تحسين %d عنصر ذات استهلاك عالي للطاقة</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">إعادة ضبط المصنع (%dثانية)</item>
@@ -1851,6 +1859,14 @@
         <item quantity="two">تم حذف %d فيروسات</item>
         <item quantity="few">تم حذف %d فيروسات</item>
         <item quantity="many">تم حذف %d فيروس</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d فيروس أو تطبيق خطير</item>
+        <item quantity="zero">%d فيروس أو تطبيق خطير</item>
+        <item quantity="one">%d فيروس أو تطبيق خطير</item>
+        <item quantity="two">%d فيروسات أو تطبيقات خطيرة</item>
+        <item quantity="few">%d فيروسات أو تطبيقات خطيرة</item>
+        <item quantity="many">%d فيروس أو تطبيق خطير</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d تطبيق</item>

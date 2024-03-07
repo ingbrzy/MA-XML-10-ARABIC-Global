@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,12 +65,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">تم حظر %d إعلان</item>
@@ -96,6 +96,14 @@
         <item quantity="few">%d إعلانات محظورة</item>
         <item quantity="many">%d إعلان محظور</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">لم يتم الفحص لمدة %d يوم</item>
+        <item quantity="zero">لم يتم الفحص لمدة %d يوم</item>
+        <item quantity="one">لم يتم الفحص لمدة %d يوم</item>
+        <item quantity="two">لم يتم الفحص لمدة %d أيام</item>
+        <item quantity="few">لم يتم الفحص لمدة %d أيام</item>
+        <item quantity="many">لم يتم الفحص لمدة %d يوم</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">تحقق من %1$d مقال جديد</item>
         <item quantity="zero">تحقق من %1$d مقال جديد</item>
@@ -111,6 +119,38 @@
         <item quantity="two">تشغيل الفيديو التالي في %d ثواني</item>
         <item quantity="few">تشغيل الفيديو التالي في %d ثواني</item>
         <item quantity="many">تشغيل الفيديو التالي في %d ثانية</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">لم تقم بفحص جهاز لمدة %d يوم. فحص الآن؟</item>
+        <item quantity="zero">لم تقم بفحص جهاز لمدة %d يوم. فحص الآن؟</item>
+        <item quantity="one">لم تقم بفحص جهاز لمدة %d يوم. فحص الآن؟</item>
+        <item quantity="two">لم تقم بفحص جهاز لمدة %d أيام. فحص الآن؟</item>
+        <item quantity="few">لم تقم بفحص جهاز لمدة %d أيام. فحص الآن؟</item>
+        <item quantity="many">لم تقم بفحص جهاز لمدة %d يوم. فحص الآن؟</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">يوم</item>
+        <item quantity="zero">يوم</item>
+        <item quantity="one">يوم</item>
+        <item quantity="two">أيام</item>
+        <item quantity="few">أيام</item>
+        <item quantity="many">يوم</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">لم يتم إجراء تحسين لهاتفك لمدة %d يوم. هل ترغب في تحسينه الآن؟</item>
+        <item quantity="zero">لم يتم إجراء تحسين لهاتفك لمدة %d يوم. هل ترغب في تحسينه الآن؟</item>
+        <item quantity="one">لم يتم إجراء تحسين لهاتفك لمدة %d يوم. هل ترغب في تحسينه الآن؟</item>
+        <item quantity="two">لم يتم إجراء تحسين لهاتفك لمدة %d أيام. هل ترغب في تحسينه الآن؟</item>
+        <item quantity="few">لم يتم إجراء تحسين لهاتفك لمدة %d أيام. هل ترغب في تحسينه الآن؟</item>
+        <item quantity="many">لم يتم إجراء تحسين لهاتفك لمدة %d يوم. هل ترغب في تحسينه الآن؟</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s أعجاب</item>
+        <item quantity="zero">%s أعجاب</item>
+        <item quantity="one">%s أعجاب</item>
+        <item quantity="two">%s أعجابات</item>
+        <item quantity="few">%s أعجابات</item>
+        <item quantity="many">%s أعجاب</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">قبل %1$d يوم</item>
@@ -296,6 +336,14 @@
         <item quantity="few">تم تحديد %d عناصر</item>
         <item quantity="many">تم تحديد %d عنصر</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d إشعار جديد</item>
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">آخر %d يوم</item>
         <item quantity="zero">آخر %d يوم</item>
@@ -384,13 +432,13 @@
         <item quantity="few">تم حظر %d إعلانات</item>
         <item quantity="many">تم حظر %d إعلان</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">تم إيجاد %1$d نتيجة</item>
-        <item quantity="zero">تم إيجاد %1$d نتيجة</item>
-        <item quantity="one">تم إيجاد %1$d نتيجة</item>
-        <item quantity="two">تم إيجاد %1$d نتائج</item>
-        <item quantity="few">تم إيجاد %1$d نتائج</item>
-        <item quantity="many">تم إيجاد %1$d نتيجة</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d فيديو جديد موصى به</item>
+        <item quantity="zero">%d فيديو جديد موصى به</item>
+        <item quantity="one">%d فيديو جديد موصى به</item>
+        <item quantity="two">%d فيديوهات جديدة موصى بها</item>
+        <item quantity="few">%d فيديوهات جديدة موصى بها</item>
+        <item quantity="many">%d فيديو جديد موصى به</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s طلب بحث</item>
@@ -583,5 +631,13 @@
         <item quantity="two">%s مرات</item>
         <item quantity="few">%s مرات</item>
         <item quantity="many">%s مرة</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">في الأسبوع الماضي، قام متصفح Mi بزيادة سرعة تحميل صفحات الويب %d مرة!</item>
+        <item quantity="zero">في الأسبوع الماضي، قام متصفح Mi بزيادة سرعة تحميل صفحات الويب %d مرة!</item>
+        <item quantity="one">في الأسبوع الماضي، قام متصفح Mi بزيادة سرعة تحميل صفحات الويب %d مرة!</item>
+        <item quantity="two">في الأسبوع الماضي، قام متصفح Mi بزيادة سرعة تحميل صفحات الويب %d مرات!</item>
+        <item quantity="few">في الأسبوع الماضي، قام متصفح Mi بزيادة سرعة تحميل صفحات الويب %d مرات!</item>
+        <item quantity="many">في الأسبوع الماضي، قام متصفح Mi بزيادة سرعة تحميل صفحات الويب %d مرة!</item>
     </plurals>
 </resources>

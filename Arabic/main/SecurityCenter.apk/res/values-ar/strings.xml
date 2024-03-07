@@ -968,6 +968,7 @@
     <string name="card_main_private_space_summary">استخدام الواجهة الثانية هو بمثابة امتلاكك لجهازين</string>
     <string name="card_main_private_space_title">الواجهة الثانية</string>
     <string name="card_main_sectool_title">الأدوات</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">إدارة الفيديوهات</string>
     <string name="card_main_whatsappclean_title">منظف الواتساب</string>
     <string name="card_main_xspace_action">إنشاء</string>
@@ -1337,6 +1338,7 @@
     <string name="dynamic_performance_optimization_title">أداء ديناميكي</string>
     <string name="early_morning">فجر</string>
     <string name="edit_phone_num">تعديل رقم هاتف بطاقة SIM</string>
+    <string name="ellipsis">…</string>
     <string name="email">البريد الإلكتروني</string>
     <string name="empty" />
     <string name="empty_app">لا توجد تطبيقات</string>
@@ -1414,7 +1416,9 @@
     <string name="exo_download_paused_for_wifi">عمليات التنزيل في انتظار اتصال Wi-Fi.</string>
     <string name="exo_download_removing">تجري إزالة المحتوى الذي تم تنزيله</string>
     <string name="exo_item_list">%1$s، %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f ميغابت في الثانية</string>
     <string name="exo_track_mono">قناة أحادية</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">بديل</string>
     <string name="exo_track_role_closed_captions">الترجمة والشرح</string>
     <string name="exo_track_role_commentary">التعليقات</string>
@@ -2122,8 +2126,8 @@ Record sequences and use them anytime!"</string>
     <string name="group_clipboard">حافظة</string>
     <string name="group_connect_device">الاتصال</string>
     <string name="group_file">الملفات والمستندات</string>
+    <string name="group_file_less_t">الوصول للملفات والوسائط</string>
     <string name="group_head_data_ai_clipboard">حماية الحافظة</string>
-    <string name="group_head_data_ai_clipboard_desc">السماح للنظام بتحديد ما إذا كان بإمكان التطبيقات الوصول إلى العناصر الموجودة في الحافظة أم لا</string>
     <string name="group_head_data_camera_desc">قم بإيقاف تشغيله لتقييد الوصول إلى الكاميرا لجميع التطبيقات</string>
     <string name="group_head_data_clipboard_desc">قم بإيقاف التشغيل لتقييد الوصول إلى الحافظة لجميع التطبيقات</string>
     <string name="group_head_data_location_desc">إيقاف التشغيل لتقييد الوصول إلى الموقع لجميع التطبيقات</string>
@@ -2599,6 +2603,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">الأذونات</string>
     <string name="menu_text_networkassistants">استخدام البيانات</string>
     <string name="menu_text_networkassistants_danger">%s زائد</string>
+    <string name="menu_text_networkassistants_data">%1$s %2$s</string>
     <string name="menu_text_networkassistants_remain">%s متبقي</string>
     <string name="menu_text_networkassistants_unit_b">ب</string>
     <string name="menu_text_networkassistants_unit_gb">ج.ب</string>
@@ -2607,6 +2612,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">زيادة السرعة</string>
     <string name="menu_text_optimize_manage_1">زيادة السرعة</string>
     <string name="menu_text_power_manager">البطارية</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">إزالة من الاستثناءات</string>
     <string name="menu_white">إضافة إلى الإستثناءات</string>
     <string name="mi_ime_not_used">استخدم لوحة مفاتيح مرخصة من Xiaomi</string>
@@ -2615,6 +2621,9 @@ to join our egg hunt!"</string>
     <string name="mi_service_traffic_detail">تفاصيل إطارالعمل</string>
     <string name="mi_sim_link">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Tap to top up open Mi Sim.&lt;/U>&lt;/font>"</string>
     <string name="mi_sim_link_custom">"%1$s&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>%2$s&lt;/U>&lt;/font>"</string>
+    <string name="mic_noise_reduction_mode_standard">قياسي</string>
+    <string name="mic_noise_reduction_mode_ultimate">تحديد</string>
+    <string name="mic_noise_reduction_voiceprint_desc">الاحتفاظ بالصوت من مستخدم محدد فقط</string>
     <string name="midnight">الليل</string>
     <string name="midrop_post_notification_contentTitle">هل تحتاج إلى مشاركة الملفات؟</string>
     <string name="miui_blur_location">السماح لجميع التطبيقات بالوصول إلى الموقع التقريبي</string>
@@ -2712,6 +2721,7 @@ to join our egg hunt!"</string>
     <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
     <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
     <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
     <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
@@ -3102,6 +3112,7 @@ to join our egg hunt!"</string>
     <string name="pc_battery_history_total_consumption_title">اجمالي استهلاك الطاقة</string>
     <string name="pc_battery_history_usetime_title">تفعيل</string>
     <string name="pc_battery_low_health_reminder">حان الوقت لاستبدال بطاريتك</string>
+    <string name="pc_button_go_to_setting">الإعدادات</string>
     <string name="pc_category_charge_settings">إعدادات الشحن</string>
     <string name="pc_charged_auto_close_summary">إيقاف التشغيل عندما تكون البطارية%1$s أو مشحونة بالكامل</string>
     <string name="pc_charged_auto_close_title">إيقاف التشغيل عند الشحن</string>
@@ -3141,6 +3152,7 @@ to join our egg hunt!"</string>
     <string name="pc_going_to_exit_extreme_mode">الخروج من وضع الإسبات</string>
     <string name="pc_going_to_exit_extreme_mode_summary">جهازك قيد الشحن. وضع الإسبات متوقف.</string>
     <string name="pc_going_to_extreme_mode">الدخول في وضع الإسبات</string>
+    <string name="pc_handle_battery_level">المقبض</string>
     <string name="pc_have_no_battery_issue">لا توجد مشاكل</string>
     <string name="pc_hide_more_power_rank_apps">اخفاء</string>
     <string name="pc_hidemode_normal">متوازن</string>
@@ -3200,11 +3212,14 @@ to join our egg hunt!"</string>
     <string name="pc_performance_mode_dialog_title">وضع الأداء</string>
     <string name="pc_performance_mode_noti_summary">قد يؤدي وضع الأداء إلى زيادة استهلاك الطاقة وارتفاع درجة حرارة الجهاز.</string>
     <string name="pc_performance_mode_noti_title">تحسين أداء الجهاز</string>
+    <string name="pc_phone_battery_level">الهاتف</string>
     <string name="pc_power_consume_check">فحص البطارية</string>
     <string name="pc_power_consume_check_ing">جارٍ الفحص…</string>
+    <string name="pc_power_mode_has_performance">وضع الأداء مفعل</string>
     <string name="pc_power_save_settings_new">إعدادات موفر البطارية</string>
     <string name="pc_remind_close_cover_to_charge_summary">قم بطي الجهاز قبل الشحن للحصول لشحن أسرع وأكثر استقرارًا.</string>
     <string name="pc_remind_close_cover_to_charge_title">قم بطي الجهاز للشحن</string>
+    <string name="pc_reminder_always_protect_summary">التبديل إلى الشحن المحدود لتقليل عمر البطارية</string>
     <string name="pc_save_charge">الشحن</string>
     <string name="pc_save_other_setting">إعدادات أخرى</string>
     <string name="pc_save_power">موفر البطارية</string>
@@ -3234,6 +3249,11 @@ to join our egg hunt!"</string>
     <string name="pc_wait_device_cools_down">أنتظر حتى يبرد الجهاز لتتمكن من استخدام هذه الميزة.</string>
     <string name="pc_wireless_charge_adjust_position_summary">ضع جهازك على الشاحن اللاسلكي</string>
     <string name="pc_wireless_charge_adjust_position_title">اشحن جهازك اسرع</string>
+    <string name="pc_wireless_charging_special_stand_summary1">قم بتثبيت جهازك على الحامل المرفق مع الشاحن اللاسلكي</string>
+    <string name="pc_wireless_charging_special_stand_summary2">قم بتثبيت جهازك على الحامل المرفق مع الشاحن اللاسلكي للحصول على أفضل أداء للشحن</string>
+    <string name="pc_wireless_charging_special_stand_title">استخدم حامل الشحن المرفق</string>
+    <string name="pc_wireless_handle_connected">الجهاز متصل</string>
+    <string name="pc_wireless_handle_title">مقبض الكاميرا اللاسلكي</string>
     <string name="pc_work_in_save_mode">موفر البطارية</string>
     <string name="pc_work_in_super_save_mode">موفر البطارية الأقصى</string>
     <string name="pc_xiaoai_create_auto_task">مهمة جديدة من Mi AI</string>
@@ -3294,6 +3314,7 @@ to join our egg hunt!"</string>
     <string name="permission_group_camera">يسمح هذا الإذن للتطبيقات باستخدام الكاميرا لالتقاط الصور أو تسجيل مقاطع الفيديو.</string>
     <string name="permission_group_contact">يسمح هذا الإذن للتطبيقات بالوصول إلى جهات الاتصال أو تحريرها، بالإضافة إلى عرض جهات اتصال التطبيق التي تم إنشاؤها على هذا الجهاز.</string>
     <string name="permission_group_file">يسمح هذا الإذن للتطبيقات بالوصول إلى جميع الملفات المخزنة على هذا الجهاز.</string>
+    <string name="permission_group_file_less_t">يسمح هذا الإذن للتطبيقات بالوصول إلى الصور والفيديوهات والصوت والملفات الأخرى المخزنة على هذا الجهاز.</string>
     <string name="permission_group_image_video">يسمح هذا الإذن للتطبيقات بالوصول إلى الصور ومقاطع الفيديو المخزنة على هذا الجهاز.</string>
     <string name="permission_group_location">يسمح هذا الإذن للتطبيقات بالوصول إلى معلومات الموقع عبر الشبكة أو القمر الصناعي.</string>
     <string name="permission_group_microphone">يسمح هذا الإذن للتطبيقات باستخدام الميكروفون لتسجيل الصوت.</string>
@@ -3458,7 +3479,7 @@ to join our egg hunt!"</string>
     <string name="power_center_batteryrank_all">كل استخدامات البطارية</string>
     <string name="power_center_batteryrank_hardware">استخدام معدات الجهاز للبطارية: %s</string>
     <string name="power_center_batteryrank_software">استخدام البرامج للبطارية: %s</string>
-    <string name="power_center_batteryscan_normal">لا توجد مشاكل في استخدام البطارية. عرض النتائج.</string>
+    <string name="power_center_batteryscan_normal">كل شيء يبدو جيدا. عرض النتائج.</string>
     <string name="power_center_charge_status">جارٍ الشحن</string>
     <string name="power_center_charge_time">%1$sحتى يكتمل الشحن</string>
     <string name="power_center_consume_fast">استنزاف البطارية</string>
@@ -3468,6 +3489,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">عندما يكون موفر البطارية مشغل، سيتم إجراء التحسينات التالية:</string>
     <string name="power_center_hints_scan_danger_result">يمكنك إصلاح مشاكل البطارية الآن</string>
     <string name="power_center_list_item_auto_brightness">ضبط سطوع الشاشة تلقائيا</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s فولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_capacity">مللي أمبير</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعة</string>
     <string name="power_center_list_item_close_bluetooth">إيقاف البلوتوث</string>
     <string name="power_center_list_item_deep_save_title">الإعدادات المتقدمة</string>
@@ -3490,7 +3516,7 @@ to join our egg hunt!"</string>
     <string name="power_center_optimize_title">الإقتراحات</string>
     <string name="power_center_power_save_summary_text">زيادة الوقت المتبقي إلى %1$dس %2$dدق</string>
     <string name="power_center_power_save_title_text">موفر البطارية</string>
-    <string name="power_center_problem_title">إصلاح المشاكل</string>
+    <string name="power_center_problem_title">استهلاك عالي للطاقة</string>
     <string name="power_center_reduce_dpi_summary">يستهلك QHD+ كمية طاقة اكبر</string>
     <string name="power_center_reduce_resolution">دقة عرض أقل</string>
     <string name="power_center_repeat">تكرار</string>
@@ -3581,6 +3607,9 @@ to join our egg hunt!"</string>
     <string name="power_main_battery_last_hour_minute">تبقى %1$sس و %2$sدق للاستخدام</string>
     <string name="power_main_battery_last_hour_minute_screen_on">تبقى %1$s %2$s من مدة استخدام الجهاز</string>
     <string name="power_main_open_last_hour_minute_screen_on">ستضاف %1$s %2$s من مدة استخدام الجهاز</string>
+    <string name="power_ntc_dialog_btn_finish">حسنا</string>
+    <string name="power_ntc_dialog_msg">افصل الشاحن الآن ثم امسح منفذ الشحن إلى أن يجف قبل استخدامه مجددا.</string>
+    <string name="power_ntc_dialog_title">تم اكتشاف جسم غريب أو سائل</string>
     <string name="power_off_warning_button_ok">حسنا</string>
     <string name="power_off_warning_message">البطارية منخفضة. سينطفئ الجهاز بعد %d ثانية. قم بتوصيل الشاحن.</string>
     <string name="power_off_warning_notification_title">سينطفئ الجهاز بعد قليل</string>
@@ -3723,11 +3752,16 @@ to join our egg hunt!"</string>
     <string name="pp_app_warning_permission_tips">تذكيرات الأذونات الحساسة</string>
     <string name="pp_app_warning_permission_tips_detail">عرض تذكير عندما يطلب أحد التطبيقات أذونات الموقع أو الكاميرا أو الميكروفون</string>
     <string name="pp_clipboard">حافظة</string>
+    <string name="pp_none_read_clipboard_item">لا تذكرني</string>
+    <string name="pp_privacy_lab_clipboard_summary">السماح لجهازك بتحديد ما إذا كان بإمكان التطبيق الوصول إلى الحافظة وتلقي الإشعارات عند القيام بذلك</string>
     <string name="pp_privacy_lab_operator_get_number_summary">يطلب من التطبيقات أن تطلب إذنك عندما تريد الوصول إلى رقم هاتفك لتسجيل الدخول</string>
     <string name="pp_privacy_protection">حماية الخصوصية</string>
+    <string name="pp_protect_read_clipboard_item">حماية</string>
     <string name="pp_read_phone_info_summary">الوصول إلى معلومات بطاقة SIM</string>
     <string name="pp_sms_and_contacts">جهات الاتصال والرسائل</string>
     <string name="pp_special_permission_settings">اذونات خاصة</string>
+    <string name="pp_toast_read_clipboard">إشعاري عند وصول التطبيقات إلى عناصر الحافظة</string>
+    <string name="pp_toast_read_clipboard_item">ذكرني</string>
     <string name="precise_location_title">الموقع الدقيق</string>
     <string name="pref_about_traffic_title">إعدادات استخدام البيانات</string>
     <string name="pref_adjust_data_usage">قالب رسالة شركة الاتصالات</string>
@@ -3772,6 +3806,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">عند إستخدام خطة البيانات</string>
     <string name="pref_open_adjust_traffic">تحديث استخدام البيانات كل يوم باستخدام إحصائيات من شركة اتصالاتك</string>
     <string name="pref_operator_not_set">لم يتم تعيين شركة الاتصالات</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">عندما تتجاوز خطة البيانات الخاصة بك</string>
     <string name="pref_package_traffic_settings">خطة البيانات</string>
     <string name="pref_pkg_begin_date">تاريخ إعادة تعيين الإستخدام</string>
@@ -4004,6 +4039,7 @@ to join our egg hunt!"</string>
     <string name="privacy_risk_result_protection">حماية الخصوصية</string>
     <string name="privacy_risk_result_screen_fuzzy">تمويه معاينات التطبيقات</string>
     <string name="privacy_risk_result_screen_fuzzy_msg">تموية المعاينات للتطبيقات الحساسة المعروضة في شاشة التطبيقات الأخيرة</string>
+    <string name="privacy_risk_result_screen_shield_msg">سيتم عرض التطبيقات التي تحتوي على معلومات شخصية حساسة في شاشة التطبيقات الأخيرة مع إخفاء معايناتها</string>
     <string name="privacy_risk_result_set_btn">الإعدادات</string>
     <string name="privacy_risk_result_success_empty_msg">يبدو كل شي جيداً!</string>
     <string name="privacy_risk_result_success_msg">تم إصلاح جميع المشاكل. رائع!</string>
@@ -4012,7 +4048,7 @@ to join our egg hunt!"</string>
     <string name="privacy_risk_sensitive_bar_title">الأذونات الحساسة</string>
     <string name="privacy_risk_sensitive_call_records">السماح للتطبيقات بالوصول إلى سجل المكالمات أو تعديلها.</string>
     <string name="privacy_risk_sensitive_contact">السماح للتطبيقات بالوصول إلى جهات الاتصال أو تعديلها.</string>
-    <string name="privacy_risk_sensitive_location">السماح للتطبيقات بتحديد موقع جهازك بإستخدام شبكات متوفرة أو أقمار اصطناعية</string>
+    <string name="privacy_risk_sensitive_location">السماح للتطبيقات بتحديد موقع جهازك بإستخدام شبكات متوفرة أو أقمار صناعية</string>
     <string name="privacy_risk_sensitive_permissions">الأذونات الحساسة</string>
     <string name="privacy_risk_sensitive_permissions_msg">لحماية خصوصيتك، امنح الأذونات الحساسة فقط عند الضرورة.</string>
     <string name="privacy_risk_sensitive_record">السماح للتطبيقات بتسجيل الصوت أو المكالمات</string>
@@ -4071,6 +4107,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">تسجيل الصوت</string>
     <string name="privacyapp_number_masked_text">تم إخفاء محتويات الإشعارات</string>
     <string name="privacyapp_number_unmasked_text">يمكن إخفاء محتويات الإشعارات</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">خادم الوسائط</string>
     <string name="process_vpnsdkmanager_label">مسرع الألعاب</string>
     <string name="promotion">اعلان</string>
@@ -4084,10 +4121,10 @@ to join our egg hunt!"</string>
     <string name="qucick_replay_instrument">استخدم الردود السريعة في إشعارات تطبيقات المراسلة الفورية المحددة (على سبيل المثال: واتساب ،WeChat ،QQ)</string>
     <string name="quick_optimize_checking">فحص</string>
     <string name="quick_optimize_no_fix_issue_subtitle">تعذر تمديد عمر البطارية</string>
-    <string name="quick_optimize_no_fix_issue_title">تعذر اصلاح مشاكل البطارية</string>
+    <string name="quick_optimize_no_fix_issue_title">لا يمكن تحسين العناصر ذات استهلاك عالي للطاقة</string>
     <string name="quick_optimize_no_issue">لا توجد مشاكل في البطارية</string>
     <string name="quick_optimize_no_issue_subtitle">كل شي يبدو جيداً</string>
-    <string name="quick_optimize_no_issue_title">تعذر العثور على مشاكل في البطارية</string>
+    <string name="quick_optimize_no_issue_title">لا توجد عناصر ذات استهلاك عالي للطاقة</string>
     <string name="quick_optimize_sub_battery_text">حوالي %s متبقي</string>
     <string name="quick_optimize_sub_summary_text">تم إضافة %s إلى عمر البطارية</string>
     <string name="quick_optimize_sub_summary_with_battery_text">تمت إضافة %1$s، حوالي %2$s متبقي</string>
@@ -4267,7 +4304,7 @@ to join our egg hunt!"</string>
     <string name="settings">إعدادات استخدام البيانات</string>
     <string name="settings_battery_consume_abnormal_summary">تلقي شعارات عندما يتم استنزاف البطارية بسرعة</string>
     <string name="settings_battery_consume_abnormal_title">إشعارات استنزاف البطارية</string>
-    <string name="settings_battery_power_save_suggest_title">توصيات وتحذيرات موفر البطارية</string>
+    <string name="settings_battery_power_save_suggest_title">اقتراحات موفر البطارية</string>
     <string name="settings_camera_subtitle_no">لا توجد بيانات وصفية</string>
     <string name="settings_category_other">إعدادات أخرى</string>
     <string name="settings_category_overheat">الحرارة الزائدة</string>
@@ -4691,6 +4728,8 @@ to join our egg hunt!"</string>
     <string name="storage_dialog_unsupported">"هذا الجهاز لا يدعم هذا النوع من ^1.
 
 إذا أردت استخدام ^1 هذه على الجهاز، يجب عليك إعدادها أولاً."</string>
+    <string name="storage_fbo_clear">تحديث التخزين</string>
+    <string name="storage_fbo_des">وحدة التخزين الداخلية مجزأة، مما يؤدي إلى إبطاء جهازك بشكل كبير. يعمل التخزين على تنظيم ملفاتك في أقل عدد ممكن من الأجزاء، مما يقلل من زمن انتقال الجهاز. سيتم تنفيذ هذا الإجراء تلقائيا عندما لا تستخدم الجهاز.</string>
     <string name="storage_fbo_number_tip">تمت المعالجة في %1$s</string>
     <string name="storage_fbo_tools">تحسين التخزين</string>
     <string name="storage_file_delete_tip">هل ترغب في حذف العناصر المحددة نهائيًا؟ يمكن للنظام إعادة إنشاء بعض هذه العناصر إذا لزم الأمر.</string>
@@ -4782,6 +4821,7 @@ to join our egg hunt!"</string>
     <string name="summary_usb">منع البرمجيات الخبيثة من تنقلها عبر USB</string>
     <string name="summary_virus">قم بإزالة الفيروسات للحفاظ على جهازك أمنا</string>
     <string name="summary_virus_cloudscan">تحميل أسماء التطبيقات وتفاصيلها و فحصها باستخدام تعريفات الفيروسات عبر الإنترنت</string>
+    <string name="summary_virus_scan_model">قم بإزالة هذه المخاطر الأمنية في أسرع وقت ممكن</string>
     <string name="summary_virus_update">احصل على اخر تعريفات الفيروسات تلقائيا</string>
     <string name="summary_xiaomi_roaming">٠.٠١ يوان صيني/ميجابايت لبيانات الهاتف للتجوال.</string>
     <string name="sunday">الأحد</string>
@@ -5235,10 +5275,11 @@ to join our egg hunt!"</string>
     <string name="vb_fps_settings">معدل التحديث التلقائي</string>
     <string name="vb_fps_settings_tips">تعمل هذه الميزة على ضبط معدل تحديث الشاشة وفقًا لمعدل إطار مقطع الفيديو، مما يوفر البطارية ويحسن التشغيل. سيؤدي إيقاف تشغيل التعليقات المنبثقة إلى إيقاف تشغيل ميزة معدل التحديث التلقائي.</string>
     <string name="vb_immerse_voice">صوت غامر</string>
-    <string name="vb_movie_mode">وضع المسرح</string>
-    <string name="vb_movie_power_hint">"يوفر وضع المسرح تجربة مشاهدة غامرة.
+    <string name="vb_movie_mode">وضع السينما</string>
+    <string name="vb_movie_power_hint">"يوفر وضع السينما تجربة مشاهدة غامرة.
 قد يسخن جهازك ويستهلك مزيد من الطاقة."</string>
     <string name="vb_movie_subtitle">يتطلب أداء عالي</string>
+    <string name="vb_mv_style_close_toast">التأثيرات متوقفة</string>
     <string name="vb_power_performance_mode_conflict_toast">لا يمكن استخدام هذه الميزة عند تشغيل وضع الأداء</string>
     <string name="vb_power_save_mode_conflict_toast">لا يمكن استخدام هذه الميزة عند تشغيل موفر البطارية</string>
     <string name="vb_quick_func_auto_bgm">تعرف على الموسيقى</string>
@@ -5248,7 +5289,7 @@ to join our egg hunt!"</string>
     <string name="vb_quick_func_screening">بث</string>
     <string name="vb_settings">الإعدادات</string>
     <string name="vb_super_power_save_mode_conflict_toast">لا يمكن استخدام هذه الميزة عند تشغيل موفر البطارية الأقصى</string>
-    <string name="vb_theatre_switch_guide">انقر للتبديل إلى وضع المسرح</string>
+    <string name="vb_theatre_switch_guide">انقر للتبديل إلى وضع السينما</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">** يتم تطبيق هذه التأثير على الشاشة بأكملها</string>
     <string name="vb_ve_settings_display_style_tips_new">* سيتم تطبيق التأثيرات على منطقة تشغيل الفيديو فقط</string>
@@ -5312,6 +5353,7 @@ to join our egg hunt!"</string>
 سيؤدي تشغيل إحدى هذه الوظائف إلى إيقاف تشغيل الأخرى."</string>
     <string name="vb_video_super_division_tips">"الفيديو غير واضح بما فيه الكفاية؟
  جرب زيادة الدقة!"</string>
+    <string name="vb_vison_dynamic_enhance_close_toast">تحسين الرسوم المتحركة متوقف</string>
     <string name="vb_voice_adjust">صوت المسرح</string>
     <string name="video_repeat">إعادة التشغيل</string>
     <string name="videobox_hangup_tips_content">سيتم قفل الشاشة ولكن سيستمر تشغيل التطبيق في الخلفية عند تشغيل هذه الميزة. اضغط على زر الطاقة لإعادة تشغيل الشاشة. هل تريد تشغيل هذه الميزة الآن؟</string>

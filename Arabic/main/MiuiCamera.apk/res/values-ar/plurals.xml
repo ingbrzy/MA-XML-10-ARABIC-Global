@@ -72,6 +72,14 @@
         <item quantity="few">منذ %d دقائق</item>
         <item quantity="many">منذ %d دقيقة</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-second timer for Night mode</item>
+        <item quantity="zero">%d-second timer for Night mode</item>
+        <item quantity="one">%d-second timer for Night mode</item>
+        <item quantity="two">%d-second timer for Night mode</item>
+        <item quantity="few">%d-second timer for Night mode</item>
+        <item quantity="many">%d-second timer for Night mode</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">تم التركيز البؤري. تم اكتشاف %d وجه</item>
         <item quantity="zero">تم التركيز البؤري. تم اكتشاف %d وجه</item>
@@ -104,6 +112,22 @@
         <item quantity="few">المدة: %d ثواني</item>
         <item quantity="many">المدة: %d ثانية</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="zero">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="one">يمكنك توصيل ما يصل إلى %d كاميرا بنفس الشبكة</item>
+        <item quantity="two">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="few">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+        <item quantity="many">يمكنك توصيل ما يصل إلى %d كاميرات بنفس الشبكة</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="zero">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="one">يمكنك توصيل ما يصل إلى %d شاشة بنفس الشبكة</item>
+        <item quantity="two">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="few">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+        <item quantity="many">يمكنك توصيل ما يصل إلى %d شاشات بنفس الشبكة</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
         <item quantity="zero">يمكنك إنشاء ما يصل إلى %d نسخة في المرة الواحدة.</item>
@@ -128,6 +152,14 @@
         <item quantity="few">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
         <item quantity="many">&lt;Data>هذا الجهاز ساخن الآن.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. تم حفظ التقدم الحالي تلقائيًا.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="zero">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="one">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="two">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="few">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثواني&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+        <item quantity="many">&lt;Data>إصدار الكاميرا الذي تستخدمه غير متوافق مع طراز جهازك.&lt;br>سيتم إغلاق التطبيق بعد &lt;font color=#FFCE16>&lt;b>%1$d ثانية&lt;/b>&lt;/font>. قم بإلغاء تثبيت تحديثات الكاميرا ثم حاول مجددا.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d دقيقة</item>
         <item quantity="zero">%1$d دقيقة</item>
@@ -143,6 +175,14 @@
         <item quantity="two">%1$d ثواني</item>
         <item quantity="few">%1$d ثواني</item>
         <item quantity="many">%1$d ثانية</item>
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="zero">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="one">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="two">تم تشغيل المؤقت (%1$d ثواني). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="few">تم تشغيل المؤقت (%1$d ثواني). سيتم نقل الصور إلى هذا الجهاز.</item>
+        <item quantity="many">تم تشغيل المؤقت (%1$d ثانية). سيتم نقل الصور إلى هذا الجهاز.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -215,6 +255,14 @@
         <item quantity="two">منذ %d دق</item>
         <item quantity="few">منذ %d دق</item>
         <item quantity="many">منذ %d دق</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%dث</item>
+        <item quantity="zero">%dث</item>
+        <item quantity="one">%dث</item>
+        <item quantity="two">%dث</item>
+        <item quantity="few">%dث</item>
+        <item quantity="many">%dث</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">الجهاز ساخن. سيتم إغلاق الكاميرا بعد %d ثانية وسيتم حفظ الصور والفيديوهات تلقائيًا.</item>

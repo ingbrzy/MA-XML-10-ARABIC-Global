@@ -127,12 +127,12 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>
-        <item>مقياس الرسوم المتحركة .5x</item>
-        <item>مقياس الرسوم المتحركة 1x</item>
-        <item>مقياس الرسوم المتحركة 1.5x</item>
-        <item>مقياس الرسوم المتحركة 2x</item>
-        <item>مقياس الرسوم المتحركة 5x</item>
-        <item>مقياس الرسوم المتحركة 10x</item>
+        <item>‏حجم الرسوم المتحركة ‎.5x</item>
+        <item>‏حجم الرسوم المتحركة 1x</item>
+        <item>‏حجم الرسوم المتحركة 1.5x</item>
+        <item>‏حجم الرسوم المتحركة 2x</item>
+        <item>‏حجم الرسوم المتحركة 5x</item>
+        <item>‏حجم الرسوم المتحركة 10x</item>
     </string-array>
     <string-array name="ap_identify">
         <item>الإفتراضي</item>
@@ -148,18 +148,6 @@
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
-    </string-array>
-    <string-array name="app_install_location_entries">
-        <item>مساحة تخزين الجهاز الداخلية</item>
-        <item>‏بطاقة SD قابلة للإزالة</item>
-        <item>ترك القرار للنظام</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>الموقع</item>
-        <item>شخصية</item>
-        <item>المراسلة</item>
-        <item>الوسائط</item>
-        <item>الجهاز</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>الموقع</item>
@@ -296,12 +284,12 @@
         <item>مستوى صوت \"سهولة الاستخدام\"</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>الحد القياسي</item>
-        <item>ليس هناك عمليات بالخلفية</item>
-        <item>عملية واحدة كحد أقصى</item>
-        <item>٢ عمليات كحد أقصى</item>
-        <item>٣ عمليات كحد أقصى</item>
-        <item>٤ عمليات كحد أقصى</item>
+        <item>الحدّ العادي</item>
+        <item>ليست هناك عمليات بالخلفية</item>
+        <item>عملية واحدة بحد أقصى</item>
+        <item>عمليتان بحد أقصى</item>
+        <item>3 عمليات بحد أقصى</item>
+        <item>٤ عمليات بحد أقصى</item>
     </string-array>
     <string-array name="autofill_logging_level_entries">
         <item>إيقاف</item>
@@ -314,17 +302,22 @@
         <item>تم إنشاؤها قبل أكثر من 90 يومًا.</item>
     </string-array>
     <array name="avatar_image_descriptions" />
-    <array name="avatar_images" />
     <string-array name="battery_indicator_style_entries">
         <item>رسم بياني</item>
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة)</item>
         <item>شريط علوي</item>
     </string-array>
+    <string-array name="battery_indicator_style_summaries">
+        <item>رسم بياني</item>
+        <item>نسبة مئوية (في الأيقونة)</item>
+        <item>نسبة مئوية (بجانب الأيقونة)</item>
+        <item>شريط التقدم</item>
+    </string-array>
     <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>١٠٠%</item>
+        <item>٠‏٪</item>
+        <item>٥٠٪</item>
+        <item>٪۱۰۰</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>غير محدد</item>
@@ -354,32 +347,32 @@
         <item>وضع زمن الانتقال البطيء</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>استخدام اختيار النظام (افتراضي)</item>
-        <item>16بت/عينة</item>
-        <item>24 بت/عينة</item>
-        <item>16 بت/عينة</item>
+        <item>استخدام اختيار النظام (تلقائي)</item>
+        <item>16 بت لكل عيّنة</item>
+        <item>24 بت لكل عيّنة</item>
+        <item>32 بت لكل عيّنة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
-        <item>16 بت/عينة</item>
-        <item>24 بت/عينة</item>
-        <item>32 بت/عينة</item>
+        <item>استخدام اختيار النظام (تلقائي)</item>
+        <item>16 بت لكل عيّنة</item>
+        <item>24 بت لكل عيّنة</item>
+        <item>32 بت لكل عيّنة</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>استخدام اختيار النظام (التلقائي)</item>
         <item>أحادي</item>
         <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-        <item>استخدام تفضيلات النظام (افتراضي)</item>
+        <item>استخدام اختيار النظام (تلقائي)</item>
         <item>أحادي</item>
         <item>استريو</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>تحسين جودة الصوت</item>
-        <item>توازن الصوت وجودة الاتصال</item>
-        <item>تحسين جودة الإتصال</item>
-        <item>أفضل جهد (معدل البت التلقائي)</item>
+        <item>جودة متوازنة للصوت والاتصال</item>
+        <item>تحسين جودة الاتصال</item>
+        <item>أفضل جهد (معدل نقل البيانات التكيُّفي)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
         <item>تحسين جوده الصوت (909ك.بت/ث / 990ك.بت/ث)</item>
@@ -411,20 +404,6 @@
         <item>تحسين سرعة الاتصال جوده الصوت (900ك.بت/ث)</item>
         <item>أفضل جهد (معدل البت التلقائي)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>أستخدام إختيار النظام (افتراضي)</item>
-        <item>44.1 كيلوهرتز</item>
-        <item>48.0 كيلوهرتز</item>
-        <item>88.2 كيلوهرتز</item>
-        <item>96.0 كيلوهرتز</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استخدام اختيار النظام (افتراضي)</item>
-        <item>44.1 كيلوهرتز</item>
-        <item>48.0 كيلوهرتز</item>
-        <item>88.2 كيلوهرتز</item>
-        <item>96.0 كيلوهرتز</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>استخدام تفضيلات النظام (افتراضي)</item>
         <item>SBC</item>
@@ -434,6 +413,7 @@
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
         <item>صوت Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -449,6 +429,7 @@
         <item>LDAC</item>
         <item>صوت Qualcomm® aptX™ Adaptive</item>
         <item>صوت Qualcomm® aptX™ TWS+</item>
+        <item>LHDC V5</item>
         <item>LHDC V3/V4</item>
         <item>LHDC V2</item>
         <item>LHDC V1</item>
@@ -461,6 +442,11 @@
         <item>" | نشط (الوسائط)"</item>
         <item>" | نشط (الهاتف)"</item>
     </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>استخدام الإعدادات التلقائية للتطبيق</item>
+        <item>التشغيل على سماعة الأذن الطبية</item>
+        <item>التشغيل على مكبر صوت الهاتف</item>
+    </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp15</item>
         <item>avrcp13</item>
@@ -468,9 +454,9 @@
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (افتراضي)</item>
+        <item>‏AVRCP 1.5 (تلقائي)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -479,7 +465,7 @@
         <item>map14</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (الافتراضي)</item>
+        <item>‏MAP 1.2 (تلقائي)</item>
         <item>MAP 1.3</item>
         <item>MAP 1.4</item>
     </string-array>
@@ -491,18 +477,21 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>دقيقتان</item>
-        <item>٥ دقائق</item>
-        <item>ساعة واحدة</item>
-        <item>بلا مهلة</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
-        <item>معطل</item>
-        <item>تصفية</item>
-        <item>مفعل</item>
-        <item>تصفية العناوين</item>
-        <item>تصفية حزم الوسائط</item>
+        <item>غير مفعّل</item>
+        <item>تمّ تفعيل الفلترة</item>
+        <item>مفعّل</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>اترك عناوين ACL فقط</item>
+        <item>تصفية حزم وسائط A2DP</item>
+        <item>تصفية قناة RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>تعطيل</item>
+        <item>املأ بسلسلة من الأحرف</item>
+        <item>اترك فقط عنوان</item>
+        <item>إزالة بالكامل</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>١ ثانية</item>
@@ -573,306 +562,40 @@
         <item>رمز PIN</item>
         <item>كلمة مرور</item>
     </string-array>
-    <string-array name="city_name">
-        <item>ابيدجان</item>
-        <item>أكرا</item>
-        <item>اديس ابابا</item>
-        <item>الجزائر</item>
-        <item>بلانتاير</item>
-        <item>برازافيل</item>
-        <item>القاهرة</item>
-        <item>الدار البيضاء</item>
-        <item>كوناكري</item>
-        <item>داكار</item>
-        <item>دار السلام</item>
-        <item>جيبوتي</item>
-        <item>فريتاون</item>
-        <item>غابورون</item>
-        <item>هراري</item>
-        <item>جوهانسبرغ</item>
-        <item>كمبالا</item>
-        <item>الخرطوم</item>
-        <item>كيغالي</item>
-        <item>كينشاسا</item>
-        <item>لاغوس</item>
-        <item>ماسيرو</item>
-        <item>مقديشو</item>
-        <item>نيروبي</item>
-        <item>ساو تومي</item>
-        <item>تمبكتو</item>
-        <item>طرابلس</item>
-        <item>تونس</item>
-        <item>أنكوريج</item>
-        <item>مندوزا</item>
-        <item>أروبا</item>
-        <item>أسونسيون</item>
-        <item>باربادوس</item>
-        <item>بليز</item>
-        <item>بوغوتا</item>
-        <item>بوينس آيرس</item>
-        <item>كانكون</item>
-        <item>كراكاس</item>
-        <item>جزر كايمان</item>
-        <item>شيكاغو</item>
-        <item>كوستا ريكا</item>
-        <item>كوراساو</item>
-        <item>دوسن كريك</item>
-        <item>دنفر</item>
-        <item>ديترويت</item>
-        <item>دومينيكا</item>
-        <item>ادمونتون</item>
-        <item>السلفادور</item>
-        <item>فورتاليزا</item>
-        <item>غراند ترك</item>
-        <item>غرينادا</item>
-        <item>غواتيمالا</item>
-        <item>غيانا</item>
-        <item>هاليفاكس</item>
-        <item>هافانا</item>
-        <item>إنديانابوليس</item>
-        <item>كنوكس سيتي</item>
-        <item>بطرسبرغ</item>
-        <item>تل سيتي</item>
-        <item>فيفاي</item>
-        <item>فينسينس</item>
-        <item>ويناماك</item>
-        <item>كينغستون</item>
-        <item>نوسترا سينورا دي لاباز</item>
-        <item>ليما</item>
-        <item>لوس أنجلوس</item>
-        <item>لويفيل</item>
-        <item>ماناغوا</item>
-        <item>مارتينيك</item>
-        <item>ميتلاكاتلا</item>
-        <item>مدينة مكسيكو</item>
-        <item>مونتيري</item>
-        <item>مونتفيدو</item>
-        <item>مونتريال</item>
-        <item>ناساو</item>
-        <item>نيويورك</item>
-        <item>بيولاه</item>
-        <item>نيو سالم</item>
-        <item>بنما</item>
-        <item>فينيكس</item>
-        <item>ميناء أسبانيا</item>
-        <item>بورت أو برانس</item>
-        <item>بورتو ريكو</item>
-        <item>سانتو دومينغو</item>
-        <item>ساو باولو</item>
-        <item>سانت جونز</item>
-        <item>سانت كيتس</item>
-        <item>سانت لوسيا</item>
-        <item>سانت توماس</item>
-        <item>تيخوانا</item>
-        <item>تورونتو</item>
-        <item>فانكوفر</item>
-        <item>وينيبيغ</item>
-        <item>القطب الجنوبي</item>
-        <item>لونغياربين</item>
-        <item>ألماتي</item>
-        <item>عمان</item>
-        <item>أنادير</item>
-        <item>أكتاو</item>
-        <item>بغداد</item>
-        <item>البحرين</item>
-        <item>باكو</item>
-        <item>بانكوك</item>
-        <item>بيروت</item>
-        <item>كلكتا</item>
-        <item>دمشق</item>
-        <item>دكا</item>
-        <item>دبي</item>
-        <item>غزة</item>
-        <item>الخليل</item>
-        <item>هو تشي منه</item>
-        <item>هونغ كونغ</item>
-        <item>جاكرتا</item>
-        <item>القدس</item>
-        <item>كابل</item>
-        <item>كراتشي</item>
-        <item>كاتماندو</item>
-        <item>كوالا لمبور</item>
-        <item>الكويت</item>
-        <item>ماكاو</item>
-        <item>مانيلا</item>
-        <item>مسقط</item>
-        <item>بنوم بنه</item>
-        <item>بيونغيانغ</item>
-        <item>قطر</item>
-        <item>رانغون</item>
-        <item>الرياض</item>
-        <item>سيول</item>
-        <item>شنغهاي</item>
-        <item>سنغافورة</item>
-        <item>تايبيه</item>
-        <item>طهران</item>
-        <item>تل أبيب</item>
-        <item>طوكيو</item>
-        <item>أولانباتور</item>
-        <item>برمودا</item>
-        <item>جزر كايمان</item>
-        <item>الرأس الأخضر</item>
-        <item>ريكيافيك</item>
-        <item>اديلايد</item>
-        <item>بريزبن</item>
-        <item>كانبرا</item>
-        <item>داروين</item>
-        <item>ملبورن</item>
-        <item>نيوساوث ويلز</item>
-        <item>بيرث</item>
-        <item>كوينزلاند</item>
-        <item>سيدني</item>
-        <item>فيكتوريا</item>
-        <item>نيوفنلند</item>
-        <item>ساسكاتشوان</item>
-        <item>جزيرة الفصح</item>
-        <item>أمستردام</item>
-        <item>أندورا</item>
-        <item>أثينا</item>
-        <item>بلفاست</item>
-        <item>بلغراد</item>
-        <item>برلين</item>
-        <item>براتيسلافا</item>
-        <item>بروكسل</item>
-        <item>بوخارست</item>
-        <item>بودابست</item>
-        <item>كيشيناو</item>
-        <item>كوبنهاغن</item>
-        <item>دبلن</item>
-        <item>جبل طارق</item>
-        <item>هلسنكي</item>
-        <item>جزيرة مان</item>
-        <item>إسطنبول</item>
-        <item>لشبونة</item>
-        <item>لندن</item>
-        <item>لوكسمبورغ</item>
-        <item>مدريد</item>
-        <item>مالطة</item>
-        <item>مينسك</item>
-        <item>موناكو</item>
-        <item>موسكو</item>
-        <item>أوسلو</item>
-        <item>باريس</item>
-        <item>براغ</item>
-        <item>ريغا</item>
-        <item>روما</item>
-        <item>سان مارينو</item>
-        <item>سراييفو</item>
-        <item>سيمفروبول</item>
-        <item>سكوبيه</item>
-        <item>صوفيا</item>
-        <item>ستوكهولم</item>
-        <item>تالين</item>
-        <item>مدينة الفاتيكان</item>
-        <item>فيينا</item>
-        <item>فيلنيوس</item>
-        <item>وارسو</item>
-        <item>زغرب</item>
-        <item>زيورخ</item>
-        <item>أنتاناناريفو</item>
-        <item>المالديف</item>
-        <item>موريشيوس</item>
-        <item>أوكلاند</item>
-        <item>فيجي</item>
-        <item>غوام</item>
-        <item>هونولولو</item>
-        <item>كيريتيماتي</item>
-        <item>نوميا</item>
-        <item>ساموا</item>
-        <item>تاهيتي</item>
-        <item>أنتيغوا</item>
-        <item>أوستن</item>
-        <item>بوسطن</item>
-        <item>كالغاري</item>
-        <item>كولومبوس</item>
-        <item>دالاس</item>
-        <item>نوكسفيل</item>
-        <item>ممفيس</item>
-        <item>ميامي</item>
-        <item>منيابولس</item>
-        <item>أوتاوا</item>
-        <item>فيلادلفيا</item>
-        <item>بورتلاند</item>
-        <item>سان دييغو</item>
-        <item>سان فرانسيسكو</item>
-        <item>سالت ليك سيتي</item>
-        <item>سان خوسيه</item>
-        <item>سياتل</item>
-        <item>سانت لويس</item>
-        <item>واشنطن.</item>
-        <item>هيوستن</item>
-        <item>سان أنطونيو</item>
-        <item>جاكسونفيل</item>
-        <item>بالتيمور</item>
-        <item>ناشفيل</item>
-        <item>ميلواكي</item>
-        <item>مدينة أوكلاهوما</item>
-        <item>لاس فيغاس</item>
-        <item>ألباكركي</item>
-        <item>توسون</item>
-        <item>ساكرامنتو</item>
-        <item>أتلانتا</item>
-        <item>كليفلاند</item>
-        <item>نيو أورلينز</item>
-        <item>تامبا</item>
-        <item>بيتسبرغ</item>
-        <item>سينسيناتي</item>
-        <item>ماونتن فيو</item>
-        <item>رينو</item>
-        <item>الدوحة</item>
-        <item>بكين</item>
-        <item>مومباي</item>
-        <item>دلهي</item>
-        <item>أوساكا</item>
-        <item>لاهور</item>
-        <item>صنعاء</item>
-        <item>برشلونة</item>
-        <item>ميونخ</item>
-        <item>ميلانو</item>
-        <item>فرانكفورت</item>
-        <item>هانوي</item>
-        <item>أنقرة</item>
-        <item>بنغالور</item>
-        <item>برازيليا</item>
-        <item>كيب تاون</item>
-        <item>إسلام آباد</item>
-        <item>ريو دي جانيرو</item>
-        <item>آن آربر</item>
-        <item>بولدر</item>
-        <item>كامبريدج</item>
-        <item>كيركلاند</item>
-        <item>ماديسون</item>
-        <item>قوانجو</item>
-        <item>حيدر آباد</item>
-        <item>رستون</item>
-        <item>بيلو هوريزونتي</item>
-        <item>سانتياغو</item>
-        <item>مونروفيا</item>
-        <item>كولومبو</item>
-        <item>تشيهواهوا</item>
-        <item>جورجاون</item>
-        <item>مانشستر</item>
-        <item>كييف</item>
-        <item>سانت بطرسبرغ</item>
-        <item>كراكوف</item>
-        <item>فروتسواف</item>
-        <item>هامبورج</item>
-        <item>أولو</item>
-        <item>حيفا</item>
-        <item>سان خوان</item>
-        <item>تيغوسيغالبا</item>
-        <item>باراماريبو</item>
-        <item>كيتو</item>
-    </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
-        <item>ألوان محسنة</item>
-        <item>الألوان الطبيعية كما تراها العين</item>
-        <item>الألوان المحسنة للمحتوى الرقمي</item>
+        <item>ألوان محسَّنة</item>
+        <item>الألوان الطبيعية تراها العين</item>
+        <item>الألوان المحسَّنة للمحتوى الرقمي</item>
     </string-array>
     <string-array name="color_mode_names">
-        <item>الإهتزاز (إفتراضي)</item>
-        <item>طبيعي</item>
-        <item>قياسي</item>
+        <item>نابض بالحياة (تلقائي)</item>
+        <item>طبيعية</item>
+        <item>عادي</item>
     </string-array>
     <string-array name="color_picker">
         <item>سماوي</item>
@@ -899,12 +622,8 @@
         <item>1</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>غامق</item>
+        <item>داكن</item>
         <item>فاتح</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>آخر ۳۰ يومًا</item>
-        <item>تعيين دورة الاستخدام...</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"اليوم (بيانات الهاتف) "</item>
@@ -925,19 +644,9 @@
         <item>"الشهر السابق: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>متوقف</item>
+        <item>إيقاف</item>
         <item>عرض مناطق تجاوز الحد</item>
-        <item>عرض مناطق عمى الألوان الثنائي</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>مطلقًا</item>
-        <item>١٥ ثانية</item>
-        <item>۳۰ ثانية</item>
-        <item>دقيقة واحدة</item>
-        <item>دقيقتان</item>
-        <item>٥ دقائق</item>
-        <item>۱۰ دقائق</item>
-        <item>۳۰ دقيقة</item>
+        <item>عرض مناطق العجز في رؤية اللونين الأخضر والأحمر</item>
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>عدم التحقّق</item>
@@ -945,16 +654,10 @@
         <item>حالة الشهادة مطلوبة</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>لا شيء</item>
+        <item>بدون</item>
         <item>Logcat</item>
-        <item>نظام (رسومات)</item>
+        <item>‏Systrace (رسومات)</item>
         <item>‏تكدس الاستدعاءات في دالة glGetError</item>
-    </string-array>
-    <string-array name="entries_font_size">
-        <item>صغير</item>
-        <item>الإعداد التلقائي</item>
-        <item>كبير</item>
-        <item>الأكبر</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>هل تريد إعادة تشغيل جهازك لتطبيق هذا الإعداد؟</item>
@@ -980,18 +683,32 @@
         <item>قوي</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>‏عدم استخدام التحقق من HDCP مطلقاً</item>
+        <item>‏عدم استخدام التحقق من HDCP مطلقًا</item>
         <item>‏استخدام التحقق من HDCP لمحتوى DRM فقط</item>
-        <item>‏استخدام التحقق من HDCP دائما</item>
+        <item>‏استخدام التحقق من HDCP دومًا</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>عدم التحقق مطلقًا</item>
         <item>‏التحقق من محتوى DRM فقط</item>
-        <item>التحقق دائماََ</item>
+        <item>التحقق دومًا</item>
     </string-array>
     <string-array name="hide_account_list">
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
+    </string-array>
+    <string-array name="input_method_selector_titles">
+        <item>@string/input_method_selector_show_automatically_title</item>
+        <item>@string/input_method_selector_always_show_title</item>
+        <item>@string/input_method_selector_always_hide_title</item>
+    </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
     </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>عدم ايقاظ الشاشة</item>
@@ -1036,6 +753,43 @@
         <item>بعد ٥ دقائق</item>
         <item>أبداً</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_timeout_selector_list_titles">
         <item>قصيرة</item>
         <item>متوسطة</item>
@@ -1110,6 +864,14 @@
 
 ملاحظة: فقط لـ Ubuntu 8.04!"</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>أعد تثبيت Mi PC Suite</item>
@@ -1126,6 +888,14 @@
         <item>الشبكة بطيئة بسبب ضعف قوة الإشارة</item>
         <item>جار الانتقال…</item>
     </string-array>
+    <string-array name="nfc_notification_mode_summaries">
+        <item>بطاقات الدفع والوصول والمنزل الذكي</item>
+        <item>اقتران بلوتوث واتصال لاسلكي وبطاقات المنزل الذكي</item>
+    </string-array>
+    <string-array name="nfc_notification_mode_titles">
+        <item>كل البطاقات</item>
+        <item>البطاقات التي يتعرف عليها النظام</item>
+    </string-array>
     <string-array name="nfc_payment_favor">
         <item>دائمًا</item>
         <item>إلا إذا كان هناك تطبيق دفع آخر مفتوحًا</item>
@@ -1135,6 +905,11 @@
         <item>1</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
+        <item>رسم بياني</item>
+        <item>نسبة مئوية (في الأيقونة)</item>
+        <item>نسبة مئوية (بجانب الأيقونة)</item>
+    </string-array>
+    <string-array name="notch_battery_indicator_style_summaries">
         <item>رسم بياني</item>
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة)</item>
@@ -1196,18 +971,18 @@
         <item>zw</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>لا شيء</item>
-        <item>٤٨٠ بكسل</item>
-        <item>480p (آمن)</item>
-        <item>٧٢٠ بكسل</item>
-        <item>720p (آمن)</item>
-        <item>١٠٨٠ بكسل</item>
-        <item>1080p (آمن)</item>
+        <item>بدون محاكاة</item>
+        <item>480 بكسل</item>
+        <item>480 بكسل (العرض آمن)</item>
+        <item>720 بكسل</item>
+        <item>720 بكسل (العرض آمن)</item>
+        <item>1080 بكسل</item>
+        <item>1080 بكسل (العرض آمن)</item>
         <item>4K</item>
-        <item>4K (آمن)</item>
-        <item>4K (زيادة دقة)</item>
-        <item>4K (زيادة دقة، آمن)</item>
-        <item>720p، 1080p (شاشة مزدوجة)</item>
+        <item>‏4K (العرض آمن)</item>
+        <item>‏4K (تمت زيادة دقة العرض)</item>
+        <item>‏4K (تمت زيادة الدقة، والعرض آمن)</item>
+        <item>720 بكسل، 1080 بكسل (شاشة مزدوجة)</item>
     </string-array>
     <string-array name="paper_color_values">
         <item>ألوان مشبعة</item>
@@ -1223,6 +998,97 @@
         <item>تقليل ضوضاء الميكرفون الواحد</item>
         <item>تقليل ضوضاء الميكرفون المزدوج</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>أداء</item>
         <item>متوازن</item>
@@ -1284,28 +1150,6 @@
         <item>الملفات</item>
         <item>الملاحظات</item>
     </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>عادية</item>
-        <item>متوسطة</item>
-        <item>منخفضة</item>
-        <item>حرجة</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>ثابتة</item>
-        <item>أهم نشاط</item>
-        <item>مهم (المقدمة)</item>
-        <item>مهم (الخلفية)</item>
-        <item>النسخة الاحتياطية</item>
-        <item>مرتبة عالية</item>
-        <item>الخدمة (قيد التشغيل)</item>
-        <item>الخدمة (إعادة التشغيل)</item>
-        <item>مستلم</item>
-        <item>الرئيسية</item>
-        <item>آخر نشاط</item>
-        <item>تخزين مؤقت (النشاط)</item>
-        <item>تخزين مؤقت (برنامج النشاط)</item>
-        <item>تخزين مؤقت (فارغ)</item>
-    </string-array>
     <string-array name="ram_states">
         <item>عادية</item>
         <item>معتدلة</item>
@@ -1346,6 +1190,11 @@
         <item>مشبع</item>
         <item>قياسية</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -1374,44 +1223,60 @@
         <item>عدم السماح مطلقًا</item>
         <item>السماح دومًا</item>
     </string-array>
-    <string-array name="select_logd_size_lowram_titles">
+    <string-array name="select_gpo_version_summaries">
         <item>متوقف</item>
-        <item>64 كيلوبايت</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="select_gpo_version_titles">
+        <item>متوقف</item>
+        <item>GPO4</item>
+        <item>GPO5</item>
+        <item>GPO6</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>إيقاف</item>
+        <item>٦٤ كيلوبايت</item>
         <item>٢٥٦ كيلوبايت</item>
-        <item>1 ميجابايت</item>
+        <item>1 ميغابايت</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>متوقف</item>
-        <item>٦٤ كيلوبايت لكل سجل تخزين مؤقت</item>
-        <item>٢٥٦ كيلوبايت لكل سجل تخزين مؤقت</item>
-        <item>١ ميجابايت لكل سجل تخزين مؤقت</item>
-        <item>٤ ميجابايت لكل سجل تخزين مؤقت</item>
-        <item>8M per log buffer</item>
+        <item>إيقاف</item>
+        <item>٦٤ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٢٥٦ كيلوبايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>1 ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>٤ ميغابايت لكل ذاكرة تخزين مؤقت للتسجيل</item>
+        <item>8 ميغابايت لكل مخزن مؤقت للتسجيل</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>متوقف</item>
-        <item>64 كيلوبايت</item>
+        <item>إيقاف</item>
+        <item>٦٤ كيلوبايت</item>
         <item>٢٥٦ كيلوبايت</item>
-        <item>1 ميجابايت</item>
-        <item>4 ميجابايت</item>
-        <item>8M</item>
+        <item>1 ميغابايت</item>
+        <item>٤ ميغابايت</item>
+        <item>8 ميغابايت</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>متوقف</item>
+        <item>إيقاف</item>
         <item>كل المخازن المؤقتة للسجلات</item>
-        <item>الكل ماعدا سجلات التخزين المؤقت للراديو</item>
+        <item>كل المخازن المؤقتة باستثناء مخازن سجلات اللاسلكي</item>
         <item>‏التخزين المؤقت لسجل kernel فقط</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>متوقف</item>
+        <item>إيقاف</item>
         <item>الكل</item>
-        <item>الكل ماعدا الراديو</item>
+        <item>الكل بدون اللاسلكي</item>
         <item>‏kernel فقط</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>متوقف</item>
-        <item>إرسم منطقة قصاصة غير مستطيلة بالأزرق</item>
-        <item>إبراز أوامر الرسم التي تم اختبارها بالأخضر</item>
+        <item>إيقاف</item>
+        <item>رسم منطقة قصاصة غير مستطيلة بالأزرق</item>
+        <item>إبراز أوامر رسم تم اختبارها بالأخضر</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>دائماً</item>
@@ -1431,6 +1296,24 @@
         <item>4</item>
         <item>1</item>
     </string-array>
+    <string-array name="smart_device_control_entries">
+        <item>@string/mi_smart_hub_entry_title</item>
+        <item>المنزل الذكي</item>
+        <item>بدون</item>
+    </string-array>
+    <string-array name="smart_device_control_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="smart_home_entries">
+        <item>المنزل الذكي</item>
+        <item>بدون</item>
+    </string-array>
+    <string-array name="smart_home_values">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
     <string-array name="startup_hips_action">
         <item>السماح</item>
         <item>رفض</item>
@@ -1439,7 +1322,7 @@
         <item>1</item>
         <item>0</item>
     </string-array>
-    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>أبدًا</item>
         <item>بعد دقيقة واحدة</item>
         <item>بعد 5 دقائق</item>
@@ -1449,30 +1332,50 @@
         <item>عميق</item>
         <item>مرن</item>
     </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>حاد</item>
+        <item>غامق</item>
+    </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>الشحن</item>
         <item>القيلولة</item>
         <item>وضع توفير الطاقة</item>
         <item>حالة المعالجة</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>١٢-ساعة ١:٠٠م</item>
         <item>٢٤-ساعة ١٣:٠٠</item>
         <item>تلقائي (بحسب لغة النظام)</item>
     </string-array>
-    <string-array name="timezone_filters">
-        <item>أمريكا</item>
-        <item>أوروبا</item>
-        <item>إفريقيا</item>
-        <item>آسيا</item>
-        <item>أستراليا</item>
-        <item>المحيط الهادئ</item>
-        <item>الكل</item>
-    </string-array>
     <string-array name="track_frame_time_entries">
-        <item>متوقف</item>
+        <item>إيقاف</item>
         <item>على الشاشة كأشرطة</item>
-        <item>في adb shell dumpsys gfxinfo</item>
+        <item>في غضون adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="traffic_balance_entries">
         <item>متوقّف</item>
@@ -1490,12 +1393,12 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>
-        <item>مقياس الرسوم المتحركة .5x</item>
-        <item>مقياس الرسوم المتحركة 1x</item>
-        <item>مقياس الرسوم المتحركة 1.5x</item>
-        <item>مقياس الرسوم المتحركة 2x</item>
-        <item>مقياس الرسوم المتحركة 5x</item>
-        <item>مقياس الرسوم المتحركة 10x</item>
+        <item>‏حجم الرسوم المتحركة 5x.</item>
+        <item>‏حجم الرسوم المتحركة 1x</item>
+        <item>‏حجم الرسوم المتحركة 1.5x</item>
+        <item>‏حجم الرسوم المتحركة 2x</item>
+        <item>‏حجم الرسوم المتحركة 5x</item>
+        <item>‏حجم الرسوم المتحركة 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
         <item>ضبط الألوان على أساس المحتوى المعروض</item>
@@ -1508,26 +1411,15 @@
         <item>اللون الأصلي</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>بطيء جدا</item>
-        <item>بطيء</item>
-        <item>عادي</item>
-        <item>سريع</item>
-        <item>أسرع</item>
-        <item>سريع جدا</item>
-        <item>سريع</item>
-        <item>سريع جدا</item>
-        <item>الأسرع</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
+        <item>60%</item>
+        <item>80%</item>
+        <item>100%</item>
+        <item>150%</item>
+        <item>200%</item>
+        <item>250%</item>
+        <item>300%</item>
+        <item>350%</item>
+        <item>400%</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>بطيء جدا</item>
@@ -1536,16 +1428,22 @@
         <item>سريع</item>
         <item>أسرع</item>
     </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>وقت الاستخدام</item>
-        <item>آخر مرة تم استخدامه</item>
-        <item>اسم التطبيق</item>
+    <string-array name="typing_style_entries">
+        <item>قياسي</item>
+        <item>اللمس</item>
+        <item>اللمس مباشرة</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>تحرك يسار</item>
+        <item>تحرك لأسفل</item>
+        <item>تحرك يمين</item>
+        <item>تحرك لأعلى</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>يتم الشحن</item>
-        <item>MTP (بروتوكول نقل الوسائط)</item>
-        <item>PTP (بروتوكول نقل الصور)</item>
-        <item>RNDIS (إتصال USB)</item>
+        <item>الشحن</item>
+        <item>‏بروتوكول نقل الوسائط (MTP)</item>
+        <item>‏بروتوكول نقل الصور (PTP)</item>
+        <item>‏RNDIS ‏(USB إيثرنت)‎</item>
         <item>مصدر الصوت</item>
         <item>MIDI</item>
     </string-array>
@@ -1572,22 +1470,15 @@
     </string-array>
     <string-array name="vpn_states">
         <item>غير متصل</item>
-        <item>جار التهيئة...</item>
+        <item>جارٍ التهيئة...</item>
         <item>جارٍ الاتصال...</item>
         <item>متصلة</item>
         <item>المهلة</item>
         <item>غير ناجح</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>‏شبكة افتراضية خاصة (VPN) عبر PPTP</item>
-        <item>‏شبكة افتراضية خاصة (VPN) لـ L2TP/IPSec مزودة بمفاتيح مشتركة مسبقًا</item>
-        <item>‏شبكة افتراضية خاصة (VPN) لـ L2TP/IPSec مزودة بشهادات</item>
-        <item>‏شبكة افتراضية خاصة (VPN) لـ IPSec مزودة بمفاتيح مشتركة مسبقًا ومصادقة Xauth</item>
-        <item>‏شبكة افتراضية خاصة (VPN) لـ IPSec مزودة بشهادات ومصادقة Xauth</item>
-        <item>‏شبكة افتراضية خاصة (VPN) لـ IPSec مزودة بشهادات ومصادقة مختلطة</item>
-        <item>‏شبكة افتراضية خاصة (VPN) باستخدام بروتوكول IKEv2/IPSec وشهادات ومصادقة اسم المستخدم/كلمة المرور</item>
-        <item>‏شبكة افتراضية خاصة (VPN) باستخدام بروتوكول IKEv2/IPSec ومفاتيح مشتركة مسبقًا</item>
-        <item>‏شبكة افتراضية خاصة (VPN) باستخدام بروتوكول IKEv2/IPSec وشهادات</item>
+    <string-array name="wapi_psk_type">
+        <item>@string/wapi_psk_type_ascii</item>
+        <item>@string/wapi_psk_type_hex</item>
     </string-array>
     <string-array name="wfd_status">
         <item>بدء جلسة…</item>
@@ -1608,6 +1499,14 @@
         <item>نسبة مئوية (في الأيقونة)</item>
         <item>نسبة مئوية (بجانب الأيقونة في مركز الإشعارات)</item>
     </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
+    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_wpa2</item>
@@ -1625,12 +1524,6 @@
         <item>الاتصال تلقائيا</item>
         <item>إتصال يدوي</item>
         <item>اسال دائماً</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>لا</item>
@@ -1660,11 +1553,6 @@
         <item>متوفر</item>
         <item>خارج النطاق</item>
     </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>زر الدفع</item>
-        <item>رقم تعريف شخصي من جهاز نظير</item>
-        <item>رقم التعريف من هذا الجهاز</item>
-    </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>
         <item>GTC</item>
@@ -1684,6 +1572,12 @@
         <item>بلا خادم وكيل</item>
         <item>يدويًا</item>
         <item>إعداد الخادم الوكيل تلقائيًا</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>ضعيفة</item>
@@ -1746,11 +1640,11 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>إيقاف الرسوم المتحركة</item>
-        <item>مقياس الرسوم المتحركة .5x</item>
-        <item>مقياس الرسوم المتحركة 1x</item>
-        <item>مقياس الرسوم المتحركة 1.5x</item>
-        <item>مقياس الرسوم المتحركة 2x</item>
-        <item>مقياس الرسوم المتحركة 5x</item>
-        <item>مقياس الرسوم المتحركة 10x</item>
+        <item>‏حجم الرسوم المتحركة 0.5x</item>
+        <item>‏حجم الرسوم المتحركة 1x</item>
+        <item>‏حجم الرسوم المتحركة 1.5x</item>
+        <item>‏حجم الرسوم المتحركة 2x</item>
+        <item>‏حجم الرسوم المتحركة 5x</item>
+        <item>‏حجم الرسوم المتحركة 10x</item>
     </string-array>
 </resources>

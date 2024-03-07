@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>التنبيه في أقل من دقيقة</item>
-        <item>التنبيه في %1$s</item>
-        <item>التنبيه في %2$s</item>
-        <item>التنبيه في %1$s %2$s</item>
-        <item>التنبيه في %3$s</item>
-        <item>التنبيه في %1$s %3$s</item>
-        <item>التنبيه في %2$s %3$s</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>التنبيه في أقل من %d دقيقة</item>
+        <item>التنبيه بعد %1$s</item>
+        <item>التنبيه بعد %2$s</item>
+        <item>التنبيه بعد %1$s و %2$s</item>
+        <item>التنبيه بعد %3$s</item>
+        <item>التنبيه بعد %1$s و %3$s</item>
+        <item>التنبيه بعد %2$s و %3$s</item>
         <item>التنبيه في %1$s و %2$s و %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
@@ -24,15 +24,15 @@
         <item>من الإثنين إلى الجمعة</item>
         <item>تخصيص</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>سيرن المنبه في أقل من ١ دقيقة.</item>
+    <string-array name="alarm_set_new_array">
+        <item>سيتوقف المنبه بعد %d دقيقة.</item>
         <item>سيرن المنبه بعد %1$s.</item>
         <item>سيرن المنبه بعد %2$s.</item>
         <item>سيرن المنبه بعد %1$s و %2$s.</item>
-        <item>سيرن بعد %3$s.</item>
+        <item>سيرن المنبه بعد %3$s.</item>
         <item>سيرن المنبه بعد %1$s و %3$s.</item>
         <item>سيرن المنبه بعد %2$s و %3$s.</item>
-        <item>سيرن المنبه بعد %1$s %2$s و %3$s.</item>
+        <item>سيرن المنبه بعد %1$s و %2$s و %3$s.</item>
     </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
@@ -133,20 +133,19 @@
         <item>ضعيف جدا</item>
         <item>شديد</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>ابداً</item>
-        <item>١ دقيقة</item>
-        <item>٥ دقائق</item>
-        <item>١٠ دقائق</item>
-        <item>١٥ دقيقة</item>
-        <item>٢٠ دقيقة</item>
-        <item>٢٥ دقيقة</item>
-        <item>٣٠ دقيقة</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>من الاثنين إلى الجمعة</item>
         <item>كل يوم</item>
         <item>أيام العمل</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>من الإثنين إلى الجمعة</item>
+        <item>كل يوم</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>كل يوم</item>
+        <item>من الإثنين إلى الجمعة</item>
+        <item>تخصيص</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>كل يوم</item>
@@ -341,7 +340,7 @@
         <item>صوفيا</item>
         <item>ستوكهولم</item>
         <item>تالين</item>
-        <item>الفاتيكان</item>
+        <item>مدينة الفاتيكان</item>
         <item>فيينا</item>
         <item>فيلنيوس</item>
         <item>وارسو</item>
@@ -441,11 +440,6 @@
         <item>تيغوسيغالبا</item>
         <item>باراماريبو</item>
         <item>كيتو</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>أبيض</item>
-        <item>أسود</item>
-        <item>تلقائي</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>ساحل العاج</item>
@@ -735,40 +729,6 @@
         <item>سورينام</item>
         <item>الإكوادور</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>الأحد</item>
-        <item>الإثنين</item>
-        <item>الثلاثاء</item>
-        <item>الأربعاء</item>
-        <item>الخميس</item>
-        <item>الجمعة</item>
-        <item>السبت</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>في الوقت المحدد</item>
-        <item>قبل ١٥ دقيقة</item>
-        <item>قبل ٣٠ دقيقة</item>
-        <item>قبل ساعة</item>
-        <item>بدون</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>١ دقيقة</item>
-        <item>٥ دقائق</item>
-        <item>١٠ دقائق</item>
-        <item>١٥ دقيقة</item>
-        <item>٢٠ دقيقة</item>
-        <item>٢٥ دقيقة</item>
-        <item>٣٠ دقيقة</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -791,10 +751,5 @@
         <item>لا شيء</item>
         <item>غفوة</item>
         <item>تجاهل</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

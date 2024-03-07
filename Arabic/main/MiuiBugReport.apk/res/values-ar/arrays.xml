@@ -100,7 +100,7 @@
         <item>لا يمكن الوصول إلى الشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>إشارة Wi-Fi ضعيفة. بدل إلى نطاق لاسلكي مختلف أو أعد تشغيل الراوتر.</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -108,7 +108,7 @@
         <item>الوصول إلى الشبكة مقيد. اضبط الوقت على هذا الجهاز وتحقق من إعدادات شبكة الراوتر.</item>
         <item>خطأ في الشبكة. تحقق من إعدادات وكيل HTTP.</item>
         <item>خطأ في الشبكة. تحقق مما إذا كان الراوتر متصل بالإنترنت.</item>
-        <item>لا يمكن الاتصال بالشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
+        <item>لا يمكن الوصول إلى الشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>المصادقة مطلوبة للوصول إلى الشبكة</item>
@@ -120,7 +120,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>خطأ في خادم DNS. تحقق من تكوين DNS الخاص بالراوتر.</item>
         <item>تأخيرات غير طبيعية في خادم DNS. يرجى التحقق من تكوين DNS للراوتر.</item>
-        <item>لا يمكن الوصول إلى البوابة. استخدم شبكة Wi-Fi أخرى أو أعد تشغيل الراوتر.</item>
+        <item>لا يمكن الوصول إلى الشبكة. أعد الاتصال بـ Wi-Fi أو إعادة تشغيل الراوتر.</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>حدث خطأ في خادم DNS. تحقق من تكون DNS للراوتر.</item>

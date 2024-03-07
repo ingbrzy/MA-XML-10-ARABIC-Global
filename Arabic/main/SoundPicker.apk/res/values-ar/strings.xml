@@ -32,6 +32,13 @@
     <string name="add_ringtone_text">إضافة نغمة رنين</string>
     <string name="alarm_sound_default">الصوت التلقائي للمنبّه</string>
     <string name="app_label">الأصوات</string>
+    <string name="call_notification_answer_action">ردّ</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">قطع الاتصال</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
     <string name="delete_ringtone_text">حذف</string>
     <string name="notification_sound_default">الصوت التلقائي للإشعارات</string>
     <string name="ringtone_default">نغمة الرنين التلقائية</string>

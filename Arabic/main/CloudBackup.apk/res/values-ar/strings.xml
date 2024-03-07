@@ -438,6 +438,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">الواجهة الاولى</string>
     <string name="other_device_second_space">الواجهة الثانية</string>
     <string name="page_title_more_backup_options">خدمات النسخ الاحتياطي الإضافية</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">لا يمكن استعادة العناصر في وضع الكمبيوتر. قم بإيقاف وضع الكمبيوتر وحاول مرة أخرى.</string>
     <string name="permission_to_use">تفاصيل الأذونات</string>
     <string name="pm">م</string>
@@ -449,6 +451,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">لا يمكن الاتصال</string>
     <string name="provision_next">التالي</string>
     <string name="provision_restore_data">إستعادة العناصر</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">تخطي</string>
     <string name="query_restore_description">بعد استعادة تخطيط الشاشة الرئيسية وإعداداتها، سيتم إعادة التطبيقات المثبتة مسبقا على جهازك إلى موقعها الأصلي على الشاشة. وسيتم نقل التطبيقات غير الموجودة في النسخة الاحتياطية هذه إلى آخر شاشة رئيسية.</string>
     <string name="query_restore_summary">تم العثور على نسخة Xiaomi Cloud احتياطية لهذا الجهاز. هل ترغب في استعادة تطبيقات الشاشة الرئيسية والإعدادات أو استخدامه كجهاز جديد ومسح نسخة Xiaomi Cloud الاحتياطية السابقة؟</string>

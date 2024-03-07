@@ -304,6 +304,7 @@
     <string name="download">تحميل</string>
     <string name="downloading">جارٍ التحميل</string>
     <string name="early_morning">فجر</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">فارغ</string>
     <string name="empty_content_no_privacy">فارغ</string>
     <string name="empty_content_no_similar_image">لا يوجد صور</string>
@@ -491,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">كل شي يبدو جيداً</string>
     <string name="hints_garbage_handle_item_content">%1$d عنصر، %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">فارغ</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">نادرا ما يستخدم</string>
     <string name="hints_installed_app_near">استخدم مؤخرا</string>
     <string name="hints_installed_app_never">لم يستخدم قط</string>

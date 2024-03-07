@@ -79,6 +79,24 @@
     <string name="cloud_storage_upgrade_text">ترقية</string>
     <string name="cloud_storage_upgrade_text_now">ترقية</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">ترقية مجانية</string>
+    <string name="common_google_play_services_enable_button">تفعيل</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل %1$s ما لم يتم تفعيل خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تفعيل خدمات Google Play</string>
+    <string name="common_google_play_services_install_button">تثبيت</string>
+    <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
+    <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل %1$s ما لم يتم تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_play_services_updating_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي يتم تحديثها حاليًا.</string>
+    <string name="common_google_play_services_wear_update_text">‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا.</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_signin_button_text">تسجل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول عبر Google</string>
     <string name="confirm_save">إبقاء</string>
     <string name="connect_network">إتصل بشبكة Wi-Fi او قم بتركيب بطاقة SIM</string>
     <string name="connect_network_china">Connect to WLAN or insert a SIM card</string>
@@ -164,6 +182,8 @@
     <string name="feedback_custom_hint">صف المشاكل التي تواجهها هنا. إذا قمت بتقديم اقتراحات، فإننا نقدر المزيد من التفاصيل!</string>
     <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_dspt_provision">إذا فقدت الجهاز، يمكنك الانتقال إلى &lt;font color=#0097FF>%s&lt;/font> لتحديد موقعه أو قفله أو أو إعادة ضبط إعدادات المصنع. يمكنك تشغيل أو إيقاف تشغيل هذه الميزة في أي وقت من الإعدادات.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">بتشغيلك ميزة العثور على الجهاز، فإنك توافق على <u><a href="app://com.miui.cloudservice.gdpr.license">سياسة الخصوصية</a></u>. إذا رغبت في سحب موافقتك، فما عليك سوى إيقاف تشغيل الخدمة.</string>
     <string name="find_device_operation_failure_rpc">تعذر أداء العملية بسبب خطأ في RPC.</string>
     <string name="find_device_permissions_footer">انقر على \"منح\" لمنح الأذونات المحددة.</string>

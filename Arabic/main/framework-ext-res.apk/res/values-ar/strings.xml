@@ -519,6 +519,8 @@
     <string name="vigor">حيوية</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">أزهار</string>
+    <string name="wallpaper_gradient_title">منحنيات</string>
     <string name="wallpaper_group_black_white_title">خلفيات أسود وأبيض</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">خلفيات كونية متحركة</string>
@@ -530,6 +532,8 @@
     <string name="wallpaper_group_natural_texture_title">طبيعة</string>
     <string name="wallpaper_group_red_mars_subtitle">وكالة ناسا/ JPL / جامعة أريزونا</string>
     <string name="wallpaper_group_red_mars_title">خلفيات المريخ</string>
+    <string name="wallpaper_neon_title">نيون</string>
+    <string name="wallpaper_overlapping_space_title">الشكل والظل</string>
     <string name="waterdrop_preview">قطرات</string>
     <string name="wifi_assistant_wifi_no_internet">لا يمكن لشبكة Wi-Fi هذه الوصول إلى الإنترنت</string>
     <string name="wifi_assistant_wifi_no_internet_detail">انقر لعرض التفاصيل</string>

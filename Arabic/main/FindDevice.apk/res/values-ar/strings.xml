@@ -7,7 +7,7 @@
     <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
-    <string name="abc_capital_on">تفعيل</string>
+    <string name="abc_capital_on">مفعّلة</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -33,11 +33,17 @@
     <string name="afternoon">بعد الظهر</string>
     <string name="am">ص</string>
     <string name="app_name">العثور على الجهاز</string>
+    <string name="call_notification_answer_action">ردّ</string>
+    <string name="call_notification_answer_video_action">فيديو</string>
+    <string name="call_notification_decline_action">رفض</string>
+    <string name="call_notification_hang_up_action">قطع الاتصال</string>
+    <string name="call_notification_incoming_text">مكالمة واردة</string>
+    <string name="call_notification_ongoing_text">مكالمة جارية</string>
+    <string name="call_notification_screening_text">يتم فحص المكالمة الواردة</string>
     <string name="captcha">رمز الحماية</string>
     <string name="change_find_device_status_failed">تعذر إلغاء القفل. %s.</string>
     <string name="clearable_edittext_clear_description">مسح</string>
     <string name="close">إغلاق</string>
-    <string name="copy">نسخ</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">للوصول إلى رقم الهاتف لتحديد موقع هذا الجهاز عندما لا يكون متصل بالإنترنت</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">لتحديد موقع هذا الجهاز عندما لا يكون متصلاً بالإنترنت</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">لتحديد موقع الجهاز والتبديل إلى وضع الفقدان</string>
@@ -63,15 +69,13 @@
     <string name="eras_ad">بعد الميلاد</string>
     <string name="eras_bc">قبل الميلاد</string>
     <string name="evening">عصر</string>
-    <string name="expand_button_title">إعدادات متقدمة</string>
-    <string name="find_device">العثور على الجهاز</string>
     <string name="find_device_capture_done_notification_content">عرض الصورة على i.mi.com</string>
     <string name="find_device_capture_done_notification_title">ألتقطت ميزة \"البحث عن جهاز\" صورة عن بعد</string>
     <string name="find_device_capture_notification_content">تم تقديم طلب لالتقاط صورة عن بعد باستخدام هذا الجهاز من حسابك</string>
     <string name="find_device_capture_notification_title">ميزة \"العثور على جهاز\" على وشك التقاط صورة</string>
     <string name="find_device_crash">تم إغلاق \"العثور على الجهاز\" بشكل غير متوقع.</string>
     <string name="find_device_error_access_denied">تم رفض الدخول.</string>
-    <string name="find_device_error_account_sys_timeout">"تعذر الاتصال بحساب Mi. "</string>
+    <string name="find_device_error_account_sys_timeout">تعذر الاتصال بحساب Mi.</string>
     <string name="find_device_error_account_unknown_error">خطأ في حساب Mi (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">خطأ في الشبكة.</string>
@@ -89,51 +93,51 @@
     <string name="find_device_telephony_fault">العثور على الجهاز: خطأ هاتفي (%s).</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM، yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM، yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM، yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">aa hh</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_12hour">"h 'ساعة'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_24hour">"H 'ساعة'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'مللي ثانية'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W،D</string>
+    <string name="fmt_weekday_date">W، D</string>
     <string name="fmt_weekday_date_time">W، D T</string>
     <string name="fmt_weekday_date_time_timezone">W، D T z</string>
-    <string name="fmt_weekday_date_timezone">W،D z</string>
+    <string name="fmt_weekday_date_timezone">W، D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
@@ -147,14 +151,15 @@
     <string name="login_extra_steps">التحقق من تسجيل الدخول</string>
     <string name="login_failed">تعذر تسجيل الدخول. %s.</string>
     <string name="midnight">الليل</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">الغاء التحديد</string>
+    <string name="miuix_access_state_desc">محدد</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_select_all">تحديد الكل</string>
     <string name="miuix_appcompat_action_mode_title_empty">تحديد عناصر</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">المزيد</string>
     <string name="miuix_appcompat_cancel_description">إلغاء</string>
     <string name="miuix_appcompat_confirm_description">تأكيد</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">الغاء التحديد</string>
+    <string name="miuix_appcompat_deselect_all">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_deselect_all_description">الغاء تحديد الكل</string>
     <string name="miuix_appcompat_search_action_mode_cancel">إلغاء</string>
     <string name="miuix_appcompat_search_input_description">بحث</string>
@@ -212,8 +217,8 @@
     <string name="morning">الصباح</string>
     <string name="night">المساء</string>
     <string name="noon">الظهر</string>
-    <string name="not_set">لم يتمّ تحديد قيمة.</string>
-    <string name="open_wifi_settings">فتح إعدادات Wi-Fi</string>
+    <string name="open_wifi_settings">Open WLAN settings</string>
+    <string name="open_wifi_settings_china">Open WLAN settings</string>
     <string name="passport_checking_vcode">جارٍ التحقق من كلمة المرور…</string>
     <string name="passport_error_empty_vcode">أدخل رمز التحقق</string>
     <string name="passport_notification_need_unlock_again">حاول إلغاء قفل مرة اخرى</string>
@@ -226,7 +231,6 @@
     <string name="phone_locked_account_email">، البريد الإلكتروني المرتبط: %s</string>
     <string name="phone_locked_account_phone">، رقم الهاتف المرتبط: %s</string>
     <string name="pm">م</string>
-    <string name="preference_copied">تم نسخ \"%1$s\" إلى الحافظة.</string>
     <string name="return_to_call">الرجوع إلى المكالمة</string>
     <string name="saturday">السبت</string>
     <string name="saturday_short">السبت</string>
@@ -236,7 +240,6 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">رمز الحماية لا يمكن أن يكون فارغاً</string>
     <string name="stop_on_empty_password">كلمة المرور لا يمكن ان تكون فارغة</string>
-    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sunday">الأحد</string>
     <string name="sunday_short">الأحد</string>
     <string name="sunday_shortest">الأحد</string>
@@ -296,7 +299,7 @@
     <string name="time_picker_label_hour">س</string>
     <string name="time_picker_label_minute">دق</string>
     <string name="today">اليوم</string>
-    <string name="tomorrow">غداً</string>
+    <string name="tomorrow">غدا</string>
     <string name="tuesday">الثلاثاء</string>
     <string name="tuesday_short">الثلاثاء</string>
     <string name="tuesday_shortest">الثلاثاء</string>
@@ -307,27 +310,31 @@
     <string name="unlock_error_device_id">تعذر الحصول على هوية الجهاز</string>
     <string name="unlock_error_interrupted">توقف</string>
     <string name="unlock_error_network">تعذر الاتصال بالشبكة</string>
-    <string name="unlock_error_passport_sdk_timeout">SDK حساب Mi لا يستجيب</string>
     <string name="unlock_error_rpc">خطأ RPC</string>
     <string name="unlock_error_server">خطأ في الخادم</string>
-    <string name="unlock_error_ssl_hand_shake">تعذر الاتصال بالخادم، جرب ضبط التاريخ والوقت يدويا.</string>
     <string name="unlock_error_unknown">لا يمكن تسجيل الدخول</string>
     <string name="unlock_error_user_name">اسم مستخدم غير صالح</string>
     <string name="unlock_error_wrong_vcode">الرمز الذي أدخلته غير صحيح</string>
-    <string name="unlock_help">"ابق على اتصال بالشبكة
-تأكد بأنك قمت بثبيت بطاقة SIM مفعلة، وأن جهازك متصل بشبكة Wi-Fi صالحة
+    <string name="unlock_help">"Connect to the network.
+Insert a working SIM card and don't connect to invalid WLAN networks.
 
-نسيت كلمة المرور؟
-انتقل إلى id.mi.com واختر \"نسيت كلمة المرور؟\" ثم اتبع التعليمات.
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
 
-لا يمكنك تفعيل الجهاز؟
-انتقل إلى i.mi.com/ss وأرسل طلب لإلغاء قفل الجهاز."</string>
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
+    <string name="unlock_help_china">"Connect to the network.
+Insert a working SIM card and don't connect to invalid WLAN networks.
+
+Forgot password?
+Go to id.mi.com, select \"Forgot password?\", and follow the instructions.
+
+Can't activate device?
+Go to i.mi.com/ss and submit your application to unlock the device."</string>
     <string name="unlock_help_title">مساعدة \"إلغاء قفل\":</string>
     <string name="unlock_number">رمز إلغاء القفل: %s</string>
     <string name="unlock_wrong_captcha">الرمز الذي أدخلته غير صحيح</string>
     <string name="unlocking">جارٍ التفعيل…</string>
-    <string name="v7_preference_off">إيقاف</string>
-    <string name="v7_preference_on">تفعيل</string>
     <string name="verifing_account">جارٍ التحقق من كلمة المرور…</string>
     <string name="verify_password_failed">تعذر التحقق من معرف حساب Mi.%s.</string>
     <string name="wednesday">الأربعاء</string>

@@ -9,12 +9,12 @@
         <item quantity="many">منذ ساعة واحدة</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">منذ ساعة واحدة</item>
-        <item quantity="zero">منذ ساعة واحدة</item>
-        <item quantity="one">منذ ساعة واحدة</item>
-        <item quantity="two">منذ ساعة واحدة</item>
-        <item quantity="few">منذ ساعة واحدة</item>
-        <item quantity="many">منذ ساعة واحدة</item>
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="zero">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+        <item quantity="two">قبل %d ساعات</item>
+        <item quantity="few">قبل %d ساعات</item>
+        <item quantity="many">قبل %d ساعة</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">منذ نصف ساعة</item>
@@ -25,12 +25,12 @@
         <item quantity="many">منذ نصف ساعة</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">خلال ١ ساعة</item>
-        <item quantity="zero">خلال ١ ساعة</item>
-        <item quantity="one">خلال ١ ساعة</item>
-        <item quantity="two">خلال ١ ساعة</item>
-        <item quantity="few">خلال ١ ساعة</item>
-        <item quantity="many">خلال ١ ساعة</item>
+        <item quantity="other">بعد %d ساعة</item>
+        <item quantity="zero">بعد %d ساعة</item>
+        <item quantity="one">بعد %d ساعة</item>
+        <item quantity="two">بعد %d ساعات</item>
+        <item quantity="few">بعد %d ساعات</item>
+        <item quantity="many">بعد %d ساعة</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">في نصف ساعة</item>
@@ -49,12 +49,12 @@
         <item quantity="many">فوراً</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">في %d دق</item>
-        <item quantity="zero">في %d دق</item>
-        <item quantity="one">في دقيقة</item>
-        <item quantity="two">في %d دق</item>
-        <item quantity="few">في %d دق</item>
-        <item quantity="many">في %d دق</item>
+        <item quantity="other">بعد %d دق</item>
+        <item quantity="zero">بعد %d دق</item>
+        <item quantity="one">بعد %d دق</item>
+        <item quantity="two">بعد %d دق</item>
+        <item quantity="few">بعد %d دق</item>
+        <item quantity="many">بعد %d دق</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">الآن</item>
@@ -65,12 +65,12 @@
         <item quantity="many">الآن</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">منذ %d دقيقة</item>
-        <item quantity="zero">منذ %d دقيقة</item>
-        <item quantity="one">منذ دقيقة</item>
-        <item quantity="two">منذ %d دقائق</item>
-        <item quantity="few">منذ %d دقائق</item>
-        <item quantity="many">منذ %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل %d دقائق</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">إضافة هذه العناصر إلى الألبوم الخاص؟</item>
@@ -344,13 +344,13 @@
         <item quantity="few">%d عناصر مُحددة</item>
         <item quantity="many">%d عنصر مُحدد</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
-        <item quantity="zero">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
-        <item quantity="one">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
-        <item quantity="two">حذف %d لقطات متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
-        <item quantity="few">حذف %d لقطات متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
-        <item quantity="many">حذف %d لقطة متتالية من Xiaomi Cloud والأجهزة المتزامنة؟</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">حذف %d لقطة متتالية؟</item>
+        <item quantity="zero">حذف %d لقطة متتالية؟</item>
+        <item quantity="one">حذف %d لقطة متتالية؟</item>
+        <item quantity="two">حذف %d لقطات متتالية؟</item>
+        <item quantity="few">حذف %d لقطات متتالية؟</item>
+        <item quantity="many">حذف %d لقطة متتالية؟</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">حذف %d لقطة متتالية؟</item>
@@ -384,13 +384,13 @@
         <item quantity="few">حذف %d عناصر؟</item>
         <item quantity="many">حذف %d عنصر؟</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="zero">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="one">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="two">حذف %d صور من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="few">حذف %d صور من جميع الأجهزة ومن Mi Cloud؟</item>
-        <item quantity="many">حذف %d صورة من جميع الأجهزة ومن Xiaomi Cloud؟</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">حذف %d عنصر؟</item>
+        <item quantity="zero">حذف %d عنصر؟</item>
+        <item quantity="one">حذف %d عنصر؟</item>
+        <item quantity="two">حذف %d عناصر؟</item>
+        <item quantity="few">حذف %d عناصر؟</item>
+        <item quantity="many">حذف %d عنصر؟</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">حذف %d لقطة متتالية من الجهاز؟</item>
@@ -399,14 +399,6 @@
         <item quantity="two">حذف %d لقطات متتالية من الجهاز؟</item>
         <item quantity="few">حذف %d لقطات متتالية من الجهاز؟</item>
         <item quantity="many">حذف %d لقطة متتالية من الجهاز؟</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="zero">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="one">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="two">حذف %d فيديوهات من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="few">حذف %d فيديوهات من جميع الأجهزة ومن Xiaomi Cloud؟</item>
-        <item quantity="many">حذف %d فيديو من جميع الأجهزة ومن Xiaomi Cloud؟</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">تعذر تنزيل %1$d ملف</item>
@@ -623,14 +615,6 @@
         <item quantity="two">%1$d عناصر</item>
         <item quantity="few">%1$d عناصر</item>
         <item quantity="many">%1$d عنصر</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">تدوير %d درجة</item>
-        <item quantity="zero">تدوير %d درجة</item>
-        <item quantity="one">تدوير %d درجة</item>
-        <item quantity="two">تدوير %d درجات</item>
-        <item quantity="few">تدوير %d درجات</item>
-        <item quantity="many">تدوير %d درجة</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d يوم</item>
@@ -960,6 +944,14 @@
         <item quantity="few">تعذر المشاركة. جارٍ اتمام معالجة %dصورة…</item>
         <item quantity="many">تعذر المشاركة. جارٍ اتمام معالجة %dصور…</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">حدد مايصل إلى %d عنصر لإرساله</item>
+        <item quantity="zero">حدد مايصل إلى %d عنصر لإرساله</item>
+        <item quantity="one">حدد مايصل إلى %d عنصر لإرساله</item>
+        <item quantity="two">حدد مايصل إلى %d عناصر لإرسالها</item>
+        <item quantity="few">حدد مايصل إلى %d عناصر لإرسالها</item>
+        <item quantity="many">حدد مايصل إلى %d عنصر لإرساله</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d فيديو من %1$s</item>
         <item quantity="zero">%2$d فيديو من %1$s</item>
@@ -1153,12 +1145,12 @@
         <item quantity="many">%d فيديو</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
-        <item quantity="zero">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
-        <item quantity="one">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
-        <item quantity="two">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
-        <item quantity="few">لم يتم النسخ احتياطياً لـ %d صور أو فيديوهات</item>
-        <item quantity="many">لم يتم النسخ احتياطياً لـ %d صورة أو فيديو</item>
+        <item quantity="other">%d عنصر غير متزامن</item>
+        <item quantity="zero">%d عنصر غير متزامن</item>
+        <item quantity="one">%d عنصر غير متزامن</item>
+        <item quantity="two">%d عناصر غير متزامنة</item>
+        <item quantity="few">%d عناصر غير متزامنة</item>
+        <item quantity="many">%d عنصر غير متزامن</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">تجاوز %d عنصر الحد الأقصى للنسخ الاحتياطي</item>
@@ -1248,6 +1240,22 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">تعذر نقل %1$d عنصر</item>
+        <item quantity="zero">تعذر نقل %1$d عنصر</item>
+        <item quantity="one">تعذر نقل %1$d عنصر</item>
+        <item quantity="two">تعذر نقل %1$d عناصر</item>
+        <item quantity="few">تعذر نقل %1$d عناصر</item>
+        <item quantity="many">تعذر نقل %1$d عنصر</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">تعذر نقل %1$d عنصر. انتقل إلى i.mi.com لتنزيلها.</item>
+        <item quantity="zero">تعذر نقل %1$d عنصر. انتقل إلى i.mi.com لتنزيله.</item>
+        <item quantity="one">تعذر نقل %1$d عنصر. انتقل إلى i.mi.com لتنزيله.</item>
+        <item quantity="two">تعذر نقل %1$d عناصر. انتقل إلى i.mi.com لتنزيلها.</item>
+        <item quantity="few">تعذر نقل %1$d عناصر. انتقل إلى i.mi.com لتنزيلها.</item>
+        <item quantity="many">تعذر نقل %1$d عنصر. انتقل إلى i.mi.com لتنزيلها.</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">سيتم حذف %d عنصر محدد نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
         <item quantity="zero">سيتم حذف %d عنصر محدد نهائيا من Cloud وجميع الأجهزة المتزامنة. هل ترغب في المتابعة؟</item>
@@ -1295,6 +1303,22 @@
         <item quantity="two">سيتم تخزين العناصر هنا لمدة %1$d أبام (%2$s)</item>
         <item quantity="few">سيتم تخزين العناصر هنا لمدة %1$d أيام (%2$s)</item>
         <item quantity="many">سيتم تخزين العناصر هنا لمدة %1$d يوم (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">يمكنك الاحتفاظ بالعناصر هنا لمدة %1$s يوم</item>
+        <item quantity="zero">يمكنك الاحتفاظ بالعناصر هنا لمدة %1$s يوم</item>
+        <item quantity="one">يمكنك الاحتفاظ بالعناصر هنا لمدة %1$s يوم</item>
+        <item quantity="two">يمكنك الاحتفاظ بالعناصر هنا لمدة %1$s أيام</item>
+        <item quantity="few">يمكنك الاحتفاظ بالعناصر هنا لمدة %1$s أيام</item>
+        <item quantity="many">يمكنك الاحتفاظ بالعناصر هنا لمدة %1$s يوم</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">يتم الاحتفاظ بالعناصر المحذوفة في Cloud لمدة %1$d يوم</item>
+        <item quantity="zero">يتم الاحتفاظ بالعناصر المحذوفة في Cloud لمدة %1$d يوم</item>
+        <item quantity="one">يتم الاحتفاظ بالعناصر المحذوفة في Cloud لمدة %1$d يوم</item>
+        <item quantity="two">يتم الاحتفاظ بالعناصر المحذوفة في Cloud لمدة %1$d أيام</item>
+        <item quantity="few">يتم الاحتفاظ بالعناصر المحذوفة في Cloud لمدة %1$d أيام</item>
+        <item quantity="many">يتم الاحتفاظ بالعناصر المحذوفة في Cloud لمدة %1$d يوم</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">يمكن تخزين العناصر هنا لمدة %1$d يوم. ترقية خطتك لتمديد هذه الفترة.</item>
